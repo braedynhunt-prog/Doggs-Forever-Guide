@@ -25,7 +25,7 @@ At [TAR1692 Golorn Frostbeard] (trade goods, next to the inn), [V] buy 10 Mild S
 [A Hunter] At [TAR1231 Grif Wildheart] (hunter trainer, west side of Kharanos), [T] train (level 6: Arcane Shot, Hunter's Mark) [G45.8,53 Dun Morogh]
 At [TAR1226 Maxan Anvol], [QA99158 Dawn in the Mountains] (Father Gavin - deliver it later, around level 9) [G47.2,52.2 Dun Morogh]
 At [TAR2326 Thamner Pol], learn First Aid [G47.2,52.6 Dun Morogh]
-[OC]|cffffcc00First Aid thread (Forever, same values as Classic - Wowhead Forever spell pages, 29 Oct):|r trainers teach Heavy Linen at 40, Wool at 80, Heavy Wool at 115, Silk at 150; Journeyman at 50 caps at 150, the Expert book (125) at 225. Every First Aid trainer teaches the whole list. Targets: First Aid 20 by the Camping 101 hand-in below, 50 by the Ironforge trip in the next chapter, 75 by Westfall, 100 after the Stockade, 125 before Arathi (chapter 25 buys the Expert book)
+[OC]|cffffcc00First Aid thread (Forever, same values as Classic - Wowhead Forever spell pages, 29 Oct):|r trainers teach Heavy Linen at 40, Wool at 80, Heavy Wool at 115, Silk at 150; Journeyman at 50 caps at 150, the Expert book (125) at 225. Every First Aid trainer teaches the whole list. Targets: First Aid 20 by the Camping 101 hand-in below, 50 by the Ironforge trip in the next chapter, 80 by Westfall, 115 after the Stockade, 125 before Arathi (chapter 25 buys the Expert book)
 At [TAR1241 Tognus Flintfire], [QA98321 Flintfire's Shipment] [G45.2,52 Dun Morogh]
 Across the road at [TAR1872 Tharek Blackstone], [QA400 Tools for Steelgrill] [G46,51.7 Dun Morogh]
 

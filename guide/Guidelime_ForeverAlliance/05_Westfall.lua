@@ -72,7 +72,7 @@ At [TAR253092 Alba Fairmoon], [QT92742] [QT92744] [G52.4,53 Westfall]
 [OC]|cffffffffLevel 18 - South loop|r  -  one big clockwise circuit: Defias fields, Moonbrook, the lighthouse, up Longshore, the north beach, back east
 [OC]Run west then south along the road toward Moonbrook
 Kill 15 [TAR589 Defias Pillager] and 15 [TAR590 Defias Looter] in the fields north of Moonbrook [QC13] [G38.5,60 Westfall]
-Bandage to 75: keep making Heavy Linen from the Defias cloth until First Aid 75, and bank every Wool Cloth for the Wool Bandage at 80 (Goldshire, chapter 10; which cloth the Moonbrook and Deadmines Defias drop is unverified) [G38.5,60 Westfall]
+Bandage to 80: keep making Heavy Linen from the Defias cloth until First Aid 80 (green from 75, so the last few points are slow), and bank every Wool Cloth for the Wool Bandage at 80 (Goldshire, chapter 10; which cloth the Moonbrook and Deadmines Defias drop is unverified) [G38.5,60 Westfall]
 [O]|cff66ff66Ongoing:|r loot Red Leather Bandanas from every Defias for 15 [QC153]
 [OC]Moonbrook is Defias town - level 15-18 humanoids, pull carefully
 Go into the big building at the south end of Moonbrook (the Deadmines entrance) and down into the mine tunnels; loot 8 Suspicious Industrial Supplies crates in the first caves [QC92747] [G42.5,71.5 Westfall]
