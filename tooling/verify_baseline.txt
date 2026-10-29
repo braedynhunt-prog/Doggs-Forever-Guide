@@ -1,0 +1,42 @@
+questnpc  01a_ColdridgeValley.lua:67  [QT94374] Call of Earth: no [TAR] on the line; DB finisher: 5891 Minor Manifestation of Earth
+questnpc  01a_ColdridgeValley.lua:67  [QA94375] Call of Earth: no [TAR] on the line; DB starter: 5891 Minor Manifestation of Earth, 257446 Teo Hammerstorm
+questnpc  01b_DunMorogh.lua:86  [QT310] Bitter Rivals: finisher in the DB is object 270 Unguarded Thunder Ale Barrel; line has [TAR1373 Jarven Thunderbrew] (fine if the TAR is just the nearby NPC)
+questnpc  01b_DunMorogh.lua:86  [QA311] Return to Marleth: starter in the DB is object 270 Unguarded Thunder Ale Barrel; line has [TAR1373 Jarven Thunderbrew] (fine if the TAR is just the nearby NPC)
+questnpc  03_HallOfThanes.lua:32  [QA96395] An Ancient Grudge: DB lists no starter at all; line has [TAR265002 Ghostly Attendant]
+questnpc  03_HallOfThanes.lua:39  [QT96395] An Ancient Grudge: DB lists no finisher at all; line has [TAR265002 Ghostly Attendant]
+questnpc  08_RuinsOfLordaeron.lua:39  [QA95250] Abominable Creatures: DB lists no starter at all; line has [TAR265701 Captain Truman]
+questnpc  08_RuinsOfLordaeron.lua:51  [QT95250] Abominable Creatures: DB lists no finisher at all; line has [TAR265701 Captain Truman]
+questnpc  09_LochModanMenethil.lua:100  [QT290] Lifting the Curse: finisher in the DB is object 112948 Intrepid's Locked Strongbox; line has [TAR1160 Captain Halyndor] (fine if the TAR is just the nearby NPC)
+questnpc  09_LochModanMenethil.lua:100  [QA292] The Eye of Paleth: starter in the DB is object 112948 Intrepid's Locked Strongbox; line has [TAR1160 Captain Halyndor] (fine if the TAR is just the nearby NPC)
+questnpc  10_Redridge2.lua:59  [QA249] Morganth: no [TAR] on the line; DB starter: 313 Theocritus
+questnpc  11_Darkshore.lua:77  [QA98042] It's All Fun and Games Until...: starter in the DB is object 12666 Twilight Tome; line has [TAR2338 Twilight Disciple] (fine if the TAR is just the nearby NPC)
+questnpc  11_Darkshore.lua:106  [QA98028] Baron Marinous: starter in the DB is item 279275; line has [TAR270294 Baron Marinous] (fine if the TAR is just the nearby NPC)
+questnpc  14_Duskwood.lua:76  [QA98447] The Valor Family: quest not in the Forever DB (not checkable)
+questnpc  16_RedridgeEastvale.lua:69  [QA178] Theocritus' Retrieval: starter in the DB is item 1962; line has [TAR313 Theocritus] (fine if the TAR is just the nearby NPC)
+questnpc  17_Duskwood2.lua:73  [QA96137] Ira's Dagger: no [TAR] on the line; DB starter: 6176 Bath'rah the Windwatcher
+questnpc  17_Duskwood2.lua:86  [QT98447] The Valor Family: quest not in the Forever DB (not checkable)
+questnpc  22_ExcavationSite.lua:45  [QT95647] Lost in the Thicket Things: DB lists no finisher at all; line has [TAR262681 Ardin Grassman]
+questnpc  22_ExcavationSite.lua:45  [QA95809] Heartwoven: DB lists no starter at all; line has [TAR262681 Ardin Grassman]
+questnpc  22_ExcavationSite.lua:59  [QA95810] Lost Relic Carry: starter in the DB is item 270865; line has [TAR1077 Prospector Whelgar] (fine if the TAR is just the nearby NPC)
+questnpc  24_Gnomeregan.lua:66  [QA2904] A Fine Mess: no [TAR] on the line; DB starter: 7850 Kernobee
+questnpc  26_RazorfenKraul.lua:73  [QT1144] Willix the Importer: no [TAR] on the line; DB finisher: 4508 Willix the Importer
+tar  05_Westfall.lua:47  Defias Trapper [G44.0,33.0] is 4.6 from the nearest spawn 46.4,36.9
+tar  05_Westfall.lua:79  Odd Child (249713) has no spawn in Westfall (no spawn data in the DB at all)
+tar  05_Westfall.lua:86  Murloc Oracle [G28.0,65.0] is 3.8 from the nearest spawn 27.7,68.8
+tar  06_Redridge.lua:41  Redridge Mongrel [G24.9,76.0] is 5.2 from the nearest spawn 25.3,81.2
+tar  06_Redridge.lua:53  Redridge Brute [G23.9,33.0] is 4.9 from the nearest spawn 19.0,32.6
+tar  06_Redridge.lua:56  Murloc Flesheater [G46.9,61.0] is 3.4 from the nearest spawn 50.2,61.7
+tar  08_RuinsOfLordaeron.lua:9  Maris Granger [G59.2,37.8] is 27.6 from the nearest spawn 72.1,62.2 (secondary TAR, 15-unit limit)
+tar  08_RuinsOfLordaeron.lua:56  Lady Dena Kennedy (15991) has no spawn in Stormwind City (no spawn data in the DB at all)
+tar  17_Duskwood2.lua:27  Rabid Dire Wolf [G27.7,31.1] is 5.7 from the nearest spawn 33.1,29.4
+tar  22_ExcavationSite.lua:74  Minor Manifestation of Water (5895) has no spawn in Westfall (spawns in zones ['130'])
+gates  01b_DunMorogh.lua:15  Camping 101: Cooking needs Cooking 1 but the route has not learned Cooking yet
+gates  01b_DunMorogh.lua:16  Camping 101: Fishing needs Fishing 1 but the route has not learned Fishing yet [conditional step]
+gates  01b_DunMorogh.lua:16  Camping 101: First Aid needs First Aid 1 but the route has not learned First Aid yet [conditional step]
+gates  02_LochModan.lua:60  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 20 so far (last target: Fishing 20 at 01b_DunMorogh.lua:62) [conditional step] [gate value unverified on Forever]
+gates  02_LochModan.lua:61  Journeyman First Aid needs First Aid 50; the route has only asked for First Aid 1 so far (no First Aid target stated yet) [conditional step] [gate value unverified on Forever]
+gates  03_HallOfThanes.lua:16  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 40 so far (last target: Fishing 40 at 02_LochModan.lua:74) [conditional step] [gate value unverified on Forever]
+gates  03_HallOfThanes.lua:17  Journeyman First Aid needs First Aid 50; the route has only asked for First Aid 1 so far (no First Aid target stated yet) [conditional step] [gate value unverified on Forever]
+gates  09_LochModanMenethil.lua:102  Recipe: Crocolisk Gumbo needs Cooking 120; the route has only asked for Cooking 110 so far (last target: Cooking 110 at 02_LochModan.lua:119) [conditional step]
+gates  10_Redridge2.lua:17  Journeyman First Aid needs First Aid 50; the route has only asked for First Aid 1 so far (no First Aid target stated yet) [conditional step] [gate value unverified on Forever]
+gates  23_Hillsbrad.lua:42  near Cooking 175 - cook your banked Raw Mithril Head Trout needs Cooking 175; the route has only asked for Cooking 170 so far (last target: Cooking 170 at 18_Wetlands1.lua:63)
