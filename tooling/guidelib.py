@@ -153,8 +153,10 @@ def chapter_band(txt):
     return (int(m.group(1)), int(m.group(2))) if m else (1, 60)
 
 def steps(txt):
-    """(line number, line) for every non-blank line of the body; numbering matches the file."""
-    for ln, line in enumerate(body(txt).split('\n'), 2):
+    """(line number, line) for every non-blank line of the body; numbering matches the file.
+    The body starts with the remainder of line 1 (after '[['), so element 0 is line 1 - check_guide.py enumerated
+    from 2 until 28 Oct 2026 and reported every line one too high."""
+    for ln, line in enumerate(body(txt).split('\n'), 1):
         if line.strip(): yield ln, line
 
 def race_of(line, ga):
