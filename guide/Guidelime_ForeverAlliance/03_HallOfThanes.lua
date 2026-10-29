@@ -14,7 +14,7 @@ In the Hall of Explorers at [TAR1356 Prospector Stormpike], [QT301] [QA302 Powde
 [OC]|cffffcc00Camping 101 hand-ins:|r if Skinning is 20+, [TAR6291 Balthus Stoneflayer] (Skinning trainer, 39.9,32.5) completes Camping 101: Skinning and teaches the Camp Chair; Leatherworking 20+ = Gretta Finespindle next to him (Camp Tent = rested XP); Mining 20+ = Yarr Hammerstone in Kharanos (Lodestone); First Aid 20+ = Thamner Pol in Kharanos (First Aid Kit). If First Aid or Cooking is already 50, Nissa Firestone (55.1,58.3) and Daryl Riknussun (60.1,36.4) teach Journeyman.
 At [TAR5159 Daryl Riknussun] (east side of the Great Forge), learn Journeyman Cooking NOW if you still have not - this is your last Ironforge stop before Marek's Crocolisk Steak recipe (Cooking 80) in the 16-17 chapter, and Apprentice stops at 75. Short of 50? Cook your boar meat, ribs and Longjaw at his fire until you are there [G60.1,36.4 Ironforge]
 [O]In the Forlorn Cavern at [TAR5161 Grimnur Stonebrand], learn Journeyman Fishing if Fishing is 50 [G48.1,6.9 Ironforge]
-[O]At [TAR5150 Nissa Firestone], learn Journeyman First Aid and Wool Bandage if you were short of 50 in chapter 2 [G55.1,58.3 Ironforge]
+[O]At [TAR5150 Nissa Firestone], learn Journeyman First Aid (and Heavy Linen) if you were short of 50 in chapter 2 [G55.1,58.3 Ironforge]
 
 
 [OC]|cffffcc00Pre-dungeon quest log:|r

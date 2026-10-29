@@ -20,7 +20,7 @@ At [TAR270637 Howin Kindfeather], [QA98300 Word to Ironforge] (a missive for Kin
 
 [OC]|cffffffffAngerfang Encampment|r  -  the largest Dragonmaw orc camp (45.7,45.4 on warcraft.wiki.gg), 5 units south-west of Howin: level 26-30, non-elite except the rare Battlemaster
 Kill [TAR1034 Dragonmaw Raider] and the Swamprunners and Centurions for 8 Dragonmaw War Banners [QC464] [G45.6,45 Wetlands]
-Bandage to 125: Silk Bandages (1 Silk Cloth each) from the Dragonmaw and Dark Iron cloth until First Aid 125 - Heavy Silk (2 Silk) opens there on Forever, and 125 is what the Expert book needs in chapter 25 (whether a trainer or a manual teaches Silk and Heavy Silk is unverified) [G45.6,45 Wetlands]
+Bandage to 125: Heavy Wool Bandages from the Dragonmaw and Dark Iron wool until First Aid 125, which is what the Expert book in chapter 25 needs [G45.6,45 Wetlands]
 [OC]War Banners is |cff66ff66normal|r (TUGs takes them in one pass through the camp; the drop rate is not in the DB). The Dragonmaw Battlemaster (30 rare elite, ~1,000 HP in the Classic DB) walks the middle at 45.3,44.4 and drops banners too: pull him with both of you or leave him
 Click the four Attack Plans lying about the camp (Menethil Harbor, Thelsamar, Southshore, Ironforge) to burn them [QC98221] [G47.4,45.8 Wetlands]
 [OC]The DB has no spawn for the plans, so no coordinates: they lie inside the camp around the catapults (47.4,47.0). Leave the catapults alone for now - Nek'rosh's Gambit needs War Banners handed in at Menethil first (the last block of the chapter)

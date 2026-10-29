@@ -34,3 +34,5 @@ gates  01b_DunMorogh.lua:16  Camping 101: First Aid needs First Aid 1 but the ro
 gates  02_LochModan.lua:61  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 20 so far (last target: Fishing 20 at 01b_DunMorogh.lua:63) [conditional step] [gate value unverified on Forever]
 gates  03_HallOfThanes.lua:16  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 40 so far (last target: Fishing 40 at 02_LochModan.lua:75) [conditional step] [gate value unverified on Forever]
 gates  09_LochModanMenethil.lua:102  Recipe: Crocolisk Gumbo needs Cooking 120; the route has only asked for Cooking 110 so far (last target: Cooking 110 at 02_LochModan.lua:120) [conditional step]
+gates  10_Redridge2.lua:17  learn Wool Bandage needs First Aid 80; the route has only asked for First Aid 75 so far (last target: First Aid 75 at 05_Westfall.lua:75) [conditional step]
+gates  18_Wetlands1.lua:28  learn Heavy Wool Bandage needs First Aid 115; the route has only asked for First Aid 100 so far (last target: First Aid 100 at 16_RedridgeEastvale.lua:32)
