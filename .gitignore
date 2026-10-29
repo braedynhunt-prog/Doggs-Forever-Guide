@@ -10,7 +10,6 @@ desktop.ini
 
 # Staging artifacts (see docs/audit-2026-10-27.md: the tar.gz can be deleted)
 _to_delete/
-New Text Document.txt
 
 # Wowhead scraper page cache: run.bat deletes and refetches it, scrape.py rebuilds data/ from it
 raw/
