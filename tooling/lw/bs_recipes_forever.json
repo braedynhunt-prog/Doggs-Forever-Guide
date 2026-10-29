@@ -1,0 +1,17573 @@
+{
+"spells": [
+{
+"id": 2018,
+"name": "Blacksmithing",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2660,
+"name": "Rough Sharpening Stone",
+"learnedat": 15,
+"colors": [
+0,
+15,
+35,
+55
+],
+"reagents": [
+[
+2835,
+1
+]
+],
+"creates": [
+2862,
+1,
+1
+],
+"status": "unchanged"
+},
+{
+"id": 2661,
+"name": "Copper Chain Belt",
+"learnedat": 30,
+"colors": [
+30,
+70,
+90,
+110
+],
+"reagents": [
+[
+2840,
+6
+]
+],
+"creates": [
+2851,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2662,
+"name": "Copper Chain Pants",
+"learnedat": 15,
+"colors": [
+15,
+50,
+70,
+90
+],
+"reagents": [
+[
+2840,
+4
+]
+],
+"creates": [
+2852,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2663,
+"name": "Copper Bracers",
+"learnedat": 20,
+"colors": [
+0,
+20,
+40,
+60
+],
+"reagents": [
+[
+2840,
+2
+]
+],
+"creates": [
+2853,
+1,
+1
+],
+"status": "unchanged"
+},
+{
+"id": 2664,
+"name": "Runed Copper Bracers",
+"learnedat": 65,
+"colors": [
+65,
+90,
+102,
+115
+],
+"reagents": [
+[
+2840,
+10
+],
+[
+3470,
+3
+]
+],
+"creates": [
+2854,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2665,
+"name": "Coarse Sharpening Stone",
+"learnedat": 40,
+"colors": [
+40,
+40,
+47,
+55
+],
+"reagents": [
+[
+2836,
+1
+]
+],
+"creates": [
+2863,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2666,
+"name": "Runed Copper Belt",
+"learnedat": 45,
+"colors": [
+45,
+85,
+105,
+125
+],
+"reagents": [
+[
+2840,
+10
+]
+],
+"creates": [
+2857,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2667,
+"name": "Runed Copper Breastplate",
+"learnedat": 80,
+"colors": [
+80,
+95,
+115,
+135
+],
+"reagents": [
+[
+2840,
+12
+],
+[
+1210,
+1
+],
+[
+3470,
+2
+]
+],
+"creates": [
+2864,
+1,
+1
+],
+"source": [
+2,
+16,
+21
+],
+"status": "unchanged"
+},
+{
+"id": 2668,
+"name": "Rough Bronze Leggings",
+"learnedat": 80,
+"colors": [
+80,
+120,
+135,
+150
+],
+"reagents": [
+[
+2841,
+6
+]
+],
+"creates": [
+2865,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2670,
+"name": "Rough Bronze Cuirass",
+"learnedat": 80,
+"colors": [
+80,
+120,
+135,
+150
+],
+"reagents": [
+[
+2841,
+7
+]
+],
+"creates": [
+2866,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2672,
+"name": "Patterned Bronze Bracers",
+"learnedat": 95,
+"colors": [
+95,
+125,
+140,
+155
+],
+"reagents": [
+[
+2841,
+5
+],
+[
+3478,
+2
+]
+],
+"creates": [
+2868,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2673,
+"name": "Silvered Bronze Breastplate",
+"learnedat": 130,
+"colors": [
+130,
+135,
+150,
+165
+],
+"reagents": [
+[
+2841,
+10
+],
+[
+2842,
+2
+],
+[
+3478,
+2
+],
+[
+1705,
+1
+]
+],
+"creates": [
+2869,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 2674,
+"name": "Heavy Sharpening Stone",
+"learnedat": 100,
+"colors": [
+100,
+100,
+107,
+115
+],
+"reagents": [
+[
+2838,
+1
+]
+],
+"creates": [
+2871,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2675,
+"name": "Shining Silver Breastplate",
+"learnedat": 120,
+"colors": [
+120,
+150,
+165,
+180
+],
+"reagents": [
+[
+2841,
+20
+],
+[
+1206,
+2
+],
+[
+1705,
+2
+],
+[
+5500,
+2
+],
+[
+2842,
+4
+]
+],
+"creates": [
+2870,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2737,
+"name": "Copper Mace",
+"learnedat": 15,
+"colors": [
+15,
+55,
+75,
+95
+],
+"reagents": [
+[
+2840,
+6
+],
+[
+2880,
+1
+],
+[
+2589,
+2
+]
+],
+"creates": [
+2844,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2738,
+"name": "Copper Axe",
+"learnedat": 20,
+"colors": [
+20,
+60,
+80,
+100
+],
+"reagents": [
+[
+2840,
+6
+],
+[
+2880,
+1
+],
+[
+2589,
+2
+]
+],
+"creates": [
+2845,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2739,
+"name": "Copper Shortsword",
+"learnedat": 25,
+"colors": [
+25,
+65,
+85,
+105
+],
+"reagents": [
+[
+2840,
+6
+],
+[
+2880,
+1
+],
+[
+2589,
+2
+]
+],
+"creates": [
+2847,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2740,
+"name": "Bronze Mace",
+"learnedat": 85,
+"colors": [
+85,
+115,
+130,
+145
+],
+"reagents": [
+[
+2841,
+6
+],
+[
+2880,
+4
+],
+[
+2319,
+1
+]
+],
+"creates": [
+2848,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2741,
+"name": "Bronze Axe",
+"learnedat": 90,
+"colors": [
+90,
+120,
+135,
+150
+],
+"reagents": [
+[
+2841,
+7
+],
+[
+2880,
+4
+],
+[
+2319,
+1
+]
+],
+"creates": [
+2849,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 2742,
+"name": "Bronze Shortsword",
+"learnedat": 95,
+"colors": [
+95,
+125,
+140,
+155
+],
+"reagents": [
+[
+2841,
+5
+],
+[
+2880,
+4
+],
+[
+2319,
+2
+]
+],
+"creates": [
+2850,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3100,
+"name": "Blacksmithing",
+"learnedat": 50,
+"colors": null,
+"reagents": null,
+"creates": null,
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3115,
+"name": "Rough Weightstone",
+"learnedat": 15,
+"colors": [
+0,
+15,
+35,
+55
+],
+"reagents": [
+[
+2835,
+1
+]
+],
+"creates": [
+3239,
+1,
+1
+],
+"status": "unchanged"
+},
+{
+"id": 3116,
+"name": "Coarse Weightstone",
+"learnedat": 40,
+"colors": [
+40,
+40,
+47,
+55
+],
+"reagents": [
+[
+2836,
+1
+]
+],
+"creates": [
+3240,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3117,
+"name": "Heavy Weightstone",
+"learnedat": 100,
+"colors": [
+100,
+100,
+107,
+115
+],
+"reagents": [
+[
+2838,
+1
+]
+],
+"creates": [
+3241,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3292,
+"name": "Heavy Copper Broadsword",
+"learnedat": 70,
+"colors": [
+70,
+110,
+130,
+150
+],
+"reagents": [
+[
+2840,
+14
+],
+[
+2880,
+2
+],
+[
+818,
+2
+],
+[
+2319,
+2
+]
+],
+"creates": [
+3487,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3293,
+"name": "Copper Battle Axe",
+"learnedat": 30,
+"colors": [
+30,
+70,
+90,
+110
+],
+"reagents": [
+[
+2840,
+12
+],
+[
+2880,
+2
+],
+[
+774,
+2
+],
+[
+3470,
+2
+],
+[
+2318,
+2
+]
+],
+"creates": [
+3488,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3294,
+"name": "Thick War Axe",
+"learnedat": 45,
+"colors": [
+45,
+85,
+105,
+125
+],
+"reagents": [
+[
+2840,
+10
+],
+[
+2880,
+2
+],
+[
+2842,
+2
+],
+[
+3470,
+2
+],
+[
+2318,
+2
+]
+],
+"creates": [
+3489,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3295,
+"name": "Deadly Bronze Poniard",
+"learnedat": 125,
+"colors": [
+125,
+130,
+145,
+160
+],
+"reagents": [
+[
+2841,
+4
+],
+[
+3466,
+1
+],
+[
+2459,
+1
+],
+[
+1210,
+2
+],
+[
+3478,
+2
+],
+[
+2319,
+2
+]
+],
+"creates": [
+3490,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"status": "unchanged"
+},
+{
+"id": 3296,
+"name": "Heavy Bronze Mace",
+"learnedat": 105,
+"colors": [
+105,
+135,
+150,
+165
+],
+"reagents": [
+[
+2841,
+8
+],
+[
+3466,
+1
+],
+[
+1206,
+1
+],
+[
+1210,
+1
+],
+[
+3478,
+2
+],
+[
+2319,
+2
+]
+],
+"creates": [
+3491,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3297,
+"name": "Mighty Iron Hammer",
+"learnedat": 145,
+"colors": [
+145,
+150,
+165,
+180
+],
+"reagents": [
+[
+3575,
+6
+],
+[
+3466,
+2
+],
+[
+3391,
+1
+],
+[
+1705,
+2
+],
+[
+3478,
+2
+],
+[
+2319,
+2
+]
+],
+"creates": [
+3492,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 3319,
+"name": "Copper Chain Boots",
+"learnedat": 20,
+"colors": [
+20,
+60,
+80,
+100
+],
+"reagents": [
+[
+2840,
+8
+]
+],
+"creates": [
+3469,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3320,
+"name": "Rough Grinding Stone",
+"learnedat": 25,
+"colors": [
+25,
+45,
+65,
+85
+],
+"reagents": [
+[
+2835,
+2
+]
+],
+"creates": [
+3470,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3321,
+"name": "Copper Chain Vest",
+"learnedat": 30,
+"colors": [
+30,
+70,
+90,
+110
+],
+"reagents": [
+[
+2840,
+8
+],
+[
+774,
+1
+],
+[
+3470,
+2
+]
+],
+"creates": [
+3471,
+1,
+1
+],
+"source": [
+2,
+4,
+16,
+21
+],
+"status": "unchanged"
+},
+{
+"id": 3323,
+"name": "Runed Copper Gauntlets",
+"learnedat": 35,
+"colors": [
+35,
+75,
+95,
+115
+],
+"reagents": [
+[
+2840,
+8
+],
+[
+3470,
+2
+]
+],
+"creates": [
+3472,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3324,
+"name": "Runed Copper Pants",
+"learnedat": 35,
+"colors": [
+35,
+75,
+95,
+115
+],
+"reagents": [
+[
+2840,
+8
+],
+[
+2320,
+3
+],
+[
+3470,
+3
+]
+],
+"creates": [
+3473,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3325,
+"name": "Gemmed Copper Gauntlets",
+"learnedat": 35,
+"colors": [
+35,
+75,
+95,
+115
+],
+"reagents": [
+[
+2840,
+8
+],
+[
+818,
+1
+],
+[
+774,
+1
+]
+],
+"creates": [
+3474,
+1,
+1
+],
+"source": [
+2,
+16,
+21
+],
+"status": "unchanged"
+},
+{
+"id": 3326,
+"name": "Coarse Grinding Stone",
+"learnedat": 50,
+"colors": [
+50,
+50,
+62,
+75
+],
+"reagents": [
+[
+2836,
+2
+]
+],
+"creates": [
+3478,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3328,
+"name": "Rough Bronze Shoulders",
+"learnedat": 85,
+"colors": [
+85,
+115,
+130,
+145
+],
+"reagents": [
+[
+2841,
+5
+],
+[
+1210,
+1
+],
+[
+3478,
+1
+]
+],
+"creates": [
+3480,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3330,
+"name": "Silvered Bronze Shoulders",
+"learnedat": 125,
+"colors": [
+125,
+130,
+145,
+160
+],
+"reagents": [
+[
+2841,
+8
+],
+[
+2842,
+2
+],
+[
+3478,
+2
+]
+],
+"creates": [
+3481,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"status": "unchanged"
+},
+{
+"id": 3331,
+"name": "Silvered Bronze Boots",
+"learnedat": 105,
+"colors": [
+105,
+135,
+150,
+165
+],
+"reagents": [
+[
+2841,
+6
+],
+[
+2842,
+1
+],
+[
+3478,
+2
+]
+],
+"creates": [
+3482,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3333,
+"name": "Silvered Bronze Gauntlets",
+"learnedat": 110,
+"colors": [
+110,
+140,
+155,
+170
+],
+"reagents": [
+[
+2841,
+8
+],
+[
+2842,
+1
+],
+[
+3478,
+2
+]
+],
+"creates": [
+3483,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3334,
+"name": "Green Iron Boots",
+"learnedat": 145,
+"colors": [
+145,
+150,
+165,
+180
+],
+"reagents": [
+[
+3575,
+4
+],
+[
+1705,
+2
+],
+[
+3478,
+2
+],
+[
+2605,
+1
+]
+],
+"creates": [
+3484,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 3336,
+"name": "Green Iron Gauntlets",
+"learnedat": 150,
+"colors": [
+150,
+155,
+170,
+185
+],
+"reagents": [
+[
+3575,
+4
+],
+[
+5498,
+2
+],
+[
+3478,
+2
+],
+[
+2605,
+1
+]
+],
+"creates": [
+3485,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"status": "unchanged"
+},
+{
+"id": 3337,
+"name": "Heavy Grinding Stone",
+"learnedat": 100,
+"colors": [
+100,
+100,
+112,
+125
+],
+"reagents": [
+[
+2838,
+3
+]
+],
+"creates": [
+3486,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3491,
+"name": "Big Bronze Knife",
+"learnedat": 80,
+"colors": [
+80,
+110,
+125,
+140
+],
+"reagents": [
+[
+2841,
+6
+],
+[
+2880,
+4
+],
+[
+3470,
+2
+],
+[
+818,
+1
+],
+[
+2319,
+1
+]
+],
+"creates": [
+3848,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3492,
+"name": "Hardened Iron Shortsword",
+"learnedat": 160,
+"colors": [
+160,
+160,
+172,
+185
+],
+"reagents": [
+[
+3575,
+6
+],
+[
+3466,
+2
+],
+[
+3486,
+1
+],
+[
+1705,
+2
+],
+[
+4234,
+3
+]
+],
+"creates": [
+3849,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 3493,
+"name": "Jade Serpentblade",
+"learnedat": 175,
+"colors": [
+175,
+175,
+187,
+200
+],
+"reagents": [
+[
+3575,
+8
+],
+[
+3466,
+2
+],
+[
+3486,
+2
+],
+[
+1529,
+2
+],
+[
+4234,
+3
+]
+],
+"creates": [
+3850,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"status": "unchanged"
+},
+{
+"id": 3494,
+"name": "Solid Iron Maul",
+"learnedat": 155,
+"colors": [
+155,
+155,
+167,
+180
+],
+"reagents": [
+[
+3575,
+8
+],
+[
+3466,
+2
+],
+[
+3486,
+1
+],
+[
+2842,
+4
+],
+[
+4234,
+2
+]
+],
+"creates": [
+3851,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 3495,
+"name": "Golden Iron Destroyer",
+"learnedat": 170,
+"colors": [
+170,
+170,
+182,
+195
+],
+"reagents": [
+[
+3575,
+10
+],
+[
+3577,
+4
+],
+[
+1705,
+2
+],
+[
+3466,
+2
+],
+[
+4234,
+2
+],
+[
+3486,
+2
+]
+],
+"creates": [
+3852,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"status": "unchanged"
+},
+{
+"id": 3496,
+"name": "Moonsteel Broadsword",
+"learnedat": 180,
+"colors": [
+180,
+180,
+192,
+205
+],
+"reagents": [
+[
+3859,
+8
+],
+[
+3466,
+2
+],
+[
+3486,
+2
+],
+[
+1705,
+3
+],
+[
+4234,
+3
+]
+],
+"creates": [
+3853,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 3497,
+"name": "Frost Tiger Blade",
+"learnedat": 200,
+"colors": [
+200,
+200,
+212,
+225
+],
+"reagents": [
+[
+3859,
+8
+],
+[
+3466,
+2
+],
+[
+3486,
+2
+],
+[
+1529,
+2
+],
+[
+3829,
+1
+],
+[
+4234,
+4
+]
+],
+"creates": [
+3854,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 3498,
+"name": "Massive Iron Axe",
+"learnedat": 185,
+"colors": [
+185,
+185,
+197,
+210
+],
+"reagents": [
+[
+3575,
+14
+],
+[
+3466,
+2
+],
+[
+3486,
+2
+],
+[
+3577,
+4
+],
+[
+4234,
+2
+]
+],
+"creates": [
+3855,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 3500,
+"name": "Shadow Crescent Axe",
+"learnedat": 200,
+"colors": [
+200,
+200,
+212,
+225
+],
+"reagents": [
+[
+3859,
+10
+],
+[
+3466,
+2
+],
+[
+3486,
+3
+],
+[
+3864,
+2
+],
+[
+3824,
+1
+],
+[
+4234,
+3
+]
+],
+"creates": [
+3856,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"status": "unchanged"
+},
+{
+"id": 3501,
+"name": "Green Iron Bracers",
+"learnedat": 140,
+"colors": [
+140,
+165,
+177,
+190
+],
+"reagents": [
+[
+3575,
+6
+],
+[
+2605,
+1
+]
+],
+"creates": [
+3835,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3502,
+"name": "Green Iron Helm",
+"learnedat": 145,
+"colors": [
+145,
+170,
+182,
+195
+],
+"reagents": [
+[
+3575,
+12
+],
+[
+3864,
+1
+],
+[
+2605,
+1
+]
+],
+"creates": [
+3836,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3503,
+"name": "Golden Scale Coif",
+"learnedat": 190,
+"colors": [
+190,
+190,
+202,
+215
+],
+"reagents": [
+[
+3859,
+8
+],
+[
+3577,
+2
+],
+[
+3486,
+2
+]
+],
+"creates": [
+3837,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 3504,
+"name": "Green Iron Shoulders",
+"learnedat": 160,
+"colors": [
+160,
+160,
+172,
+185
+],
+"reagents": [
+[
+3575,
+7
+],
+[
+3486,
+1
+],
+[
+2605,
+1
+]
+],
+"creates": [
+3840,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 3505,
+"name": "Golden Scale Shoulders",
+"learnedat": 175,
+"colors": [
+175,
+175,
+187,
+200
+],
+"reagents": [
+[
+3859,
+6
+],
+[
+3577,
+2
+],
+[
+3486,
+1
+]
+],
+"creates": [
+3841,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 3506,
+"name": "Green Iron Leggings",
+"learnedat": 130,
+"colors": [
+130,
+155,
+167,
+180
+],
+"reagents": [
+[
+3575,
+8
+],
+[
+3486,
+1
+],
+[
+2605,
+1
+]
+],
+"creates": [
+3842,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3507,
+"name": "Golden Scale Leggings",
+"learnedat": 170,
+"colors": [
+170,
+170,
+182,
+195
+],
+"reagents": [
+[
+3575,
+10
+],
+[
+3577,
+2
+],
+[
+3486,
+1
+]
+],
+"creates": [
+3843,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 3508,
+"name": "Green Iron Hauberk",
+"learnedat": 155,
+"colors": [
+155,
+180,
+192,
+205
+],
+"reagents": [
+[
+3575,
+20
+],
+[
+3486,
+4
+],
+[
+1529,
+2
+],
+[
+1206,
+2
+],
+[
+4255,
+1
+]
+],
+"creates": [
+3844,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 3511,
+"name": "Golden Scale Cuirass",
+"learnedat": 195,
+"colors": [
+195,
+195,
+207,
+220
+],
+"reagents": [
+[
+3859,
+12
+],
+[
+3577,
+2
+],
+[
+3486,
+4
+],
+[
+1529,
+2
+]
+],
+"creates": [
+3845,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 3513,
+"name": "Polished Steel Boots",
+"learnedat": 185,
+"colors": [
+185,
+185,
+197,
+210
+],
+"reagents": [
+[
+3859,
+8
+],
+[
+3864,
+1
+],
+[
+1705,
+1
+],
+[
+3486,
+2
+]
+],
+"creates": [
+3846,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 3515,
+"name": "Golden Scale Boots",
+"learnedat": 200,
+"colors": [
+200,
+200,
+212,
+225
+],
+"reagents": [
+[
+3859,
+10
+],
+[
+3577,
+4
+],
+[
+3486,
+4
+],
+[
+3864,
+1
+]
+],
+"creates": [
+3847,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 3538,
+"name": "Blacksmithing",
+"learnedat": 125,
+"colors": null,
+"reagents": null,
+"creates": null,
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 6517,
+"name": "Pearl-handled Dagger",
+"learnedat": 85,
+"colors": [
+85,
+115,
+130,
+145
+],
+"reagents": [
+[
+2841,
+6
+],
+[
+3466,
+1
+],
+[
+5498,
+2
+],
+[
+3478,
+2
+]
+],
+"creates": [
+5540,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 6518,
+"name": "Iridescent Hammer",
+"learnedat": 140,
+"colors": [
+140,
+145,
+160,
+175
+],
+"reagents": [
+[
+2841,
+10
+],
+[
+3466,
+1
+],
+[
+5500,
+1
+],
+[
+3478,
+2
+],
+[
+2319,
+2
+]
+],
+"creates": [
+5541,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 7221,
+"name": "Iron Shield Spike",
+"learnedat": 150,
+"colors": [
+150,
+155,
+170,
+185
+],
+"reagents": [
+[
+3575,
+6
+],
+[
+3478,
+4
+]
+],
+"creates": [
+6042,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 7222,
+"name": "Iron Counterweight",
+"learnedat": 165,
+"colors": [
+165,
+165,
+177,
+190
+],
+"reagents": [
+[
+3575,
+4
+],
+[
+3478,
+2
+],
+[
+1705,
+1
+]
+],
+"creates": [
+6043,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 7223,
+"name": "Golden Scale Bracers",
+"learnedat": 160,
+"colors": [
+160,
+185,
+197,
+210
+],
+"reagents": [
+[
+3859,
+5
+],
+[
+3486,
+2
+]
+],
+"creates": [
+6040,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 7224,
+"name": "Steel Weapon Chain",
+"learnedat": 190,
+"colors": [
+190,
+190,
+202,
+215
+],
+"reagents": [
+[
+3859,
+8
+],
+[
+3486,
+2
+],
+[
+4234,
+4
+]
+],
+"creates": [
+6041,
+1,
+1
+],
+"source": [
+2,
+21
+],
+"status": "unchanged"
+},
+{
+"id": 7408,
+"name": "Heavy Copper Maul",
+"learnedat": 40,
+"colors": [
+40,
+80,
+100,
+120
+],
+"reagents": [
+[
+2840,
+12
+],
+[
+2880,
+2
+],
+[
+2318,
+2
+]
+],
+"creates": [
+6214,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 7817,
+"name": "Rough Bronze Boots",
+"learnedat": 70,
+"colors": [
+70,
+100,
+115,
+130
+],
+"reagents": [
+[
+2841,
+6
+],
+[
+3470,
+6
+]
+],
+"creates": [
+6350,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 7818,
+"name": "Silver Rod",
+"learnedat": 75,
+"colors": [
+75,
+80,
+82,
+85
+],
+"reagents": [
+[
+2842,
+1
+],
+[
+3470,
+2
+]
+],
+"creates": [
+6338,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 8367,
+"name": "Ironforge Breastplate",
+"learnedat": 100,
+"colors": [
+100,
+115,
+135,
+155
+],
+"reagents": [
+[
+2840,
+16
+],
+[
+818,
+2
+],
+[
+3470,
+3
+]
+],
+"creates": [
+6731,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 8768,
+"name": "Iron Buckle",
+"learnedat": 125,
+"colors": [
+125,
+125,
+127,
+130
+],
+"reagents": [
+[
+3575,
+1
+]
+],
+"creates": [
+7071,
+2,
+2
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 8880,
+"name": "Copper Dagger",
+"learnedat": 25,
+"colors": [
+25,
+65,
+85,
+105
+],
+"reagents": [
+[
+2840,
+6
+],
+[
+2880,
+1
+],
+[
+3470,
+1
+],
+[
+2318,
+1
+]
+],
+"creates": [
+7166,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9785,
+"name": "Blacksmithing",
+"learnedat": 200,
+"colors": null,
+"reagents": null,
+"creates": null,
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9787,
+"name": "Weaponsmith",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 9788,
+"name": "Armorsmith",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 9811,
+"name": "Barbaric Iron Shoulders",
+"learnedat": 160,
+"colors": [
+160,
+160,
+172,
+185
+],
+"reagents": [
+[
+3575,
+8
+],
+[
+5635,
+4
+],
+[
+1210,
+2
+],
+[
+3486,
+2
+]
+],
+"creates": [
+7913,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 9813,
+"name": "Barbaric Iron Breastplate",
+"learnedat": 160,
+"colors": [
+160,
+160,
+172,
+185
+],
+"reagents": [
+[
+3575,
+20
+],
+[
+3486,
+4
+]
+],
+"creates": [
+7914,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 9814,
+"name": "Barbaric Iron Helm",
+"learnedat": 175,
+"colors": [
+175,
+175,
+187,
+200
+],
+"reagents": [
+[
+3575,
+10
+],
+[
+5637,
+2
+],
+[
+5635,
+2
+]
+],
+"creates": [
+7915,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 9818,
+"name": "Barbaric Iron Boots",
+"learnedat": 180,
+"colors": [
+180,
+180,
+192,
+205
+],
+"reagents": [
+[
+3575,
+12
+],
+[
+5637,
+4
+],
+[
+818,
+4
+],
+[
+3486,
+2
+]
+],
+"creates": [
+7916,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 9820,
+"name": "Barbaric Iron Gloves",
+"learnedat": 185,
+"colors": [
+185,
+185,
+197,
+210
+],
+"reagents": [
+[
+3575,
+14
+],
+[
+3486,
+3
+],
+[
+5637,
+2
+]
+],
+"creates": [
+7917,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 9916,
+"name": "Steel Breastplate",
+"learnedat": 175,
+"colors": [
+175,
+200,
+212,
+225
+],
+"reagents": [
+[
+3859,
+16
+],
+[
+3486,
+3
+]
+],
+"creates": [
+7963,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9918,
+"name": "Solid Sharpening Stone",
+"learnedat": 175,
+"colors": [
+175,
+175,
+180,
+185
+],
+"reagents": [
+[
+7912,
+1
+]
+],
+"creates": [
+7964,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9920,
+"name": "Solid Grinding Stone",
+"learnedat": 175,
+"colors": [
+175,
+175,
+180,
+185
+],
+"reagents": [
+[
+7912,
+4
+]
+],
+"creates": [
+7966,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9921,
+"name": "Solid Weightstone",
+"learnedat": 175,
+"colors": [
+175,
+175,
+180,
+185
+],
+"reagents": [
+[
+7912,
+1
+]
+],
+"creates": [
+7965,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9926,
+"name": "Heavy Mithril Shoulder",
+"learnedat": 180,
+"colors": [
+180,
+200,
+210,
+220
+],
+"reagents": [
+[
+3860,
+8
+],
+[
+4234,
+6
+]
+],
+"creates": [
+7918,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9928,
+"name": "Heavy Mithril Gauntlet",
+"learnedat": 180,
+"colors": [
+180,
+200,
+210,
+220
+],
+"reagents": [
+[
+3860,
+6
+],
+[
+4338,
+4
+]
+],
+"creates": [
+7919,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9931,
+"name": "Mithril Plate Pants",
+"learnedat": 185,
+"colors": [
+185,
+205,
+215,
+225
+],
+"reagents": [
+[
+3860,
+12
+]
+],
+"creates": [
+7920,
+1,
+1
+],
+"source": [
+6
+],
+"status": "updated"
+},
+{
+"id": 9933,
+"name": "Heavy Mithril Pants",
+"learnedat": 210,
+"colors": [
+0,
+210,
+215,
+225
+],
+"reagents": [
+[
+3860,
+10
+],
+[
+1705,
+2
+]
+],
+"creates": [
+7921,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"status": "unchanged"
+},
+{
+"id": 9935,
+"name": "Steel Plate Helm",
+"learnedat": 190,
+"colors": [
+190,
+210,
+220,
+230
+],
+"reagents": [
+[
+3859,
+14
+],
+[
+7966,
+1
+]
+],
+"creates": [
+7922,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9937,
+"name": "Mithril Plate Bracers",
+"learnedat": 215,
+"colors": [
+0,
+215,
+220,
+230
+],
+"reagents": [
+[
+3860,
+8
+],
+[
+3864,
+2
+]
+],
+"creates": [
+7924,
+1,
+1
+],
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 9939,
+"name": "Mithril Shield Spike",
+"learnedat": 215,
+"colors": [
+0,
+215,
+220,
+230
+],
+"reagents": [
+[
+3860,
+4
+],
+[
+6037,
+2
+],
+[
+7966,
+4
+]
+],
+"creates": [
+7967,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 9945,
+"name": "Ornate Mithril Pants",
+"learnedat": 195,
+"colors": [
+195,
+215,
+225,
+235
+],
+"reagents": [
+[
+3860,
+12
+],
+[
+6037,
+1
+],
+[
+7966,
+1
+],
+[
+7909,
+1
+]
+],
+"creates": [
+7926,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 9950,
+"name": "Ornate Mithril Gloves",
+"learnedat": 220,
+"colors": [
+0,
+220,
+225,
+235
+],
+"reagents": [
+[
+3860,
+10
+],
+[
+4338,
+6
+],
+[
+6037,
+1
+],
+[
+7966,
+1
+]
+],
+"creates": [
+7927,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 9952,
+"name": "Ornate Mithril Shoulders",
+"learnedat": 225,
+"colors": [
+0,
+225,
+230,
+240
+],
+"reagents": [
+[
+3860,
+12
+],
+[
+6037,
+1
+],
+[
+4304,
+6
+]
+],
+"creates": [
+7928,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 9954,
+"name": "Truesilver Gauntlets",
+"learnedat": 200,
+"colors": [
+200,
+220,
+230,
+240
+],
+"reagents": [
+[
+3860,
+10
+],
+[
+6037,
+8
+],
+[
+7909,
+3
+],
+[
+3864,
+3
+],
+[
+5966,
+1
+],
+[
+7966,
+2
+]
+],
+"creates": [
+7938,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9957,
+"name": "Orcish War Leggings",
+"learnedat": 230,
+"colors": [
+0,
+230,
+235,
+245
+],
+"reagents": [
+[
+3860,
+12
+],
+[
+7067,
+1
+]
+],
+"creates": [
+7929,
+1,
+1
+],
+"status": "updated"
+},
+{
+"id": 9959,
+"name": "Heavy Mithril Breastplate",
+"learnedat": 205,
+"colors": [
+205,
+225,
+235,
+245
+],
+"reagents": [
+[
+3860,
+16
+]
+],
+"creates": [
+7930,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9961,
+"name": "Mithril Coif",
+"learnedat": 205,
+"colors": [
+205,
+225,
+235,
+245
+],
+"reagents": [
+[
+3860,
+10
+],
+[
+4338,
+6
+]
+],
+"creates": [
+7931,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9964,
+"name": "Mithril Spurs",
+"learnedat": 235,
+"colors": [
+0,
+235,
+240,
+250
+],
+"reagents": [
+[
+3860,
+4
+],
+[
+7966,
+3
+]
+],
+"creates": [
+7969,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 9966,
+"name": "Mithril Plate Shoulders",
+"learnedat": 235,
+"colors": [
+0,
+235,
+240,
+250
+],
+"reagents": [
+[
+3860,
+14
+],
+[
+4304,
+4
+],
+[
+3864,
+4
+]
+],
+"creates": [
+7932,
+1,
+1
+],
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 9968,
+"name": "Heavy Mithril Boots",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+3860,
+14
+],
+[
+4304,
+4
+]
+],
+"creates": [
+7933,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9970,
+"name": "Heavy Mithril Helm",
+"learnedat": 245,
+"colors": [
+0,
+0,
+245,
+250
+],
+"reagents": [
+[
+3860,
+14
+],
+[
+7909,
+1
+]
+],
+"creates": [
+7934,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"status": "unchanged"
+},
+{
+"id": 9972,
+"name": "Ornate Mithril Breastplate",
+"learnedat": 240,
+"colors": [
+0,
+240,
+245,
+255
+],
+"reagents": [
+[
+3860,
+16
+],
+[
+6037,
+6
+],
+[
+7077,
+1
+],
+[
+7966,
+1
+]
+],
+"creates": [
+7935,
+1,
+1
+],
+"status": "updated"
+},
+{
+"id": 9974,
+"name": "Truesilver Breastplate",
+"learnedat": 220,
+"colors": [
+220,
+240,
+250,
+260
+],
+"reagents": [
+[
+3860,
+12
+],
+[
+6037,
+24
+],
+[
+7910,
+4
+],
+[
+7971,
+4
+],
+[
+7966,
+2
+]
+],
+"creates": [
+7939,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9979,
+"name": "Ornate Mithril Boots",
+"learnedat": 245,
+"colors": [
+0,
+245,
+250,
+260
+],
+"reagents": [
+[
+3860,
+14
+],
+[
+6037,
+2
+],
+[
+4304,
+4
+],
+[
+7966,
+1
+],
+[
+7909,
+1
+]
+],
+"creates": [
+7936,
+1,
+1
+],
+"status": "updated"
+},
+{
+"id": 9980,
+"name": "Ornate Mithril Helm",
+"learnedat": 245,
+"colors": [
+0,
+245,
+250,
+260
+],
+"reagents": [
+[
+3860,
+16
+],
+[
+6037,
+2
+],
+[
+7971,
+1
+],
+[
+7966,
+1
+]
+],
+"creates": [
+7937,
+1,
+1
+],
+"status": "updated"
+},
+{
+"id": 9983,
+"name": "Copper Claymore",
+"learnedat": 25,
+"colors": [
+25,
+65,
+85,
+105
+],
+"reagents": [
+[
+2840,
+10
+],
+[
+2880,
+2
+],
+[
+3470,
+1
+],
+[
+2318,
+1
+]
+],
+"creates": [
+7955,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9985,
+"name": "Bronze Warhammer",
+"learnedat": 100,
+"colors": [
+100,
+155,
+170,
+185
+],
+"reagents": [
+[
+2841,
+8
+],
+[
+3466,
+1
+],
+[
+2319,
+1
+]
+],
+"creates": [
+7956,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9986,
+"name": "Bronze Greatsword",
+"learnedat": 105,
+"colors": [
+105,
+135,
+150,
+165
+],
+"reagents": [
+[
+2841,
+12
+],
+[
+3466,
+2
+],
+[
+2319,
+2
+]
+],
+"creates": [
+7957,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9987,
+"name": "Bronze Battle Axe",
+"learnedat": 110,
+"colors": [
+110,
+140,
+155,
+170
+],
+"reagents": [
+[
+2841,
+14
+],
+[
+3466,
+1
+],
+[
+2319,
+2
+]
+],
+"creates": [
+7958,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9993,
+"name": "Heavy Mithril Axe",
+"learnedat": 185,
+"colors": [
+185,
+210,
+222,
+235
+],
+"reagents": [
+[
+3860,
+12
+],
+[
+3864,
+2
+],
+[
+7966,
+1
+],
+[
+4234,
+4
+]
+],
+"creates": [
+7941,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 9995,
+"name": "Blue Glittering Axe",
+"learnedat": 220,
+"colors": [
+220,
+220,
+232,
+245
+],
+"reagents": [
+[
+3860,
+16
+],
+[
+7909,
+2
+],
+[
+7966,
+1
+],
+[
+4304,
+4
+]
+],
+"creates": [
+7942,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"status": "unchanged"
+},
+{
+"id": 9997,
+"name": "Wicked Mithril Blade",
+"learnedat": 225,
+"colors": [
+225,
+225,
+237,
+250
+],
+"reagents": [
+[
+3860,
+14
+],
+[
+6037,
+4
+],
+[
+7966,
+1
+],
+[
+4304,
+2
+]
+],
+"creates": [
+7943,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 10001,
+"name": "Big Black Mace",
+"learnedat": 205,
+"colors": [
+205,
+230,
+242,
+255
+],
+"reagents": [
+[
+3860,
+16
+],
+[
+7971,
+1
+],
+[
+1210,
+4
+],
+[
+7966,
+1
+],
+[
+4304,
+2
+]
+],
+"creates": [
+7945,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 10003,
+"name": "The Shatterer",
+"learnedat": 235,
+"colors": [
+235,
+235,
+247,
+260
+],
+"reagents": [
+[
+3860,
+24
+],
+[
+7075,
+4
+],
+[
+6037,
+6
+],
+[
+3864,
+5
+],
+[
+1529,
+5
+],
+[
+7966,
+4
+],
+[
+4304,
+4
+]
+],
+"creates": [
+7954,
+1,
+1
+],
+"status": "unchanged"
+},
+{
+"id": 10005,
+"name": "Dazzling Mithril Rapier",
+"learnedat": 240,
+"colors": [
+240,
+240,
+252,
+265
+],
+"reagents": [
+[
+3860,
+14
+],
+[
+7909,
+1
+],
+[
+1705,
+2
+],
+[
+1206,
+2
+],
+[
+7966,
+1
+],
+[
+4338,
+2
+]
+],
+"creates": [
+7944,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 10007,
+"name": "Phantom Blade",
+"learnedat": 245,
+"colors": [
+245,
+245,
+257,
+270
+],
+"reagents": [
+[
+3860,
+28
+],
+[
+7081,
+6
+],
+[
+6037,
+8
+],
+[
+3823,
+2
+],
+[
+7909,
+6
+],
+[
+7966,
+4
+],
+[
+4304,
+2
+]
+],
+"creates": [
+7961,
+1,
+1
+],
+"status": "unchanged"
+},
+{
+"id": 10009,
+"name": "Runed Mithril Hammer",
+"learnedat": 245,
+"colors": [
+245,
+245,
+257,
+270
+],
+"reagents": [
+[
+3860,
+18
+],
+[
+7075,
+2
+],
+[
+7966,
+1
+],
+[
+4304,
+4
+]
+],
+"creates": [
+7946,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 10011,
+"name": "Blight",
+"learnedat": 250,
+"colors": [
+250,
+250,
+262,
+275
+],
+"reagents": [
+[
+3860,
+28
+],
+[
+7972,
+10
+],
+[
+6037,
+10
+],
+[
+7966,
+6
+],
+[
+4304,
+6
+]
+],
+"creates": [
+7959,
+1,
+1
+],
+"status": "unchanged"
+},
+{
+"id": 10013,
+"name": "Ebon Shiv",
+"learnedat": 255,
+"colors": [
+255,
+255,
+267,
+280
+],
+"reagents": [
+[
+3860,
+12
+],
+[
+6037,
+6
+],
+[
+7910,
+2
+],
+[
+7966,
+1
+],
+[
+4304,
+2
+]
+],
+"creates": [
+7947,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 10015,
+"name": "Truesilver Champion",
+"learnedat": 260,
+"colors": [
+260,
+260,
+272,
+285
+],
+"reagents": [
+[
+3860,
+30
+],
+[
+6037,
+16
+],
+[
+7910,
+6
+],
+[
+7081,
+4
+],
+[
+7966,
+8
+],
+[
+4304,
+6
+]
+],
+"creates": [
+7960,
+1,
+1
+],
+"status": "unchanged"
+},
+{
+"id": 11454,
+"name": "Inlaid Mithril Cylinder",
+"learnedat": 200,
+"colors": [
+200,
+200,
+212,
+225
+],
+"reagents": [
+[
+3860,
+5
+],
+[
+3577,
+1
+],
+[
+6037,
+1
+]
+],
+"creates": [
+9060,
+1,
+1
+],
+"source": [
+1
+],
+"status": "unchanged"
+},
+{
+"id": 11643,
+"name": "Golden Scale Gauntlets",
+"learnedat": 205,
+"colors": [
+0,
+205,
+210,
+220
+],
+"reagents": [
+[
+3859,
+10
+],
+[
+3577,
+4
+],
+[
+3486,
+4
+],
+[
+3864,
+1
+]
+],
+"creates": [
+9366,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 12259,
+"name": "Silvered Bronze Leggings",
+"learnedat": 155,
+"colors": [
+155,
+155,
+167,
+180
+],
+"reagents": [
+[
+2841,
+12
+],
+[
+2842,
+4
+],
+[
+3478,
+2
+]
+],
+"creates": [
+10423,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"status": "unchanged"
+},
+{
+"id": 12260,
+"name": "Rough Copper Vest",
+"learnedat": 15,
+"colors": [
+0,
+15,
+35,
+55
+],
+"reagents": [
+[
+2840,
+4
+]
+],
+"creates": [
+10421,
+1,
+1
+],
+"status": "unchanged"
+},
+{
+"id": 14379,
+"name": "Golden Rod",
+"learnedat": 125,
+"colors": [
+125,
+130,
+132,
+135
+],
+"reagents": [
+[
+3577,
+1
+],
+[
+3478,
+2
+]
+],
+"creates": [
+11128,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 14380,
+"name": "Truesilver Rod",
+"learnedat": 175,
+"colors": [
+175,
+180,
+182,
+185
+],
+"reagents": [
+[
+6037,
+1
+],
+[
+3486,
+1
+]
+],
+"creates": [
+11144,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 15292,
+"name": "Dark Iron Pulverizer",
+"learnedat": 265,
+"colors": [
+0,
+265,
+270,
+280
+],
+"reagents": [
+[
+11371,
+18
+],
+[
+7077,
+4
+]
+],
+"creates": [
+11608,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 15293,
+"name": "Dark Iron Mail",
+"learnedat": 270,
+"colors": [
+0,
+270,
+275,
+285
+],
+"reagents": [
+[
+11371,
+10
+],
+[
+7077,
+2
+]
+],
+"creates": [
+11606,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 15294,
+"name": "Dark Iron Sunderer",
+"learnedat": 275,
+"colors": [
+0,
+275,
+280,
+290
+],
+"reagents": [
+[
+11371,
+26
+],
+[
+7077,
+4
+]
+],
+"creates": [
+11607,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 15295,
+"name": "Dark Iron Shoulders",
+"learnedat": 280,
+"colors": [
+0,
+280,
+285,
+295
+],
+"reagents": [
+[
+11371,
+6
+],
+[
+7077,
+1
+]
+],
+"creates": [
+11605,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 15296,
+"name": "Dark Iron Plate",
+"learnedat": 285,
+"colors": [
+0,
+285,
+290,
+300
+],
+"reagents": [
+[
+11371,
+20
+],
+[
+7077,
+8
+]
+],
+"creates": [
+11604,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 15972,
+"name": "Glinting Steel Dagger",
+"learnedat": 155,
+"colors": [
+155,
+180,
+192,
+205
+],
+"reagents": [
+[
+3859,
+10
+],
+[
+3466,
+2
+],
+[
+1206,
+1
+],
+[
+7067,
+1
+],
+[
+4234,
+1
+]
+],
+"creates": [
+12259,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 15973,
+"name": "Searing Golden Blade",
+"learnedat": 190,
+"colors": [
+190,
+190,
+202,
+215
+],
+"reagents": [
+[
+3859,
+10
+],
+[
+3577,
+4
+],
+[
+7068,
+2
+],
+[
+4234,
+2
+]
+],
+"creates": [
+12260,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16639,
+"name": "Dense Grinding Stone",
+"learnedat": 225,
+"colors": [
+225,
+230,
+232,
+235
+],
+"reagents": [
+[
+12365,
+4
+]
+],
+"creates": [
+12644,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 16640,
+"name": "Dense Weightstone",
+"learnedat": 225,
+"colors": [
+225,
+230,
+232,
+235
+],
+"reagents": [
+[
+12365,
+1
+]
+],
+"creates": [
+12643,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 16641,
+"name": "Dense Sharpening Stone",
+"learnedat": 225,
+"colors": [
+225,
+230,
+232,
+235
+],
+"reagents": [
+[
+12365,
+1
+]
+],
+"creates": [
+12404,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 16642,
+"name": "Thorium Armor",
+"learnedat": 250,
+"colors": [
+0,
+250,
+255,
+265
+],
+"reagents": [
+[
+12359,
+16
+],
+[
+12361,
+1
+],
+[
+11188,
+4
+]
+],
+"creates": [
+12405,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16643,
+"name": "Thorium Belt",
+"learnedat": 250,
+"colors": [
+0,
+250,
+255,
+265
+],
+"reagents": [
+[
+12359,
+12
+],
+[
+11186,
+4
+]
+],
+"creates": [
+12406,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16644,
+"name": "Thorium Bracers",
+"learnedat": 255,
+"colors": [
+0,
+255,
+260,
+270
+],
+"reagents": [
+[
+12359,
+12
+],
+[
+11184,
+4
+]
+],
+"creates": [
+12408,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16645,
+"name": "Radiant Belt",
+"learnedat": 260,
+"colors": [
+0,
+260,
+265,
+275
+],
+"reagents": [
+[
+12359,
+10
+],
+[
+7077,
+2
+]
+],
+"creates": [
+12416,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16646,
+"name": "Imperial Plate Shoulders",
+"learnedat": 265,
+"colors": [
+0,
+265,
+270,
+280
+],
+"reagents": [
+[
+12359,
+24
+],
+[
+8170,
+6
+],
+[
+3864,
+2
+]
+],
+"creates": [
+12428,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 16647,
+"name": "Imperial Plate Belt",
+"learnedat": 265,
+"colors": [
+0,
+265,
+270,
+280
+],
+"reagents": [
+[
+12359,
+22
+],
+[
+8170,
+6
+],
+[
+7909,
+1
+]
+],
+"creates": [
+12424,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 16648,
+"name": "Radiant Breastplate",
+"learnedat": 270,
+"colors": [
+0,
+270,
+275,
+285
+],
+"reagents": [
+[
+12359,
+18
+],
+[
+7077,
+2
+],
+[
+7910,
+1
+]
+],
+"creates": [
+12415,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16649,
+"name": "Imperial Plate Bracers",
+"learnedat": 270,
+"colors": [
+0,
+270,
+275,
+285
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+7910,
+1
+]
+],
+"creates": [
+12425,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 16651,
+"name": "Thorium Shield Spike",
+"learnedat": 275,
+"colors": [
+0,
+275,
+280,
+290
+],
+"reagents": [
+[
+12359,
+4
+],
+[
+12644,
+4
+],
+[
+7076,
+2
+]
+],
+"creates": [
+12645,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16652,
+"name": "Thorium Boots",
+"learnedat": 280,
+"colors": [
+0,
+280,
+285,
+295
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+8170,
+8
+],
+[
+11185,
+4
+]
+],
+"creates": [
+12409,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16653,
+"name": "Thorium Helm",
+"learnedat": 280,
+"colors": [
+0,
+280,
+285,
+295
+],
+"reagents": [
+[
+12359,
+24
+],
+[
+7910,
+1
+],
+[
+11188,
+4
+]
+],
+"creates": [
+12410,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16654,
+"name": "Radiant Gloves",
+"learnedat": 285,
+"colors": [
+0,
+285,
+290,
+300
+],
+"reagents": [
+[
+12359,
+18
+],
+[
+7077,
+4
+]
+],
+"creates": [
+12418,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16655,
+"name": "Fiery Plate Gauntlets",
+"learnedat": 290,
+"colors": [
+0,
+290,
+295,
+305
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+12655,
+6
+],
+[
+7078,
+2
+],
+[
+7910,
+4
+]
+],
+"creates": [
+12631,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 16656,
+"name": "Radiant Boots",
+"learnedat": 290,
+"colors": [
+0,
+290,
+295,
+305
+],
+"reagents": [
+[
+12359,
+14
+],
+[
+7077,
+4
+]
+],
+"creates": [
+12419,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16657,
+"name": "Imperial Plate Boots",
+"learnedat": 295,
+"colors": [
+0,
+295,
+300,
+310
+],
+"reagents": [
+[
+12359,
+34
+],
+[
+7910,
+1
+],
+[
+7909,
+1
+]
+],
+"creates": [
+12426,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 16658,
+"name": "Imperial Plate Helm",
+"learnedat": 295,
+"colors": [
+0,
+295,
+300,
+310
+],
+"reagents": [
+[
+12359,
+34
+],
+[
+7910,
+2
+]
+],
+"creates": [
+12427,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 16659,
+"name": "Radiant Circlet",
+"learnedat": 295,
+"colors": [
+0,
+295,
+300,
+310
+],
+"reagents": [
+[
+12359,
+18
+],
+[
+7077,
+4
+]
+],
+"creates": [
+12417,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16660,
+"name": "Dawnbringer Shoulders",
+"learnedat": 290,
+"colors": [
+0,
+290,
+295,
+305
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+12360,
+4
+],
+[
+12364,
+2
+],
+[
+7080,
+2
+]
+],
+"creates": [
+12625,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 16662,
+"name": "Thorium Leggings",
+"learnedat": 300,
+"colors": [
+0,
+300,
+305,
+315
+],
+"reagents": [
+[
+12359,
+26
+],
+[
+11186,
+4
+]
+],
+"creates": [
+12414,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16663,
+"name": "Imperial Plate Chest",
+"learnedat": 300,
+"colors": [
+0,
+300,
+305,
+315
+],
+"reagents": [
+[
+12359,
+40
+],
+[
+7910,
+2
+]
+],
+"creates": [
+12422,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 16664,
+"name": "Runic Plate Shoulders",
+"learnedat": 300,
+"colors": [
+0,
+300,
+305,
+315
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+12360,
+2
+],
+[
+3577,
+6
+]
+],
+"creates": [
+12610,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16665,
+"name": "Runic Plate Boots",
+"learnedat": 300,
+"colors": [
+0,
+300,
+305,
+315
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+12360,
+2
+],
+[
+2842,
+10
+]
+],
+"creates": [
+12611,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16667,
+"name": "Demon Forged Breastplate",
+"learnedat": 285,
+"colors": [
+0,
+285,
+290,
+300
+],
+"reagents": [
+[
+12359,
+40
+],
+[
+12662,
+10
+],
+[
+12361,
+4
+],
+[
+7910,
+4
+]
+],
+"creates": [
+12628,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 16724,
+"name": "Whitesoul Helm",
+"learnedat": 300,
+"colors": [
+300,
+310,
+320,
+330
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+12655,
+4
+],
+[
+6037,
+6
+],
+[
+3577,
+6
+],
+[
+12800,
+2
+]
+],
+"creates": [
+12633,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16725,
+"name": "Radiant Leggings",
+"learnedat": 300,
+"colors": [
+300,
+300,
+310,
+320
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+7077,
+4
+]
+],
+"creates": [
+12420,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16726,
+"name": "Runic Plate Helm",
+"learnedat": 300,
+"colors": [
+300,
+300,
+310,
+320
+],
+"reagents": [
+[
+12359,
+30
+],
+[
+12360,
+2
+],
+[
+6037,
+2
+],
+[
+12364,
+1
+]
+],
+"creates": [
+12612,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16729,
+"name": "Lionheart Helm",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12359,
+80
+],
+[
+12360,
+12
+],
+[
+8146,
+40
+],
+[
+12361,
+10
+],
+[
+12800,
+4
+]
+],
+"creates": [
+12640,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16730,
+"name": "Imperial Plate Leggings",
+"learnedat": 300,
+"colors": [
+300,
+300,
+310,
+320
+],
+"reagents": [
+[
+12359,
+44
+],
+[
+7910,
+2
+]
+],
+"creates": [
+12429,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 16731,
+"name": "Runic Breastplate",
+"learnedat": 300,
+"colors": [
+300,
+305,
+315,
+325
+],
+"reagents": [
+[
+12359,
+40
+],
+[
+12360,
+2
+],
+[
+7910,
+1
+]
+],
+"creates": [
+12613,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16732,
+"name": "Runic Plate Leggings",
+"learnedat": 300,
+"colors": [
+300,
+305,
+315,
+325
+],
+"reagents": [
+[
+12359,
+40
+],
+[
+12360,
+2
+],
+[
+7910,
+1
+]
+],
+"creates": [
+12614,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16741,
+"name": "Stronghold Gauntlets",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+15
+],
+[
+12655,
+20
+],
+[
+7076,
+10
+],
+[
+12361,
+4
+],
+[
+12799,
+4
+]
+],
+"creates": [
+12639,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16742,
+"name": "Enchanted Thorium Helm",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+6
+],
+[
+12655,
+16
+],
+[
+7076,
+6
+],
+[
+12799,
+2
+],
+[
+12800,
+1
+]
+],
+"creates": [
+12620,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 16744,
+"name": "Enchanted Thorium Leggings",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+10
+],
+[
+12655,
+20
+],
+[
+7080,
+6
+],
+[
+12361,
+2
+],
+[
+12364,
+1
+]
+],
+"creates": [
+12619,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 16745,
+"name": "Enchanted Thorium Breastplate",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+8
+],
+[
+12655,
+24
+],
+[
+7076,
+4
+],
+[
+7080,
+4
+],
+[
+12364,
+2
+],
+[
+12800,
+2
+]
+],
+"creates": [
+12618,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 16969,
+"name": "Ornate Thorium Handaxe",
+"learnedat": 275,
+"colors": [
+275,
+275,
+287,
+300
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+12799,
+2
+],
+[
+12644,
+2
+],
+[
+8170,
+4
+]
+],
+"creates": [
+12773,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 16970,
+"name": "Dawn's Edge",
+"learnedat": 275,
+"colors": [
+275,
+275,
+287,
+300
+],
+"reagents": [
+[
+12359,
+30
+],
+[
+12655,
+4
+],
+[
+7910,
+4
+],
+[
+12361,
+4
+],
+[
+12644,
+2
+],
+[
+8170,
+4
+]
+],
+"creates": [
+12774,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 16971,
+"name": "Huge Thorium Battleaxe",
+"learnedat": 280,
+"colors": [
+280,
+280,
+292,
+305
+],
+"reagents": [
+[
+12359,
+40
+],
+[
+12644,
+6
+],
+[
+8170,
+6
+]
+],
+"creates": [
+12775,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 16973,
+"name": "Enchanted Battlehammer",
+"learnedat": 280,
+"colors": [
+280,
+280,
+292,
+305
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+12655,
+6
+],
+[
+12364,
+2
+],
+[
+12804,
+4
+],
+[
+8170,
+4
+]
+],
+"creates": [
+12776,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 16978,
+"name": "Blazing Rapier",
+"learnedat": 280,
+"colors": [
+280,
+280,
+292,
+305
+],
+"reagents": [
+[
+12655,
+10
+],
+[
+7078,
+4
+],
+[
+7077,
+4
+],
+[
+12800,
+2
+],
+[
+12644,
+2
+]
+],
+"creates": [
+12777,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 16983,
+"name": "Serenity",
+"learnedat": 285,
+"colors": [
+285,
+285,
+297,
+310
+],
+"reagents": [
+[
+12655,
+6
+],
+[
+12360,
+2
+],
+[
+12804,
+4
+],
+[
+12799,
+2
+],
+[
+12361,
+2
+],
+[
+12364,
+1
+]
+],
+"creates": [
+12781,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16984,
+"name": "Volcanic Hammer",
+"learnedat": 290,
+"colors": [
+290,
+290,
+302,
+315
+],
+"reagents": [
+[
+12359,
+30
+],
+[
+7077,
+4
+],
+[
+7910,
+4
+],
+[
+8170,
+4
+]
+],
+"creates": [
+12792,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16985,
+"name": "Corruption",
+"learnedat": 290,
+"colors": [
+290,
+290,
+302,
+315
+],
+"reagents": [
+[
+12359,
+40
+],
+[
+12360,
+2
+],
+[
+12662,
+16
+],
+[
+12808,
+8
+],
+[
+12361,
+2
+],
+[
+12644,
+2
+],
+[
+8170,
+4
+]
+],
+"creates": [
+12782,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16988,
+"name": "Hammer of the Titans",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12359,
+50
+],
+[
+12360,
+15
+],
+[
+12809,
+4
+],
+[
+12810,
+6
+],
+[
+7076,
+10
+]
+],
+"creates": [
+12796,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16990,
+"name": "Arcanite Champion",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+15
+],
+[
+12800,
+8
+],
+[
+12811,
+1
+],
+[
+12799,
+4
+],
+[
+12810,
+8
+],
+[
+12644,
+2
+]
+],
+"creates": [
+12790,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16991,
+"name": "Annihilator",
+"learnedat": 300,
+"colors": [
+0,
+300,
+305,
+315
+],
+"reagents": [
+[
+12359,
+40
+],
+[
+12360,
+12
+],
+[
+12808,
+10
+],
+[
+12364,
+8
+],
+[
+12644,
+2
+],
+[
+12810,
+4
+]
+],
+"creates": [
+12798,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16992,
+"name": "Frostguard",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+18
+],
+[
+12361,
+8
+],
+[
+12800,
+8
+],
+[
+7080,
+4
+],
+[
+12644,
+2
+],
+[
+12810,
+4
+]
+],
+"creates": [
+12797,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16993,
+"name": "Masterwork Stormhammer",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12655,
+20
+],
+[
+12364,
+8
+],
+[
+12799,
+8
+],
+[
+7076,
+6
+],
+[
+12810,
+4
+]
+],
+"creates": [
+12794,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16994,
+"name": "Arcanite Reaper",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+20
+],
+[
+12810,
+6
+],
+[
+12644,
+2
+]
+],
+"creates": [
+12784,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 16995,
+"name": "Heartseeker",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+10
+],
+[
+12655,
+10
+],
+[
+12810,
+2
+],
+[
+7910,
+6
+],
+[
+12800,
+6
+],
+[
+12799,
+6
+],
+[
+12644,
+4
+]
+],
+"creates": [
+12783,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 17039,
+"name": "Master Swordsmith",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 17040,
+"name": "Master Hammersmith",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 17041,
+"name": "Master Axesmith",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 19666,
+"name": "Silver Skeleton Key",
+"learnedat": 75,
+"colors": [
+75,
+75,
+85,
+95
+],
+"reagents": [
+[
+2842,
+1
+],
+[
+3470,
+1
+]
+],
+"creates": [
+15869,
+2,
+2
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 19667,
+"name": "Golden Skeleton Key",
+"learnedat": 125,
+"colors": [
+125,
+125,
+135,
+145
+],
+"reagents": [
+[
+3577,
+1
+],
+[
+3486,
+1
+]
+],
+"creates": [
+15870,
+2,
+2
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 19668,
+"name": "Truesilver Skeleton Key",
+"learnedat": 175,
+"colors": [
+175,
+175,
+185,
+195
+],
+"reagents": [
+[
+6037,
+1
+],
+[
+7966,
+1
+]
+],
+"creates": [
+15871,
+2,
+2
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 19669,
+"name": "Arcanite Skeleton Key",
+"learnedat": 250,
+"colors": [
+250,
+250,
+255,
+260
+],
+"reagents": [
+[
+12360,
+1
+],
+[
+12644,
+1
+]
+],
+"creates": [
+15872,
+2,
+2
+],
+"source": [
+6
+],
+"status": "updated"
+},
+{
+"id": 20201,
+"name": "Arcanite Rod",
+"learnedat": 250,
+"colors": [
+250,
+250,
+255,
+260
+],
+"reagents": [
+[
+12360,
+3
+],
+[
+12644,
+1
+]
+],
+"creates": [
+16206,
+1,
+1
+],
+"source": [
+6
+],
+"status": "unchanged"
+},
+{
+"id": 20872,
+"name": "Fiery Chain Girdle",
+"learnedat": 295,
+"colors": [
+0,
+295,
+300,
+310
+],
+"reagents": [
+[
+11371,
+6
+],
+[
+17010,
+3
+],
+[
+17011,
+3
+]
+],
+"creates": [
+16989,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 20873,
+"name": "Fiery Chain Shoulders",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+11371,
+16
+],
+[
+17010,
+4
+],
+[
+17011,
+5
+]
+],
+"creates": [
+16988,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 20874,
+"name": "Dark Iron Bracers",
+"learnedat": 295,
+"colors": [
+0,
+295,
+300,
+310
+],
+"reagents": [
+[
+11371,
+4
+],
+[
+17010,
+2
+],
+[
+17011,
+2
+]
+],
+"creates": [
+17014,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 20876,
+"name": "Dark Iron Leggings",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+11371,
+16
+],
+[
+17010,
+4
+],
+[
+17011,
+6
+]
+],
+"creates": [
+17013,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 20890,
+"name": "Dark Iron Reaver",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+11371,
+16
+],
+[
+17010,
+12
+],
+[
+11382,
+2
+],
+[
+12810,
+2
+]
+],
+"creates": [
+17015,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 20897,
+"name": "Dark Iron Destroyer",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+11371,
+18
+],
+[
+17011,
+12
+],
+[
+11382,
+2
+],
+[
+12810,
+2
+]
+],
+"creates": [
+17016,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 21161,
+"name": "Sulfuron Hammer",
+"learnedat": 300,
+"colors": [
+300,
+325,
+337,
+350
+],
+"reagents": [
+[
+17203,
+8
+],
+[
+11371,
+20
+],
+[
+12360,
+50
+],
+[
+7078,
+25
+],
+[
+11382,
+10
+],
+[
+17011,
+10
+],
+[
+17010,
+10
+]
+],
+"creates": [
+17193,
+1,
+1
+],
+"source": [
+4
+],
+"status": "unchanged"
+},
+{
+"id": 21913,
+"name": "Edge of Winter",
+"learnedat": 190,
+"colors": [
+190,
+190,
+202,
+215
+],
+"reagents": [
+[
+3859,
+10
+],
+[
+3829,
+1
+],
+[
+7070,
+2
+],
+[
+7069,
+2
+],
+[
+4234,
+2
+]
+],
+"creates": [
+17704,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 22757,
+"name": "Elemental Sharpening Stone",
+"learnedat": 300,
+"colors": [
+0,
+0,
+0,
+300
+],
+"reagents": [
+[
+7067,
+2
+],
+[
+12365,
+3
+]
+],
+"creates": [
+18262,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 23632,
+"name": "Girdle of the Dawn",
+"learnedat": 290,
+"colors": [
+0,
+290,
+295,
+305
+],
+"reagents": [
+[
+12359,
+8
+],
+[
+6037,
+6
+],
+[
+12811,
+1
+]
+],
+"creates": [
+19051,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 23633,
+"name": "Gloves of the Dawn",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+2
+],
+[
+6037,
+10
+],
+[
+12811,
+1
+]
+],
+"creates": [
+19057,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 23636,
+"name": "Dark Iron Helm",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+17011,
+4
+],
+[
+17010,
+2
+],
+[
+11371,
+4
+]
+],
+"creates": [
+19148,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 23637,
+"name": "Dark Iron Gauntlets",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+17011,
+3
+],
+[
+17010,
+5
+],
+[
+17012,
+4
+],
+[
+11371,
+4
+],
+[
+11382,
+2
+]
+],
+"creates": [
+19164,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 23638,
+"name": "Black Amnesty",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+17011,
+3
+],
+[
+17010,
+6
+],
+[
+12360,
+12
+],
+[
+11382,
+1
+],
+[
+11371,
+4
+]
+],
+"creates": [
+19166,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 23639,
+"name": "Blackfury",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+17011,
+5
+],
+[
+17010,
+2
+],
+[
+12360,
+16
+],
+[
+11371,
+6
+]
+],
+"creates": [
+19167,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 23650,
+"name": "Ebon Hand",
+"learnedat": 300,
+"colors": [
+0,
+300,
+305,
+315
+],
+"reagents": [
+[
+17011,
+4
+],
+[
+17010,
+7
+],
+[
+12360,
+12
+],
+[
+11371,
+8
+],
+[
+12800,
+4
+]
+],
+"creates": [
+19170,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 23652,
+"name": "Blackguard",
+"learnedat": 300,
+"colors": [
+0,
+300,
+305,
+315
+],
+"reagents": [
+[
+17011,
+6
+],
+[
+17010,
+6
+],
+[
+12360,
+10
+],
+[
+11371,
+6
+],
+[
+12809,
+12
+]
+],
+"creates": [
+19168,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 23653,
+"name": "Nightfall",
+"learnedat": 300,
+"colors": [
+0,
+300,
+305,
+315
+],
+"reagents": [
+[
+17011,
+8
+],
+[
+17010,
+5
+],
+[
+12360,
+10
+],
+[
+11371,
+12
+],
+[
+12364,
+4
+]
+],
+"creates": [
+19169,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 24136,
+"name": "Bloodsoul Breastplate",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+19774,
+10
+],
+[
+19726,
+2
+],
+[
+7910,
+2
+]
+],
+"creates": [
+19690,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 24137,
+"name": "Bloodsoul Shoulders",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12359,
+16
+],
+[
+19774,
+8
+],
+[
+19726,
+2
+],
+[
+7910,
+1
+]
+],
+"creates": [
+19691,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 24138,
+"name": "Bloodsoul Gauntlets",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12359,
+12
+],
+[
+19774,
+6
+],
+[
+19726,
+2
+],
+[
+12810,
+4
+]
+],
+"creates": [
+19692,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 24139,
+"name": "Darksoul Breastplate",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+19774,
+14
+],
+[
+12799,
+2
+]
+],
+"creates": [
+19693,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 24140,
+"name": "Darksoul Leggings",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12359,
+18
+],
+[
+19774,
+12
+],
+[
+12799,
+2
+]
+],
+"creates": [
+19694,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 24141,
+"name": "Darksoul Shoulders",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12359,
+16
+],
+[
+19774,
+10
+],
+[
+12799,
+1
+]
+],
+"creates": [
+19695,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 24399,
+"name": "Dark Iron Boots",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+17011,
+3
+],
+[
+17010,
+3
+],
+[
+17012,
+4
+],
+[
+11371,
+6
+]
+],
+"creates": [
+20039,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 24912,
+"name": "Darkrune Gauntlets",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12359,
+12
+],
+[
+20520,
+6
+],
+[
+6037,
+6
+],
+[
+12810,
+2
+]
+],
+"creates": [
+20549,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 24913,
+"name": "Darkrune Helm",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12359,
+16
+],
+[
+20520,
+8
+],
+[
+6037,
+8
+],
+[
+11754,
+1
+]
+],
+"creates": [
+20551,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 24914,
+"name": "Darkrune Breastplate",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+20520,
+10
+],
+[
+6037,
+10
+]
+],
+"creates": [
+20550,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 27585,
+"name": "Heavy Obsidian Belt",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+22202,
+14
+],
+[
+12655,
+4
+],
+[
+7076,
+2
+]
+],
+"creates": [
+22197,
+1,
+1
+],
+"status": "unchanged"
+},
+{
+"id": 27586,
+"name": "Jagged Obsidian Shield",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+22203,
+8
+],
+[
+22202,
+24
+],
+[
+12655,
+8
+],
+[
+7076,
+4
+]
+],
+"creates": [
+22198,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 27587,
+"name": "Thick Obsidian Breastplate",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+22203,
+18
+],
+[
+22202,
+40
+],
+[
+12655,
+12
+],
+[
+7076,
+10
+],
+[
+12364,
+4
+]
+],
+"creates": [
+22196,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 27588,
+"name": "Light Obsidian Belt",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+22202,
+14
+],
+[
+12810,
+4
+]
+],
+"creates": [
+22195,
+1,
+1
+],
+"status": "unchanged"
+},
+{
+"id": 27589,
+"name": "Black Grasp of the Destroyer",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+22203,
+8
+],
+[
+22202,
+24
+],
+[
+12810,
+8
+],
+[
+13512,
+1
+]
+],
+"creates": [
+22194,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 27590,
+"name": "Obsidian Mail Tunic",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+22203,
+15
+],
+[
+22202,
+36
+],
+[
+12810,
+12
+],
+[
+12809,
+10
+],
+[
+12800,
+4
+]
+],
+"creates": [
+22191,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 27829,
+"name": "Titanic Leggings",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+12
+],
+[
+12655,
+20
+],
+[
+7076,
+10
+],
+[
+13510,
+2
+]
+],
+"creates": [
+22385,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 27830,
+"name": "Persuader",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+15
+],
+[
+11371,
+10
+],
+[
+12808,
+20
+],
+[
+20520,
+20
+],
+[
+15417,
+10
+],
+[
+12753,
+2
+]
+],
+"creates": [
+22384,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 27832,
+"name": "Sageblade",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+12
+],
+[
+20725,
+2
+],
+[
+13512,
+2
+],
+[
+12810,
+4
+]
+],
+"creates": [
+22383,
+1,
+1
+],
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 28242,
+"name": "Icebane Breastplate",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+22682,
+7
+],
+[
+12359,
+16
+],
+[
+12360,
+2
+],
+[
+7080,
+4
+]
+],
+"creates": [
+22669,
+1,
+1
+],
+"status": "unchanged"
+},
+{
+"id": 28243,
+"name": "Icebane Gauntlets",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+22682,
+5
+],
+[
+12359,
+12
+],
+[
+12360,
+2
+],
+[
+7080,
+2
+]
+],
+"creates": [
+22670,
+1,
+1
+],
+"status": "unchanged"
+},
+{
+"id": 28244,
+"name": "Icebane Bracers",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+22682,
+4
+],
+[
+12359,
+12
+],
+[
+12360,
+2
+],
+[
+7080,
+2
+]
+],
+"creates": [
+22671,
+1,
+1
+],
+"status": "unchanged"
+},
+{
+"id": 28461,
+"name": "Ironvine Breastplate",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12655,
+12
+],
+[
+19726,
+2
+],
+[
+12360,
+2
+],
+[
+12803,
+2
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 28462,
+"name": "Ironvine Gloves",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12655,
+8
+],
+[
+19726,
+1
+],
+[
+12803,
+2
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 28463,
+"name": "Ironvine Belt",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12655,
+6
+],
+[
+12803,
+2
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 427061,
+"name": "Mantle of the Second War",
+"learnedat": 150,
+"colors": [
+0,
+150,
+150,
+160
+],
+"reagents": [
+[
+2841,
+20
+],
+[
+1206,
+2
+],
+[
+1705,
+2
+],
+[
+5500,
+2
+],
+[
+2842,
+4
+]
+],
+"creates": null,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 429348,
+"name": "Shifting Silver Breastplate",
+"learnedat": 175,
+"colors": [
+0,
+175,
+190,
+205
+],
+"reagents": [
+[
+2870,
+1
+],
+[
+211422,
+1
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 430397,
+"name": "Blackfathom Sharpening Stone",
+"learnedat": 100,
+"colors": [
+0,
+100,
+110,
+120
+],
+"reagents": [
+[
+2863,
+1
+],
+[
+10938,
+1
+]
+],
+"creates": [
+211845,
+1,
+1
+],
+"status": "unchanged"
+},
+{
+"id": 435906,
+"name": "Reflective Truesilver Braincage",
+"learnedat": 225,
+"colors": [
+225,
+225,
+230,
+235
+],
+"reagents": [
+[
+3860,
+25
+],
+[
+213376,
+4
+],
+[
+213379,
+2
+],
+[
+213383,
+1
+]
+],
+"creates": null,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 435908,
+"name": "Tempered Interference-Negating Helmet",
+"learnedat": 225,
+"colors": [
+225,
+225,
+230,
+235
+],
+"reagents": [
+[
+3860,
+25
+],
+[
+213376,
+4
+],
+[
+213379,
+1
+],
+[
+213369,
+2
+]
+],
+"creates": null,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 435910,
+"name": "Low-Background Truesilver Plates",
+"learnedat": 200,
+"colors": [
+200,
+200,
+210,
+220
+],
+"reagents": [
+[
+6037,
+1
+],
+[
+213373,
+5
+]
+],
+"creates": [
+213376,
+1,
+1
+],
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 439120,
+"name": "Golden Scale Gauntlets",
+"learnedat": 205,
+"colors": [
+205,
+225,
+235,
+245
+],
+"reagents": [
+[
+3859,
+10
+],
+[
+3577,
+4
+],
+[
+3486,
+4
+],
+[
+3864,
+1
+]
+],
+"creates": [
+217273,
+1,
+1
+],
+"status": "unchanged"
+},
+{
+"id": 439122,
+"name": "Golden Scale Boots",
+"learnedat": 200,
+"colors": [
+200,
+225,
+237,
+250
+],
+"reagents": [
+[
+3859,
+10
+],
+[
+3577,
+4
+],
+[
+3486,
+4
+],
+[
+3864,
+1
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 439124,
+"name": "Golden Scale Cuirass",
+"learnedat": 195,
+"colors": [
+195,
+220,
+232,
+245
+],
+"reagents": [
+[
+3859,
+12
+],
+[
+3577,
+2
+],
+[
+3486,
+4
+],
+[
+1529,
+2
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 439126,
+"name": "Golden Scale Coif",
+"learnedat": 190,
+"colors": [
+190,
+215,
+227,
+240
+],
+"reagents": [
+[
+3859,
+8
+],
+[
+3577,
+2
+],
+[
+3486,
+2
+]
+],
+"creates": null,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 439128,
+"name": "Moonsteel Broadsword",
+"learnedat": 180,
+"colors": [
+180,
+205,
+217,
+230
+],
+"reagents": [
+[
+3859,
+8
+],
+[
+3466,
+2
+],
+[
+3486,
+2
+],
+[
+1705,
+3
+],
+[
+4234,
+3
+]
+],
+"creates": null,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 439130,
+"name": "Golden Scale Shoulders",
+"learnedat": 175,
+"colors": [
+175,
+200,
+212,
+225
+],
+"reagents": [
+[
+3859,
+6
+],
+[
+3577,
+2
+],
+[
+3486,
+1
+]
+],
+"creates": null,
+"source": [
+2,
+21
+],
+"status": "unchanged"
+},
+{
+"id": 439132,
+"name": "Golden Scale Leggings",
+"learnedat": 170,
+"colors": [
+170,
+195,
+207,
+220
+],
+"reagents": [
+[
+3575,
+10
+],
+[
+3577,
+2
+],
+[
+3486,
+1
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 446179,
+"name": "Shoulderplates of Dread",
+"learnedat": 250,
+"colors": [
+0,
+250,
+255,
+260
+],
+"reagents": [
+[
+221021,
+10
+],
+[
+220688,
+1
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 446188,
+"name": "Fearmonger's Shoulderguards",
+"learnedat": 250,
+"colors": [
+0,
+250,
+255,
+260
+],
+"reagents": [
+[
+221021,
+10
+],
+[
+220688,
+1
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 446191,
+"name": "Baleful Pauldrons",
+"learnedat": 250,
+"colors": [
+0,
+250,
+255,
+260
+],
+"reagents": [
+[
+221021,
+10
+],
+[
+220688,
+1
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 460460,
+"name": "Sulfuron Hammer",
+"learnedat": 300,
+"colors": [
+300,
+325,
+337,
+350
+],
+"reagents": [
+[
+17203,
+8
+],
+[
+11371,
+20
+],
+[
+12360,
+50
+],
+[
+7078,
+25
+],
+[
+11382,
+10
+],
+[
+17011,
+10
+],
+[
+17010,
+10
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 461647,
+"name": "Skyrider's Masterwork Stormhammer",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12794,
+1
+],
+[
+18262,
+10
+],
+[
+12360,
+15
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 461651,
+"name": "Fiery Plate Gauntlets of the Hidden Technique",
+"learnedat": 290,
+"colors": [
+290,
+310,
+320,
+330
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+12655,
+6
+],
+[
+7078,
+2
+],
+[
+7910,
+4
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 461667,
+"name": "Tempered Dark Iron Plate",
+"learnedat": 285,
+"colors": [
+285,
+305,
+315,
+325
+],
+"reagents": [
+[
+11371,
+20
+],
+[
+7077,
+8
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 461669,
+"name": "Refined Arcanite Champion",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12790,
+1
+],
+[
+18262,
+10
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 461671,
+"name": "Stronger-hold Gauntlets",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+15
+],
+[
+12655,
+20
+],
+[
+7076,
+10
+],
+[
+12361,
+4
+],
+[
+12799,
+4
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 461675,
+"name": "Refined Arcanite Reaper",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12784,
+1
+],
+[
+18262,
+10
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 461712,
+"name": "Refined Hammer of the Titans",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12796,
+1
+],
+[
+18262,
+10
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 461714,
+"name": "Desecration",
+"learnedat": 315,
+"colors": [
+0,
+315,
+327,
+340
+],
+"reagents": [
+[
+12359,
+40
+],
+[
+12360,
+2
+],
+[
+12662,
+16
+],
+[
+12808,
+8
+],
+[
+12361,
+2
+],
+[
+12644,
+2
+],
+[
+8170,
+4
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 461716,
+"name": "Deadly Heartseeker",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+10
+],
+[
+12655,
+10
+],
+[
+12810,
+2
+],
+[
+7910,
+6
+],
+[
+12800,
+6
+],
+[
+12799,
+6
+],
+[
+12644,
+4
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 461718,
+"name": "Tranquility",
+"learnedat": 310,
+"colors": [
+0,
+310,
+322,
+335
+],
+"reagents": [
+[
+12655,
+6
+],
+[
+12360,
+2
+],
+[
+12804,
+4
+],
+[
+12799,
+2
+],
+[
+12361,
+2
+],
+[
+12364,
+1
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 461730,
+"name": "Hardened Frostguard",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12797,
+1
+],
+[
+18262,
+10
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 461733,
+"name": "Finely-Enchanted Battlehammer",
+"learnedat": 280,
+"colors": [
+280,
+305,
+317,
+330
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+12655,
+6
+],
+[
+12364,
+2
+],
+[
+12804,
+4
+],
+[
+8170,
+4
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 461735,
+"name": "Invincible Mail",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+30
+],
+[
+12655,
+30
+],
+[
+12364,
+6
+],
+[
+12800,
+6
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 461737,
+"name": "Tempest Gauntlets",
+"learnedat": 295,
+"colors": [
+295,
+315,
+325,
+335
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+12655,
+4
+],
+[
+7080,
+4
+],
+[
+12361,
+4
+]
+],
+"creates": null,
+"source": [
+2,
+5
+],
+"status": "unchanged"
+},
+{
+"id": 461739,
+"name": "Warcrest of the Great Chief",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12359,
+40
+],
+[
+12655,
+4
+],
+[
+8168,
+60
+],
+[
+12799,
+6
+],
+[
+12364,
+2
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 461743,
+"name": "Sageblade of the Archmagus",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+12
+],
+[
+20725,
+2
+],
+[
+13512,
+2
+],
+[
+12810,
+4
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 1213481,
+"name": "Razorspike Headcage",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+15
+],
+[
+234003,
+3
+],
+[
+12810,
+4
+],
+[
+8146,
+10
+],
+[
+234006,
+4
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1213484,
+"name": "Razorspike Shoulderplate",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+15
+],
+[
+234003,
+3
+],
+[
+12810,
+4
+],
+[
+8146,
+10
+],
+[
+234006,
+4
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1213490,
+"name": "Razorspike Battleplate",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+20
+],
+[
+234003,
+4
+],
+[
+12810,
+4
+],
+[
+8146,
+10
+],
+[
+234006,
+8
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1213492,
+"name": "Obsidian Reaver",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+40
+],
+[
+234003,
+10
+],
+[
+12810,
+8
+],
+[
+234004,
+6
+],
+[
+20873,
+4
+],
+[
+20882,
+2
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1213498,
+"name": "Obsidian Champion",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+40
+],
+[
+234003,
+10
+],
+[
+12810,
+8
+],
+[
+234004,
+6
+],
+[
+20872,
+4
+],
+[
+20879,
+2
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1213500,
+"name": "Obsidian Destroyer",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+40
+],
+[
+234003,
+10
+],
+[
+234004,
+8
+],
+[
+20873,
+4
+],
+[
+20872,
+4
+],
+[
+20875,
+2
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1213502,
+"name": "Obsidian Stormhammer",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+30
+],
+[
+234003,
+8
+],
+[
+12810,
+5
+],
+[
+234004,
+6
+],
+[
+20871,
+3
+],
+[
+20878,
+2
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1213504,
+"name": "Obsidian Sageblade",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+30
+],
+[
+234003,
+8
+],
+[
+20725,
+3
+],
+[
+234004,
+3
+],
+[
+20871,
+3
+],
+[
+20877,
+2
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1213506,
+"name": "Obsidian Defender",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+30
+],
+[
+234003,
+8
+],
+[
+234004,
+6
+],
+[
+20872,
+3
+],
+[
+20871,
+3
+],
+[
+20874,
+2
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1213643,
+"name": "Obsidian Grinding Stone",
+"learnedat": 315,
+"colors": [
+0,
+315,
+322,
+330
+],
+"reagents": [
+[
+22202,
+5
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1213709,
+"name": "Ironvine Belt",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12655,
+8
+],
+[
+12803,
+4
+],
+[
+19726,
+4
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1213711,
+"name": "Ironvine Gloves",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12655,
+12
+],
+[
+19726,
+4
+],
+[
+12803,
+2
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1213715,
+"name": "Ironvine Breastplate",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12655,
+14
+],
+[
+19726,
+8
+],
+[
+12360,
+8
+],
+[
+12803,
+4
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1213746,
+"name": "Heavy Obsidian Belt",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+22202,
+14
+],
+[
+12655,
+4
+],
+[
+7076,
+2
+],
+[
+19726,
+4
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1213748,
+"name": "Light Obsidian Belt",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+22202,
+14
+],
+[
+12810,
+6
+],
+[
+19726,
+4
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1214137,
+"name": "Obsidian Heartseeker",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+30
+],
+[
+234003,
+8
+],
+[
+234004,
+6
+],
+[
+20871,
+3
+],
+[
+20867,
+3
+],
+[
+20876,
+2
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1214257,
+"name": "Black Grasp of the Destroyer",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+22203,
+8
+],
+[
+22202,
+24
+],
+[
+12810,
+8
+],
+[
+13512,
+1
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1214270,
+"name": "Jagged Obsidian Shield",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+22203,
+8
+],
+[
+22202,
+24
+],
+[
+12655,
+8
+],
+[
+7076,
+4
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1214274,
+"name": "Obsidian Mail Tunic",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+22203,
+15
+],
+[
+22202,
+36
+],
+[
+12810,
+12
+],
+[
+12809,
+10
+],
+[
+12800,
+4
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1214309,
+"name": "Dreamscale Visor",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12360,
+20
+],
+[
+12810,
+4
+],
+[
+8146,
+8
+],
+[
+20381,
+8
+],
+[
+12803,
+4
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1215507,
+"name": "Thick Obsidian Breastplate",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+22203,
+18
+],
+[
+22202,
+40
+],
+[
+12655,
+12
+],
+[
+7076,
+10
+],
+[
+12364,
+4
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1223787,
+"name": "Icebane Breastplate",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+236656,
+7
+],
+[
+12359,
+16
+],
+[
+12360,
+2
+],
+[
+7080,
+4
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1223789,
+"name": "Icebane Gauntlets",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+236656,
+5
+],
+[
+12359,
+12
+],
+[
+12360,
+2
+],
+[
+7080,
+2
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1223791,
+"name": "Icebane Bracers",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+236656,
+4
+],
+[
+12359,
+12
+],
+[
+12360,
+2
+],
+[
+7080,
+2
+]
+],
+"creates": null,
+"status": "unchanged"
+},
+{
+"id": 1224631,
+"name": "Scarlet Soldier's Helmet",
+"learnedat": 280,
+"colors": [
+280,
+285,
+295,
+305
+],
+"reagents": [
+[
+12938,
+1
+],
+[
+12811,
+2
+],
+[
+12359,
+24
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 1224632,
+"name": "Scarlet Soldier's Spaulders",
+"learnedat": 280,
+"colors": [
+280,
+285,
+295,
+305
+],
+"reagents": [
+[
+12811,
+1
+],
+[
+12359,
+20
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 1224633,
+"name": "Scarlet Soldier's Chestplate",
+"learnedat": 280,
+"colors": [
+280,
+285,
+295,
+305
+],
+"reagents": [
+[
+12938,
+1
+],
+[
+12811,
+1
+],
+[
+12359,
+24
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 1224635,
+"name": "Scarlet Soldier's Protectors",
+"learnedat": 250,
+"colors": [
+250,
+260,
+282,
+305
+],
+"reagents": [
+[
+12359,
+16
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 1224636,
+"name": "Scarlet Soldier's Grips",
+"learnedat": 260,
+"colors": [
+260,
+270,
+287,
+305
+],
+"reagents": [
+[
+12811,
+1
+],
+[
+12359,
+20
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 1224637,
+"name": "Scarlet Soldier's Waistguard",
+"learnedat": 250,
+"colors": [
+250,
+260,
+282,
+305
+],
+"reagents": [
+[
+12811,
+1
+],
+[
+12359,
+20
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 1224638,
+"name": "Scarlet Soldier's Legplates",
+"learnedat": 270,
+"colors": [
+270,
+280,
+292,
+305
+],
+"reagents": [
+[
+12938,
+1
+],
+[
+12811,
+1
+],
+[
+12359,
+20
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 1224639,
+"name": "Scarlet Soldier's Stompers",
+"learnedat": 260,
+"colors": [
+260,
+270,
+287,
+305
+],
+"reagents": [
+[
+12811,
+1
+],
+[
+12359,
+20
+]
+],
+"creates": null,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 1230171,
+"name": "Sharpening Wheel",
+"learnedat": 20,
+"colors": [
+20,
+20,
+22,
+25
+],
+"reagents": [
+[
+2835,
+1
+],
+[
+2840,
+1
+]
+],
+"creates": [
+279944,
+1,
+1
+],
+"source": [
+6
+],
+"status": "new"
+},
+{
+"id": 1240944,
+"name": "Blacksmithing",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"status": "new"
+},
+{
+"id": 1240955,
+"name": "Blacksmithing",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"status": "new"
+},
+{
+"id": 1240966,
+"name": "Blacksmithing",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"status": "new"
+},
+{
+"id": 1240979,
+"name": "Blacksmithing",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"status": "new"
+},
+{
+"id": 1245287,
+"name": "Copper Rod",
+"learnedat": 10,
+"colors": [
+0,
+10,
+12,
+15
+],
+"reagents": [
+[
+2840,
+1
+]
+],
+"creates": [
+6217,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252229,
+"name": "Gemmed Copper Boots",
+"learnedat": 35,
+"colors": [
+35,
+40,
+40,
+40
+],
+"reagents": [
+[
+2840,
+2
+],
+[
+818,
+2
+],
+[
+774,
+2
+],
+[
+2318,
+4
+]
+],
+"creates": [
+250620,
+1,
+1
+],
+"source": [
+6
+],
+"status": "new"
+},
+{
+"id": 1252230,
+"name": "Strange Copper Boots",
+"learnedat": 35,
+"colors": [
+35,
+40,
+40,
+40
+],
+"reagents": [
+[
+2840,
+2
+],
+[
+10940,
+4
+],
+[
+2318,
+2
+]
+],
+"creates": [
+250621,
+1,
+1
+],
+"source": [
+6
+],
+"status": "new"
+},
+{
+"id": 1252231,
+"name": "Glowing Copper Boots",
+"learnedat": 35,
+"colors": [
+35,
+40,
+40,
+40
+],
+"reagents": [
+[
+2840,
+2
+],
+[
+10938,
+4
+],
+[
+2318,
+2
+]
+],
+"creates": [
+250482,
+1,
+1
+],
+"source": [
+6
+],
+"status": "new"
+},
+{
+"id": 1252232,
+"name": "Sterling Silver Boots",
+"learnedat": 100,
+"colors": [
+100,
+130,
+145,
+160
+],
+"reagents": [
+[
+2842,
+6
+],
+[
+2840,
+2
+],
+[
+3478,
+2
+],
+[
+2319,
+2
+]
+],
+"creates": [
+250483,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252233,
+"name": "Sterling Silver Leggings",
+"learnedat": 105,
+"colors": [
+105,
+135,
+150,
+165
+],
+"reagents": [
+[
+2842,
+10
+],
+[
+2840,
+3
+],
+[
+3478,
+3
+]
+],
+"creates": [
+250484,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252234,
+"name": "Sterling Silver Gauntlet",
+"learnedat": 105,
+"colors": [
+105,
+135,
+150,
+165
+],
+"reagents": [
+[
+2842,
+6
+],
+[
+2840,
+2
+],
+[
+3478,
+2
+]
+],
+"creates": [
+250485,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252235,
+"name": "Sterling Silver Shoulders",
+"learnedat": 110,
+"colors": [
+110,
+140,
+155,
+170
+],
+"reagents": [
+[
+2842,
+6
+],
+[
+2840,
+2
+],
+[
+3478,
+2
+]
+],
+"creates": [
+250486,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252236,
+"name": "Sterling Silver Breastplate",
+"learnedat": 125,
+"colors": [
+125,
+155,
+170,
+185
+],
+"reagents": [
+[
+2842,
+12
+],
+[
+2840,
+4
+],
+[
+3478,
+3
+]
+],
+"creates": [
+250487,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252237,
+"name": "Veteran's Chain Shirt",
+"learnedat": 85,
+"colors": [
+0,
+85,
+85,
+85
+],
+"reagents": [
+[
+2841,
+4
+],
+[
+3470,
+2
+],
+[
+5498,
+2
+]
+],
+"creates": [
+250488,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252238,
+"name": "Guard's Chain Shirt",
+"learnedat": 80,
+"colors": [
+80,
+85,
+85,
+85
+],
+"reagents": [
+[
+2841,
+4
+],
+[
+3470,
+2
+],
+[
+1210,
+2
+]
+],
+"creates": [
+250489,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252239,
+"name": "Protector's Chain Shirt",
+"learnedat": 85,
+"colors": [
+0,
+85,
+85,
+85
+],
+"reagents": [
+[
+2841,
+4
+],
+[
+3470,
+2
+],
+[
+818,
+2
+]
+],
+"creates": [
+250490,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252240,
+"name": "Acolyte's Chain Shirt",
+"learnedat": 85,
+"colors": [
+0,
+85,
+85,
+85
+],
+"reagents": [
+[
+2841,
+4
+],
+[
+3470,
+2
+],
+[
+10940,
+2
+]
+],
+"creates": [
+250491,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252241,
+"name": "Crusader's Chain Shirt",
+"learnedat": 85,
+"colors": [
+0,
+85,
+85,
+85
+],
+"reagents": [
+[
+2841,
+4
+],
+[
+3470,
+2
+],
+[
+10938,
+2
+]
+],
+"creates": [
+250492,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252242,
+"name": "Veteran's Chain Leggings",
+"learnedat": 100,
+"colors": [
+0,
+100,
+100,
+100
+],
+"reagents": [
+[
+2841,
+6
+],
+[
+3478,
+2
+],
+[
+5498,
+4
+]
+],
+"creates": [
+250493,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252243,
+"name": "Guard's Chain Leggings",
+"learnedat": 100,
+"colors": [
+0,
+100,
+100,
+100
+],
+"reagents": [
+[
+2841,
+6
+],
+[
+3478,
+2
+],
+[
+1210,
+4
+]
+],
+"creates": [
+250494,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252244,
+"name": "Protector's Chain Leggings",
+"learnedat": 100,
+"colors": [
+0,
+100,
+100,
+100
+],
+"reagents": [
+[
+2841,
+6
+],
+[
+3478,
+2
+],
+[
+818,
+4
+]
+],
+"creates": [
+250495,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252245,
+"name": "Acolyte's Chain Leggings",
+"learnedat": 100,
+"colors": [
+0,
+100,
+100,
+100
+],
+"reagents": [
+[
+2841,
+6
+],
+[
+3478,
+2
+],
+[
+10940,
+4
+]
+],
+"creates": [
+250496,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252246,
+"name": "Crusader's Chain Leggings",
+"learnedat": 100,
+"colors": [
+0,
+100,
+100,
+100
+],
+"reagents": [
+[
+2841,
+6
+],
+[
+3478,
+2
+],
+[
+10938,
+4
+]
+],
+"creates": [
+250497,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252247,
+"name": "Veteran's Chain Helm",
+"learnedat": 130,
+"colors": [
+0,
+130,
+130,
+130
+],
+"reagents": [
+[
+2841,
+8
+],
+[
+3478,
+2
+],
+[
+5498,
+6
+]
+],
+"creates": [
+250498,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252248,
+"name": "Guard's Chain Helm",
+"learnedat": 130,
+"colors": [
+0,
+130,
+130,
+130
+],
+"reagents": [
+[
+2841,
+8
+],
+[
+3478,
+2
+],
+[
+1210,
+6
+]
+],
+"creates": [
+250499,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252249,
+"name": "Protector's Chain Helm",
+"learnedat": 130,
+"colors": [
+0,
+130,
+130,
+130
+],
+"reagents": [
+[
+2841,
+8
+],
+[
+3478,
+2
+],
+[
+818,
+6
+]
+],
+"creates": [
+250500,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252250,
+"name": "Acolyte's Chain Helm",
+"learnedat": 130,
+"colors": [
+0,
+130,
+130,
+130
+],
+"reagents": [
+[
+2841,
+8
+],
+[
+3478,
+2
+],
+[
+10940,
+6
+]
+],
+"creates": [
+250501,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252251,
+"name": "Crusader's Chain Helm",
+"learnedat": 130,
+"colors": [
+0,
+130,
+130,
+130
+],
+"reagents": [
+[
+2841,
+8
+],
+[
+3478,
+2
+],
+[
+10938,
+6
+]
+],
+"creates": [
+250502,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252252,
+"name": "Veteran's Boots",
+"learnedat": 85,
+"colors": [
+85,
+115,
+130,
+145
+],
+"reagents": [
+[
+2841,
+12
+],
+[
+3478,
+2
+],
+[
+249427,
+4
+],
+[
+5498,
+5
+]
+],
+"creates": [
+250503,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252253,
+"name": "Guard's Boots",
+"learnedat": 85,
+"colors": [
+85,
+115,
+130,
+145
+],
+"reagents": [
+[
+2841,
+12
+],
+[
+3478,
+2
+],
+[
+249427,
+4
+],
+[
+1210,
+5
+]
+],
+"creates": [
+250504,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252254,
+"name": "Protector's Boots",
+"learnedat": 85,
+"colors": [
+85,
+115,
+130,
+145
+],
+"reagents": [
+[
+2841,
+12
+],
+[
+3478,
+2
+],
+[
+249427,
+4
+],
+[
+818,
+5
+]
+],
+"creates": [
+250505,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252255,
+"name": "Acolyte's Boots",
+"learnedat": 85,
+"colors": [
+85,
+115,
+130,
+145
+],
+"reagents": [
+[
+2841,
+12
+],
+[
+3478,
+2
+],
+[
+249427,
+4
+],
+[
+10940,
+5
+]
+],
+"creates": [
+250506,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252256,
+"name": "Crusader's Boots",
+"learnedat": 85,
+"colors": [
+85,
+115,
+130,
+145
+],
+"reagents": [
+[
+2841,
+12
+],
+[
+3478,
+2
+],
+[
+249427,
+4
+],
+[
+10938,
+5
+]
+],
+"creates": [
+250507,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252257,
+"name": "Veteran's Gloves",
+"learnedat": 80,
+"colors": [
+80,
+110,
+125,
+140
+],
+"reagents": [
+[
+2841,
+10
+],
+[
+3470,
+4
+],
+[
+249410,
+2
+],
+[
+5498,
+3
+]
+],
+"creates": [
+250508,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1252258,
+"name": "Guard's Gloves",
+"learnedat": 80,
+"colors": [
+80,
+110,
+125,
+140
+],
+"reagents": [
+[
+2841,
+10
+],
+[
+3470,
+4
+],
+[
+249410,
+2
+],
+[
+1210,
+3
+]
+],
+"creates": [
+250509,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1252259,
+"name": "Protector's Gloves",
+"learnedat": 80,
+"colors": [
+80,
+110,
+125,
+140
+],
+"reagents": [
+[
+2841,
+10
+],
+[
+3470,
+4
+],
+[
+249410,
+2
+],
+[
+818,
+3
+]
+],
+"creates": [
+250510,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1252260,
+"name": "Acolyte's Gloves",
+"learnedat": 80,
+"colors": [
+80,
+110,
+125,
+140
+],
+"reagents": [
+[
+2841,
+10
+],
+[
+3470,
+4
+],
+[
+249410,
+2
+],
+[
+10940,
+3
+]
+],
+"creates": [
+250511,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1252261,
+"name": "Crusader's Gloves",
+"learnedat": 80,
+"colors": [
+80,
+110,
+125,
+140
+],
+"reagents": [
+[
+2841,
+10
+],
+[
+3470,
+4
+],
+[
+249410,
+2
+],
+[
+10938,
+3
+]
+],
+"creates": [
+250512,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1252262,
+"name": "Veteran's Chain Belt",
+"learnedat": 45,
+"colors": [
+45,
+85,
+105,
+125
+],
+"reagents": [
+[
+2840,
+12
+],
+[
+3470,
+4
+],
+[
+249427,
+2
+],
+[
+5498,
+2
+]
+],
+"creates": [
+250513,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252263,
+"name": "Guard's Chain Belt",
+"learnedat": 45,
+"colors": [
+45,
+85,
+105,
+125
+],
+"reagents": [
+[
+2840,
+12
+],
+[
+3470,
+4
+],
+[
+249427,
+2
+],
+[
+1210,
+2
+]
+],
+"creates": [
+250514,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252264,
+"name": "Protector's Chain Belt",
+"learnedat": 45,
+"colors": [
+45,
+85,
+105,
+125
+],
+"reagents": [
+[
+2840,
+12
+],
+[
+3470,
+4
+],
+[
+249427,
+2
+],
+[
+818,
+2
+]
+],
+"creates": [
+250515,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252265,
+"name": "Acolyte's Chain Belt",
+"learnedat": 45,
+"colors": [
+45,
+85,
+105,
+125
+],
+"reagents": [
+[
+2840,
+12
+],
+[
+3470,
+4
+],
+[
+249427,
+2
+],
+[
+10940,
+2
+]
+],
+"creates": [
+250516,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252266,
+"name": "Crusader's Chain Belt",
+"learnedat": 45,
+"colors": [
+45,
+85,
+105,
+125
+],
+"reagents": [
+[
+2840,
+12
+],
+[
+3470,
+4
+],
+[
+249427,
+2
+],
+[
+10938,
+2
+]
+],
+"creates": [
+250517,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252267,
+"name": "Veteran's Silvered Chain Shirt",
+"learnedat": 110,
+"colors": [
+110,
+140,
+155,
+170
+],
+"reagents": [
+[
+2841,
+20
+],
+[
+3478,
+6
+],
+[
+2842,
+5
+],
+[
+249427,
+6
+],
+[
+5498,
+8
+]
+],
+"creates": [
+250518,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252268,
+"name": "Guard's Silvered Chain Shirt",
+"learnedat": 110,
+"colors": [
+110,
+140,
+155,
+170
+],
+"reagents": [
+[
+2841,
+20
+],
+[
+3478,
+6
+],
+[
+2842,
+5
+],
+[
+249427,
+6
+],
+[
+1210,
+8
+]
+],
+"creates": [
+250519,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252269,
+"name": "Protector's Silvered Chain Shirt",
+"learnedat": 110,
+"colors": [
+110,
+140,
+155,
+170
+],
+"reagents": [
+[
+2841,
+20
+],
+[
+3478,
+6
+],
+[
+2842,
+5
+],
+[
+249427,
+6
+],
+[
+818,
+8
+]
+],
+"creates": [
+250520,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252270,
+"name": "Acolyte's Silvered Chain Shirt",
+"learnedat": 110,
+"colors": [
+110,
+140,
+155,
+170
+],
+"reagents": [
+[
+2841,
+20
+],
+[
+3478,
+6
+],
+[
+2842,
+5
+],
+[
+249427,
+6
+],
+[
+10940,
+8
+]
+],
+"creates": [
+250521,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252271,
+"name": "Crusader's Silvered Chain Shirt",
+"learnedat": 110,
+"colors": [
+110,
+140,
+155,
+170
+],
+"reagents": [
+[
+2841,
+20
+],
+[
+3478,
+6
+],
+[
+2842,
+5
+],
+[
+249427,
+6
+],
+[
+10938,
+8
+]
+],
+"creates": [
+250522,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252272,
+"name": "Veteran's Silvered Chain Leggings",
+"learnedat": 125,
+"colors": [
+125,
+155,
+170,
+185
+],
+"reagents": [
+[
+2841,
+20
+],
+[
+3478,
+8
+],
+[
+2842,
+6
+],
+[
+249427,
+6
+],
+[
+5498,
+8
+]
+],
+"creates": [
+250523,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1252273,
+"name": "Guard's Silvered Chain Leggings",
+"learnedat": 125,
+"colors": [
+125,
+155,
+170,
+185
+],
+"reagents": [
+[
+2841,
+20
+],
+[
+3478,
+8
+],
+[
+2842,
+6
+],
+[
+249427,
+6
+],
+[
+1210,
+8
+]
+],
+"creates": [
+250524,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1252274,
+"name": "Protector's Silvered Chain Leggings",
+"learnedat": 125,
+"colors": [
+125,
+155,
+170,
+185
+],
+"reagents": [
+[
+2841,
+20
+],
+[
+3478,
+8
+],
+[
+2842,
+6
+],
+[
+249427,
+6
+],
+[
+818,
+8
+]
+],
+"creates": [
+250525,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1252275,
+"name": "Acolyte's Silvered Chain Leggings",
+"learnedat": 125,
+"colors": [
+125,
+155,
+170,
+185
+],
+"reagents": [
+[
+2841,
+20
+],
+[
+3478,
+8
+],
+[
+2842,
+6
+],
+[
+249427,
+6
+],
+[
+10940,
+8
+]
+],
+"creates": [
+250526,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1252276,
+"name": "Crusader's Silvered Chain Leggings",
+"learnedat": 125,
+"colors": [
+125,
+155,
+170,
+185
+],
+"reagents": [
+[
+2841,
+20
+],
+[
+3478,
+8
+],
+[
+2842,
+6
+],
+[
+249427,
+6
+],
+[
+10938,
+8
+]
+],
+"creates": [
+250527,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1252277,
+"name": "Veteran's Silvered Chain Helm",
+"learnedat": 95,
+"colors": [
+95,
+125,
+140,
+155
+],
+"reagents": [
+[
+2841,
+15
+],
+[
+3478,
+6
+],
+[
+2842,
+4
+],
+[
+249427,
+4
+],
+[
+5498,
+6
+]
+],
+"creates": [
+250528,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1252278,
+"name": "Guard's Silvered Chain Helm",
+"learnedat": 95,
+"colors": [
+95,
+125,
+140,
+155
+],
+"reagents": [
+[
+2841,
+15
+],
+[
+3478,
+6
+],
+[
+2842,
+4
+],
+[
+249427,
+4
+],
+[
+1210,
+6
+]
+],
+"creates": [
+250529,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1252279,
+"name": "Protector's Silvered Chain Helm",
+"learnedat": 95,
+"colors": [
+95,
+125,
+140,
+155
+],
+"reagents": [
+[
+2841,
+15
+],
+[
+3478,
+6
+],
+[
+2842,
+4
+],
+[
+249427,
+4
+],
+[
+818,
+6
+]
+],
+"creates": [
+250530,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1252280,
+"name": "Acolyte's Silvered Chain Helm",
+"learnedat": 95,
+"colors": [
+95,
+125,
+140,
+155
+],
+"reagents": [
+[
+2841,
+15
+],
+[
+3478,
+6
+],
+[
+2842,
+4
+],
+[
+249427,
+4
+],
+[
+10940,
+6
+]
+],
+"creates": [
+250531,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1252281,
+"name": "Crusader's Silvered Chain Helm",
+"learnedat": 95,
+"colors": [
+95,
+125,
+140,
+155
+],
+"reagents": [
+[
+2841,
+15
+],
+[
+3478,
+6
+],
+[
+2842,
+4
+],
+[
+249427,
+4
+],
+[
+10938,
+6
+]
+],
+"creates": [
+250532,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1252282,
+"name": "Hard Gold Cuirass",
+"learnedat": 145,
+"colors": [
+145,
+170,
+182,
+195
+],
+"reagents": [
+[
+3577,
+12
+],
+[
+3859,
+3
+],
+[
+3486,
+2
+]
+],
+"creates": [
+250533,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252283,
+"name": "Hard Gold Boots",
+"learnedat": 150,
+"colors": [
+150,
+175,
+187,
+200
+],
+"reagents": [
+[
+3577,
+6
+],
+[
+3859,
+2
+],
+[
+3486,
+2
+],
+[
+4234,
+2
+]
+],
+"creates": [
+250534,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252284,
+"name": "Hard Gold Bracers",
+"learnedat": 160,
+"colors": [
+160,
+185,
+197,
+210
+],
+"reagents": [
+[
+3577,
+6
+],
+[
+3859,
+1
+],
+[
+3486,
+2
+]
+],
+"creates": [
+250535,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252285,
+"name": "Hard Gold Leggings",
+"learnedat": 165,
+"colors": [
+165,
+190,
+202,
+215
+],
+"reagents": [
+[
+3577,
+10
+],
+[
+3859,
+2
+],
+[
+3486,
+2
+]
+],
+"creates": [
+250536,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252286,
+"name": "Hard Gold Coif",
+"learnedat": 170,
+"colors": [
+170,
+195,
+207,
+220
+],
+"reagents": [
+[
+3577,
+10
+],
+[
+3859,
+2
+],
+[
+3486,
+2
+]
+],
+"creates": [
+250537,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252287,
+"name": "Hard Gold Gauntlet",
+"learnedat": 175,
+"colors": [
+175,
+200,
+212,
+225
+],
+"reagents": [
+[
+3577,
+8
+],
+[
+3859,
+2
+],
+[
+3486,
+2
+]
+],
+"creates": [
+250538,
+1,
+1
+],
+"source": [
+4,
+5
+],
+"status": "new"
+},
+{
+"id": 1252288,
+"name": "Hard Gold Pauldrons",
+"learnedat": 175,
+"colors": [
+175,
+200,
+212,
+225
+],
+"reagents": [
+[
+3577,
+8
+],
+[
+3859,
+2
+],
+[
+3486,
+2
+]
+],
+"creates": [
+250539,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252289,
+"name": "Shining Mithril Breastplate",
+"learnedat": 195,
+"colors": [
+195,
+215,
+225,
+235
+],
+"reagents": [
+[
+3860,
+8
+],
+[
+6037,
+9
+],
+[
+3486,
+2
+],
+[
+7971,
+2
+]
+],
+"creates": [
+250540,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252290,
+"name": "Shining Mithril Pauldrons",
+"learnedat": 195,
+"colors": [
+195,
+215,
+225,
+235
+],
+"reagents": [
+[
+3860,
+6
+],
+[
+6037,
+3
+],
+[
+3486,
+2
+],
+[
+4304,
+2
+]
+],
+"creates": [
+250541,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252291,
+"name": "Shining Mithril Boots",
+"learnedat": 200,
+"colors": [
+200,
+220,
+230,
+240
+],
+"reagents": [
+[
+3860,
+4
+],
+[
+6037,
+3
+],
+[
+3486,
+2
+],
+[
+4304,
+4
+]
+],
+"creates": [
+250542,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252292,
+"name": "Shining Mithril Helm",
+"learnedat": 235,
+"colors": [
+0,
+235,
+245,
+255
+],
+"reagents": [
+[
+3860,
+8
+],
+[
+6037,
+9
+],
+[
+3486,
+2
+],
+[
+7075,
+1
+]
+],
+"creates": [
+250543,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252293,
+"name": "Shining Mithril Pants",
+"learnedat": 220,
+"colors": [
+220,
+240,
+250,
+260
+],
+"reagents": [
+[
+3860,
+6
+],
+[
+6037,
+9
+],
+[
+3486,
+2
+],
+[
+7075,
+1
+]
+],
+"creates": [
+250544,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252294,
+"name": "Shining Mithril Gauntlet",
+"learnedat": 220,
+"colors": [
+220,
+240,
+250,
+260
+],
+"reagents": [
+[
+3860,
+5
+],
+[
+6037,
+6
+],
+[
+3486,
+2
+],
+[
+7909,
+2
+]
+],
+"creates": [
+250545,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252295,
+"name": "Officer's Boots",
+"learnedat": 200,
+"colors": [
+200,
+205,
+205,
+205
+],
+"reagents": [
+[
+3859,
+4
+],
+[
+3486,
+4
+],
+[
+1529,
+4
+]
+],
+"creates": [
+250546,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252296,
+"name": "Sentinel's Boots",
+"learnedat": 200,
+"colors": [
+200,
+205,
+205,
+205
+],
+"reagents": [
+[
+3859,
+4
+],
+[
+3486,
+4
+],
+[
+8831,
+4
+]
+],
+"creates": [
+250547,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252297,
+"name": "Warder's Boots",
+"learnedat": 200,
+"colors": [
+200,
+205,
+205,
+205
+],
+"reagents": [
+[
+3859,
+4
+],
+[
+3486,
+4
+],
+[
+7971,
+4
+]
+],
+"creates": [
+250548,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252298,
+"name": "Prefect's Boots",
+"learnedat": 200,
+"colors": [
+200,
+205,
+205,
+205
+],
+"reagents": [
+[
+3859,
+4
+],
+[
+3486,
+4
+],
+[
+13926,
+4
+]
+],
+"creates": [
+250549,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252299,
+"name": "Justicar's Boots",
+"learnedat": 200,
+"colors": [
+200,
+205,
+205,
+205
+],
+"reagents": [
+[
+3859,
+4
+],
+[
+3486,
+4
+],
+[
+7079,
+4
+]
+],
+"creates": [
+250550,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252300,
+"name": "Officer's Gloves",
+"learnedat": 250,
+"colors": [
+250,
+255,
+255,
+255
+],
+"reagents": [
+[
+12359,
+8
+],
+[
+7966,
+4
+],
+[
+1529,
+4
+]
+],
+"creates": [
+250551,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252301,
+"name": "Sentinel's Gloves",
+"learnedat": 250,
+"colors": [
+250,
+255,
+255,
+255
+],
+"reagents": [
+[
+12359,
+8
+],
+[
+7966,
+4
+],
+[
+8831,
+4
+]
+],
+"creates": [
+250552,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252302,
+"name": "Warder's Gloves",
+"learnedat": 250,
+"colors": [
+250,
+255,
+255,
+255
+],
+"reagents": [
+[
+12359,
+8
+],
+[
+7966,
+4
+],
+[
+7971,
+4
+]
+],
+"creates": [
+250553,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252303,
+"name": "Prefect's Gloves",
+"learnedat": 250,
+"colors": [
+250,
+255,
+255,
+255
+],
+"reagents": [
+[
+12359,
+8
+],
+[
+7966,
+4
+],
+[
+13926,
+4
+]
+],
+"creates": [
+250554,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252304,
+"name": "Justicar's Gloves",
+"learnedat": 250,
+"colors": [
+250,
+255,
+255,
+255
+],
+"reagents": [
+[
+12359,
+8
+],
+[
+7966,
+4
+],
+[
+7079,
+4
+]
+],
+"creates": [
+250555,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252305,
+"name": "Officer's Belt",
+"learnedat": 150,
+"colors": [
+150,
+155,
+155,
+155
+],
+"reagents": [
+[
+3575,
+6
+],
+[
+3486,
+2
+],
+[
+1529,
+2
+]
+],
+"creates": [
+250556,
+1,
+1
+],
+"source": [
+6
+],
+"status": "new"
+},
+{
+"id": 1252306,
+"name": "Sentinel's Belt",
+"learnedat": 150,
+"colors": [
+150,
+155,
+155,
+155
+],
+"reagents": [
+[
+3575,
+6
+],
+[
+3486,
+2
+],
+[
+8831,
+2
+]
+],
+"creates": [
+250557,
+1,
+1
+],
+"source": [
+6
+],
+"status": "new"
+},
+{
+"id": 1252307,
+"name": "Warder's Belt",
+"learnedat": 150,
+"colors": [
+150,
+155,
+155,
+155
+],
+"reagents": [
+[
+3575,
+6
+],
+[
+3486,
+2
+],
+[
+7971,
+2
+]
+],
+"creates": [
+250558,
+1,
+1
+],
+"source": [
+6
+],
+"status": "new"
+},
+{
+"id": 1252308,
+"name": "Prefect's Belt",
+"learnedat": 150,
+"colors": [
+150,
+155,
+155,
+155
+],
+"reagents": [
+[
+3575,
+6
+],
+[
+3486,
+2
+],
+[
+13926,
+2
+]
+],
+"creates": [
+250559,
+1,
+1
+],
+"source": [
+6
+],
+"status": "new"
+},
+{
+"id": 1252309,
+"name": "Justicar's Belt",
+"learnedat": 150,
+"colors": [
+150,
+155,
+155,
+155
+],
+"reagents": [
+[
+3575,
+6
+],
+[
+3486,
+2
+],
+[
+7079,
+2
+]
+],
+"creates": [
+250560,
+1,
+1
+],
+"source": [
+6
+],
+"status": "new"
+},
+{
+"id": 1252310,
+"name": "Officer's Sabatons",
+"learnedat": 240,
+"colors": [
+240,
+260,
+270,
+280
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+7966,
+3
+],
+[
+249432,
+4
+],
+[
+249410,
+4
+],
+[
+1529,
+6
+],
+[
+249427,
+4
+]
+],
+"creates": [
+250561,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252311,
+"name": "Sentinel's Sabatons",
+"learnedat": 240,
+"colors": [
+240,
+260,
+270,
+280
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+7966,
+3
+],
+[
+249432,
+4
+],
+[
+249410,
+4
+],
+[
+8831,
+6
+],
+[
+249427,
+4
+]
+],
+"creates": [
+250562,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252312,
+"name": "Warder's Sabatons",
+"learnedat": 240,
+"colors": [
+240,
+260,
+270,
+280
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+7966,
+3
+],
+[
+249432,
+4
+],
+[
+249410,
+4
+],
+[
+7971,
+6
+],
+[
+249427,
+4
+]
+],
+"creates": [
+250563,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252313,
+"name": "Prefect's Sabatons",
+"learnedat": 240,
+"colors": [
+240,
+260,
+270,
+280
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+7966,
+3
+],
+[
+249432,
+4
+],
+[
+249410,
+4
+],
+[
+13926,
+6
+],
+[
+249427,
+4
+]
+],
+"creates": [
+250564,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252314,
+"name": "Justicar's Sabatons",
+"learnedat": 240,
+"colors": [
+240,
+260,
+270,
+280
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+7966,
+3
+],
+[
+249432,
+4
+],
+[
+249410,
+4
+],
+[
+7079,
+6
+],
+[
+249427,
+4
+]
+],
+"creates": [
+250565,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252315,
+"name": "Officer's Gauntlet",
+"learnedat": 175,
+"colors": [
+175,
+200,
+212,
+225
+],
+"reagents": [
+[
+3859,
+10
+],
+[
+3486,
+4
+],
+[
+249432,
+4
+],
+[
+249410,
+2
+],
+[
+1529,
+4
+]
+],
+"creates": [
+250566,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252316,
+"name": "Sentinel's Gauntlet",
+"learnedat": 175,
+"colors": [
+175,
+200,
+212,
+225
+],
+"reagents": [
+[
+3859,
+10
+],
+[
+3486,
+4
+],
+[
+249432,
+4
+],
+[
+249410,
+2
+],
+[
+8831,
+4
+]
+],
+"creates": [
+250567,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252317,
+"name": "Warder's Gauntlet",
+"learnedat": 175,
+"colors": [
+175,
+200,
+212,
+225
+],
+"reagents": [
+[
+3859,
+10
+],
+[
+3486,
+4
+],
+[
+249432,
+4
+],
+[
+249410,
+2
+],
+[
+7971,
+4
+]
+],
+"creates": [
+250568,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252318,
+"name": "Prefect's Gauntlet",
+"learnedat": 175,
+"colors": [
+175,
+200,
+212,
+225
+],
+"reagents": [
+[
+3859,
+10
+],
+[
+3486,
+4
+],
+[
+249432,
+4
+],
+[
+249410,
+2
+],
+[
+13926,
+4
+]
+],
+"creates": [
+250569,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252319,
+"name": "Justicar's Gauntlet",
+"learnedat": 175,
+"colors": [
+175,
+200,
+212,
+225
+],
+"reagents": [
+[
+3859,
+10
+],
+[
+3486,
+4
+],
+[
+249432,
+4
+],
+[
+249410,
+2
+],
+[
+7079,
+4
+]
+],
+"creates": [
+250570,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252320,
+"name": "Officer's Waistguard",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+12359,
+24
+],
+[
+7966,
+4
+],
+[
+249432,
+6
+],
+[
+249410,
+6
+],
+[
+1529,
+10
+]
+],
+"creates": [
+250571,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252321,
+"name": "Sentinel's Waistguard",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+12359,
+24
+],
+[
+7966,
+4
+],
+[
+249432,
+6
+],
+[
+249410,
+6
+],
+[
+8831,
+10
+]
+],
+"creates": [
+250572,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252322,
+"name": "Warder's Waistguard",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+12359,
+24
+],
+[
+7966,
+4
+],
+[
+249432,
+6
+],
+[
+249410,
+6
+],
+[
+7971,
+10
+]
+],
+"creates": [
+250573,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252323,
+"name": "Prefect's Waistguard",
+"learnedat": 270,
+"colors": [
+0,
+270,
+280,
+290
+],
+"reagents": [
+[
+12359,
+24
+],
+[
+7966,
+4
+],
+[
+249432,
+6
+],
+[
+249410,
+6
+],
+[
+13926,
+10
+]
+],
+"creates": [
+250574,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252324,
+"name": "Justicar's Waistguard",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+12359,
+24
+],
+[
+7966,
+4
+],
+[
+249432,
+6
+],
+[
+249410,
+6
+],
+[
+7079,
+10
+]
+],
+"creates": [
+250575,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252325,
+"name": "Officer's Pauldrons",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+3860,
+20
+],
+[
+7966,
+2
+],
+[
+249432,
+6
+],
+[
+249410,
+4
+],
+[
+1529,
+8
+],
+[
+11139,
+1
+]
+],
+"creates": [
+250576,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252326,
+"name": "Sentinel's Pauldrons",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+3860,
+20
+],
+[
+7966,
+2
+],
+[
+249432,
+6
+],
+[
+249410,
+4
+],
+[
+8831,
+8
+],
+[
+11139,
+1
+]
+],
+"creates": [
+250577,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252327,
+"name": "Warder's Pauldrons",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+3860,
+20
+],
+[
+7966,
+2
+],
+[
+249432,
+6
+],
+[
+249410,
+4
+],
+[
+7971,
+8
+],
+[
+11139,
+1
+]
+],
+"creates": [
+250578,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252328,
+"name": "Prefect's Pauldrons",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+3860,
+20
+],
+[
+7966,
+2
+],
+[
+249432,
+6
+],
+[
+249410,
+4
+],
+[
+13926,
+8
+],
+[
+11139,
+1
+]
+],
+"creates": [
+250579,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252329,
+"name": "Justicar's Pauldrons",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+3860,
+20
+],
+[
+7966,
+2
+],
+[
+249432,
+6
+],
+[
+249410,
+4
+],
+[
+7079,
+8
+],
+[
+11139,
+1
+]
+],
+"creates": [
+250580,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252330,
+"name": "Officer's Wristguards",
+"learnedat": 225,
+"colors": [
+225,
+250,
+262,
+275
+],
+"reagents": [
+[
+12359,
+16
+],
+[
+7966,
+2
+],
+[
+249432,
+6
+],
+[
+249410,
+4
+],
+[
+1529,
+6
+],
+[
+11139,
+1
+]
+],
+"creates": [
+250581,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252331,
+"name": "Sentinel's Wristguards",
+"learnedat": 225,
+"colors": [
+225,
+250,
+262,
+275
+],
+"reagents": [
+[
+12359,
+16
+],
+[
+7966,
+2
+],
+[
+249432,
+6
+],
+[
+249410,
+4
+],
+[
+8831,
+6
+],
+[
+11139,
+1
+]
+],
+"creates": [
+250582,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252332,
+"name": "Warder's Wristguards",
+"learnedat": 225,
+"colors": [
+225,
+250,
+262,
+275
+],
+"reagents": [
+[
+12359,
+16
+],
+[
+7966,
+2
+],
+[
+249432,
+6
+],
+[
+249410,
+4
+],
+[
+7971,
+6
+],
+[
+11139,
+1
+]
+],
+"creates": [
+250583,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252333,
+"name": "Prefect's Wristguards",
+"learnedat": 225,
+"colors": [
+225,
+250,
+262,
+275
+],
+"reagents": [
+[
+12359,
+16
+],
+[
+7966,
+2
+],
+[
+249432,
+6
+],
+[
+249410,
+4
+],
+[
+13926,
+6
+],
+[
+11139,
+1
+]
+],
+"creates": [
+250584,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252334,
+"name": "Justicar's Wristguards",
+"learnedat": 225,
+"colors": [
+225,
+250,
+262,
+275
+],
+"reagents": [
+[
+12359,
+16
+],
+[
+7966,
+2
+],
+[
+249432,
+6
+],
+[
+249410,
+4
+],
+[
+7079,
+6
+],
+[
+11139,
+1
+]
+],
+"creates": [
+250585,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252335,
+"name": "Blessed Plate Pauldrons",
+"learnedat": 240,
+"colors": [
+240,
+260,
+270,
+280
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+12361,
+1
+],
+[
+8170,
+6
+]
+],
+"creates": [
+250586,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252336,
+"name": "Blessed Plate Boots",
+"learnedat": 240,
+"colors": [
+240,
+260,
+270,
+280
+],
+"reagents": [
+[
+12359,
+24
+],
+[
+12361,
+1
+],
+[
+8170,
+6
+]
+],
+"creates": [
+250587,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252337,
+"name": "Blessed Plate Gauntlet",
+"learnedat": 245,
+"colors": [
+245,
+265,
+275,
+285
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+12361,
+2
+]
+],
+"creates": [
+250588,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252338,
+"name": "Imperial Plate Gauntlets",
+"learnedat": 255,
+"colors": [
+255,
+275,
+285,
+295
+],
+"reagents": [
+[
+12359,
+24
+],
+[
+7910,
+1
+]
+],
+"creates": [
+250589,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252339,
+"name": "Blessed Plate Bracers",
+"learnedat": 255,
+"colors": [
+255,
+275,
+285,
+295
+],
+"reagents": [
+[
+12359,
+16
+],
+[
+12361,
+1
+]
+],
+"creates": [
+250590,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252340,
+"name": "Blessed Plate Leggings",
+"learnedat": 270,
+"colors": [
+270,
+290,
+300,
+310
+],
+"reagents": [
+[
+12359,
+40
+],
+[
+12361,
+2
+]
+],
+"creates": [
+250591,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252341,
+"name": "Blessed Plate Belt",
+"learnedat": 270,
+"colors": [
+270,
+290,
+300,
+310
+],
+"reagents": [
+[
+12359,
+18
+],
+[
+12361,
+1
+],
+[
+7071,
+1
+],
+[
+8170,
+6
+]
+],
+"creates": [
+250592,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252342,
+"name": "Blessed Plate Helm",
+"learnedat": 275,
+"colors": [
+275,
+295,
+305,
+315
+],
+"reagents": [
+[
+12359,
+30
+],
+[
+12361,
+2
+]
+],
+"creates": [
+250593,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252343,
+"name": "Blessed Plate Chest",
+"learnedat": 280,
+"colors": [
+280,
+300,
+310,
+320
+],
+"reagents": [
+[
+12359,
+36
+],
+[
+12361,
+2
+]
+],
+"creates": [
+250594,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252344,
+"name": "Enriched Thorium Breastplate",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+251290,
+8
+],
+[
+251291,
+24
+],
+[
+7082,
+4
+],
+[
+7078,
+4
+],
+[
+249726,
+4
+]
+],
+"creates": [
+250595,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252345,
+"name": "Enriched Thorium Leggings",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+251290,
+10
+],
+[
+251291,
+20
+],
+[
+7082,
+6
+],
+[
+249726,
+3
+]
+],
+"creates": [
+250596,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252346,
+"name": "Enriched Thorium Helm",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+251290,
+6
+],
+[
+251291,
+16
+],
+[
+7078,
+6
+],
+[
+249726,
+3
+]
+],
+"creates": [
+250597,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252347,
+"name": "Champion's Legplates",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+251290,
+12
+],
+[
+251291,
+20
+],
+[
+7082,
+10
+],
+[
+13512,
+2
+]
+],
+"creates": [
+250598,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252348,
+"name": "Stalwart Helm",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+251290,
+12
+],
+[
+12359,
+80
+],
+[
+7910,
+10
+],
+[
+12800,
+4
+],
+[
+7971,
+20
+]
+],
+"creates": [
+250599,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252349,
+"name": "Martyr's Legplates",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+251290,
+12
+],
+[
+251291,
+20
+],
+[
+7078,
+10
+],
+[
+13511,
+2
+]
+],
+"creates": [
+250600,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252350,
+"name": "Breastplate of Salvation",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+251290,
+12
+],
+[
+12359,
+80
+],
+[
+12361,
+10
+],
+[
+12800,
+4
+],
+[
+12662,
+20
+]
+],
+"creates": [
+250601,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252351,
+"name": "Brass Knuckles",
+"learnedat": 80,
+"colors": [
+80,
+110,
+125,
+140
+],
+"reagents": [
+[
+2841,
+6
+],
+[
+2880,
+4
+],
+[
+3470,
+2
+],
+[
+1210,
+2
+],
+[
+2319,
+1
+]
+],
+"creates": [
+250602,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252352,
+"name": "Bronze Dory",
+"learnedat": 95,
+"colors": [
+95,
+125,
+140,
+155
+],
+"reagents": [
+[
+2841,
+8
+],
+[
+2880,
+4
+],
+[
+2319,
+1
+]
+],
+"creates": [
+250603,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252353,
+"name": "Iron Fists",
+"learnedat": 130,
+"colors": [
+130,
+155,
+167,
+180
+],
+"reagents": [
+[
+3575,
+6
+],
+[
+3466,
+2
+],
+[
+3486,
+1
+],
+[
+2842,
+2
+],
+[
+4234,
+2
+]
+],
+"creates": [
+250604,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252354,
+"name": "Steel Spear",
+"learnedat": 160,
+"colors": [
+160,
+185,
+197,
+210
+],
+"reagents": [
+[
+3859,
+10
+],
+[
+3466,
+2
+],
+[
+7069,
+1
+],
+[
+3486,
+4
+],
+[
+4234,
+1
+]
+],
+"creates": [
+250605,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252355,
+"name": "Iron Morningstar",
+"learnedat": 165,
+"colors": [
+165,
+190,
+202,
+215
+],
+"reagents": [
+[
+3575,
+14
+],
+[
+3466,
+2
+],
+[
+3486,
+2
+],
+[
+3864,
+4
+],
+[
+4234,
+2
+]
+],
+"creates": [
+250606,
+1,
+1
+],
+"source": [
+4,
+5
+],
+"status": "new"
+},
+{
+"id": 1252356,
+"name": "Mithril Shortsword",
+"learnedat": 180,
+"colors": [
+180,
+200,
+210,
+220
+],
+"reagents": [
+[
+3860,
+8
+],
+[
+3466,
+2
+],
+[
+3486,
+2
+],
+[
+1705,
+4
+],
+[
+4234,
+2
+]
+],
+"creates": [
+250607,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252357,
+"name": "Mithril Warhammer",
+"learnedat": 190,
+"colors": [
+190,
+210,
+220,
+230
+],
+"reagents": [
+[
+3860,
+12
+],
+[
+3864,
+2
+],
+[
+7966,
+1
+],
+[
+4234,
+4
+]
+],
+"creates": [
+250608,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252358,
+"name": "Mithril Claws",
+"learnedat": 195,
+"colors": [
+195,
+215,
+225,
+235
+],
+"reagents": [
+[
+3860,
+8
+],
+[
+1529,
+1
+],
+[
+7966,
+1
+],
+[
+4234,
+2
+]
+],
+"creates": [
+250609,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252359,
+"name": "Mithril Claymore",
+"learnedat": 195,
+"colors": [
+195,
+215,
+225,
+235
+],
+"reagents": [
+[
+3860,
+16
+],
+[
+3577,
+6
+],
+[
+7966,
+2
+],
+[
+4234,
+4
+]
+],
+"creates": [
+250610,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252360,
+"name": "Mithril Stiletto",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+3860,
+16
+],
+[
+1210,
+6
+],
+[
+3577,
+2
+],
+[
+7966,
+1
+]
+],
+"creates": [
+250611,
+1,
+1
+],
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 1252361,
+"name": "Charged Mithril Battleaxe",
+"learnedat": 215,
+"colors": [
+215,
+235,
+245,
+255
+],
+"reagents": [
+[
+3860,
+20
+],
+[
+7082,
+6
+],
+[
+7966,
+4
+],
+[
+4234,
+4
+]
+],
+"creates": [
+250612,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252362,
+"name": "Thorium Greatmace",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+12359,
+30
+],
+[
+251291,
+4
+],
+[
+7076,
+4
+],
+[
+249726,
+10
+],
+[
+12644,
+2
+]
+],
+"creates": [
+250613,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252363,
+"name": "Thorium Cestus",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+251291,
+8
+],
+[
+7082,
+4
+],
+[
+249726,
+10
+],
+[
+12644,
+1
+]
+],
+"creates": [
+250614,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252364,
+"name": "Thorium Poleaxe",
+"learnedat": 260,
+"colors": [
+260,
+280,
+292,
+305
+],
+"reagents": [
+[
+12359,
+20
+],
+[
+251291,
+6
+],
+[
+249726,
+10
+],
+[
+12803,
+4
+],
+[
+8170,
+4
+]
+],
+"creates": [
+250615,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252365,
+"name": "Bold Dirk",
+"learnedat": 270,
+"colors": [
+270,
+290,
+300,
+310
+],
+"reagents": [
+[
+12359,
+30
+],
+[
+7082,
+4
+],
+[
+249726,
+10
+],
+[
+8170,
+4
+]
+],
+"creates": [
+250616,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1252366,
+"name": "Stormcarver",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+251290,
+20
+],
+[
+249726,
+10
+],
+[
+12644,
+2
+]
+],
+"creates": [
+250617,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252367,
+"name": "Bagh Nakh",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+251290,
+10
+],
+[
+251291,
+10
+],
+[
+249726,
+10
+],
+[
+7910,
+4
+],
+[
+12361,
+4
+]
+],
+"creates": [
+250618,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1252368,
+"name": "Legionite Glaive",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+251290,
+15
+],
+[
+251291,
+8
+],
+[
+249726,
+10
+],
+[
+248820,
+4
+],
+[
+248822,
+1
+]
+],
+"creates": [
+250619,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1263041,
+"name": "Anvil",
+"learnedat": 140,
+"colors": [
+140,
+140,
+142,
+145
+],
+"reagents": [
+[
+2841,
+5
+],
+[
+3478,
+2
+],
+[
+2319,
+2
+]
+],
+"creates": [
+279988,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 1263073,
+"name": "Master Forge",
+"learnedat": 300,
+"colors": [
+300,
+300,
+300,
+300
+],
+"reagents": [
+[
+273127,
+1
+],
+[
+12359,
+5
+],
+[
+8170,
+2
+]
+],
+"creates": [
+279955,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1292945,
+"name": "Justice Leggings",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+5
+],
+[
+12360,
+4
+],
+[
+251291,
+18
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273908,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292946,
+"name": "Justice Gauntlets",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+12360,
+2
+],
+[
+251291,
+12
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273909,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292947,
+"name": "Justice Spaulders",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+12360,
+2
+],
+[
+251291,
+12
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273910,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292948,
+"name": "Justice Greaves",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+12360,
+2
+],
+[
+251291,
+12
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273911,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292949,
+"name": "Justice Legplates",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+5
+],
+[
+12360,
+4
+],
+[
+251291,
+18
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273912,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292950,
+"name": "Justice Gloves",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+12360,
+2
+],
+[
+251291,
+12
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273913,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292951,
+"name": "Justice Epaulets",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+12360,
+2
+],
+[
+251291,
+12
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273914,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292952,
+"name": "Justice Treads",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+12360,
+2
+],
+[
+251291,
+12
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273915,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292953,
+"name": "Justice Legguards",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+5
+],
+[
+12360,
+4
+],
+[
+251291,
+18
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273916,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292954,
+"name": "Justice Handguards",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+12360,
+2
+],
+[
+251291,
+12
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273917,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292955,
+"name": "Justice Pauldrons",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+12360,
+2
+],
+[
+251291,
+12
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273918,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292956,
+"name": "Justice Sabatons",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+12360,
+2
+],
+[
+251291,
+12
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273919,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292981,
+"name": "Legplates of Glory",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+5
+],
+[
+12360,
+4
+],
+[
+251291,
+18
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273944,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292982,
+"name": "Gauntlets of Glory",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+12360,
+2
+],
+[
+251291,
+12
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273945,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292983,
+"name": "Shoulders of Glory",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+12360,
+2
+],
+[
+251291,
+12
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273946,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292984,
+"name": "Greaves of Glory",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+12360,
+2
+],
+[
+251291,
+12
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273947,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292985,
+"name": "Legguards of Glory",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+5
+],
+[
+12360,
+4
+],
+[
+251291,
+18
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273948,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292986,
+"name": "Handguards of Glory",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+12360,
+2
+],
+[
+251291,
+12
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273949,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292987,
+"name": "Pauldrons of Glory",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+12360,
+2
+],
+[
+251291,
+12
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273950,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1292988,
+"name": "Sabatons of Glory",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+12360,
+2
+],
+[
+251291,
+12
+],
+[
+18567,
+1
+]
+],
+"creates": [
+273951,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1297138,
+"name": "Goregasher Grips",
+"learnedat": 285,
+"colors": [
+285,
+290,
+292,
+295
+],
+"reagents": [
+[
+12359,
+7
+],
+[
+12655,
+5
+],
+[
+7078,
+3
+],
+[
+18567,
+1
+]
+],
+"creates": [
+275622,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1297139,
+"name": "Goregasher Support",
+"learnedat": 290,
+"colors": [
+290,
+295,
+297,
+300
+],
+"reagents": [
+[
+12359,
+11
+],
+[
+12655,
+5
+],
+[
+7078,
+3
+],
+[
+18567,
+1
+]
+],
+"creates": [
+275623,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1297140,
+"name": "Goregasher Stompers",
+"learnedat": 295,
+"colors": [
+295,
+295,
+297,
+300
+],
+"reagents": [
+[
+12359,
+9
+],
+[
+12655,
+5
+],
+[
+7078,
+3
+],
+[
+18567,
+1
+]
+],
+"creates": [
+275624,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1297141,
+"name": "Clutchlord's Grips",
+"learnedat": 285,
+"colors": [
+285,
+290,
+292,
+295
+],
+"reagents": [
+[
+12359,
+7
+],
+[
+12655,
+5
+],
+[
+7076,
+3
+],
+[
+18567,
+1
+]
+],
+"creates": [
+275625,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1297142,
+"name": "Clutchlord's Support",
+"learnedat": 290,
+"colors": [
+290,
+295,
+297,
+300
+],
+"reagents": [
+[
+12359,
+11
+],
+[
+12655,
+5
+],
+[
+7076,
+3
+],
+[
+18567,
+1
+]
+],
+"creates": [
+275626,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1297143,
+"name": "Clutchlord's Stompers",
+"learnedat": 295,
+"colors": [
+295,
+295,
+297,
+300
+],
+"reagents": [
+[
+12359,
+9
+],
+[
+12655,
+5
+],
+[
+7076,
+3
+],
+[
+18567,
+1
+]
+],
+"creates": [
+275627,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301421,
+"name": "Cloudy Skyforged Chainmail",
+"learnedat": 60,
+"colors": [
+60,
+65,
+67,
+70
+],
+"reagents": [
+[
+2840,
+8
+],
+[
+2880,
+1
+]
+],
+"creates": [
+276992,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301422,
+"name": "Cloudy Skyforged Wristguards",
+"learnedat": 50,
+"colors": [
+50,
+55,
+57,
+60
+],
+"reagents": [
+[
+2840,
+5
+]
+],
+"creates": [
+276993,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301423,
+"name": "Cloudy Skyforged Gauntlets",
+"learnedat": 55,
+"colors": [
+55,
+60,
+62,
+65
+],
+"reagents": [
+[
+2840,
+7
+]
+],
+"creates": [
+276994,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301424,
+"name": "Cloudy Skyforged Chain",
+"learnedat": 50,
+"colors": [
+50,
+55,
+57,
+60
+],
+"reagents": [
+[
+2840,
+6
+]
+],
+"creates": [
+276995,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301425,
+"name": "Cloudy Skyforged Legguards",
+"learnedat": 60,
+"colors": [
+60,
+65,
+67,
+70
+],
+"reagents": [
+[
+2840,
+8
+],
+[
+2880,
+1
+]
+],
+"creates": [
+276996,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301426,
+"name": "Cloudy Skyforged Greaves",
+"learnedat": 55,
+"colors": [
+55,
+60,
+62,
+65
+],
+"reagents": [
+[
+2840,
+7
+]
+],
+"creates": [
+276997,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301445,
+"name": "Azure Skyforged Chainmail",
+"learnedat": 60,
+"colors": [
+60,
+65,
+67,
+70
+],
+"reagents": [
+[
+2840,
+8
+],
+[
+2880,
+1
+]
+],
+"creates": [
+277016,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301446,
+"name": "Azure Skyforged Wristguards",
+"learnedat": 50,
+"colors": [
+50,
+55,
+57,
+60
+],
+"reagents": [
+[
+2840,
+5
+]
+],
+"creates": [
+277017,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301447,
+"name": "Azure Skyforged Gauntlets",
+"learnedat": 55,
+"colors": [
+55,
+60,
+62,
+65
+],
+"reagents": [
+[
+2840,
+7
+]
+],
+"creates": [
+277018,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301448,
+"name": "Azure Skyforged Chain",
+"learnedat": 50,
+"colors": [
+50,
+55,
+57,
+60
+],
+"reagents": [
+[
+2840,
+6
+]
+],
+"creates": [
+277019,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301449,
+"name": "Azure Skyforged Legguards",
+"learnedat": 60,
+"colors": [
+60,
+65,
+67,
+70
+],
+"reagents": [
+[
+2840,
+8
+],
+[
+2880,
+1
+]
+],
+"creates": [
+277020,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301450,
+"name": "Azure Skyforged Greaves",
+"learnedat": 55,
+"colors": [
+55,
+60,
+62,
+65
+],
+"reagents": [
+[
+2840,
+7
+]
+],
+"creates": [
+277021,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301526,
+"name": "Cloudy Skyforged Helm",
+"learnedat": 175,
+"colors": [
+175,
+185,
+187,
+190
+],
+"reagents": [
+[
+3575,
+18
+],
+[
+3486,
+5
+],
+[
+5498,
+1
+]
+],
+"creates": [
+277040,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301527,
+"name": "Cloudy Skyforged Pauldrons",
+"learnedat": 175,
+"colors": [
+175,
+185,
+187,
+190
+],
+"reagents": [
+[
+3575,
+14
+],
+[
+3486,
+3
+],
+[
+5498,
+1
+]
+],
+"creates": [
+277041,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301534,
+"name": "Azure Skyforged Helm",
+"learnedat": 175,
+"colors": [
+175,
+185,
+187,
+190
+],
+"reagents": [
+[
+3575,
+18
+],
+[
+3486,
+5
+],
+[
+7909,
+1
+]
+],
+"creates": [
+277048,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1301535,
+"name": "Azure Skyforged Pauldrons",
+"learnedat": 175,
+"colors": [
+175,
+185,
+187,
+190
+],
+"reagents": [
+[
+3575,
+14
+],
+[
+3486,
+3
+],
+[
+7909,
+1
+]
+],
+"creates": [
+277049,
+1,
+1
+],
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 1302598,
+"name": "Rough Copper Chain Boots",
+"learnedat": 50,
+"colors": [
+50,
+60,
+65,
+70
+],
+"reagents": [
+[
+2840,
+9
+]
+],
+"creates": [
+277672,
+1,
+1
+],
+"source": [
+4
+],
+"status": "new"
+},
+{
+"id": 1306533,
+"name": "Ironwood Blade",
+"learnedat": 300,
+"colors": [
+300,
+310,
+317,
+325
+],
+"reagents": [
+[
+274030,
+2
+],
+[
+251290,
+1
+],
+[
+251291,
+14
+]
+],
+"creates": [
+279259,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1306534,
+"name": "Forest Defender's Axe",
+"learnedat": 300,
+"colors": [
+300,
+310,
+317,
+325
+],
+"reagents": [
+[
+274030,
+4
+],
+[
+251290,
+1
+],
+[
+251291,
+20
+]
+],
+"creates": [
+279260,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1306535,
+"name": "Greenhammer",
+"learnedat": 300,
+"colors": [
+300,
+310,
+317,
+325
+],
+"reagents": [
+[
+274030,
+2
+],
+[
+251290,
+1
+],
+[
+251291,
+16
+]
+],
+"creates": [
+279261,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1306536,
+"name": "Evergreen Shield",
+"learnedat": 300,
+"colors": [
+300,
+310,
+317,
+325
+],
+"reagents": [
+[
+274030,
+2
+],
+[
+251290,
+1
+],
+[
+251291,
+10
+]
+],
+"creates": [
+279262,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1306537,
+"name": "Depleted Thorium Sabatons",
+"learnedat": 300,
+"colors": [
+300,
+310,
+317,
+325
+],
+"reagents": [
+[
+274030,
+2
+],
+[
+251290,
+1
+],
+[
+251291,
+12
+]
+],
+"creates": [
+279263,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1306538,
+"name": "Heavy Thorium Gauntlets",
+"learnedat": 300,
+"colors": [
+300,
+310,
+317,
+325
+],
+"reagents": [
+[
+274030,
+2
+],
+[
+251290,
+1
+],
+[
+251291,
+14
+]
+],
+"creates": [
+279264,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1306539,
+"name": "Azerothium Legplates",
+"learnedat": 300,
+"colors": [
+300,
+310,
+317,
+325
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+251290,
+1
+],
+[
+251291,
+18
+]
+],
+"creates": [
+279265,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1317962,
+"name": "Cracked Blacksmith Hammer",
+"learnedat": 110,
+"colors": [
+110,
+115,
+117,
+120
+],
+"reagents": [
+[
+2841,
+18
+],
+[
+2842,
+2
+],
+[
+818,
+1
+]
+],
+"creates": [
+285279,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1317963,
+"name": "Mithril Blacksmith Hammer",
+"learnedat": 195,
+"colors": [
+195,
+200,
+202,
+205
+],
+"reagents": [
+[
+3860,
+10
+],
+[
+3577,
+2
+],
+[
+7910,
+1
+]
+],
+"creates": [
+285280,
+1,
+1
+],
+"status": "new"
+},
+{
+"id": 1317964,
+"name": "Arcanite Blacksmith Hammer",
+"learnedat": 270,
+"colors": [
+270,
+275,
+277,
+280
+],
+"reagents": [
+[
+11371,
+4
+],
+[
+12360,
+1
+],
+[
+12361,
+1
+]
+],
+"creates": [
+285281,
+1,
+1
+],
+"status": "new"
+}
+]
+}

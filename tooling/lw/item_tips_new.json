@@ -1,0 +1,588 @@
+{
+"252785": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"252792": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"252793": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"252794": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"252795": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"252796": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"252797": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"252813": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"252814": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"252815": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"252816": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"252817": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"252818": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"252819": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"npc:248201": {
+"name": "Pawani",
+"quality": null,
+"tip": "Pawani Leatherworker Level 60 Humanoid (Normal) Durotar Supply and Logistics"
+},
+"npc:256734": {
+"name": "Daniel Stitchsong",
+"quality": null,
+"tip": "Daniel Stitchsong Leatherworker Level 60 Humanoid (Normal) Azeroth Commerce Authority"
+},
+"252768": {
+"name": "Pattern: Totemic Leather Belt",
+"quality": 3,
+"tip": "Pattern: Totemic Leather Belt | Item Level 17 | BoP  Requires Leatherworking (60) | Use: Teaches you how to craft Totemic Leather Belt. |"
+},
+"252431": {
+"name": "Totemic Leather Belt",
+"quality": 3,
+"tip": "Totemic Leather Belt | Item Level 17 | BoP  Waist Leather 45 Armor | +4 Strength | +3 Stamina | Durability 25 / 25 Requires Level 12 | Equip: Increases damage and healing done by magical spells and effects by up to 4 . |"
+},
+"252497": {
+"name": "Totemic Leather Gloves",
+"quality": 3,
+"tip": "Totemic Leather Gloves | Item Level 20 | BoP  Hands Leather 53 Armor | +4 Strength | +3 Stamina | Durability 30 / 30 Requires Level 15 | Equip: Increases damage and healing done by magical spells and effects by up to 5 . |"
+},
+"252435": {
+"name": "Totemic Leather Armor",
+"quality": 3,
+"tip": "Totemic Leather Armor | Item Level 20 | BoP  Chest Leather 85 Armor | +7 Strength | +3 Stamina | +3 Intellect Requires Level 15 | Equip: Increases damage and healing done by magical spells and effects by up to 6 . |"
+},
+"252442": {
+"name": "Totemic Leather Boots",
+"quality": 3,
+"tip": "Totemic Leather Boots | Item Level 22 | BoP  Feet Leather 61 Armor | +5 Strength | +4 Stamina | Durability 40 / 40 Requires Level 17 | Equip: Increases damage and healing done by magical spells and effects by up to 6 . |"
+},
+"252446": {
+"name": "Totemic Leather Pants",
+"quality": 3,
+"tip": "Totemic Leather Pants | Item Level 25 | BoP  Legs Leather 82 Armor | +9 Strength | +4 Stamina | +4 Intellect Requires Level 20 | Equip: Increases damage and healing done by magical spells and effects by up to 7 . |"
+},
+"252448": {
+"name": "Totemic Leather Hood",
+"quality": 3,
+"tip": "Totemic Leather Hood | Item Level 25 | BoP  Head Leather 76 Armor | +10 Stamina | Durability 50 / 50 Requires Level 20 | Equip: Increases damage and healing done by magical spells and effects by up to 9 . |"
+},
+"252451": {
+"name": "Totemic Leather Tunic",
+"quality": 3,
+"tip": "Totemic Leather Tunic | Item Level 27 | BoP  Chest Leather 98 Armor | +8 Strength | +6 Stamina | +5 Intellect | Durability 95 / 95 Requires Level 22 | Equip: Increases damage and healing done by magical spells and effects by up to 7 . |"
+},
+"252458": {
+"name": "Totemic Leather Leggings",
+"quality": 3,
+"tip": "Totemic Leather Leggings | Item Level 30 | BoP  Legs Leather 90 Armor | +9 Strength | +7 Stamina | +6 Intellect | Durability 75 / 75 Requires Level 25 | Equip: Increases damage and healing done by magical spells and effects by up to 8 . |"
+},
+"252428": {
+"name": "Brawler's Leather Belt",
+"quality": 3,
+"tip": "Brawler's Leather Belt | Item Level 17 | BoP  Waist Leather 45 Armor | +4 Strength | +4 Agility | +3 Stamina | Durability 25 / 25 Requires Level 12 |"
+},
+"252494": {
+"name": "Brawler's Leather Gloves",
+"quality": 3,
+"tip": "Brawler's Leather Gloves | Item Level 20 | BoP  Hands Leather 53 Armor | +4 Strength | +4 Agility | +3 Stamina | Durability 30 / 30 Requires Level 15 |"
+},
+"252490": {
+"name": "Brawler's Leather Armor",
+"quality": 3,
+"tip": "Brawler's Leather Armor | Item Level 20 | BoP  Chest Leather 85 Armor | +5 Strength | +7 Agility | +3 Stamina | +3 Spirit Requires Level 15 |"
+},
+"252439": {
+"name": "Brawler's Leather Boots",
+"quality": 3,
+"tip": "Brawler's Leather Boots | Item Level 22 | BoP  Feet Leather 61 Armor | +5 Strength | +5 Agility | +4 Stamina | Durability 40 / 40 Requires Level 17 |"
+},
+"252500": {
+"name": "Brawler's Leather Pants",
+"quality": 3,
+"tip": "Brawler's Leather Pants | Item Level 25 | BoP  Legs Leather 82 Armor | +6 Strength | +9 Agility | +4 Stamina | +4 Spirit Requires Level 20 |"
+},
+"252504": {
+"name": "Brawler's Leather Hood",
+"quality": 3,
+"tip": "Brawler's Leather Hood | Item Level 25 | BoP  Head Leather 76 Armor | +8 Agility | +10 Stamina | Durability 50 / 50 Requires Level 20 |"
+},
+"252508": {
+"name": "Brawler's Leather Tunic",
+"quality": 3,
+"tip": "Brawler's Leather Tunic | Item Level 27 | BoP  Chest Leather 98 Armor | +6 Strength | +8 Agility | +6 Stamina | +5 Spirit | Durability 95 / 95 Requires Level 22 |"
+},
+"252516": {
+"name": "Brawler's Leather Legguards",
+"quality": 3,
+"tip": "Brawler's Leather Legguards | Item Level 30 | BoP  Legs Leather 90 Armor | +7 Strength | +9 Agility | +7 Stamina | +6 Spirit | Durability 75 / 75 Requires Level 25 |"
+},
+"252430": {
+"name": "Defender's Leather Belt",
+"quality": 3,
+"tip": "Defender's Leather Belt | Item Level 17 | BoP  Waist Leather 45 Armor | +4 Strength | +4 Stamina | +29 Armor | Durability 25 / 25 Requires Level 12 |"
+},
+"252496": {
+"name": "Defender's Leather Gloves",
+"quality": 3,
+"tip": "Defender's Leather Gloves | Item Level 20 | BoP  Hands Leather 53 Armor | +4 Strength | +4 Stamina | +34 Armor | Durability 30 / 30 Requires Level 15 |"
+},
+"252434": {
+"name": "Defender's Leather Armor",
+"quality": 3,
+"tip": "Defender's Leather Armor | Item Level 20 | BoP  Chest Leather 85 Armor | +7 Strength | +3 Agility | +5 Stamina | +33 Armor Requires Level 15 |"
+},
+"252441": {
+"name": "Defender's Leather Boots",
+"quality": 3,
+"tip": "Defender's Leather Boots | Item Level 22 | BoP  Feet Leather 61 Armor | +5 Strength | +5 Stamina | +38 Armor | Durability 40 / 40 Requires Level 17 |"
+},
+"252445": {
+"name": "Defender's Leather Pants",
+"quality": 3,
+"tip": "Defender's Leather Pants | Item Level 25 | BoP  Legs Leather 82 Armor | +9 Strength | +4 Agility | +6 Stamina | +42 Armor Requires Level 20 |"
+},
+"252447": {
+"name": "Defender's Leather Hood",
+"quality": 3,
+"tip": "Defender's Leather Hood | Item Level 25 | BoP  Head Leather 76 Armor | +8 Strength | +10 Stamina | Durability 50 / 50 Requires Level 20 |"
+},
+"252450": {
+"name": "Defender's Leather Tunic",
+"quality": 3,
+"tip": "Defender's Leather Tunic | Item Level 27 | BoP  Chest Leather 98 Armor | +6 Strength | +6 Agility | +8 Stamina | +51 Armor | Durability 95 / 95 Requires Level 22 |"
+},
+"252457": {
+"name": "Defender's Leather Kilt",
+"quality": 3,
+"tip": "Defender's Leather Kilt | Item Level 30 | BoP  Legs Leather 90 Armor | +7 Strength | +7 Agility | +9 Stamina | +58 Armor | Durability 75 / 75 Requires Level 25 |"
+},
+"252523": {
+"name": "Mender's Leather Belt",
+"quality": 3,
+"tip": "Mender's Leather Belt | Item Level 35 | BoP  Waist Leather 63 Armor | +4 Stamina | +6 Intellect | +6 Spirit | Durability 35 / 35 Requires Level 30 | Equip: Increases healing done by up to 19 and damage done by up to 6 for all magical spells and effects. |"
+},
+"252522": {
+"name": "Skycaller's Leather Belt",
+"quality": 3,
+"tip": "Skycaller's Leather Belt | Item Level 35 | BoP  Waist Leather 63 Armor | +6 Stamina | +6 Intellect | +4 Spirit | Durability 35 / 35 Requires Level 30 | Equip: Increases damage and healing done by magical spells and effects by up to 10 . |"
+},
+"252460": {
+"name": "Warden's Leather Belt",
+"quality": 3,
+"tip": "Warden's Leather Belt | Item Level 35 | BoP  Waist Leather 63 Armor | +6 Strength | +6 Agility | +9 Stamina | +38 Armor | Durability 35 / 35 Requires Level 30 |"
+},
+"252520": {
+"name": "Skulker's Leather Belt",
+"quality": 3,
+"tip": "Skulker's Leather Belt | Item Level 35 | BoP  Waist Leather 63 Armor | +6 Strength | +9 Agility | +6 Stamina | +4 Spirit | Durability 35 / 35 Requires Level 30 |"
+},
+"252459": {
+"name": "Prowler's Leather Belt",
+"quality": 3,
+"tip": "Prowler's Leather Belt | Item Level 35 | BoP  Waist Leather 63 Armor | +9 Strength | +6 Agility | +6 Stamina | +4 Intellect | Durability 35 / 35 Requires Level 30 |"
+},
+"252461": {
+"name": "Skirmisher's Leather Belt",
+"quality": 3,
+"tip": "Skirmisher's Leather Belt | Item Level 35 | BoP  Waist Leather 63 Armor | +9 Strength | +6 Stamina | +4 Intellect | Durability 35 / 35 Requires Level 30 | Equip: Increases damage and healing done by magical spells and effects by up to 7 . |"
+},
+"252521": {
+"name": "Stalker's Leather Belt",
+"quality": 3,
+"tip": "Stalker's Leather Belt | Item Level 35 | BoP  Waist Leather 63 Armor | +9 Agility | +6 Stamina | +6 Intellect | +4 Spirit | Durability 35 / 35 Requires Level 30 |"
+},
+"252591": {
+"name": "Mender's Mail Belt",
+"quality": 3,
+"tip": "Mender's Mail Belt | Item Level 55 | BoP  Waist Mail 184 Armor | +10 Stamina | +12 Intellect Requires Level 50 | Equip: Increases healing done by up to 30 and damage done by up to 10 for all magical spells and effects. |"
+},
+"252590": {
+"name": "Skirmisher's Mail Belt",
+"quality": 3,
+"tip": "Skirmisher's Mail Belt | Item Level 55 | BoP  Waist Mail 184 Armor | +14 Strength | +10 Stamina Requires Level 50 | Equip: Increases damage and healing done by magical spells and effects by up to 15 . |"
+},
+"252589": {
+"name": "Skycaller's Mail Belt",
+"quality": 3,
+"tip": "Skycaller's Mail Belt | Item Level 55 | BoP  Waist Mail 184 Armor | +10 Stamina | +12 Intellect Requires Level 50 | Equip: Increases damage and healing done by magical spells and effects by up to 16 . |"
+},
+"252588": {
+"name": "Stalker's Mail Belt",
+"quality": 3,
+"tip": "Stalker's Mail Belt | Item Level 55 | BoP  Waist Mail 184 Armor | +14 Agility | +12 Stamina | +10 Intellect Requires Level 50 |"
+},
+"252565": {
+"name": "Mender's Mail Boots",
+"quality": 3,
+"tip": "Mender's Mail Boots | Item Level 45 | BoP  Feet Mail 188 Armor | +5 Stamina | +7 Intellect | +7 Spirit Requires Level 40 | Equip: Increases healing done by up to 24 and damage done by up to 8 for all magical spells and effects. |"
+},
+"252564": {
+"name": "Skirmisher's Mail Boots",
+"quality": 3,
+"tip": "Skirmisher's Mail Boots | Item Level 45 | BoP  Feet Mail 188 Armor | +11 Strength | +7 Stamina | +5 Intellect Requires Level 40 | Equip: Increases damage and healing done by magical spells and effects by up to 9 . |"
+},
+"252563": {
+"name": "Skycaller's Mail Boots",
+"quality": 3,
+"tip": "Skycaller's Mail Boots | Item Level 45 | BoP  Feet Mail 188 Armor | +7 Stamina | +7 Intellect | +5 Spirit Requires Level 40 | Equip: Increases damage and healing done by magical spells and effects by up to 13 . |"
+},
+"252562": {
+"name": "Stalker's Mail Boots",
+"quality": 3,
+"tip": "Stalker's Mail Boots | Item Level 45 | BoP  Feet Mail 188 Armor | +11 Agility | +7 Stamina | +7 Intellect | +5 Spirit Requires Level 40 |"
+},
+"252528": {
+"name": "Skirmisher's Leather Gloves",
+"quality": 3,
+"tip": "Skirmisher's Leather Gloves | Item Level 40 | BoP  Hands Leather 76 Armor | +10 Strength | +7 Stamina Requires Level 35 | Equip: Increases damage and healing done by magical spells and effects by up to 10 . |"
+},
+"252526": {
+"name": "Stalker's Leather Gloves",
+"quality": 3,
+"tip": "Stalker's Leather Gloves | Item Level 40 | BoP  Hands Leather 76 Armor | +10 Agility | +9 Stamina | +7 Intellect Requires Level 35 |"
+},
+"276998": {
+"name": "Cloudy Gustwoven Harness",
+"quality": 2,
+"tip": "Cloudy Gustwoven Harness | Item Level 12 | BoE  Chest Leather 62 Armor | +2 Strength | Durability 60 / 60 Requires Level 7 |"
+},
+"277004": {
+"name": "Cloudy Windraveled Jerkin",
+"quality": 2,
+"tip": "Cloudy Windraveled Jerkin | Item Level 12 | BoE  Chest Leather 62 Armor | +2 Intellect | Durability 60 / 60 Requires Level 7 |"
+},
+"277022": {
+"name": "Azure Gustwoven Harness",
+"quality": 2,
+"tip": "Azure Gustwoven Harness | Item Level 12 | BoE  Chest Leather 62 Armor | +2 Strength | Durability 60 / 60 Requires Level 7 |"
+},
+"277028": {
+"name": "Azure Windraveled Jerkin",
+"quality": 2,
+"tip": "Azure Windraveled Jerkin | Item Level 12 | BoE  Chest Leather 62 Armor | +2 Intellect | Durability 60 / 60 Requires Level 7 |"
+},
+"252598": {
+"name": "Charged Scorpid Vest",
+"quality": 2,
+"tip": "Charged Scorpid Vest | Item Level 57 | BoE  Chest Mail 307 Armor | +15 Intellect | +14 Spirit Requires Level 52 | Equip: Increases damage and healing done by magical spells and effects by up to 12 . |"
+},
+"252599": {
+"name": "Supple Scorpid Vest",
+"quality": 2,
+"tip": "Supple Scorpid Vest | Item Level 59 | BoE  Chest Mail 317 Armor | +15 Strength | +16 Stamina Requires Level 54 | Equip: Increases damage and healing done by magical spells and effects by up to 12 . |"
+},
+"252594": {
+"name": "Heavy Scorpid Boots",
+"quality": 2,
+"tip": "Heavy Scorpid Boots | Item Level 56 | BoE  Feet Mail 208 Armor | +10 Agility | +9 Stamina Requires Level 51 |"
+},
+"252480": {
+"name": "Blue Suede Armor",
+"quality": 2,
+"tip": "Blue Suede Armor | Item Level 58 | BoE  Chest Leather 150 Armor | +16 Strength | +8 Agility | +12 Stamina Requires Level 53 |"
+},
+"252552": {
+"name": "Tooled Leather Armor",
+"quality": 2,
+"tip": "Tooled Leather Armor | Item Level 56 | BoE  Chest Leather 146 Armor | +16 Intellect | +11 Spirit Requires Level 51 | Equip: Increases damage and healing done by magical spells and effects by up to 12 . |"
+},
+"252479": {
+"name": "Wicked Leather Boots",
+"quality": 2,
+"tip": "Wicked Leather Boots | Item Level 57 | BoE  Feet Leather 102 Armor | +12 Agility | +12 Stamina Requires Level 52 |"
+},
+"275611": {
+"name": "Bileblister Girdle",
+"quality": 3,
+"tip": "Bileblister Girdle | Item Level 58 | BoE  Waist Leather 93 Armor | +17 Stamina | +14 Intellect | +6 Nature Resistance Requires Level 53 |"
+},
+"275614": {
+"name": "Hivethrasher's Girdle",
+"quality": 3,
+"tip": "Hivethrasher's Girdle | Item Level 58 | BoE  Waist Leather 93 Armor | +7 Agility | +21 Stamina | +4 Nature Resistance Requires Level 53 |"
+},
+"275617": {
+"name": "Scalegut Belt",
+"quality": 3,
+"tip": "Scalegut Belt | Item Level 58 | BoE  Waist Mail 193 Armor | +14 Agility | +17 Stamina | +6 Nature Resistance Requires Level 53 |"
+},
+"275620": {
+"name": "Broodwatcher's Belt",
+"quality": 3,
+"tip": "Broodwatcher's Belt | Item Level 58 | BoE  Waist Mail 193 Armor | +21 Stamina | +4 Nature Resistance Requires Level 53 | Equip: Increases healing done by up to 16 and damage done by up to 5 for all magical spells and effects. |"
+},
+"273884": {
+"name": "Grovekeeper Trousers",
+"quality": 4,
+"tip": "Grovekeeper Trousers | Crafted | Item Level 61 | BoE  | Unique-Equipped: Artisan's Tier (1) Legs Leather 164 Armor Classes: Druid Requires Level 60 | | Grovekeeper Eclipse (0/6) Item #280998 | Item #280999 | Item #281000 | Item #281003 | Item #281001 | Item #281002 | |"
+},
+"273900": {
+"name": "Wildstalker's Legguards",
+"quality": 4,
+"tip": "Wildstalker's Legguards | Crafted | Item Level 61 | BoE  | Unique-Equipped: Artisan's Tier (1) Legs Mail 344 Armor Classes: Hunter Requires Level 60 | | Wildstalker Armor (0/6) Wildstalker's Helm | Wildstalker's Spaulders | Wildstalker's Breastplate | Wildstalker's Gauntlets | Wildstalker's Legguards | Wildstalker's Greaves | (2) Set : Increases your attack speed and casting speed by 1%. | (3) Set : Reduces the cooldown of your Frost Trap and Freezing Trap abilities by 3 sec. | (4) Set : +36 Attack Power against Beasts. | (5) Set : Reduces the cooldown of your Aimed Shot and Multi-Shot abilities by 1 sec. |"
+},
+"273928": {
+"name": "Grimstitch Pants",
+"quality": 4,
+"tip": "Grimstitch Pants | Crafted | Item Level 61 | BoE  | Unique-Equipped: Artisan's Tier (1) Legs Leather 164 Armor Classes: Rogue Requires Level 60 | | Grimstitch Armor (0/6) Grimstitch Mask | Grimstitch Spaulders | Grimstitch Chestpiece | Grimstitch Gloves | Grimstitch Pants | Grimstitch Boots | (2) Set : Improves your chance to hit by 1.0%. | (3) Set : Reduces the cooldown of your Kidney Shot ability by 3 sec. | (4) Set : +36 Attack Power against Humanoids. | (5) Set : Reduces the cost of your Envenom and Eviscerate abilities by 5 Energy. |"
+},
+"273932": {
+"name": "Spiritcaller Leggings",
+"quality": 4,
+"tip": "Spiritcaller Leggings | Crafted | Item Level 61 | BoE  | Unique-Equipped: Artisan's Tier (1) Legs Mail 344 Armor Classes: Shaman Requires Level 60 | | The Spiritcaller's Rage (0/6) Spiritcaller Crown | Spiritcaller Spaulders | Spiritcaller Armor | Spiritcaller Grips | Spiritcaller Leggings | Spiritcaller Treads | (2) Set : Increases your attack speed and casting speed by 1%. | (3) Set : Increases the radius of effect of your beneficial Air and Earth totems by 10 yds. | (4) Set : +36 Attack Power against Elementals. | (5) Set : Reduces the cooldown of your Stormstrike ability by 0.5 sec. |"
+},
+"279252": {
+"name": "Elderwild Waistcord",
+"quality": 4,
+"tip": "Elderwild Waistcord | Item Level 65 | BoE  Waist Leather 111 Armor | +21 Stamina | +18 Spirit Requires Level 60 | Equip: Increases healing done by up to 30 and damage done by up to 10 for all magical spells and effects. |"
+},
+"252433": {
+"name": "Wisdom's Leather Belt",
+"quality": 3,
+"tip": "Wisdom's Leather Belt | Item Level 17 | BoP  Waist Leather 45 Armor | +3 Stamina | +4 Intellect | Durability 25 / 25 Requires Level 12 | Equip: Increases healing done by up to 8 and damage done by up to 3 for all magical spells and effects. |"
+},
+"252432": {
+"name": "Stormrider's Leather Belt",
+"quality": 3,
+"tip": "Stormrider's Leather Belt | Item Level 17 | BoP  Waist Leather 45 Armor | +3 Stamina | +4 Intellect | Durability 25 / 25 Requires Level 12 | Equip: Increases damage and healing done by magical spells and effects by up to 4 . |"
+},
+"252429": {
+"name": "Trapper's Leather Belt",
+"quality": 3,
+"tip": "Trapper's Leather Belt | Item Level 17 | BoP  Waist Leather 45 Armor | +4 Agility | +4 Stamina | +3 Intellect | Durability 25 / 25 Requires Level 12 |"
+},
+"252437": {
+"name": "Forceful Medium Armor Kit",
+"quality": 2,
+"tip": "Forceful Medium Armor Kit | Item Level 15 | 16 Armor Requires Level 15 | | Use: Permanently increase the Attack Power value by 4 and the armor value by 16 of an item worn on the chest, legs, hands, or feet. | Max Stack: 10"
+},
+"252436": {
+"name": "Mystic Medium Armor Kit",
+"quality": 2,
+"tip": "Mystic Medium Armor Kit | Item Level 15 | 16 Armor Requires Level 15 | | Use: Permanently increase the Spell Power value by 2 and the armor value by 16 of an item worn on the chest, legs, hands, or feet. | Max Stack: 10"
+},
+"252453": {
+"name": "Forceful Heavy Armor Kit",
+"quality": 2,
+"tip": "Forceful Heavy Armor Kit | Item Level 30 | 24 Armor Requires Level 30 | | Use: Permanently increase the Attack Power value by 0 and armor value by 0 of an item worn on the chest, legs, hands, or feet. Only usable on items level 0 and above. | Max Stack: 10"
+},
+"252452": {
+"name": "Mystic Heavy Armor Kit",
+"quality": 2,
+"tip": "Mystic Heavy Armor Kit | Item Level 30 | 24 Armor Requires Level 30 | | Use: Permanently increase the Spell Power value by 75 and armor value by 0 of an item worn on the chest, legs, hands, or feet. Only usable on items level 0 and above. | Max Stack: 10"
+},
+"252463": {
+"name": "Forceful Thick Armor Kit",
+"quality": 2,
+"tip": "Forceful Thick Armor Kit | Item Level 40 | 32 Armor Requires Level 40 | | Use: Permanently increase the Attack Power value by 0 and armor value by 0 of an item worn on the chest, legs, hands, or feet. Only usable on items level 0 and above. | Max Stack: 10"
+},
+"252462": {
+"name": "Mystic Thick Armor Kit",
+"quality": 2,
+"tip": "Mystic Thick Armor Kit | Item Level 40 | 32 Armor Requires Level 40 | | Use: Permanently increase the Spell Power value by 75 and armor value by 0 of an item worn on the chest, legs, hands, or feet. Only usable on items level 0 and above. | Max Stack: 10"
+},
+"252488": {
+"name": "Forceful Rugged Armor Kit",
+"quality": 2,
+"tip": "Forceful Rugged Armor Kit | Item Level 50 | 40 Armor Requires Level 50 | | Use: Permanently increase the Attack Power value by 0 and armor value by 0 of an item worn on the chest, legs, hands, or feet. Only usable on items level 0 and above. | Max Stack: 10"
+},
+"252487": {
+"name": "Mystic Rugged Armor Kit",
+"quality": 2,
+"tip": "Mystic Rugged Armor Kit | Item Level 50 | 40 Armor Requires Level 50 | | Use: Permanently increase the Spell Power value by 75 and armor value by 0 of an item worn on the chest, legs, hands, or feet. Only usable on items level 0 and above. | Max Stack: 10"
+},
+"249410": {
+"name": "Sulfuric Acid",
+"quality": 2,
+"tip": "Sulfuric Acid | Item Level 25 Crafting Reagent | \"Crafted by alchemists.\" | Max Stack: 20"
+},
+"249427": {
+"name": "Pristine Leather",
+"quality": 2,
+"tip": "Pristine Leather | Scarce | Item Level 25 Crafting Reagent | Max Stack: 20"
+},
+"249391": {
+"name": "Pyrite",
+"quality": 2,
+"tip": "Pyrite | Scarce | Item Level 25 Crafting Reagent | Max Stack: 20"
+},
+"273936": {
+"name": "Spiritcaller Pants",
+"quality": 4,
+"tip": "Spiritcaller Pants | Crafted | Item Level 61 | BoE  | Unique-Equipped: Artisan's Tier (1) Legs Mail 344 Armor Classes: Shaman Requires Level 60 | | The Spiritcaller (0/6) Spiritcaller Helmet | Spiritcaller Epaulets | Spiritcaller Breastplate | Spiritcaller Gauntlets | Spiritcaller Pants | Spiritcaller Greaves | (2) Set : Increased Spirit +10 | (3) Set : Increases the radius of effect of your beneficial Fire and Water totems by 10 yds. | (4) Set : Increases healing done by up to 26 and damage done by up to 9 for all magical spells and effects. | (5) Set : Reduces the cooldown of your Riptide spell by 1 sec. |"
+},
+"276538": {
+"name": "Spiritcaller Kilt",
+"quality": 4,
+"tip": "Spiritcaller Kilt | Crafted | Item Level 61 | BoE  | Unique-Equipped: Artisan's Tier (1) Legs Mail 344 Armor Classes: Shaman Requires Level 60 | | The Spiritcaller's Storm (0/6) Spiritcaller Headdress | Spiritcaller Mantle | Spiritcaller Embrace | Spiritcaller Gloves | Spiritcaller Kilt | Spiritcaller Boots | (2) Set : Improves your chance to hit by 1.0%. | (3) Set : Reduces the cooldown of your Earthbind Totem spell by 2 sec. | (4) Set : Increases damage done by your spells and effects by up to 21 when fighting Elementals. | (5) Set : Reduces the cooldown of your Lava Burst spell by 1 sec. |"
+},
+"252465": {
+"name": "Prowler's Leather Shoes",
+"quality": 3,
+"tip": "Prowler's Leather Shoes | Item Level 45 | BoP  Feet Leather 92 Armor | +11 Strength | +7 Agility | +7 Stamina | +5 Intellect Requires Level 40 |"
+},
+"252534": {
+"name": "Prowler's Leather Shoulders",
+"quality": 3,
+"tip": "Prowler's Leather Shoulders | Item Level 47 | BoP  Shoulder Leather 104 Armor | +11 Strength | +9 Agility | +7 Stamina | +6 Intellect | Durability 60 / 60 Requires Level 42 |"
+},
+"252568": {
+"name": "Skirmisher's Mail Shoulders",
+"quality": 3,
+"tip": "Skirmisher's Mail Shoulders | Item Level 47 | BoP  Shoulder Mail 213 Armor | +11 Strength | +7 Stamina | +6 Intellect Requires Level 42 | Equip: Increases damage and healing done by magical spells and effects by up to 10 . |"
+},
+"252572": {
+"name": "Skirmisher's Mail Bracers",
+"quality": 3,
+"tip": "Skirmisher's Mail Bracers | Item Level 50 | BoP  Wrist Mail 131 Armor | +9 Strength | +6 Stamina | +5 Intellect Requires Level 45 | Equip: Increases damage and healing done by magical spells and effects by up to 8 . |"
+},
+"252578": {
+"name": "Skirmisher's Mail Sabatons",
+"quality": 3,
+"tip": "Skirmisher's Mail Sabatons | Item Level 52 | BoP  Feet Mail 214 Armor | +13 Strength | +9 Stamina Requires Level 47 | Equip: Increases damage and healing done by magical spells and effects by up to 13 . |"
+},
+"252586": {
+"name": "Skirmisher's Mail Gauntlets",
+"quality": 3,
+"tip": "Skirmisher's Mail Gauntlets | Item Level 55 | BoP  Hands Mail 205 Armor | +14 Strength | +9 Stamina | +6 Intellect Requires Level 50 | Equip: Increases damage and healing done by magical spells and effects by up to 11 . |"
+},
+"npc:11519": {
+"name": "Bazzalan",
+"quality": null,
+"tip": "Bazzalan Level 16 Demon (Elite)"
+},
+"npc:3670": {
+"name": "Lord Pythas",
+"quality": null,
+"tip": "Lord Pythas Fanglord Level 21 Humanoid (Elite)"
+},
+"npc:3872": {
+"name": "Deathsworn Captain",
+"quality": null,
+"tip": "Deathsworn Captain Level 25 Undead (Rare Elite)"
+},
+"npc:3927": {
+"name": "Wolf Master Nandos",
+"quality": null,
+"tip": "Wolf Master Nandos Level 25 Humanoid (Elite)"
+},
+"npc:5775": {
+"name": "Verdan the Everliving",
+"quality": null,
+"tip": "Verdan the Everliving Level 21 Elemental (Elite)"
+},
+"npc:4829": {
+"name": "Aku'mai",
+"quality": null,
+"tip": "Aku'mai Level 28 (Elite)"
+},
+"npc:6243": {
+"name": "Gelihast",
+"quality": null,
+"tip": "Gelihast Level 26 Humanoid (Elite)"
+},
+"npc:647": {
+"name": "Captain Greenskin",
+"quality": null,
+"tip": "Captain Greenskin Level 20 Humanoid (Elite)"
+},
+"npc:3674": {
+"name": "Skum",
+"quality": null,
+"tip": "Skum Level 21 Beast (Elite)"
+},
+"npc:1716": {
+"name": "Bazil Thredd",
+"quality": null,
+"tip": "Bazil Thredd Level 29 Humanoid (Elite)"
+},
+"npc:4832": {
+"name": "Twilight Lord Kelris",
+"quality": null,
+"tip": "Twilight Lord Kelris Level 27 Humanoid (Elite)"
+},
+"npc:1663": {
+"name": "Dextren Ward",
+"quality": null,
+"tip": "Dextren Ward Level 26 Humanoid (Elite)"
+},
+"npc:1666": {
+"name": "Kam Deepfury",
+"quality": null,
+"tip": "Kam Deepfury Level 27 Humanoid (Elite)"
+},
+"npc:3983": {
+"name": "Interrogator Vishas",
+"quality": null,
+"tip": "Interrogator Vishas Level 32 Humanoid (Elite)"
+},
+"npc:4421": {
+"name": "Charlga Razorflank",
+"quality": null,
+"tip": "Charlga Razorflank The Crone Level 33 Humanoid (Elite)"
+},
+"npc:4424": {
+"name": "Aggem Thorncurse",
+"quality": null,
+"tip": "Aggem Thorncurse Death's Head Prophet Level 30 Humanoid (Elite)"
+},
+"npc:4830": {
+"name": "Old Serra'kis",
+"quality": null,
+"tip": "Old Serra'kis Level 26 Beast (Elite)"
+},
+"npc:6488": {
+"name": "Fallen Champion",
+"quality": null,
+"tip": "Fallen Champion Level 33 Undead (Rare Elite)"
+},
+"npc:6490": {
+"name": "Azshir the Sleepless",
+"quality": null,
+"tip": "Azshir the Sleepless Level 33 Undead (Rare Elite)"
+},
+"npc:12876": {
+"name": "Baron Aquanis",
+"quality": null,
+"tip": "Baron Aquanis Level 28 Elemental (Elite)"
+},
+"npc:12902": {
+"name": "Lorgus Jett",
+"quality": null,
+"tip": "Lorgus Jett Level 26 Humanoid (Elite)"
+}
+}

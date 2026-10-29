@@ -1,0 +1,623 @@
+diff -ru /home/claude/work/baseline_guide/00a_Northshire.lua guide/Guidelime_ForeverAlliance/00a_Northshire.lua
+--- /home/claude/work/baseline_guide/00a_Northshire.lua	2026-10-25 17:41:52.979541232 -0400
++++ guide/Guidelime_ForeverAlliance/00a_Northshire.lua	2026-10-25 17:49:44.482317700 -0400
+@@ -6,6 +6,7 @@
+ [OC][A Hunter] |cffffcc00Gear rule (Hunter):|r your ranged weapon IS the class - its dps beats everything else. Then Agility (2 ranged attack power and crit per point, and your pet copies your crit), then plain attack power, then Stamina. Leather until Mail at 40. The melee weapon is only a stat stick. Bow until 16 on this route, then a gun: starting bow -> Hornwood Recurve Bow (Stormwind vendor, 4.3 dps, level 3) -> |cff66ff66Militia Bow|r (Rare Books quest, ~11, 9.5 dps +1 Agi) -> |cff66ff66Calibrated Blunderbuss|r (Hall of Thanes quest, 16, gun 15.9 dps). Buy a quiver (+10% ranged attack speed) the first time you are in Stormwind and never run below 200 arrows.
+ [OC]|cffffcc00Professions (Forever):|r Skinning + Leatherworking. Brawler's Leather (Str/Agi/Sta) is the levelling set you can craft from 12 on (patterns cost Merchant's Favor at the merchant camp on the Redridge border, chapter 18-19); Skinning gives +5% damage to Beasts and Dragonkin. Add First Aid and Cooking: Cooking is your own food buff and cheap pet food (boars and bears eat bread, cheese, fish, fruit, fungus and meat). Learn Skinning from Helene Peltskinner in Goldshire; Leatherworking from Adele Fielder next to her.
+ [OC]|cffffcc00Camping (Forever):|r Cooking 1 teaches the Basic Campfire. Sit or craft at a fire for 1 minute for its buffs (1 hour). Each player adds ONE profession object: Camp Chair (Skinning 20) = +2% crit, First Aid Kit = stamina, Leatherworking tent = rested XP. The Camping 101 quests from Sam Sarsaparilla (level 6, outside Goldshire) teach the tier-1 objects once that skill is 20.
++[OC]|cffffcc00Launch rule (1-6):|r no shared tags in Forever - on a camped named mob INVITE the people standing there (kill credit shares in a party; most drop items don't, Shinyfinder Narf's sack does). If no group forms in ~2 min, tick the step and keep moving; the catch-up line at the end of the chapter brings you back. Expect the first 10-20 min to be the worst.
+ 
+ [OC]|cffffffffNorthshire Abbey|r
+ At [TAR823 Deputy Willem] in front of the abbey, [QA783 A Threat Within] [G48.2,42.9 Elwynn Forest]
+@@ -33,7 +34,7 @@
+ [OC]Run back north to the mine
+ Outside the mine at [TAR247226 Kelsey Fargo] (junior mining trainer), [QT91745 Mining Consultant] [QA91752 The Big Picture] - learn Mining from her only if you chose it over Leatherworking [G47.2,32.2 Elwynn Forest]
+ Kill 12 [TAR80 Kobold Laborer] deeper inside Echo Ridge Mine [QC21] [G47.8,31.6 Elwynn Forest]
+-Kill Shinyfinder Narf (named kobold at the back of the mine) and loot the Sack of "Picture" Books [QC91752] [G47.8,31.6 Elwynn Forest]
++Kill Shinyfinder Narf (named kobold at the back of the mine) and loot the Sack of "Picture" Books [QC91752] |cffffcc00launch:|r group or defer - group first: the sack drops for the whole party, and Follow That Kobold and Rare Books (the Militia Bow) hang on it [G47.8,31.6 Elwynn Forest]
+ [OC]|cffffffffLevel 4|r
+ [A Hunter] Back at [TAR248415 Tordrin Sternblade], [T] train (level 4: Aspect of the Monkey, Serpent Sting) [G51,40.4 Elwynn Forest]
+ At [TAR197 Marshal McBride], [QT21] [QT91752 The Big Picture] [QA54 Report to Goldshire] [QA91758 Follow That Kobold!] [QA96627 The Adventurer] [G48.8,41.4 Elwynn Forest]
+@@ -48,7 +49,7 @@
+ At [TAR9296 Milly Osworth] at the vineyard house east of the abbey, [QT3903] [QA3904 Milly's Harvest] [G50.7,39.4 Elwynn Forest]
+ Loot 8 Milly's Harvest (crates among the vines) [QC3904] [G53.2,45.6 Elwynn Forest]
+ At [TAR9296 Milly Osworth], [QT3904] [QA3905 Grape Manifest] [G50.7,39.4 Elwynn Forest]
+-Kill [TAR103 Garrick Padfoot] at the farmhouse in the far east corner, past the vineyards, and loot his head [QC6] [G57.5,48.2 Elwynn Forest]
++Kill [TAR103 Garrick Padfoot] at the farmhouse in the far east corner, past the vineyards, and loot his head [QC6] |cffffcc00launch:|r group or defer [G57.5,48.2 Elwynn Forest]
+ At [TAR823 Deputy Willem], [QT6] [G48.2,42.9 Elwynn Forest]
+ Upstairs in the abbey at [TAR952 Brother Neals], [QT3905] [G49.5,41.6 Elwynn Forest]
+ [A Hunter] At [TAR248415 Tordrin Sternblade], [T] train anything you missed - the next hunter trainer is Josephine Carson in Goldshire [G51,40.4 Elwynn Forest]
+@@ -63,5 +64,6 @@
+ [O]At [TAR263399 Sam Sarsaparilla], [QT95998], then take the Camping 101 quests (they only open once The Great Outdoors is handed in): [QA96626 Camping 101: Cooking] [QA97924 Camping 101: Skinning] [QA97922 Camping 101: Leatherworking] [QA97919 Camping 101: First Aid] [G44.8,63.2 Elwynn Forest]
+ [OC]|cffffffffLevel 6|r
+ [OC]|cffffffffFinished: Northshire|r  -  continue with 6-11 Elwynn
++[OC]|cffffcc00Catch-up:|r anything you deferred for crowds - The Big Picture (Shinyfinder Narf), Bounty on Garrick Padfoot - finish it now before moving on: Northshire is 3 minutes back up the road (after Narf: McBride, then Tordrin and the vineyard tracks for Follow That Kobold, which Goldshire's Dughan takes next). Or carry Garrick only: the end of 6-11 Elwynn walks back to the abbey for Brother Paxton, and Deputy Willem stands at its door
+ [NX 6-11 Elwynn]
+ ]], "Forever Alliance 1-30")
+diff -ru /home/claude/work/baseline_guide/00b_Elwynn.lua guide/Guidelime_ForeverAlliance/00b_Elwynn.lua
+--- /home/claude/work/baseline_guide/00b_Elwynn.lua	2026-10-25 17:41:52.979616284 -0400
++++ guide/Guidelime_ForeverAlliance/00b_Elwynn.lua	2026-10-25 17:50:16.650316964 -0400
+@@ -3,6 +3,7 @@
+ [D Forever Alliance 1-30 (Braedyn)\\Human 6-11: Goldshire, Fargodeep and the southern farms, Crystal Lake, the east side (Azora, Eastvale, Jasperlode), Westbrook, the hunter's pet at 10, then Stormwind, the tram, and the Dark Iron chain through Dun Morogh into Loch Modan. 17 Oct 2026: quest order fixed against Questie's Forever data (A Net Disaster before Slimy Menace, Delicate Instruments 1 before 2); Bounty on Murlocs dropped (needs Deliver Thomas' Report first).]
+ [GA Human]
+ [OC]|cffffffffElwynn 6-11|r  -  four loops out of Goldshire, then the tram. Set your hearth here and come back to it.
++[OC]|cffffcc00Launch rule (6-11):|r no shared tags in Forever - on a camped named mob or object INVITE the people standing there (kill credit shares in a party; most drop items don't; the invite may also pull you onto the leader's layer, unconfirmed for Forever). If no group forms in ~2 min, tick the step and keep moving; the catch-up line before you leave Goldshire brings you back. Crowded spots respawned fast in the beta.
+ 
+ [OC]|cffffffffGoldshire|r
+ At [TAR240 Marshal Dughan] in front of the town hall, [QT54] [QT91772 Shhh! We're Hunting Kobolds] [QA91775 Book Return] [QA62 The Fargodeep Mine] [G42.1,65.9 Elwynn Forest]
+@@ -43,8 +44,8 @@
+ At [TAR247 Billy Maclure], [QT84] [QA87 Goldtooth] [G43.1,85.7 Elwynn Forest]
+ [OC]|cffffffffFargodeep Mine|r  -  the hill between the two farms: the lower entrance is east of the Stonefield farm, the upper one faces Goldshire
+ Kill [TAR475 Kobold Tunneler] and [TAR40 Kobold Miner] in Fargodeep for 8 Large Candles [QC60], 10 Gold Dust [QC47] and 6 Lost Books [QC91775,2]; walk through to the far end to scout it [QC62] [G39,81 Elwynn Forest]
+-Kill [TAR327 Goldtooth] (level 8 named kobold, deep in the mine) [QC87] [G41.7,78 Elwynn Forest]
+-Kill Nimsy for "Fun with Elementals": from the big room go east and up the stairs to the north - he is the other named kobold, not Goldtooth [QC91775,1] [G41,79 Elwynn Forest]
++Kill [TAR327 Goldtooth] (level 8 named kobold, deep in the mine) [QC87] |cffffcc00launch:|r group or defer [G41.7,78 Elwynn Forest]
++Kill Nimsy for "Fun with Elementals": from the big room go east and up the stairs to the north - he is the other named kobold, not Goldtooth [QC91775,1] |cffffcc00launch:|r group or defer - but get him before the Goldshire hand-in at 8: Rare Books (the Militia Bow) hangs on it [G41,79 Elwynn Forest]
+ [O]If a quest called A Taste of Darkness is offered in or near the mine, take it - 840 XP for scouting Fargodeep, which you are doing anyway
+ At [TAR246 "Auntie" Bernice Stonefield], [QT87] [G34.5,84.2 Elwynn Forest]
+ [OC]|cffffcc00Gear:|r Goldtooth: nothing (cloth) - vendor
+@@ -85,7 +86,7 @@
+ Find the half-eaten body by the river bend, [QT37] [QA45 Discover Rolf's Fate] [G72.7,60.3 Elwynn Forest]
+ Rolf's corpse is in the murloc camp further upriver - loot it, [QT45] [QA71 Report to Thomas] [G79.8,55.5 Elwynn Forest]
+ [OC]Head west to Stone Cairn Lake
+-Loot 5 Stolen Enchanting Supplies from the Riverpaw gnoll camps on the north side of the lake [QC91725] [G67.5,42 Elwynn Forest]
++Loot 5 Stolen Enchanting Supplies from the Riverpaw gnoll camps on the north side of the lake [QC91725] |cffffcc00launch:|r group or defer [G67.5,42 Elwynn Forest]
+ [OC]|cffffffffJasperlode Mine|r  -  north shore of the lake
+ Kill 8 [TAR476 Kobold Geomancer] in and around Jasperlode [QC91723], loot Geomancy for Curious Young Wizards [QC91777,1] and 4 Mining Tools [QC91732], and walk to the back of the mine [QC76] [G61,50 Elwynn Forest]
+ [OC]Back south to the tower
+@@ -100,7 +101,7 @@
+ [OC]Follow the river south from the bridge for Ormin's tools
+ Loot the Waterlogged Saw by the second big rock (74.3,76.3), the Waterlogged Axe (77,82) and the Waterlogged Toolbox at the boat (77,86) [QC91733] [G74.3,76.3 Elwynn Forest]
+ [OC]West to Brackwell Pumpkin Patch
+-Kill [TAR330 Princess] (level 9 boar with two boar adds) at the pumpkin patch and loot her collar [QC88]; the [TAR116 Defias Bandit] around the patch drop any Red Linen Bandanas you are still short [QC83] [G69.7,79.2 Elwynn Forest]
++Kill [TAR330 Princess] (level 9 boar with two boar adds) at the pumpkin patch and loot her collar [QC88] (|cffffcc00launch:|r group or defer); the [TAR116 Defias Bandit] around the patch drop any Red Linen Bandanas you are still short [QC83] [G69.7,79.2 Elwynn Forest]
+ [OC]Back up to Eastvale
+ At [TAR278 Sara Timberlain], [QT83] [G79.5,68.8 Elwynn Forest]
+ At [TAR248266 Hagar Lowe], [QT91732 Good Steel] [G82.4,63.8 Elwynn Forest]
+@@ -128,18 +129,19 @@
+ 
+ [OC]|cffffffffLoop 4 - Westbrook Garrison (level 10-11)|r
+ [OC]Take the road west toward Westfall; the garrison is the tower at the zone border
+-[O]On the way, the Applejack Still: a short climb that starts at 28,59 in the hills north of the road. Put 4 Shiny Red Apples in it for a Thunder Applejack (the still is both start and end: [QA91736 Applejack Still] [QT91736]) [G28,59 Elwynn Forest]
++[O]On the way, the Applejack Still: a short climb that starts at 28,59 in the hills north of the road. Put 4 Shiny Red Apples in it for a Thunder Applejack (the still is both start and end: [QA91736 Applejack Still] [QT91736]) |cffffcc00launch:|r group or defer [G28,59 Elwynn Forest]
+ At [TAR963 Deputy Rainer] in front of the garrison, [QT239] [QA11 Riverpaw Gnoll Bounty] [G24.2,74.5 Elwynn Forest]
+ Read the Wanted Poster next to him, [QA176 Wanted: "Hogger"] - Hogger is a level 11 ELITE gnoll; group quest, 880 XP, take it and see whether anyone is fighting him [G24.6,74.7 Elwynn Forest]
+ [O]Inside the garrison, turn left: at [TAR955 Sergeant De Vries], hand over the Thunder Applejack - [QA91738 An Apple Treat] then [QT91738 An Apple Treat] (630 XP) [G24.1,73.2 Elwynn Forest]
+ Kill [TAR478 Riverpaw Outrunner] and the other Riverpaw gnolls south of the garrison for 8 Painted Gnoll Armbands [QC11] [G27,81 Elwynn Forest]
+-[O]|cFFFF0000GROUP 2+|r Hogger (11 elite) patrols the gnoll camps further south around the river; with your pet tanking he is doable at 11 if the adds are dead first [QC176] [G25,90 Elwynn Forest]
++[O]|cFFFF0000GROUP 2+|r Hogger (11 elite) patrols the gnoll camps further south around the river; with your pet tanking he is doable at 11 if the adds are dead first [QC176] |cffffcc00launch:|r group or defer [G25,90 Elwynn Forest]
+ At [TAR963 Deputy Rainer], [QT11] [G24.2,74.5 Elwynn Forest]
+ [OC]|cffffffffLevel 11|r
+ |cFFfff8a3Hearth to [H Goldshire]|r
+ [OC](Hearthstone still on cooldown from loop 3? Goldshire is a 3-minute run east)
+ [O]At [TAR240 Marshal Dughan], [QT176] - take the Footman Tunic (leather +1 Agi +2 Sta) if your chest is still a starting piece, otherwise the Balanced Fighting Stick (staff +2 Agi +2 Sta) as a stat stick if you can use staves [G42.1,65.9 Elwynn Forest]
+ [A Hunter] At [TAR251507 Josephine Carson], [T] train anything you missed [G41.2,66.2 Elwynn Forest]
++[OC]|cffffcc00Catch-up (Elwynn):|r anything you deferred for crowds - Goldtooth, Fun with Elementals (Nimsy), Stolen Enchanting Supplies, Princess Must Die!, Applejack Still, Wanted: "Hogger" - finish it now, this is your last pass of Goldshire: Fargodeep and the Stonefield farm are 5 minutes south, Brackwell, Stone Cairn Lake and Blixie at Azora east, Hogger's camps west past the garrison
+ 
+ [OC]|cffffffffStormwind, the tram, and the Dark Iron chain|r  -  this is how you join the Dwarves' route in Loch Modan
+ [OC]Take the road north; the Northshire Valley entrance is on the right about halfway to the city
+@@ -162,5 +164,6 @@
+ [OC]|cffffcc00Old Ironforge Incursion|r is the Hall of Thanes dungeon quest (level 16) and rewards the |cff66ff66Calibrated Blunderbuss|r (gun 16 dps) - the reason you came this way. It sits in your log until the 15-16 chapter.
+ [OC]Run east along the road past the quarry to the fork, then east through the tunnel to South Gate Outpost, and south through the second tunnel of South Gate Pass into Loch Modan [G86.3,48.8 Dun Morogh]
+ [OC]|cffffffffFinished: Elwynn|r  -  continue with 11-15 Loch Modan (you arrive at the bunker just outside the pass, exactly where the Dwarves do)
++[OC]|cffffcc00Catch-up:|r nothing on the Dun Morogh leg is crowd-tagged. Elwynn steps still open (Goldtooth, Nimsy, Stolen Enchanting Supplies, Princess, Applejack Still, Hogger) were due at Goldshire before the tram - carry them: chapter 17-18 Westfall walks Stormwind -> Goldshire -> Westfall (Dughan is on the road, the Stonefield farm 5 minutes south), or abandon them
+ [NX 11-15 Loch Modan]
+ ]], "Forever Alliance 1-30")
+diff -ru /home/claude/work/baseline_guide/01a_ColdridgeValley.lua guide/Guidelime_ForeverAlliance/01a_ColdridgeValley.lua
+--- /home/claude/work/baseline_guide/01a_ColdridgeValley.lua	2026-10-25 17:41:52.979649256 -0400
++++ guide/Guidelime_ForeverAlliance/01a_ColdridgeValley.lua	2026-10-25 17:50:25.290316766 -0400
+@@ -8,6 +8,7 @@
+ [OC]|cffffcc00Professions (Forever):|r recommended |cff66ff66Skinning + Leatherworking|r (Icy Veins' pick for Enhancement too), plus First Aid + Cooking. Why: Forever's new Leatherworking leveling sets - Totemic Leather (Str/Sta/Int + spell power) and Brawler's Leather (Str/Agi/Sta) - cover belt 12, gloves + chest 15, boots 17, legs + head 20, and beat the quest/dungeon pieces in this guide slot for slot; the patterns cost 30 Merchant's Favor each at the merchant camp on the Redridge border (chapter 18-19), and Leatherworking makes mail for you from 40. Passives: Skinning = +5% damage to Beasts and Dragonkin (stacks with Big Game Hunter), Leatherworking = +5% mount speed at max skill, Cooking = every cooked food gives a stat buff and an XP trickle, First Aid now makes the healing potions (Alchemy no longer does). Mining (+5% total health, ore money) is the alternative if you would rather not craft. Junior Mining/Skinning trainers stand in Anvilmar, so you can gather from level 2; Leatherworking is taught in Ironforge at 12.
+ [OC][A Hunter] |cffffcc00Professions (Hunter):|r same answer - Skinning + Leatherworking. Brawler's Leather (Str/Agi/Sta) is your levelling set (skip the Totemic pieces), and Skinning's +5% vs Beasts stacks with Big Game Hunter. Cooking matters twice for you: your own food buff and cheap pet food (boars and bears eat bread, cheese, fish, fruit, fungus and meat).
+ [OC]|cffffcc00Camping (Forever):|r Cooking 1 teaches the Basic Campfire (3 object slots). Sit or craft at a fire for 1 minute to get its buffs (1 hour). Each player adds ONE profession object: your Lodestone (Mining 20) = melee attack power, your Camp Chair (Skinning 20) = +2% crit, First Aid Kit = stamina, Fish Bowl = +8% all stats, Leatherworking tent = rested XP. Objects have a 1-hour cooldown and the fire vanishes after ~10-15 min, so set camp right before a dungeon or a long grind, with your friend adding his object. The Camping 101 quests (level 6, Eric Brighthammer) teach the tier-1 objects once that skill is 20.
++[OC]|cffffcc00Launch rule (1-6):|r no shared tags in Forever - on a camped named mob (Grik'nir, the Snow Leopard Prowler) INVITE the people standing there (kill credit shares in a party; most drop items don't). If no group forms in ~2 min, tick the step and keep moving; the catch-up line at the tunnel brings you back. Expect the first 10-20 min to be the worst: in 2019 the Coldridge crowd thinned 10-20 minutes after the first wave reached Grik'nir.
+ 
+ [OC]|cffffffffColdridge Valley|r
+ At [TAR658 Sten Stoutarm], [QA179 Dwarven Outfitters] [G29.8,71.2 Dun Morogh]
+@@ -49,22 +50,22 @@
+ At [TAR8416 Felix Whindlebolt], [QT3361] [G28.6,67.6 Dun Morogh]
+ [A Shaman] At [TAR257446 Teo Hammerstorm], [T] train (Earth Shock at 4) [G28.8,66.2 Dun Morogh]
+ [A Hunter] At [TAR895 Thorgas Grimson], [T] train (level 4: Aspect of the Monkey, Serpent Sting) [G29.2,67.5 Dun Morogh]
+-[A Shaman] At [TAR257446 Teo Hammerstorm], [QA94373 Call of Earth] (requires level 4 - come back after the cave if you are 3; if he never offers it, Ingrid Dunwald in Kharanos hands out a level-10 version that sends you back here) [G28.8,66.2 Dun Morogh]
++[A Shaman] At [TAR257446 Teo Hammerstorm], [QA94373 Call of Earth] (requires level 4 - come back after the cave if you are 3; if he never offers it, Eldrun Stormbreaker in Ironforge hands out a level-10 version, 96243, that sends you back here; Ingrid Dunwald in Kharanos only starts Call of Fire) [G28.8,66.2 Dun Morogh]
+ Run down to [TAR12738 Nori Pridedrift], [QT3365] [G25,76 Dun Morogh]
+ 
+ [OC]|cffffffffLevel 5|r  -  buy Refreshing Spring Water (a shaman drinks a lot; a hunter less, but Serpent Sting and Mend Pet still empty the bar)
+ [OC]Grind southeast into the troll cave, follow the left path all the way in
+-Kill [TAR808 Grik'nir the Cold] at the back of the cave for Grelin's Journal [QC218] (skip if camped) [G30.5,80.2 Dun Morogh]
++Kill [TAR808 Grik'nir the Cold] at the back of the cave for Grelin's Journal [QC218] |cffffcc00launch:|r group or defer - but finish it before the tunnel: Senir's Observations and The Adventurer hang on it [G30.5,80.2 Dun Morogh]
+ [A Shaman] Loot 2 Iceclaw Bear Pendants from the Frostmane trolls in the cave [QC94373] [G28,80 Dun Morogh]
+ At [TAR786 Grelin Whitebeard], [QT218] [QA282 Senir's Observations] [G25.1,75.7 Dun Morogh]
+ [OC][A Shaman] |cffffcc00Gear:|r take Dwarven Kite Shield (keep it in the bag for elites; the Sledge stays your weapon)
+ [OC][A Hunter] |cffffcc00Gear:|r nothing (shield / staff) - Smooth Walking Staff to vendor
+ Run back up into Anvilmar; by the trainers at [TAR2756 Grund Drokda], [QA97277 Grund and Gozwin] (new Forever quest, requires level 4) [G28.7,67.5 Dun Morogh]
+ [A Shaman] Inside Anvilmar at [TAR257446 Teo Hammerstorm], [QT94373] [QA94374 Call of Earth] [G28.8,66.2 Dun Morogh]
+-[A Shaman] Go up the snowy hill at 26.4,68 (path starts west of Anvilmar), turn left at the small camp, the Spirit Stone is on top [G26.4,68 Dun Morogh]
+-[A Shaman] At the Spirit Stone use [UI6635 Earth Sapta], then talk to the Minor Manifestation of Earth, [QT94374] [QA94375 Call of Earth] [G26.4,68 Dun Morogh]
+-[OC]Grund and Gozwin's camp is in the hills northwest of Anvilmar - from the Spirit Stone hill keep going north; a hunter goes straight there from Anvilmar
+-At the camp, loot Gozwin's Mechanic's Log from the ground and kill the level-6 [TAR269075 Snow Leopard Prowler] next to it (pull it alone) [QC97277] [G27.3,62.9 Dun Morogh]
++[A Shaman] Out of Anvilmar to the start of the path up the snowy hill, south-west of Anvilmar and marked by rubble [G25.8,69.3 Dun Morogh]
++[A Shaman] Follow the path north up the hill, turn left at the small camp; the Spirit Stone is on top. Use [UI6635 Earth Sapta] at it, then talk to the Minor Manifestation of Earth, [QT94374] [QA94375 Call of Earth] [G25.0,62.4 Dun Morogh]
++[OC]Grund and Gozwin's camp is in the hills northwest of Anvilmar - from the Spirit Stone it is about 2 units east; a hunter goes straight there from Anvilmar
++At the camp, loot Gozwin's Mechanic's Log from the ground and kill the level-6 [TAR269075 Snow Leopard Prowler] next to it (pull it alone) [QC97277] |cffffcc00launch:|r group or defer [G27.3,62.9 Dun Morogh]
+ Back inside Anvilmar at [TAR2756 Grund Drokda], [QT97277] [G28.7,67.5 Dun Morogh]
+ [A Shaman] Back inside Anvilmar at [TAR257446 Teo Hammerstorm], [QT94375] - you now have the |cff66ff66Earth Totem|r. [T] train Stoneskin Totem [G28.8,66.2 Dun Morogh]
+ 
+@@ -74,5 +75,6 @@
+ 
+ [OC]|cffffffffLevel 6|r
+ [OC]|cffffffffFinished: Coldridge Valley|r  -  continue with 6-11 Dun Morogh
++[OC]|cffffcc00Catch-up:|r anything you deferred for crowds - The Stolen Journal (Grik'nir), Grund and Gozwin (the Prowler and the log) - finish it now before moving on; there is no carry, 6-11 Dun Morogh never comes back through this tunnel. The troll cave is 5 minutes back south-west, then Grelin for Senir's Observations and Thalos here for 420 and The Adventurer (Kharanos needs it for The Great Outdoors and Camping 101); Grund hands in inside Anvilmar
+ [NX 6-11 Dun Morogh]
+ ]], "Forever Alliance 1-30")
+diff -ru /home/claude/work/baseline_guide/01b_DunMorogh.lua guide/Guidelime_ForeverAlliance/01b_DunMorogh.lua
+--- /home/claude/work/baseline_guide/01b_DunMorogh.lua	2026-10-25 17:41:52.979673104 -0400
++++ guide/Guidelime_ForeverAlliance/01b_DunMorogh.lua	2026-10-25 17:50:49.846316205 -0400
+@@ -3,6 +3,7 @@
+ [D Forever Alliance 1-30 (Braedyn)\\Built 24 Sep 2026 from the Wowhead Forever atlas + Questie Classic data.\\Every step carries explicit coordinates because the Forever quest DB is empty. 17 Oct 2026: quest order fixed against Questie's Forever data (The Great Outdoors before Camping 101, Finding Warmth before Rime's Wrath / Treacherous Cold).]
+ [GA Dwarf]
+ [OC]|cffffffffDun Morogh 6-11|r  -  Kharanos, Brewnall, Gol'Bolar and the gates. The gear rule, profession and camping notes are at the top of 1-6 Coldridge Valley.
++[OC]|cffffcc00Launch rule (6-11):|r no shared tags in Forever - on a camped named mob, object or cave INVITE the people standing there (kill credit shares in a party; most drop items don't; the invite may also pull you onto the leader's layer, unconfirmed for Forever). If no group forms in ~2 min, tick the step and keep moving; the catch-up line at South Gate brings you back. Crowded spots respawned fast in the beta.
+ 
+ [OC]Run north through the tunnel, then northeast along the road toward Kharanos
+ [O]Kill [TAR1125 Crag Boar] on the way for 6 [CI2886,6 Crag Boar Rib] and 4 [CI769,4 Chunk of Boar Meat] (for two Kharanos quests) - keep every extra Chunk of Boar Meat and Crag Boar Rib for Cooking (Forever food = stat buff + XP trickle) [G43,60 Dun Morogh]
+@@ -46,7 +47,7 @@
+ [OC]|cffffffffLevel 7|r
+ [OC]Grind northwest to the three caves
+ Up the mountain at [TAR1266 Tundra MacGrann], [QA312 Tundra MacGrann's Stolen Stash] [G34.6,51.6 Dun Morogh]
+-Run back down; wait for [TAR1271 Old Icebeard] (level 11 elite) to patrol away, then loot MacGrann's Meat Locker in the cave [QC312] [G38.5,53.9 Dun Morogh]
++Run back down; wait for [TAR1271 Old Icebeard] (level 11 elite) to patrol away, then loot MacGrann's Meat Locker in the cave [QC312] |cffffcc00launch:|r group or defer [G38.5,53.9 Dun Morogh]
+ At [TAR1266 Tundra MacGrann], [QT312] [G34.6,51.6 Dun Morogh]
+ [OC]|cffffcc00Gear:|r take Wooly Mittens (cloth hands) - Ironwrought Bracers are mail
+ 
+@@ -67,7 +68,7 @@
+ Kill [TAR1134 Young Wendigo] and [TAR1135 Wendigo] for 8 Wendigo Manes [QC313] [G41.5,53 Dun Morogh]
+ Loot 8 Flintfire's Shipment crates lying around the cave [QC98321] [G41.5,53 Dun Morogh]
+ Find Mountaineer Cornelius on the frozen pond in the star-shaped room to the right of the entrance [QC98319] [G43,49.6 Dun Morogh]
+-Kill [TAR271587 Frosthowl] at the far end of the cave (bigger yeti, hits hard and heals itself - level 8+, or with your friend) and loot the Sack of Fish [QC98326] (cave entrance at 42,54; he stands at the northwest end inside) [G39.3,48.8 Dun Morogh]
++Kill [TAR271587 Frosthowl] at the far end of the cave (bigger yeti, hits hard and heals itself - level 8+, or with your friend) and loot the Sack of Fish [QC98326] (cave entrance at 42,54; he stands at the northwest end inside) |cffffcc00launch:|r group or defer [G39.3,48.8 Dun Morogh]
+ [OC]If the Sack of Fish drops but the quest does not update, relog (known beta bug)
+ 
+ [OC]Leave the cave and run southeast to the tent
+@@ -92,9 +93,9 @@
+ 
+ [OC]|cffffffffLevel 9|r
+ [OC]Grind northwest to the ground outside Gnomeregan
+-Kill [TAR1211 Leper Gnome] for 8 Restabilization Cogs and 8 Gyromechanic Gears [QC412] (skip if camped) [G26,40 Dun Morogh]
++Kill [TAR1211 Leper Gnome] for 8 Restabilization Cogs and 8 Gyromechanic Gears [QC412] |cffffcc00launch:|r group or defer [G26,40 Dun Morogh]
+ [OC]Grind south to Frostmane Hold (cave in the hills west of Brewnall)
+-Kill 5 [TAR1123 Frostmane Headhunter] and walk to the back of the cave [QC287] [G25,50 Dun Morogh]
++Kill 5 [TAR1123 Frostmane Headhunter] and walk to the back of the cave [QC287] |cffffcc00launch:|r group or defer - The Reports hangs on it [G25,50 Dun Morogh]
+ 
+ |cFFfff8a3Hearth to [H Kharanos]|r
+ At [TAR1252 Senir Whitebeard], [QT287] [QA291 The Reports] [G46.7,53.8 Dun Morogh]
+@@ -118,7 +119,7 @@
+ At [TAR1253 Father Gavin], [QT99159] [QA99160 Rime's Wrath] [QA99162 Treacherous Cold] [G57.4,44.8 Dun Morogh]
+ Kill 10 [TAR276003 Minor Ice Elemental] (level 7-8, west of Gavin along the road) [QC99160] [G51,44 Dun Morogh]
+ At [TAR1253 Father Gavin], [QT99160] [QA99161 Rime's Wrath] [G57.4,44.8 Dun Morogh]
+-Kill [TAR276009 Avala] - the big ice elemental just north of Gavin's chapel - and loot its core [QC99161] [G58.3,42.1 Dun Morogh]
++Kill [TAR276009 Avala] - the big ice elemental just north of Gavin's chapel - and loot its core [QC99161] |cffffcc00launch:|r group or defer [G58.3,42.1 Dun Morogh]
+ Loot Coalbeard's Rifle: follow the frozen river west of Gavin, the dead dwarf is under the tree fallen across it [QC99162,3] [G53,44 Dun Morogh]
+ Loot Stoneanvil's Rifle: straight south of Gavin in the small valley [QC99162,1] [G57,48 Dun Morogh]
+ Loot Sunhammer's Rifle: southeast of Gavin, next to a cart on the little path up to Vagash's cave [QC99162,2] [G62,46 Dun Morogh]
+@@ -140,7 +141,7 @@
+ [OC]Run east along the road to Amberstill Ranch
+ At [TAR1265 Rudra Amberstill], [QA314 Protecting the Herd] [QA95212 Never Saddle on Quality] [G63,49.8 Dun Morogh]
+ [OC]|cFFFF0000GROUP 2+|r Vagash is a level 11 elite in the cave up the hill north of the ranch. Kite him down onto the ranch guards if solo (you need 50% of the damage for credit)
+-Kill [TAR1388 Vagash] for the Fang of Vagash [QC314] [G62.6,46 Dun Morogh]
++Kill [TAR1388 Vagash] for the Fang of Vagash [QC314] |cffffcc00launch:|r group or defer [G62.6,46 Dun Morogh]
+ At [TAR1265 Rudra Amberstill], [QT314] [G63,49.8 Dun Morogh]
+ [OC][A Shaman] |cffffcc00Gear:|r take Coldridge Hammer (2H mace 8.3 dps +1 Str)
+ [OC][A Hunter] |cffffcc00Gear:|r nothing worth wearing (2H mace / statless leather) - Rancher's Trousers only if you still wear the Dwarven Leather Pants
+@@ -155,8 +156,8 @@
+ At [TAR1254 Foreman Stonebrow], [QA432 Those Blasted Troggs!] [G69.1,56.3 Dun Morogh]
+ [O]At [TAR1698 Frast Dokner], [QA95217 The Quarry's Smith] - only if you mine: 12 Copper Bars + 4 Toughened Boar Hides (boars), rewards Plans: Rough Copper Chain Boots [G68.8,55.8 Dun Morogh]
+ [OC]Grind southeast through the quarry into the trogg cave
+-Kill 6 [TAR1115 Rockjaw Skullthumper] [QC432] [G70,56 Dun Morogh]
+-Kill 10 [TAR1117 Rockjaw Bonesnapper] [QC433] [G73.5,54.5 Dun Morogh]
++Kill 6 [TAR1115 Rockjaw Skullthumper] [QC432] |cffffcc00launch:|r group or defer [G70,56 Dun Morogh]
++Kill 10 [TAR1117 Rockjaw Bonesnapper] in the trogg cave [QC433] |cffffcc00launch:|r group or defer [G73.5,54.5 Dun Morogh]
+ Loot an Empty Powder Keg from the quarry troggs, use it to start [QA95213 Stolen Blasting Powder] [G71,56 Dun Morogh]
+ At [TAR1256 Quarrymaster Thesten], [QT95213] [QA95214 Stolen Blasting Powder] [G69,54.8 Dun Morogh]
+ At [TAR1254 Foreman Stonebrow], [QT432] [G69.1,56.3 Dun Morogh]
+@@ -180,7 +181,7 @@
+ [OC]Run east along the road past the quarry to the fork, then northeast through the tunnel to North Gate Outpost
+ At [TAR1960 Pilot Hammerfoot], [QA419 The Lost Pilot] [G83.9,39.2 Dun Morogh]
+ Grind northwest and loot A Dwarven Corpse, [QT419] [QA417 A Pilot's Revenge] [G79.7,36.2 Dun Morogh]
+-Kill [TAR1961 Mangeclaw] just southwest of the corpse for the Mangy Claw [QC417] [G78.3,37.8 Dun Morogh]
++Kill [TAR1961 Mangeclaw] just southwest of the corpse for the Mangy Claw [QC417] |cffffcc00launch:|r group or defer [G78.3,37.8 Dun Morogh]
+ At [TAR1960 Pilot Hammerfoot], [QT417] [G83.9,39.2 Dun Morogh]
+ [OC]|cffffcc00Gear:|r nothing for either class (1H mace / dagger) - take Compact Hammer to vendor
+ 
+@@ -192,5 +193,6 @@
+ [OC]|cffffffffLevel 11|r
+ [OC]Run south through the second tunnel of South Gate Pass into Loch Modan
+ [OC]|cffffffffFinished: Dun Morogh|r  -  continue with 11-15 Loch Modan
++[OC]|cffffcc00Catch-up:|r anything you deferred for crowds - Tundra MacGrann's Stolen Stash (Old Icebeard), Frosthowl, Operation Recombobulation (Leper Gnomes), Frostmane Hold, Rime's Wrath (Avala), Protecting the Herd (Vagash), Those Blasted Troggs! and The Public Servant (Gol'Bolar), A Pilot's Revenge (Mangeclaw) - finish it now before moving on: the quarry, Amberstill and North Gate are back up this road, the rest is west of Kharanos (hearth = Kharanos). Or carry it: 11-15 Loch Modan's free Ironforge trip at 12 is a 5-minute run from Kharanos down the gate road, and The Reports (291) from Frostmane Hold is handed in on that trip
+ [NX 11-15 Loch Modan]
+ ]], "Forever Alliance 1-30")
+diff -ru /home/claude/work/baseline_guide/02_LochModan.lua guide/Guidelime_ForeverAlliance/02_LochModan.lua
+--- /home/claude/work/baseline_guide/02_LochModan.lua	2026-10-25 17:41:52.979699215 -0400
++++ guide/Guidelime_ForeverAlliance/02_LochModan.lua	2026-10-25 17:50:58.330316011 -0400
+@@ -4,6 +4,7 @@
+ [GA Alliance]
+ [OC]|cffffffffLoch Modan 11-15|r
+ [OC]|cffffcc00Carry-over log:|r Stout to Kadrell (414), The Reports (291), Old Ironforge Incursion (96393), Call of Fire (94465), plus any unfinished Camping 101.
++[OC]|cffffcc00Launch rule (11-15):|r no shared tags in Forever - on a camped named mob or object INVITE the people standing there (kill credit shares in a party; most drop items don't). If no group forms in ~2 min, tick the step and keep moving; the catch-up line at the end of the chapter says where chapter 16-17 brings you back.
+ 
+ [OC]|cffffffffValley of Kings|r  -  the bunker right outside South Gate Pass
+ Outside the bunker at [TAR1089 Mountaineer Cobbleflint], [QA224 In Defense of the King's Lands] [G22.1,73.1 Loch Modan]
+@@ -77,7 +78,7 @@
+ [OC]|cffffffffLevel 13 - the loch islands and the east side|r
+ [OC]Follow the north shore east from the dam, then down the east shore to the gnome camp
+ At [TAR6577 Bingles Blastenheimer], [QT2039] [QA2038 Bingles' Missing Supplies] [G63.6,47.9 Loch Modan]
+-[OC]Swim northwest to the islands for his four tools (each respawns ~5 min, skip any that are camped)
++[OC]Swim northwest to the islands for his four tools (each respawns ~5 min) |cffffcc00launch:|r group or defer
+ Loot Bingles' Blastencapper [QC2038,4] [G54,26.5 Loch Modan]
+ Loot Bingles' Hammer [QC2038,3] [G52,24 Loch Modan]
+ Loot Bingles' Screwdriver [QC2038,2] [G48.5,20.5 Loch Modan]
+@@ -104,7 +105,7 @@
+ 
+ [OC]Grind west along the south shore of the loch
+ Kill [TAR1693 Loch Crocolisk] (level 14-15, along the shore and on the islands) for 5 Crocolisk Meat and 6 Crocolisk Skins [QC385] [G60,52 Loch Modan]
+-Kill [TAR270693 Daggerfang] - the named crocolisk hunting the east shore near the lodge - for Marek's knife [QC86758] (he patrols the whole east shore between 58,33 and 64,52; skip if he is not up) [G62.5,47 Loch Modan]
++Kill [TAR270693 Daggerfang] - the named crocolisk hunting the east shore near the lodge - for Marek's knife [QC86758] (he patrols the whole east shore between 58,33 and 64,52) |cffffcc00launch:|r group or defer - chapter 16-17 gives him a second try [G62.5,47 Loch Modan]
+ [O]Dive to the wrecked boat at the bottom of the south loch (a Battered Chest sits next to it); loot the silver hair clip to start [QA86614 Silver of the Waves] [G48.9,54.2 Loch Modan]
+ [OC]|cFFFF0000Careful:|r level 19-20 threshadons patrol the deep water - swim straight down and back up
+ 
+@@ -148,5 +149,6 @@
+ [O][A Hunter] Talents 15-16: 2/2 Pathfinding (run speed - you walk everywhere until 40)
+ |cFFfff8a3Hearth to [H Thelsamar]|r, then at [TAR1572 Thorgrum Borrelson] |cFFfff8a3Fly to [F Ironforge]|r [G33.9,51 Loch Modan]
+ [OC]|cffffffffFinished: Loch Modan first pass|r  -  continue with 15-16 Hall of Thanes
++[OC]|cffffcc00Catch-up:|r anything you deferred for crowds - Bingles' Missing Supplies (the island tools), Twisting the Knife (Daggerfang) - finish it while you grind to 15, before the hearth above, or carry it: chapter 16-17 is Loch Modan again and walks the east shore from the excavation to Farstrider Lodge (Bingles' camp at 63.6,47.9 is on the way, the islands a swim west) with a second Daggerfang step built in
+ [NX 15-16 Hall of Thanes]
+ ]], "Forever Alliance 1-30")
+diff -ru /home/claude/work/baseline_guide/04_LochModan2.lua guide/Guidelime_ForeverAlliance/04_LochModan2.lua
+--- /home/claude/work/baseline_guide/04_LochModan2.lua	2026-10-25 17:41:52.979750274 -0400
++++ guide/Guidelime_ForeverAlliance/04_LochModan2.lua	2026-10-25 17:48:58.786318745 -0400
+@@ -54,7 +54,7 @@
+ |cFFfff8a3Hearth to [H Thelsamar]|r
+ [OC]|cffffcc00Bank/AH stop:|r you go through Ironforge anyway - bank the recipes, check the AH for 10 Coarse Dynamite (Alba Fairmoon's Westfall chain needs them, ~2,900 XP) and a leather chest with Str/Agi if you still wear the Robe of the Keeper
+ At [TAR1572 Thorgrum Borrelson], |cFFfff8a3Fly to [F Ironforge]|r [G33.9,51 Loch Modan]
+-[A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 14 and 16 spells - this is the LAST shaman trainer until you come back at 20 (none in Stormwind, Westfall or Redridge) [G46.2,13.2 Ironforge]
++[A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 14 and 16 spells - the last shaman trainer on the route until 20, apart from the optional 10-minute tram trip for your 18 spells in chapter 07 (none in Stormwind, Westfall or Redridge) [G46.2,13.2 Ironforge]
+ [A Hunter] In the Military Ward at [TAR5116 Olmin Burningbeard], [T] train anything you missed, then at [TAR5123 Bretta Goldfury] (72.2,65.2) top up Heavy Shot - Quartermaster Lewis on Sentinel Hill and the Stormwind gunsmith sell it too, so 600 is plenty [G72.2,65.2 Ironforge]
+ [O][A Hunter] |cffffcc00Talents so far (beta Beast Mastery build):|r 5/5 Deadly Aspects (10-14), then 2/2 Pathfinding at 15-16; Focused Fire 2/2 comes at 17-18 and Improved Revive Pet 2/2 at 19-20
+ [OC]|cffffcc00Professions:|r Nissa Firestone (First Aid, 55.1,58.3) and Daryl Riknussun (Cooking, 60.1,36.4) teach Journeyman once the skill is 50; Balthus Stoneflayer (39.9,32.5) completes Camping 101: Skinning at Skinning 20
+diff -ru /home/claude/work/baseline_guide/08_RuinsOfLordaeron.lua guide/Guidelime_ForeverAlliance/08_RuinsOfLordaeron.lua
+--- /home/claude/work/baseline_guide/08_RuinsOfLordaeron.lua	2026-10-25 17:41:52.979851958 -0400
++++ guide/Guidelime_ForeverAlliance/08_RuinsOfLordaeron.lua	2026-10-25 17:48:55.246318826 -0400
+@@ -9,7 +9,7 @@
+ [O][A Hunter] Weapon skills while you are here: [TAR11867 Woo Ping] in the Trade District teaches Staves and Polearms (10 silver each) - the Ruins drop a +9 Agility staff [G61.9,70.7 Stormwind City]
+ At [TAR1719 Warden Thelwater] outside the Stockade, [QT389] - he offers The Stockade Riots now; leave it, the Stockade is chapter 15 [G51.5,69.4 Stormwind City]
+ In the Park at [TAR4984 Argos Nightwhisper], [QA3765 The Corruption Abroad] (1,450 XP for talking to his brother in Auberdine, which the boat passes - it also opens the Blackfathom quest) [G36.2,67.6 Stormwind City]
+-[OC][A Shaman] |cffffffffCall of Water (Water Totem)|r is a 9-part chain that bounces between Ironforge, Loch Modan, the Wetlands, Redridge and Ashenvale: ~10,500 XP. It is threaded through the next chapters; part 1 starts at your trainer, so take the tram now
++[OC][A Shaman] |cffffffffCall of Water (Water Totem)|r is a 9-part chain that bounces between Ironforge, Loch Modan, the Wetlands, Redridge, Ashenvale and Westfall: ~10,500 XP. It is threaded through the next chapters; part 1 starts at your trainer, so take the tram now
+ [A Shaman] Deeprun Tram in the Dwarven District to Ironforge [G73.8,49.2 Stormwind City]
+ [A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 20 spells (Ghost Wolf, Frost Shock, Healing Stream Totem, Lesser Healing Wave, Totemic Recall) and [QA94494 Call of Water] (goes to Norric Lochthane, north Loch Modan, chapter 09) [G46.2,13.2 Ironforge]
+ [A Shaman] Two steps away at [TAR2786 Gerrig Bonegrip], [QA971 Knowledge in the Deeps] (2,750 XP - the Lorgalis Manuscript sits in a chest in Blackfathom Deeps, chapter 13) [G50.8,5.6 Ironforge]
+diff -ru /home/claude/work/baseline_guide/09_LochModanMenethil.lua guide/Guidelime_ForeverAlliance/09_LochModanMenethil.lua
+--- /home/claude/work/baseline_guide/09_LochModanMenethil.lua	2026-10-25 17:41:52.979875476 -0400
++++ guide/Guidelime_ForeverAlliance/09_LochModanMenethil.lua	2026-10-25 18:09:03.466291191 -0400
+@@ -3,7 +3,7 @@
+ [D Forever Alliance 1-30 (Braedyn)\\Loch Modan's group quests and the dam, the Dun Algaz pass and the Wetlands road, then Menethil Harbor: coast loops, the Greenwarden and the Third Fleet, ending with a hearth to Sentinel Hill.]
+ [GA Alliance]
+ [OC]|cffffffffLevel 21|r  -  you are in Stormwind with the Ruins hand-ins done; hearth = Sentinel Hill and it stays there. Loch Modan is ~3,200 quest XP on the solo road plus ~13,000 in the |cFFFF0000GROUP|r blocks (+2,450 if you have Bronze Bars); the Wetlands road and Menethil add ~17,000 (+6,500 for the optional Third Fleet and croc skins), and the shaman's Call of Water adds 2,085. You reach 22 on the Menethil coast.
+-[O]Quest log housekeeping: if you will not do the GROUP loops below, abandon the Loch Modan elites you still hold from chapters 2-4 - [QS217] [QS271] - and abandon Data Hoarders (95041) [QS95041] unless you still mean to collect the 7 punch cards outside Gnomeregan - the 20-30 route never goes back for it, and log slots get tight from chapter 18 on
++[O]Quest log housekeeping: if you will not do the GROUP loops below, abandon the Loch Modan elites you still hold from chapters 2-4 - [QS217] [QS271] - and abandon Data Hoarders (95041) [QS95041] unless you still mean to collect the 7 punch cards outside Gnomeregan - the 20-30 route never goes back for it
+ [OC]|cffffcc00Already in your log?|r In Defense of the King's Lands (217), Vyrin's Revenge (271) and Mercenaries (255) may be there from chapters 2-4: the accept lines tick themselves. Every |cFFFF0000GROUP|r block is optional: take its quests only if you will do the block.
+ 
+ |cFFfff8a3Fly to [F Thelsamar]|r at [TAR352 Dungar Longdrink] on the gate ramp [G71.0,72.5 Stormwind City]
+diff -ru /home/claude/work/baseline_guide/12_Ashenvale.lua guide/Guidelime_ForeverAlliance/12_Ashenvale.lua
+--- /home/claude/work/baseline_guide/12_Ashenvale.lua	2026-10-25 17:41:52.979948949 -0400
++++ guide/Guidelime_ForeverAlliance/12_Ashenvale.lua	2026-10-25 18:09:06.106291131 -0400
+@@ -4,8 +4,8 @@
+ [GA Alliance]
+ [OC]|cffffffffAshenvale 24-25|r  -  you start at Maestra's Post (26,38), the Night Elf camp on the west-coast road where chapter 11 ended, at level ~24. Hearth = Sentinel Hill and it stays there (Blackfathom ends with the hearth). ~23,500 quest XP of normal kill/collect work plus one escort (2,900 XP) and the Ruuzel fight, in one big loop: plant glade, Astranaar, the pool, Thistlefur, the coast murlocs, the south (Ilkrud, Lake Mystral, the Foulweald den), Feero's escort, then the Zoram Strand and the Blackfathom cave
+ [OC]|cffffcc00Naming:|r the camp at 26,38 is Maestra's Post (Delgren, Orendil and Feero stand here). The real Forest Song is the east camp where Kayneth Stillwind lives (chapter 21)
+-[OC]|cffffcc00Log space:|r the chapter peaks at ~9 quests of its own on top of your carry (the log holds 25). Turn in as you go; if you are full, skip the optional pickups first (1070, 1140, 1017)
+ [OC]|cffffcc00Training:|r nothing in Ashenvale trains you. If you skipped your level-24 spells in Darnassus, do them together with level 26 in Stormwind (chapter 15)
++[OC][A Shaman] |cffffcc00Level 24 (shaman):|r no shaman trainer on this trip (Darnassus has none); your 24 spells wait for Eldrun in Ironforge in chapter 15, trained with 26 - nothing at 24 is urgent. Detour only if you want them now (Auberdine boat to Menethil, fly to Ironforge)
+ 
+ [OC]|cffffffffMaestra's Post|r
+ [OC]|cffffcc00Carry-in:|r chapter 11 should have left you Delgren's The Tower of Althalaxx part 3 (973, Ilkrud's Tome) - it is finished on the south loop below. If your log shows part 2 (970) instead, use the two optional lines marked 970
+@@ -69,7 +69,7 @@
+ [OC]Run west back to Maestra's Post
+ At [TAR3663 Delgren the Purifier], [QT973] (1,950 XP) [G26.2,38.7 Ashenvale]
+ [OC]|cffffcc00Gear:|r Clergy Ring (+1 Sta +3 Spi) only if a ring slot is empty. Staff of the Purifier is an 11 dps healer staff (+8 Spi, +16 spell damage) - pass
+-[O]At [TAR3663 Delgren the Purifier], [QA1140 The Tower of Althalaxx] (2,300 XP: free the Highborne souls at the two Circles of Imprisonment, Night Run 66.6,57 and Satyrnaar 81.6,48.6 - two clicks, both in chapter 21's east loop - then hand in here - take it only with a free log slot) [G26.2,38.7 Ashenvale]
++[O]At [TAR3663 Delgren the Purifier], [QA1140 The Tower of Althalaxx] (2,300 XP: free the Highborne souls at the two Circles of Imprisonment, Night Run 66.6,57 and Satyrnaar 81.6,48.6 - two clicks, both in chapter 21's east loop - then hand in here) [G26.2,38.7 Ashenvale]
+ [OC]|cFFFF0000GROUP 2+|r Escort - everyone in the group must be on the quest before you talk to Feero. He walks the road north out of camp and the quest completes when he reaches the Darkshore border (the DB marks 43.5,94.4 Darkshore); then you walk back to Delgren. 2,900 XP, level 24 quest. Kill whatever attacks him; if he dies the quest resets at his camp
+ At [TAR4484 Feero Ironhand], [QA976 Supplies to Auberdine] [G26.2,38.9 Ashenvale]
+ Escort Feero north along the road until he reaches the Darkshore border [QC976] [G43.5,94.4 Darkshore]
+diff -ru /home/claude/work/baseline_guide/14_Duskwood.lua guide/Guidelime_ForeverAlliance/14_Duskwood.lua
+--- /home/claude/work/baseline_guide/14_Duskwood.lua	2026-10-25 17:41:52.980006800 -0400
++++ guide/Guidelime_ForeverAlliance/14_Duskwood.lua	2026-10-25 18:09:10.454291031 -0400
+@@ -4,7 +4,6 @@
+ [GA Alliance]
+ [OC]|cffffffffLevel 25|r  -  you stand at Sentinel Hill with Blackfathom behind you; hearth = Sentinel Hill, and it stays there. This is solo-able open-world questing in Duskwood: 19 quests worth about 25,000 XP (24,700 once you are 26, where three level-20 quests pay 80%) plus the kills between them. It should take you to level 26 by the last hand-in. Darkshire's flight path is not known yet, so you walk in; the chapter ends in Darkshire
+ [OC]|cffffcc00Shape of the trip:|r (1) walk in via Sven's camp - the wolf quest is done on the spot; (2) Darkshire: pickups, flight path, shops; (3) east loops - Blind Mary's looking glass and the Night Watch skeletons in the south-east graveyard, then the worgen west of town; (4) one sweep west - Twilight Grove, the ogre mound, Raven Hill, the cemetery, back to Twilight Grove, then the Hearthstone; (5) the Moonbrook footlocker, a flight back, and every hand-in at once. Most hand-ins wait for step 5, so keep finished quests in the log
+-[OC]|cffffcc00Log space:|r the chapter peaks at 7 quests of its own (8 with the optional 337) on top of the carry from chapters 09-13 (the log holds 25). Turn in where the lines say, and take the last pickups (Crime and Punishment, the optional 240 and 98447) only with a free slot. If you arrive full, drop the optional carries from chapter 12 (1070, 1140) first
+ [OC]|cffffcc00Sources:|r quests, levels, XP, drops and coordinates are from the Forever DB; where a drop rate is missing the line says so. The DB has no road data, so the walking lines name landmarks and coordinates rather than turns. Duskwood mobs: spiders and wolves 18-22, skeletons 21-27, ghouls 24-29, worgen 27-29, ogres 27-30; none of the quests below needs an elite
+ [OC]|cffffcc00Supplies:|r repair and empty your bags. Darkshire has a repair vendor (Avette Fellwood) and a general goods vendor, Mabel Solaj, with water, Razor Arrows and Solid Shot (level 25); you reach both before the long loops, so Sentinel Hill needs no stop
+ 
+@@ -68,11 +67,11 @@
+ At [TAR276 Viktori Prism'Antras], [QT181] (reward: Zodiac Gloves are cloth and the Belt of the Stars is mail - pass, or vendor the belt) [G79.8,48.0 Duskwood]
+ At [TAR265 Madame Eva], [QT101] (Totem of Infliction: an off-hand charm with a 1% shadow proc, useless with a two-hander - vendor) [G75.8,45.3 Duskwood]
+ At [TAR272 Chef Grual], [QT5] [QA93 Dusky Crab Cakes] [QC93] [QT93] (6 Gooey Spider Legs; the Recipe: Gooey Spider Cake needs Cooking 110) [G73.8,43.5 Duskwood]
+-[O]At [TAR272 Chef Grual], [QA240 Return to Jitters] (780 XP, 624 at level 26: Jitters stands in Raven Hill, which chapter 17 passes - hand in there; take it only with a free slot, it rides in the log through two chapters) [G73.8,43.5 Duskwood]
++[O]At [TAR272 Chef Grual], [QA240 Return to Jitters] (780 XP, 624 at level 26: Jitters stands in Raven Hill, which chapter 17 passes - hand in there) [G73.8,43.5 Duskwood]
+ At [TAR267 Clerk Daltry], [QT68] [QA69 The Legend of Stalvan] (goes to Innkeeper Farley in Goldshire, chapter 15) [G72.5,46.9 Duskwood]
+ At [TAR264 Commander Althea Ebonlocke], [QT57] (part 3, 58, is chapter 17's) [G73.5,46.8 Duskwood]
+ At [TAR268 Sirra Von'Indi], [QT96139] (keep the Memories of Valor she gives you: right-click to read, no stats) [G72.6,47.6 Duskwood]
+-[O]At [TAR268 Sirra Von'Indi], if she offers The Valor Family part 2, [QA98447 The Valor Family] (2,200 XP at level 27; the DB has no giver or ender for it, its text sends you back to Raven Hill 'with their weapons', so it waits for chapter 17's weapon quests - take it only with a free slot) [G72.6,47.6 Duskwood]
++[O]At [TAR268 Sirra Von'Indi], if she offers The Valor Family part 2, [QA98447 The Valor Family] (2,200 XP at level 27; the DB has no giver or ender for it, its text sends you back to Raven Hill 'with their weapons', so it waits for chapter 17's weapon quests) [G72.6,47.6 Duskwood]
+ At [TAR270 Councilman Millstipe], [QA377 Crime and Punishment] (bring back the Hand of Dextren Ward from The Stockade, chapter 15; hand in at Darkshire in chapter 17; requires level 22) [G71.9,47.8 Duskwood]
+ [OC]|cffffcc00Gear:|r nothing in this chapter's rewards is an upgrade for a leather wearer: Night Watch Gauntlets and the Belt of the Stars are mail (pass until 40), Zodiac Gloves are cloth. Hunters: the Razor Arrows and Solid Shot from Mabel are the only buys
+ [OC]|cffffcc00Training:|r no trainer in Darkshire; your level-26 spells wait for chapter 15 (Stormwind and Ironforge)
+diff -ru /home/claude/work/baseline_guide/15_Stockade.lua guide/Guidelime_ForeverAlliance/15_Stockade.lua
+--- /home/claude/work/baseline_guide/15_Stockade.lua	2026-10-25 17:41:52.980032878 -0400
++++ guide/Guidelime_ForeverAlliance/15_Stockade.lua	2026-10-25 18:09:12.598290982 -0400
+@@ -22,8 +22,8 @@
+ [A Shaman] Take the Deeprun Tram to Ironforge [G73.8,49.2 Stormwind City]
+ [O][A Hunter] Take the Deeprun Tram to Ironforge [G73.8,49.2 Stormwind City]
+ [O]In Tinkertown at [TAR7944 Tinkmaster Overspark], [QT2923] (he then offers Save Techbot's Brain, 2922 - leave it, chapter 24 takes it on the way to the dungeon) [G69.5,50.3 Ironforge]
+-[OC]Gnoarn (The Day After, 2927) and High Tinker Mekkatorque (The Grand Betrayal, 2929) are chapter 24 pickups - do not fill log slots with them now
+-[A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 24 (if you skipped it) and level 26 spells [G46.6,13.4 Ironforge]
++[OC]Gnoarn (The Day After, 2927) and High Tinker Mekkatorque (The Grand Betrayal, 2929) are chapter 24 pickups
++[A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 24 and 26 spells together here - nothing at 24 is urgent [G46.6,13.4 Ironforge]
+ [A Shaman] Two steps away at [TAR2786 Gerrig Bonegrip], [QT971] - |cffffcc00Gear:|r Sustaining Ring (+4 Sta, 4 health per 5 sec) only for an empty ring slot [G50.8,5.6 Ironforge]
+ [O]At [TAR2786 Gerrig Bonegrip], [QT968] (only if the Book: The Powers Below dropped in Darkshore, 1,950 XP; a hunter would walk to the Cavern for this alone, so skip it without the book) [G50.8,5.6 Ironforge]
+ [A Shaman] Tram back to Stormwind [G76.5,51.5 Ironforge]
+@@ -74,8 +74,11 @@
+ Open the Storage Chest at the inn and take Stalvan's Undelivered Letter [QC70] [G44.3,65.8 Elwynn Forest]
+ [O]At [TAR951 Brother Paxton] in Northshire Abbey (a 4-minute detour up the Northshire road), [QT344] [QA345 Ink Supplies] (485 XP each; Foreman Oslow in Lakeshire takes 345 in chapter 16) [G49.6,40.4 Elwynn Forest]
+ [OC]Back to Stormwind by the same road
++In the Mage Quarter at [TAR5694 High Sorcerer Andromath], [QA92489 Power Overwhelming] (3,950 XP, quest level 33, requires 24: done inside the City of Dalaran) - carry to 30-40 [G48.7,87.6 Stormwind City]
+ At [TAR297 Caretaker Folsom] at the cemetery, [QT70] [QA72 The Legend of Stalvan] (1,700 XP) [G42.5,72.4 Stormwind City]
+ Click the Sealed Crate beside him and take the Torn Journal Page [QT72] [QA74 The Legend of Stalvan] (to Marshal Haggard at the Eastvale Logging Camp, chapter 16) [G42.5,72.1 Stormwind City]
++In the Park at [TAR5502 Shylamiir] (herbalism trainer), [QA92456 A Green Sample] (3,950 XP, quest level 33, requires 24: done inside the City of Dalaran) - carry to 30-40 [G31.5,62.6 Stormwind City]
++[OC]|cffffcc00City of Dalaran:|r carry both to the City of Dalaran run (30-40 guide) - the other two, Starving Arcane and Heart of Disruption, come from the Image of Archmage Modera on the Silverpine shore 68.6,45.2 when you go
+ In the Keep at [TAR7766 Tyrion], [QT2746] [QA434 The Attack!] [G73.2,35.6 Stormwind City]
+ [OC]|cffffcc00The Attack!|r  -  Lord Gregor Lescovar (31) and Marzon the Silent Blade (30) talk in the garden beside Tyrion, then it is a fight: stand in the garden until the talk is over (the quest says so), then kill both together. They are not elite in the DB but level 30-31, so fight as a pair and do not split them. This is a kill quest, not an escort
+ Wait in the garden until their talk ends, then kill [TAR1754 Lord Gregor Lescovar] and [TAR1755 Marzon the Silent Blade] [QC434] [G72.4,35.1 Stormwind City]
+@@ -83,7 +86,7 @@
+ At [TAR332 Master Mathias Shaw], [QT394] [QA395 Brotherhood's End] [G78.3,70.7 Stormwind City]
+ At [TAR1646 Baros Alexston], [QT395] [QA396 An Audience with the King] [G57.7,47.9 Stormwind City]
+ In the Keep at [TAR1749 Lady Katrana Prestor], [QT396] (3,750 XP) - |cffffcc00Gear:|r Seal of Wrynn (ring +3 Str +3 Agi +4 Sta +4 Int +3 Spi, unique) is a ring upgrade for both of you [G80.1,38.2 Stormwind City]
+-[OC]|cffffcc00Carried on:|r 386 and 377 are complete (Lakeshire, chapter 16; Darkshire, chapter 17); 74 goes to Eastvale (chapter 16); 98219 to Southshore (chapter 23); optional 345 to Lakeshire (chapter 16) and 538 to Southshore (chapter 23); the Gnomeregan four - 2922, 2927, 2929 and 2928 - wait for chapters 24 and 25
++[OC]|cffffcc00Carried on:|r 386 and 377 are complete (Lakeshire, chapter 16; Darkshire, chapter 17); 74 goes to Eastvale (chapter 16); 98219 to Southshore (chapter 23); optional 345 to Lakeshire (chapter 16) and 538 to Southshore (chapter 23); the Gnomeregan four - 2922, 2927, 2929 and 2928 - wait for chapters 24 and 25; the Dalaran lead-ins 92456 and 92489 ride on into the 30-40 guide
+ [OC]|cffffcc00Check:|r log should hold What Comes Around... (386), Crime and Punishment (377), The Legend of Stalvan (74), The Shamed Lieutenant (98219) and the Gnomeregan carries above, plus the older carries from chapters 10-14. Level 27 is close or reached. Next: fly to Lakeshire
+ [NX 26-27 Redridge and Eastvale]
+ ]], "Forever Alliance 1-30")
+diff -ru /home/claude/work/baseline_guide/17_Duskwood2.lua guide/Guidelime_ForeverAlliance/17_Duskwood2.lua
+--- /home/claude/work/baseline_guide/17_Duskwood2.lua	2026-10-25 17:41:52.980093112 -0400
++++ guide/Guidelime_ForeverAlliance/17_Duskwood2.lua	2026-10-25 18:09:14.154290947 -0400
+@@ -4,7 +4,6 @@
+ [GA Alliance]
+ [OC]|cffffffffLevel 27|r  -  you fly into Darkshire with Messenger to Darkshire (145), Crime and Punishment (377) and The Legend of Stalvan (78) in the log, ready to hand in. Hearth = Sentinel Hill and it stays there - nothing in this chapter needs it. About 39,000 quest XP, a little over a level: expect to ding 28 on the third trip west.
+ [OC]|cffffcc00The shape of the chapter:|r the Sven chain and the Hermit chain each bounce between Darkshire and the west side (Abercrombie 28,31 - Sven 8,34 - Raven Hill 18,56). One after the other they cost seven round trips; interleaved, four: (1) Abercrombie, Sven, the dirt mound; (2) Abercrombie and Sven again; (3) Raven Hill, Sven, the cemetery ghouls, the ogre crate; (4) Eliza. A run is ~3 minutes each way and Sven's camp has no flight path, so a step that waits for your next pass through town is on purpose.
+-[OC]|cffffcc00Log:|r the chains hand off one quest at a time, so the chapter never holds more than 4 of its quests at once (6 with the three optional ones: Messenger to Darkshire, Merrick's Bow, Ira's Dagger), on top of what you carry in.
+ 
+ [OC]|cffffffffDarkshire: hand-ins and Stalvan|r
+ At [TAR273 Tavernkeep Smitts] in the inn, [QT78] [QA79 The Legend of Stalvan] [G73.8,44.5 Duskwood]
+diff -ru /home/claude/work/baseline_guide/18_Wetlands1.lua guide/Guidelime_ForeverAlliance/18_Wetlands1.lua
+--- /home/claude/work/baseline_guide/18_Wetlands1.lua	2026-10-25 17:41:52.980135495 -0400
++++ guide/Guidelime_ForeverAlliance/18_Wetlands1.lua	2026-10-25 18:09:21.150290787 -0400
+@@ -4,7 +4,6 @@
+ [GA Alliance]
+ [OC]|cffffffffLevel 28|r  -  you are in Darkshire with every Duskwood quest handed in; hearth = Sentinel Hill and it STAYS there (chapter 22 needs it - do not set it at Menethil Harbor). This chapter is a flight to Stormwind, the shaman's training in Ironforge and then the west Wetlands: about 17,000 quest XP on the core route, up to ~25,000 with the optional croc skins, Kristoff's errand and the group quest (shaman: about 1,000 more from Call of Water). You should ding 29 around Whelgar. Most Menethil quests are only |cffffcc00picked up|r here and finished on the east road in chapter 19.
+ [OC]|cffffcc00Carry in:|r Seeking Wisdom (269) and, if you took the detour, Return to Kristoff (346) are handed in at once; Apprentice's Duties (471) if you took it in chapter 09; shaman: Call of Water (94499, the filled Red Waterskin), which waits for Hervdana at the end of this chapter.
+-[OC]|cffffcc00Log space is the limit:|r you arrive with ~18 quests from earlier chapters and the Wetlands hands out up to ~17 more. If the game says your log is full, abandon Data Hoarders (95041) first, then - if you took the Tinkertown pickups in chapter 15 - Save Techbot's Brain, The Day After and The Grand Betrayal (2922, 2927, 2929: chapter 24 offers them again in Tinkertown). After that skip pickups in this order: Gleaning Our Future (98310), For Further Study (98313), Highland Hides (98815), Sida's bag (470). You pass Menethil and Whelgar again in chapter 22, so a skipped one is not lost.
+ 
+ At [TAR2409 Felicia Maline], |cFFfff8a3Fly to [F Stormwind]|r [G77.5,44.3 Duskwood]
+ [OC]|cffffffffStormwind|r  -  Cathedral Square first, then (hunter) the Dwarven District trainer and the canal, or (shaman) the tram. Nothing here needs a fight
+@@ -19,7 +18,7 @@
+ [OC][A Shaman] |cffffffffIronforge|r  -  the level-28 spells are the only reason for the tram
+ [A Shaman] Take the Deeprun Tram in the Dwarven District to Ironforge [G73.8,49.2 Stormwind City]
+ [A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 28 spells [G46.6,13.4 Ironforge]
+-[OC][A Shaman] Klockmort's Essential Artificials (2924, 3,050 XP) has no prerequisite in the DB, but its items are Artificial Extrapolators inside Gnomeregan: leave it for Tinkertown in chapter 24, which picks it up with its Darnassus breadcrumb (2925) so it does not sit in your log for six chapters
++[OC][A Shaman] Klockmort's Essential Artificials (2924, 3,050 XP) has no prerequisite in the DB, but its items are Artificial Extrapolators inside Gnomeregan: leave it for Tinkertown in chapter 24, which picks it up with its Darnassus breadcrumb (2925)
+ [A Shaman] At the flight master [TAR1573 Gryth Thurden], |cFFfff8a3Fly to [F Menethil Harbor]|r [G55.5,47.7 Ironforge]
+ 
+ [OC]|cffffffffMenethil Harbor|r  -  you land by the harbor and every pickup in this loop is within 12 units of it. Human hunters: Wowhead lists Bloom of the Heavens (98208, 98209), From the Ashes (98221), Crocs of the Sky (98072) and Highland Hides (98815) as not offered to Humans - if the NPC does not offer one, skip the line. Caitlin Grassman (11.9,58.8) has nothing for you yet: Lost in the Thicket Things (95647) needs Seeking Caitlin from Astranaar first (chapter 22).
+@@ -36,7 +35,7 @@
+ Look around the wreck for Nord'el: the DB has no coordinates for the object (item 279915), and the TUGs route collects it at the chest - |cffffcc00unverified|r [QC98208] [G12.1,64.2 Wetlands]
+ Kill [TAR1418 Bluegill Raider] (level 28-29, 25 of them on the beach south of the harbor) for 5 Lightforge Ingots [QC324] [G11.8,65.4 Wetlands]
+ [OC]|cffffcc00Label:|r Lightforge Ingots (324) - the DB lists no drop rate, but 25 raiders stand within 10 units of the chest and you need only 5; |cff66ff66normal|r
+-At [TAR1217 Glorin Steelbrow], [QT324] (he then offers Blessed Arm, 322 - chapter 22 takes it on its Menethil pass so it does not sit in the log; the DB also lists Lightforge Ingots, 526, as a 1,750-XP alternative that excludes Blessed Arm - this guide takes Blessed Arm) [G10.6,60.6 Wetlands]
++At [TAR1217 Glorin Steelbrow], [QT324] (he then offers Blessed Arm, 322 - chapter 22 takes it on its Menethil pass; the DB also lists Lightforge Ingots, 526, as a 1,750-XP alternative that excludes Blessed Arm - this guide takes Blessed Arm) [G10.6,60.6 Wetlands]
+ At [TAR270844 Sylessa Duskwhisper], [QT98208] [QA98209 Bloom of the Heavens] (1,200 XP: Thundris Windweaver in Auberdine, chapter 20 - the boat leaves from this harbor) [G8.0,55.9 Wetlands]
+ [OC]|cffffcc00Gear (98208):|r Bouquet of Auberdine Flowers (held in off-hand, +4 Sta +4 Int, fixed reward): a two-hander cannot use it, a hunter only with a one-handed melee weapon - otherwise vendor
+ At [TAR2096 Tarrel Rockweaver] on the road in, [QA305 In Search of The Excavation Team] (970 XP) [G11.5,52.2 Wetlands]
+@@ -51,7 +50,7 @@
+ At [TAR1078 Ormer Ironbraid], [QA294 Ormer's Revenge] (10 Mottled Screechers and 10 Mottled Raptors: |cff66ff66normal|r, 17 raptors and 13 screechers in the valley) [G38.2,50.9 Wetlands]
+ At [TAR1077 Prospector Whelgar], [QA299 Uncovering the Past] (four tablet fragments - |cff66ff66normal|r: clickable Ancient Relics and Loose Soil, 34 spots in the dig site) [G38.8,52.4 Wetlands]
+ [O]|cFFFF0000GROUP 3+|r At [TAR1077 Prospector Whelgar], [QA98216 Understanding Our Present] (3,150 XP) - the Goaz Stone he gives you wakes one Goaz Warder, a level 32 ELITE (new in Forever, no HP in the DB); the Titanic Keystone drops at 88%. Bring the tank friend [G38.8,52.4 Wetlands]
+-[O]|cFFFF0000GROUP 3+|r At [TAR1077 Prospector Whelgar], [QA98310 Gleaning Our Future] (3,200 XP) - |cffffcc00long, group only:|r a Goaz Stone for four level 32 ELITE elementals in four corners of the zone (DB spawns: Ados 77.3,47.2 east, Neru 60.2,22.1 north-east, Modr 50.6,18.9 inside Dun Modr, Golm 67.0,70.0 beside Hervdana's cave); the hearts go back to Whelgar, which chapter 22 passes again. Reward: Golem War Cloak (+6 Str, 72 armor), Rune-Etched Ring (+10 Sta) or Giantstone Medallion (+10 Spi). Skip it if the log is tight [G38.8,52.4 Wetlands]
++[O]|cFFFF0000GROUP 3+|r At [TAR1077 Prospector Whelgar], [QA98310 Gleaning Our Future] (3,200 XP) - |cffffcc00long, group only:|r a Goaz Stone for four level 32 ELITE elementals in four corners of the zone (DB spawns: Ados 77.3,47.2 east, Neru 60.2,22.1 north-east, Modr 50.6,18.9 inside Dun Modr, Golm 67.0,70.0 beside Hervdana's cave); the hearts go back to Whelgar, which chapter 22 passes again. Reward: Golem War Cloak (+6 Str, 72 armor), Rune-Etched Ring (+10 Sta) or Giantstone Medallion (+10 Spi) [G38.8,52.4 Wetlands]
+ [OC]Prospector Whelgar's Prehistoric Prism (98824) and For Further Study (98313) are chapter 22's pickups, right before the Excavation Site run
+ Kill [TAR1020 Mottled Raptor] and [TAR1021 Mottled Screecher] in the valley west of the dig site; Black Oozes wander among them (leave them unless you want Sida's bag) [QC294] [G24.2,48.3 Wetlands]
+ At [TAR1078 Ormer Ironbraid], [QT294] [QA295 Ormer's Revenge] (10 Scytheclaws and 10 Razormaws: |cff66ff66normal|r, they stand in the dig site itself) [G38.2,50.9 Wetlands]
+diff -ru /home/claude/work/baseline_guide/19_Wetlands2.lua guide/Guidelime_ForeverAlliance/19_Wetlands2.lua
+--- /home/claude/work/baseline_guide/19_Wetlands2.lua	2026-10-25 17:41:52.980161043 -0400
++++ guide/Guidelime_ForeverAlliance/19_Wetlands2.lua	2026-10-25 18:09:23.154290741 -0400
+@@ -4,7 +4,7 @@
+ [GA Alliance]
+ [OC]|cffffffffLevel 28-29|r  -  chapter 18 leaves you at Howin Kindfeather's camp on the Dun Algaz junction, about level 29, hearth = Sentinel Hill (it stays there: chapter 22 needs it). One counter-clockwise loop through the east Wetlands: Howin and the Dragonmaw camp, Dragonmaw Retreat and the raptor nests, back to the Greenwarden and Howin, then Dun Modr, the Thandol Span and Arathi, and Menethil. About 27,000 quest XP on the solo/duo road (the level 30 ding falls near its end) and 36,000 more in the |cFFFF0000GROUP|r blocks; every GROUP step is optional and skipping one costs nothing else.
+ [OC]|cffffcc00Log:|r you arrive with War Banners (464), From the Ashes (98221), This Land Was Their Land (98230), Crimson Crate Delivery (98240), Crocs of the Sky (98072), Fall of Dun Modr (472), In Search of The Excavation Team (306), Sida's bag (470) if you took it, and the carried ones (98209, 98815, shaman Call of Water 94500, Gleaning Our Future 98310 if you took it).
+-[OC]|cffffcc00Log space:|r Howin and the Greenwarden add 8 quests at once; their hand-ins free the slots again before Dun Modr. If the game says your log is full, skip optional accepts in this order: Carnage, the Lost chain, the Dark Iron War. |cffffcc00Human hunters:|r the digest also flags Razormaw Needling (98245) and Trying Times (98246) as not offered to Humans on Wowhead; if Howin does not offer one, skip the line.
++[OC]|cffffcc00Human hunters:|r the digest also flags Razormaw Needling (98245) and Trying Times (98246) as not offered to Humans on Wowhead; if Howin does not offer one, skip the line.
+ 
+ [OC]|cffffffffThe Greenwarden, Howin and the Angerfang camp|r  -  all within 12 units of the junction you stand on (Howin's camp): take every accept first, then work outward
+ [OC][A Shaman] Ghost Wolf for the road legs (junction - Dun Modr, Menethil - camp), off before every pull
+diff -ru /home/claude/work/baseline_guide/21_AshenvaleEast.lua guide/Guidelime_ForeverAlliance/21_AshenvaleEast.lua
+--- /home/claude/work/baseline_guide/21_AshenvaleEast.lua	2026-10-25 17:41:52.980213351 -0400
++++ guide/Guidelime_ForeverAlliance/21_AshenvaleEast.lua	2026-10-25 18:09:25.998290676 -0400
+@@ -4,7 +4,6 @@
+ [GA Alliance]
+ [OC]|cffffffffAshenvale 29-30|r  -  you start in Astranaar (36,50) at level ~29 with the Darnassus and Stonetalon errands behind you; hearth = Sentinel Hill and it stays there. This is the guide's big overland chapter: ~36,000 quest XP in the main loop (plus ~7,300 optional and ~5,600 on the Althalaxx tail), all kill, collect and click work, nothing elite in the DB. Four legs: the moonwell and the Ancients north-east of town, Forest Song and the Xavian satyrs in the far east, the Dor'danil druid camp in the south-east (twice), then the south around Lake Mystral. Plan ~90 minutes; you reach 30 on the way
+ [OC]|cffffcc00Where things are:|r the moonwell (53.5,46) and Hidden Shrine (56.4,49) are the middle; Forest Song (85,45) and Xavian (78,45) the far east; the south-east corner (68-79, 64-85) holds the Rusty Chests and the druid camp; Silverwind Refuge (49.5,67) and Krolg (50.8,75) the south; Illiyana and Maestra's Post the west coast, where the chapter ends
+-[OC]|cffffcc00Log space:|r the chapter peaks at ~9 quests of its own on top of your carry (the log holds 25). If you are full, skip in this order: 98417 (its scroll has no spawn in the DB), 86757, 1140, 1022
+ [OC]|cffffcc00Training:|r nothing in Ashenvale trains you; level-30 spells wait for Ironforge (chapter 24). Hunters: Astranaar has no ammo vendor, so count your stack before the long loop
+ 
+ [OC]|cffffffffShael'dryn and the Ancients|r  -  Raene's chain, the long middle (~13,900 XP across 1026-1046): Dartol's Rod is rebuilt piece by piece, charged at a hidden shrine, then used on an uncorrupted furbolg in the south
+@@ -16,7 +15,7 @@
+ At [TAR3916 Shael'dryn], [QT1026] [QA1027 Raene's Cleansing] (2,200 XP. 1027 = the last rod piece, which the druids of Dor'danil hid in a Rusty Chest in the south-east corner - the loop below passes it) [G53.5,46.2 Ashenvale]
+ [OC]|cffffcc00Optional detour, +25 units:|r Slowing the Orc Advance (86757, 2,550 XP) must be accepted BEFORE you meet the Horde grunts and scouts near Forest Song, and Shandrina stands at Silverwind Refuge. |cFFFF0000Grind risk:|r the 6 Jagged Orcish Swords (grunts) and 4 Curved Orcish Daggers (scouts) are plain weapon drops with no rate in the DB. Give it ~30 Horde kills while you are in the east anyway, then drop it if you are short
+ [O]At [TAR3955 Shandrina], [QA86757 Slowing the Orc Advance] [G49.5,67.1 Ashenvale]
+-[OC]Leftovers at the refuge, none closed by this chapter: Velene's Mage Summoner (1017, Sarilus in the Barrens, GROUP 3+) and Alonso's three Dragonslayer quests (43,70, six units west). If you took 1017 and are not going to the Barrens, abandon it to free a slot
++[OC]Leftovers at the refuge, none closed by this chapter: Velene's Mage Summoner (1017, Sarilus in the Barrens, GROUP 3+) and Alonso's three Dragonslayer quests (43,70, six units west). If you took 1017 and are not going to the Barrens, abandon it
+ 
+ [OC]|cffffffffForest Song and Xavian|r  -  the far east: Kayneth and Maseara at the camp, Anilia and the satyrs (28-32) seven units west of it
+ [O]Run north-east to the Circle of Imprisonment in Night Run and click it to free the Highborne souls - The Tower of Althalaxx (1140, taken in chapter 12; the second circle is at Satyrnaar below) [QC1140,1] [G66.6,57.0 Ashenvale]
+diff -ru /home/claude/work/baseline_guide/22_ExcavationSite.lua guide/Guidelime_ForeverAlliance/22_ExcavationSite.lua
+--- /home/claude/work/baseline_guide/22_ExcavationSite.lua	2026-10-25 17:41:52.980236131 -0400
++++ guide/Guidelime_ForeverAlliance/22_ExcavationSite.lua	2026-10-25 18:09:28.010290630 -0400
+@@ -2,9 +2,9 @@
+ [N 29-30 Excavation Site: Wetlands]
+ [D Forever Alliance 1-30 (Braedyn)\\Menethil pickups, the walk to Whelgar's dig site and a full run of the Excavation Site (Forever's new Wetlands five-man: Saltspine, Shadetooth, the Highland Horror and the Relic Guardian), then the hand-ins, the shaman's Call of Water errands and the boat to Southshore.]
+ [GA Alliance]
+-[OC]|cffffffffLevel 29-30|r  -  you step off the Auberdine boat at Menethil Harbor with chapters 20 and 21 behind you; hearth = Sentinel Hill and it STAYS there (the shaman hearths to it from Loch Modan at the end of this chapter). This is the dungeon chapter for the Excavation Site, a NEW Forever five-man in the hills above Whelgar's dig site: about 17,700 quest XP handed in here at quest level (18,300 with the relic quest, 21,500 with the optional group quest Gleaning Our Future; the level-20 and level-24 quests pay less at your level), shaman +3,300 from Call of Water, and 7,500 XP of quests picked up for chapters 24 and 25.
++[OC]|cffffffffLevel 29-30|r  -  you step off the Auberdine boat at Menethil Harbor with chapters 20 and 21 behind you; hearth = Sentinel Hill and it STAYS there (the shaman hearths to it from Loch Modan for the Forgotten Shrine near the end of this chapter). This is the dungeon chapter for the Excavation Site, a NEW Forever five-man in the hills above Whelgar's dig site: about 17,700 quest XP handed in here at quest level (18,300 with the relic quest, 21,500 with the optional group quest Gleaning Our Future; the level-20 and level-24 quests pay less at your level), shaman +6,200 from Call of Water at quest level (the whole finale and the Water Totem are in this chapter), and 7,500 XP of quests picked up for chapters 24 and 25.
+ [OC]|cffffcc00Sources:|r the DB has no creature rows, spawns or drop tables for this dungeon and there are no coordinates inside. Boss order and abilities come from Icy Veins, Method, kami-labs and a Wowhead-based article; drop rates from the item tooltips and kami-labs. All of it is |cffffcc00per those pages, unverified in game|r; where they disagree the line says so.
+-[OC]|cffffcc00Log:|r the log holds 25. This chapter adds three on net at its peak (Blessed Arm 322, For Further Study 98313, and the relic quest 95810 that turns into Prehistoric Prism 98824). If the game says it is full, skip 98313 first, then 322. Carried in: Songblade Search (95772), Highland Hides (98815), Horrors in the Highland (95646), Gleaning Our Future (98310) if you took it, shaman Call of Water (94500, the filled Blue Waterskin).
++[OC]|cffffcc00Carried in:|r Songblade Search (95772), Highland Hides (98815), Horrors in the Highland (95646), Gleaning Our Future (98310) if you took it, shaman Call of Water (94500, the filled Blue Waterskin).
+ [OC]|cFFFF0000GROUP 5|r the run needs five: your tank friend, the two of you and two more (finder level 26; Method and the article also mention a meeting stone at the foot of the climb). The quests need 24, but the last boss is level 31 and Wowhead advises against entering at 24: you are well past that. Bring food, water, a repair and a full ammo count.
+ 
+ [OC]|cffffffffMenethil Harbor|r  -  three pickups and a shopping stop, all within 8 units of the dock
+@@ -62,20 +62,22 @@
+ At [TAR1480 Caitlin Grassman], [QT95809] - |cffffcc00Gear:|r take the Greater Healing Potion (the Mana Potion is the other choice); the fixed Satchel of Potions is a trinket that gives a random potion on a 10-minute cooldown: wear it only if your trinket slot is empty [G11.9,58.8 Wetlands]
+ At [TAR2911 Archaeologist Flagongut], [QT943] [G10.8,60.4 Wetlands]
+ 
+-[OC][A Shaman] |cffffffffShaman: Norric and the Forgotten Shrine|r  -  Call of Water goes on in Loch Modan and Westfall (94501 460 XP, 94502 1,400 XP, plus the 1,400 you took at Hervdana). Flights and a hearth, no walking in the Wetlands
++[OC][A Shaman] |cffffffffShaman: Norric, the Forgotten Shrine and the Water Totem|r  -  Call of Water finishes in Loch Modan and Westfall (94501 460 XP, 94502 1,400 XP, 94503 + 94505 2,935 XP at quest level, plus the 1,400 you took at Hervdana). Flights and a hearth, no walking in the Wetlands
+ [A Shaman] At [TAR1571 Shellei Brondir], |cFFfff8a3Fly to [F Ironforge]|r [G9.5,59.7 Wetlands]
+ [O][A Shaman] At [TAR258098 Eldrun Stormbreaker] in the Forlorn Cavern, [T] train your level 30 spells if you are 30 [G46.6,13.4 Ironforge]
+ [A Shaman] At [TAR1573 Gryth Thurden], |cFFfff8a3Fly to [F Thelsamar]|r [G55.5,47.7 Ironforge]
+ [A Shaman] Run up the west road to the north end of the loch (about 4 minutes) and at [TAR258043 Norric Lochthane], [QT94501] [QA94502 Call of Water] (the reward is the Water Sapta, which lets you see elemental spirits) [G41.8,19.1 Loch Modan]
+ [A Shaman] |cFFfff8a3Hearth to [H Sentinel Hill]|r
+-[A Shaman] Walk south-west to Stendel's Pond and the Forgotten Shrine on its shore, use the [UI6637 Water Sapta] and kill the Corrupt Minor Manifestation of Water you can now see (level 22), then loot the Corrupt Manifestation's Bracers [QC94502] [G45.6,59.9 Westfall]
+-[OC][A Shaman] The quest text puts all of this at Stendel's Pond in Westfall, but the DB pins the Corrupt Minor Manifestation at Silverpine 38.8,44.3: if nothing shows at the pond after the Sapta, the same chain continues at the Silverpine shrine in chapter 23. |cffffcc00Unverified|r
+-[A Shaman] At the Forgotten Shrine, [QT94502] [QA94503 Call of Water] (the DB ends 94502 at the shrine and starts 94503 there, although the log text still says return to Norric) [G45.6,59.9 Westfall]
+-[OC][A Shaman] 94503 reads Speak to the Minor Manifestation of Water in Westfall, but Wowhead files 94503 under both Westfall and Silverpine and its follow-up 94505 under Silverpine only, and the DB pins the Manifestation at Silverpine 38.6,44.6 - so the pond is where you KILL the corrupt one (94502) and the real Manifestation stands in Silverpine, where chapter 23 sends you. If one does stand at the pond, talk to it now; chapter 23 repeats the hand-in
+-[A Shaman] At [TAR523 Thor], |cFFfff8a3Fly to [F Menethil Harbor]|r (the game routes it through Stormwind and Ironforge) [G56.5,52.6 Westfall]
++[A Shaman] Walk south-west to Stendel's Pond and the Forgotten Shrine on its shore, drink the [UI6637 Water Sapta] at the shrine and kill the Corrupt Minor Manifestation of Water you can now see (level 22), then loot the Corrupt Manifestation's Bracers [QC94502] [G45.6,59.9 Westfall]
++[A Shaman] Hand the bracers in at the Forgotten Shrine, [QT94502] [QA94503 Call of Water] (the log text still says return to Norric; ignore it) - the pond glows and the Minor Manifestation of Water appears in it [G45.6,59.9 Westfall]
++[A Shaman] Swim out to the [TAR5895 Minor Manifestation of Water] in the pond, [QT94503] [QA94505 Call of Water] (2,750 XP at quest level, ~1,650 at 30: it hands you the Shard of Water, nothing to kill) [G47.5,60.4 Westfall]
++[OC][A Shaman] The whole finale is in Westfall (Warcraft Tavern, played through); the Silverpine spawns in the DB (38.6,44.6) are the Horde chain's
++[A Shaman] At [TAR523 Thor], |cFFfff8a3Fly to [F Thelsamar]|r (the game routes it through Stormwind and Ironforge) [G56.5,52.6 Westfall]
++[A Shaman] Run up the west road to the north end of the loch (about 4 minutes) and at [TAR258043 Norric Lochthane], [QT94505] - the fixed reward is the |cff66ff66Water Totem|r [G41.7,19.3 Loch Modan]
++[A Shaman] Back at [TAR1572 Thorgrum Borrelson], |cFFfff8a3Fly to [F Menethil Harbor]|r [G33.9,51 Loch Modan]
+ 
+ [OC]|cffffffffThe boat|r  -  in Forever the Auberdine boat carries on from Menethil to Southshore
+ Take the boat to Southshore from the Menethil dock (the sign on the pier names the destination) [G8.3,59.1 Wetlands]
+-[OC]|cffffcc00Check:|r handed in here: Seeking Caitlin (95737), The Absent Minded Prospector (942, 943), Lost in the Thicket Things (95647), Songblade Search (95772), Horrors in the Highland (95646), Highland Hides (98815), Heartwoven (95809) and, if they came your way, Lost Relic Carry (95810), Gleaning Our Future (98310) and, shaman, Call of Water (94500, 94501, 94502). Carried on: Blessed Arm (322) and Fallen in the Fen (95795) for Stormwind and Lakeshire in chapter 25, For Further Study (98313) and, with the relic, Prehistoric Prism (98824) for Ironforge in chapter 24, shaman Call of Water (94503) for chapter 23. Hearth = Sentinel Hill. Level-30 spells: the shaman trained in Ironforge above, the hunter waits for Ironforge in chapter 24. Next: Southshore
+-[NX 30-31 Hillsbrad and Silverpine]
++[OC]|cffffcc00Check:|r handed in here: Seeking Caitlin (95737), The Absent Minded Prospector (942, 943), Lost in the Thicket Things (95647), Songblade Search (95772), Horrors in the Highland (95646), Highland Hides (98815), Heartwoven (95809) and, if they came your way, Lost Relic Carry (95810), Gleaning Our Future (98310) and, shaman, Call of Water (94500, 94501, 94502, 94503, 94505 - Water Totem in the bag). Carried on: Blessed Arm (322) and Fallen in the Fen (95795) for Stormwind and Lakeshire in chapter 25, For Further Study (98313) and, with the relic, Prehistoric Prism (98824) for Ironforge in chapter 24. Hearth = Sentinel Hill. Level-30 spells: the shaman trained in Ironforge above, the hunter waits for Ironforge in chapter 24. Next: Southshore
++[NX 30-31 Hillsbrad]
+ ]], "Forever Alliance 1-30")
+diff -ru /home/claude/work/baseline_guide/23_Hillsbrad.lua guide/Guidelime_ForeverAlliance/23_Hillsbrad.lua
+--- /home/claude/work/baseline_guide/23_Hillsbrad.lua	2026-10-25 17:41:52.980306526 -0400
++++ guide/Guidelime_ForeverAlliance/23_Hillsbrad.lua	2026-10-25 18:09:30.454290574 -0400
+@@ -1,9 +1,9 @@
+ Guidelime.registerGuide([[
+-[N 30-31 Hillsbrad and Silverpine]
+-[D Forever Alliance 1-30 (Braedyn)\\Southshore in the Hillsbrad Foothills: the Down the Coast chain, the Hoard and Brewer deliveries and the turtle bisque, optional yeti, Syndicate and Crushridge extras, then the shaman's walk into Silverpine for the Water Totem and the flights to Ironforge.]
++[N 30-31 Hillsbrad]
++[D Forever Alliance 1-30 (Braedyn)\\Southshore in the Hillsbrad Foothills: the Down the Coast chain, the Hoard and Brewer deliveries and the turtle bisque, optional yeti, Syndicate and Crushridge extras, then the flight to Ironforge.]
+ [GA Alliance]
+-[OC]|cffffffffLevel 30|r  -  you step off the Menethil boat at Southshore with the Excavation Site behind you; hearth = Sentinel Hill and it stays there (nothing here needs it). Southshore is the best quest hub of the 30s and every core mob is a plain non-elite: ~14,000 quest XP on the core loops, up to ~23,000 with the optional extras, and the shaman's Call of Water adds ~2,900 (about 1,800 after level decay). The Murloc Heads and the Turtle Meat have no drop rate in the DB, so each carries a budget below. You ding 31 around Gnomeregan (chapter 24).
+-[OC]|cffffcc00Log space:|r the log holds 25. The core adds 4 quests (536, 98071, 555, 98059) plus Farren's chain one link at a time; every extra below adds one more and is optional, so skip extras from the bottom of the list if the game says full. Reassignment (563) and, if you take it, Return to Milton (542) are handed in at Stormwind in chapter 25.
++[OC]|cffffffffLevel 30|r  -  you step off the Menethil boat at Southshore with the Excavation Site behind you; hearth = Sentinel Hill and it stays there (nothing here needs it). Southshore is the best quest hub of the 30s and every core mob is a plain non-elite: ~14,000 quest XP on the core loops and up to ~23,000 with the optional extras. The Murloc Heads and the Turtle Meat have no drop rate in the DB, so each carries a budget below. You ding 31 around Gnomeregan (chapter 24).
++[OC]|cffffcc00Carried on:|r the three City of Dalaran lead-ins (92456 and 92489 from chapter 15, 92432 here) ride on to the 30-40 guide. Reassignment (563) and, if you take it, Return to Milton (542) are handed in at Stormwind in chapter 25.
+ [OC]|cffffcc00Skipped on purpose:|r Talk of the Town (98463, Barkeep Kelly: 265 XP, an errand to Booty Bay), A Lack of Virtue (98459, Tom Half-fish: 165 XP, to Menethil, which the route does not revisit) and Foreboding Plans / Noble Deaths (510, 512: the Syndicate mobs for the rings are level 35-39).
+ [OC]|cffffcc00Training:|r nothing in Southshore trains you; the level-30 spells wait for Ironforge (chapter 24).
+ 
+@@ -12,9 +12,10 @@
+ At [TAR2705 Brewmeister Bilger], [QA98071 Brewer's Trade] (2,200 XP, requires level 23: he hands you a Case of Fallrook Varietal to carry to Dun Garok in the south-east and asks for a sack of Homebrew Hops back - a pure delivery, |cff66ff66normal|r) [G52.1,58.7 Hillsbrad Foothills]
+ At [TAR2430 Chef Jessen], [QA555 Soothing Turtle Bisque] (2,500 XP, requires level 28: 10 Turtle Meat from the Snapjaws along the river east of town plus some Soothing Spices - |cffffcc00grind warning:|r the DB gives no drop rate and only 16 Snapjaws stand in the zone, 7 of them close to town; budget ~10 minutes, then give it up) [G51.9,58.7 Hillsbrad Foothills]
+ At [TAR2381 Micha Yance], buy 2 Soothing Spices for the bisque (the DB gives no count; she also sells Fine Thread) [G48.9,55.0 Hillsbrad Foothills]
++At [TAR247264 Emissary Jacques] of the Kirin Tor, [QA92432 An Alarming Request] (660 XP, requires level 30: report to the Image of Archmage Modera near the City of Dalaran, on the Silverpine shore of Lordamere at 68.6,45.2) - carry to 30-40: the City of Dalaran run is in the next guide, so it rides in the log [G48.3,60 Hillsbrad Foothills]
+ [O][A Hunter] At [TAR3541 Sarah Raycroft] next to her, restock ammo (Razor Arrow or Solid Shot, 400+) for the coast loops and Gnomeregan [G49.1,55.1 Hillsbrad Foothills]
+ 
+-[OC]|cffffffffThe Hoard errand|r  -  a ~4-minute round trip: the town hall stands in the Hillsbrad Fields 19 units north-west of McManus. The shaman walks the same road again later
++[OC]|cffffffffThe Hoard errand|r  -  a ~4-minute round trip: the town hall stands in the Hillsbrad Fields 19 units north-west of McManus
+ At [TAR251493 Captain McManus] north-west of the flight master, [QA98059 Hillsbrad's Hoard] (2,200 XP, requires level 23: he gives you a Sealed Company Request to leave on the bookkeeping table in the town hall - a pure delivery, |cff66ff66normal|r) [G46.5,50.1 Hillsbrad Foothills]
+ Walk to the town hall in the Hillsbrad Fields and put the Sealed Company Request on the bookkeeping table inside (the DB has no object for the table: the Hillsbrad Councilmen stand at 29.6,39.7 and Magistrate Burnside at 29.7,41.6, |cffffcc00unverified|r) [QC98059] [G29.6,41.5 Hillsbrad Foothills]
+ At [TAR251493 Captain McManus], [QT98059] [G46.5,50.1 Hillsbrad Foothills]
+@@ -56,19 +57,8 @@
+ [O]|cFFFF0000GROUP 3+|r At [TAR2277 Loremaster Dibbs], [QT540] [QA542 Return to Milton] (the Tomes of Alterac go to Milton Sheaf in Stormwind, chapter 25) [G50.6,57.1 Hillsbrad Foothills]
+ [O][A Shaman] At [TAR2711 Phin Odelic], [QA659 Hints of a New Plague?] (1,300 XP, requires level 30: Quae at Go'Shek Farm in the Arathi Highlands (60.2,53.9), 26 units south of Veyric Thunderhame, whom chapter 25 visits. The chain goes on from there and is not in this guide: take it only if you will be in Arathi) [G50.4,59.0 Hillsbrad Foothills]
+ 
+-[OC][A Shaman] |cffffffffCall of Water: Silverpine|r  -  94503 (picked up at the Forgotten Shrine in chapter 22) ends at the Minor Manifestation of Water in Silverpine, west of the Hillsbrad Fields (2,935 XP across 94503 and 94505 at quest level, ~1,800 at level 30). Ghost Wolf all the way (outdoors only); budget ~15 minutes each way, unverified. |cffffcc00Caution:|r the Sepulcher (Forsaken town) is 6 units from the manifestation and its guards are level 40 Deathguards: stay away from them and leave as soon as you have the shard (Classic-era: Forsaken guards attack Alliance on sight on PvP realms)
+-[O][A Shaman] At [TAR247264 Emissary Jacques], [QA92432 An Alarming Request] (660 XP, requires level 30: the Image of Archmage Modera stands on a Silverpine lake shore on your road) [G48.3,60.0 Hillsbrad Foothills]
+-[A Shaman] Run west through the Hillsbrad Fields and over the border into Silverpine [G29.6,41.5 Hillsbrad Foothills]
+-[O][A Shaman] On the lake shore at [TAR269127 Image of Archmage Modera], [QT92432] [G68.6,45.1 Silverpine Forest]
+-[OC][A Shaman] |cffffcc00Dalaran:|r she then offers Friend of the Kirin Tor (92459, 265 XP, a walk to Archmage Celindra in the City of Dalaran, Alterac 14.3,60.1): leave it unless you plan the Dalaran dungeon (new in Forever, level 30+). Its two Stormwind lead-ins, both 3,950 XP and requiring level 24: Shylamiir in the Park (31.5,62.6, A Green Sample 92456) and High Sorcerer Andromath in the Mage Quarter (48.7,87.6, Power Overwhelming 92489)
+-[A Shaman] At the [TAR5895 Minor Manifestation of Water], [QT94503] [QA94505 Call of Water] (2,750 XP at quest level, ~1,650 at level 30. The Shard of Water is handed to you and the DB lists no objective, so there is nothing to kill; a level 22 Corrupt Minor Manifestation of Water and a level 19 Corrupt Water Spirit stand within a unit of it) [G38.6,44.6 Silverpine Forest]
+-[A Shaman] Ghost Wolf back east to Southshore and the flight master [G49.3,52.3 Hillsbrad Foothills]
+-
+-[OC]|cffffffffLeaving Southshore|r  -  on to Ironforge for chapter 24 (Gnomeregan). The shaman goes by Loch Modan for the Water Totem
+-[A Hunter] At [TAR2432 Darla Harris], |cFFfff8a3Fly to [F Ironforge]|r (the game routes it) [G49.3,52.3 Hillsbrad Foothills]
+-[A Shaman] At [TAR2432 Darla Harris], |cFFfff8a3Fly to [F Thelsamar]|r [G49.3,52.3 Hillsbrad Foothills]
+-[A Shaman] Run up the west road to the north end of the loch (about 6 minutes) and at [TAR258043 Norric Lochthane], [QT94505] - the fixed reward is the |cff66ff66Water Totem|r [G41.7,19.3 Loch Modan]
+-[A Shaman] Back at [TAR1572 Thorgrum Borrelson], |cFFfff8a3Fly to [F Ironforge]|r [G33.9,51 Loch Modan]
+-[OC]|cffffcc00Check:|r handed in here: Down the Coast to Stormwind Ho! (536, 559, 560, 561, 562), Brewer's Trade (98071), Hillsbrad's Hoard (98059), The Shamed Lieutenant (98219), the bisque (555) if the meat dropped and, shaman, Call of Water (94503, 94505). Still open for Stormwind in chapter 25: Reassignment (563) and, if you took the group block, Return to Milton (542); shaman: Hints of a New Plague? (659) if you took it, for Quae in Arathi. Next: Ironforge, level-30 spells and the Gnomeregan quests
++[OC]|cffffffffLeaving Southshore|r  -  on to Ironforge for chapter 24 (Gnomeregan)
++At [TAR2432 Darla Harris], |cFFfff8a3Fly to [F Ironforge]|r (the game routes it) [G49.3,52.3 Hillsbrad Foothills]
++[OC]|cffffcc00Check:|r handed in here: Down the Coast to Stormwind Ho! (536, 559, 560, 561, 562), Brewer's Trade (98071), Hillsbrad's Hoard (98059), The Shamed Lieutenant (98219) and the bisque (555) if the meat dropped. Still open for Stormwind in chapter 25: Reassignment (563) and, if you took the group block, Return to Milton (542); shaman: Hints of a New Plague? (659) if you took it, for Quae in Arathi. Next: Ironforge, level-30 spells and the Gnomeregan quests
+ [NX 30-31 Gnomeregan]
+ ]], "Forever Alliance 1-30")
+diff -ru /home/claude/work/baseline_guide/25_LooseEnds30.lua guide/Guidelime_ForeverAlliance/25_LooseEnds30.lua
+--- /home/claude/work/baseline_guide/25_LooseEnds30.lua	2026-10-25 17:41:52.980362305 -0400
++++ guide/Guidelime_ForeverAlliance/25_LooseEnds30.lua	2026-10-25 17:55:55.034309224 -0400
+@@ -75,8 +75,8 @@
+ [O][A Hunter] At [TAR1297 Lina Stover] on the canal, buy 400+ ammo for Razorfen Kraul (Razor Arrow or Solid Shot) [G58.7,68.7 Stormwind City]
+ [OC]|cffffffffPointers for later|r  -  none of these is routed in this guide
+ [OC]|cffffcc00Refuge Pointe:|r about 30,500 XP of level-30 quests. Captain Nials (45.8,47.6) gives Northfold Manor (681, 2,500 XP: 10 Syndicate Highwaymen and 6 Mercenaries at 29-35, 24-33) and the Wanted Board holds Marez Cowl (684) and Otto and Falconcrest (685), 3,750-3,900 XP each, group. Malin's Request (690) starts with Archmage Malin in Stormwind's Mage Quarter (50.5,87.5) and bounces to Skuerto at Refuge Pointe: 1,950 XP now and 3,750 XP at the end (697)
+-[OC]|cffffcc00City of Dalaran:|r a dungeon with four 3,950-XP quests (level 33, requires 24): A Green Sample 92456 from Shylamiir in the Stormwind park (31.5,62.6), Power Overwhelming 92489 from High Sorcerer Andromath in the Mage Quarter (48.7,87.6), Starving Arcane 92457 and Heart of Disruption 92458 from the Image of Archmage Modera in Silverpine (68.6,45.1). The entrance is in the Alterac Mountains (8.5,59.2)
++[OC]|cffffcc00City of Dalaran:|r the run is in the 30-40 guide. Its three lead-ins are already in your log: A Green Sample 92456 and Power Overwhelming 92489 (Stormwind, chapter 15) and An Alarming Request 92432 (Southshore, chapter 23). Only the two Modera quests remain to pick up, Starving Arcane 92457 and Heart of Disruption 92458, from the Image of Archmage Modera on the Silverpine shore of Lordamere (68.6,45.2), where 92432 hands in. The entrance is in the Alterac Mountains (8.5,59.2)
+ [OC]|cffffcc00Scarlet Monastery:|r Mythology of the Titans (1050, 3,550 XP, requires level 28) from Librarian Mae Paledust in Ironforge (75.0,12.5); the book is an object inside the Monastery (the Library wing in Classic; entrance Tirisfal Glades 82.6,33.8, Horde country). The Fury Runs Deep (378): if you still hold it from chapter 19, Kam Deepfury needs a second Stockade run and hands in at Motley Garmason in Dun Modr
+-[OC]|cffffcc00Check:|r still open on purpose: The Missing Diplomat 1248 (Mikhail at Menethil Harbor, 10.6,60.8: 660 XP, then Tapoke Jahn 1249 for 1,300 XP and 1250 for 265 XP; after that the chain leaves for Dustwallow Marsh by the Theramore boat, a trip for level 30+. Hand it in whenever you pass Menethil, otherwise abandon it [QS1248]); shaman Elemental Aid 96264 (Razorfen Kraul next, hand-in at Veyric on a later visit). Next: the Stormwind harbour boat for Razorfen Kraul
++[OC]|cffffcc00Check:|r still open on purpose: The Missing Diplomat 1248 (Mikhail at Menethil Harbor, 10.6,60.8: 660 XP, then Tapoke Jahn 1249 for 1,300 XP and 1250 for 265 XP; after that the chain leaves for Dustwallow Marsh by the Theramore boat, a trip for level 30+. Hand it in whenever you pass Menethil, otherwise abandon it [QS1248]); shaman Elemental Aid 96264 (Razorfen Kraul next, hand-in at Veyric on a later visit); the three City of Dalaran lead-ins (92456, 92489, 92432), carried into the 30-40 guide. Next: the Stormwind harbour boat for Razorfen Kraul
+ [NX 30-31 Razorfen Kraul]
+ ]], "Forever Alliance 1-30")
+diff -ru /home/claude/work/baseline_guide/26_RazorfenKraul.lua guide/Guidelime_ForeverAlliance/26_RazorfenKraul.lua
+--- /home/claude/work/baseline_guide/26_RazorfenKraul.lua	2026-10-25 17:41:52.980387689 -0400
++++ guide/Guidelime_ForeverAlliance/26_RazorfenKraul.lua	2026-10-25 17:55:47.642309393 -0400
+@@ -85,5 +85,5 @@
+ [OC][A Shaman] |cffffcc00Veyric's other quests:|r The Tempest's Weapons (96016) and Heed My Call (96135) are level-40 content built around the Eye of the Tempest in Thousand Needles - leave them. At Refuge Pointe, |cFFfff8a3Fly to [F Stormwind]|r whenever you are done
+ [O]At [TAR4521 Treshala Fallowbrook] on the Tradesmen's Terrace, [QT1142] (3,050 XP + Lancer Boots; only if the Pendant dropped - Darnassus is the Auberdine boat, the Rut'theran boat and the portal, as in chapter 20, so do it on a later visit) [G69.5,67.8 Darnassus]
+ [OC]|cffffcc00Check:|r log should hold nothing from this chapter except, if the Pendant dropped, Mortality Wanes (1142) for a later Darnassus visit; if no Pendant dropped you may abandon it. Shaman: Elemental Aid (96264) is handed in; 96016 and 96135 stay in Veyric's list, untaken. Still open from chapter 25 on purpose: The Missing Diplomat 1248 (Menethil)
+-[OC]|cffffffffEnd of the 1-30 guide|r  -  that was the last chapter. From here the open pointers are the ones chapter 25 listed (the Refuge Pointe hub, the City of Dalaran dungeon, Scarlet Monastery) plus the Dustwallow end of the Missing Diplomat chain and Ratchet's boat to Booty Bay, which now has its flight path. Level 31-32 is the turn into the next guide
++[OC]|cffffffffEnd of the 1-30 guide|r  -  that was the last chapter. From here the open pointers are the ones chapter 25 listed (the Refuge Pointe hub, the City of Dalaran dungeon, Scarlet Monastery), the three Dalaran lead-ins you carry into the 30-40 guide (A Green Sample 92456, Power Overwhelming 92489, An Alarming Request 92432 - Modera on the Silverpine shore 68.6,45.2 takes 92432 and gives Starving Arcane and Heart of Disruption), plus the Dustwallow end of the Missing Diplomat chain and Ratchet's boat to Booty Bay, which now has its flight path. Level 31-32 is the turn into the next guide
+ ]], "Forever Alliance 1-30")
+diff -ru /home/claude/work/baseline_guide/Guidelime_ForeverAlliance.toc guide/Guidelime_ForeverAlliance/Guidelime_ForeverAlliance.toc
+--- /home/claude/work/baseline_guide/Guidelime_ForeverAlliance.toc	2026-10-25 17:41:52.980412898 -0400
++++ guide/Guidelime_ForeverAlliance/Guidelime_ForeverAlliance.toc	2026-10-25 17:56:02.546309053 -0400
+@@ -1,8 +1,8 @@
+ ## Interface: 16001
+ ## Title: Guidelime |cff66ff66Forever Alliance 1-30|r
+-## Notes: Braedyn's Alliance levelling route for WoW Forever - Dwarf Shaman and Dwarf/Human Hunter, class and race steps filtered automatically. 1-20: Eastern Kingdoms, Hall of Thanes + Deadmines (24-25 Sep 2026, audited 17 Oct against QuestieDB Forever 1.0.6). 20-30 (18 Oct 2026): Ruins of Lordaeron, Loch Modan, Redridge, Darkshore, Ashenvale + Blackfathom Deeps, Duskwood, the Stockade, Wetlands, Darnassus, Excavation Site, Hillsbrad, Gnomeregan, Razorfen Kraul - every Alliance dungeon quest in the bracket, Call of Water and Call of Air for the shaman.
++## Notes: Braedyn's Alliance levelling route for WoW Forever - Dwarf Shaman and Dwarf/Human Hunter, class and race steps filtered automatically. 1-20: Eastern Kingdoms, Hall of Thanes + Deadmines (24-25 Sep 2026, audited 17 Oct against QuestieDB Forever 1.0.6). 20-30 (18 Oct 2026): Ruins of Lordaeron, Loch Modan, Redridge, Darkshore, Ashenvale + Blackfathom Deeps, Duskwood, the Stockade, Wetlands, Darnassus, Excavation Site, Hillsbrad, Gnomeregan, Razorfen Kraul - every Alliance dungeon quest in the bracket, Call of Water and Call of Air for the shaman. 25 Oct: launch-crowd layer in 1-15, Call of Water finale moved to Westfall, shaman fixes, Dalaran lead-ins carried from 15/23.
+ ## Author: Braedyn (with Claude)
+-## Version: 2026.10.18
++## Version: 2026.10.25
+ ## Dependencies: Guidelime
+ ## X-Website: sageguide.net and TUGs Forever were the reference guides this was compared against
+ 00a_Northshire.lua
+diff -ru /home/claude/work/baseline_guide/Guidelime_ForeverAlliance_Forever.toc guide/Guidelime_ForeverAlliance/Guidelime_ForeverAlliance_Forever.toc
+--- /home/claude/work/baseline_guide/Guidelime_ForeverAlliance_Forever.toc	2026-10-25 17:41:52.979595349 -0400
++++ guide/Guidelime_ForeverAlliance/Guidelime_ForeverAlliance_Forever.toc	2026-10-25 17:56:03.678309027 -0400
+@@ -1,8 +1,8 @@
+ ## Interface: 16001
+ ## Title: Guidelime |cff66ff66Forever Alliance 1-30|r
+-## Notes: Braedyn's Alliance levelling route for WoW Forever - Dwarf Shaman and Dwarf/Human Hunter, class and race steps filtered automatically. 1-20: Eastern Kingdoms, Hall of Thanes + Deadmines (24-25 Sep 2026, audited 17 Oct against QuestieDB Forever 1.0.6). 20-30 (18 Oct 2026): Ruins of Lordaeron, Loch Modan, Redridge, Darkshore, Ashenvale + Blackfathom Deeps, Duskwood, the Stockade, Wetlands, Darnassus, Excavation Site, Hillsbrad, Gnomeregan, Razorfen Kraul - every Alliance dungeon quest in the bracket, Call of Water and Call of Air for the shaman.
++## Notes: Braedyn's Alliance levelling route for WoW Forever - Dwarf Shaman and Dwarf/Human Hunter, class and race steps filtered automatically. 1-20: Eastern Kingdoms, Hall of Thanes + Deadmines (24-25 Sep 2026, audited 17 Oct against QuestieDB Forever 1.0.6). 20-30 (18 Oct 2026): Ruins of Lordaeron, Loch Modan, Redridge, Darkshore, Ashenvale + Blackfathom Deeps, Duskwood, the Stockade, Wetlands, Darnassus, Excavation Site, Hillsbrad, Gnomeregan, Razorfen Kraul - every Alliance dungeon quest in the bracket, Call of Water and Call of Air for the shaman. 25 Oct: launch-crowd layer in 1-15, Call of Water finale moved to Westfall, shaman fixes, Dalaran lead-ins carried from 15/23.
+ ## Author: Braedyn (with Claude)
+-## Version: 2026.10.18
++## Version: 2026.10.25
+ ## Dependencies: Guidelime
+ ## X-Website: sageguide.net and TUGs Forever were the reference guides this was compared against
+ 00a_Northshire.lua

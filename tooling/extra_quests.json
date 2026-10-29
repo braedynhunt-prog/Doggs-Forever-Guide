@@ -1,0 +1,152 @@
+{
+ "87760": {
+  "id": 87760,
+  "name": "Holy Diver",
+  "g": {
+   "name": "Holy Diver",
+   "envChange": {
+    "status": "new?"
+   }
+  },
+  "info": {
+   "start": []
+  },
+  "objective_text": "Holy Diver Find a Stormscale Beastmistress, slay her, and bring back her Rod of Deep Dominion. Requirements: - Rod of Deep Dominion",
+  "source": "nether tooltip 2026-10-17 (quest page blocked: CloudFront 403/202)"
+ },
+ "91736": {
+  "id": 91736,
+  "name": "Applejack Still",
+  "g": {
+   "name": "Applejack Still",
+   "envChange": {
+    "status": "new?"
+   }
+  },
+  "info": {
+   "start": []
+  },
+  "objective_text": "Applejack Still A strong scent of apples burns your nose as you inspect the device. Requirements: - Shiny Red Apple x 4",
+  "source": "nether tooltip 2026-10-17 (quest page blocked: CloudFront 403/202)"
+ },
+ "95647": {
+  "id": 95647,
+  "name": "Lost in the Thicket Things",
+  "g": {
+   "name": "Lost in the Thicket Things",
+   "envChange": {
+    "status": "new?"
+   }
+  },
+  "info": {
+   "start": []
+  },
+  "objective_text": "Lost in the Thicket Things Level 31 Find Ardin Grassman in the Excavation Sites. Requirements: - Learn what happened to Ardin Grassman",
+  "source": "nether tooltip 2026-10-17 (quest page blocked: CloudFront 403/202)"
+ },
+ "95737": {
+  "id": 95737,
+  "name": "Seeking Caitlin",
+  "g": {
+   "name": "Seeking Caitlin",
+   "envChange": {
+    "status": "new?"
+   }
+  },
+  "info": {
+   "start": []
+  },
+  "objective_text": "Seeking Caitlin Level 31 Speak with Caitlin Grassman in Menethil Harbor.",
+  "source": "nether tooltip 2026-10-17 (quest page blocked: CloudFront 403/202)"
+ },
+ "97277": {
+  "id": 97277,
+  "name": "Grund and Gozwin",
+  "g": {
+   "name": "Grund and Gozwin",
+   "envChange": {
+    "status": "new?"
+   }
+  },
+  "info": {
+   "start": []
+  },
+  "objective_text": "Grund and Gozwin Find Grund and Gozwin's camp in the hills to the northwest. Recover Gozwin's Mechanic's Log and kill the Snow Leopard Prowler. Requirements: - Gozwin's Mechanic's Log - Snow Leopard Prowler",
+  "source": "nether tooltip 2026-10-17 (quest page blocked: CloudFront 403/202)"
+ },
+ "97894": {
+  "id": 97894,
+  "name": "Business in Auberdine",
+  "g": {
+   "name": "Business in Auberdine",
+   "envChange": {
+    "status": "new?"
+   }
+  },
+  "info": {
+   "start": []
+  },
+  "objective_text": "Business in Auberdine Check on Gorbold Steelhand in Auberdine in Darkshore. Borgus mentioned a boat on the southern-most dock in Stormwind Harbor that can take you there. Requirements: - Take the boat to Auberdine and find Gorbold Steelhand.",
+  "source": "nether tooltip 2026-10-17 (quest page blocked: CloudFront 403/202)"
+ },
+ "98071": {
+  "id": 98071,
+  "name": "Brewer's Trade",
+  "g": {
+   "name": "Brewer's Trade",
+   "envChange": {
+    "status": "new?"
+   }
+  },
+  "info": {
+   "start": []
+  },
+  "objective_text": "Brewer's Trade Deliver the bottles of Fallrook Varietal to Dun Garok in southeast Hillsbrad Foothills, and bring back a sack of their Homebrew Hops. Requirements: - Fallrook Varietal delivered to Dun Garok - Sack of Homebrew Hops",
+  "source": "nether tooltip 2026-10-17 (quest page blocked: CloudFront 403/202)"
+ },
+ "98190": {
+  "id": 98190,
+  "name": "A Friend of the Family",
+  "g": {
+   "name": "A Friend of the Family",
+   "envChange": {
+    "status": "new?"
+   }
+  },
+  "info": {
+   "start": []
+  },
+  "objective_text": "A Friend of the Family Bring the Menethil Statuette to Highlord Bolvar Fordragon in Stormwind Keep.",
+  "source": "nether tooltip 2026-10-17 (quest page blocked: CloudFront 403/202)"
+ },
+ "98221": {
+  "id": 98221,
+  "name": "From the Ashes",
+  "g": {
+   "name": "From the Ashes",
+   "envChange": {
+    "status": "new?"
+   }
+  },
+  "info": {
+   "start": []
+  },
+  "objective_text": "From the Ashes Captain Stoutfist in Menethil Keep wants you to destroy the 4 sets of Attack Plans in the Angerfang Encampment. Requirements: - Attack Plan: Menethil Harbor destroyed - Attack Plan: Thelsamar destroyed - Attack Plan: Southshore destroyed - Attack Plan: Ironforge destroyed",
+  "source": "nether tooltip 2026-10-17 (quest page blocked: CloudFront 403/202)"
+ },
+ "98463": {
+  "id": 98463,
+  "name": "Talk of the Town",
+  "g": {
+   "name": "Talk of the Town",
+   "envChange": {
+    "status": "new?"
+   }
+  },
+  "info": {
+   "start": []
+  },
+  "objective_text": "Talk of the Town Visit Nixxrax Fillamug in the Salty Sailor Tavern in Booty Bay in Stranglethorn.",
+  "source": "nether tooltip 2026-10-17 (quest page blocked: CloudFront 403/202)"
+ }
+}

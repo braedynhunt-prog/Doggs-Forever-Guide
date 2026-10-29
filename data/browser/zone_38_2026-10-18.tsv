@@ -1,0 +1,86 @@
+ZONE	/forever/zone=38/loch-modan
+17	42	38	3450	1	1337	2	81	0	0	unchanged	5500		9030	Uldaman Reagent Run
+161	18	16	1350	1	38	0		0	0	unchanged	0			A Dark Threat Looms
+199	18	16	1350	1	38	0		0	0	unchanged	0			A Dark Threat Looms
+217	17	10	1600	1	38	0		0	0	unchanged	0	1436,6187,1832		In Defense of the King's Lands
+224	12	10	910	1	38	0		0	0	unchanged	500		414	In Defense of the King's Lands
+237	15	10	1050	1	38	0		0	0	unchanged	700		858	In Defense of the King's Lands
+250	18	16	680	1	38	0		0	0	unchanged	0			A Dark Threat Looms
+255	19	15	1800	1	38	0	1	0	0	unchanged	2000			Mercenaries
+256	22	17	1750	1	38	0	1	0	0	updated	0	6189,6191,270019	1449	WANTED: Chok'sul
+257	16	11	880	1	38	0		0	0	unchanged	0	2903,2904		A Hunter's Boast
+258	17	11	950	1	38	0		0	0	unchanged	0		859,3572	A Hunter's Challenge
+263	15	10	1050	1	38	0		0	0	unchanged	700		2863	In Defense of the King's Lands
+267	12	10	910	1	38	0		0	0	unchanged	500			The Trogg Threat
+271	20	15	780	1	38	0	1	0	0	unchanged	0			Vyrin's Revenge
+273	15	10	270	1	38	0		0	0	unchanged	0			Resupplying the Excavation
+274	18	16	340	1	38	0		0	0	unchanged	0			A Dark Threat Looms
+278	18	16	1350	1	38	0	1	0	0	unchanged	0			A Dark Threat Looms
+280	18	16	680	1	38	0		0	0	unchanged	0			A Dark Threat Looms
+283	20	16	1950	1	38	0		0	0	unchanged	0	2907,2908		A Dark Threat Looms
+297	18	13	1350	1	38	0		0	0	unchanged	0	5241,6186,3154		Gathering Idols
+298	15	10	270	1	38	0		0	0	unchanged	0			Excavation Progress Report
+301	15	10	540	1	38	0		0	0	unchanged	175			Report to Ironforge
+302	15	10	270	1	38	0		0	0	unchanged	0			Powder to Ironband
+307	15	9	1350	1	38	0		0	0	unchanged	0	3166,3161,3160		Filthy Paws
+309	15	10	1050	1	38	0		0	0	unchanged	0	3217,6188		Protecting the Shipment
+353	15	9	1050	1	1519	0		0	0	updated	700			Stormpike's Delivery
+385	15	10	1050	1	38	0		0	0	unchanged	0		3678,2240	Crocolisk Hunting
+414	10	8	630	1	1	0		0	0	unchanged	0			Stout to Kadrell
+416	11	10	880	1	38	0		0	0	unchanged	400	3158,860		Rat Catching
+418	11	7	880	1	38	0		0	0	unchanged	400		3220,3679	Thelsamar Blood Sausages
+436	18	13	340	1	38	0		0	0	unchanged	0			Ironband's Excavation
+454	15	10	105	1	38	0		0	0	unchanged	0			After the Ambush
+455	21	19	1250	1	11	0		0	0	unchanged	1000			The Algaz Gauntlet
+467	23	20	460	1	1	0		0	0	unchanged	0			Stonegear's Search
+468	21	19	165	1	11	0		0	0	unchanged	0			Report to Mountaineer Rockgar
+531	20	15	1550	1	38	0	1	0	0	updated	0	3574,3573	270017	Vyrin's Revenge
+584	41	30	3300	2	33	0		0	0	unchanged	0			Bloodscalp Clan Heads
+585	40	30	2350	2	33	0		0	0	unchanged	0			Speaking with Nezzliok
+586	46	30	4050	2	33	0		0	0	unchanged	0			Speaking with Gan'zulah
+588	45	30	390	2	33	0		0	0	unchanged	0			The Fate of Yenniku
+704	38	30	2850	1	1337	2	81	0	0	updated	0	4980,270059,270060		Agmond's Fate
+707	37	30	710	1	1537	0		0	0	unchanged	0			Ironband Wants You!
+738	38	30	1450	1	3	0		0	0	unchanged	400		4982,1529,2776	Find Agmond
+739	42	30	3450	1	3	0		0	0	unchanged	0		4983	Murdaloc
+912	12	10	225	3	38	0		0	0	unchanged	0		5131	Stonesplinter Trogg Disguise
+1261	40	30	3150	2	15	1		0	0	unchanged	0			Marg Speaks
+1338	14	9	980	1	38	0		0	0	unchanged	600			Stormpike's Order
+1339	15	9	540	1	38	0		0	0	unchanged	0			Mountaineer Stormpike's Task
+1526	13	10	1150	2	-82	4		64	162	unchanged	0		6654	Call of Fire
+1527	13	10	1150	2	-82	4		64	162	updated	0		5176,263412	Call of Fire
+1578	12	1	910	1	-121	5		11	0	unchanged	0		3609	Supplying the Front
+1655	22	20	435	1	-141	4	1	2	5	unchanged	0		6993	Bailor's Ore Shipment
+2038	15	12	1050	1	38	0		0	0	unchanged	700		12522	Bingles' Missing Supplies
+2039	15	12	270	1	1537	0		0	0	unchanged	0			Find Bingles
+2201	43	37	3600	1	1337	2	81	0	0	unchanged	0			Find the Gems
+2204	44	37	930	1	1337	2	81	0	0	unchanged	0			Restoring the Necklace
+2500	39	36	3000	1	38	0		0	0	unchanged	4500			Badlands Reagent Run
+2501	44	40	3750	1	38	0	1	0	0	unchanged	0			Badlands Reagent Run II
+3181	48	40	5450	1	51	0	1	0	0	unchanged	0			The Horn of the Beast
+3182	48	40	4400	1	38	0	1	0	0	unchanged	14000			Proof of Deed
+3201	48	40	4400	1	1537	0	1	0	0	unchanged	0		5396	At Last!
+6387	10	10	210	1	38	0		0	68	unchanged	0			Honor Students
+6388	10	10	210	1	38	0		0	68	unchanged	0			Gryth Thurden
+6391	10	10	420	1	38	0		0	68	unchanged	175			Ride to Ironforge
+6392	10	10	1050	1	38	0		0	68	unchanged	350			Return to Brock
+8642	60	1		3	-366	9		0	0	unchanged	0		21100	Silvervein the Elder
+79974	32	14	2550	3	406	1		0	0	updated	0		5432,20709	Wet Job
+79975	32	14	2550	3	146	0		0	0	updated	0			Eagle's Fist
+86585	17	10	1250	1	38	0		0	4294967372	new	900	281253,281254		Banner of the Fallen
+86613	18	13	1350	1	38	0		0	0	new	1000			Excavation Tools
+86614	20	13	1550	1	38	0		0	4294967372	new	1200		281256	Silver of the Waves
+86667	10	10	420	1	38	0		0	4294967372	new	0			Snowbound
+86758	16	12	1150	1	38	0		0	4294967372	new	800		281257	Twisting the Knife
+86776	30	15	2450	1	38	0		0	0	new	2500		3576	Ingredients for the Forge
+94465	11	10	660	1	-82	4		64	4	new	0			Call of Fire
+94466	14	10	980	1	-82	4		64	4	new	0		6636	Call of Fire
+94467	14	10	1250	1	-82	4		64	4	new	0		6654	Call of Fire
+94468	14	10	1250	1	-82	4		64	4	new	0		5176,263412	Call of Fire
+94473	13	10		1	-82	4		64	0	new	0		6636	Fire Sapta
+94494	20	20	780	1	-82	4		64	68	new	0			Call of Water
+94495	22	20	435	1	-82	4		64	68	new	0			Call of Water
+94501	23	20	460	1	-82	4		64	68	new	0		6637	Call of Water
+94502	23	20	1400	1	-82	4		64	68	new	0			Call of Water
+94505	23	20	2750	1	-82	4		64	68	new	0		5177	Call of Water
+94616	20	20		1	-82	4		64	0	new	0		6637	Water Sapta

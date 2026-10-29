@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+
+# Staging artifacts (see docs/audit-2026-10-27.md: the tar.gz can be deleted)
+_to_delete/
+New Text Document.txt
+
+# Wowhead scraper page cache: run.bat deletes and refetches it, scrape.py rebuilds data/ from it
+raw/
+scrape.log
+
+# Claude Code per-machine settings
+.claude/settings.local.json

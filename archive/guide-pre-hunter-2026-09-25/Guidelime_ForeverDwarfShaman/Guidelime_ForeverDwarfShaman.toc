@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: Guidelime |cff66ff66Forever Dwarf Shaman 1-20|r
+## Notes: Braedyn's Dwarf Shaman levelling route for WoW Forever (Alliance, Eastern Kingdoms, Hall of Thanes + Deadmines). Built 24 Sep 2026 from the Wowhead Forever atlas and Questie Classic data.
+## Author: Braedyn (with Claude)
+## Version: 2026.09.25
+## Dependencies: Guidelime
+## X-Website: sageguide.net is the reference guide this was compared against
+01a_ColdridgeValley.lua
+01b_DunMorogh.lua
+02_LochModan.lua
+03_HallOfThanes.lua
+04_LochModan2.lua
+05_Westfall.lua
+06_Redridge.lua
+07_Deadmines.lua
+08_LooseEnds.lua

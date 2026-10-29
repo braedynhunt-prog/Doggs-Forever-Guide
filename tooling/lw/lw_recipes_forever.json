@@ -1,0 +1,23650 @@
+{
+"spells": [
+{
+"id": 2108,
+"name": "Leatherworking",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"source": [
+6
+],
+"nskillup": 1,
+"quality": -1,
+"rank": "Apprentice",
+"status": "updated",
+"labels": [
+"reworded"
+]
+},
+{
+"id": 2149,
+"name": "Handstitched Leather Boots",
+"learnedat": 40,
+"colors": [
+0,
+40,
+55,
+70
+],
+"reagents": [
+[
+2318,
+2
+],
+[
+2320,
+1
+]
+],
+"creates": [
+2302,
+1,
+1
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 2152,
+"name": "Light Armor Kit",
+"learnedat": 30,
+"colors": [
+0,
+30,
+45,
+60
+],
+"reagents": [
+[
+2318,
+1
+]
+],
+"creates": [
+2304,
+1,
+1
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 2153,
+"name": "Handstitched Leather Pants",
+"learnedat": 15,
+"colors": [
+15,
+45,
+60,
+75
+],
+"reagents": [
+[
+2318,
+4
+],
+[
+2320,
+1
+]
+],
+"creates": [
+2303,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 2158,
+"name": "Fine Leather Boots",
+"learnedat": 65,
+"colors": [
+65,
+95,
+110,
+125
+],
+"reagents": [
+[
+2318,
+7
+],
+[
+2320,
+2
+]
+],
+"creates": [
+2307,
+1,
+1
+],
+"source": [
+2,
+16,
+21
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 2159,
+"name": "Fine Leather Cloak",
+"learnedat": 50,
+"colors": [
+50,
+70,
+85,
+100
+],
+"reagents": [
+[
+2318,
+10
+],
+[
+2321,
+2
+]
+],
+"creates": [
+2308,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 2160,
+"name": "Embossed Leather Vest",
+"learnedat": 35,
+"colors": [
+35,
+65,
+80,
+95
+],
+"reagents": [
+[
+2318,
+8
+],
+[
+2320,
+4
+]
+],
+"creates": [
+2300,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 2161,
+"name": "Embossed Leather Boots",
+"learnedat": 50,
+"colors": [
+50,
+80,
+95,
+110
+],
+"reagents": [
+[
+2318,
+8
+],
+[
+2320,
+5
+]
+],
+"creates": [
+2309,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 2162,
+"name": "Embossed Leather Cloak",
+"learnedat": 40,
+"colors": [
+40,
+70,
+85,
+100
+],
+"reagents": [
+[
+2318,
+5
+],
+[
+2320,
+2
+]
+],
+"creates": [
+2310,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 2163,
+"name": "White Leather Jerkin",
+"learnedat": 40,
+"colors": [
+40,
+70,
+85,
+100
+],
+"reagents": [
+[
+2318,
+8
+],
+[
+2320,
+2
+],
+[
+2324,
+1
+]
+],
+"creates": [
+2311,
+1,
+1
+],
+"source": [
+2,
+16,
+21
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 2164,
+"name": "Fine Leather Gloves",
+"learnedat": 50,
+"colors": [
+50,
+80,
+95,
+110
+],
+"reagents": [
+[
+4231,
+1
+],
+[
+2318,
+4
+],
+[
+2320,
+2
+]
+],
+"creates": [
+2312,
+1,
+1
+],
+"source": [
+2,
+21
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 2165,
+"name": "Medium Armor Kit",
+"learnedat": 75,
+"colors": [
+75,
+90,
+97,
+105
+],
+"reagents": [
+[
+2319,
+4
+],
+[
+2320,
+1
+]
+],
+"creates": [
+2313,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 2166,
+"name": "Toughened Leather Armor",
+"learnedat": 95,
+"colors": [
+95,
+120,
+132,
+145
+],
+"reagents": [
+[
+2319,
+10
+],
+[
+4231,
+2
+],
+[
+2321,
+2
+]
+],
+"creates": [
+2314,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 2167,
+"name": "Gray Leather Boots",
+"learnedat": 75,
+"colors": [
+75,
+100,
+112,
+125
+],
+"reagents": [
+[
+2319,
+4
+],
+[
+2321,
+2
+],
+[
+4340,
+1
+]
+],
+"creates": [
+2315,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "updated",
+"labels": [
+"renamed"
+]
+},
+{
+"id": 2168,
+"name": "Dark Leather Cloak",
+"learnedat": 85,
+"colors": [
+85,
+110,
+122,
+135
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+2321,
+1
+],
+[
+4340,
+1
+]
+],
+"creates": [
+2316,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 2169,
+"name": "Dark Leather Tunic",
+"learnedat": 75,
+"colors": [
+75,
+100,
+112,
+125
+],
+"reagents": [
+[
+2319,
+6
+],
+[
+2321,
+1
+],
+[
+4340,
+1
+]
+],
+"creates": [
+2317,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 2881,
+"name": "Light Leather",
+"learnedat": 20,
+"colors": [
+0,
+20,
+30,
+40
+],
+"reagents": [
+[
+2934,
+3
+]
+],
+"creates": [
+2318,
+1,
+1
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3104,
+"name": "Leatherworking",
+"learnedat": 50,
+"colors": null,
+"reagents": null,
+"creates": null,
+"source": [
+6
+],
+"nskillup": 1,
+"quality": -1,
+"rank": "Journeyman",
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3753,
+"name": "Handstitched Leather Belt",
+"learnedat": 25,
+"colors": [
+25,
+55,
+70,
+85
+],
+"reagents": [
+[
+2318,
+6
+],
+[
+2320,
+1
+]
+],
+"creates": [
+4237,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3756,
+"name": "Embossed Leather Gloves",
+"learnedat": 40,
+"colors": [
+40,
+70,
+85,
+100
+],
+"reagents": [
+[
+2318,
+3
+],
+[
+2320,
+2
+]
+],
+"creates": [
+4239,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3759,
+"name": "Embossed Leather Pants",
+"learnedat": 50,
+"colors": [
+50,
+80,
+95,
+110
+],
+"reagents": [
+[
+4231,
+1
+],
+[
+2318,
+6
+],
+[
+2320,
+2
+]
+],
+"creates": [
+4242,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3760,
+"name": "Hillman's Cloak",
+"learnedat": 125,
+"colors": [
+125,
+145,
+155,
+165
+],
+"reagents": [
+[
+4234,
+5
+],
+[
+2321,
+2
+]
+],
+"creates": [
+3719,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3761,
+"name": "Fine Leather Tunic",
+"learnedat": 60,
+"colors": [
+60,
+90,
+105,
+120
+],
+"reagents": [
+[
+4231,
+3
+],
+[
+2318,
+6
+],
+[
+2320,
+4
+]
+],
+"creates": [
+4243,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3762,
+"name": "Hillman's Leather Vest",
+"learnedat": 75,
+"colors": [
+75,
+100,
+112,
+125
+],
+"reagents": [
+[
+4243,
+1
+],
+[
+4231,
+2
+],
+[
+2320,
+2
+]
+],
+"creates": [
+4244,
+1,
+1
+],
+"source": [
+2,
+21
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3763,
+"name": "Fine Leather Belt",
+"learnedat": 55,
+"colors": [
+55,
+85,
+100,
+115
+],
+"reagents": [
+[
+2318,
+6
+],
+[
+2320,
+2
+]
+],
+"creates": [
+4246,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3764,
+"name": "Hillman's Leather Gloves",
+"learnedat": 120,
+"colors": [
+120,
+145,
+157,
+170
+],
+"reagents": [
+[
+2319,
+14
+],
+[
+2321,
+4
+]
+],
+"creates": [
+4247,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3765,
+"name": "Dark Leather Gloves",
+"learnedat": 95,
+"colors": [
+95,
+140,
+152,
+165
+],
+"reagents": [
+[
+2312,
+1
+],
+[
+4233,
+1
+],
+[
+2321,
+1
+],
+[
+4340,
+1
+]
+],
+"creates": [
+4248,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3766,
+"name": "Dark Leather Belt",
+"learnedat": 100,
+"colors": [
+100,
+125,
+137,
+150
+],
+"reagents": [
+[
+4246,
+1
+],
+[
+4233,
+1
+],
+[
+2321,
+2
+],
+[
+4340,
+1
+]
+],
+"creates": [
+4249,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3767,
+"name": "Hillman's Belt",
+"learnedat": 95,
+"colors": [
+95,
+125,
+137,
+150
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+3383,
+1
+],
+[
+2321,
+2
+]
+],
+"creates": [
+4250,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3768,
+"name": "Hillman's Shoulders",
+"learnedat": 105,
+"colors": [
+105,
+130,
+142,
+155
+],
+"reagents": [
+[
+4233,
+1
+],
+[
+2319,
+4
+],
+[
+2321,
+1
+]
+],
+"creates": [
+4251,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3769,
+"name": "Dark Leather Shoulders",
+"learnedat": 115,
+"colors": [
+115,
+140,
+152,
+165
+],
+"reagents": [
+[
+2319,
+12
+],
+[
+3390,
+1
+],
+[
+4340,
+1
+],
+[
+2321,
+2
+]
+],
+"creates": [
+4252,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3770,
+"name": "Toughened Leather Gloves",
+"learnedat": 110,
+"colors": [
+110,
+135,
+147,
+160
+],
+"reagents": [
+[
+2319,
+4
+],
+[
+4233,
+2
+],
+[
+3389,
+2
+],
+[
+3182,
+2
+],
+[
+2321,
+2
+]
+],
+"creates": [
+4253,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3771,
+"name": "Barbaric Gloves",
+"learnedat": 125,
+"colors": [
+125,
+150,
+160,
+170
+],
+"reagents": [
+[
+4234,
+6
+],
+[
+5637,
+2
+],
+[
+2321,
+1
+]
+],
+"creates": [
+4254,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3772,
+"name": "Green Leather Armor",
+"learnedat": 130,
+"colors": [
+130,
+150,
+160,
+170
+],
+"reagents": [
+[
+4234,
+9
+],
+[
+2605,
+2
+],
+[
+2321,
+4
+]
+],
+"creates": [
+4255,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3773,
+"name": "Guardian Armor",
+"learnedat": 150,
+"colors": [
+150,
+170,
+180,
+190
+],
+"reagents": [
+[
+4236,
+2
+],
+[
+4234,
+12
+],
+[
+3824,
+1
+],
+[
+2321,
+2
+]
+],
+"creates": [
+4256,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3774,
+"name": "Green Leather Belt",
+"learnedat": 135,
+"colors": [
+135,
+155,
+165,
+175
+],
+"reagents": [
+[
+4236,
+1
+],
+[
+4234,
+5
+],
+[
+2321,
+1
+],
+[
+2605,
+1
+],
+[
+7071,
+1
+]
+],
+"creates": [
+4257,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3775,
+"name": "Guardian Belt",
+"learnedat": 145,
+"colors": [
+145,
+165,
+175,
+185
+],
+"reagents": [
+[
+4236,
+2
+],
+[
+4234,
+4
+],
+[
+2321,
+1
+],
+[
+7071,
+1
+]
+],
+"creates": [
+4258,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3776,
+"name": "Green Leather Bracers",
+"learnedat": 155,
+"colors": [
+155,
+175,
+185,
+195
+],
+"reagents": [
+[
+4236,
+2
+],
+[
+4234,
+6
+],
+[
+2605,
+1
+],
+[
+2321,
+1
+]
+],
+"creates": [
+4259,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3777,
+"name": "Guardian Leather Bracers",
+"learnedat": 170,
+"colors": [
+170,
+190,
+200,
+210
+],
+"reagents": [
+[
+4234,
+6
+],
+[
+4236,
+2
+],
+[
+4291,
+1
+]
+],
+"creates": [
+4260,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3778,
+"name": "Gem-studded Leather Belt",
+"learnedat": 160,
+"colors": [
+160,
+180,
+190,
+200
+],
+"reagents": [
+[
+4236,
+4
+],
+[
+5500,
+2
+],
+[
+1529,
+2
+],
+[
+3864,
+1
+],
+[
+2321,
+1
+]
+],
+"creates": [
+4262,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3779,
+"name": "Barbaric Belt",
+"learnedat": 175,
+"colors": [
+175,
+195,
+205,
+215
+],
+"reagents": [
+[
+4234,
+6
+],
+[
+4236,
+2
+],
+[
+4096,
+2
+],
+[
+5633,
+1
+],
+[
+4291,
+1
+],
+[
+7071,
+1
+]
+],
+"creates": [
+4264,
+1,
+1
+],
+"source": [
+2,
+21
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3780,
+"name": "Heavy Armor Kit",
+"learnedat": 125,
+"colors": [
+125,
+145,
+155,
+165
+],
+"reagents": [
+[
+4234,
+5
+],
+[
+2321,
+1
+]
+],
+"creates": [
+4265,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3811,
+"name": "Leatherworking",
+"learnedat": 125,
+"colors": null,
+"reagents": null,
+"creates": null,
+"source": [
+6
+],
+"nskillup": 1,
+"quality": -1,
+"rank": "Expert",
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3816,
+"name": "Cured Light Hide",
+"learnedat": 30,
+"colors": [
+30,
+50,
+60,
+70
+],
+"reagents": [
+[
+783,
+1
+],
+[
+4289,
+1
+]
+],
+"creates": [
+4231,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3817,
+"name": "Cured Medium Hide",
+"learnedat": 75,
+"colors": [
+75,
+90,
+97,
+105
+],
+"reagents": [
+[
+4232,
+1
+],
+[
+4289,
+1
+]
+],
+"creates": [
+4233,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 3818,
+"name": "Cured Heavy Hide",
+"learnedat": 125,
+"colors": [
+125,
+135,
+140,
+145
+],
+"reagents": [
+[
+4235,
+1
+],
+[
+4289,
+3
+]
+],
+"creates": [
+4236,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 4096,
+"name": "Raptor Hide Harness",
+"learnedat": 140,
+"colors": [
+140,
+160,
+170,
+180
+],
+"reagents": [
+[
+4461,
+6
+],
+[
+4234,
+4
+],
+[
+2321,
+2
+]
+],
+"creates": [
+4455,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 4097,
+"name": "Raptor Hide Belt",
+"learnedat": 140,
+"colors": [
+140,
+160,
+170,
+180
+],
+"reagents": [
+[
+4461,
+4
+],
+[
+4234,
+4
+],
+[
+2321,
+2
+]
+],
+"creates": [
+4456,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 5244,
+"name": "Kodo Hide Bag",
+"learnedat": 35,
+"colors": [
+35,
+65,
+80,
+95
+],
+"reagents": [
+[
+5082,
+3
+],
+[
+2318,
+4
+],
+[
+2320,
+1
+]
+],
+"creates": [
+5081,
+1,
+1
+],
+"source": [
+4
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 6661,
+"name": "Barbaric Harness",
+"learnedat": 165,
+"colors": [
+165,
+185,
+195,
+205
+],
+"reagents": [
+[
+4234,
+14
+],
+[
+2321,
+2
+],
+[
+7071,
+1
+]
+],
+"creates": [
+5739,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 6702,
+"name": "Murloc Scale Belt",
+"learnedat": 65,
+"colors": [
+65,
+95,
+110,
+125
+],
+"reagents": [
+[
+5784,
+8
+],
+[
+2318,
+6
+],
+[
+2321,
+1
+]
+],
+"creates": [
+5780,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 6703,
+"name": "Murloc Scale Breastplate",
+"learnedat": 70,
+"colors": [
+70,
+100,
+115,
+130
+],
+"reagents": [
+[
+5784,
+12
+],
+[
+4231,
+1
+],
+[
+2318,
+8
+],
+[
+2321,
+1
+]
+],
+"creates": [
+5781,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 6704,
+"name": "Thick Murloc Armor",
+"learnedat": 145,
+"colors": [
+145,
+165,
+175,
+185
+],
+"reagents": [
+[
+5785,
+12
+],
+[
+4236,
+1
+],
+[
+4234,
+10
+],
+[
+2321,
+3
+]
+],
+"creates": [
+5782,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 6705,
+"name": "Murloc Scale Bracers",
+"learnedat": 165,
+"colors": [
+165,
+185,
+195,
+205
+],
+"reagents": [
+[
+5785,
+16
+],
+[
+4236,
+1
+],
+[
+4234,
+14
+],
+[
+4291,
+1
+]
+],
+"creates": [
+5783,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 7126,
+"name": "Handstitched Leather Vest",
+"learnedat": 40,
+"colors": [
+0,
+40,
+55,
+70
+],
+"reagents": [
+[
+2318,
+3
+],
+[
+2320,
+1
+]
+],
+"creates": [
+5957,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 7133,
+"name": "Fine Leather Pants",
+"learnedat": 80,
+"colors": [
+80,
+105,
+117,
+130
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+2997,
+1
+],
+[
+2321,
+1
+]
+],
+"creates": [
+5958,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 7135,
+"name": "Dark Leather Pants",
+"learnedat": 90,
+"colors": [
+90,
+115,
+127,
+140
+],
+"reagents": [
+[
+2319,
+12
+],
+[
+4340,
+1
+],
+[
+2321,
+1
+]
+],
+"creates": [
+5961,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 7147,
+"name": "Guardian Pants",
+"learnedat": 135,
+"colors": [
+135,
+155,
+165,
+175
+],
+"reagents": [
+[
+4234,
+12
+],
+[
+4305,
+2
+],
+[
+2321,
+2
+]
+],
+"creates": [
+5962,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 7149,
+"name": "Barbaric Leggings",
+"learnedat": 145,
+"colors": [
+145,
+165,
+175,
+185
+],
+"reagents": [
+[
+4234,
+10
+],
+[
+2321,
+2
+],
+[
+1206,
+1
+]
+],
+"creates": [
+5963,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 7151,
+"name": "Barbaric Shoulders",
+"learnedat": 150,
+"colors": [
+150,
+170,
+180,
+190
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4236,
+1
+],
+[
+2321,
+2
+]
+],
+"creates": [
+5964,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 7153,
+"name": "Guardian Cloak",
+"learnedat": 160,
+"colors": [
+160,
+180,
+190,
+200
+],
+"reagents": [
+[
+4234,
+14
+],
+[
+4305,
+2
+],
+[
+4291,
+2
+]
+],
+"creates": [
+5965,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 7156,
+"name": "Guardian Gloves",
+"learnedat": 165,
+"colors": [
+165,
+185,
+195,
+205
+],
+"reagents": [
+[
+4234,
+4
+],
+[
+4236,
+1
+],
+[
+4291,
+1
+]
+],
+"creates": [
+5966,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 7953,
+"name": "Deviate Scale Cloak",
+"learnedat": 65,
+"colors": [
+65,
+95,
+110,
+125
+],
+"reagents": [
+[
+6470,
+8
+],
+[
+4231,
+1
+],
+[
+2321,
+1
+]
+],
+"creates": [
+6466,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 7954,
+"name": "Deviate Scale Gloves",
+"learnedat": 80,
+"colors": [
+80,
+105,
+117,
+130
+],
+"reagents": [
+[
+6471,
+2
+],
+[
+6470,
+6
+],
+[
+2321,
+2
+]
+],
+"creates": [
+6467,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 7955,
+"name": "Deviate Scale Belt",
+"learnedat": 90,
+"colors": [
+90,
+115,
+127,
+140
+],
+"reagents": [
+[
+6471,
+10
+],
+[
+6470,
+10
+],
+[
+2321,
+2
+]
+],
+"creates": [
+6468,
+1,
+1
+],
+"source": [
+4
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 8322,
+"name": "Moonglow Vest",
+"learnedat": 65,
+"colors": [
+65,
+90,
+105,
+120
+],
+"reagents": [
+[
+2318,
+6
+],
+[
+4231,
+1
+],
+[
+2320,
+4
+],
+[
+5498,
+1
+]
+],
+"creates": [
+6709,
+1,
+1
+],
+"source": [
+4
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9058,
+"name": "Handstitched Leather Cloak",
+"learnedat": 40,
+"colors": [
+0,
+40,
+55,
+70
+],
+"reagents": [
+[
+2318,
+2
+],
+[
+2320,
+1
+]
+],
+"creates": [
+7276,
+1,
+1
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9059,
+"name": "Handstitched Leather Bracers",
+"learnedat": 40,
+"colors": [
+0,
+40,
+55,
+70
+],
+"reagents": [
+[
+2318,
+2
+],
+[
+2320,
+3
+]
+],
+"creates": [
+7277,
+1,
+1
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9060,
+"name": "Light Leather Quiver",
+"learnedat": 25,
+"colors": [
+25,
+55,
+70,
+85
+],
+"reagents": [
+[
+2318,
+4
+],
+[
+2320,
+2
+]
+],
+"creates": [
+7278,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9062,
+"name": "Small Leather Ammo Pouch",
+"learnedat": 25,
+"colors": [
+25,
+55,
+70,
+85
+],
+"reagents": [
+[
+2318,
+3
+],
+[
+2320,
+4
+]
+],
+"creates": [
+7279,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9064,
+"name": "Rugged Leather Pants",
+"learnedat": 30,
+"colors": [
+30,
+60,
+75,
+90
+],
+"reagents": [
+[
+2318,
+5
+],
+[
+2320,
+5
+]
+],
+"creates": [
+7280,
+1,
+1
+],
+"source": [
+2,
+16,
+21
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9065,
+"name": "Light Leather Bracers",
+"learnedat": 45,
+"colors": [
+45,
+75,
+90,
+105
+],
+"reagents": [
+[
+2318,
+6
+],
+[
+2320,
+4
+]
+],
+"creates": [
+7281,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9068,
+"name": "Light Leather Pants",
+"learnedat": 70,
+"colors": [
+70,
+100,
+115,
+130
+],
+"reagents": [
+[
+2318,
+10
+],
+[
+4231,
+1
+],
+[
+2321,
+1
+]
+],
+"creates": [
+7282,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9070,
+"name": "Black Whelp Cloak",
+"learnedat": 75,
+"colors": [
+75,
+100,
+112,
+125
+],
+"reagents": [
+[
+7286,
+12
+],
+[
+2319,
+4
+],
+[
+2321,
+1
+]
+],
+"creates": [
+7283,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9072,
+"name": "Red Whelp Gloves",
+"learnedat": 95,
+"colors": [
+95,
+120,
+132,
+145
+],
+"reagents": [
+[
+7287,
+6
+],
+[
+2319,
+4
+],
+[
+2321,
+1
+]
+],
+"creates": [
+7284,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9074,
+"name": "Nimble Leather Gloves",
+"learnedat": 95,
+"colors": [
+95,
+120,
+132,
+145
+],
+"reagents": [
+[
+2457,
+1
+],
+[
+2319,
+6
+],
+[
+2321,
+1
+]
+],
+"creates": [
+7285,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9145,
+"name": "Fletcher's Gloves",
+"learnedat": 100,
+"colors": [
+100,
+125,
+137,
+150
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+5116,
+4
+],
+[
+2321,
+2
+]
+],
+"creates": [
+7348,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9146,
+"name": "Herbalist's Gloves",
+"learnedat": 110,
+"colors": [
+110,
+135,
+147,
+160
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+3356,
+4
+],
+[
+2321,
+2
+]
+],
+"creates": [
+7349,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9147,
+"name": "Earthen Leather Shoulders",
+"learnedat": 110,
+"colors": [
+110,
+135,
+147,
+160
+],
+"reagents": [
+[
+2319,
+6
+],
+[
+7067,
+1
+],
+[
+2321,
+2
+]
+],
+"creates": [
+7352,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9148,
+"name": "Pilferer's Gloves",
+"learnedat": 115,
+"colors": [
+115,
+140,
+152,
+165
+],
+"reagents": [
+[
+2319,
+10
+],
+[
+5373,
+2
+],
+[
+2321,
+2
+]
+],
+"creates": [
+7358,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9149,
+"name": "Heavy Earthen Gloves",
+"learnedat": 120,
+"colors": [
+120,
+145,
+157,
+170
+],
+"reagents": [
+[
+2319,
+12
+],
+[
+7067,
+2
+],
+[
+2997,
+2
+],
+[
+2321,
+2
+]
+],
+"creates": [
+7359,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9193,
+"name": "Heavy Quiver",
+"learnedat": 125,
+"colors": [
+125,
+145,
+155,
+165
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+2321,
+2
+]
+],
+"creates": [
+7371,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9194,
+"name": "Heavy Leather Ammo Pouch",
+"learnedat": 125,
+"colors": [
+125,
+145,
+155,
+165
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+2321,
+2
+]
+],
+"creates": [
+7372,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9195,
+"name": "Dusky Leather Leggings",
+"learnedat": 140,
+"colors": [
+140,
+160,
+170,
+180
+],
+"reagents": [
+[
+4234,
+10
+],
+[
+2325,
+1
+],
+[
+2321,
+2
+]
+],
+"creates": [
+7373,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9196,
+"name": "Dusky Leather Armor",
+"learnedat": 150,
+"colors": [
+150,
+170,
+180,
+190
+],
+"reagents": [
+[
+4234,
+10
+],
+[
+3824,
+1
+],
+[
+2321,
+2
+]
+],
+"creates": [
+7374,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9197,
+"name": "Green Whelp Armor",
+"learnedat": 150,
+"colors": [
+150,
+170,
+180,
+190
+],
+"reagents": [
+[
+7392,
+4
+],
+[
+4234,
+10
+],
+[
+2321,
+2
+]
+],
+"creates": [
+7375,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9198,
+"name": "Frost Leather Cloak",
+"learnedat": 155,
+"colors": [
+155,
+175,
+185,
+195
+],
+"reagents": [
+[
+4234,
+6
+],
+[
+7067,
+2
+],
+[
+7070,
+2
+],
+[
+2321,
+2
+]
+],
+"creates": [
+7377,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9201,
+"name": "Dusky Bracers",
+"learnedat": 160,
+"colors": [
+160,
+180,
+190,
+200
+],
+"reagents": [
+[
+4234,
+16
+],
+[
+2325,
+1
+],
+[
+4291,
+2
+]
+],
+"creates": [
+7378,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9202,
+"name": "Green Whelp Bracers",
+"learnedat": 165,
+"colors": [
+165,
+185,
+195,
+205
+],
+"reagents": [
+[
+7392,
+6
+],
+[
+4234,
+8
+],
+[
+4291,
+2
+]
+],
+"creates": [
+7386,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9206,
+"name": "Dusky Belt",
+"learnedat": 170,
+"colors": [
+170,
+190,
+200,
+210
+],
+"reagents": [
+[
+4234,
+10
+],
+[
+4305,
+2
+],
+[
+2325,
+2
+],
+[
+7071,
+1
+]
+],
+"creates": [
+7387,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9207,
+"name": "Dusky Boots",
+"learnedat": 175,
+"colors": [
+175,
+195,
+205,
+215
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+7428,
+2
+],
+[
+3824,
+1
+],
+[
+4291,
+2
+]
+],
+"creates": [
+7390,
+1,
+1
+],
+"source": [
+2,
+21
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 9208,
+"name": "Swift Boots",
+"learnedat": 175,
+"colors": [
+175,
+195,
+205,
+215
+],
+"reagents": [
+[
+4234,
+10
+],
+[
+2459,
+2
+],
+[
+4337,
+2
+],
+[
+4291,
+1
+]
+],
+"creates": [
+7391,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10482,
+"name": "Cured Thick Hide",
+"learnedat": 175,
+"colors": [
+175,
+175,
+175,
+175
+],
+"reagents": [
+[
+8169,
+1
+],
+[
+8150,
+1
+]
+],
+"creates": [
+8172,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10487,
+"name": "Thick Armor Kit",
+"learnedat": 175,
+"colors": [
+175,
+195,
+205,
+215
+],
+"reagents": [
+[
+4304,
+5
+],
+[
+4291,
+1
+]
+],
+"creates": [
+8173,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10490,
+"name": "Comfortable Leather Hat",
+"learnedat": 175,
+"colors": [
+175,
+195,
+205,
+215
+],
+"reagents": [
+[
+4234,
+12
+],
+[
+4236,
+2
+],
+[
+4291,
+2
+]
+],
+"creates": [
+8174,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10499,
+"name": "Nightscape Tunic",
+"learnedat": 180,
+"colors": [
+180,
+200,
+210,
+220
+],
+"reagents": [
+[
+4304,
+7
+],
+[
+4291,
+2
+]
+],
+"creates": [
+8175,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10507,
+"name": "Nightscape Headband",
+"learnedat": 180,
+"colors": [
+180,
+200,
+210,
+220
+],
+"reagents": [
+[
+4304,
+5
+],
+[
+4291,
+2
+]
+],
+"creates": [
+8176,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10509,
+"name": "Turtle Scale Gloves",
+"learnedat": 180,
+"colors": [
+180,
+200,
+210,
+220
+],
+"reagents": [
+[
+4304,
+6
+],
+[
+8167,
+8
+],
+[
+8343,
+1
+]
+],
+"creates": [
+8187,
+1,
+1
+],
+"source": [
+2,
+5,
+16
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10511,
+"name": "Turtle Scale Breastplate",
+"learnedat": 185,
+"colors": [
+185,
+205,
+215,
+225
+],
+"reagents": [
+[
+4304,
+6
+],
+[
+8167,
+12
+],
+[
+8343,
+1
+]
+],
+"creates": [
+8189,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10516,
+"name": "Nightscape Shoulders",
+"learnedat": 185,
+"colors": [
+185,
+205,
+215,
+225
+],
+"reagents": [
+[
+4304,
+8
+],
+[
+4338,
+6
+],
+[
+4291,
+3
+]
+],
+"creates": [
+8192,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10518,
+"name": "Turtle Scale Bracers",
+"learnedat": 185,
+"colors": [
+185,
+205,
+215,
+225
+],
+"reagents": [
+[
+4304,
+8
+],
+[
+8167,
+12
+],
+[
+8343,
+1
+]
+],
+"creates": [
+8198,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10520,
+"name": "Big Voodoo Robe",
+"learnedat": 190,
+"colors": [
+190,
+210,
+220,
+230
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+8151,
+4
+],
+[
+8343,
+1
+]
+],
+"creates": [
+8200,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10525,
+"name": "Tough Scorpid Breastplate",
+"learnedat": 195,
+"colors": [
+195,
+215,
+225,
+235
+],
+"reagents": [
+[
+4304,
+12
+],
+[
+8154,
+12
+],
+[
+4291,
+4
+]
+],
+"creates": [
+8203,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10529,
+"name": "Wild Leather Shoulders",
+"learnedat": 195,
+"colors": [
+195,
+215,
+225,
+235
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+8153,
+1
+],
+[
+8172,
+1
+]
+],
+"creates": [
+8210,
+1,
+1
+],
+"source": [
+4
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10531,
+"name": "Big Voodoo Mask",
+"learnedat": 195,
+"colors": [
+195,
+215,
+225,
+235
+],
+"reagents": [
+[
+4304,
+8
+],
+[
+8151,
+6
+],
+[
+8343,
+1
+]
+],
+"creates": [
+8201,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10533,
+"name": "Tough Scorpid Bracers",
+"learnedat": 195,
+"colors": [
+195,
+215,
+225,
+235
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+8154,
+4
+],
+[
+4291,
+2
+]
+],
+"creates": [
+8205,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10542,
+"name": "Tough Scorpid Gloves",
+"learnedat": 200,
+"colors": [
+200,
+220,
+230,
+240
+],
+"reagents": [
+[
+4304,
+6
+],
+[
+8154,
+8
+],
+[
+4291,
+2
+]
+],
+"creates": [
+8204,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10544,
+"name": "Wild Leather Vest",
+"learnedat": 200,
+"colors": [
+200,
+220,
+230,
+240
+],
+"reagents": [
+[
+4304,
+12
+],
+[
+8153,
+2
+],
+[
+8172,
+1
+]
+],
+"creates": [
+8211,
+1,
+1
+],
+"source": [
+4
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10546,
+"name": "Wild Leather Helmet",
+"learnedat": 200,
+"colors": [
+200,
+220,
+230,
+240
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+8153,
+2
+],
+[
+8172,
+1
+]
+],
+"creates": [
+8214,
+1,
+1
+],
+"source": [
+4
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10548,
+"name": "Nightscape Pants",
+"learnedat": 205,
+"colors": [
+205,
+225,
+235,
+245
+],
+"reagents": [
+[
+4304,
+14
+],
+[
+4291,
+4
+]
+],
+"creates": [
+8193,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10552,
+"name": "Turtle Scale Helm",
+"learnedat": 205,
+"colors": [
+205,
+225,
+235,
+245
+],
+"reagents": [
+[
+4304,
+14
+],
+[
+8167,
+24
+],
+[
+8343,
+1
+]
+],
+"creates": [
+8191,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10554,
+"name": "Tough Scorpid Boots",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+4304,
+12
+],
+[
+8154,
+12
+],
+[
+4291,
+6
+]
+],
+"creates": [
+8209,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10556,
+"name": "Turtle Scale Leggings",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+4304,
+14
+],
+[
+8167,
+28
+],
+[
+8343,
+1
+]
+],
+"creates": [
+8185,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10558,
+"name": "Nightscape Boots",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8343,
+2
+]
+],
+"creates": [
+8197,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10560,
+"name": "Big Voodoo Pants",
+"learnedat": 215,
+"colors": [
+215,
+230,
+240,
+250
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+8152,
+6
+],
+[
+8343,
+2
+]
+],
+"creates": [
+8202,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10562,
+"name": "Big Voodoo Cloak",
+"learnedat": 215,
+"colors": [
+215,
+235,
+245,
+255
+],
+"reagents": [
+[
+4304,
+14
+],
+[
+8152,
+4
+],
+[
+8343,
+2
+]
+],
+"creates": [
+8216,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10564,
+"name": "Tough Scorpid Shoulders",
+"learnedat": 215,
+"colors": [
+215,
+235,
+245,
+255
+],
+"reagents": [
+[
+4304,
+12
+],
+[
+8154,
+16
+],
+[
+8343,
+2
+]
+],
+"creates": [
+8207,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10566,
+"name": "Wild Leather Boots",
+"learnedat": 220,
+"colors": [
+220,
+240,
+250,
+260
+],
+"reagents": [
+[
+4304,
+14
+],
+[
+8153,
+4
+],
+[
+8172,
+2
+]
+],
+"creates": [
+8213,
+1,
+1
+],
+"source": [
+4
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10568,
+"name": "Tough Scorpid Leggings",
+"learnedat": 220,
+"colors": [
+220,
+240,
+250,
+260
+],
+"reagents": [
+[
+4304,
+14
+],
+[
+8154,
+8
+],
+[
+8343,
+2
+]
+],
+"creates": [
+8206,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10570,
+"name": "Tough Scorpid Helm",
+"learnedat": 225,
+"colors": [
+225,
+245,
+255,
+265
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+8154,
+20
+],
+[
+8343,
+2
+]
+],
+"creates": [
+8208,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10572,
+"name": "Wild Leather Leggings",
+"learnedat": 225,
+"colors": [
+225,
+245,
+255,
+265
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8153,
+2
+],
+[
+8172,
+2
+]
+],
+"creates": [
+8212,
+1,
+1
+],
+"source": [
+4
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10574,
+"name": "Wild Leather Cloak",
+"learnedat": 225,
+"colors": [
+225,
+245,
+255,
+265
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8153,
+2
+],
+[
+8172,
+2
+]
+],
+"creates": [
+8215,
+1,
+1
+],
+"source": [
+4
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10619,
+"name": "Dragonscale Gauntlets",
+"learnedat": 225,
+"colors": [
+0,
+225,
+230,
+240
+],
+"reagents": [
+[
+4304,
+24
+],
+[
+8165,
+12
+],
+[
+8343,
+4
+],
+[
+8172,
+2
+]
+],
+"creates": [
+8347,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10621,
+"name": "Wolfshead Helm",
+"learnedat": 225,
+"colors": [
+0,
+225,
+230,
+240
+],
+"reagents": [
+[
+4304,
+18
+],
+[
+8368,
+2
+],
+[
+8146,
+8
+],
+[
+8343,
+4
+],
+[
+8172,
+2
+]
+],
+"creates": [
+8345,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10630,
+"name": "Gauntlets of the Sea",
+"learnedat": 230,
+"colors": [
+0,
+230,
+235,
+245
+],
+"reagents": [
+[
+4304,
+20
+],
+[
+7079,
+8
+],
+[
+7075,
+2
+],
+[
+8172,
+1
+],
+[
+8343,
+4
+]
+],
+"creates": [
+8346,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10632,
+"name": "Helm of Fire",
+"learnedat": 250,
+"colors": [
+0,
+250,
+255,
+265
+],
+"reagents": [
+[
+4304,
+40
+],
+[
+7077,
+8
+],
+[
+7075,
+4
+],
+[
+8172,
+2
+],
+[
+8343,
+4
+]
+],
+"creates": [
+8348,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10647,
+"name": "Feathered Breastplate",
+"learnedat": 250,
+"colors": [
+0,
+250,
+255,
+265
+],
+"reagents": [
+[
+4304,
+40
+],
+[
+8168,
+40
+],
+[
+7971,
+2
+],
+[
+8172,
+4
+],
+[
+8343,
+4
+]
+],
+"creates": [
+8349,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10650,
+"name": "Dragonscale Breastplate",
+"learnedat": 255,
+"colors": [
+0,
+255,
+260,
+270
+],
+"reagents": [
+[
+4304,
+40
+],
+[
+8165,
+30
+],
+[
+8343,
+4
+],
+[
+8172,
+4
+]
+],
+"creates": [
+8367,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10656,
+"name": "Dragonscale Leatherworking",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10658,
+"name": "Elemental Leatherworking",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10660,
+"name": "Tribal Leatherworking",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 10662,
+"name": "Leatherworking",
+"learnedat": 200,
+"colors": null,
+"reagents": null,
+"creates": null,
+"source": [
+6
+],
+"nskillup": 1,
+"quality": -1,
+"rank": "Artisan",
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 14930,
+"name": "Quickdraw Quiver",
+"learnedat": 200,
+"colors": [
+200,
+220,
+230,
+240
+],
+"reagents": [
+[
+4304,
+12
+],
+[
+8172,
+1
+],
+[
+8949,
+1
+],
+[
+4291,
+4
+]
+],
+"creates": [
+8217,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 14932,
+"name": "Thick Leather Ammo Pouch",
+"learnedat": 200,
+"colors": [
+200,
+220,
+230,
+240
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+8172,
+1
+],
+[
+8951,
+1
+],
+[
+4291,
+6
+]
+],
+"creates": [
+8218,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 16650,
+"name": "Wildthorn Mail",
+"learnedat": 270,
+"colors": [
+0,
+270,
+275,
+285
+],
+"reagents": [
+[
+8170,
+40
+],
+[
+12810,
+2
+],
+[
+12803,
+4
+],
+[
+8153,
+4
+],
+[
+12364,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+12624,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 16661,
+"name": "Storm Gauntlets",
+"learnedat": 295,
+"colors": [
+0,
+295,
+300,
+310
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+12810,
+4
+],
+[
+7080,
+4
+],
+[
+12361,
+4
+],
+[
+14341,
+1
+]
+],
+"creates": [
+12632,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 16728,
+"name": "Helm of the Great Chief",
+"learnedat": 300,
+"colors": [
+0,
+300,
+300,
+310
+],
+"reagents": [
+[
+8170,
+40
+],
+[
+12810,
+4
+],
+[
+8168,
+60
+],
+[
+12799,
+6
+],
+[
+12364,
+2
+],
+[
+14341,
+1
+]
+],
+"creates": [
+12636,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 16746,
+"name": "Invulnerable Mail",
+"learnedat": 300,
+"colors": [
+0,
+300,
+302,
+310
+],
+"reagents": [
+[
+249427,
+20
+],
+[
+12810,
+30
+],
+[
+12364,
+6
+],
+[
+12800,
+6
+],
+[
+249429,
+10
+],
+[
+14341,
+2
+]
+],
+"creates": [
+12641,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19047,
+"name": "Cured Rugged Hide",
+"learnedat": 225,
+"colors": [
+225,
+225,
+230,
+235
+],
+"reagents": [
+[
+8171,
+1
+],
+[
+15409,
+1
+]
+],
+"creates": [
+15407,
+2,
+2
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19048,
+"name": "Heavy Scorpid Bracers",
+"learnedat": 255,
+"colors": [
+0,
+255,
+260,
+270
+],
+"reagents": [
+[
+8170,
+4
+],
+[
+15408,
+4
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15077,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19049,
+"name": "Wicked Leather Gauntlets",
+"learnedat": 235,
+"colors": [
+235,
+255,
+265,
+275
+],
+"reagents": [
+[
+8170,
+8
+],
+[
+2325,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15083,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19050,
+"name": "Green Dragonscale Breastplate",
+"learnedat": 235,
+"colors": [
+235,
+255,
+265,
+275
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+15412,
+25
+],
+[
+14341,
+2
+]
+],
+"creates": [
+15045,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19051,
+"name": "Heavy Scorpid Vest",
+"learnedat": 240,
+"colors": [
+240,
+260,
+270,
+280
+],
+"reagents": [
+[
+8170,
+6
+],
+[
+15408,
+6
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15076,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19052,
+"name": "Wicked Leather Bracers",
+"learnedat": 240,
+"colors": [
+240,
+260,
+270,
+280
+],
+"reagents": [
+[
+8170,
+8
+],
+[
+2325,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15084,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19053,
+"name": "Chimeric Gloves",
+"learnedat": 240,
+"colors": [
+240,
+260,
+270,
+280
+],
+"reagents": [
+[
+8170,
+6
+],
+[
+15423,
+6
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15074,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19054,
+"name": "Red Dragonscale Breastplate",
+"learnedat": 290,
+"colors": [
+290,
+310,
+320,
+330
+],
+"reagents": [
+[
+8170,
+40
+],
+[
+15414,
+30
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15047,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19055,
+"name": "Runic Leather Gauntlets",
+"learnedat": 245,
+"colors": [
+245,
+265,
+275,
+285
+],
+"reagents": [
+[
+8170,
+10
+],
+[
+14047,
+6
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15091,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19058,
+"name": "Rugged Armor Kit",
+"learnedat": 225,
+"colors": [
+225,
+225,
+235,
+245
+],
+"reagents": [
+[
+8170,
+5
+]
+],
+"creates": [
+15564,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19059,
+"name": "Volcanic Leggings",
+"learnedat": 245,
+"colors": [
+245,
+265,
+275,
+285
+],
+"reagents": [
+[
+8170,
+6
+],
+[
+7078,
+1
+],
+[
+7075,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15054,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19060,
+"name": "Green Dragonscale Leggings",
+"learnedat": 245,
+"colors": [
+245,
+265,
+275,
+285
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+15412,
+25
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15046,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19061,
+"name": "Living Shoulders",
+"learnedat": 245,
+"colors": [
+245,
+265,
+275,
+285
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+12803,
+4
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15061,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19062,
+"name": "Ironfeather Shoulders",
+"learnedat": 245,
+"colors": [
+245,
+265,
+275,
+285
+],
+"reagents": [
+[
+8170,
+24
+],
+[
+15420,
+80
+],
+[
+1529,
+2
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15067,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19063,
+"name": "Chimeric Boots",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+4
+],
+[
+15423,
+8
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15073,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19064,
+"name": "Heavy Scorpid Gauntlets",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+6
+],
+[
+15408,
+8
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15078,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19065,
+"name": "Runic Leather Bracers",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+6
+],
+[
+7971,
+1
+],
+[
+14047,
+6
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15092,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19066,
+"name": "Frostsaber Boots",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+4
+],
+[
+15422,
+6
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15071,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19067,
+"name": "Stormshroud Pants",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+16
+],
+[
+7080,
+2
+],
+[
+7082,
+2
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15057,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19068,
+"name": "Warbear Harness",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+28
+],
+[
+15419,
+12
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15064,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19070,
+"name": "Heavy Scorpid Belt",
+"learnedat": 255,
+"colors": [
+255,
+275,
+285,
+295
+],
+"reagents": [
+[
+8170,
+6
+],
+[
+15408,
+8
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15082,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19071,
+"name": "Wicked Leather Headband",
+"learnedat": 255,
+"colors": [
+255,
+275,
+285,
+295
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+2325,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15086,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19072,
+"name": "Runic Leather Belt",
+"learnedat": 255,
+"colors": [
+255,
+275,
+285,
+295
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+14047,
+10
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15093,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19073,
+"name": "Chimeric Leggings",
+"learnedat": 255,
+"colors": [
+255,
+275,
+285,
+295
+],
+"reagents": [
+[
+8170,
+8
+],
+[
+15423,
+8
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15072,
+1,
+1
+],
+"source": [
+2,
+16
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19074,
+"name": "Frostsaber Leggings",
+"learnedat": 260,
+"colors": [
+260,
+280,
+290,
+300
+],
+"reagents": [
+[
+8170,
+6
+],
+[
+15422,
+8
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15069,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19075,
+"name": "Heavy Scorpid Leggings",
+"learnedat": 260,
+"colors": [
+260,
+280,
+290,
+300
+],
+"reagents": [
+[
+8170,
+8
+],
+[
+15408,
+12
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15079,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19076,
+"name": "Volcanic Breastplate",
+"learnedat": 260,
+"colors": [
+260,
+280,
+290,
+300
+],
+"reagents": [
+[
+8170,
+8
+],
+[
+7078,
+1
+],
+[
+7076,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15053,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19077,
+"name": "Blue Dragonscale Breastplate",
+"learnedat": 260,
+"colors": [
+260,
+280,
+290,
+300
+],
+"reagents": [
+[
+8170,
+28
+],
+[
+15415,
+30
+],
+[
+15407,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15048,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19078,
+"name": "Living Leggings",
+"learnedat": 260,
+"colors": [
+260,
+280,
+290,
+300
+],
+"reagents": [
+[
+8170,
+16
+],
+[
+12803,
+6
+],
+[
+15407,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15060,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19079,
+"name": "Stormshroud Armor",
+"learnedat": 260,
+"colors": [
+260,
+280,
+290,
+300
+],
+"reagents": [
+[
+8170,
+16
+],
+[
+7080,
+3
+],
+[
+7082,
+3
+],
+[
+15407,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15056,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19080,
+"name": "Warbear Woolies",
+"learnedat": 260,
+"colors": [
+260,
+280,
+290,
+300
+],
+"reagents": [
+[
+8170,
+24
+],
+[
+15419,
+14
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15065,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19081,
+"name": "Chimeric Vest",
+"learnedat": 265,
+"colors": [
+265,
+285,
+295,
+305
+],
+"reagents": [
+[
+8170,
+10
+],
+[
+15423,
+10
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15075,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19082,
+"name": "Runic Leather Headband",
+"learnedat": 265,
+"colors": [
+265,
+285,
+295,
+305
+],
+"reagents": [
+[
+8170,
+14
+],
+[
+14047,
+10
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15094,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19083,
+"name": "Wicked Leather Pants",
+"learnedat": 265,
+"colors": [
+265,
+285,
+295,
+305
+],
+"reagents": [
+[
+8170,
+16
+],
+[
+15407,
+1
+],
+[
+2325,
+3
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15087,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19084,
+"name": "Devilsaur Gauntlets",
+"learnedat": 265,
+"colors": [
+265,
+285,
+295,
+305
+],
+"reagents": [
+[
+8170,
+30
+],
+[
+15417,
+8
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15063,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19085,
+"name": "Black Dragonscale Breastplate",
+"learnedat": 265,
+"colors": [
+265,
+285,
+295,
+305
+],
+"reagents": [
+[
+8170,
+40
+],
+[
+15416,
+60
+],
+[
+15407,
+1
+],
+[
+14341,
+2
+]
+],
+"creates": [
+15050,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19086,
+"name": "Ironfeather Breastplate",
+"learnedat": 265,
+"colors": [
+265,
+285,
+295,
+305
+],
+"reagents": [
+[
+8170,
+40
+],
+[
+15420,
+120
+],
+[
+1529,
+1
+],
+[
+15407,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15066,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19087,
+"name": "Frostsaber Gloves",
+"learnedat": 270,
+"colors": [
+270,
+290,
+300,
+310
+],
+"reagents": [
+[
+8170,
+6
+],
+[
+15422,
+10
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15070,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19088,
+"name": "Heavy Scorpid Helm",
+"learnedat": 270,
+"colors": [
+270,
+290,
+300,
+310
+],
+"reagents": [
+[
+8170,
+8
+],
+[
+15408,
+12
+],
+[
+15407,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15080,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19089,
+"name": "Blue Dragonscale Shoulders",
+"learnedat": 270,
+"colors": [
+270,
+290,
+300,
+310
+],
+"reagents": [
+[
+8170,
+28
+],
+[
+15415,
+30
+],
+[
+12810,
+2
+],
+[
+15407,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15049,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19090,
+"name": "Stormshroud Shoulders",
+"learnedat": 270,
+"colors": [
+270,
+290,
+300,
+310
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+7080,
+3
+],
+[
+7082,
+3
+],
+[
+12810,
+2
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15058,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19091,
+"name": "Runic Leather Pants",
+"learnedat": 275,
+"colors": [
+275,
+295,
+305,
+315
+],
+"reagents": [
+[
+8170,
+18
+],
+[
+14047,
+12
+],
+[
+12810,
+2
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15095,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19092,
+"name": "Wicked Leather Belt",
+"learnedat": 275,
+"colors": [
+275,
+295,
+305,
+315
+],
+"reagents": [
+[
+8170,
+14
+],
+[
+2325,
+2
+],
+[
+14341,
+2
+]
+],
+"creates": [
+15088,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19093,
+"name": "Onyxia Scale Cloak",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+15410,
+1
+],
+[
+14044,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15138,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "updated",
+"labels": [
+"new_icon",
+"hidden_change"
+]
+},
+{
+"id": 19094,
+"name": "Black Dragonscale Shoulders",
+"learnedat": 270,
+"colors": [
+270,
+310,
+320,
+330
+],
+"reagents": [
+[
+8170,
+44
+],
+[
+15416,
+45
+],
+[
+12810,
+2
+],
+[
+15407,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15051,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19095,
+"name": "Living Breastplate",
+"learnedat": 290,
+"colors": [
+290,
+310,
+320,
+330
+],
+"reagents": [
+[
+8170,
+16
+],
+[
+12803,
+8
+],
+[
+14342,
+2
+],
+[
+15407,
+1
+],
+[
+14341,
+2
+]
+],
+"creates": [
+15059,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19097,
+"name": "Devilsaur Leggings",
+"learnedat": 290,
+"colors": [
+290,
+310,
+320,
+330
+],
+"reagents": [
+[
+8170,
+30
+],
+[
+15417,
+14
+],
+[
+15407,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+15062,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19098,
+"name": "Wicked Leather Armor",
+"learnedat": 280,
+"colors": [
+280,
+300,
+310,
+320
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+15407,
+2
+],
+[
+14256,
+6
+],
+[
+2325,
+4
+],
+[
+14341,
+2
+]
+],
+"creates": [
+15085,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19100,
+"name": "Heavy Scorpid Shoulders",
+"learnedat": 280,
+"colors": [
+280,
+300,
+310,
+320
+],
+"reagents": [
+[
+8170,
+14
+],
+[
+15408,
+14
+],
+[
+15407,
+1
+],
+[
+14341,
+2
+]
+],
+"creates": [
+15081,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19101,
+"name": "Volcanic Shoulders",
+"learnedat": 280,
+"colors": [
+280,
+300,
+310,
+320
+],
+"reagents": [
+[
+8170,
+10
+],
+[
+7078,
+1
+],
+[
+7076,
+1
+],
+[
+14341,
+2
+]
+],
+"creates": [
+15055,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19102,
+"name": "Runic Leather Armor",
+"learnedat": 285,
+"colors": [
+285,
+305,
+315,
+325
+],
+"reagents": [
+[
+8170,
+22
+],
+[
+12810,
+4
+],
+[
+14047,
+16
+],
+[
+15407,
+1
+],
+[
+14341,
+2
+]
+],
+"creates": [
+15090,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19103,
+"name": "Runic Leather Shoulders",
+"learnedat": 285,
+"colors": [
+285,
+305,
+315,
+325
+],
+"reagents": [
+[
+8170,
+16
+],
+[
+12810,
+4
+],
+[
+14047,
+18
+],
+[
+15407,
+1
+],
+[
+14341,
+2
+]
+],
+"creates": [
+15096,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19104,
+"name": "Frostsaber Tunic",
+"learnedat": 290,
+"colors": [
+290,
+310,
+320,
+330
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+15422,
+12
+],
+[
+15407,
+1
+],
+[
+14341,
+2
+]
+],
+"creates": [
+15068,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 19107,
+"name": "Black Dragonscale Leggings",
+"learnedat": 290,
+"colors": [
+290,
+310,
+320,
+330
+],
+"reagents": [
+[
+8170,
+40
+],
+[
+15416,
+60
+],
+[
+12810,
+4
+],
+[
+15407,
+1
+],
+[
+14341,
+2
+]
+],
+"creates": [
+15052,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 20648,
+"name": "Medium Leather",
+"learnedat": 75,
+"colors": [
+75,
+75,
+80,
+85
+],
+"reagents": [
+[
+2318,
+4
+]
+],
+"creates": [
+2319,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 20649,
+"name": "Heavy Leather",
+"learnedat": 125,
+"colors": [
+125,
+125,
+130,
+135
+],
+"reagents": [
+[
+2319,
+5
+]
+],
+"creates": [
+4234,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 20650,
+"name": "Thick Leather",
+"learnedat": 175,
+"colors": [
+175,
+175,
+177,
+180
+],
+"reagents": [
+[
+4234,
+6
+]
+],
+"creates": [
+4304,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 20853,
+"name": "Corehound Boots",
+"learnedat": 295,
+"colors": [
+295,
+315,
+325,
+335
+],
+"reagents": [
+[
+17012,
+20
+],
+[
+17010,
+6
+],
+[
+17011,
+2
+],
+[
+14341,
+2
+]
+],
+"creates": [
+16982,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 20854,
+"name": "Molten Helm",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+17012,
+15
+],
+[
+17010,
+3
+],
+[
+17011,
+6
+],
+[
+14341,
+2
+]
+],
+"creates": [
+16983,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 20855,
+"name": "Black Dragonscale Boots",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12810,
+6
+],
+[
+15416,
+30
+],
+[
+17010,
+4
+],
+[
+17011,
+3
+],
+[
+14341,
+2
+]
+],
+"creates": [
+16984,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 21943,
+"name": "Gloves of the Greatfather",
+"learnedat": 165,
+"colors": [
+165,
+185,
+195,
+205
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+7067,
+4
+],
+[
+4291,
+1
+]
+],
+"creates": [
+17721,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 22331,
+"name": "Rugged Leather",
+"learnedat": 225,
+"colors": [
+225,
+225,
+225,
+225
+],
+"reagents": [
+[
+4304,
+6
+]
+],
+"creates": [
+8170,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 22711,
+"name": "Shadowskin Gloves",
+"learnedat": 175,
+"colors": [
+175,
+185,
+195,
+205
+],
+"reagents": [
+[
+4304,
+6
+],
+[
+7428,
+8
+],
+[
+7971,
+2
+],
+[
+4236,
+2
+],
+[
+1210,
+4
+],
+[
+8343,
+1
+]
+],
+"creates": [
+18238,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 22727,
+"name": "Core Armor Kit",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+17012,
+3
+],
+[
+14341,
+2
+]
+],
+"creates": [
+18251,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 22815,
+"name": "Gordok Ogre Suit",
+"learnedat": 285,
+"colors": [
+0,
+285,
+290,
+295
+],
+"reagents": [
+[
+8170,
+4
+],
+[
+14048,
+2
+],
+[
+18240,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": [
+18258,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 22921,
+"name": "Girdle of Insight",
+"learnedat": 290,
+"colors": [
+290,
+310,
+320,
+330
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+12804,
+12
+],
+[
+15407,
+2
+],
+[
+14341,
+4
+]
+],
+"creates": [
+18504,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 22922,
+"name": "Mongoose Boots",
+"learnedat": 290,
+"colors": [
+290,
+310,
+320,
+330
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+7082,
+6
+],
+[
+11754,
+4
+],
+[
+15407,
+2
+],
+[
+14341,
+4
+]
+],
+"creates": [
+18506,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 22923,
+"name": "Swift Flight Bracers",
+"learnedat": 290,
+"colors": [
+290,
+310,
+320,
+330
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+18512,
+8
+],
+[
+15420,
+60
+],
+[
+15407,
+4
+],
+[
+14341,
+4
+]
+],
+"creates": [
+18508,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 22926,
+"name": "Chromatic Cloak",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+30
+],
+[
+12607,
+12
+],
+[
+15416,
+30
+],
+[
+15414,
+30
+],
+[
+15407,
+5
+],
+[
+14341,
+8
+]
+],
+"creates": [
+18509,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 22927,
+"name": "Hide of the Wild",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+30
+],
+[
+12803,
+12
+],
+[
+7080,
+10
+],
+[
+18512,
+8
+],
+[
+15407,
+3
+],
+[
+14341,
+8
+]
+],
+"creates": [
+18510,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 22928,
+"name": "Shifting Cloak",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+30
+],
+[
+7082,
+12
+],
+[
+12753,
+4
+],
+[
+12809,
+8
+],
+[
+15407,
+4
+],
+[
+14341,
+8
+]
+],
+"creates": [
+18511,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 23190,
+"name": "Heavy Leather Ball",
+"learnedat": 150,
+"colors": [
+0,
+0,
+0,
+150
+],
+"reagents": [
+[
+4234,
+2
+],
+[
+2321,
+1
+]
+],
+"creates": [
+18662,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 23399,
+"name": "Barbaric Bracers",
+"learnedat": 130,
+"colors": [
+130,
+155,
+165,
+175
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4236,
+2
+],
+[
+5498,
+4
+],
+[
+4461,
+1
+],
+[
+5637,
+4
+]
+],
+"creates": [
+18948,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 23628,
+"name": "Heavy Timbermaw Belt",
+"learnedat": 290,
+"colors": [
+0,
+290,
+295,
+305
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+7076,
+3
+],
+[
+12803,
+3
+],
+[
+14341,
+1
+]
+],
+"creates": [
+19043,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 23629,
+"name": "Heavy Timbermaw Boots",
+"learnedat": 300,
+"colors": [
+300,
+300,
+310,
+320
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+7076,
+6
+],
+[
+12803,
+6
+],
+[
+14341,
+1
+]
+],
+"creates": [
+19048,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 23703,
+"name": "Might of the Timbermaw",
+"learnedat": 265,
+"colors": [
+265,
+285,
+295,
+305
+],
+"reagents": [
+[
+8170,
+30
+],
+[
+12804,
+2
+],
+[
+12803,
+4
+],
+[
+15407,
+2
+],
+[
+14341,
+2
+]
+],
+"creates": [
+19044,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 23704,
+"name": "Timbermaw Brawlers",
+"learnedat": 295,
+"colors": [
+295,
+315,
+325,
+335
+],
+"reagents": [
+[
+12810,
+8
+],
+[
+12804,
+6
+],
+[
+12803,
+6
+],
+[
+15407,
+2
+],
+[
+14227,
+2
+]
+],
+"creates": [
+19049,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 23705,
+"name": "Dawn Treaders",
+"learnedat": 265,
+"colors": [
+265,
+285,
+295,
+305
+],
+"reagents": [
+[
+8170,
+30
+],
+[
+12809,
+2
+],
+[
+7080,
+4
+],
+[
+15407,
+2
+],
+[
+14341,
+2
+]
+],
+"creates": [
+19052,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 23706,
+"name": "Golden Mantle of the Dawn",
+"learnedat": 300,
+"colors": [
+300,
+315,
+325,
+335
+],
+"reagents": [
+[
+12810,
+8
+],
+[
+12803,
+4
+],
+[
+12809,
+4
+],
+[
+15407,
+2
+],
+[
+14341,
+2
+]
+],
+"creates": [
+19058,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 23707,
+"name": "Lava Belt",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+17011,
+5
+],
+[
+15407,
+4
+],
+[
+14227,
+4
+]
+],
+"creates": [
+19149,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 23708,
+"name": "Chromatic Gauntlets",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+17010,
+5
+],
+[
+17011,
+2
+],
+[
+17012,
+4
+],
+[
+12607,
+4
+],
+[
+15407,
+4
+],
+[
+14227,
+4
+]
+],
+"creates": [
+19157,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 23709,
+"name": "Corehound Belt",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+17010,
+8
+],
+[
+17012,
+12
+],
+[
+12810,
+10
+],
+[
+15407,
+4
+],
+[
+14227,
+4
+]
+],
+"creates": [
+19162,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 23710,
+"name": "Molten Belt",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+17010,
+2
+],
+[
+17011,
+7
+],
+[
+7076,
+6
+],
+[
+15407,
+4
+],
+[
+14227,
+4
+]
+],
+"creates": [
+19163,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 24121,
+"name": "Primal Batskin Jerkin",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+19767,
+14
+],
+[
+15407,
+5
+],
+[
+12803,
+4
+],
+[
+14341,
+4
+]
+],
+"creates": [
+19685,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 24122,
+"name": "Primal Batskin Gloves",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+19767,
+10
+],
+[
+15407,
+4
+],
+[
+12803,
+4
+],
+[
+14341,
+3
+]
+],
+"creates": [
+19686,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 24123,
+"name": "Primal Batskin Bracers",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+19767,
+8
+],
+[
+15407,
+3
+],
+[
+12803,
+4
+],
+[
+14341,
+3
+]
+],
+"creates": [
+19687,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 24124,
+"name": "Blood Tiger Breastplate",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+19768,
+35
+],
+[
+19726,
+2
+],
+[
+15407,
+3
+],
+[
+14341,
+3
+]
+],
+"creates": [
+19688,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 24125,
+"name": "Blood Tiger Shoulders",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+19768,
+25
+],
+[
+19726,
+2
+],
+[
+15407,
+3
+],
+[
+14341,
+3
+]
+],
+"creates": [
+19689,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 24654,
+"name": "Blue Dragonscale Leggings",
+"learnedat": 300,
+"colors": [
+300,
+310,
+320,
+330
+],
+"reagents": [
+[
+8170,
+28
+],
+[
+15415,
+36
+],
+[
+15407,
+2
+],
+[
+14341,
+2
+]
+],
+"creates": [
+20295,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 24655,
+"name": "Green Dragonscale Gauntlets",
+"learnedat": 280,
+"colors": [
+0,
+280,
+285,
+295
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+15412,
+30
+],
+[
+15407,
+1
+],
+[
+14341,
+2
+]
+],
+"creates": [
+20296,
+1,
+1
+],
+"source": [
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 24703,
+"name": "Dreamscale Breastplate",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12810,
+12
+],
+[
+20381,
+6
+],
+[
+12803,
+4
+],
+[
+15407,
+4
+],
+[
+14227,
+6
+]
+],
+"creates": [
+20380,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 24846,
+"name": "Spitfire Bracers",
+"learnedat": 310,
+"colors": [
+0,
+310,
+320,
+330
+],
+"reagents": [
+[
+20500,
+1
+],
+[
+20498,
+20
+],
+[
+7078,
+2
+]
+],
+"creates": [
+20481,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 24847,
+"name": "Spitfire Gauntlets",
+"learnedat": 305,
+"colors": [
+0,
+305,
+315,
+325
+],
+"reagents": [
+[
+20500,
+2
+],
+[
+20498,
+30
+],
+[
+7078,
+2
+],
+[
+15407,
+1
+]
+],
+"creates": [
+20480,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 24848,
+"name": "Spitfire Breastplate",
+"learnedat": 310,
+"colors": [
+0,
+310,
+320,
+330
+],
+"reagents": [
+[
+20500,
+3
+],
+[
+20498,
+40
+],
+[
+7078,
+2
+],
+[
+15407,
+2
+]
+],
+"creates": [
+20479,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 24849,
+"name": "Sandstalker Bracers",
+"learnedat": 310,
+"colors": [
+0,
+310,
+320,
+330
+],
+"reagents": [
+[
+20501,
+1
+],
+[
+20498,
+20
+],
+[
+18512,
+2
+]
+],
+"creates": [
+20476,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 24850,
+"name": "Sandstalker Gauntlets",
+"learnedat": 310,
+"colors": [
+0,
+310,
+320,
+330
+],
+"reagents": [
+[
+20501,
+2
+],
+[
+20498,
+30
+],
+[
+18512,
+2
+],
+[
+15407,
+1
+]
+],
+"creates": [
+20477,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 24851,
+"name": "Sandstalker Breastplate",
+"learnedat": 310,
+"colors": [
+0,
+310,
+320,
+330
+],
+"reagents": [
+[
+20501,
+3
+],
+[
+20498,
+40
+],
+[
+18512,
+2
+],
+[
+15407,
+2
+]
+],
+"creates": [
+20478,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 24940,
+"name": "Black Whelp Tunic",
+"learnedat": 75,
+"colors": [
+75,
+100,
+112,
+125
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+7286,
+8
+],
+[
+4231,
+1
+],
+[
+2321,
+2
+]
+],
+"creates": [
+20575,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 26279,
+"name": "Stormshroud Gloves",
+"learnedat": 290,
+"colors": [
+290,
+310,
+320,
+330
+],
+"reagents": [
+[
+12810,
+6
+],
+[
+7080,
+4
+],
+[
+7082,
+4
+],
+[
+15407,
+2
+],
+[
+14227,
+2
+]
+],
+"creates": [
+21278,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 28219,
+"name": "Polar Tunic",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+22682,
+7
+],
+[
+12810,
+16
+],
+[
+7080,
+2
+],
+[
+15407,
+4
+],
+[
+14227,
+4
+]
+],
+"creates": [
+22661,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 28220,
+"name": "Polar Gloves",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+22682,
+5
+],
+[
+12810,
+12
+],
+[
+7080,
+2
+],
+[
+15407,
+3
+],
+[
+14227,
+4
+]
+],
+"creates": [
+22662,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 28221,
+"name": "Polar Bracers",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+22682,
+4
+],
+[
+12810,
+12
+],
+[
+7080,
+2
+],
+[
+15407,
+2
+],
+[
+14227,
+4
+]
+],
+"creates": [
+22663,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 28222,
+"name": "Icy Scale Breastplate",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+22682,
+7
+],
+[
+15408,
+24
+],
+[
+7080,
+2
+],
+[
+15407,
+4
+],
+[
+14227,
+4
+]
+],
+"creates": [
+22664,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 28223,
+"name": "Icy Scale Gauntlets",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+22682,
+5
+],
+[
+15408,
+16
+],
+[
+7080,
+2
+],
+[
+15407,
+3
+],
+[
+14227,
+4
+]
+],
+"creates": [
+22666,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 28224,
+"name": "Icy Scale Bracers",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+22682,
+4
+],
+[
+15408,
+16
+],
+[
+7080,
+2
+],
+[
+15407,
+2
+],
+[
+14227,
+4
+]
+],
+"creates": [
+22665,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 28472,
+"name": "Bramblewood Helm",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12810,
+12
+],
+[
+19726,
+2
+],
+[
+12803,
+2
+],
+[
+15407,
+2
+]
+],
+"creates": [
+22759,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 28473,
+"name": "Bramblewood Boots",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12810,
+6
+],
+[
+18512,
+2
+],
+[
+12803,
+2
+],
+[
+15407,
+2
+]
+],
+"creates": [
+22760,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 28474,
+"name": "Bramblewood Belt",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12810,
+4
+],
+[
+12803,
+2
+],
+[
+15407,
+1
+]
+],
+"creates": [
+22761,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 44953,
+"name": "Winter Boots",
+"learnedat": 285,
+"colors": null,
+"reagents": [
+[
+2840,
+1
+],
+[
+2997,
+1
+],
+[
+8170,
+4
+],
+[
+14341,
+1
+]
+],
+"creates": [
+34086,
+1,
+1
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 429354,
+"name": "Void-Touched Leather Gloves",
+"learnedat": 160,
+"colors": [
+0,
+160,
+172,
+185
+],
+"reagents": [
+[
+211422,
+1
+],
+[
+4253,
+1
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 429869,
+"name": "Void-Touched Leather Gauntlets",
+"learnedat": 160,
+"colors": [
+0,
+160,
+172,
+185
+],
+"reagents": [
+[
+211422,
+1
+],
+[
+4253,
+1
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 435819,
+"name": "Faintly Glowing Leather",
+"learnedat": 200,
+"colors": [
+200,
+200,
+210,
+220
+],
+"reagents": [
+[
+8172,
+1
+],
+[
+213370,
+5
+]
+],
+"creates": [
+213369,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 435904,
+"name": "Glowing Gneuro-Linked Cowl",
+"learnedat": 225,
+"colors": [
+225,
+225,
+230,
+235
+],
+"reagents": [
+[
+213379,
+1
+],
+[
+8172,
+5
+],
+[
+4291,
+2
+],
+[
+213369,
+5
+]
+],
+"creates": null,
+"source": [
+5
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 435949,
+"name": "Glowing Hyperconductive Scale Coif",
+"learnedat": 225,
+"colors": [
+225,
+225,
+230,
+235
+],
+"reagents": [
+[
+213376,
+1
+],
+[
+5785,
+10
+],
+[
+213369,
+5
+],
+[
+213372,
+1
+]
+],
+"creates": null,
+"source": [
+5
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 435951,
+"name": "Gneuro-Conductive Channeler's Hood",
+"learnedat": 225,
+"colors": [
+225,
+225,
+230,
+235
+],
+"reagents": [
+[
+213372,
+1
+],
+[
+8172,
+5
+],
+[
+213369,
+5
+],
+[
+213379,
+1
+]
+],
+"creates": null,
+"source": [
+5
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 435953,
+"name": "Rad-Resistant Scale Hood",
+"learnedat": 225,
+"colors": [
+225,
+225,
+230,
+235
+],
+"reagents": [
+[
+213376,
+1
+],
+[
+8172,
+5
+],
+[
+213369,
+5
+],
+[
+213372,
+1
+]
+],
+"creates": null,
+"source": [
+5
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 439105,
+"name": "Big Voodoo Mask",
+"learnedat": 220,
+"colors": [
+220,
+240,
+250,
+260
+],
+"reagents": [
+[
+4304,
+8
+],
+[
+8151,
+6
+],
+[
+8343,
+1
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 439108,
+"name": "Big Voodoo Robe",
+"learnedat": 215,
+"colors": [
+215,
+235,
+245,
+255
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+8151,
+4
+],
+[
+8343,
+1
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 439110,
+"name": "Guardian Leather Bracers",
+"learnedat": 195,
+"colors": [
+195,
+215,
+225,
+235
+],
+"reagents": [
+[
+4234,
+6
+],
+[
+4236,
+2
+],
+[
+4291,
+1
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 439112,
+"name": "Guardian Belt",
+"learnedat": 170,
+"colors": [
+170,
+190,
+200,
+210
+],
+"reagents": [
+[
+4236,
+2
+],
+[
+4234,
+4
+],
+[
+2321,
+1
+],
+[
+7071,
+1
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 439114,
+"name": "Guardian Pants",
+"learnedat": 160,
+"colors": [
+160,
+180,
+190,
+200
+],
+"reagents": [
+[
+4234,
+12
+],
+[
+4305,
+2
+],
+[
+2321,
+2
+]
+],
+"creates": null,
+"source": [
+6
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 439116,
+"name": "Turtle Scale Breastplate",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+4304,
+6
+],
+[
+8167,
+12
+],
+[
+8343,
+1
+]
+],
+"creates": null,
+"source": [
+6
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 439118,
+"name": "Turtle Scale Gloves",
+"learnedat": 205,
+"colors": [
+205,
+225,
+235,
+245
+],
+"reagents": [
+[
+4304,
+6
+],
+[
+8167,
+8
+],
+[
+8343,
+1
+]
+],
+"creates": [
+217270,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 446183,
+"name": "Paranoia Mantle",
+"learnedat": 250,
+"colors": [
+0,
+250,
+255,
+260
+],
+"reagents": [
+[
+221021,
+10
+],
+[
+220688,
+1
+],
+[
+15423,
+8
+],
+[
+8170,
+4
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 446185,
+"name": "Shrieking Spaulders",
+"learnedat": 250,
+"colors": [
+0,
+250,
+255,
+260
+],
+"reagents": [
+[
+221021,
+10
+],
+[
+220688,
+1
+],
+[
+15416,
+8
+],
+[
+8170,
+8
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 446186,
+"name": "Cacophonous Chain Shoulderguards",
+"learnedat": 250,
+"colors": [
+0,
+250,
+255,
+260
+],
+"reagents": [
+[
+221021,
+10
+],
+[
+220688,
+1
+],
+[
+15416,
+4
+],
+[
+8170,
+10
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 446189,
+"name": "Shoulderpads of Obsession",
+"learnedat": 250,
+"colors": [
+0,
+250,
+255,
+260
+],
+"reagents": [
+[
+221021,
+10
+],
+[
+220688,
+1
+],
+[
+7080,
+1
+],
+[
+8170,
+12
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 446190,
+"name": "Wailing Chain Mantle",
+"learnedat": 250,
+"colors": [
+0,
+250,
+255,
+260
+],
+"reagents": [
+[
+221021,
+10
+],
+[
+220688,
+1
+],
+[
+15412,
+8
+],
+[
+8170,
+8
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 446192,
+"name": "Membrane of Dark Neurosis",
+"learnedat": 250,
+"colors": [
+0,
+250,
+255,
+260
+],
+"reagents": [
+[
+221021,
+10
+],
+[
+220688,
+1
+],
+[
+15407,
+2
+],
+[
+8170,
+6
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 451706,
+"name": "Screaming Chain Pauldrons",
+"learnedat": 250,
+"colors": [
+0,
+250,
+255,
+260
+],
+"reagents": [
+[
+221021,
+10
+],
+[
+220688,
+1
+],
+[
+15412,
+5
+],
+[
+8170,
+10
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461645,
+"name": "Honed Blue Dragonscale Shoulders",
+"learnedat": 295,
+"colors": [
+295,
+315,
+325,
+335
+],
+"reagents": [
+[
+8170,
+28
+],
+[
+15415,
+30
+],
+[
+12810,
+2
+],
+[
+15407,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461649,
+"name": "Living Green Dragonscale Leggings",
+"learnedat": 270,
+"colors": [
+270,
+290,
+300,
+310
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+15412,
+25
+],
+[
+14341,
+1
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461653,
+"name": "Brilliant Chromatic Cloak",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+30
+],
+[
+12607,
+12
+],
+[
+15416,
+30
+],
+[
+15414,
+30
+],
+[
+15407,
+5
+],
+[
+14341,
+8
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461655,
+"name": "Hardened Black Dragonscale Breastplate",
+"learnedat": 290,
+"colors": [
+290,
+310,
+320,
+330
+],
+"reagents": [
+[
+8170,
+40
+],
+[
+15416,
+60
+],
+[
+15407,
+1
+],
+[
+14341,
+2
+]
+],
+"creates": null,
+"source": [
+5
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461657,
+"name": "Hardened Black Dragonscale Leggings",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+40
+],
+[
+15416,
+60
+],
+[
+12810,
+4
+],
+[
+15407,
+1
+],
+[
+14341,
+2
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461659,
+"name": "Hardened Black Dragonscale Shoulders",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+44
+],
+[
+15416,
+45
+],
+[
+12810,
+2
+],
+[
+15407,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461661,
+"name": "Masterwork Volcanic Breastplate",
+"learnedat": 285,
+"colors": [
+285,
+305,
+315,
+325
+],
+"reagents": [
+[
+8170,
+8
+],
+[
+7078,
+1
+],
+[
+7076,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461663,
+"name": "Masterwork Volcanic Shoulders",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+10
+],
+[
+7078,
+1
+],
+[
+7076,
+1
+],
+[
+14341,
+2
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461665,
+"name": "Masterwork Volcanic Leggings",
+"learnedat": 270,
+"colors": [
+270,
+290,
+300,
+310
+],
+"reagents": [
+[
+8170,
+6
+],
+[
+7078,
+1
+],
+[
+7075,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461673,
+"name": "Honed Blue Dragonscale Breastplate",
+"learnedat": 285,
+"colors": [
+285,
+305,
+315,
+325
+],
+"reagents": [
+[
+8170,
+28
+],
+[
+15415,
+30
+],
+[
+15407,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": null,
+"source": [
+5
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461677,
+"name": "Living Green Dragonscale Gauntlets",
+"learnedat": 270,
+"colors": [
+270,
+300,
+310,
+320
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+15412,
+25
+],
+[
+14341,
+1
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461690,
+"name": "Mastercrafted Shifting Cloak",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+30
+],
+[
+7082,
+12
+],
+[
+12753,
+4
+],
+[
+12809,
+8
+],
+[
+15407,
+4
+],
+[
+14341,
+8
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461692,
+"name": "Synthetic Gordok Ogre Suit",
+"learnedat": 285,
+"colors": [
+0,
+285,
+290,
+295
+],
+"reagents": [
+[
+8170,
+4
+],
+[
+14048,
+2
+],
+[
+18240,
+1
+],
+[
+14341,
+1
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461706,
+"name": "Swift Flight Vambraces",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+18512,
+8
+],
+[
+15420,
+60
+],
+[
+15407,
+4
+],
+[
+14341,
+4
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461720,
+"name": "Living Green Dragonscale Breastplate",
+"learnedat": 260,
+"colors": [
+260,
+280,
+290,
+300
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+15412,
+25
+],
+[
+14341,
+2
+]
+],
+"creates": null,
+"source": [
+5
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461722,
+"name": "Devilcore Gauntlets",
+"learnedat": 290,
+"colors": [
+290,
+310,
+320,
+330
+],
+"reagents": [
+[
+8170,
+30
+],
+[
+15417,
+8
+],
+[
+14341,
+1
+],
+[
+7078,
+8
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461724,
+"name": "Devilcore Leggings",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+30
+],
+[
+15417,
+20
+],
+[
+15407,
+1
+],
+[
+14341,
+1
+],
+[
+7078,
+10
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 461754,
+"name": "Girdle of Arcane Insight",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+12804,
+12
+],
+[
+15407,
+2
+],
+[
+14341,
+4
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 462227,
+"name": "Honed Blue Dragonscale Leggings",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+28
+],
+[
+15415,
+36
+],
+[
+15407,
+2
+],
+[
+14341,
+2
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1213513,
+"name": "Glowing Chitin Armor Kit",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+234007,
+5
+],
+[
+14342,
+3
+],
+[
+18251,
+1
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1213519,
+"name": "Sharpened Chitin Armor Kit",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+234007,
+5
+],
+[
+15407,
+3
+],
+[
+18251,
+1
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1213521,
+"name": "Razorbramble Cowl",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+234007,
+15
+],
+[
+12810,
+8
+],
+[
+234009,
+8
+],
+[
+15407,
+8
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1213523,
+"name": "Razorbramble Shoulderpads",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+234007,
+15
+],
+[
+12810,
+8
+],
+[
+234009,
+8
+],
+[
+15407,
+8
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1213525,
+"name": "Razorbramble Leathers",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+234007,
+22
+],
+[
+12810,
+12
+],
+[
+234009,
+12
+],
+[
+15407,
+12
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1213717,
+"name": "Sandstalker Bracers",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+20501,
+2
+],
+[
+20498,
+20
+],
+[
+18512,
+4
+],
+[
+19726,
+4
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1213720,
+"name": "Sandstalker Gauntlets",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+20501,
+4
+],
+[
+20498,
+30
+],
+[
+18512,
+4
+],
+[
+15407,
+2
+],
+[
+19726,
+6
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1213723,
+"name": "Sandstalker Breastplate",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+20501,
+5
+],
+[
+20498,
+40
+],
+[
+18512,
+4
+],
+[
+15407,
+4
+],
+[
+19726,
+8
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1213726,
+"name": "Spitfire Bracers",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+20500,
+2
+],
+[
+20498,
+20
+],
+[
+7078,
+2
+],
+[
+19726,
+4
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1213728,
+"name": "Spitfire Gauntlets",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+20500,
+3
+],
+[
+20498,
+30
+],
+[
+7078,
+2
+],
+[
+15407,
+2
+],
+[
+19726,
+6
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1213731,
+"name": "Spitfire Breastplate",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+20500,
+4
+],
+[
+20498,
+40
+],
+[
+7078,
+2
+],
+[
+15407,
+4
+],
+[
+19726,
+8
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1213734,
+"name": "Bramblewood Belt",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12810,
+6
+],
+[
+12803,
+4
+],
+[
+15407,
+2
+],
+[
+19726,
+4
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1213736,
+"name": "Bramblewood Boots",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12810,
+6
+],
+[
+18512,
+3
+],
+[
+12803,
+4
+],
+[
+15407,
+4
+],
+[
+19726,
+6
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1213738,
+"name": "Bramblewood Helm",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12810,
+14
+],
+[
+19726,
+7
+],
+[
+12803,
+4
+],
+[
+15407,
+4
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1213751,
+"name": "Dreamscale Breastplate",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12810,
+12
+],
+[
+20381,
+6
+],
+[
+12803,
+4
+],
+[
+15407,
+4
+],
+[
+14227,
+6
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1214303,
+"name": "Dreamscale Kilt",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+12810,
+12
+],
+[
+20381,
+6
+],
+[
+12803,
+4
+],
+[
+15407,
+4
+],
+[
+14227,
+6
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1223774,
+"name": "Icy Scale Breastplate",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+236656,
+7
+],
+[
+15408,
+24
+],
+[
+7080,
+2
+],
+[
+15407,
+4
+],
+[
+14227,
+4
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1223776,
+"name": "Icy Scale Gauntlets",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+236656,
+5
+],
+[
+15408,
+16
+],
+[
+7080,
+2
+],
+[
+15407,
+3
+],
+[
+14227,
+4
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1223778,
+"name": "Icy Scale Bracers",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+236656,
+4
+],
+[
+15408,
+16
+],
+[
+7080,
+2
+],
+[
+15407,
+2
+],
+[
+14227,
+4
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1223780,
+"name": "Polar Tunic",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+236656,
+7
+],
+[
+12810,
+16
+],
+[
+7080,
+2
+],
+[
+15407,
+4
+],
+[
+14227,
+4
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1223782,
+"name": "Polar Gloves",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+236656,
+5
+],
+[
+12810,
+12
+],
+[
+7080,
+2
+],
+[
+15407,
+3
+],
+[
+14227,
+4
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1223784,
+"name": "Polar Bracers",
+"learnedat": 320,
+"colors": [
+0,
+320,
+330,
+340
+],
+"reagents": [
+[
+236656,
+4
+],
+[
+12810,
+12
+],
+[
+7080,
+2
+],
+[
+15407,
+2
+],
+[
+14227,
+4
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224615,
+"name": "Scarlet Infiltrator's Bandana",
+"learnedat": 280,
+"colors": [
+280,
+285,
+295,
+305
+],
+"reagents": [
+[
+12938,
+1
+],
+[
+12811,
+2
+],
+[
+8170,
+12
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224616,
+"name": "Scarlet Infiltrator's Shoulderpads",
+"learnedat": 280,
+"colors": [
+280,
+285,
+295,
+305
+],
+"reagents": [
+[
+12811,
+1
+],
+[
+8170,
+10
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224617,
+"name": "Scarlet Infiltrator's Vest",
+"learnedat": 280,
+"colors": [
+280,
+285,
+295,
+305
+],
+"reagents": [
+[
+12938,
+1
+],
+[
+12811,
+1
+],
+[
+8170,
+12
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224618,
+"name": "Scarlet Infiltrator's Bracers",
+"learnedat": 250,
+"colors": [
+250,
+260,
+282,
+305
+],
+"reagents": [
+[
+8170,
+8
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224619,
+"name": "Scarlet Infiltrator's Gloves",
+"learnedat": 260,
+"colors": [
+260,
+270,
+287,
+305
+],
+"reagents": [
+[
+12811,
+1
+],
+[
+8170,
+10
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224620,
+"name": "Scarlet Infiltrator's Belt",
+"learnedat": 250,
+"colors": [
+250,
+260,
+282,
+305
+],
+"reagents": [
+[
+12811,
+1
+],
+[
+8170,
+10
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224621,
+"name": "Scarlet Infiltrator's Trousers",
+"learnedat": 270,
+"colors": [
+270,
+280,
+292,
+305
+],
+"reagents": [
+[
+12938,
+1
+],
+[
+12811,
+1
+],
+[
+8170,
+12
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224622,
+"name": "Scarlet Infiltrator's Shoes",
+"learnedat": 260,
+"colors": [
+260,
+270,
+287,
+305
+],
+"reagents": [
+[
+12811,
+1
+],
+[
+8170,
+10
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224623,
+"name": "Scarlet Huntsman's Coif",
+"learnedat": 280,
+"colors": [
+280,
+285,
+295,
+305
+],
+"reagents": [
+[
+12938,
+1
+],
+[
+12811,
+2
+],
+[
+15408,
+12
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224624,
+"name": "Scarlet Huntsman's Pauldrons",
+"learnedat": 280,
+"colors": [
+280,
+285,
+295,
+305
+],
+"reagents": [
+[
+12811,
+1
+],
+[
+15408,
+10
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224625,
+"name": "Scarlet Huntsman's Chain",
+"learnedat": 280,
+"colors": [
+280,
+285,
+295,
+305
+],
+"reagents": [
+[
+12938,
+1
+],
+[
+12811,
+1
+],
+[
+15408,
+12
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224626,
+"name": "Scarlet Huntsman's Wristguards",
+"learnedat": 250,
+"colors": [
+250,
+260,
+282,
+305
+],
+"reagents": [
+[
+15408,
+8
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224627,
+"name": "Scarlet Huntsman's Handguards",
+"learnedat": 260,
+"colors": [
+260,
+270,
+287,
+305
+],
+"reagents": [
+[
+12811,
+1
+],
+[
+15408,
+10
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224628,
+"name": "Scarlet Huntsman's Clasp",
+"learnedat": 250,
+"colors": [
+250,
+260,
+282,
+305
+],
+"reagents": [
+[
+12811,
+1
+],
+[
+15408,
+10
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224629,
+"name": "Scarlet Huntsman's Legguards",
+"learnedat": 270,
+"colors": [
+270,
+280,
+292,
+305
+],
+"reagents": [
+[
+12938,
+1
+],
+[
+12811,
+1
+],
+[
+15408,
+12
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1224630,
+"name": "Scarlet Huntsman's Boots",
+"learnedat": 260,
+"colors": [
+260,
+270,
+287,
+305
+],
+"reagents": [
+[
+12811,
+1
+],
+[
+15408,
+10
+]
+],
+"creates": null,
+"source": [
+2
+],
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1226689,
+"name": "Scarlet Quiver",
+"learnedat": 275,
+"colors": [
+275,
+280,
+285,
+290
+],
+"reagents": [
+[
+12811,
+1
+],
+[
+8170,
+24
+],
+[
+15407,
+2
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1226690,
+"name": "Scarlet Ammo Pouch",
+"learnedat": 275,
+"colors": [
+275,
+280,
+285,
+290
+],
+"reagents": [
+[
+12811,
+1
+],
+[
+15408,
+24
+],
+[
+15407,
+2
+]
+],
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": null,
+"status": "unchanged",
+"labels": []
+},
+{
+"id": 1229432,
+"name": "Camp Tent",
+"learnedat": 20,
+"colors": [
+20,
+20,
+22,
+25
+],
+"reagents": [
+[
+2318,
+5
+]
+],
+"creates": [
+279978,
+1,
+1
+],
+"source": [
+4,
+6
+],
+"nskillup": 1,
+"quality": 1,
+"rank": "Tier 1",
+"status": "new",
+"labels": []
+},
+{
+"id": 1240950,
+"name": "Leatherworking",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": "Apprentice",
+"status": "new",
+"labels": []
+},
+{
+"id": 1240961,
+"name": "Leatherworking",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": "Journeyman",
+"status": "new",
+"labels": []
+},
+{
+"id": 1240972,
+"name": "Leatherworking",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": "Expert",
+"status": "new",
+"labels": []
+},
+{
+"id": 1240985,
+"name": "Leatherworking",
+"learnedat": 9999,
+"colors": null,
+"reagents": null,
+"creates": null,
+"nskillup": 1,
+"quality": -1,
+"rank": "Artisan",
+"status": "new",
+"labels": []
+},
+{
+"id": 1254965,
+"name": "Forceful Rugged Armor Kit",
+"learnedat": 235,
+"colors": [
+235,
+235,
+245,
+255
+],
+"reagents": [
+[
+15564,
+1
+],
+[
+11176,
+2
+],
+[
+9206,
+2
+],
+[
+249429,
+1
+],
+[
+248824,
+1
+]
+],
+"creates": [
+252488,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254966,
+"name": "Mystic Rugged Armor Kit",
+"learnedat": 235,
+"colors": [
+235,
+235,
+245,
+255
+],
+"reagents": [
+[
+15564,
+1
+],
+[
+11176,
+2
+],
+[
+13444,
+2
+],
+[
+249429,
+1
+],
+[
+248824,
+1
+]
+],
+"creates": [
+252487,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254967,
+"name": "Pristine Scorpid Leggings",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+15408,
+40
+],
+[
+12810,
+12
+],
+[
+15407,
+4
+],
+[
+249429,
+10
+],
+[
+14341,
+2
+],
+[
+248825,
+20
+]
+],
+"creates": [
+252606,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254968,
+"name": "Black Dragonscale Helm",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+15416,
+40
+],
+[
+12810,
+12
+],
+[
+15407,
+4
+],
+[
+249429,
+10
+],
+[
+14341,
+2
+],
+[
+248825,
+20
+]
+],
+"creates": [
+252605,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254969,
+"name": "Blue Dragonscale Helm",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+15415,
+40
+],
+[
+12810,
+12
+],
+[
+15407,
+6
+],
+[
+249429,
+10
+],
+[
+14341,
+2
+],
+[
+248825,
+20
+]
+],
+"creates": [
+252604,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254970,
+"name": "Red Dragonscale Leggings",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+15414,
+40
+],
+[
+12810,
+12
+],
+[
+15407,
+4
+],
+[
+249429,
+10
+],
+[
+14341,
+2
+],
+[
+248825,
+20
+]
+],
+"creates": [
+252603,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254971,
+"name": "Charged Scorpid Boots",
+"learnedat": 280,
+"colors": [
+280,
+300,
+310,
+320
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+15408,
+14
+],
+[
+14341,
+1
+],
+[
+7069,
+2
+]
+],
+"creates": [
+252602,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254972,
+"name": "Supple Scorpid Sabatons",
+"learnedat": 280,
+"colors": [
+280,
+300,
+310,
+320
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+15408,
+10
+],
+[
+14341,
+1
+]
+],
+"creates": [
+252601,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254973,
+"name": "Charged Scorpid Leggings",
+"learnedat": 270,
+"colors": [
+270,
+290,
+300,
+310
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+15408,
+14
+],
+[
+14341,
+1
+],
+[
+7069,
+2
+]
+],
+"creates": [
+252600,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254974,
+"name": "Supple Scorpid Vest",
+"learnedat": 270,
+"colors": [
+270,
+290,
+300,
+310
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+15408,
+10
+],
+[
+14341,
+1
+]
+],
+"creates": [
+252599,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254975,
+"name": "Charged Scorpid Vest",
+"learnedat": 260,
+"colors": [
+260,
+280,
+290,
+300
+],
+"reagents": [
+[
+8170,
+6
+],
+[
+15408,
+12
+],
+[
+14341,
+1
+],
+[
+7069,
+2
+]
+],
+"creates": [
+252598,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254976,
+"name": "Supple Scorpid Helm",
+"learnedat": 260,
+"colors": [
+260,
+280,
+290,
+300
+],
+"reagents": [
+[
+8170,
+11
+],
+[
+15408,
+10
+],
+[
+14341,
+1
+]
+],
+"creates": [
+252597,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254977,
+"name": "Charged Scorpid Gauntlets",
+"learnedat": 255,
+"colors": [
+255,
+275,
+285,
+295
+],
+"reagents": [
+[
+8170,
+4
+],
+[
+15408,
+8
+],
+[
+14341,
+1
+],
+[
+7069,
+2
+]
+],
+"creates": [
+252596,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254978,
+"name": "Supple Scorpid Belt",
+"learnedat": 255,
+"colors": [
+255,
+275,
+285,
+295
+],
+"reagents": [
+[
+8170,
+9
+],
+[
+15408,
+6
+],
+[
+14341,
+1
+]
+],
+"creates": [
+252595,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254979,
+"name": "Heavy Scorpid Boots",
+"learnedat": 255,
+"colors": [
+255,
+275,
+285,
+295
+],
+"reagents": [
+[
+8170,
+6
+],
+[
+15408,
+8
+],
+[
+14341,
+1
+]
+],
+"creates": [
+252594,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254980,
+"name": "Charged Scorpid Bracers",
+"learnedat": 255,
+"colors": [
+255,
+275,
+285,
+295
+],
+"reagents": [
+[
+8170,
+2
+],
+[
+15408,
+4
+],
+[
+14341,
+1
+],
+[
+7069,
+2
+]
+],
+"creates": [
+252593,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254981,
+"name": "Supple Scorpid Shoulders",
+"learnedat": 255,
+"colors": [
+255,
+275,
+285,
+295
+],
+"reagents": [
+[
+8170,
+9
+],
+[
+15408,
+6
+],
+[
+14341,
+1
+]
+],
+"creates": [
+252592,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254982,
+"name": "Mender's Mail Belt",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+8172,
+4
+],
+[
+249428,
+10
+],
+[
+8343,
+2
+],
+[
+5500,
+8
+],
+[
+249427,
+5
+]
+],
+"creates": [
+252591,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254983,
+"name": "Skirmisher's Mail Belt",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+8172,
+4
+],
+[
+249428,
+10
+],
+[
+8343,
+2
+],
+[
+3864,
+8
+],
+[
+249427,
+5
+]
+],
+"creates": [
+252590,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254984,
+"name": "Skycaller's Mail Belt",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+8172,
+4
+],
+[
+249428,
+10
+],
+[
+8343,
+2
+],
+[
+7070,
+8
+],
+[
+249427,
+5
+]
+],
+"creates": [
+252589,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254985,
+"name": "Stalker's Mail Belt",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+8172,
+4
+],
+[
+249428,
+10
+],
+[
+8343,
+2
+],
+[
+7069,
+8
+],
+[
+249427,
+5
+]
+],
+"creates": [
+252588,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254986,
+"name": "Mender's Mail Gauntlets",
+"learnedat": 250,
+"colors": [
+250,
+255,
+255,
+255
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+5500,
+4
+]
+],
+"creates": [
+252587,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254987,
+"name": "Skirmisher's Mail Gauntlets",
+"learnedat": 250,
+"colors": [
+250,
+255,
+255,
+255
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+3864,
+4
+]
+],
+"creates": [
+252586,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254988,
+"name": "Skycaller's Mail Gauntlets",
+"learnedat": 250,
+"colors": [
+250,
+255,
+255,
+255
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+7070,
+4
+]
+],
+"creates": [
+252585,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254989,
+"name": "Stalker's Mail Gauntlets",
+"learnedat": 250,
+"colors": [
+250,
+255,
+255,
+255
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+7069,
+4
+]
+],
+"creates": [
+252584,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254990,
+"name": "Charged Scorpid Shoulders",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+4
+],
+[
+15408,
+8
+],
+[
+14341,
+1
+],
+[
+7069,
+2
+]
+],
+"creates": [
+252583,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254991,
+"name": "Supple Scorpid Bracers",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+7
+],
+[
+15408,
+2
+],
+[
+14341,
+1
+]
+],
+"creates": [
+252582,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254992,
+"name": "Charged Scorpid Helm",
+"learnedat": 240,
+"colors": [
+240,
+260,
+270,
+280
+],
+"reagents": [
+[
+8170,
+4
+],
+[
+15408,
+6
+],
+[
+14341,
+1
+],
+[
+7069,
+2
+]
+],
+"creates": [
+252581,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254993,
+"name": "Supple Scorpid Leggings",
+"learnedat": 240,
+"colors": [
+240,
+260,
+270,
+280
+],
+"reagents": [
+[
+8170,
+9
+],
+[
+15408,
+4
+],
+[
+14341,
+1
+]
+],
+"creates": [
+252580,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254994,
+"name": "Mender's Mail Sabatons",
+"learnedat": 235,
+"colors": [
+235,
+255,
+265,
+275
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+249428,
+8
+],
+[
+8343,
+2
+],
+[
+5500,
+6
+],
+[
+249427,
+4
+]
+],
+"creates": [
+252579,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254995,
+"name": "Skirmisher's Mail Sabatons",
+"learnedat": 235,
+"colors": [
+235,
+255,
+265,
+275
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+249428,
+8
+],
+[
+8343,
+2
+],
+[
+3864,
+6
+],
+[
+249427,
+4
+]
+],
+"creates": [
+252578,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254996,
+"name": "Skycaller's Mail Sabatons",
+"learnedat": 235,
+"colors": [
+235,
+255,
+265,
+275
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+249428,
+8
+],
+[
+8343,
+2
+],
+[
+7070,
+6
+],
+[
+249427,
+4
+]
+],
+"creates": [
+252577,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254997,
+"name": "Stalker's Mail Sabatons",
+"learnedat": 235,
+"colors": [
+235,
+255,
+265,
+275
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+249428,
+8
+],
+[
+8343,
+2
+],
+[
+7069,
+6
+],
+[
+249427,
+4
+]
+],
+"creates": [
+252576,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254998,
+"name": "Charged Scorpid Belt",
+"learnedat": 230,
+"colors": [
+230,
+250,
+260,
+270
+],
+"reagents": [
+[
+8170,
+6
+],
+[
+15408,
+6
+],
+[
+14341,
+1
+]
+],
+"creates": [
+252575,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1254999,
+"name": "Supple Scorpid Boots",
+"learnedat": 230,
+"colors": [
+230,
+250,
+260,
+270
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+15408,
+4
+],
+[
+14341,
+1
+]
+],
+"creates": [
+252574,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255000,
+"name": "Mender's Mail Bracers",
+"learnedat": 225,
+"colors": [
+0,
+225,
+230,
+240
+],
+"reagents": [
+[
+4304,
+12
+],
+[
+4236,
+4
+],
+[
+249428,
+6
+],
+[
+8343,
+2
+],
+[
+5500,
+4
+],
+[
+249427,
+3
+]
+],
+"creates": [
+252573,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255001,
+"name": "Skirmisher's Mail Bracers",
+"learnedat": 225,
+"colors": [
+0,
+225,
+230,
+240
+],
+"reagents": [
+[
+4304,
+12
+],
+[
+4236,
+4
+],
+[
+249428,
+6
+],
+[
+8343,
+2
+],
+[
+3864,
+4
+],
+[
+249427,
+3
+]
+],
+"creates": [
+252572,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255002,
+"name": "Skycaller's Mail Bracers",
+"learnedat": 225,
+"colors": [
+0,
+225,
+230,
+240
+],
+"reagents": [
+[
+4304,
+12
+],
+[
+4236,
+4
+],
+[
+249428,
+6
+],
+[
+8343,
+2
+],
+[
+7070,
+4
+],
+[
+249427,
+3
+]
+],
+"creates": [
+252571,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255003,
+"name": "Stalker's Mail Bracers",
+"learnedat": 225,
+"colors": [
+0,
+225,
+230,
+240
+],
+"reagents": [
+[
+4304,
+12
+],
+[
+4236,
+4
+],
+[
+249428,
+6
+],
+[
+8343,
+2
+],
+[
+7069,
+4
+],
+[
+249427,
+3
+]
+],
+"creates": [
+252570,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255004,
+"name": "Mender's Mail Shoulders",
+"learnedat": 210,
+"colors": [
+210,
+220,
+230,
+240
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+4236,
+3
+],
+[
+249428,
+4
+],
+[
+4291,
+2
+],
+[
+5500,
+3
+],
+[
+249427,
+2
+]
+],
+"creates": [
+252569,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255005,
+"name": "Skirmisher's Mail Shoulders",
+"learnedat": 210,
+"colors": [
+210,
+220,
+230,
+240
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+4236,
+3
+],
+[
+249428,
+4
+],
+[
+4291,
+2
+],
+[
+3864,
+3
+],
+[
+249427,
+2
+]
+],
+"creates": [
+252568,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255006,
+"name": "Skycaller's Mail Shoulders",
+"learnedat": 210,
+"colors": [
+210,
+220,
+230,
+240
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+4236,
+3
+],
+[
+249428,
+4
+],
+[
+4291,
+2
+],
+[
+7070,
+3
+],
+[
+249427,
+2
+]
+],
+"creates": [
+252567,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255007,
+"name": "Stalker's Mail Shoulders",
+"learnedat": 210,
+"colors": [
+210,
+220,
+230,
+240
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+4236,
+3
+],
+[
+249428,
+4
+],
+[
+4291,
+2
+],
+[
+7069,
+3
+],
+[
+249427,
+2
+]
+],
+"creates": [
+252566,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255008,
+"name": "Mender's Mail Boots",
+"learnedat": 200,
+"colors": [
+200,
+205,
+205,
+205
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+5500,
+2
+]
+],
+"creates": [
+252565,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255009,
+"name": "Skirmisher's Mail Boots",
+"learnedat": 200,
+"colors": [
+200,
+205,
+205,
+205
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+3864,
+2
+]
+],
+"creates": [
+252564,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255010,
+"name": "Skycaller's Mail Boots",
+"learnedat": 200,
+"colors": [
+200,
+205,
+205,
+205
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+7070,
+2
+]
+],
+"creates": [
+252563,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255011,
+"name": "Stalker's Mail Boots",
+"learnedat": 200,
+"colors": [
+200,
+205,
+205,
+205
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+7069,
+2
+]
+],
+"creates": [
+252562,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255012,
+"name": "Ironfeather Leggings",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+15420,
+120
+],
+[
+1529,
+4
+],
+[
+15407,
+2
+],
+[
+14341,
+4
+],
+[
+249429,
+10
+],
+[
+248825,
+20
+]
+],
+"creates": [
+252486,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255013,
+"name": "Warbear Helm",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+15419,
+20
+],
+[
+14341,
+4
+],
+[
+15407,
+2
+],
+[
+249429,
+10
+],
+[
+248825,
+20
+]
+],
+"creates": [
+252485,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255014,
+"name": "Timbermaw Tunic",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12810,
+6
+],
+[
+12804,
+20
+],
+[
+12803,
+20
+],
+[
+249429,
+10
+],
+[
+15407,
+4
+],
+[
+14341,
+10
+],
+[
+248825,
+20
+]
+],
+"creates": [
+252484,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255015,
+"name": "Dawn Armor",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+12810,
+6
+],
+[
+12809,
+10
+],
+[
+7080,
+20
+],
+[
+249429,
+10
+],
+[
+15407,
+4
+],
+[
+14341,
+10
+],
+[
+248825,
+20
+]
+],
+"creates": [
+252483,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255016,
+"name": "Living Crown",
+"learnedat": 300,
+"colors": [
+300,
+320,
+330,
+340
+],
+"reagents": [
+[
+8170,
+20
+],
+[
+12803,
+20
+],
+[
+7080,
+20
+],
+[
+249429,
+10
+],
+[
+15407,
+4
+],
+[
+14341,
+10
+],
+[
+248825,
+20
+]
+],
+"creates": [
+252561,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255017,
+"name": "Blue Suede Hat",
+"learnedat": 280,
+"colors": [
+280,
+300,
+310,
+320
+],
+"reagents": [
+[
+8170,
+16
+],
+[
+14341,
+1
+],
+[
+6260,
+4
+]
+],
+"creates": [
+252482,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255018,
+"name": "Tooled Leather Pants",
+"learnedat": 280,
+"colors": [
+280,
+300,
+310,
+320
+],
+"reagents": [
+[
+8170,
+18
+],
+[
+14341,
+1
+],
+[
+6261,
+1
+],
+[
+15407,
+1
+]
+],
+"creates": [
+252560,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255019,
+"name": "Blue Suede Bracers",
+"learnedat": 275,
+"colors": [
+275,
+295,
+305,
+315
+],
+"reagents": [
+[
+8170,
+10
+],
+[
+14341,
+1
+],
+[
+6260,
+1
+]
+],
+"creates": [
+252559,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255020,
+"name": "Tooled Leather Epaulets",
+"learnedat": 275,
+"colors": [
+275,
+295,
+305,
+315
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+14341,
+1
+],
+[
+6261,
+1
+],
+[
+15407,
+1
+]
+],
+"creates": [
+252558,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255021,
+"name": "Blue Suede Belt",
+"learnedat": 270,
+"colors": [
+270,
+290,
+300,
+310
+],
+"reagents": [
+[
+8170,
+14
+],
+[
+14341,
+1
+],
+[
+6260,
+2
+]
+],
+"creates": [
+252481,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255022,
+"name": "Tooled Leather Bracers",
+"learnedat": 270,
+"colors": [
+270,
+290,
+300,
+310
+],
+"reagents": [
+[
+8170,
+10
+],
+[
+14341,
+1
+],
+[
+6261,
+1
+]
+],
+"creates": [
+252557,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255023,
+"name": "Wicked Leather Shoulders",
+"learnedat": 270,
+"colors": [
+270,
+290,
+300,
+310
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+14341,
+1
+],
+[
+2325,
+1
+],
+[
+15407,
+1
+]
+],
+"creates": [
+252556,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255024,
+"name": "Blue Suede Armor",
+"learnedat": 265,
+"colors": [
+265,
+285,
+295,
+305
+],
+"reagents": [
+[
+8170,
+14
+],
+[
+15407,
+2
+],
+[
+14341,
+2
+],
+[
+6260,
+4
+],
+[
+15415,
+6
+]
+],
+"creates": [
+252480,
+1,
+1
+],
+"source": [
+4
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255025,
+"name": "Tooled Leather Crown",
+"learnedat": 265,
+"colors": [
+265,
+285,
+295,
+305
+],
+"reagents": [
+[
+8170,
+14
+],
+[
+14341,
+1
+],
+[
+6261,
+1
+]
+],
+"creates": [
+252555,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255026,
+"name": "Blue Suede Shoulders",
+"learnedat": 260,
+"colors": [
+260,
+280,
+290,
+300
+],
+"reagents": [
+[
+8170,
+10
+],
+[
+14341,
+1
+],
+[
+6260,
+2
+]
+],
+"creates": [
+252554,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255027,
+"name": "Tooled Leather Gauntlets",
+"learnedat": 260,
+"colors": [
+260,
+280,
+290,
+300
+],
+"reagents": [
+[
+8170,
+10
+],
+[
+14341,
+1
+],
+[
+6261,
+1
+]
+],
+"creates": [
+252553,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255028,
+"name": "Wicked Leather Boots",
+"learnedat": 260,
+"colors": [
+260,
+280,
+290,
+300
+],
+"reagents": [
+[
+8170,
+10
+],
+[
+14341,
+1
+],
+[
+2325,
+1
+]
+],
+"creates": [
+252479,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255029,
+"name": "Blue Suede Pants",
+"learnedat": 255,
+"colors": [
+255,
+275,
+285,
+295
+],
+"reagents": [
+[
+8170,
+14
+],
+[
+14341,
+1
+],
+[
+6260,
+3
+],
+[
+15407,
+1
+]
+],
+"creates": [
+252478,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255030,
+"name": "Tooled Leather Armor",
+"learnedat": 255,
+"colors": [
+255,
+275,
+285,
+295
+],
+"reagents": [
+[
+8170,
+16
+],
+[
+14341,
+1
+],
+[
+6261,
+3
+],
+[
+15407,
+2
+],
+[
+13423,
+6
+]
+],
+"creates": [
+252552,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255031,
+"name": "Mender's Leather Waistguard",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+8172,
+4
+],
+[
+249428,
+10
+],
+[
+8343,
+2
+],
+[
+5500,
+8
+],
+[
+249427,
+5
+]
+],
+"creates": [
+252477,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255032,
+"name": "Skycaller's Leather Waistguard",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+8172,
+4
+],
+[
+249428,
+10
+],
+[
+8343,
+2
+],
+[
+7070,
+8
+],
+[
+249427,
+5
+]
+],
+"creates": [
+252476,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255033,
+"name": "Warden's Leather Waistguard",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+8172,
+4
+],
+[
+249428,
+10
+],
+[
+8343,
+2
+],
+[
+7067,
+8
+],
+[
+249427,
+5
+]
+],
+"creates": [
+252475,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255034,
+"name": "Skulker's Leather Waistguard",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+8172,
+4
+],
+[
+249428,
+10
+],
+[
+8343,
+2
+],
+[
+3182,
+8
+],
+[
+249427,
+5
+]
+],
+"creates": [
+252474,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255035,
+"name": "Prowler's Leather Waistguard",
+"learnedat": 250,
+"colors": [
+250,
+270,
+280,
+290
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+8172,
+4
+],
+[
+249428,
+10
+],
+[
+8343,
+2
+],
+[
+1529,
+8
+],
+[
+249427,
+5
+]
+],
+"creates": [
+252473,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255036,
+"name": "Mender's Leather Gauntlets",
+"learnedat": 250,
+"colors": [
+250,
+255,
+255,
+255
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+5500,
+4
+]
+],
+"creates": [
+252551,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255037,
+"name": "Skycaller's Leather Gauntlets",
+"learnedat": 250,
+"colors": [
+250,
+255,
+255,
+255
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+7070,
+4
+]
+],
+"creates": [
+252550,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255038,
+"name": "Warden's Leather Gauntlets",
+"learnedat": 250,
+"colors": [
+250,
+255,
+255,
+255
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+7067,
+4
+]
+],
+"creates": [
+252549,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255039,
+"name": "Skulker's Leather Gauntlets",
+"learnedat": 250,
+"colors": [
+250,
+255,
+255,
+255
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+3182,
+4
+]
+],
+"creates": [
+252548,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255040,
+"name": "Prowler's Leather Gauntlets",
+"learnedat": 250,
+"colors": [
+250,
+255,
+255,
+255
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+1529,
+4
+]
+],
+"creates": [
+252547,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255041,
+"name": "Blue Suede Gloves",
+"learnedat": 240,
+"colors": [
+240,
+260,
+270,
+280
+],
+"reagents": [
+[
+8170,
+8
+],
+[
+14341,
+1
+],
+[
+6260,
+1
+]
+],
+"creates": [
+252546,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255042,
+"name": "Tooled Leather Boots",
+"learnedat": 240,
+"colors": [
+240,
+260,
+270,
+280
+],
+"reagents": [
+[
+8170,
+8
+],
+[
+14341,
+1
+],
+[
+6261,
+1
+]
+],
+"creates": [
+252545,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255043,
+"name": "Mender's Leather Boots",
+"learnedat": 235,
+"colors": [
+235,
+255,
+265,
+275
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+249428,
+8
+],
+[
+8343,
+2
+],
+[
+5500,
+6
+],
+[
+249427,
+4
+]
+],
+"creates": [
+252472,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255044,
+"name": "Skycaller's Leather Boots",
+"learnedat": 235,
+"colors": [
+235,
+255,
+265,
+275
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+249428,
+8
+],
+[
+8343,
+2
+],
+[
+7070,
+6
+],
+[
+249427,
+4
+]
+],
+"creates": [
+252471,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255045,
+"name": "Warden's Leather Boots",
+"learnedat": 235,
+"colors": [
+235,
+255,
+265,
+275
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+249428,
+8
+],
+[
+8343,
+2
+],
+[
+7067,
+6
+],
+[
+249427,
+4
+]
+],
+"creates": [
+252470,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255046,
+"name": "Skulker's Leather Boots",
+"learnedat": 235,
+"colors": [
+235,
+255,
+265,
+275
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+249428,
+8
+],
+[
+8343,
+2
+],
+[
+3182,
+6
+],
+[
+249427,
+4
+]
+],
+"creates": [
+252469,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255047,
+"name": "Prowler's Leather Boots",
+"learnedat": 235,
+"colors": [
+235,
+255,
+265,
+275
+],
+"reagents": [
+[
+4304,
+16
+],
+[
+8172,
+2
+],
+[
+249428,
+8
+],
+[
+8343,
+2
+],
+[
+1529,
+6
+],
+[
+249427,
+4
+]
+],
+"creates": [
+252468,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255048,
+"name": "Blue Suede Shoes",
+"learnedat": 235,
+"colors": [
+235,
+255,
+265,
+275
+],
+"reagents": [
+[
+8170,
+8
+],
+[
+14341,
+1
+],
+[
+6260,
+1
+]
+],
+"creates": [
+252467,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255049,
+"name": "Tooled Leather Belt",
+"learnedat": 235,
+"colors": [
+235,
+255,
+265,
+275
+],
+"reagents": [
+[
+8170,
+8
+],
+[
+14341,
+1
+],
+[
+6261,
+1
+]
+],
+"creates": [
+252544,
+1,
+1
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255050,
+"name": "Mender's Leather Bracers",
+"learnedat": 225,
+"colors": [
+225,
+245,
+255,
+265
+],
+"reagents": [
+[
+4304,
+12
+],
+[
+4236,
+4
+],
+[
+249428,
+6
+],
+[
+8343,
+2
+],
+[
+5500,
+4
+],
+[
+249427,
+3
+]
+],
+"creates": [
+252543,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255051,
+"name": "Skycaller's Leather Bracers",
+"learnedat": 225,
+"colors": [
+225,
+245,
+255,
+265
+],
+"reagents": [
+[
+4304,
+12
+],
+[
+4236,
+4
+],
+[
+249428,
+6
+],
+[
+8343,
+2
+],
+[
+7070,
+4
+],
+[
+249427,
+3
+]
+],
+"creates": [
+252542,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255052,
+"name": "Warden's Leather Bracers",
+"learnedat": 225,
+"colors": [
+225,
+245,
+255,
+265
+],
+"reagents": [
+[
+4304,
+12
+],
+[
+4236,
+4
+],
+[
+249428,
+6
+],
+[
+8343,
+2
+],
+[
+7067,
+4
+],
+[
+249427,
+3
+]
+],
+"creates": [
+252541,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255053,
+"name": "Skulker's Leather Bracers",
+"learnedat": 225,
+"colors": [
+225,
+245,
+255,
+265
+],
+"reagents": [
+[
+4304,
+12
+],
+[
+4236,
+4
+],
+[
+249428,
+6
+],
+[
+8343,
+2
+],
+[
+3182,
+4
+],
+[
+249427,
+3
+]
+],
+"creates": [
+252540,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255054,
+"name": "Prowler's Leather Bracers",
+"learnedat": 225,
+"colors": [
+225,
+245,
+255,
+265
+],
+"reagents": [
+[
+4304,
+12
+],
+[
+4236,
+4
+],
+[
+249428,
+6
+],
+[
+8343,
+2
+],
+[
+1529,
+4
+],
+[
+249427,
+3
+]
+],
+"creates": [
+252539,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255055,
+"name": "Mender's Leather Shoulders",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+4236,
+3
+],
+[
+249428,
+4
+],
+[
+4291,
+2
+],
+[
+5500,
+3
+],
+[
+249427,
+2
+]
+],
+"creates": [
+252538,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255056,
+"name": "Skycaller's Leather Shoulders",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+4236,
+3
+],
+[
+249428,
+4
+],
+[
+4291,
+2
+],
+[
+7070,
+3
+],
+[
+249427,
+2
+]
+],
+"creates": [
+252537,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255057,
+"name": "Warden's Leather Shoulders",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+4236,
+3
+],
+[
+249428,
+4
+],
+[
+4291,
+2
+],
+[
+7067,
+3
+],
+[
+249427,
+2
+]
+],
+"creates": [
+252536,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255058,
+"name": "Skulker's Leather Shoulders",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+4236,
+3
+],
+[
+249428,
+4
+],
+[
+4291,
+2
+],
+[
+3182,
+3
+],
+[
+249427,
+2
+]
+],
+"creates": [
+252535,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255059,
+"name": "Prowler's Leather Shoulders",
+"learnedat": 210,
+"colors": [
+210,
+230,
+240,
+250
+],
+"reagents": [
+[
+4304,
+10
+],
+[
+4236,
+3
+],
+[
+249428,
+4
+],
+[
+4291,
+2
+],
+[
+1529,
+3
+],
+[
+249427,
+2
+]
+],
+"creates": [
+252534,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255060,
+"name": "Mender's Leather Shoes",
+"learnedat": 200,
+"colors": [
+200,
+205,
+205,
+205
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+5500,
+2
+]
+],
+"creates": [
+252533,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255061,
+"name": "Skycaller's Leather Shoes",
+"learnedat": 200,
+"colors": [
+200,
+205,
+205,
+205
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+7070,
+2
+]
+],
+"creates": [
+252532,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255062,
+"name": "Warden's Leather Shoes",
+"learnedat": 200,
+"colors": [
+200,
+205,
+205,
+205
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+7067,
+2
+]
+],
+"creates": [
+252466,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255063,
+"name": "Skulker's Leather Shoes",
+"learnedat": 200,
+"colors": [
+200,
+205,
+205,
+205
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+3182,
+2
+]
+],
+"creates": [
+252531,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255064,
+"name": "Prowler's Leather Shoes",
+"learnedat": 200,
+"colors": [
+200,
+205,
+205,
+205
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+1529,
+2
+]
+],
+"creates": [
+252465,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255065,
+"name": "Mender's Leather Gloves",
+"learnedat": 175,
+"colors": [
+175,
+195,
+205,
+215
+],
+"reagents": [
+[
+4234,
+16
+],
+[
+4236,
+2
+],
+[
+249428,
+2
+],
+[
+4291,
+2
+],
+[
+5500,
+2
+],
+[
+249427,
+1
+]
+],
+"creates": [
+252530,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255066,
+"name": "Skycaller's Leather Gloves",
+"learnedat": 175,
+"colors": [
+175,
+195,
+205,
+215
+],
+"reagents": [
+[
+4234,
+16
+],
+[
+4236,
+2
+],
+[
+249428,
+2
+],
+[
+4291,
+2
+],
+[
+7070,
+2
+],
+[
+249427,
+1
+]
+],
+"creates": [
+252529,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255067,
+"name": "Skirmisher's Leather Gloves",
+"learnedat": 175,
+"colors": [
+175,
+195,
+205,
+215
+],
+"reagents": [
+[
+4234,
+16
+],
+[
+4236,
+2
+],
+[
+249428,
+2
+],
+[
+4291,
+2
+],
+[
+3864,
+2
+],
+[
+249427,
+1
+]
+],
+"creates": [
+252528,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255068,
+"name": "Warden's Leather Gloves",
+"learnedat": 175,
+"colors": [
+175,
+195,
+205,
+215
+],
+"reagents": [
+[
+4234,
+16
+],
+[
+4236,
+2
+],
+[
+249428,
+2
+],
+[
+4291,
+2
+],
+[
+7067,
+2
+],
+[
+249427,
+1
+]
+],
+"creates": [
+252527,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255069,
+"name": "Stalker's Leather Gloves",
+"learnedat": 175,
+"colors": [
+175,
+195,
+205,
+215
+],
+"reagents": [
+[
+4234,
+16
+],
+[
+4236,
+2
+],
+[
+249428,
+2
+],
+[
+4291,
+2
+],
+[
+7069,
+2
+],
+[
+249427,
+1
+]
+],
+"creates": [
+252526,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255070,
+"name": "Skulker's Leather Gloves",
+"learnedat": 175,
+"colors": [
+175,
+195,
+205,
+215
+],
+"reagents": [
+[
+4234,
+16
+],
+[
+4236,
+2
+],
+[
+249428,
+2
+],
+[
+4291,
+2
+],
+[
+3182,
+2
+],
+[
+249427,
+1
+]
+],
+"creates": [
+252525,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255071,
+"name": "Prowler's Leather Gloves",
+"learnedat": 175,
+"colors": [
+175,
+195,
+205,
+215
+],
+"reagents": [
+[
+4234,
+16
+],
+[
+4236,
+2
+],
+[
+249428,
+2
+],
+[
+4291,
+2
+],
+[
+1529,
+2
+],
+[
+249427,
+1
+]
+],
+"creates": [
+252524,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255073,
+"name": "Forceful Thick Armor Kit",
+"learnedat": 185,
+"colors": [
+185,
+205,
+215,
+225
+],
+"reagents": [
+[
+8173,
+1
+],
+[
+11137,
+2
+],
+[
+3391,
+2
+]
+],
+"creates": [
+252463,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255074,
+"name": "Mystic Thick Armor Kit",
+"learnedat": 185,
+"colors": [
+185,
+205,
+215,
+225
+],
+"reagents": [
+[
+8173,
+1
+],
+[
+11137,
+2
+],
+[
+3827,
+2
+]
+],
+"creates": [
+252462,
+1,
+1
+],
+"source": [
+4,
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255075,
+"name": "Mender's Leather Belt",
+"learnedat": 150,
+"colors": [
+150,
+155,
+155,
+155
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+5500,
+1
+]
+],
+"creates": [
+252523,
+1,
+1
+],
+"source": [
+5,
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255076,
+"name": "Skycaller's Leather Belt",
+"learnedat": 150,
+"colors": [
+150,
+155,
+155,
+155
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+7070,
+1
+]
+],
+"creates": [
+252522,
+1,
+1
+],
+"source": [
+5,
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255077,
+"name": "Skirmisher's Leather Belt",
+"learnedat": 150,
+"colors": [
+150,
+155,
+155,
+155
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+3864,
+1
+]
+],
+"creates": [
+252461,
+1,
+1
+],
+"source": [
+5,
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255078,
+"name": "Warden's Leather Belt",
+"learnedat": 150,
+"colors": [
+150,
+155,
+155,
+155
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+7067,
+1
+]
+],
+"creates": [
+252460,
+1,
+1
+],
+"source": [
+5,
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255079,
+"name": "Stalker's Leather Belt",
+"learnedat": 150,
+"colors": [
+150,
+155,
+155,
+155
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+7069,
+1
+]
+],
+"creates": [
+252521,
+1,
+1
+],
+"source": [
+5,
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255080,
+"name": "Skulker's Leather Belt",
+"learnedat": 150,
+"colors": [
+150,
+155,
+155,
+155
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+3182,
+1
+]
+],
+"creates": [
+252520,
+1,
+1
+],
+"source": [
+5,
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255081,
+"name": "Prowler's Leather Belt",
+"learnedat": 150,
+"colors": [
+150,
+155,
+155,
+155
+],
+"reagents": [
+[
+4234,
+8
+],
+[
+4233,
+2
+],
+[
+1529,
+1
+]
+],
+"creates": [
+252459,
+1,
+1
+],
+"source": [
+5,
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255082,
+"name": "Wisdom's Leather Leggings",
+"learnedat": 125,
+"colors": [
+125,
+150,
+160,
+170
+],
+"reagents": [
+[
+2319,
+12
+],
+[
+4233,
+4
+],
+[
+249427,
+8
+],
+[
+2321,
+3
+],
+[
+5498,
+8
+]
+],
+"creates": [
+252519,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255083,
+"name": "Stormrider's Leather Kilt",
+"learnedat": 125,
+"colors": [
+125,
+150,
+160,
+170
+],
+"reagents": [
+[
+2319,
+12
+],
+[
+4233,
+4
+],
+[
+249427,
+8
+],
+[
+2321,
+3
+],
+[
+249409,
+8
+]
+],
+"creates": [
+252518,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255084,
+"name": "Totemic Leather Leggings",
+"learnedat": 125,
+"colors": [
+125,
+150,
+160,
+170
+],
+"reagents": [
+[
+2319,
+12
+],
+[
+4233,
+4
+],
+[
+249427,
+8
+],
+[
+2321,
+3
+],
+[
+249410,
+8
+]
+],
+"creates": [
+252458,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255085,
+"name": "Defender's Leather Kilt",
+"learnedat": 125,
+"colors": [
+125,
+150,
+160,
+170
+],
+"reagents": [
+[
+2319,
+12
+],
+[
+4233,
+4
+],
+[
+249427,
+8
+],
+[
+2321,
+3
+],
+[
+2458,
+8
+]
+],
+"creates": [
+252457,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255086,
+"name": "Trapper's Leather Legguards",
+"learnedat": 125,
+"colors": [
+125,
+150,
+160,
+170
+],
+"reagents": [
+[
+2319,
+12
+],
+[
+4233,
+4
+],
+[
+249427,
+8
+],
+[
+2321,
+3
+],
+[
+6470,
+8
+]
+],
+"creates": [
+252517,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255087,
+"name": "Brawler's Leather Legguards",
+"learnedat": 125,
+"colors": [
+125,
+150,
+160,
+170
+],
+"reagents": [
+[
+2319,
+12
+],
+[
+4233,
+4
+],
+[
+249427,
+8
+],
+[
+2321,
+3
+],
+[
+1210,
+8
+]
+],
+"creates": [
+252516,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255088,
+"name": "Wisdom's Leather Helm",
+"learnedat": 130,
+"colors": [
+0,
+130,
+130,
+130
+],
+"reagents": [
+[
+2319,
+12
+],
+[
+4233,
+2
+],
+[
+5498,
+3
+]
+],
+"creates": [
+252515,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255089,
+"name": "Stormrider's Leather Helm",
+"learnedat": 130,
+"colors": [
+0,
+130,
+130,
+130
+],
+"reagents": [
+[
+2319,
+12
+],
+[
+4233,
+2
+],
+[
+249409,
+3
+]
+],
+"creates": [
+252514,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255090,
+"name": "Totemic Leather Helm",
+"learnedat": 130,
+"colors": [
+0,
+130,
+130,
+130
+],
+"reagents": [
+[
+2319,
+12
+],
+[
+4233,
+2
+],
+[
+249410,
+3
+]
+],
+"creates": [
+252456,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255091,
+"name": "Defender's Leather Helm",
+"learnedat": 130,
+"colors": [
+0,
+130,
+130,
+130
+],
+"reagents": [
+[
+2319,
+12
+],
+[
+4233,
+2
+],
+[
+2458,
+3
+]
+],
+"creates": [
+252455,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255092,
+"name": "Trapper's Leather Helm",
+"learnedat": 130,
+"colors": [
+0,
+130,
+130,
+130
+],
+"reagents": [
+[
+2319,
+12
+],
+[
+4233,
+2
+],
+[
+6470,
+3
+]
+],
+"creates": [
+252513,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255093,
+"name": "Brawler's Leather Helm",
+"learnedat": 130,
+"colors": [
+0,
+130,
+130,
+130
+],
+"reagents": [
+[
+2319,
+12
+],
+[
+4233,
+2
+],
+[
+1210,
+3
+]
+],
+"creates": [
+252512,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255095,
+"name": "Forceful Heavy Armor Kit",
+"learnedat": 135,
+"colors": [
+135,
+155,
+165,
+175
+],
+"reagents": [
+[
+4265,
+1
+],
+[
+11083,
+2
+],
+[
+6662,
+2
+]
+],
+"creates": [
+252453,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255096,
+"name": "Mystic Heavy Armor Kit",
+"learnedat": 135,
+"colors": [
+135,
+155,
+165,
+175
+],
+"reagents": [
+[
+4265,
+1
+],
+[
+11083,
+2
+],
+[
+3385,
+2
+]
+],
+"creates": [
+252452,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255097,
+"name": "Wisdom's Leather Tunic",
+"learnedat": 110,
+"colors": [
+110,
+135,
+147,
+160
+],
+"reagents": [
+[
+2319,
+10
+],
+[
+4233,
+3
+],
+[
+249427,
+6
+],
+[
+2321,
+3
+],
+[
+5498,
+6
+]
+],
+"creates": [
+252511,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255098,
+"name": "Stormrider's Leather Tunic",
+"learnedat": 110,
+"colors": [
+110,
+135,
+147,
+160
+],
+"reagents": [
+[
+2319,
+10
+],
+[
+4233,
+3
+],
+[
+249427,
+6
+],
+[
+2321,
+3
+],
+[
+249409,
+6
+]
+],
+"creates": [
+252510,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255099,
+"name": "Totemic Leather Tunic",
+"learnedat": 110,
+"colors": [
+110,
+135,
+147,
+160
+],
+"reagents": [
+[
+2319,
+10
+],
+[
+4233,
+3
+],
+[
+249427,
+6
+],
+[
+2321,
+3
+],
+[
+249410,
+6
+]
+],
+"creates": [
+252451,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255100,
+"name": "Defender's Leather Tunic",
+"learnedat": 110,
+"colors": [
+110,
+135,
+147,
+160
+],
+"reagents": [
+[
+2319,
+10
+],
+[
+4233,
+3
+],
+[
+249427,
+6
+],
+[
+2321,
+3
+],
+[
+2458,
+6
+]
+],
+"creates": [
+252450,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255101,
+"name": "Trapper's Leather Tunic",
+"learnedat": 110,
+"colors": [
+110,
+135,
+147,
+160
+],
+"reagents": [
+[
+2319,
+10
+],
+[
+4233,
+3
+],
+[
+249427,
+6
+],
+[
+2321,
+3
+],
+[
+6470,
+6
+]
+],
+"creates": [
+252509,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255102,
+"name": "Brawler's Leather Tunic",
+"learnedat": 110,
+"colors": [
+110,
+135,
+147,
+160
+],
+"reagents": [
+[
+2319,
+10
+],
+[
+4233,
+3
+],
+[
+249427,
+6
+],
+[
+2321,
+3
+],
+[
+1210,
+6
+]
+],
+"creates": [
+252508,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255103,
+"name": "Hillman's Leather Boots",
+"learnedat": 110,
+"colors": [
+110,
+135,
+147,
+160
+],
+"reagents": [
+[
+4233,
+1
+],
+[
+2319,
+6
+],
+[
+2321,
+1
+]
+],
+"creates": [
+252449,
+1,
+1
+],
+"source": [
+2
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255104,
+"name": "Wisdom's Leather Hood",
+"learnedat": 100,
+"colors": [
+100,
+125,
+137,
+150
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+4233,
+2
+],
+[
+249427,
+4
+],
+[
+2321,
+2
+],
+[
+5498,
+4
+]
+],
+"creates": [
+252507,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255105,
+"name": "Stormrider's Leather Hood",
+"learnedat": 100,
+"colors": [
+100,
+125,
+137,
+150
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+4233,
+2
+],
+[
+249427,
+4
+],
+[
+2321,
+2
+],
+[
+249409,
+4
+]
+],
+"creates": [
+252506,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255106,
+"name": "Totemic Leather Hood",
+"learnedat": 100,
+"colors": [
+100,
+125,
+137,
+150
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+4233,
+2
+],
+[
+249427,
+4
+],
+[
+2321,
+2
+],
+[
+249410,
+4
+]
+],
+"creates": [
+252448,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255107,
+"name": "Defender's Leather Hood",
+"learnedat": 100,
+"colors": [
+100,
+125,
+137,
+150
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+4233,
+2
+],
+[
+249427,
+4
+],
+[
+2321,
+2
+],
+[
+2458,
+4
+]
+],
+"creates": [
+252447,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255108,
+"name": "Trapper's Leather Hood",
+"learnedat": 100,
+"colors": [
+100,
+125,
+137,
+150
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+4233,
+2
+],
+[
+249427,
+4
+],
+[
+2321,
+2
+],
+[
+6470,
+4
+]
+],
+"creates": [
+252505,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255109,
+"name": "Brawler's Leather Hood",
+"learnedat": 100,
+"colors": [
+100,
+125,
+137,
+150
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+4233,
+2
+],
+[
+249427,
+4
+],
+[
+2321,
+2
+],
+[
+1210,
+4
+]
+],
+"creates": [
+252504,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255110,
+"name": "Wisdom's Leather Pants",
+"learnedat": 105,
+"colors": [
+0,
+105,
+105,
+105
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+4231,
+4
+],
+[
+5498,
+2
+]
+],
+"creates": [
+252503,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255111,
+"name": "Stormrider's Leather Pants",
+"learnedat": 105,
+"colors": [
+0,
+105,
+105,
+105
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+4231,
+4
+],
+[
+249409,
+2
+]
+],
+"creates": [
+252502,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255112,
+"name": "Totemic Leather Pants",
+"learnedat": 105,
+"colors": [
+0,
+105,
+105,
+105
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+4231,
+4
+],
+[
+249410,
+2
+]
+],
+"creates": [
+252446,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255113,
+"name": "Defender's Leather Pants",
+"learnedat": 105,
+"colors": [
+0,
+105,
+105,
+105
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+4231,
+4
+],
+[
+2458,
+2
+]
+],
+"creates": [
+252445,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255114,
+"name": "Trapper's Leather Pants",
+"learnedat": 105,
+"colors": [
+0,
+105,
+105,
+105
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+4231,
+4
+],
+[
+6470,
+2
+]
+],
+"creates": [
+252501,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255115,
+"name": "Brawler's Leather Pants",
+"learnedat": 105,
+"colors": [
+0,
+105,
+105,
+105
+],
+"reagents": [
+[
+2319,
+8
+],
+[
+4231,
+4
+],
+[
+1210,
+2
+]
+],
+"creates": [
+252500,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255116,
+"name": "Wisdom's Leather Boots",
+"learnedat": 85,
+"colors": [
+85,
+110,
+122,
+135
+],
+"reagents": [
+[
+2318,
+14
+],
+[
+4231,
+4
+],
+[
+249427,
+3
+],
+[
+2321,
+1
+],
+[
+5498,
+3
+]
+],
+"creates": [
+252444,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255117,
+"name": "Stormrider's Leather Boots",
+"learnedat": 85,
+"colors": [
+85,
+110,
+122,
+135
+],
+"reagents": [
+[
+2318,
+14
+],
+[
+4231,
+4
+],
+[
+249427,
+3
+],
+[
+2321,
+1
+],
+[
+249409,
+3
+]
+],
+"creates": [
+252443,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255118,
+"name": "Totemic Leather Boots",
+"learnedat": 85,
+"colors": [
+85,
+110,
+122,
+135
+],
+"reagents": [
+[
+2318,
+14
+],
+[
+4231,
+4
+],
+[
+249427,
+3
+],
+[
+2321,
+1
+],
+[
+249410,
+3
+]
+],
+"creates": [
+252442,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255119,
+"name": "Defender's Leather Boots",
+"learnedat": 85,
+"colors": [
+85,
+110,
+122,
+135
+],
+"reagents": [
+[
+2318,
+14
+],
+[
+4231,
+4
+],
+[
+249427,
+3
+],
+[
+2321,
+1
+],
+[
+2458,
+3
+]
+],
+"creates": [
+252441,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255120,
+"name": "Trapper's Leather Boots",
+"learnedat": 85,
+"colors": [
+85,
+110,
+122,
+135
+],
+"reagents": [
+[
+2318,
+14
+],
+[
+4231,
+4
+],
+[
+249427,
+3
+],
+[
+2321,
+1
+],
+[
+6470,
+3
+]
+],
+"creates": [
+252440,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255121,
+"name": "Brawler's Leather Boots",
+"learnedat": 85,
+"colors": [
+85,
+110,
+122,
+135
+],
+"reagents": [
+[
+2318,
+14
+],
+[
+4231,
+4
+],
+[
+249427,
+3
+],
+[
+2321,
+1
+],
+[
+1210,
+3
+]
+],
+"creates": [
+252439,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255123,
+"name": "Forceful Medium Armor Kit",
+"learnedat": 80,
+"colors": [
+80,
+95,
+102,
+110
+],
+"reagents": [
+[
+2313,
+1
+],
+[
+10940,
+2
+],
+[
+2454,
+2
+]
+],
+"creates": [
+252437,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255124,
+"name": "Mystic Medium Armor Kit",
+"learnedat": 80,
+"colors": [
+80,
+95,
+102,
+110
+],
+"reagents": [
+[
+2313,
+1
+],
+[
+10940,
+2
+],
+[
+2455,
+2
+]
+],
+"creates": [
+252436,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255125,
+"name": "Wisdom's Leather Gloves",
+"learnedat": 75,
+"colors": [
+75,
+100,
+112,
+125
+],
+"reagents": [
+[
+2318,
+12
+],
+[
+4231,
+3
+],
+[
+249427,
+2
+],
+[
+2321,
+1
+],
+[
+5498,
+2
+]
+],
+"creates": [
+252499,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255126,
+"name": "Stormrider's Leather Gloves",
+"learnedat": 75,
+"colors": [
+75,
+100,
+112,
+125
+],
+"reagents": [
+[
+2318,
+12
+],
+[
+4231,
+3
+],
+[
+249427,
+2
+],
+[
+2321,
+1
+],
+[
+249409,
+2
+]
+],
+"creates": [
+252498,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255127,
+"name": "Totemic Leather Gloves",
+"learnedat": 75,
+"colors": [
+75,
+100,
+112,
+125
+],
+"reagents": [
+[
+2318,
+12
+],
+[
+4231,
+3
+],
+[
+249427,
+2
+],
+[
+2321,
+1
+],
+[
+249410,
+2
+]
+],
+"creates": [
+252497,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255128,
+"name": "Defender's Leather Gloves",
+"learnedat": 75,
+"colors": [
+75,
+100,
+112,
+125
+],
+"reagents": [
+[
+2318,
+12
+],
+[
+4231,
+3
+],
+[
+249427,
+2
+],
+[
+2321,
+1
+],
+[
+2458,
+2
+]
+],
+"creates": [
+252496,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255129,
+"name": "Trapper's Leather Gloves",
+"learnedat": 75,
+"colors": [
+75,
+100,
+112,
+125
+],
+"reagents": [
+[
+2318,
+12
+],
+[
+4231,
+3
+],
+[
+249427,
+2
+],
+[
+2321,
+1
+],
+[
+6470,
+2
+]
+],
+"creates": [
+252495,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255130,
+"name": "Brawler's Leather Gloves",
+"learnedat": 75,
+"colors": [
+75,
+100,
+112,
+125
+],
+"reagents": [
+[
+2318,
+12
+],
+[
+4231,
+3
+],
+[
+249427,
+2
+],
+[
+2321,
+1
+],
+[
+1210,
+2
+]
+],
+"creates": [
+252494,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255131,
+"name": "Wisdom's Leather Armor",
+"learnedat": 80,
+"colors": [
+0,
+80,
+80,
+80
+],
+"reagents": [
+[
+2318,
+16
+],
+[
+4231,
+2
+],
+[
+5498,
+1
+]
+],
+"creates": [
+252493,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255132,
+"name": "Stormrider's Leather Armor",
+"learnedat": 80,
+"colors": [
+0,
+80,
+80,
+80
+],
+"reagents": [
+[
+2318,
+16
+],
+[
+4231,
+2
+],
+[
+249409,
+1
+]
+],
+"creates": [
+252492,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255133,
+"name": "Totemic Leather Armor",
+"learnedat": 80,
+"colors": [
+0,
+80,
+80,
+80
+],
+"reagents": [
+[
+2318,
+16
+],
+[
+4231,
+2
+],
+[
+249410,
+1
+]
+],
+"creates": [
+252435,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255134,
+"name": "Defender's Leather Armor",
+"learnedat": 80,
+"colors": [
+0,
+80,
+80,
+80
+],
+"reagents": [
+[
+2318,
+16
+],
+[
+4231,
+2
+],
+[
+2458,
+1
+]
+],
+"creates": [
+252434,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255135,
+"name": "Trapper's Leather Armor",
+"learnedat": 80,
+"colors": [
+0,
+80,
+80,
+80
+],
+"reagents": [
+[
+2318,
+16
+],
+[
+4231,
+2
+],
+[
+6470,
+1
+]
+],
+"creates": [
+252491,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255136,
+"name": "Brawler's Leather Armor",
+"learnedat": 80,
+"colors": [
+0,
+80,
+80,
+80
+],
+"reagents": [
+[
+2318,
+16
+],
+[
+4231,
+2
+],
+[
+1210,
+1
+]
+],
+"creates": [
+252490,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255137,
+"name": "Wisdom's Leather Belt",
+"learnedat": 60,
+"colors": [
+60,
+90,
+105,
+120
+],
+"reagents": [
+[
+2318,
+10
+],
+[
+4231,
+2
+],
+[
+249427,
+2
+],
+[
+2320,
+1
+],
+[
+5498,
+1
+]
+],
+"creates": [
+252433,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255138,
+"name": "Stormrider's Leather Belt",
+"learnedat": 60,
+"colors": [
+60,
+90,
+105,
+120
+],
+"reagents": [
+[
+2318,
+10
+],
+[
+4231,
+2
+],
+[
+249427,
+2
+],
+[
+2320,
+1
+],
+[
+249409,
+1
+]
+],
+"creates": [
+252432,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255139,
+"name": "Totemic Leather Belt",
+"learnedat": 60,
+"colors": [
+60,
+90,
+105,
+120
+],
+"reagents": [
+[
+2318,
+10
+],
+[
+4231,
+2
+],
+[
+249427,
+2
+],
+[
+2320,
+1
+],
+[
+249410,
+1
+]
+],
+"creates": [
+252431,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255140,
+"name": "Defender's Leather Belt",
+"learnedat": 60,
+"colors": [
+60,
+90,
+105,
+120
+],
+"reagents": [
+[
+2318,
+10
+],
+[
+4231,
+2
+],
+[
+249427,
+2
+],
+[
+2320,
+1
+],
+[
+2458,
+1
+]
+],
+"creates": [
+252430,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255141,
+"name": "Trapper's Leather Belt",
+"learnedat": 60,
+"colors": [
+60,
+90,
+105,
+120
+],
+"reagents": [
+[
+2318,
+10
+],
+[
+4231,
+2
+],
+[
+249427,
+2
+],
+[
+2320,
+1
+],
+[
+6470,
+1
+]
+],
+"creates": [
+252429,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255142,
+"name": "Brawler's Leather Belt",
+"learnedat": 60,
+"colors": [
+60,
+90,
+105,
+120
+],
+"reagents": [
+[
+2318,
+10
+],
+[
+4231,
+2
+],
+[
+249427,
+2
+],
+[
+2320,
+1
+],
+[
+1210,
+1
+]
+],
+"creates": [
+252428,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255143,
+"name": "Moonglow Boots",
+"learnedat": 35,
+"colors": [
+35,
+40,
+40,
+40
+],
+"reagents": [
+[
+2318,
+12
+],
+[
+4231,
+2
+],
+[
+5498,
+1
+]
+],
+"creates": [
+252427,
+1,
+1
+],
+"source": [
+5,
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255144,
+"name": "Murloc Scale Shoes",
+"learnedat": 35,
+"colors": [
+35,
+40,
+40,
+40
+],
+"reagents": [
+[
+2318,
+12
+],
+[
+4231,
+2
+],
+[
+5784,
+4
+]
+],
+"creates": [
+252426,
+1,
+1
+],
+"source": [
+5,
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255145,
+"name": "Dark Leather Boots",
+"learnedat": 35,
+"colors": [
+35,
+40,
+40,
+40
+],
+"reagents": [
+[
+2318,
+24
+],
+[
+4231,
+2
+],
+[
+4340,
+1
+]
+],
+"creates": [
+252425,
+1,
+1
+],
+"source": [
+5,
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1255146,
+"name": "Black Whelp Slippers",
+"learnedat": 35,
+"colors": [
+35,
+40,
+40,
+40
+],
+"reagents": [
+[
+2318,
+12
+],
+[
+4231,
+2
+],
+[
+7286,
+2
+]
+],
+"creates": [
+252424,
+1,
+1
+],
+"source": [
+5,
+6
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1263031,
+"name": "Tanning Rack",
+"learnedat": 140,
+"colors": [
+140,
+140,
+142,
+145
+],
+"reagents": [
+[
+2319,
+5
+],
+[
+2321,
+3
+],
+[
+4470,
+2
+]
+],
+"creates": [
+279941,
+1,
+1
+],
+"source": [
+2,
+5
+],
+"nskillup": 1,
+"quality": 1,
+"rank": "Tier 2",
+"status": "new",
+"labels": []
+},
+{
+"id": 1263079,
+"name": "Sewing Machine",
+"learnedat": 300,
+"colors": [
+300,
+300,
+300,
+300
+],
+"reagents": [
+[
+273130,
+1
+],
+[
+8170,
+5
+],
+[
+14341,
+1
+]
+],
+"creates": [
+279945,
+1,
+1
+],
+"nskillup": 1,
+"quality": 1,
+"rank": "Tier 3",
+"status": "new",
+"labels": []
+},
+{
+"id": 1292920,
+"name": "Grovekeeper Trousers",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+5
+],
+[
+15407,
+4
+],
+[
+248825,
+24
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273884,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292921,
+"name": "Grovekeeper Grips",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273885,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292923,
+"name": "Grovekeeper Shoulderpads",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273886,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292924,
+"name": "Grovekeeper Stompers",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273887,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292925,
+"name": "Grovekeeper Kilt",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+5
+],
+[
+15407,
+4
+],
+[
+248825,
+24
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273888,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292926,
+"name": "Grovekeeper Mitts",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273889,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292927,
+"name": "Grovekeeper Mantle",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273890,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292928,
+"name": "Grovekeeper Sandals",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273891,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292929,
+"name": "Grovekeeper Legguards",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+5
+],
+[
+15407,
+4
+],
+[
+248825,
+24
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273892,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292930,
+"name": "Grovekeeper Handguards",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273893,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292931,
+"name": "Grovekeeper Pauldrons",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273894,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292932,
+"name": "Grovekeeper Boots",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273895,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292933,
+"name": "Grovekeeper Leggings",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+5
+],
+[
+15407,
+4
+],
+[
+248825,
+24
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273896,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292934,
+"name": "Grovekeeper Gauntlets",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273897,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292935,
+"name": "Grovekeeper Spaulders",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273898,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292936,
+"name": "Grovekeeper Treads",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273899,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292937,
+"name": "Wildstalker's Legguards",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+5
+],
+[
+15407,
+4
+],
+[
+248825,
+24
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273900,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292938,
+"name": "Wildstalker's Gauntlets",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273901,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292939,
+"name": "Wildstalker's Spaulders",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273902,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292940,
+"name": "Wildstalker's Greaves",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273903,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292965,
+"name": "Grimstitch Pants",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+5
+],
+[
+15407,
+4
+],
+[
+248825,
+24
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273928,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292966,
+"name": "Grimstitch Gloves",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273929,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292967,
+"name": "Grimstitch Spaulders",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273930,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292968,
+"name": "Grimstitch Boots",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273931,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292969,
+"name": "Spiritcaller Leggings",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+5
+],
+[
+15407,
+4
+],
+[
+248825,
+24
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273932,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292970,
+"name": "Spiritcaller Grips",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273933,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292971,
+"name": "Spiritcaller Spaulders",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273934,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292972,
+"name": "Spiritcaller Treads",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273935,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292973,
+"name": "Spiritcaller Pants",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+5
+],
+[
+15407,
+4
+],
+[
+248825,
+24
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273936,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292974,
+"name": "Spiritcaller Gauntlets",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273937,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292975,
+"name": "Spiritcaller Epaulets",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273938,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1292976,
+"name": "Spiritcaller Greaves",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+273939,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1297126,
+"name": "Bileblister Claws",
+"learnedat": 285,
+"colors": [
+285,
+290,
+292,
+295
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+12810,
+3
+],
+[
+7082,
+3
+],
+[
+14341,
+6
+]
+],
+"creates": [
+275610,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1297127,
+"name": "Bileblister Girdle",
+"learnedat": 290,
+"colors": [
+290,
+295,
+297,
+300
+],
+"reagents": [
+[
+8170,
+18
+],
+[
+12810,
+3
+],
+[
+7082,
+3
+],
+[
+14341,
+6
+]
+],
+"creates": [
+275611,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1297128,
+"name": "Bileblister Boots",
+"learnedat": 295,
+"colors": [
+295,
+295,
+297,
+300
+],
+"reagents": [
+[
+8170,
+15
+],
+[
+12810,
+3
+],
+[
+7082,
+3
+],
+[
+14341,
+6
+]
+],
+"creates": [
+275612,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1297129,
+"name": "Hivethrasher's Claws",
+"learnedat": 285,
+"colors": [
+285,
+290,
+292,
+295
+],
+"reagents": [
+[
+8170,
+12
+],
+[
+12810,
+3
+],
+[
+7076,
+3
+],
+[
+14341,
+6
+]
+],
+"creates": [
+275613,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1297130,
+"name": "Hivethrasher's Girdle",
+"learnedat": 290,
+"colors": [
+290,
+295,
+297,
+300
+],
+"reagents": [
+[
+8170,
+18
+],
+[
+12810,
+3
+],
+[
+7076,
+3
+],
+[
+14341,
+6
+]
+],
+"creates": [
+275614,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1297131,
+"name": "Hivethrasher's Boots",
+"learnedat": 295,
+"colors": [
+295,
+295,
+297,
+300
+],
+"reagents": [
+[
+8170,
+15
+],
+[
+12810,
+3
+],
+[
+7076,
+3
+],
+[
+14341,
+6
+]
+],
+"creates": [
+275615,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1297132,
+"name": "Scalegut Clenchers",
+"learnedat": 285,
+"colors": [
+285,
+290,
+292,
+295
+],
+"reagents": [
+[
+15408,
+5
+],
+[
+12810,
+3
+],
+[
+7078,
+3
+],
+[
+14341,
+6
+]
+],
+"creates": [
+275616,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1297133,
+"name": "Scalegut Belt",
+"learnedat": 290,
+"colors": [
+290,
+295,
+297,
+300
+],
+"reagents": [
+[
+15408,
+7
+],
+[
+12810,
+3
+],
+[
+7078,
+3
+],
+[
+14341,
+6
+]
+],
+"creates": [
+275617,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1297134,
+"name": "Scalegut Treaders",
+"learnedat": 295,
+"colors": [
+295,
+295,
+297,
+300
+],
+"reagents": [
+[
+15408,
+6
+],
+[
+12810,
+3
+],
+[
+7078,
+3
+],
+[
+14341,
+6
+]
+],
+"creates": [
+275618,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1297135,
+"name": "Broodwatcher's Clenchers",
+"learnedat": 285,
+"colors": [
+285,
+290,
+292,
+295
+],
+"reagents": [
+[
+15408,
+5
+],
+[
+12810,
+3
+],
+[
+7080,
+3
+],
+[
+14341,
+6
+]
+],
+"creates": [
+275619,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1297136,
+"name": "Broodwatcher's Belt",
+"learnedat": 290,
+"colors": [
+290,
+295,
+297,
+300
+],
+"reagents": [
+[
+15408,
+7
+],
+[
+12810,
+3
+],
+[
+7080,
+3
+],
+[
+14341,
+6
+]
+],
+"creates": [
+275620,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1297137,
+"name": "Broodwatcher's Treaders",
+"learnedat": 295,
+"colors": [
+295,
+295,
+297,
+300
+],
+"reagents": [
+[
+15408,
+6
+],
+[
+12810,
+3
+],
+[
+7080,
+3
+],
+[
+14341,
+6
+]
+],
+"creates": [
+275621,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1299914,
+"name": "Spiritcaller Kilt",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+5
+],
+[
+15407,
+4
+],
+[
+248825,
+24
+],
+[
+14341,
+8
+]
+],
+"creates": [
+276538,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1299915,
+"name": "Spiritcaller Gloves",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+276539,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1299916,
+"name": "Spiritcaller Mantle",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+276540,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1299917,
+"name": "Spiritcaller Boots",
+"learnedat": 300,
+"colors": [
+300,
+320,
+325,
+330
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+15407,
+2
+],
+[
+248825,
+18
+],
+[
+14341,
+8
+]
+],
+"creates": [
+276541,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301427,
+"name": "Cloudy Gustwoven Harness",
+"learnedat": 60,
+"colors": [
+60,
+65,
+67,
+70
+],
+"reagents": [
+[
+2318,
+7
+],
+[
+4231,
+1
+],
+[
+2320,
+2
+]
+],
+"creates": [
+276998,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301428,
+"name": "Cloudy Gustwoven Bracers",
+"learnedat": 50,
+"colors": [
+50,
+55,
+57,
+60
+],
+"reagents": [
+[
+2318,
+4
+],
+[
+2320,
+3
+]
+],
+"creates": [
+276999,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301429,
+"name": "Cloudy Gustwoven Gloves",
+"learnedat": 55,
+"colors": [
+55,
+60,
+62,
+65
+],
+"reagents": [
+[
+2318,
+6
+],
+[
+2320,
+4
+]
+],
+"creates": [
+277000,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301430,
+"name": "Cloudy Gustwoven Belt",
+"learnedat": 50,
+"colors": [
+50,
+55,
+57,
+60
+],
+"reagents": [
+[
+2318,
+5
+],
+[
+2320,
+3
+]
+],
+"creates": [
+277001,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301431,
+"name": "Cloudy Gustwoven Trousers",
+"learnedat": 60,
+"colors": [
+60,
+65,
+67,
+70
+],
+"reagents": [
+[
+2318,
+7
+],
+[
+2320,
+2
+]
+],
+"creates": [
+277002,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301432,
+"name": "Cloudy Gustwoven Boots",
+"learnedat": 55,
+"colors": [
+55,
+60,
+62,
+65
+],
+"reagents": [
+[
+2318,
+6
+],
+[
+2320,
+3
+]
+],
+"creates": [
+277003,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301433,
+"name": "Cloudy Windraveled Jerkin",
+"learnedat": 60,
+"colors": [
+60,
+65,
+67,
+70
+],
+"reagents": [
+[
+2318,
+7
+],
+[
+4231,
+1
+],
+[
+2320,
+2
+]
+],
+"creates": [
+277004,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301434,
+"name": "Cloudy Windraveled Armguards",
+"learnedat": 50,
+"colors": [
+50,
+55,
+57,
+60
+],
+"reagents": [
+[
+2318,
+4
+],
+[
+2320,
+3
+]
+],
+"creates": [
+277005,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301435,
+"name": "Cloudy Windraveled Mitts",
+"learnedat": 55,
+"colors": [
+55,
+60,
+62,
+65
+],
+"reagents": [
+[
+2318,
+6
+],
+[
+2320,
+4
+]
+],
+"creates": [
+277006,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301436,
+"name": "Cloudy Windraveled Strap",
+"learnedat": 50,
+"colors": [
+50,
+55,
+57,
+60
+],
+"reagents": [
+[
+2318,
+5
+],
+[
+2320,
+3
+]
+],
+"creates": [
+277007,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301437,
+"name": "Cloudy Windraveled Pants",
+"learnedat": 60,
+"colors": [
+60,
+65,
+67,
+70
+],
+"reagents": [
+[
+2318,
+7
+],
+[
+2320,
+2
+]
+],
+"creates": [
+277008,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301438,
+"name": "Cloudy Windraveled Footwraps",
+"learnedat": 55,
+"colors": [
+55,
+60,
+62,
+65
+],
+"reagents": [
+[
+2318,
+6
+],
+[
+2320,
+3
+]
+],
+"creates": [
+277009,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301451,
+"name": "Azure Gustwoven Harness",
+"learnedat": 60,
+"colors": [
+60,
+65,
+67,
+70
+],
+"reagents": [
+[
+2318,
+7
+],
+[
+4231,
+1
+],
+[
+2320,
+2
+]
+],
+"creates": [
+277022,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301452,
+"name": "Azure Gustwoven Bracers",
+"learnedat": 50,
+"colors": [
+50,
+55,
+57,
+60
+],
+"reagents": [
+[
+2318,
+4
+],
+[
+2320,
+3
+]
+],
+"creates": [
+277023,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301453,
+"name": "Azure Gustwoven Gloves",
+"learnedat": 55,
+"colors": [
+55,
+60,
+62,
+65
+],
+"reagents": [
+[
+2318,
+6
+],
+[
+2320,
+4
+]
+],
+"creates": [
+277024,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301454,
+"name": "Azure Gustwoven Belt",
+"learnedat": 50,
+"colors": [
+50,
+55,
+57,
+60
+],
+"reagents": [
+[
+2318,
+5
+],
+[
+2320,
+3
+]
+],
+"creates": [
+277025,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301455,
+"name": "Azure Gustwoven Trousers",
+"learnedat": 60,
+"colors": [
+60,
+65,
+67,
+70
+],
+"reagents": [
+[
+2318,
+7
+],
+[
+2320,
+2
+]
+],
+"creates": [
+277026,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301456,
+"name": "Azure Gustwoven Boots",
+"learnedat": 55,
+"colors": [
+55,
+60,
+62,
+65
+],
+"reagents": [
+[
+2318,
+6
+],
+[
+2320,
+3
+]
+],
+"creates": [
+277027,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301457,
+"name": "Azure Windraveled Jerkin",
+"learnedat": 60,
+"colors": [
+60,
+65,
+67,
+70
+],
+"reagents": [
+[
+2318,
+7
+],
+[
+4231,
+1
+],
+[
+2320,
+2
+]
+],
+"creates": [
+277028,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301458,
+"name": "Azure Windraveled Armguards",
+"learnedat": 50,
+"colors": [
+50,
+55,
+57,
+60
+],
+"reagents": [
+[
+2318,
+4
+],
+[
+2320,
+3
+]
+],
+"creates": [
+277029,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301459,
+"name": "Azure Windraveled Mitts",
+"learnedat": 55,
+"colors": [
+55,
+60,
+62,
+65
+],
+"reagents": [
+[
+2318,
+6
+],
+[
+2320,
+4
+]
+],
+"creates": [
+277030,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301460,
+"name": "Azure Windraveled Strap",
+"learnedat": 50,
+"colors": [
+50,
+55,
+57,
+60
+],
+"reagents": [
+[
+2318,
+5
+],
+[
+2320,
+3
+]
+],
+"creates": [
+277031,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301461,
+"name": "Azure Windraveled Pants",
+"learnedat": 60,
+"colors": [
+60,
+65,
+67,
+70
+],
+"reagents": [
+[
+2318,
+7
+],
+[
+2320,
+2
+]
+],
+"creates": [
+277032,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301462,
+"name": "Azure Windraveled Footwraps",
+"learnedat": 55,
+"colors": [
+55,
+60,
+62,
+65
+],
+"reagents": [
+[
+2318,
+6
+],
+[
+2320,
+3
+]
+],
+"creates": [
+277033,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301528,
+"name": "Cloudy Gustwoven Hood",
+"learnedat": 175,
+"colors": [
+175,
+185,
+187,
+190
+],
+"reagents": [
+[
+4234,
+15
+],
+[
+4236,
+3
+],
+[
+8343,
+1
+],
+[
+2324,
+8
+]
+],
+"creates": [
+277042,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301529,
+"name": "Cloudy Gustwoven Spaulders",
+"learnedat": 175,
+"colors": [
+175,
+185,
+187,
+190
+],
+"reagents": [
+[
+4234,
+12
+],
+[
+4236,
+2
+],
+[
+8343,
+1
+],
+[
+2324,
+6
+]
+],
+"creates": [
+277043,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301530,
+"name": "Cloudy Windraveled Cover",
+"learnedat": 175,
+"colors": [
+175,
+185,
+187,
+190
+],
+"reagents": [
+[
+4234,
+15
+],
+[
+4236,
+3
+],
+[
+8343,
+1
+],
+[
+2324,
+8
+]
+],
+"creates": [
+277044,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301531,
+"name": "Cloudy Windraveled Drapes",
+"learnedat": 175,
+"colors": [
+175,
+185,
+187,
+190
+],
+"reagents": [
+[
+4234,
+12
+],
+[
+4236,
+2
+],
+[
+8343,
+1
+],
+[
+2324,
+6
+]
+],
+"creates": [
+277045,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301536,
+"name": "Azure Gustwoven Hood",
+"learnedat": 175,
+"colors": [
+175,
+185,
+187,
+190
+],
+"reagents": [
+[
+4234,
+15
+],
+[
+4236,
+3
+],
+[
+8343,
+1
+],
+[
+6260,
+4
+]
+],
+"creates": [
+277050,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301537,
+"name": "Azure Gustwoven Spaulders",
+"learnedat": 175,
+"colors": [
+175,
+185,
+187,
+190
+],
+"reagents": [
+[
+4234,
+12
+],
+[
+4236,
+2
+],
+[
+8343,
+1
+],
+[
+6260,
+3
+]
+],
+"creates": [
+277051,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301538,
+"name": "Azure Windraveled Cover",
+"learnedat": 175,
+"colors": [
+175,
+185,
+187,
+190
+],
+"reagents": [
+[
+4234,
+15
+],
+[
+4236,
+3
+],
+[
+8343,
+1
+],
+[
+6260,
+4
+]
+],
+"creates": [
+277052,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1301539,
+"name": "Azure Windraveled Drapes",
+"learnedat": 175,
+"colors": [
+175,
+185,
+187,
+190
+],
+"reagents": [
+[
+4234,
+12
+],
+[
+4236,
+2
+],
+[
+8343,
+1
+],
+[
+6260,
+3
+]
+],
+"creates": [
+277053,
+1,
+1
+],
+"source": [
+5
+],
+"nskillup": 1,
+"quality": 2,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1302604,
+"name": "Light Leather Reagent Bag",
+"learnedat": 30,
+"colors": [
+30,
+40,
+45,
+50
+],
+"reagents": [
+[
+2318,
+8
+],
+[
+4231,
+1
+],
+[
+2320,
+3
+]
+],
+"creates": [
+277715,
+1,
+1
+],
+"source": [
+4,
+5
+],
+"nskillup": 1,
+"quality": 1,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1306526,
+"name": "Elderwild Waistcord",
+"learnedat": 300,
+"colors": [
+300,
+310,
+317,
+325
+],
+"reagents": [
+[
+274030,
+2
+],
+[
+248824,
+1
+],
+[
+248825,
+12
+]
+],
+"creates": [
+279252,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1306527,
+"name": "Outlaw's Collar",
+"learnedat": 300,
+"colors": [
+300,
+310,
+317,
+325
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+248824,
+2
+],
+[
+248825,
+22
+]
+],
+"creates": [
+279253,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1306528,
+"name": "Elderwild Pants",
+"learnedat": 300,
+"colors": [
+300,
+310,
+317,
+325
+],
+"reagents": [
+[
+274030,
+3
+],
+[
+248824,
+2
+],
+[
+248825,
+18
+]
+],
+"creates": [
+279254,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1306529,
+"name": "Eternity Pauldrons",
+"learnedat": 300,
+"colors": [
+300,
+310,
+317,
+325
+],
+"reagents": [
+[
+274030,
+2
+],
+[
+248824,
+1
+],
+[
+248825,
+12
+]
+],
+"creates": [
+279255,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1306530,
+"name": "Tranquil Wristguards",
+"learnedat": 300,
+"colors": [
+300,
+310,
+317,
+325
+],
+"reagents": [
+[
+274030,
+1
+],
+[
+248824,
+1
+],
+[
+248825,
+10
+]
+],
+"creates": [
+279256,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1306531,
+"name": "Mourning Handguards",
+"learnedat": 300,
+"colors": [
+300,
+310,
+317,
+325
+],
+"reagents": [
+[
+274030,
+2
+],
+[
+248824,
+1
+],
+[
+248825,
+12
+]
+],
+"creates": [
+279257,
+1,
+1
+],
+"nskillup": 1,
+"quality": 4,
+"rank": null,
+"status": "new",
+"labels": []
+},
+{
+"id": 1306532,
+"name": "Wild Leather Armor Kit",
+"learnedat": 300,
+"colors": [
+300,
+310,
+317,
+325
+],
+"reagents": [
+[
+248825,
+22
+],
+[
+14341,
+3
+]
+],
+"creates": [
+279258,
+1,
+1
+],
+"nskillup": 1,
+"quality": 3,
+"rank": null,
+"status": "new",
+"labels": []
+}
+],
+"items": {}
+}

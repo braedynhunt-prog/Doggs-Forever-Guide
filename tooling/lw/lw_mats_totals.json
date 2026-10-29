@@ -1,0 +1,1973 @@
+{
+ "totals": {
+  "to125": {
+   "description": "Skill 1-125 path incl. Totemic Belt/Gloves/Armor/Boots/Hood/Pants/Tunic/Leggings",
+   "final_skill": 126.28,
+   "crafts": 149,
+   "skinned": {
+    "Light Leather (2318)": 258,
+    "Light Hide (783)": 15,
+    "Medium Leather (2319)": 250,
+    "Medium Hide (4232)": 9
+   },
+   "vendor": {
+    "Coarse Thread (2320)": 79,
+    "Fine Thread (2321)": 77,
+    "Salt (4289)": 24,
+    "Gray Dye (4340)": 30
+   },
+   "new_forever": {
+    "Pristine Leather (249427)": 25,
+    "Sulfuric Acid (249410)": 27
+   },
+   "derived": {
+    "Pyrite (249391) for the Acid": 54,
+    "Empty Vial (3371) for the Acid": 27
+   },
+   "segments": [
+    {
+     "skill": "1-30",
+     "crafts": 29,
+     "recipe": "Light Armor Kit",
+     "role": "filler",
+     "colors": [
+      0,
+      30,
+      45,
+      60
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 1
+     },
+     "reagents_total": {
+      "Light Leather": 29
+     }
+    },
+    {
+     "skill": "30-45",
+     "crafts": 15,
+     "recipe": "Cured Light Hide",
+     "role": "quota",
+     "colors": [
+      30,
+      50,
+      60,
+      70
+     ],
+     "reagents_per_craft": {
+      "Light Hide": 1,
+      "Salt": 1
+     },
+     "reagents_total": {
+      "Light Hide": 15,
+      "Salt": 15
+     }
+    },
+    {
+     "skill": "45-51",
+     "crafts": 15,
+     "recipe": "Light Armor Kit",
+     "role": "filler",
+     "colors": [
+      0,
+      30,
+      45,
+      60
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 1
+     },
+     "reagents_total": {
+      "Light Leather": 15
+     }
+    },
+    {
+     "skill": "51-60",
+     "crafts": 9,
+     "recipe": "Embossed Leather Gloves",
+     "role": "filler",
+     "colors": [
+      40,
+      70,
+      85,
+      100
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 3,
+      "Coarse Thread": 2
+     },
+     "reagents_total": {
+      "Light Leather": 27,
+      "Coarse Thread": 18
+     }
+    },
+    {
+     "skill": "60-61",
+     "crafts": 1,
+     "recipe": "Totemic Leather Belt",
+     "role": "totemic",
+     "colors": [
+      60,
+      90,
+      105,
+      120
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 10,
+      "Cured Light Hide": 2,
+      "Pristine Leather": 2,
+      "Coarse Thread": 1,
+      "Sulfuric Acid": 1
+     },
+     "reagents_total": {
+      "Light Leather": 10,
+      "Cured Light Hide": 2,
+      "Pristine Leather": 2,
+      "Coarse Thread": 1,
+      "Sulfuric Acid": 1
+     }
+    },
+    {
+     "skill": "61-75",
+     "crafts": 15,
+     "recipe": "Embossed Leather Gloves",
+     "role": "filler",
+     "colors": [
+      40,
+      70,
+      85,
+      100
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 3,
+      "Coarse Thread": 2
+     },
+     "reagents_total": {
+      "Light Leather": 45,
+      "Coarse Thread": 30
+     }
+    },
+    {
+     "skill": "75-76",
+     "crafts": 1,
+     "recipe": "Totemic Leather Gloves",
+     "role": "totemic",
+     "colors": [
+      75,
+      100,
+      112,
+      125
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 12,
+      "Cured Light Hide": 3,
+      "Pristine Leather": 2,
+      "Fine Thread": 1,
+      "Sulfuric Acid": 2
+     },
+     "reagents_total": {
+      "Light Leather": 12,
+      "Cured Light Hide": 3,
+      "Pristine Leather": 2,
+      "Fine Thread": 1,
+      "Sulfuric Acid": 2
+     }
+    },
+    {
+     "skill": "76-80",
+     "crafts": 4,
+     "recipe": "Cured Medium Hide",
+     "role": "quota",
+     "colors": [
+      75,
+      90,
+      97,
+      105
+     ],
+     "reagents_per_craft": {
+      "Medium Hide": 1,
+      "Salt": 1
+     },
+     "reagents_total": {
+      "Medium Hide": 4,
+      "Salt": 4
+     }
+    },
+    {
+     "skill": "80-80",
+     "crafts": 1,
+     "recipe": "Totemic Leather Armor",
+     "role": "totemic",
+     "colors": [
+      0,
+      80,
+      80,
+      80
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 16,
+      "Cured Light Hide": 2,
+      "Sulfuric Acid": 1
+     },
+     "reagents_total": {
+      "Light Leather": 16,
+      "Cured Light Hide": 2,
+      "Sulfuric Acid": 1
+     }
+    },
+    {
+     "skill": "80-85",
+     "crafts": 5,
+     "recipe": "Cured Medium Hide",
+     "role": "quota",
+     "colors": [
+      75,
+      90,
+      97,
+      105
+     ],
+     "reagents_per_craft": {
+      "Medium Hide": 1,
+      "Salt": 1
+     },
+     "reagents_total": {
+      "Medium Hide": 5,
+      "Salt": 5
+     }
+    },
+    {
+     "skill": "85-86",
+     "crafts": 1,
+     "recipe": "Totemic Leather Boots",
+     "role": "totemic",
+     "colors": [
+      85,
+      110,
+      122,
+      135
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 14,
+      "Cured Light Hide": 4,
+      "Pristine Leather": 3,
+      "Fine Thread": 1,
+      "Sulfuric Acid": 3
+     },
+     "reagents_total": {
+      "Light Leather": 14,
+      "Cured Light Hide": 4,
+      "Pristine Leather": 3,
+      "Fine Thread": 1,
+      "Sulfuric Acid": 3
+     }
+    },
+    {
+     "skill": "86-98",
+     "crafts": 15,
+     "recipe": "Fine Leather Belt",
+     "role": "filler",
+     "colors": [
+      55,
+      85,
+      100,
+      115
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 6,
+      "Coarse Thread": 2
+     },
+     "reagents_total": {
+      "Light Leather": 90,
+      "Coarse Thread": 30
+     }
+    },
+    {
+     "skill": "98-100",
+     "crafts": 2,
+     "recipe": "Gray Leather Boots",
+     "role": "filler",
+     "colors": [
+      75,
+      100,
+      112,
+      125
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 4,
+      "Fine Thread": 2,
+      "Gray Dye": 1
+     },
+     "reagents_total": {
+      "Medium Leather": 8,
+      "Fine Thread": 4,
+      "Gray Dye": 2
+     }
+    },
+    {
+     "skill": "100-101",
+     "crafts": 1,
+     "recipe": "Totemic Leather Hood",
+     "role": "totemic",
+     "colors": [
+      100,
+      125,
+      137,
+      150
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 8,
+      "Cured Medium Hide": 2,
+      "Pristine Leather": 4,
+      "Fine Thread": 2,
+      "Sulfuric Acid": 4
+     },
+     "reagents_total": {
+      "Medium Leather": 8,
+      "Cured Medium Hide": 2,
+      "Pristine Leather": 4,
+      "Fine Thread": 2,
+      "Sulfuric Acid": 4
+     }
+    },
+    {
+     "skill": "101-105",
+     "crafts": 5,
+     "recipe": "Gray Leather Boots",
+     "role": "filler",
+     "colors": [
+      75,
+      100,
+      112,
+      125
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 4,
+      "Fine Thread": 2,
+      "Gray Dye": 1
+     },
+     "reagents_total": {
+      "Medium Leather": 20,
+      "Fine Thread": 10,
+      "Gray Dye": 5
+     }
+    },
+    {
+     "skill": "105-105",
+     "crafts": 1,
+     "recipe": "Totemic Leather Pants",
+     "role": "totemic",
+     "colors": [
+      0,
+      105,
+      105,
+      105
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 8,
+      "Cured Light Hide": 4,
+      "Sulfuric Acid": 2
+     },
+     "reagents_total": {
+      "Medium Leather": 8,
+      "Cured Light Hide": 4,
+      "Sulfuric Acid": 2
+     }
+    },
+    {
+     "skill": "105-110",
+     "crafts": 6,
+     "recipe": "Gray Leather Boots",
+     "role": "filler",
+     "colors": [
+      75,
+      100,
+      112,
+      125
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 4,
+      "Fine Thread": 2,
+      "Gray Dye": 1
+     },
+     "reagents_total": {
+      "Medium Leather": 24,
+      "Fine Thread": 12,
+      "Gray Dye": 6
+     }
+    },
+    {
+     "skill": "110-111",
+     "crafts": 1,
+     "recipe": "Totemic Leather Tunic",
+     "role": "totemic",
+     "colors": [
+      110,
+      135,
+      147,
+      160
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 10,
+      "Cured Medium Hide": 3,
+      "Pristine Leather": 6,
+      "Fine Thread": 3,
+      "Sulfuric Acid": 6
+     },
+     "reagents_total": {
+      "Medium Leather": 10,
+      "Cured Medium Hide": 3,
+      "Pristine Leather": 6,
+      "Fine Thread": 3,
+      "Sulfuric Acid": 6
+     }
+    },
+    {
+     "skill": "111-115",
+     "crafts": 8,
+     "recipe": "Gray Leather Boots",
+     "role": "filler",
+     "colors": [
+      75,
+      100,
+      112,
+      125
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 4,
+      "Fine Thread": 2,
+      "Gray Dye": 1
+     },
+     "reagents_total": {
+      "Medium Leather": 32,
+      "Fine Thread": 16,
+      "Gray Dye": 8
+     }
+    },
+    {
+     "skill": "115-121",
+     "crafts": 9,
+     "recipe": "Dark Leather Cloak",
+     "role": "filler",
+     "colors": [
+      85,
+      110,
+      122,
+      135
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 8,
+      "Fine Thread": 1,
+      "Gray Dye": 1
+     },
+     "reagents_total": {
+      "Medium Leather": 72,
+      "Fine Thread": 9,
+      "Gray Dye": 9
+     }
+    },
+    {
+     "skill": "121-125",
+     "crafts": 4,
+     "recipe": "Hillman's Leather Gloves",
+     "role": "filler",
+     "colors": [
+      120,
+      145,
+      157,
+      170
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 14,
+      "Fine Thread": 4
+     },
+     "reagents_total": {
+      "Medium Leather": 56,
+      "Fine Thread": 16
+     }
+    },
+    {
+     "skill": "125-126",
+     "crafts": 1,
+     "recipe": "Totemic Leather Leggings",
+     "role": "totemic",
+     "colors": [
+      125,
+      150,
+      160,
+      170
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 12,
+      "Cured Medium Hide": 4,
+      "Pristine Leather": 8,
+      "Fine Thread": 3,
+      "Sulfuric Acid": 8
+     },
+     "reagents_total": {
+      "Medium Leather": 12,
+      "Cured Medium Hide": 4,
+      "Pristine Leather": 8,
+      "Fine Thread": 3,
+      "Sulfuric Acid": 8
+     }
+    }
+   ]
+  },
+  "to150": {
+   "description": "Skill 1-150 path incl. all 9 Totemic pieces (Helm at 130), Heavy Armor Kits 126-150",
+   "final_skill": 150.61,
+   "crafts": 175,
+   "skinned": {
+    "Light Leather (2318)": 246,
+    "Light Hide (783)": 15,
+    "Medium Leather (2319)": 262,
+    "Medium Hide (4232)": 11,
+    "Heavy Leather (4234)": 125
+   },
+   "vendor": {
+    "Coarse Thread (2320)": 75,
+    "Fine Thread (2321)": 102,
+    "Salt (4289)": 26,
+    "Gray Dye (4340)": 30
+   },
+   "new_forever": {
+    "Pristine Leather (249427)": 25,
+    "Sulfuric Acid (249410)": 30
+   },
+   "derived": {
+    "Pyrite (249391) for the Acid": 60,
+    "Empty Vial (3371) for the Acid": 30
+   },
+   "segments": [
+    {
+     "skill": "1-30",
+     "crafts": 29,
+     "recipe": "Light Armor Kit",
+     "role": "filler",
+     "colors": [
+      0,
+      30,
+      45,
+      60
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 1
+     },
+     "reagents_total": {
+      "Light Leather": 29
+     }
+    },
+    {
+     "skill": "30-45",
+     "crafts": 15,
+     "recipe": "Cured Light Hide",
+     "role": "quota",
+     "colors": [
+      30,
+      50,
+      60,
+      70
+     ],
+     "reagents_per_craft": {
+      "Light Hide": 1,
+      "Salt": 1
+     },
+     "reagents_total": {
+      "Light Hide": 15,
+      "Salt": 15
+     }
+    },
+    {
+     "skill": "45-51",
+     "crafts": 15,
+     "recipe": "Light Armor Kit",
+     "role": "filler",
+     "colors": [
+      0,
+      30,
+      45,
+      60
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 1
+     },
+     "reagents_total": {
+      "Light Leather": 15
+     }
+    },
+    {
+     "skill": "51-60",
+     "crafts": 9,
+     "recipe": "Embossed Leather Gloves",
+     "role": "filler",
+     "colors": [
+      40,
+      70,
+      85,
+      100
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 3,
+      "Coarse Thread": 2
+     },
+     "reagents_total": {
+      "Light Leather": 27,
+      "Coarse Thread": 18
+     }
+    },
+    {
+     "skill": "60-61",
+     "crafts": 1,
+     "recipe": "Totemic Leather Belt",
+     "role": "totemic",
+     "colors": [
+      60,
+      90,
+      105,
+      120
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 10,
+      "Cured Light Hide": 2,
+      "Pristine Leather": 2,
+      "Coarse Thread": 1,
+      "Sulfuric Acid": 1
+     },
+     "reagents_total": {
+      "Light Leather": 10,
+      "Cured Light Hide": 2,
+      "Pristine Leather": 2,
+      "Coarse Thread": 1,
+      "Sulfuric Acid": 1
+     }
+    },
+    {
+     "skill": "61-75",
+     "crafts": 15,
+     "recipe": "Embossed Leather Gloves",
+     "role": "filler",
+     "colors": [
+      40,
+      70,
+      85,
+      100
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 3,
+      "Coarse Thread": 2
+     },
+     "reagents_total": {
+      "Light Leather": 45,
+      "Coarse Thread": 30
+     }
+    },
+    {
+     "skill": "75-76",
+     "crafts": 1,
+     "recipe": "Totemic Leather Gloves",
+     "role": "totemic",
+     "colors": [
+      75,
+      100,
+      112,
+      125
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 12,
+      "Cured Light Hide": 3,
+      "Pristine Leather": 2,
+      "Fine Thread": 1,
+      "Sulfuric Acid": 2
+     },
+     "reagents_total": {
+      "Light Leather": 12,
+      "Cured Light Hide": 3,
+      "Pristine Leather": 2,
+      "Fine Thread": 1,
+      "Sulfuric Acid": 2
+     }
+    },
+    {
+     "skill": "76-80",
+     "crafts": 4,
+     "recipe": "Cured Medium Hide",
+     "role": "quota",
+     "colors": [
+      75,
+      90,
+      97,
+      105
+     ],
+     "reagents_per_craft": {
+      "Medium Hide": 1,
+      "Salt": 1
+     },
+     "reagents_total": {
+      "Medium Hide": 4,
+      "Salt": 4
+     }
+    },
+    {
+     "skill": "80-80",
+     "crafts": 1,
+     "recipe": "Totemic Leather Armor",
+     "role": "totemic",
+     "colors": [
+      0,
+      80,
+      80,
+      80
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 16,
+      "Cured Light Hide": 2,
+      "Sulfuric Acid": 1
+     },
+     "reagents_total": {
+      "Light Leather": 16,
+      "Cured Light Hide": 2,
+      "Sulfuric Acid": 1
+     }
+    },
+    {
+     "skill": "80-85",
+     "crafts": 5,
+     "recipe": "Cured Medium Hide",
+     "role": "quota",
+     "colors": [
+      75,
+      90,
+      97,
+      105
+     ],
+     "reagents_per_craft": {
+      "Medium Hide": 1,
+      "Salt": 1
+     },
+     "reagents_total": {
+      "Medium Hide": 5,
+      "Salt": 5
+     }
+    },
+    {
+     "skill": "85-86",
+     "crafts": 1,
+     "recipe": "Totemic Leather Boots",
+     "role": "totemic",
+     "colors": [
+      85,
+      110,
+      122,
+      135
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 14,
+      "Cured Light Hide": 4,
+      "Pristine Leather": 3,
+      "Fine Thread": 1,
+      "Sulfuric Acid": 3
+     },
+     "reagents_total": {
+      "Light Leather": 14,
+      "Cured Light Hide": 4,
+      "Pristine Leather": 3,
+      "Fine Thread": 1,
+      "Sulfuric Acid": 3
+     }
+    },
+    {
+     "skill": "86-88",
+     "crafts": 2,
+     "recipe": "Cured Medium Hide",
+     "role": "quota",
+     "colors": [
+      75,
+      90,
+      97,
+      105
+     ],
+     "reagents_per_craft": {
+      "Medium Hide": 1,
+      "Salt": 1
+     },
+     "reagents_total": {
+      "Medium Hide": 2,
+      "Salt": 2
+     }
+    },
+    {
+     "skill": "88-98",
+     "crafts": 13,
+     "recipe": "Fine Leather Belt",
+     "role": "filler",
+     "colors": [
+      55,
+      85,
+      100,
+      115
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 6,
+      "Coarse Thread": 2
+     },
+     "reagents_total": {
+      "Light Leather": 78,
+      "Coarse Thread": 26
+     }
+    },
+    {
+     "skill": "98-100",
+     "crafts": 2,
+     "recipe": "Gray Leather Boots",
+     "role": "filler",
+     "colors": [
+      75,
+      100,
+      112,
+      125
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 4,
+      "Fine Thread": 2,
+      "Gray Dye": 1
+     },
+     "reagents_total": {
+      "Medium Leather": 8,
+      "Fine Thread": 4,
+      "Gray Dye": 2
+     }
+    },
+    {
+     "skill": "100-101",
+     "crafts": 1,
+     "recipe": "Totemic Leather Hood",
+     "role": "totemic",
+     "colors": [
+      100,
+      125,
+      137,
+      150
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 8,
+      "Cured Medium Hide": 2,
+      "Pristine Leather": 4,
+      "Fine Thread": 2,
+      "Sulfuric Acid": 4
+     },
+     "reagents_total": {
+      "Medium Leather": 8,
+      "Cured Medium Hide": 2,
+      "Pristine Leather": 4,
+      "Fine Thread": 2,
+      "Sulfuric Acid": 4
+     }
+    },
+    {
+     "skill": "101-105",
+     "crafts": 5,
+     "recipe": "Gray Leather Boots",
+     "role": "filler",
+     "colors": [
+      75,
+      100,
+      112,
+      125
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 4,
+      "Fine Thread": 2,
+      "Gray Dye": 1
+     },
+     "reagents_total": {
+      "Medium Leather": 20,
+      "Fine Thread": 10,
+      "Gray Dye": 5
+     }
+    },
+    {
+     "skill": "105-105",
+     "crafts": 1,
+     "recipe": "Totemic Leather Pants",
+     "role": "totemic",
+     "colors": [
+      0,
+      105,
+      105,
+      105
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 8,
+      "Cured Light Hide": 4,
+      "Sulfuric Acid": 2
+     },
+     "reagents_total": {
+      "Medium Leather": 8,
+      "Cured Light Hide": 4,
+      "Sulfuric Acid": 2
+     }
+    },
+    {
+     "skill": "105-110",
+     "crafts": 6,
+     "recipe": "Gray Leather Boots",
+     "role": "filler",
+     "colors": [
+      75,
+      100,
+      112,
+      125
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 4,
+      "Fine Thread": 2,
+      "Gray Dye": 1
+     },
+     "reagents_total": {
+      "Medium Leather": 24,
+      "Fine Thread": 12,
+      "Gray Dye": 6
+     }
+    },
+    {
+     "skill": "110-111",
+     "crafts": 1,
+     "recipe": "Totemic Leather Tunic",
+     "role": "totemic",
+     "colors": [
+      110,
+      135,
+      147,
+      160
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 10,
+      "Cured Medium Hide": 3,
+      "Pristine Leather": 6,
+      "Fine Thread": 3,
+      "Sulfuric Acid": 6
+     },
+     "reagents_total": {
+      "Medium Leather": 10,
+      "Cured Medium Hide": 3,
+      "Pristine Leather": 6,
+      "Fine Thread": 3,
+      "Sulfuric Acid": 6
+     }
+    },
+    {
+     "skill": "111-115",
+     "crafts": 8,
+     "recipe": "Gray Leather Boots",
+     "role": "filler",
+     "colors": [
+      75,
+      100,
+      112,
+      125
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 4,
+      "Fine Thread": 2,
+      "Gray Dye": 1
+     },
+     "reagents_total": {
+      "Medium Leather": 32,
+      "Fine Thread": 16,
+      "Gray Dye": 8
+     }
+    },
+    {
+     "skill": "115-121",
+     "crafts": 9,
+     "recipe": "Dark Leather Cloak",
+     "role": "filler",
+     "colors": [
+      85,
+      110,
+      122,
+      135
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 8,
+      "Fine Thread": 1,
+      "Gray Dye": 1
+     },
+     "reagents_total": {
+      "Medium Leather": 72,
+      "Fine Thread": 9,
+      "Gray Dye": 9
+     }
+    },
+    {
+     "skill": "121-125",
+     "crafts": 4,
+     "recipe": "Hillman's Leather Gloves",
+     "role": "filler",
+     "colors": [
+      120,
+      145,
+      157,
+      170
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 14,
+      "Fine Thread": 4
+     },
+     "reagents_total": {
+      "Medium Leather": 56,
+      "Fine Thread": 16
+     }
+    },
+    {
+     "skill": "125-126",
+     "crafts": 1,
+     "recipe": "Totemic Leather Leggings",
+     "role": "totemic",
+     "colors": [
+      125,
+      150,
+      160,
+      170
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 12,
+      "Cured Medium Hide": 4,
+      "Pristine Leather": 8,
+      "Fine Thread": 3,
+      "Sulfuric Acid": 8
+     },
+     "reagents_total": {
+      "Medium Leather": 12,
+      "Cured Medium Hide": 4,
+      "Pristine Leather": 8,
+      "Fine Thread": 3,
+      "Sulfuric Acid": 8
+     }
+    },
+    {
+     "skill": "126-130",
+     "crafts": 4,
+     "recipe": "Heavy Armor Kit",
+     "role": "filler",
+     "colors": [
+      125,
+      145,
+      155,
+      165
+     ],
+     "reagents_per_craft": {
+      "Heavy Leather": 5,
+      "Fine Thread": 1
+     },
+     "reagents_total": {
+      "Heavy Leather": 20,
+      "Fine Thread": 4
+     }
+    },
+    {
+     "skill": "130-130",
+     "crafts": 1,
+     "recipe": "Totemic Leather Helm",
+     "role": "totemic",
+     "colors": [
+      0,
+      130,
+      130,
+      130
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 12,
+      "Cured Medium Hide": 2,
+      "Sulfuric Acid": 3
+     },
+     "reagents_total": {
+      "Medium Leather": 12,
+      "Cured Medium Hide": 2,
+      "Sulfuric Acid": 3
+     }
+    },
+    {
+     "skill": "130-150",
+     "crafts": 21,
+     "recipe": "Heavy Armor Kit",
+     "role": "filler",
+     "colors": [
+      125,
+      145,
+      155,
+      165
+     ],
+     "reagents_per_craft": {
+      "Heavy Leather": 5,
+      "Fine Thread": 1
+     },
+     "reagents_total": {
+      "Heavy Leather": 105,
+      "Fine Thread": 21
+     }
+    }
+   ]
+  },
+  "to150_mlonly": {
+   "description": "Same as to150 but 126-150 via Hillman's Leather Gloves (Medium Leather only)",
+   "final_skill": 150.75,
+   "crafts": 175,
+   "skinned": {
+    "Light Leather (2318)": 246,
+    "Light Hide (783)": 15,
+    "Medium Leather (2319)": 612,
+    "Medium Hide (4232)": 11
+   },
+   "vendor": {
+    "Coarse Thread (2320)": 75,
+    "Fine Thread (2321)": 177,
+    "Salt (4289)": 26,
+    "Gray Dye (4340)": 30
+   },
+   "new_forever": {
+    "Pristine Leather (249427)": 25,
+    "Sulfuric Acid (249410)": 30
+   },
+   "derived": {
+    "Pyrite (249391) for the Acid": 60,
+    "Empty Vial (3371) for the Acid": 30
+   },
+   "segments": [
+    {
+     "skill": "1-30",
+     "crafts": 29,
+     "recipe": "Light Armor Kit",
+     "role": "filler",
+     "colors": [
+      0,
+      30,
+      45,
+      60
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 1
+     },
+     "reagents_total": {
+      "Light Leather": 29
+     }
+    },
+    {
+     "skill": "30-45",
+     "crafts": 15,
+     "recipe": "Cured Light Hide",
+     "role": "quota",
+     "colors": [
+      30,
+      50,
+      60,
+      70
+     ],
+     "reagents_per_craft": {
+      "Light Hide": 1,
+      "Salt": 1
+     },
+     "reagents_total": {
+      "Light Hide": 15,
+      "Salt": 15
+     }
+    },
+    {
+     "skill": "45-51",
+     "crafts": 15,
+     "recipe": "Light Armor Kit",
+     "role": "filler",
+     "colors": [
+      0,
+      30,
+      45,
+      60
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 1
+     },
+     "reagents_total": {
+      "Light Leather": 15
+     }
+    },
+    {
+     "skill": "51-60",
+     "crafts": 9,
+     "recipe": "Embossed Leather Gloves",
+     "role": "filler",
+     "colors": [
+      40,
+      70,
+      85,
+      100
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 3,
+      "Coarse Thread": 2
+     },
+     "reagents_total": {
+      "Light Leather": 27,
+      "Coarse Thread": 18
+     }
+    },
+    {
+     "skill": "60-61",
+     "crafts": 1,
+     "recipe": "Totemic Leather Belt",
+     "role": "totemic",
+     "colors": [
+      60,
+      90,
+      105,
+      120
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 10,
+      "Cured Light Hide": 2,
+      "Pristine Leather": 2,
+      "Coarse Thread": 1,
+      "Sulfuric Acid": 1
+     },
+     "reagents_total": {
+      "Light Leather": 10,
+      "Cured Light Hide": 2,
+      "Pristine Leather": 2,
+      "Coarse Thread": 1,
+      "Sulfuric Acid": 1
+     }
+    },
+    {
+     "skill": "61-75",
+     "crafts": 15,
+     "recipe": "Embossed Leather Gloves",
+     "role": "filler",
+     "colors": [
+      40,
+      70,
+      85,
+      100
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 3,
+      "Coarse Thread": 2
+     },
+     "reagents_total": {
+      "Light Leather": 45,
+      "Coarse Thread": 30
+     }
+    },
+    {
+     "skill": "75-76",
+     "crafts": 1,
+     "recipe": "Totemic Leather Gloves",
+     "role": "totemic",
+     "colors": [
+      75,
+      100,
+      112,
+      125
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 12,
+      "Cured Light Hide": 3,
+      "Pristine Leather": 2,
+      "Fine Thread": 1,
+      "Sulfuric Acid": 2
+     },
+     "reagents_total": {
+      "Light Leather": 12,
+      "Cured Light Hide": 3,
+      "Pristine Leather": 2,
+      "Fine Thread": 1,
+      "Sulfuric Acid": 2
+     }
+    },
+    {
+     "skill": "76-80",
+     "crafts": 4,
+     "recipe": "Cured Medium Hide",
+     "role": "quota",
+     "colors": [
+      75,
+      90,
+      97,
+      105
+     ],
+     "reagents_per_craft": {
+      "Medium Hide": 1,
+      "Salt": 1
+     },
+     "reagents_total": {
+      "Medium Hide": 4,
+      "Salt": 4
+     }
+    },
+    {
+     "skill": "80-80",
+     "crafts": 1,
+     "recipe": "Totemic Leather Armor",
+     "role": "totemic",
+     "colors": [
+      0,
+      80,
+      80,
+      80
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 16,
+      "Cured Light Hide": 2,
+      "Sulfuric Acid": 1
+     },
+     "reagents_total": {
+      "Light Leather": 16,
+      "Cured Light Hide": 2,
+      "Sulfuric Acid": 1
+     }
+    },
+    {
+     "skill": "80-85",
+     "crafts": 5,
+     "recipe": "Cured Medium Hide",
+     "role": "quota",
+     "colors": [
+      75,
+      90,
+      97,
+      105
+     ],
+     "reagents_per_craft": {
+      "Medium Hide": 1,
+      "Salt": 1
+     },
+     "reagents_total": {
+      "Medium Hide": 5,
+      "Salt": 5
+     }
+    },
+    {
+     "skill": "85-86",
+     "crafts": 1,
+     "recipe": "Totemic Leather Boots",
+     "role": "totemic",
+     "colors": [
+      85,
+      110,
+      122,
+      135
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 14,
+      "Cured Light Hide": 4,
+      "Pristine Leather": 3,
+      "Fine Thread": 1,
+      "Sulfuric Acid": 3
+     },
+     "reagents_total": {
+      "Light Leather": 14,
+      "Cured Light Hide": 4,
+      "Pristine Leather": 3,
+      "Fine Thread": 1,
+      "Sulfuric Acid": 3
+     }
+    },
+    {
+     "skill": "86-88",
+     "crafts": 2,
+     "recipe": "Cured Medium Hide",
+     "role": "quota",
+     "colors": [
+      75,
+      90,
+      97,
+      105
+     ],
+     "reagents_per_craft": {
+      "Medium Hide": 1,
+      "Salt": 1
+     },
+     "reagents_total": {
+      "Medium Hide": 2,
+      "Salt": 2
+     }
+    },
+    {
+     "skill": "88-98",
+     "crafts": 13,
+     "recipe": "Fine Leather Belt",
+     "role": "filler",
+     "colors": [
+      55,
+      85,
+      100,
+      115
+     ],
+     "reagents_per_craft": {
+      "Light Leather": 6,
+      "Coarse Thread": 2
+     },
+     "reagents_total": {
+      "Light Leather": 78,
+      "Coarse Thread": 26
+     }
+    },
+    {
+     "skill": "98-100",
+     "crafts": 2,
+     "recipe": "Gray Leather Boots",
+     "role": "filler",
+     "colors": [
+      75,
+      100,
+      112,
+      125
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 4,
+      "Fine Thread": 2,
+      "Gray Dye": 1
+     },
+     "reagents_total": {
+      "Medium Leather": 8,
+      "Fine Thread": 4,
+      "Gray Dye": 2
+     }
+    },
+    {
+     "skill": "100-101",
+     "crafts": 1,
+     "recipe": "Totemic Leather Hood",
+     "role": "totemic",
+     "colors": [
+      100,
+      125,
+      137,
+      150
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 8,
+      "Cured Medium Hide": 2,
+      "Pristine Leather": 4,
+      "Fine Thread": 2,
+      "Sulfuric Acid": 4
+     },
+     "reagents_total": {
+      "Medium Leather": 8,
+      "Cured Medium Hide": 2,
+      "Pristine Leather": 4,
+      "Fine Thread": 2,
+      "Sulfuric Acid": 4
+     }
+    },
+    {
+     "skill": "101-105",
+     "crafts": 5,
+     "recipe": "Gray Leather Boots",
+     "role": "filler",
+     "colors": [
+      75,
+      100,
+      112,
+      125
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 4,
+      "Fine Thread": 2,
+      "Gray Dye": 1
+     },
+     "reagents_total": {
+      "Medium Leather": 20,
+      "Fine Thread": 10,
+      "Gray Dye": 5
+     }
+    },
+    {
+     "skill": "105-105",
+     "crafts": 1,
+     "recipe": "Totemic Leather Pants",
+     "role": "totemic",
+     "colors": [
+      0,
+      105,
+      105,
+      105
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 8,
+      "Cured Light Hide": 4,
+      "Sulfuric Acid": 2
+     },
+     "reagents_total": {
+      "Medium Leather": 8,
+      "Cured Light Hide": 4,
+      "Sulfuric Acid": 2
+     }
+    },
+    {
+     "skill": "105-110",
+     "crafts": 6,
+     "recipe": "Gray Leather Boots",
+     "role": "filler",
+     "colors": [
+      75,
+      100,
+      112,
+      125
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 4,
+      "Fine Thread": 2,
+      "Gray Dye": 1
+     },
+     "reagents_total": {
+      "Medium Leather": 24,
+      "Fine Thread": 12,
+      "Gray Dye": 6
+     }
+    },
+    {
+     "skill": "110-111",
+     "crafts": 1,
+     "recipe": "Totemic Leather Tunic",
+     "role": "totemic",
+     "colors": [
+      110,
+      135,
+      147,
+      160
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 10,
+      "Cured Medium Hide": 3,
+      "Pristine Leather": 6,
+      "Fine Thread": 3,
+      "Sulfuric Acid": 6
+     },
+     "reagents_total": {
+      "Medium Leather": 10,
+      "Cured Medium Hide": 3,
+      "Pristine Leather": 6,
+      "Fine Thread": 3,
+      "Sulfuric Acid": 6
+     }
+    },
+    {
+     "skill": "111-115",
+     "crafts": 8,
+     "recipe": "Gray Leather Boots",
+     "role": "filler",
+     "colors": [
+      75,
+      100,
+      112,
+      125
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 4,
+      "Fine Thread": 2,
+      "Gray Dye": 1
+     },
+     "reagents_total": {
+      "Medium Leather": 32,
+      "Fine Thread": 16,
+      "Gray Dye": 8
+     }
+    },
+    {
+     "skill": "115-121",
+     "crafts": 9,
+     "recipe": "Dark Leather Cloak",
+     "role": "filler",
+     "colors": [
+      85,
+      110,
+      122,
+      135
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 8,
+      "Fine Thread": 1,
+      "Gray Dye": 1
+     },
+     "reagents_total": {
+      "Medium Leather": 72,
+      "Fine Thread": 9,
+      "Gray Dye": 9
+     }
+    },
+    {
+     "skill": "121-125",
+     "crafts": 4,
+     "recipe": "Hillman's Leather Gloves",
+     "role": "filler",
+     "colors": [
+      120,
+      145,
+      157,
+      170
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 14,
+      "Fine Thread": 4
+     },
+     "reagents_total": {
+      "Medium Leather": 56,
+      "Fine Thread": 16
+     }
+    },
+    {
+     "skill": "125-126",
+     "crafts": 1,
+     "recipe": "Totemic Leather Leggings",
+     "role": "totemic",
+     "colors": [
+      125,
+      150,
+      160,
+      170
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 12,
+      "Cured Medium Hide": 4,
+      "Pristine Leather": 8,
+      "Fine Thread": 3,
+      "Sulfuric Acid": 8
+     },
+     "reagents_total": {
+      "Medium Leather": 12,
+      "Cured Medium Hide": 4,
+      "Pristine Leather": 8,
+      "Fine Thread": 3,
+      "Sulfuric Acid": 8
+     }
+    },
+    {
+     "skill": "126-130",
+     "crafts": 4,
+     "recipe": "Hillman's Leather Gloves",
+     "role": "filler",
+     "colors": [
+      120,
+      145,
+      157,
+      170
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 14,
+      "Fine Thread": 4
+     },
+     "reagents_total": {
+      "Medium Leather": 56,
+      "Fine Thread": 16
+     }
+    },
+    {
+     "skill": "130-130",
+     "crafts": 1,
+     "recipe": "Totemic Leather Helm",
+     "role": "totemic",
+     "colors": [
+      0,
+      130,
+      130,
+      130
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 12,
+      "Cured Medium Hide": 2,
+      "Sulfuric Acid": 3
+     },
+     "reagents_total": {
+      "Medium Leather": 12,
+      "Cured Medium Hide": 2,
+      "Sulfuric Acid": 3
+     }
+    },
+    {
+     "skill": "130-150",
+     "crafts": 21,
+     "recipe": "Hillman's Leather Gloves",
+     "role": "filler",
+     "colors": [
+      120,
+      145,
+      157,
+      170
+     ],
+     "reagents_per_craft": {
+      "Medium Leather": 14,
+      "Fine Thread": 4
+     },
+     "reagents_total": {
+      "Medium Leather": 294,
+      "Fine Thread": 84
+     }
+    }
+   ]
+  }
+ },
+ "pristine_leather": {
+  "needed_8_pieces_to125": 25,
+  "needed_with_helm": 25,
+  "per_piece": {
+   "Belt": 2,
+   "Gloves": 2,
+   "Armor": 0,
+   "Boots": 3,
+   "Hood": 4,
+   "Pants": 0,
+   "Tunic": 6,
+   "Leggings": 8,
+   "Helm": 0
+  },
+  "route_expected_by_lvl30": "~2 (475 skins x 0.164% x ~2.4)"
+ },
+ "sulfuric_acid": {
+  "per_piece": {
+   "Belt": 1,
+   "Gloves": 2,
+   "Armor": 1,
+   "Boots": 3,
+   "Hood": 4,
+   "Pants": 2,
+   "Tunic": 6,
+   "Leggings": 8,
+   "Helm": 3
+  },
+  "needed_to125": 27,
+  "needed_to150_with_helm": 30,
+  "needed_six_sold_patterns": 24,
+  "recipe": "Alchemy 40: 2 Pyrite (249391) + 1 Empty Vial (3371)",
+  "pyrite_to125": 54,
+  "pyrite_to150": 60
+ },
+ "route_yields": {
+  "ch07_inc0": {
+   "beast_kills": 150,
+   "yield": {
+    "Light Leather": 127.4,
+    "Light Hide": 3.1
+   },
+   "raw": {
+    "2318": 127.4,
+    "783": 3.1
+   }
+  },
+  "ch07_inc50": {
+   "beast_kills": 225,
+   "yield": {
+    "Light Leather": 191.1,
+    "Light Hide": 4.6
+   },
+   "raw": {
+    "2318": 191.1,
+    "783": 4.6
+   }
+  },
+  "ch07_inc100": {
+   "beast_kills": 300,
+   "yield": {
+    "Light Leather": 254.8,
+    "Light Hide": 6.1
+   },
+   "raw": {
+    "2318": 254.8,
+    "783": 6.1
+   }
+  },
+  "ch14_inc0": {
+   "beast_kills": 166,
+   "yield": {
+    "Light Leather": 137.9,
+    "Light Hide": 3.1,
+    "Medium Leather": 7.8,
+    "Medium Hide": 0.8
+   },
+   "raw": {
+    "2318": 137.9,
+    "783": 3.1,
+    "2319": 7.8,
+    "4232": 0.8
+   }
+  },
+  "ch14_inc50": {
+   "beast_kills": 249,
+   "yield": {
+    "Light Leather": 206.9,
+    "Light Hide": 4.7,
+    "Medium Leather": 11.7,
+    "Medium Hide": 1.1
+   },
+   "raw": {
+    "2318": 206.9,
+    "783": 4.7,
+    "2319": 11.7,
+    "4232": 1.1
+   }
+  },
+  "ch14_inc100": {
+   "beast_kills": 332,
+   "yield": {
+    "Light Leather": 275.8,
+    "Light Hide": 6.3,
+    "Medium Leather": 15.6,
+    "Medium Hide": 1.5
+   },
+   "raw": {
+    "2318": 275.8,
+    "783": 6.3,
+    "2319": 15.6,
+    "4232": 1.5
+   }
+  },
+  "ch26_inc0": {
+   "beast_kills": 316,
+   "yield": {
+    "Light Leather": 170.7,
+    "Light Hide": 3.1,
+    "Medium Leather": 103.6,
+    "Medium Hide": 8.2
+   },
+   "raw": {
+    "2318": 170.7,
+    "783": 3.1,
+    "2319": 103.6,
+    "4232": 8.2
+   }
+  },
+  "ch26_inc50": {
+   "beast_kills": 474,
+   "yield": {
+    "Light Leather": 256.1,
+    "Light Hide": 4.7,
+    "Medium Leather": 155.4,
+    "Medium Hide": 12.3
+   },
+   "raw": {
+    "2318": 256.1,
+    "783": 4.7,
+    "2319": 155.4,
+    "4232": 12.3
+   }
+  },
+  "ch26_inc100": {
+   "beast_kills": 632,
+   "yield": {
+    "Light Leather": 341.5,
+    "Light Hide": 6.3,
+    "Medium Leather": 207.2,
+    "Medium Hide": 16.4
+   },
+   "raw": {
+    "2318": 341.5,
+    "783": 6.3,
+    "2319": 207.2,
+    "4232": 16.4
+   }
+  }
+ },
+ "skin_rates": {
+  "<=10": {
+   "2318": {
+    "p": null,
+    "avgstack": null,
+    "per_skin": 0.85,
+    "n_skins_sample": 0,
+    "assumed": true
+   },
+   "783": {
+    "p": 0,
+    "avgstack": 1,
+    "per_skin": 0.0,
+    "n_skins_sample": 0,
+    "assumed": true
+   }
+  },
+  "11-15": {
+   "2318": {
+    "p": 0.5996496318397065,
+    "avgstack": 1.247284809456746,
+    "per_skin": 0.7479338767899962,
+    "n_skins_sample": 949858
+   },
+   "783": {
+    "p": 0.05093046402557645,
+    "avgstack": 1.0,
+    "per_skin": 0.05093046402557645,
+    "n_skins_sample": 795732
+   }
+  },
+  "16-20": {
+   "2318": {
+    "p": 0.686895233061132,
+    "avgstack": 1.5004201190796362,
+    "per_skin": 1.030631427384818,
+    "n_skins_sample": 741608
+   },
+   "783": {
+    "p": 0.05422054247615747,
+    "avgstack": 1.0,
+    "per_skin": 0.05422054247615747,
+    "n_skins_sample": 554052
+   }
+  },
+  "21-25": {
+   "2318": {
+    "p": 0.42041509644123487,
+    "avgstack": 1.5017333817146137,
+    "per_skin": 0.6313513845025711,
+    "n_skins_sample": 107734
+   },
+   "2319": {
+    "p": 0.502573161853919,
+    "avgstack": 1.0365340407705261,
+    "per_skin": 0.5209341902392622,
+    "n_skins_sample": 515125
+   },
+   "4232": {
+    "p": 0.050740575460070554,
+    "avgstack": 1.0,
+    "per_skin": 0.050740575460070554,
+    "n_skins_sample": 376464
+   }
+  },
+  "26-30": {
+   "2319": {
+    "p": 0.695258161021508,
+    "avgstack": 1.008531747069795,
+    "per_skin": 0.7011899277995542,
+    "n_skins_sample": 847688
+   },
+   "4232": {
+    "p": 0.04873733801250721,
+    "avgstack": 1.0,
+    "per_skin": 0.04873733801250721,
+    "n_skins_sample": 657381
+   }
+  },
+  "31+": {
+   "2319": {
+    "p": 0.4296827873704005,
+    "avgstack": 1.0,
+    "per_skin": 0.4296827873704005,
+    "n_skins_sample": 353107
+   },
+   "4232": {
+    "p": 0.040788775445225106,
+    "avgstack": 1.0,
+    "per_skin": 0.040788775445225106,
+    "n_skins_sample": 235555
+   }
+  }
+ },
+ "totemic_pieces_only_raw_all9": {
+  "Light Leather (2318)": 52,
+  "Light Hide (783)": 15,
+  "Salt (4289)": 26,
+  "Pristine Leather (249427)": 25,
+  "Coarse Thread (2320)": 1,
+  "Sulfuric Acid (249410)": 30,
+  "Fine Thread (2321)": 10,
+  "Medium Leather (2319)": 50,
+  "Medium Hide (4232)": 11
+ }
+}

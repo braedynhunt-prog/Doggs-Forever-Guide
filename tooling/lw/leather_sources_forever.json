@@ -1,0 +1,13834 @@
+{
+"783": {
+"item": "/forever/item=783/light-hide",
+"skinned-from": [
+{
+"id": 3632,
+"name": "Deviate Creeper",
+"min": 15,
+"max": 16,
+"loc": [
+17,
+-6
+],
+"family": 11,
+"cls": 1,
+"count": 1351,
+"outof": 19782,
+"fcount": 141,
+"foutof": 1923,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3636,
+"name": "Deviate Ravager",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 11,
+"cls": 1,
+"count": 1496,
+"outof": 22147,
+"fcount": 139,
+"foutof": 1630,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 8886,
+"name": "Deviate Python",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"cls": 0,
+"count": 937,
+"outof": 13701,
+"fcount": 124,
+"foutof": 1549,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3246,
+"name": "Fleeting Plainstrider",
+"min": 12,
+"max": 13,
+"loc": [
+17,
+-6
+],
+"family": 12,
+"cls": 0,
+"count": 1721,
+"outof": 34166,
+"fcount": 93,
+"foutof": 1418,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3853,
+"name": "Shadowfang Moonwalker",
+"min": 19,
+"max": 20,
+"loc": [
+209
+],
+"cls": 1,
+"count": 1061,
+"outof": 15837,
+"fcount": 75,
+"foutof": 893,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 5755,
+"name": "Deviate Viper",
+"min": 19,
+"max": 20,
+"loc": [
+718
+],
+"cls": 1,
+"count": 825,
+"outof": 11510,
+"fcount": 65,
+"foutof": 728,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 157,
+"name": "Goretusk",
+"min": 14,
+"max": 15,
+"loc": [
+40
+],
+"family": 5,
+"cls": 0,
+"count": 1635,
+"outof": 31444,
+"fcount": 64,
+"foutof": 957,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3637,
+"name": "Deviate Guardian",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 11,
+"cls": 1,
+"count": 1381,
+"outof": 20431,
+"fcount": 58,
+"foutof": 676,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3633,
+"name": "Deviate Slayer",
+"min": 16,
+"max": 17,
+"loc": [
+-6,
+17
+],
+"family": 11,
+"cls": 1,
+"count": 776,
+"outof": 11547,
+"fcount": 57,
+"foutof": 765,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3245,
+"name": "Ornery Plainstrider",
+"min": 16,
+"max": 17,
+"loc": [
+17
+],
+"family": 12,
+"cls": 0,
+"count": 1715,
+"outof": 33939,
+"fcount": 44,
+"foutof": 561,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3851,
+"name": "Shadowfang Whitescalp",
+"min": 18,
+"max": 19,
+"loc": [
+209
+],
+"cls": 1,
+"count": 19,
+"outof": 120,
+"fcount": 44,
+"foutof": 391,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1191,
+"name": "Mangy Mountain Boar",
+"min": 14,
+"max": 15,
+"loc": [
+38
+],
+"family": 5,
+"cls": 0,
+"count": 32,
+"outof": 398,
+"fcount": 32,
+"foutof": 398,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 454,
+"name": "Young Goretusk",
+"min": 12,
+"max": 13,
+"loc": [
+40
+],
+"family": 5,
+"cls": 0,
+"count": 3284,
+"outof": 65879,
+"fcount": 25,
+"foutof": 312,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3861,
+"name": "Bleak Worg",
+"min": 18,
+"max": 25,
+"loc": [
+209
+],
+"family": 1,
+"cls": 1,
+"count": 762,
+"outof": 10782,
+"fcount": 25,
+"foutof": 271,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3862,
+"name": "Slavering Worg",
+"min": 18,
+"max": 25,
+"loc": [
+209
+],
+"family": 1,
+"cls": 1,
+"count": 697,
+"outof": 10403,
+"fcount": 25,
+"foutof": 278,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3634,
+"name": "Deviate Stalker",
+"min": 15,
+"max": 17,
+"loc": [
+17,
+-6
+],
+"family": 11,
+"cls": 1,
+"count": 483,
+"outof": 6936,
+"fcount": 25,
+"foutof": 250,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3630,
+"name": "Deviate Coiler",
+"min": 15,
+"max": 16,
+"loc": [
+17,
+-6
+],
+"family": 27,
+"cls": 1,
+"count": 3,
+"outof": 11,
+"fcount": 25,
+"foutof": 308,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4129,
+"name": "Hecklefang Snarler",
+"min": 18,
+"max": 19,
+"loc": [
+17
+],
+"family": 25,
+"cls": 0,
+"count": 16,
+"outof": 172,
+"fcount": 23,
+"foutof": 233,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1388,
+"name": "Vagash",
+"min": 11,
+"max": 11,
+"loc": [
+1
+],
+"cls": 1,
+"count": 56,
+"outof": 496,
+"fcount": 17,
+"foutof": 126,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3641,
+"name": "Deviate Lurker",
+"min": 16,
+"max": 17,
+"loc": [
+-6
+],
+"cls": 1,
+"count": 10,
+"outof": 66,
+"fcount": 10,
+"foutof": 66,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1770,
+"name": "Moonrage Darkrunner",
+"min": 11,
+"max": 12,
+"loc": [
+130
+],
+"cls": 0,
+"count": 10,
+"outof": 95,
+"fcount": 10,
+"foutof": 95,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3865,
+"name": "Shadow Charger",
+"min": 20,
+"max": 21,
+"loc": [
+209
+],
+"cls": 1,
+"count": 6,
+"outof": 35,
+"fcount": 9,
+"foutof": 64,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3653,
+"name": "Kresh",
+"min": 20,
+"max": 20,
+"loc": [
+718
+],
+"family": 21,
+"cls": 1,
+"count": 3,
+"outof": 10,
+"fcount": 8,
+"foutof": 43,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 5762,
+"name": "Deviate Moccasin",
+"min": 20,
+"max": 21,
+"loc": [
+718
+],
+"cls": 1,
+"count": 237,
+"outof": 3111,
+"fcount": 7,
+"foutof": 55,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1961,
+"name": "Mangeclaw",
+"min": 11,
+"max": 11,
+"loc": [
+1
+],
+"family": 4,
+"cls": 0,
+"count": 65,
+"outof": 615,
+"fcount": 7,
+"foutof": 50,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1225,
+"name": "Ol' Sooty",
+"min": 20,
+"max": 20,
+"loc": [
+38
+],
+"family": 4,
+"cls": 1,
+"count": 4,
+"outof": 13,
+"fcount": 7,
+"foutof": 30,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3231,
+"name": "Corrupted Dreadmaw Crocolisk",
+"min": 11,
+"max": 12,
+"loc": [
+14,
+17
+],
+"family": 6,
+"cls": 0,
+"count": 5,
+"outof": 33,
+"fcount": 5,
+"foutof": 33,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4031,
+"name": "Fledgling Chimaera",
+"min": 25,
+"max": 27,
+"loc": [
+406
+],
+"cls": 0,
+"count": 5,
+"outof": 39,
+"fcount": 5,
+"foutof": 39,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3914,
+"name": "Rethilgore",
+"min": 20,
+"max": 20,
+"loc": [
+209
+],
+"cls": 1,
+"count": 2,
+"outof": 4,
+"fcount": 5,
+"foutof": 25,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3475,
+"name": "Echeyakee",
+"min": 16,
+"max": 16,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 4,
+"outof": 15,
+"fcount": 4,
+"foutof": 15,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4011,
+"name": "Young Pridewing",
+"min": 19,
+"max": 20,
+"loc": [
+406
+],
+"family": 27,
+"cls": 0,
+"count": 4,
+"outof": 27,
+"fcount": 4,
+"foutof": 27,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 6788,
+"name": "Den Mother",
+"min": 18,
+"max": 19,
+"loc": [
+148
+],
+"family": 4,
+"cls": 0,
+"count": 3,
+"outof": 15,
+"fcount": 3,
+"foutof": 15,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3473,
+"name": "Owatanka",
+"min": 24,
+"max": 24,
+"loc": [
+17
+],
+"cls": 0,
+"count": 3,
+"outof": 15,
+"fcount": 3,
+"foutof": 15,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3424,
+"name": "Thunderhawk Cloudscraper",
+"min": 20,
+"max": 22,
+"loc": [
+17
+],
+"family": 27,
+"cls": 0,
+"count": 3,
+"outof": 19,
+"fcount": 3,
+"foutof": 19,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3864,
+"name": "Fel Steed",
+"min": 19,
+"max": 20,
+"loc": [
+209
+],
+"cls": 1,
+"count": 167,
+"outof": 1910,
+"fcount": 2,
+"foutof": 6,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2172,
+"name": "Strider Clutchmother",
+"min": 20,
+"max": 20,
+"loc": [
+148
+],
+"family": 12,
+"cls": 4,
+"count": 2,
+"outof": 6,
+"fcount": 2,
+"foutof": 6,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3058,
+"name": "Arra'chea",
+"min": 11,
+"max": 11,
+"loc": [
+215
+],
+"cls": 0,
+"count": 2,
+"outof": 10,
+"fcount": 2,
+"foutof": 10,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3244,
+"name": "Greater Plainstrider",
+"min": 11,
+"max": 12,
+"loc": [
+17
+],
+"family": 12,
+"cls": 0,
+"count": 5213,
+"outof": 103604,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 547,
+"name": "Great Goretusk",
+"min": 16,
+"max": 17,
+"loc": [
+44,
+40
+],
+"family": 5,
+"cls": 0,
+"count": 4253,
+"outof": 86534,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3256,
+"name": "Sunscale Scytheclaw",
+"min": 16,
+"max": 18,
+"loc": [
+17
+],
+"family": 11,
+"cls": 0,
+"count": 3787,
+"outof": 74865,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 441,
+"name": "Black Dragon Whelp",
+"min": 17,
+"max": 18,
+"loc": [
+44
+],
+"cls": 0,
+"count": 3479,
+"outof": 68096,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1693,
+"name": "Loch Crocolisk",
+"min": 14,
+"max": 15,
+"loc": [
+38
+],
+"family": 6,
+"cls": 0,
+"count": 3124,
+"outof": 62405,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3242,
+"name": "Zhevra Runner",
+"min": 13,
+"max": 14,
+"loc": [
+17
+],
+"cls": 0,
+"count": 2965,
+"outof": 58340,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2164,
+"name": "Rabid Thistle Bear",
+"min": 13,
+"max": 14,
+"loc": [
+148
+],
+"cls": 0,
+"count": 2808,
+"outof": 56823,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 213,
+"name": "Starving Dire Wolf",
+"min": 19,
+"max": 20,
+"loc": [
+10,
+12
+],
+"family": 1,
+"cls": 0,
+"count": 2608,
+"outof": 51951,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3255,
+"name": "Sunscale Screecher",
+"min": 13,
+"max": 15,
+"loc": [
+17
+],
+"family": 11,
+"cls": 0,
+"count": 2458,
+"outof": 49716,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 565,
+"name": "Rabid Dire Wolf",
+"min": 20,
+"max": 21,
+"loc": [
+10,
+12
+],
+"family": 1,
+"cls": 0,
+"count": 2407,
+"outof": 46598,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3425,
+"name": "Savannah Prowler",
+"min": 14,
+"max": 15,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 1953,
+"outof": 40084,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2069,
+"name": "Moonstalker",
+"min": 14,
+"max": 15,
+"loc": [
+148
+],
+"family": 2,
+"cls": 0,
+"count": 1842,
+"outof": 35201,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2163,
+"name": "Thistle Bear",
+"min": 11,
+"max": 12,
+"loc": [
+148,
+-6
+],
+"family": 4,
+"cls": 0,
+"count": 1792,
+"outof": 36499,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3415,
+"name": "Savannah Huntress",
+"min": 11,
+"max": 12,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 1726,
+"outof": 35885,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3239,
+"name": "Thunderhead",
+"min": 20,
+"max": 21,
+"loc": [
+17
+],
+"cls": 0,
+"count": 1626,
+"outof": 32402,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1186,
+"name": "Elder Black Bear",
+"min": 11,
+"max": 12,
+"loc": [
+38
+],
+"family": 4,
+"cls": 0,
+"count": 1547,
+"outof": 29884,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3461,
+"name": "Oasis Snapjaw",
+"min": 15,
+"max": 16,
+"loc": [
+17
+],
+"family": 21,
+"cls": 0,
+"count": 1454,
+"outof": 30162,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2321,
+"name": "Foreststrider Fledgling",
+"min": 11,
+"max": 13,
+"loc": [
+148
+],
+"family": 12,
+"cls": 0,
+"count": 1400,
+"outof": 26128,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1779,
+"name": "Moonrage Glutton",
+"min": 12,
+"max": 13,
+"loc": [
+130
+],
+"cls": 0,
+"count": 1290,
+"outof": 23878,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1766,
+"name": "Mottled Worg",
+"min": 11,
+"max": 12,
+"loc": [
+130
+],
+"family": 1,
+"cls": 0,
+"count": 1252,
+"outof": 23911,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4127,
+"name": "Hecklefang Hyena",
+"min": 15,
+"max": 16,
+"loc": [
+17
+],
+"family": 25,
+"cls": 0,
+"count": 1229,
+"outof": 25005,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2165,
+"name": "Grizzled Thistle Bear",
+"min": 16,
+"max": 17,
+"loc": [
+148
+],
+"family": 4,
+"cls": 0,
+"count": 1000,
+"outof": 20872,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2237,
+"name": "Moonstalker Sire",
+"min": 17,
+"max": 18,
+"loc": [
+148
+],
+"family": 2,
+"cls": 0,
+"count": 827,
+"outof": 17416,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+}
+],
+"dropped-by": [
+{
+"id": 3636,
+"name": "Deviate Ravager",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 11,
+"cls": 1,
+"count": 119,
+"outof": 70473,
+"fcount": 14,
+"foutof": 8978,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3637,
+"name": "Deviate Guardian",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 11,
+"cls": 1,
+"count": 120,
+"outof": 62470,
+"fcount": 12,
+"foutof": 3534,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3861,
+"name": "Bleak Worg",
+"min": 18,
+"max": 25,
+"loc": [
+209
+],
+"family": 1,
+"cls": 1,
+"count": 67,
+"outof": 65099,
+"fcount": 10,
+"foutof": 6986,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4514,
+"name": "Raging Agam'ar",
+"min": 25,
+"max": 26,
+"loc": [
+491
+],
+"family": 5,
+"cls": 1,
+"count": 45,
+"outof": 31006,
+"fcount": 10,
+"foutof": 3455,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 8886,
+"name": "Deviate Python",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"cls": 0,
+"count": 88,
+"outof": 38110,
+"fcount": 8,
+"foutof": 5087,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5755,
+"name": "Deviate Viper",
+"min": 19,
+"max": 20,
+"loc": [
+718
+],
+"cls": 1,
+"count": 58,
+"outof": 42082,
+"fcount": 8,
+"foutof": 4119,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5053,
+"name": "Deviate Crocolisk",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 6,
+"cls": 0,
+"count": 69,
+"outof": 57677,
+"fcount": 6,
+"foutof": 3560,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5048,
+"name": "Deviate Adder",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"cls": 1,
+"count": 47,
+"outof": 33481,
+"fcount": 6,
+"foutof": 2086,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1766,
+"name": "Mottled Worg",
+"min": 11,
+"max": 12,
+"loc": [
+130
+],
+"family": 1,
+"cls": 0,
+"count": 46,
+"outof": 78102,
+"fcount": 6,
+"foutof": 6944,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3859,
+"name": "Shadowfang Ragetooth",
+"min": 23,
+"max": 24,
+"loc": [
+209
+],
+"cls": 1,
+"count": 23,
+"outof": 29030,
+"fcount": 6,
+"foutof": 1198,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3425,
+"name": "Savannah Prowler",
+"min": 14,
+"max": 15,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 104,
+"outof": 109914,
+"fcount": 5,
+"foutof": 9830,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3244,
+"name": "Greater Plainstrider",
+"min": 11,
+"max": 12,
+"loc": [
+17
+],
+"family": 12,
+"cls": 0,
+"count": 176,
+"outof": 213383,
+"fcount": 4,
+"foutof": 3090,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3461,
+"name": "Oasis Snapjaw",
+"min": 15,
+"max": 16,
+"loc": [
+17
+],
+"family": 21,
+"cls": 0,
+"count": 101,
+"outof": 92976,
+"fcount": 4,
+"foutof": 1502,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2164,
+"name": "Rabid Thistle Bear",
+"min": 13,
+"max": 14,
+"loc": [
+148
+],
+"cls": 0,
+"count": 68,
+"outof": 124988,
+"fcount": 4,
+"foutof": 11158,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3632,
+"name": "Deviate Creeper",
+"min": 15,
+"max": 16,
+"loc": [
+17,
+-6
+],
+"family": 11,
+"cls": 1,
+"count": 64,
+"outof": 44620,
+"fcount": 4,
+"foutof": 2691,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 157,
+"name": "Goretusk",
+"min": 14,
+"max": 15,
+"loc": [
+40
+],
+"family": 5,
+"cls": 0,
+"count": 50,
+"outof": 88298,
+"fcount": 4,
+"foutof": 5231,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5056,
+"name": "Deviate Dreadfang",
+"min": 20,
+"max": 21,
+"loc": [
+718
+],
+"family": 27,
+"cls": 1,
+"count": 49,
+"outof": 35907,
+"fcount": 4,
+"foutof": 2413,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3634,
+"name": "Deviate Stalker",
+"min": 15,
+"max": 17,
+"loc": [
+17,
+-6
+],
+"family": 11,
+"cls": 1,
+"count": 40,
+"outof": 15809,
+"fcount": 4,
+"foutof": 503,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2529,
+"name": "Son of Arugal",
+"min": 24,
+"max": 25,
+"loc": [
+209
+],
+"cls": 1,
+"count": 33,
+"outof": 27080,
+"fcount": 4,
+"foutof": 1434,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3255,
+"name": "Sunscale Screecher",
+"min": 13,
+"max": 15,
+"loc": [
+17
+],
+"family": 11,
+"cls": 0,
+"count": 114,
+"outof": 122085,
+"fcount": 3,
+"foutof": 5193,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 547,
+"name": "Great Goretusk",
+"min": 16,
+"max": 17,
+"loc": [
+44,
+40
+],
+"family": 5,
+"cls": 0,
+"count": 110,
+"outof": 173117,
+"fcount": 3,
+"foutof": 9261,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 454,
+"name": "Young Goretusk",
+"min": 12,
+"max": 13,
+"loc": [
+40
+],
+"family": 5,
+"cls": 0,
+"count": 87,
+"outof": 183176,
+"fcount": 3,
+"foutof": 8942,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3256,
+"name": "Sunscale Scytheclaw",
+"min": 16,
+"max": 18,
+"loc": [
+17
+],
+"family": 11,
+"cls": 0,
+"count": 299,
+"outof": 168822,
+"fcount": 2,
+"foutof": 7291,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3246,
+"name": "Fleeting Plainstrider",
+"min": 12,
+"max": 13,
+"loc": [
+17,
+-6
+],
+"family": 12,
+"cls": 0,
+"count": 98,
+"outof": 86479,
+"fcount": 2,
+"foutof": 7185,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2069,
+"name": "Moonstalker",
+"min": 14,
+"max": 15,
+"loc": [
+148
+],
+"family": 2,
+"cls": 0,
+"count": 86,
+"outof": 70857,
+"fcount": 2,
+"foutof": 1981,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 441,
+"name": "Black Dragon Whelp",
+"min": 17,
+"max": 18,
+"loc": [
+44
+],
+"cls": 0,
+"count": 84,
+"outof": 85305,
+"fcount": 2,
+"foutof": 4848,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3633,
+"name": "Deviate Slayer",
+"min": 16,
+"max": 17,
+"loc": [
+-6,
+17
+],
+"family": 11,
+"cls": 1,
+"count": 66,
+"outof": 32371,
+"fcount": 2,
+"foutof": 1230,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3853,
+"name": "Shadowfang Moonwalker",
+"min": 19,
+"max": 20,
+"loc": [
+209
+],
+"cls": 1,
+"count": 54,
+"outof": 59457,
+"fcount": 2,
+"foutof": 3300,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2185,
+"name": "Darkshore Thresher",
+"min": 12,
+"max": 14,
+"loc": [
+148
+],
+"cls": 0,
+"count": 40,
+"outof": 46947,
+"fcount": 2,
+"foutof": 2179,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3851,
+"name": "Shadowfang Whitescalp",
+"min": 18,
+"max": 19,
+"loc": [
+209
+],
+"cls": 1,
+"count": 38,
+"outof": 32220,
+"fcount": 2,
+"foutof": 1634,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2237,
+"name": "Moonstalker Sire",
+"min": 17,
+"max": 18,
+"loc": [
+148
+],
+"family": 2,
+"cls": 0,
+"count": 31,
+"outof": 37708,
+"fcount": 2,
+"foutof": 2758,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5762,
+"name": "Deviate Moccasin",
+"min": 20,
+"max": 21,
+"loc": [
+718
+],
+"cls": 1,
+"count": 31,
+"outof": 10750,
+"fcount": 2,
+"foutof": 582,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3857,
+"name": "Shadowfang Glutton",
+"min": 21,
+"max": 22,
+"loc": [
+209
+],
+"cls": 1,
+"count": 15,
+"outof": 16916,
+"fcount": 2,
+"foutof": 829,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5058,
+"name": "Wolfguard Worg",
+"min": 20,
+"max": 21,
+"loc": [
+209
+],
+"cls": 0,
+"count": 14,
+"outof": 118,
+"fcount": 2,
+"foutof": 5,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1020,
+"name": "Mottled Raptor",
+"min": 22,
+"max": 23,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 12,
+"outof": 74298,
+"fcount": 2,
+"foutof": 2412,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1022,
+"name": "Mottled Scytheclaw",
+"min": 25,
+"max": 26,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 11,
+"outof": 65940,
+"fcount": 2,
+"foutof": 2622,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2354,
+"name": "Vicious Gray Bear",
+"min": 22,
+"max": 23,
+"loc": [
+267
+],
+"family": 4,
+"cls": 0,
+"count": 9,
+"outof": 89030,
+"fcount": 2,
+"foutof": 4521,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3886,
+"name": "Razorclaw the Butcher",
+"min": 22,
+"max": 22,
+"loc": [
+209
+],
+"cls": 1,
+"count": 5,
+"outof": 17169,
+"fcount": 2,
+"foutof": 459,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 6788,
+"name": "Den Mother",
+"min": 18,
+"max": 19,
+"loc": [
+148
+],
+"family": 4,
+"cls": 0,
+"count": 5,
+"outof": 3615,
+"fcount": 2,
+"foutof": 81,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4014,
+"name": "Pridewing Consort",
+"min": 22,
+"max": 23,
+"loc": [
+406
+],
+"cls": 0,
+"count": 3,
+"outof": 17456,
+"fcount": 2,
+"foutof": 989,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4279,
+"name": "Odo the Blindwatcher",
+"min": 24,
+"max": 24,
+"loc": [
+209
+],
+"cls": 1,
+"count": 3,
+"outof": 15749,
+"fcount": 2,
+"foutof": 573,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4887,
+"name": "Ghamoo-ra",
+"min": 25,
+"max": 25,
+"loc": [
+719
+],
+"family": 21,
+"cls": 1,
+"count": 2,
+"outof": 6927,
+"fcount": 2,
+"foutof": 336,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1042,
+"name": "Red Whelp",
+"min": 23,
+"max": 24,
+"loc": [
+11
+],
+"cls": 0,
+"count": 1,
+"outof": 53,
+"fcount": 2,
+"foutof": 144,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3242,
+"name": "Zhevra Runner",
+"min": 13,
+"max": 14,
+"loc": [
+17
+],
+"cls": 0,
+"count": 199,
+"outof": 116578,
+"fcount": 1,
+"foutof": 1672,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1693,
+"name": "Loch Crocolisk",
+"min": 14,
+"max": 15,
+"loc": [
+38
+],
+"family": 6,
+"cls": 0,
+"count": 103,
+"outof": 119590,
+"fcount": 1,
+"foutof": 4360,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3415,
+"name": "Savannah Huntress",
+"min": 11,
+"max": 12,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 82,
+"outof": 59041,
+"fcount": 1,
+"foutof": 2668,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4127,
+"name": "Hecklefang Hyena",
+"min": 15,
+"max": 16,
+"loc": [
+17
+],
+"family": 25,
+"cls": 0,
+"count": 70,
+"outof": 52464,
+"fcount": 1,
+"foutof": 1933,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3245,
+"name": "Ornery Plainstrider",
+"min": 16,
+"max": 17,
+"loc": [
+17
+],
+"family": 12,
+"cls": 0,
+"count": 66,
+"outof": 94400,
+"fcount": 1,
+"foutof": 1113,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2321,
+"name": "Foreststrider Fledgling",
+"min": 11,
+"max": 13,
+"loc": [
+148
+],
+"family": 12,
+"cls": 0,
+"count": 49,
+"outof": 56055,
+"fcount": 1,
+"foutof": 1157,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1779,
+"name": "Moonrage Glutton",
+"min": 12,
+"max": 13,
+"loc": [
+130
+],
+"cls": 0,
+"count": 46,
+"outof": 46574,
+"fcount": 1,
+"foutof": 1897,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1797,
+"name": "Giant Grizzled Bear",
+"min": 12,
+"max": 13,
+"loc": [
+130
+],
+"family": 4,
+"cls": 0,
+"count": 46,
+"outof": 48127,
+"fcount": 1,
+"foutof": 720,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3239,
+"name": "Thunderhead",
+"min": 20,
+"max": 21,
+"loc": [
+17
+],
+"cls": 0,
+"count": 45,
+"outof": 58996,
+"fcount": 1,
+"foutof": 705,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3254,
+"name": "Sunscale Lashtail",
+"min": 11,
+"max": 13,
+"loc": [
+17
+],
+"family": 11,
+"cls": 0,
+"count": 26,
+"outof": 36647,
+"fcount": 1,
+"foutof": 465,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3809,
+"name": "Ashenvale Bear",
+"min": 21,
+"max": 22,
+"loc": [
+331,
+406
+],
+"family": 4,
+"cls": 0,
+"count": 26,
+"outof": 43643,
+"fcount": 1,
+"foutof": 1432,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3631,
+"name": "Deviate Stinglash",
+"min": 16,
+"max": 17,
+"loc": [
+-6,
+17
+],
+"family": 27,
+"cls": 1,
+"count": 20,
+"outof": 17187,
+"fcount": 1,
+"foutof": 458,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2165,
+"name": "Grizzled Thistle Bear",
+"min": 16,
+"max": 17,
+"loc": [
+148
+],
+"family": 4,
+"cls": 0,
+"count": 18,
+"outof": 48859,
+"fcount": 1,
+"foutof": 1820,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 833,
+"name": "Coyote Packleader",
+"min": 11,
+"max": 12,
+"loc": [
+40
+],
+"family": 1,
+"cls": 0,
+"count": 16,
+"outof": 14937,
+"fcount": 1,
+"foutof": 409,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2384,
+"name": "Starving Mountain Lion",
+"min": 23,
+"max": 24,
+"loc": [
+267,
+36
+],
+"family": 2,
+"cls": 0,
+"count": 14,
+"outof": 133728,
+"fcount": 1,
+"foutof": 1785,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3248,
+"name": "Barrens Giraffe",
+"min": 15,
+"max": 16,
+"loc": [
+17
+],
+"cls": 0,
+"count": 12,
+"outof": 5750,
+"fcount": 1,
+"foutof": 218,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2323,
+"name": "Giant Foreststrider",
+"min": 17,
+"max": 19,
+"loc": [
+148
+],
+"family": 12,
+"cls": 0,
+"count": 10,
+"outof": 17958,
+"fcount": 1,
+"foutof": 622,
+"pctstack": null,
+"status": "unchanged"
+}
+],
+"contained-in-object": [
+{
+"id": 75295,
+"name": "Large Iron Bound Chest",
+"loc": [
+-1,
+-6,
+719,
+-1
+],
+"count": 1,
+"outof": 108,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged",
+"skill": 1
+},
+{
+"id": 4096,
+"name": "Alliance Chest",
+"loc": [
+267
+],
+"count": 1,
+"outof": 220,
+"fcount": 5,
+"foutof": 183,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3715,
+"name": "Alliance Chest",
+"loc": [
+267,
+130,
+406,
+-1
+],
+"count": 1,
+"outof": 21,
+"fcount": 11,
+"foutof": 423,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 74448,
+"name": "Large Solid Chest",
+"loc": [
+-1,
+721,
+491
+],
+"count": 1,
+"outof": 6,
+"fcount": 10,
+"foutof": 208,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 75293,
+"name": "Large Battered Chest",
+"loc": [
+-1,
+-3,
+-6,
+-1
+],
+"count": 1,
+"outof": 20,
+"fcount": 100,
+"foutof": 1783,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 75298,
+"name": "Large Solid Chest",
+"loc": [
+-1,
+-3,
+2597,
+-1
+],
+"count": 1,
+"outof": 46,
+"fcount": 46,
+"foutof": 1908,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 111095,
+"name": "Alliance Chest",
+"loc": [
+130,
+17
+],
+"count": 1,
+"outof": 2,
+"fcount": 8,
+"foutof": 162,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3714,
+"name": "Alliance Strongbox",
+"loc": [
+17
+],
+"count": 2,
+"outof": 44,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged",
+"skill": 1
+},
+{
+"id": 2849,
+"name": "Battered Chest",
+"loc": [
+44,
+148,
+406,
+-1
+],
+"count": 2,
+"outof": 42,
+"fcount": 202,
+"foutof": 6371,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2850,
+"name": "Solid Chest",
+"loc": [
+44,
+11,
+10,
+-1
+],
+"count": 2,
+"outof": 85,
+"fcount": 112,
+"foutof": 6156,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 106319,
+"name": "Battered Chest",
+"loc": [
+40,
+38,
+17,
+-1
+],
+"count": 2,
+"outof": 65,
+"fcount": 319,
+"foutof": 10212,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2852,
+"name": "Solid Chest",
+"loc": [
+10,
+331,
+400,
+-1
+],
+"count": 5,
+"outof": 241,
+"fcount": 85,
+"foutof": 4788,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 74447,
+"name": "Large Iron Bound Chest",
+"loc": [
+-1,
+721,
+491
+],
+"count": 11,
+"outof": 352,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "updated",
+"skill": 1
+}
+]
+},
+"2318": {
+"item": "/forever/item=2318/light-leather",
+"skinned-from": [
+{
+"id": 547,
+"name": "Great Goretusk",
+"min": 16,
+"max": 17,
+"loc": [
+44,
+40
+],
+"family": 5,
+"cls": 0,
+"count": 63258,
+"outof": 86534,
+"fcount": 4512,
+"foutof": 6213,
+"pctstack": "{1: 50.1881,2: 49.8119}",
+"status": "unchanged"
+},
+{
+"id": 3256,
+"name": "Sunscale Scytheclaw",
+"min": 16,
+"max": 18,
+"loc": [
+17
+],
+"family": 11,
+"cls": 0,
+"count": 54396,
+"outof": 74865,
+"fcount": 5784,
+"foutof": 7956,
+"pctstack": "{1: 49.7831,2: 50.2169}",
+"status": "unchanged"
+},
+{
+"id": 213,
+"name": "Starving Dire Wolf",
+"min": 19,
+"max": 20,
+"loc": [
+10,
+12
+],
+"family": 1,
+"cls": 0,
+"count": 37880,
+"outof": 51951,
+"fcount": 2635,
+"foutof": 3547,
+"pctstack": "{1: 49.5908,2: 50.4092}",
+"status": "unchanged"
+},
+{
+"id": 565,
+"name": "Rabid Dire Wolf",
+"min": 20,
+"max": 21,
+"loc": [
+10,
+12
+],
+"family": 1,
+"cls": 0,
+"count": 33689,
+"outof": 46598,
+"fcount": 2115,
+"foutof": 2900,
+"pctstack": "{1: 50.2983,2: 49.7017}",
+"status": "unchanged"
+},
+{
+"id": 3245,
+"name": "Ornery Plainstrider",
+"min": 16,
+"max": 17,
+"loc": [
+17
+],
+"family": 12,
+"cls": 0,
+"count": 24718,
+"outof": 33939,
+"fcount": 1557,
+"foutof": 2184,
+"pctstack": "{1: 50.3317,2: 49.6683}",
+"status": "unchanged"
+},
+{
+"id": 3239,
+"name": "Thunderhead",
+"min": 20,
+"max": 21,
+"loc": [
+17
+],
+"cls": 0,
+"count": 23621,
+"outof": 32402,
+"fcount": 1941,
+"foutof": 2662,
+"pctstack": "{1: 50.2773,2: 49.7227}",
+"status": "unchanged"
+},
+{
+"id": 2165,
+"name": "Grizzled Thistle Bear",
+"min": 16,
+"max": 17,
+"loc": [
+148
+],
+"family": 4,
+"cls": 0,
+"count": 15268,
+"outof": 20872,
+"fcount": 550,
+"foutof": 748,
+"pctstack": "{1: 49.5284,2: 50.4716}",
+"status": "unchanged"
+},
+{
+"id": 3240,
+"name": "Stormsnout",
+"min": 18,
+"max": 19,
+"loc": [
+17
+],
+"cls": 0,
+"count": 15035,
+"outof": 20545,
+"fcount": 582,
+"foutof": 790,
+"pctstack": "{1: 50.409,2: 49.591}",
+"status": "unchanged"
+},
+{
+"id": 2237,
+"name": "Moonstalker Sire",
+"min": 17,
+"max": 18,
+"loc": [
+148
+],
+"family": 2,
+"cls": 0,
+"count": 12773,
+"outof": 17416,
+"fcount": 476,
+"foutof": 611,
+"pctstack": "{1: 48.9392,2: 51.0608}",
+"status": "unchanged"
+},
+{
+"id": 441,
+"name": "Black Dragon Whelp",
+"min": 17,
+"max": 18,
+"loc": [
+44
+],
+"cls": 0,
+"count": 42878,
+"outof": 68096,
+"fcount": 2663,
+"foutof": 4234,
+"pctstack": "{1: 50.0886,2: 49.9114}",
+"status": "unchanged"
+},
+{
+"id": 5053,
+"name": "Deviate Crocolisk",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 6,
+"cls": 0,
+"count": 10260,
+"outof": 14112,
+"fcount": 749,
+"foutof": 1011,
+"pctstack": "{1: 50.5693,2: 49.4307}",
+"status": "unchanged"
+},
+{
+"id": 3244,
+"name": "Greater Plainstrider",
+"min": 11,
+"max": 12,
+"loc": [
+17
+],
+"family": 12,
+"cls": 0,
+"count": 62164,
+"outof": 103604,
+"fcount": 4965,
+"foutof": 8284,
+"pctstack": "{1: 74.7217,2: 25.2783}",
+"status": "unchanged"
+},
+{
+"id": 3823,
+"name": "Ghostpaw Runner",
+"min": 19,
+"max": 20,
+"loc": [
+331,
+17
+],
+"family": 1,
+"cls": 0,
+"count": 8293,
+"outof": 11361,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 51.4169,2: 48.5831}",
+"status": "unchanged"
+},
+{
+"id": 1192,
+"name": "Elder Mountain Boar",
+"min": 16,
+"max": 17,
+"loc": [
+38
+],
+"family": 5,
+"cls": 0,
+"count": 8410,
+"outof": 11548,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.4649,2: 50.5351}",
+"status": "unchanged"
+},
+{
+"id": 1189,
+"name": "Black Bear Patriarch",
+"min": 16,
+"max": 17,
+"loc": [
+38
+],
+"family": 4,
+"cls": 0,
+"count": 7449,
+"outof": 10311,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50.2752,2: 49.7248}",
+"status": "unchanged"
+},
+{
+"id": 454,
+"name": "Young Goretusk",
+"min": 12,
+"max": 13,
+"loc": [
+40
+],
+"family": 5,
+"cls": 0,
+"count": 39627,
+"outof": 65879,
+"fcount": 1482,
+"foutof": 2507,
+"pctstack": "{1: 74.4997,2: 25.5003}",
+"status": "unchanged"
+},
+{
+"id": 1693,
+"name": "Loch Crocolisk",
+"min": 14,
+"max": 15,
+"loc": [
+38
+],
+"family": 6,
+"cls": 0,
+"count": 37570,
+"outof": 62405,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 75.201,2: 24.799}",
+"status": "unchanged"
+},
+{
+"id": 3242,
+"name": "Zhevra Runner",
+"min": 13,
+"max": 14,
+"loc": [
+17
+],
+"cls": 0,
+"count": 34941,
+"outof": 58340,
+"fcount": 1435,
+"foutof": 2355,
+"pctstack": "{1: 74.3482,2: 25.6518}",
+"status": "unchanged"
+},
+{
+"id": 2164,
+"name": "Rabid Thistle Bear",
+"min": 13,
+"max": 14,
+"loc": [
+148
+],
+"cls": 0,
+"count": 34088,
+"outof": 56823,
+"fcount": 1034,
+"foutof": 1666,
+"pctstack": "{1: 75.2141,2: 24.7858}",
+"status": "unchanged"
+},
+{
+"id": 3426,
+"name": "Zhevra Charger",
+"min": 17,
+"max": 18,
+"loc": [
+17
+],
+"cls": 0,
+"count": 5783,
+"outof": 7910,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50.6139,2: 49.3861}",
+"status": "unchanged"
+},
+{
+"id": 3816,
+"name": "Wild Buck",
+"min": 18,
+"max": 19,
+"loc": [
+331
+],
+"cls": 0,
+"count": 5575,
+"outof": 7595,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.8834,2: 50.1166}",
+"status": "unchanged"
+},
+{
+"id": 3466,
+"name": "Zhevra Courser",
+"min": 20,
+"max": 21,
+"loc": [
+17
+],
+"cls": 0,
+"count": 5876,
+"outof": 8094,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 51.3274,2: 48.6726}",
+"status": "unchanged"
+},
+{
+"id": 4129,
+"name": "Hecklefang Snarler",
+"min": 18,
+"max": 19,
+"loc": [
+17
+],
+"family": 25,
+"cls": 0,
+"count": 4919,
+"outof": 6650,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.38,2: 50.62}",
+"status": "unchanged"
+},
+{
+"id": 3255,
+"name": "Sunscale Screecher",
+"min": 13,
+"max": 15,
+"loc": [
+17
+],
+"family": 11,
+"cls": 0,
+"count": 29896,
+"outof": 49716,
+"fcount": 1187,
+"foutof": 1909,
+"pctstack": "{1: 74.9699,2: 25.0301}",
+"status": "unchanged"
+},
+{
+"id": 3425,
+"name": "Savannah Prowler",
+"min": 14,
+"max": 15,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 24252,
+"outof": 40084,
+"fcount": 1183,
+"foutof": 1959,
+"pctstack": "{1: 75.334,2: 24.666}",
+"status": "unchanged"
+},
+{
+"id": 3853,
+"name": "Shadowfang Moonwalker",
+"min": 19,
+"max": 20,
+"loc": [
+209
+],
+"cls": 1,
+"count": 10389,
+"outof": 15837,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.644,2: 50.356}",
+"status": "unchanged"
+},
+{
+"id": 2323,
+"name": "Giant Foreststrider",
+"min": 17,
+"max": 19,
+"loc": [
+148
+],
+"family": 12,
+"cls": 0,
+"count": 4650,
+"outof": 6444,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50.7742,2: 49.2258}",
+"status": "unchanged"
+},
+{
+"id": 3415,
+"name": "Savannah Huntress",
+"min": 11,
+"max": 12,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 21604,
+"outof": 35885,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 74.9815,2: 25.0185}",
+"status": "unchanged"
+},
+{
+"id": 3246,
+"name": "Fleeting Plainstrider",
+"min": 12,
+"max": 13,
+"loc": [
+17,
+-6
+],
+"family": 12,
+"cls": 0,
+"count": 20636,
+"outof": 34166,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 74.8982,2: 25.1018}",
+"status": "unchanged"
+},
+{
+"id": 2163,
+"name": "Thistle Bear",
+"min": 11,
+"max": 12,
+"loc": [
+148,
+-6
+],
+"family": 4,
+"cls": 0,
+"count": 21793,
+"outof": 36499,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 76.0978,2: 23.9022}",
+"status": "unchanged"
+},
+{
+"id": 2071,
+"name": "Moonstalker Matriarch",
+"min": 19,
+"max": 20,
+"loc": [
+148
+],
+"family": 2,
+"cls": 0,
+"count": 4266,
+"outof": 5913,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 52.0863,2: 47.9137}",
+"status": "unchanged"
+},
+{
+"id": 2069,
+"name": "Moonstalker",
+"min": 14,
+"max": 15,
+"loc": [
+148
+],
+"family": 2,
+"cls": 0,
+"count": 21050,
+"outof": 35201,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 74.6461,2: 25.3539}",
+"status": "unchanged"
+},
+{
+"id": 157,
+"name": "Goretusk",
+"min": 14,
+"max": 15,
+"loc": [
+40
+],
+"family": 5,
+"cls": 0,
+"count": 18919,
+"outof": 31444,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 75.1044,2: 24.8956}",
+"status": "unchanged"
+},
+{
+"id": 3461,
+"name": "Oasis Snapjaw",
+"min": 15,
+"max": 16,
+"loc": [
+17
+],
+"family": 21,
+"cls": 0,
+"count": 18192,
+"outof": 30162,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 75.077,2: 24.923}",
+"status": "unchanged"
+},
+{
+"id": 1186,
+"name": "Elder Black Bear",
+"min": 11,
+"max": 12,
+"loc": [
+38
+],
+"family": 4,
+"cls": 0,
+"count": 17786,
+"outof": 29884,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 75.0647,2: 24.9353}",
+"status": "unchanged"
+},
+{
+"id": 3424,
+"name": "Thunderhawk Cloudscraper",
+"min": 20,
+"max": 22,
+"loc": [
+17
+],
+"family": 27,
+"cls": 0,
+"count": 2757,
+"outof": 3699,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.6917,2: 50.3083}",
+"status": "unchanged"
+},
+{
+"id": 2321,
+"name": "Foreststrider Fledgling",
+"min": 11,
+"max": 13,
+"loc": [
+148
+],
+"family": 12,
+"cls": 0,
+"count": 15669,
+"outof": 26128,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 74.4719,2: 25.5281}",
+"status": "unchanged"
+},
+{
+"id": 4127,
+"name": "Hecklefang Hyena",
+"min": 15,
+"max": 16,
+"loc": [
+17
+],
+"family": 25,
+"cls": 0,
+"count": 15019,
+"outof": 25005,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 74.8319,2: 25.1681}",
+"status": "unchanged"
+},
+{
+"id": 1779,
+"name": "Moonrage Glutton",
+"min": 12,
+"max": 13,
+"loc": [
+130
+],
+"cls": 0,
+"count": 14407,
+"outof": 23878,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4009,
+"name": "Raging Cliff Stormer",
+"min": 18,
+"max": 19,
+"loc": [
+406
+],
+"cls": 0,
+"count": 3073,
+"outof": 4237,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50.2115,2: 49.7885}",
+"status": "unchanged"
+},
+{
+"id": 3861,
+"name": "Bleak Worg",
+"min": 18,
+"max": 25,
+"loc": [
+209
+],
+"family": 1,
+"cls": 1,
+"count": 7019,
+"outof": 10782,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 48.6943,2: 51.3057}",
+"status": "unchanged"
+},
+{
+"id": 1766,
+"name": "Mottled Worg",
+"min": 11,
+"max": 12,
+"loc": [
+130
+],
+"family": 1,
+"cls": 0,
+"count": 14324,
+"outof": 23911,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 74.609,2: 25.391}",
+"status": "unchanged"
+},
+{
+"id": 3416,
+"name": "Savannah Matriarch",
+"min": 17,
+"max": 18,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 2671,
+"outof": 3636,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 51.0296,2: 48.9704}",
+"status": "unchanged"
+},
+{
+"id": 3247,
+"name": "Thunderhawk Hatchling",
+"min": 18,
+"max": 20,
+"loc": [
+17
+],
+"family": 27,
+"cls": 0,
+"count": 2404,
+"outof": 3243,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.2928,2: 50.7072}",
+"status": "unchanged"
+},
+{
+"id": 3862,
+"name": "Slavering Worg",
+"min": 18,
+"max": 25,
+"loc": [
+209
+],
+"family": 1,
+"cls": 1,
+"count": 6735,
+"outof": 10403,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 48.6105,2: 51.3895}",
+"status": "unchanged"
+},
+{
+"id": 3463,
+"name": "Wandering Barrens Giraffe",
+"min": 18,
+"max": 19,
+"loc": [
+17
+],
+"cls": 0,
+"count": 2848,
+"outof": 3938,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 51.861,2: 48.139}",
+"status": "unchanged"
+},
+{
+"id": 3851,
+"name": "Shadowfang Whitescalp",
+"min": 18,
+"max": 19,
+"loc": [
+209
+],
+"cls": 1,
+"count": 6029,
+"outof": 9216,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.6162,2: 50.3838}",
+"status": "unchanged"
+},
+{
+"id": 3855,
+"name": "Shadowfang Darksoul",
+"min": 20,
+"max": 21,
+"loc": [
+209
+],
+"cls": 1,
+"count": 6018,
+"outof": 9210,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.4815,2: 50.5185}",
+"status": "unchanged"
+},
+{
+"id": 1778,
+"name": "Ferocious Grizzled Bear",
+"min": 11,
+"max": 12,
+"loc": [
+130
+],
+"family": 4,
+"cls": 0,
+"count": 9469,
+"outof": 15497,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 74.4218,2: 25.5782}",
+"status": "unchanged"
+},
+{
+"id": 1191,
+"name": "Mangy Mountain Boar",
+"min": 14,
+"max": 15,
+"loc": [
+38
+],
+"family": 5,
+"cls": 0,
+"count": 9478,
+"outof": 15525,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 73.8341,2: 26.1659}",
+"status": "unchanged"
+},
+{
+"id": 1797,
+"name": "Giant Grizzled Bear",
+"min": 12,
+"max": 13,
+"loc": [
+130
+],
+"family": 4,
+"cls": 0,
+"count": 9855,
+"outof": 16437,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 74.2161,2: 25.7839}",
+"status": "unchanged"
+},
+{
+"id": 2185,
+"name": "Darkshore Thresher",
+"min": 12,
+"max": 14,
+"loc": [
+148
+],
+"cls": 0,
+"count": 9446,
+"outof": 15722,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 76.2439,2: 23.7561}",
+"status": "unchanged"
+},
+{
+"id": 1782,
+"name": "Moonrage Darksoul",
+"min": 13,
+"max": 14,
+"loc": [
+130
+],
+"cls": 0,
+"count": 8315,
+"outof": 13663,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3254,
+"name": "Sunscale Lashtail",
+"min": 11,
+"max": 13,
+"loc": [
+17
+],
+"family": 11,
+"cls": 0,
+"count": 9709,
+"outof": 16333,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 74.3228,2: 25.6772}",
+"status": "unchanged"
+},
+{
+"id": 1188,
+"name": "Grizzled Black Bear",
+"min": 13,
+"max": 14,
+"loc": [
+38
+],
+"family": 4,
+"cls": 0,
+"count": 8344,
+"outof": 14007,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 75.5034,2: 24.4966}",
+"status": "unchanged"
+},
+{
+"id": 1769,
+"name": "Moonrage Whitescalp",
+"min": 10,
+"max": 11,
+"loc": [
+130
+],
+"cls": 0,
+"count": 7150,
+"outof": 11878,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4011,
+"name": "Young Pridewing",
+"min": 19,
+"max": 20,
+"loc": [
+406
+],
+"family": 27,
+"cls": 0,
+"count": 1549,
+"outof": 2106,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.4513,2: 50.5487}",
+"status": "unchanged"
+},
+{
+"id": 3636,
+"name": "Deviate Ravager",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 11,
+"cls": 1,
+"count": 12350,
+"outof": 22147,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.7868,2: 50.2132}",
+"status": "unchanged"
+},
+{
+"id": 1923,
+"name": "Bloodsnout Worg",
+"min": 16,
+"max": 17,
+"loc": [
+130
+],
+"family": 1,
+"cls": 0,
+"count": 1614,
+"outof": 2246,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.4424,2: 50.5576}",
+"status": "unchanged"
+},
+{
+"id": 3632,
+"name": "Deviate Creeper",
+"min": 15,
+"max": 16,
+"loc": [
+17,
+-6
+],
+"family": 11,
+"cls": 1,
+"count": 10996,
+"outof": 19782,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50.2455,2: 49.7545}",
+"status": "unchanged"
+},
+{
+"id": 3637,
+"name": "Deviate Guardian",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 11,
+"cls": 1,
+"count": 11183,
+"outof": 20431,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.0931,2: 50.9069}",
+"status": "unchanged"
+},
+{
+"id": 833,
+"name": "Coyote Packleader",
+"min": 11,
+"max": 12,
+"loc": [
+40
+],
+"family": 1,
+"cls": 0,
+"count": 3685,
+"outof": 6076,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 76.0923,2: 23.9077}",
+"status": "unchanged"
+},
+{
+"id": 2187,
+"name": "Elder Darkshore Thresher",
+"min": 16,
+"max": 18,
+"loc": [
+148
+],
+"cls": 0,
+"count": 1029,
+"outof": 1422,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50.6317,2: 49.3683}",
+"status": "unchanged"
+},
+{
+"id": 8886,
+"name": "Deviate Python",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"cls": 0,
+"count": 7529,
+"outof": 13701,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.244,2: 50.756}",
+"status": "unchanged"
+},
+{
+"id": 4008,
+"name": "Cliff Stormer",
+"min": 15,
+"max": 17,
+"loc": [
+406
+],
+"cls": 0,
+"count": 856,
+"outof": 1161,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 46.3785,2: 53.6215}",
+"status": "unchanged"
+},
+{
+"id": 3234,
+"name": "Lost Barrens Kodo",
+"min": 14,
+"max": 15,
+"loc": [
+17
+],
+"cls": 0,
+"count": 3450,
+"outof": 5749,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 74.5217,2: 25.4783}",
+"status": "unchanged"
+},
+{
+"id": 1770,
+"name": "Moonrage Darkrunner",
+"min": 11,
+"max": 12,
+"loc": [
+130
+],
+"cls": 0,
+"count": 3196,
+"outof": 5304,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4316,
+"name": "Kolkar Packhound",
+"min": 13,
+"max": 13,
+"loc": [
+17
+],
+"family": 25,
+"cls": 0,
+"count": 3140,
+"outof": 5211,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 73.4713,2: 26.5287}",
+"status": "unchanged"
+},
+{
+"id": 3633,
+"name": "Deviate Slayer",
+"min": 16,
+"max": 17,
+"loc": [
+-6,
+17
+],
+"family": 11,
+"cls": 1,
+"count": 6360,
+"outof": 11547,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.3711,2: 50.6289}",
+"status": "unchanged"
+},
+{
+"id": 3721,
+"name": "Mystlash Hydra",
+"min": 19,
+"max": 20,
+"loc": [
+331,
+-6
+],
+"cls": 0,
+"count": 663,
+"outof": 874,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.3213,2: 50.6787}",
+"status": "unchanged"
+},
+{
+"id": 2322,
+"name": "Foreststrider",
+"min": 14,
+"max": 16,
+"loc": [
+148
+],
+"family": 12,
+"cls": 0,
+"count": 2819,
+"outof": 4637,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 75.9134,2: 24.0866}",
+"status": "unchanged"
+},
+{
+"id": 6788,
+"name": "Den Mother",
+"min": 18,
+"max": 19,
+"loc": [
+148
+],
+"family": 4,
+"cls": 0,
+"count": 839,
+"outof": 1153,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.4636,2: 50.5364}",
+"status": "unchanged"
+},
+{
+"id": 5755,
+"name": "Deviate Viper",
+"min": 19,
+"max": 20,
+"loc": [
+718
+],
+"cls": 1,
+"count": 6311,
+"outof": 11510,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.1769,2: 50.8231}",
+"status": "unchanged"
+},
+{
+"id": 3248,
+"name": "Barrens Giraffe",
+"min": 15,
+"max": 16,
+"loc": [
+17
+],
+"cls": 0,
+"count": 2125,
+"outof": 3475,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 72.7529,2: 27.2471}",
+"status": "unchanged"
+},
+{
+"id": 5056,
+"name": "Deviate Dreadfang",
+"min": 20,
+"max": 21,
+"loc": [
+718
+],
+"family": 27,
+"cls": 1,
+"count": 4221,
+"outof": 7661,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50.006,2: 49.994}",
+"status": "unchanged"
+},
+{
+"id": 5048,
+"name": "Deviate Adder",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"cls": 1,
+"count": 4496,
+"outof": 8259,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50.4775,2: 49.5225}",
+"status": "unchanged"
+},
+{
+"id": 5756,
+"name": "Deviate Venomwing",
+"min": 20,
+"max": 21,
+"loc": [
+718
+],
+"family": 27,
+"cls": 1,
+"count": 4091,
+"outof": 7427,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.6969,2: 50.3031}",
+"status": "unchanged"
+},
+{
+"id": 3630,
+"name": "Deviate Coiler",
+"min": 15,
+"max": 16,
+"loc": [
+17,
+-6
+],
+"family": 27,
+"cls": 1,
+"count": 3565,
+"outof": 6368,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.986,2: 50.014}",
+"status": "unchanged"
+},
+{
+"id": 3241,
+"name": "Savannah Patriarch",
+"min": 15,
+"max": 16,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 2192,
+"outof": 3685,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 73.4033,2: 26.5967}",
+"status": "unchanged"
+},
+{
+"id": 1924,
+"name": "Moonrage Bloodhowler",
+"min": 15,
+"max": 16,
+"loc": [
+130
+],
+"cls": 0,
+"count": 1794,
+"outof": 2958,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3634,
+"name": "Deviate Stalker",
+"min": 15,
+"max": 17,
+"loc": [
+17,
+-6
+],
+"family": 11,
+"cls": 1,
+"count": 3790,
+"outof": 6936,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50.3958,2: 49.6042}",
+"status": "unchanged"
+},
+{
+"id": 3865,
+"name": "Shadow Charger",
+"min": 20,
+"max": 21,
+"loc": [
+209
+],
+"cls": 1,
+"count": 976,
+"outof": 1484,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50.644,2: 49.356}",
+"status": "unchanged"
+},
+{
+"id": 3631,
+"name": "Deviate Stinglash",
+"min": 16,
+"max": 17,
+"loc": [
+-6,
+17
+],
+"family": 27,
+"cls": 1,
+"count": 3252,
+"outof": 5940,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.877,2: 50.123}",
+"status": "unchanged"
+},
+{
+"id": 3243,
+"name": "Savannah Highmane",
+"min": 12,
+"max": 13,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 1421,
+"outof": 2318,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 74.8065,2: 25.1935}",
+"status": "unchanged"
+},
+{
+"id": 3236,
+"name": "Barrens Kodo",
+"min": 19,
+"max": 20,
+"loc": [
+17
+],
+"cls": 0,
+"count": 761,
+"outof": 1129,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.2773,2: 50.7227}",
+"status": "unchanged"
+},
+{
+"id": 3914,
+"name": "Rethilgore",
+"min": 20,
+"max": 20,
+"loc": [
+209
+],
+"cls": 1,
+"count": 966,
+"outof": 1490,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 48.2543,2: 51.7457}",
+"status": "unchanged"
+},
+{
+"id": 3475,
+"name": "Echeyakee",
+"min": 16,
+"max": 16,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 464,
+"outof": 632,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 52.1552,2: 47.8448}",
+"status": "unchanged"
+},
+{
+"id": 3653,
+"name": "Kresh",
+"min": 20,
+"max": 20,
+"loc": [
+718
+],
+"family": 21,
+"cls": 1,
+"count": 946,
+"outof": 1465,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 44.96,2: 55.04}",
+"status": "unchanged"
+},
+{
+"id": 3864,
+"name": "Fel Steed",
+"min": 19,
+"max": 20,
+"loc": [
+209
+],
+"cls": 1,
+"count": 1188,
+"outof": 1910,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 48.8983,2: 51.1017}",
+"status": "unchanged"
+},
+{
+"id": 5058,
+"name": "Wolfguard Worg",
+"min": 20,
+"max": 21,
+"loc": [
+209
+],
+"cls": 0,
+"count": 806,
+"outof": 1223,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 53.2007,2: 46.7993}",
+"status": "unchanged"
+},
+{
+"id": 2354,
+"name": "Vicious Gray Bear",
+"min": 22,
+"max": 23,
+"loc": [
+267
+],
+"family": 4,
+"cls": 0,
+"count": 19382,
+"outof": 45052,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.7214,2: 50.2786}",
+"status": "unchanged"
+},
+{
+"id": 2384,
+"name": "Starving Mountain Lion",
+"min": 23,
+"max": 24,
+"loc": [
+267,
+36
+],
+"family": 2,
+"cls": 0,
+"count": 25911,
+"outof": 62682,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.9054,2: 50.0946}",
+"status": "unchanged"
+}
+],
+"dropped-by": [
+{
+"id": 3636,
+"name": "Deviate Ravager",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 11,
+"cls": 1,
+"count": 946,
+"outof": 70473,
+"fcount": 82,
+"foutof": 11438,
+"pctstack": "{1: 48.4144,2: 51.5856}",
+"status": "unchanged"
+},
+{
+"id": 3637,
+"name": "Deviate Guardian",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 11,
+"cls": 1,
+"count": 722,
+"outof": 62470,
+"fcount": 64,
+"foutof": 9236,
+"pctstack": "{1: 48.4765,2: 51.5235}",
+"status": "unchanged"
+},
+{
+"id": 8886,
+"name": "Deviate Python",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"cls": 0,
+"count": 732,
+"outof": 38110,
+"fcount": 56,
+"foutof": 8036,
+"pctstack": "{1: 49.4536,2: 50.5464}",
+"status": "unchanged"
+},
+{
+"id": 3256,
+"name": "Sunscale Scytheclaw",
+"min": 16,
+"max": 18,
+"loc": [
+17
+],
+"family": 11,
+"cls": 0,
+"count": 4213,
+"outof": 168822,
+"fcount": 45,
+"foutof": 20394,
+"pctstack": "{1: 49.9169,2: 50.0831}",
+"status": "unchanged"
+},
+{
+"id": 3861,
+"name": "Bleak Worg",
+"min": 18,
+"max": 25,
+"loc": [
+209
+],
+"family": 1,
+"cls": 1,
+"count": 699,
+"outof": 65099,
+"fcount": 44,
+"foutof": 12894,
+"pctstack": "{1: 50.3577,2: 49.6423}",
+"status": "unchanged"
+},
+{
+"id": 5755,
+"name": "Deviate Viper",
+"min": 19,
+"max": 20,
+"loc": [
+718
+],
+"cls": 1,
+"count": 547,
+"outof": 42082,
+"fcount": 44,
+"foutof": 6485,
+"pctstack": "{1: 50.2742,2: 49.7258}",
+"status": "unchanged"
+},
+{
+"id": 3853,
+"name": "Shadowfang Moonwalker",
+"min": 19,
+"max": 20,
+"loc": [
+209
+],
+"cls": 1,
+"count": 666,
+"outof": 59457,
+"fcount": 40,
+"foutof": 12468,
+"pctstack": "{1: 50.1502,2: 49.8498}",
+"status": "unchanged"
+},
+{
+"id": 3244,
+"name": "Greater Plainstrider",
+"min": 11,
+"max": 12,
+"loc": [
+17
+],
+"family": 12,
+"cls": 0,
+"count": 2136,
+"outof": 213383,
+"fcount": 39,
+"foutof": 27109,
+"pctstack": "{1: 77.1067,2: 22.8933}",
+"status": "unchanged"
+},
+{
+"id": 3425,
+"name": "Savannah Prowler",
+"min": 14,
+"max": 15,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 1250,
+"outof": 109914,
+"fcount": 38,
+"foutof": 13910,
+"pctstack": "{1: 75.92,2: 24.08}",
+"status": "unchanged"
+},
+{
+"id": 3851,
+"name": "Shadowfang Whitescalp",
+"min": 18,
+"max": 19,
+"loc": [
+209
+],
+"cls": 1,
+"count": 490,
+"outof": 32220,
+"fcount": 38,
+"foutof": 5723,
+"pctstack": "{1: 50.8163,2: 49.1837}",
+"status": "unchanged"
+},
+{
+"id": 3242,
+"name": "Zhevra Runner",
+"min": 13,
+"max": 14,
+"loc": [
+17
+],
+"cls": 0,
+"count": 2160,
+"outof": 116578,
+"fcount": 35,
+"foutof": 14893,
+"pctstack": "{1: 75,2: 25}",
+"status": "unchanged"
+},
+{
+"id": 5056,
+"name": "Deviate Dreadfang",
+"min": 20,
+"max": 21,
+"loc": [
+718
+],
+"family": 27,
+"cls": 1,
+"count": 354,
+"outof": 35907,
+"fcount": 34,
+"foutof": 4924,
+"pctstack": "{1: 49.7175,2: 50.2825}",
+"status": "unchanged"
+},
+{
+"id": 3255,
+"name": "Sunscale Screecher",
+"min": 13,
+"max": 15,
+"loc": [
+17
+],
+"family": 11,
+"cls": 0,
+"count": 1265,
+"outof": 122085,
+"fcount": 31,
+"foutof": 12849,
+"pctstack": "{1: 71.5415,2: 28.4585}",
+"status": "unchanged"
+},
+{
+"id": 1693,
+"name": "Loch Crocolisk",
+"min": 14,
+"max": 15,
+"loc": [
+38
+],
+"family": 6,
+"cls": 0,
+"count": 1044,
+"outof": 119590,
+"fcount": 28,
+"foutof": 11500,
+"pctstack": "{1: 77.4904,2: 22.5096}",
+"status": "unchanged"
+},
+{
+"id": 3855,
+"name": "Shadowfang Darksoul",
+"min": 20,
+"max": 21,
+"loc": [
+209
+],
+"cls": 1,
+"count": 340,
+"outof": 39653,
+"fcount": 28,
+"foutof": 7118,
+"pctstack": "{1: 53.2353,2: 46.7647}",
+"status": "unchanged"
+},
+{
+"id": 3859,
+"name": "Shadowfang Ragetooth",
+"min": 23,
+"max": 24,
+"loc": [
+209
+],
+"cls": 1,
+"count": 295,
+"outof": 29030,
+"fcount": 28,
+"foutof": 3849,
+"pctstack": "{1: 44.7458,2: 55.2542}",
+"status": "unchanged"
+},
+{
+"id": 5053,
+"name": "Deviate Crocolisk",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 6,
+"cls": 0,
+"count": 997,
+"outof": 57677,
+"fcount": 27,
+"foutof": 6595,
+"pctstack": "{1: 46.2387,2: 53.7613}",
+"status": "unchanged"
+},
+{
+"id": 5048,
+"name": "Deviate Adder",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"cls": 1,
+"count": 387,
+"outof": 33481,
+"fcount": 26,
+"foutof": 3892,
+"pctstack": "{1: 48.5788,2: 51.4212}",
+"status": "unchanged"
+},
+{
+"id": 113,
+"name": "Stonetusk Boar",
+"min": 5,
+"max": 6,
+"loc": [
+12
+],
+"family": 5,
+"cls": 0,
+"count": 1474,
+"outof": 145690,
+"fcount": 24,
+"foutof": 24568,
+"pctstack": "{1: 99.8643,2: 0.135685}",
+"status": "unchanged"
+},
+{
+"id": 2529,
+"name": "Son of Arugal",
+"min": 24,
+"max": 25,
+"loc": [
+209
+],
+"cls": 1,
+"count": 286,
+"outof": 27080,
+"fcount": 24,
+"foutof": 4301,
+"pctstack": "{1: 43.7063,2: 56.2937}",
+"status": "unchanged"
+},
+{
+"id": 5756,
+"name": "Deviate Venomwing",
+"min": 20,
+"max": 21,
+"loc": [
+718
+],
+"family": 27,
+"cls": 1,
+"count": 363,
+"outof": 33683,
+"fcount": 24,
+"foutof": 4940,
+"pctstack": "{1: 48.4848,2: 51.5152}",
+"status": "unchanged"
+},
+{
+"id": 3632,
+"name": "Deviate Creeper",
+"min": 15,
+"max": 16,
+"loc": [
+17,
+-6
+],
+"family": 11,
+"cls": 1,
+"count": 653,
+"outof": 44620,
+"fcount": 22,
+"foutof": 4717,
+"pctstack": "{1: 52.0674,2: 47.9326}",
+"status": "unchanged"
+},
+{
+"id": 5762,
+"name": "Deviate Moccasin",
+"min": 20,
+"max": 21,
+"loc": [
+718
+],
+"cls": 1,
+"count": 187,
+"outof": 10750,
+"fcount": 22,
+"foutof": 1775,
+"pctstack": "{1: 40.107,2: 59.893}",
+"status": "unchanged"
+},
+{
+"id": 1779,
+"name": "Moonrage Glutton",
+"min": 12,
+"max": 13,
+"loc": [
+130
+],
+"cls": 0,
+"count": 812,
+"outof": 46574,
+"fcount": 19,
+"foutof": 3026,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3245,
+"name": "Ornery Plainstrider",
+"min": 16,
+"max": 17,
+"loc": [
+17
+],
+"family": 12,
+"cls": 0,
+"count": 1060,
+"outof": 94400,
+"fcount": 16,
+"foutof": 8487,
+"pctstack": "{1: 50.9434,2: 49.0566}",
+"status": "unchanged"
+},
+{
+"id": 3246,
+"name": "Fleeting Plainstrider",
+"min": 12,
+"max": 13,
+"loc": [
+17,
+-6
+],
+"family": 12,
+"cls": 0,
+"count": 987,
+"outof": 86479,
+"fcount": 16,
+"foutof": 10924,
+"pctstack": "{1: 74.6707,2: 25.3293}",
+"status": "unchanged"
+},
+{
+"id": 2069,
+"name": "Moonstalker",
+"min": 14,
+"max": 15,
+"loc": [
+148
+],
+"family": 2,
+"cls": 0,
+"count": 785,
+"outof": 70857,
+"fcount": 15,
+"foutof": 8059,
+"pctstack": "{1: 75.5414,2: 24.4586}",
+"status": "unchanged"
+},
+{
+"id": 3566,
+"name": "Flatland Prowler",
+"min": 9,
+"max": 9,
+"loc": [
+215,
+1638
+],
+"family": 2,
+"cls": 0,
+"count": 339,
+"outof": 45134,
+"fcount": 14,
+"foutof": 5115,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3633,
+"name": "Deviate Slayer",
+"min": 16,
+"max": 17,
+"loc": [
+-6,
+17
+],
+"family": 11,
+"cls": 1,
+"count": 422,
+"outof": 32371,
+"fcount": 14,
+"foutof": 2841,
+"pctstack": "{1: 49.2891,2: 50.7109}",
+"status": "unchanged"
+},
+{
+"id": 3862,
+"name": "Slavering Worg",
+"min": 18,
+"max": 25,
+"loc": [
+209
+],
+"family": 1,
+"cls": 1,
+"count": 540,
+"outof": 68796,
+"fcount": 14,
+"foutof": 13726,
+"pctstack": "{1: 53.1481,2: 46.8519}",
+"status": "unchanged"
+},
+{
+"id": 2237,
+"name": "Moonstalker Sire",
+"min": 17,
+"max": 18,
+"loc": [
+148
+],
+"family": 2,
+"cls": 0,
+"count": 417,
+"outof": 37708,
+"fcount": 13,
+"foutof": 5354,
+"pctstack": "{1: 48.4412,2: 51.5588}",
+"status": "unchanged"
+},
+{
+"id": 1778,
+"name": "Ferocious Grizzled Bear",
+"min": 11,
+"max": 12,
+"loc": [
+130
+],
+"family": 4,
+"cls": 0,
+"count": 686,
+"outof": 47588,
+"fcount": 12,
+"foutof": 3606,
+"pctstack": "{1: 79.8834,2: 20.1166}",
+"status": "unchanged"
+},
+{
+"id": 1782,
+"name": "Moonrage Darksoul",
+"min": 13,
+"max": 14,
+"loc": [
+130
+],
+"cls": 0,
+"count": 389,
+"outof": 26091,
+"fcount": 12,
+"foutof": 1863,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3461,
+"name": "Oasis Snapjaw",
+"min": 15,
+"max": 16,
+"loc": [
+17
+],
+"family": 21,
+"cls": 0,
+"count": 1044,
+"outof": 92976,
+"fcount": 12,
+"foutof": 9016,
+"pctstack": "{1: 75,2: 25}",
+"status": "unchanged"
+},
+{
+"id": 3122,
+"name": "Bloodtalon Taillasher",
+"min": 6,
+"max": 8,
+"loc": [
+14
+],
+"family": 11,
+"cls": 0,
+"count": 861,
+"outof": 51237,
+"fcount": 11,
+"foutof": 9089,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3415,
+"name": "Savannah Huntress",
+"min": 11,
+"max": 12,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 872,
+"outof": 59041,
+"fcount": 11,
+"foutof": 3104,
+"pctstack": "{1: 73.6239,2: 26.3761}",
+"status": "unchanged"
+},
+{
+"id": 3631,
+"name": "Deviate Stinglash",
+"min": 16,
+"max": 17,
+"loc": [
+-6,
+17
+],
+"family": 27,
+"cls": 1,
+"count": 208,
+"outof": 17187,
+"fcount": 11,
+"foutof": 1333,
+"pctstack": "{1: 47.1154,2: 52.8846}",
+"status": "unchanged"
+},
+{
+"id": 1201,
+"name": "Snow Leopard",
+"min": 7,
+"max": 8,
+"loc": [
+1
+],
+"family": 2,
+"cls": 0,
+"count": 1043,
+"outof": 78246,
+"fcount": 10,
+"foutof": 9257,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3035,
+"name": "Flatland Cougar",
+"min": 7,
+"max": 8,
+"loc": [
+215,
+1638
+],
+"family": 2,
+"cls": 0,
+"count": 939,
+"outof": 67778,
+"fcount": 10,
+"foutof": 6292,
+"pctstack": "{1: 99.574,2: 0.425985}",
+"status": "unchanged"
+},
+{
+"id": 3239,
+"name": "Thunderhead",
+"min": 20,
+"max": 21,
+"loc": [
+17
+],
+"cls": 0,
+"count": 560,
+"outof": 58996,
+"fcount": 10,
+"foutof": 5283,
+"pctstack": "{1: 50.1786,2: 49.8214}",
+"status": "unchanged"
+},
+{
+"id": 2321,
+"name": "Foreststrider Fledgling",
+"min": 11,
+"max": 13,
+"loc": [
+148
+],
+"family": 12,
+"cls": 0,
+"count": 618,
+"outof": 56055,
+"fcount": 9,
+"foutof": 6230,
+"pctstack": "{1: 76.3754,2: 23.6246}",
+"status": "unchanged"
+},
+{
+"id": 3127,
+"name": "Venomtail Scorpid",
+"min": 9,
+"max": 10,
+"loc": [
+14
+],
+"family": 20,
+"cls": 0,
+"count": 481,
+"outof": 75210,
+"fcount": 9,
+"foutof": 7499,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4127,
+"name": "Hecklefang Hyena",
+"min": 15,
+"max": 16,
+"loc": [
+17
+],
+"family": 25,
+"cls": 0,
+"count": 1207,
+"outof": 52464,
+"fcount": 9,
+"foutof": 6810,
+"pctstack": "{1: 78.6247,2: 21.3753}",
+"status": "unchanged"
+},
+{
+"id": 2959,
+"name": "Prairie Stalker",
+"min": 7,
+"max": 8,
+"loc": [
+215,
+1638
+],
+"family": 1,
+"cls": 0,
+"count": 706,
+"outof": 70424,
+"fcount": 8,
+"foutof": 6128,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1127,
+"name": "Elder Crag Boar",
+"min": 7,
+"max": 8,
+"loc": [
+1
+],
+"family": 5,
+"cls": 0,
+"count": 1036,
+"outof": 89417,
+"fcount": 7,
+"foutof": 9370,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1769,
+"name": "Moonrage Whitescalp",
+"min": 10,
+"max": 11,
+"loc": [
+130
+],
+"cls": 0,
+"count": 248,
+"outof": 16267,
+"fcount": 7,
+"foutof": 966,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2042,
+"name": "Nightsaber",
+"min": 5,
+"max": 6,
+"loc": [
+141
+],
+"family": 2,
+"cls": 0,
+"count": 910,
+"outof": 65478,
+"fcount": 7,
+"foutof": 6075,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2958,
+"name": "Prairie Wolf",
+"min": 5,
+"max": 6,
+"loc": [
+215
+],
+"family": 1,
+"cls": 0,
+"count": 601,
+"outof": 61118,
+"fcount": 7,
+"foutof": 6669,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 883,
+"name": "Deer",
+"min": 5,
+"max": 5,
+"loc": [
+148,
+357,
+141,
+-1
+],
+"cls": 0,
+"count": 44,
+"outof": 652,
+"fcount": 6,
+"foutof": 25,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2165,
+"name": "Grizzled Thistle Bear",
+"min": 16,
+"max": 17,
+"loc": [
+148
+],
+"family": 4,
+"cls": 0,
+"count": 330,
+"outof": 48859,
+"fcount": 6,
+"foutof": 3233,
+"pctstack": "{1: 51.2121,2: 48.7879}",
+"status": "unchanged"
+},
+{
+"id": 2957,
+"name": "Elder Plainstrider",
+"min": 8,
+"max": 9,
+"loc": [
+215,
+1638
+],
+"family": 12,
+"cls": 0,
+"count": 95,
+"outof": 10196,
+"fcount": 6,
+"foutof": 1034,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3121,
+"name": "Durotar Tiger",
+"min": 7,
+"max": 8,
+"loc": [
+14
+],
+"family": 2,
+"cls": 0,
+"count": 795,
+"outof": 73065,
+"fcount": 6,
+"foutof": 7536,
+"pctstack": null,
+"status": "updated"
+},
+{
+"id": 3123,
+"name": "Bloodtalon Scythemaw",
+"min": 8,
+"max": 10,
+"loc": [
+14
+],
+"family": 11,
+"cls": 0,
+"count": 325,
+"outof": 26589,
+"fcount": 6,
+"foutof": 2766,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3126,
+"name": "Armored Scorpid",
+"min": 7,
+"max": 8,
+"loc": [
+14,
+1637
+],
+"family": 20,
+"cls": 0,
+"count": 299,
+"outof": 24938,
+"fcount": 6,
+"foutof": 2091,
+"pctstack": "{1: 99.3311,2: 0.668896}",
+"status": "unchanged"
+},
+{
+"id": 3426,
+"name": "Zhevra Charger",
+"min": 17,
+"max": 18,
+"loc": [
+17
+],
+"cls": 0,
+"count": 544,
+"outof": 16250,
+"fcount": 6,
+"foutof": 1525,
+"pctstack": "{1: 51.2868,2: 48.7132}",
+"status": "unchanged"
+},
+{
+"id": 4316,
+"name": "Kolkar Packhound",
+"min": 13,
+"max": 13,
+"loc": [
+17
+],
+"family": 25,
+"cls": 0,
+"count": 190,
+"outof": 16400,
+"fcount": 6,
+"foutof": 1642,
+"pctstack": "{1: 76.8421,2: 23.1579}",
+"status": "unchanged"
+},
+{
+"id": 5058,
+"name": "Wolfguard Worg",
+"min": 20,
+"max": 21,
+"loc": [
+209
+],
+"cls": 0,
+"count": 59,
+"outof": 118,
+"fcount": 6,
+"foutof": 19,
+"pctstack": "{1: 57.6271,2: 42.3729}",
+"status": "unchanged"
+},
+{
+"id": 2071,
+"name": "Moonstalker Matriarch",
+"min": 19,
+"max": 20,
+"loc": [
+148
+],
+"family": 2,
+"cls": 0,
+"count": 158,
+"outof": 15064,
+"fcount": 5,
+"foutof": 1385,
+"pctstack": "{1: 52.5316,2: 47.4684}",
+"status": "unchanged"
+},
+{
+"id": 2185,
+"name": "Darkshore Thresher",
+"min": 12,
+"max": 14,
+"loc": [
+148
+],
+"cls": 0,
+"count": 460,
+"outof": 46947,
+"fcount": 5,
+"foutof": 3356,
+"pctstack": "{1: 75.8696,2: 24.1304}",
+"status": "unchanged"
+},
+{
+"id": 3125,
+"name": "Clattering Scorpid",
+"min": 5,
+"max": 6,
+"loc": [
+14
+],
+"family": 20,
+"cls": 0,
+"count": 1044,
+"outof": 82262,
+"fcount": 5,
+"foutof": 9033,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3630,
+"name": "Deviate Coiler",
+"min": 15,
+"max": 16,
+"loc": [
+17,
+-6
+],
+"family": 27,
+"cls": 1,
+"count": 179,
+"outof": 15288,
+"fcount": 5,
+"foutof": 1124,
+"pctstack": "{1: 58.1006,2: 41.8994}",
+"status": "unchanged"
+},
+{
+"id": 3634,
+"name": "Deviate Stalker",
+"min": 15,
+"max": 17,
+"loc": [
+17,
+-6
+],
+"family": 11,
+"cls": 1,
+"count": 218,
+"outof": 15809,
+"fcount": 5,
+"foutof": 733,
+"pctstack": "{1: 49.5413,2: 50.4587}",
+"status": "unchanged"
+},
+{
+"id": 1689,
+"name": "Scarred Crag Boar",
+"min": 9,
+"max": 10,
+"loc": [
+1
+],
+"family": 5,
+"cls": 0,
+"count": 205,
+"outof": 16481,
+"fcount": 4,
+"foutof": 1069,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1770,
+"name": "Moonrage Darkrunner",
+"min": 11,
+"max": 12,
+"loc": [
+130
+],
+"cls": 0,
+"count": 73,
+"outof": 6882,
+"fcount": 4,
+"foutof": 351,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3130,
+"name": "Thunder Lizard",
+"min": 9,
+"max": 10,
+"loc": [
+14
+],
+"cls": 0,
+"count": 953,
+"outof": 36312,
+"fcount": 4,
+"foutof": 1912,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3243,
+"name": "Savannah Highmane",
+"min": 12,
+"max": 13,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 57,
+"outof": 4371,
+"fcount": 4,
+"foutof": 281,
+"pctstack": "{1: 71.9298,2: 28.0702}",
+"status": "unchanged"
+},
+{
+"id": 3641,
+"name": "Deviate Lurker",
+"min": 16,
+"max": 17,
+"loc": [
+-6
+],
+"cls": 1,
+"count": 127,
+"outof": 8934,
+"fcount": 4,
+"foutof": 387,
+"pctstack": "{1: 53.5433,2: 46.4567}",
+"status": "unchanged"
+},
+{
+"id": 3823,
+"name": "Ghostpaw Runner",
+"min": 19,
+"max": 20,
+"loc": [
+331,
+17
+],
+"family": 1,
+"cls": 0,
+"count": 225,
+"outof": 20882,
+"fcount": 4,
+"foutof": 1048,
+"pctstack": "{1: 44.4444,2: 55.5556}",
+"status": "unchanged"
+},
+{
+"id": 3914,
+"name": "Rethilgore",
+"min": 20,
+"max": 20,
+"loc": [
+209
+],
+"cls": 1,
+"count": 105,
+"outof": 11438,
+"fcount": 4,
+"foutof": 750,
+"pctstack": "{1: 60.9524,2: 39.0476}",
+"status": "unchanged"
+},
+{
+"id": 4279,
+"name": "Odo the Blindwatcher",
+"min": 24,
+"max": 24,
+"loc": [
+209
+],
+"cls": 1,
+"count": 169,
+"outof": 15593,
+"fcount": 4,
+"foutof": 350,
+"pctstack": "{1: 95.858,2: 4.14201}",
+"status": "unchanged"
+},
+{
+"id": 1189,
+"name": "Black Bear Patriarch",
+"min": 16,
+"max": 17,
+"loc": [
+38
+],
+"family": 4,
+"cls": 0,
+"count": 205,
+"outof": 19252,
+"fcount": 3,
+"foutof": 1308,
+"pctstack": "{1: 51.2195,2: 48.7805}",
+"status": "unchanged"
+},
+{
+"id": 1192,
+"name": "Elder Mountain Boar",
+"min": 16,
+"max": 17,
+"loc": [
+38
+],
+"family": 5,
+"cls": 0,
+"count": 183,
+"outof": 28741,
+"fcount": 3,
+"foutof": 644,
+"pctstack": "{1: 62.2951,2: 37.7049}",
+"status": "unchanged"
+},
+{
+"id": 1972,
+"name": "Grimson the Pale",
+"min": 15,
+"max": 15,
+"loc": [
+130
+],
+"cls": 0,
+"count": 27,
+"outof": 2970,
+"fcount": 3,
+"foutof": 144,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2033,
+"name": "Elder Nightsaber",
+"min": 8,
+"max": 9,
+"loc": [
+141
+],
+"family": 2,
+"cls": 0,
+"count": 144,
+"outof": 14997,
+"fcount": 3,
+"foutof": 603,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2442,
+"name": "Cow",
+"min": 5,
+"max": 5,
+"loc": [
+12,
+44,
+267,
+-1
+],
+"cls": 0,
+"count": 20,
+"outof": 312,
+"fcount": 3,
+"foutof": 16,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3131,
+"name": "Lightning Hide",
+"min": 10,
+"max": 11,
+"loc": [
+14
+],
+"cls": 0,
+"count": 623,
+"outof": 22922,
+"fcount": 3,
+"foutof": 1639,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3241,
+"name": "Savannah Patriarch",
+"min": 15,
+"max": 16,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 385,
+"outof": 8019,
+"fcount": 3,
+"foutof": 277,
+"pctstack": "{1: 78.4416,2: 21.5584}",
+"status": "unchanged"
+},
+{
+"id": 119,
+"name": "Longsnout",
+"min": 10,
+"max": 11,
+"loc": [
+12
+],
+"family": 5,
+"cls": 0,
+"count": 31,
+"outof": 4655,
+"fcount": 2,
+"foutof": 109,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 721,
+"name": "Rabbit",
+"min": 1,
+"max": 1,
+"loc": [
+148,
+406,
+85,
+-1
+],
+"cls": 0,
+"count": 104,
+"outof": 981,
+"fcount": 2,
+"foutof": 9,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 833,
+"name": "Coyote Packleader",
+"min": 11,
+"max": 12,
+"loc": [
+40
+],
+"family": 1,
+"cls": 0,
+"count": 167,
+"outof": 14937,
+"fcount": 2,
+"foutof": 408,
+"pctstack": "{1: 77.8443,2: 22.1557}",
+"status": "unchanged"
+}
+],
+"contained-in-object": [
+{
+"id": 3714,
+"name": "Alliance Strongbox",
+"loc": [
+17
+],
+"count": 1,
+"outof": 44,
+"fcount": 1,
+"foutof": 1,
+"pctstack": "",
+"status": "unchanged",
+"skill": 1
+},
+{
+"id": 74448,
+"name": "Large Solid Chest",
+"loc": [
+-1,
+721,
+491
+],
+"count": 1,
+"outof": 9,
+"fcount": 18,
+"foutof": 185,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 75295,
+"name": "Large Iron Bound Chest",
+"loc": [
+-1,
+-6,
+719,
+-1
+],
+"count": 1,
+"outof": 8,
+"fcount": 10,
+"foutof": 92,
+"pctstack": "",
+"status": "unchanged",
+"skill": 1
+},
+{
+"id": 3715,
+"name": "Alliance Chest",
+"loc": [
+267,
+130,
+406,
+-1
+],
+"count": 1,
+"outof": 21,
+"fcount": 41,
+"foutof": 585,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 75293,
+"name": "Large Battered Chest",
+"loc": [
+-1,
+-3,
+-6,
+-1
+],
+"count": 1,
+"outof": 18,
+"fcount": 389,
+"foutof": 1783,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 404352,
+"name": "Artifact Storage",
+"loc": [
+215
+],
+"count": 1,
+"outof": 3,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "updated",
+"skill": 1
+},
+{
+"id": 407734,
+"name": "Gnarlpine Cache",
+"loc": [
+141
+],
+"count": 1,
+"outof": 13,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 111095,
+"name": "Alliance Chest",
+"loc": [
+130,
+17
+],
+"count": 1,
+"outof": 15,
+"fcount": 40,
+"foutof": 290,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4096,
+"name": "Alliance Chest",
+"loc": [
+267
+],
+"count": 1,
+"outof": 5,
+"fcount": 20,
+"foutof": 313,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2849,
+"name": "Battered Chest",
+"loc": [
+44,
+148,
+406,
+-1
+],
+"count": 2,
+"outof": 4,
+"fcount": 913,
+"foutof": 6371,
+"pctstack": "{2: 50,3: 50}",
+"status": "unchanged"
+},
+{
+"id": 75298,
+"name": "Large Solid Chest",
+"loc": [
+-1,
+-3,
+2597,
+-1
+],
+"count": 2,
+"outof": 19,
+"fcount": 217,
+"foutof": 1908,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2850,
+"name": "Solid Chest",
+"loc": [
+44,
+11,
+10,
+-1
+],
+"count": 3,
+"outof": 85,
+"fcount": 501,
+"foutof": 6156,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 74447,
+"name": "Large Iron Bound Chest",
+"loc": [
+-1,
+721,
+491
+],
+"count": 4,
+"outof": 36,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 25,3: 75}",
+"status": "updated",
+"skill": 1
+},
+{
+"id": 2852,
+"name": "Solid Chest",
+"loc": [
+10,
+331,
+400,
+-1
+],
+"count": 5,
+"outof": 73,
+"fcount": 250,
+"foutof": 4788,
+"pctstack": "{2: 80,3: 20}",
+"status": "unchanged"
+},
+{
+"id": 106319,
+"name": "Battered Chest",
+"loc": [
+40,
+38,
+17,
+-1
+],
+"count": 9,
+"outof": 65,
+"fcount": 1425,
+"foutof": 10212,
+"pctstack": "{2: 55.5556,3: 44.4444}",
+"status": "unchanged"
+},
+{
+"id": 106318,
+"name": "Battered Chest",
+"loc": [
+215,
+14,
+12,
+-1
+],
+"count": 11,
+"outof": 106,
+"fcount": 3141,
+"foutof": 19349,
+"pctstack": "{1: 36.3636,2: 63.6364}",
+"status": "unchanged"
+},
+{
+"id": 626752,
+"name": "Dented Chest",
+"loc": [
+16593
+],
+"count": 228,
+"outof": 1452,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 45.614,2: 54.386}",
+"status": "new"
+}
+],
+"created-by-spell": [
+{
+"id": 2881,
+"name": "Light Leather",
+"fcount": 0,
+"foutof": 0,
+"status": "unchanged",
+"skill": [
+165
+],
+"learnedat": 20,
+"reagents": [
+[
+2934,
+3
+]
+],
+"colors": [
+0,
+20,
+30,
+40
+]
+}
+]
+},
+"2319": {
+"item": "/forever/item=2319/medium-leather",
+"skinned-from": [
+{
+"id": 2248,
+"name": "Cave Yeti",
+"min": 30,
+"max": 31,
+"loc": [
+267
+],
+"cls": 0,
+"count": 57257,
+"outof": 78217,
+"fcount": 5410,
+"foutof": 7445,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2408,
+"name": "Snapjaw",
+"min": 30,
+"max": 31,
+"loc": [
+267,
+36
+],
+"family": 21,
+"cls": 0,
+"count": 49415,
+"outof": 67783,
+"fcount": 4062,
+"foutof": 5493,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2559,
+"name": "Highland Strider",
+"min": 30,
+"max": 31,
+"loc": [
+45,
+267
+],
+"family": 11,
+"cls": 0,
+"count": 44923,
+"outof": 61124,
+"fcount": 3371,
+"foutof": 4620,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 681,
+"name": "Young Stranglethorn Tiger",
+"min": 30,
+"max": 31,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 39944,
+"outof": 54529,
+"fcount": 2882,
+"foutof": 3834,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 205,
+"name": "Nightbane Dark Runner",
+"min": 28,
+"max": 29,
+"loc": [
+10
+],
+"cls": 0,
+"count": 37799,
+"outof": 51857,
+"fcount": 2123,
+"foutof": 2900,
+"pctstack": "{1: 99.9974,2: 0.00264557}",
+"status": "unchanged"
+},
+{
+"id": 4142,
+"name": "Sparkleshell Tortoise",
+"min": 30,
+"max": 31,
+"loc": [
+400
+],
+"family": 21,
+"cls": 0,
+"count": 31278,
+"outof": 42458,
+"fcount": 1668,
+"foutof": 2312,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 683,
+"name": "Young Panther",
+"min": 30,
+"max": 31,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 30893,
+"outof": 42418,
+"fcount": 1594,
+"foutof": 2168,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 206,
+"name": "Nightbane Vile Fang",
+"min": 29,
+"max": 30,
+"loc": [
+10
+],
+"cls": 0,
+"count": 31568,
+"outof": 43101,
+"fcount": 1460,
+"foutof": 2033,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4147,
+"name": "Saltstone Basilisk",
+"min": 30,
+"max": 31,
+"loc": [
+400
+],
+"cls": 0,
+"count": 25769,
+"outof": 35393,
+"fcount": 1305,
+"foutof": 1822,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1023,
+"name": "Mottled Razormaw",
+"min": 26,
+"max": 27,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 26925,
+"outof": 36818,
+"fcount": 1244,
+"foutof": 1710,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4107,
+"name": "Highperch Wyvern",
+"min": 28,
+"max": 29,
+"loc": [
+400
+],
+"cls": 0,
+"count": 21583,
+"outof": 29594,
+"fcount": 1103,
+"foutof": 1514,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 533,
+"name": "Nightbane Shadow Weaver",
+"min": 27,
+"max": 28,
+"loc": [
+10
+],
+"cls": 0,
+"count": 18727,
+"outof": 25511,
+"fcount": 982,
+"foutof": 1341,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4109,
+"name": "Highperch Consort",
+"min": 28,
+"max": 29,
+"loc": [
+400
+],
+"cls": 0,
+"count": 17547,
+"outof": 24393,
+"fcount": 956,
+"foutof": 1289,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1150,
+"name": "River Crocolisk",
+"min": 30,
+"max": 31,
+"loc": [
+33
+],
+"family": 6,
+"cls": 0,
+"count": 14641,
+"outof": 20164,
+"fcount": 949,
+"foutof": 1265,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 920,
+"name": "Nightbane Tainted One",
+"min": 30,
+"max": 31,
+"loc": [
+10
+],
+"cls": 0,
+"count": 19447,
+"outof": 26641,
+"fcount": 792,
+"foutof": 1083,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4124,
+"name": "Needles Cougar",
+"min": 27,
+"max": 28,
+"loc": [
+400,
+357
+],
+"family": 2,
+"cls": 0,
+"count": 14367,
+"outof": 19605,
+"fcount": 379,
+"foutof": 520,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4249,
+"name": "Pesterhide Snarler",
+"min": 28,
+"max": 29,
+"loc": [
+400,
+357
+],
+"family": 25,
+"cls": 0,
+"count": 11769,
+"outof": 16201,
+"fcount": 352,
+"foutof": 488,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3789,
+"name": "Terrowulf Fleshripper",
+"min": 28,
+"max": 29,
+"loc": [
+331
+],
+"cls": 0,
+"count": 2396,
+"outof": 3286,
+"fcount": 308,
+"foutof": 416,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4248,
+"name": "Pesterhide Hyena",
+"min": 26,
+"max": 27,
+"loc": [
+400
+],
+"family": 25,
+"cls": 0,
+"count": 8979,
+"outof": 12257,
+"fcount": 272,
+"foutof": 359,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2384,
+"name": "Starving Mountain Lion",
+"min": 23,
+"max": 24,
+"loc": [
+267,
+36
+],
+"family": 2,
+"cls": 0,
+"count": 31584,
+"outof": 62682,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 689,
+"name": "Crystal Spine Basilisk",
+"min": 34,
+"max": 35,
+"loc": [
+33
+],
+"cls": 0,
+"count": 28902,
+"outof": 67158,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 686,
+"name": "Lashtail Raptor",
+"min": 35,
+"max": 36,
+"loc": [
+33
+],
+"family": 11,
+"cls": 0,
+"count": 24400,
+"outof": 56496,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2354,
+"name": "Vicious Gray Bear",
+"min": 22,
+"max": 23,
+"loc": [
+267
+],
+"family": 4,
+"cls": 0,
+"count": 22040,
+"outof": 45052,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2249,
+"name": "Ferocious Yeti",
+"min": 31,
+"max": 32,
+"loc": [
+267,
+36
+],
+"cls": 0,
+"count": 21086,
+"outof": 49423,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4151,
+"name": "Saltstone Crystalhide",
+"min": 32,
+"max": 33,
+"loc": [
+400
+],
+"cls": 0,
+"count": 20453,
+"outof": 47510,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1020,
+"name": "Mottled Raptor",
+"min": 22,
+"max": 23,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 20425,
+"outof": 40427,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4140,
+"name": "Scorpid Reaver",
+"min": 31,
+"max": 32,
+"loc": [
+400
+],
+"family": 20,
+"cls": 0,
+"count": 20075,
+"outof": 46729,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1022,
+"name": "Mottled Scytheclaw",
+"min": 25,
+"max": 26,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 17955,
+"outof": 35518,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1417,
+"name": "Young Wetlands Crocolisk",
+"min": 21,
+"max": 22,
+"loc": [
+11
+],
+"family": 6,
+"cls": 0,
+"count": 17553,
+"outof": 34799,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 736,
+"name": "Panther",
+"min": 32,
+"max": 43,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 16469,
+"outof": 38501,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "updated"
+},
+{
+"id": 682,
+"name": "Stranglethorn Tiger",
+"min": 32,
+"max": 33,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 16021,
+"outof": 37192,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1085,
+"name": "Elder Stranglethorn Tiger",
+"min": 34,
+"max": 35,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 15975,
+"outof": 37571,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2351,
+"name": "Gray Bear",
+"min": 21,
+"max": 22,
+"loc": [
+267,
+36
+],
+"family": 4,
+"cls": 0,
+"count": 14813,
+"outof": 29681,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 685,
+"name": "Stranglethorn Raptor",
+"min": 33,
+"max": 34,
+"loc": [
+33
+],
+"family": 11,
+"cls": 0,
+"count": 14754,
+"outof": 34477,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1152,
+"name": "Snapjaw Crocolisk",
+"min": 35,
+"max": 36,
+"loc": [
+33
+],
+"family": 6,
+"cls": 0,
+"count": 14750,
+"outof": 34202,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1021,
+"name": "Mottled Screecher",
+"min": 24,
+"max": 25,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 13133,
+"outof": 26222,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4018,
+"name": "Antlered Courser",
+"min": 22,
+"max": 23,
+"loc": [
+406
+],
+"cls": 0,
+"count": 11311,
+"outof": 22927,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3809,
+"name": "Ashenvale Bear",
+"min": 21,
+"max": 22,
+"loc": [
+331,
+406
+],
+"family": 4,
+"cls": 0,
+"count": 10841,
+"outof": 21749,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3238,
+"name": "Stormhide",
+"min": 22,
+"max": 23,
+"loc": [
+17
+],
+"cls": 0,
+"count": 10178,
+"outof": 20386,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4067,
+"name": "Twilight Runner",
+"min": 23,
+"max": 24,
+"loc": [
+406
+],
+"family": 2,
+"cls": 0,
+"count": 10005,
+"outof": 20193,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2356,
+"name": "Elder Gray Bear",
+"min": 25,
+"max": 26,
+"loc": [
+267,
+36
+],
+"family": 4,
+"cls": 0,
+"count": 9946,
+"outof": 19764,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4012,
+"name": "Pridewing Wyvern",
+"min": 21,
+"max": 22,
+"loc": [
+406
+],
+"cls": 0,
+"count": 9817,
+"outof": 19527,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 898,
+"name": "Nightbane Worgen",
+"min": 26,
+"max": 27,
+"loc": [
+10
+],
+"cls": 0,
+"count": 7928,
+"outof": 10784,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2385,
+"name": "Feral Mountain Lion",
+"min": 27,
+"max": 28,
+"loc": [
+267
+],
+"family": 2,
+"cls": 0,
+"count": 7655,
+"outof": 10419,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1400,
+"name": "Wetlands Crocolisk",
+"min": 23,
+"max": 24,
+"loc": [
+11
+],
+"family": 6,
+"cls": 0,
+"count": 7432,
+"outof": 15233,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4119,
+"name": "Elder Cloud Serpent",
+"min": 27,
+"max": 29,
+"loc": [
+400
+],
+"family": 27,
+"cls": 0,
+"count": 7179,
+"outof": 9849,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4128,
+"name": "Hecklefang Stalker",
+"min": 22,
+"max": 23,
+"loc": [
+17
+],
+"family": 25,
+"cls": 0,
+"count": 7109,
+"outof": 14484,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 923,
+"name": "Young Black Ravager",
+"min": 23,
+"max": 24,
+"loc": [
+10
+],
+"family": 1,
+"cls": 0,
+"count": 7108,
+"outof": 14393,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2089,
+"name": "Giant Wetlands Crocolisk",
+"min": 25,
+"max": 26,
+"loc": [
+11
+],
+"family": 6,
+"cls": 0,
+"count": 5703,
+"outof": 11612,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4538,
+"name": "Kraul Bat",
+"min": 30,
+"max": 31,
+"loc": [
+491
+],
+"family": 24,
+"cls": 1,
+"count": 5598,
+"outof": 8532,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50.1583,2: 49.8417}",
+"status": "unchanged"
+},
+{
+"id": 1018,
+"name": "Highland Razormaw",
+"min": 27,
+"max": 28,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 5119,
+"outof": 7002,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4514,
+"name": "Raging Agam'ar",
+"min": 25,
+"max": 26,
+"loc": [
+491
+],
+"family": 5,
+"cls": 1,
+"count": 5091,
+"outof": 9346,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 51.1811,2: 48.8189}",
+"status": "unchanged"
+},
+{
+"id": 2529,
+"name": "Son of Arugal",
+"min": 24,
+"max": 25,
+"loc": [
+209
+],
+"cls": 1,
+"count": 5062,
+"outof": 9234,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.8053,2: 50.1947}",
+"status": "unchanged"
+},
+{
+"id": 4041,
+"name": "Scorched Basilisk",
+"min": 27,
+"max": 28,
+"loc": [
+406
+],
+"cls": 0,
+"count": 5001,
+"outof": 6784,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3859,
+"name": "Shadowfang Ragetooth",
+"min": 23,
+"max": 24,
+"loc": [
+209
+],
+"cls": 1,
+"count": 4720,
+"outof": 8563,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.9253,2: 50.0747}",
+"status": "unchanged"
+},
+{
+"id": 4044,
+"name": "Blackened Basilisk",
+"min": 23,
+"max": 24,
+"loc": [
+406
+],
+"cls": 0,
+"count": 4616,
+"outof": 9204,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4825,
+"name": "Aku'mai Snapjaw",
+"min": 26,
+"max": 27,
+"loc": [
+719
+],
+"family": 21,
+"cls": 1,
+"count": 4494,
+"outof": 6816,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50.2192,2: 49.7808}",
+"status": "unchanged"
+},
+{
+"id": 628,
+"name": "Black Ravager",
+"min": 24,
+"max": 25,
+"loc": [
+10
+],
+"family": 1,
+"cls": 0,
+"count": 4419,
+"outof": 8776,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4511,
+"name": "Agam'ar",
+"min": 24,
+"max": 25,
+"loc": [
+491
+],
+"family": 5,
+"cls": 1,
+"count": 4046,
+"outof": 7383,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 48.8761,2: 51.1239}",
+"status": "unchanged"
+},
+{
+"id": 3824,
+"name": "Ghostpaw Howler",
+"min": 23,
+"max": 24,
+"loc": [
+331
+],
+"family": 1,
+"cls": 0,
+"count": 3981,
+"outof": 7970,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+}
+],
+"dropped-by": [
+{
+"id": 7078,
+"name": "Cleft Scorpid",
+"min": 35,
+"max": 36,
+"loc": [
+1337
+],
+"family": 20,
+"cls": 0,
+"count": 315,
+"outof": 51976,
+"fcount": 88,
+"foutof": 12704,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2529,
+"name": "Son of Arugal",
+"min": 24,
+"max": 25,
+"loc": [
+209
+],
+"cls": 1,
+"count": 474,
+"outof": 27080,
+"fcount": 46,
+"foutof": 4201,
+"pctstack": "{1: 45.5696,2: 54.4304}",
+"status": "unchanged"
+},
+{
+"id": 4538,
+"name": "Kraul Bat",
+"min": 30,
+"max": 31,
+"loc": [
+491
+],
+"family": 24,
+"cls": 1,
+"count": 380,
+"outof": 24989,
+"fcount": 42,
+"foutof": 4541,
+"pctstack": "{1: 48.6842,2: 51.3158}",
+"status": "unchanged"
+},
+{
+"id": 2248,
+"name": "Cave Yeti",
+"min": 30,
+"max": 31,
+"loc": [
+267
+],
+"cls": 0,
+"count": 269,
+"outof": 51659,
+"fcount": 41,
+"foutof": 3630,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3636,
+"name": "Deviate Ravager",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 11,
+"cls": 1,
+"count": 380,
+"outof": 70473,
+"fcount": 40,
+"foutof": 11574,
+"pctstack": "{1: 52.8947,2: 47.1053}",
+"status": "unchanged"
+},
+{
+"id": 2384,
+"name": "Starving Mountain Lion",
+"min": 23,
+"max": 24,
+"loc": [
+267,
+36
+],
+"family": 2,
+"cls": 0,
+"count": 201,
+"outof": 133728,
+"fcount": 30,
+"foutof": 14879,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 205,
+"name": "Nightbane Dark Runner",
+"min": 28,
+"max": 29,
+"loc": [
+10
+],
+"cls": 0,
+"count": 317,
+"outof": 32441,
+"fcount": 29,
+"foutof": 3048,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4142,
+"name": "Sparkleshell Tortoise",
+"min": 30,
+"max": 31,
+"loc": [
+400
+],
+"family": 21,
+"cls": 0,
+"count": 148,
+"outof": 84942,
+"fcount": 28,
+"foutof": 9060,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 920,
+"name": "Nightbane Tainted One",
+"min": 30,
+"max": 31,
+"loc": [
+10
+],
+"cls": 0,
+"count": 514,
+"outof": 16747,
+"fcount": 25,
+"foutof": 1680,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2559,
+"name": "Highland Strider",
+"min": 30,
+"max": 31,
+"loc": [
+45,
+267
+],
+"family": 11,
+"cls": 0,
+"count": 106,
+"outof": 136365,
+"fcount": 25,
+"foutof": 9255,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 8886,
+"name": "Deviate Python",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"cls": 0,
+"count": 310,
+"outof": 38110,
+"fcount": 24,
+"foutof": 7513,
+"pctstack": "{1: 50,2: 50}",
+"status": "unchanged"
+},
+{
+"id": 4304,
+"name": "Scarlet Tracking Hound",
+"min": 33,
+"max": 34,
+"loc": [
+796
+],
+"family": 25,
+"cls": 1,
+"count": 238,
+"outof": 54646,
+"fcount": 24,
+"foutof": 7387,
+"pctstack": "{1: 40.7563,2: 59.2437}",
+"status": "unchanged"
+},
+{
+"id": 681,
+"name": "Young Stranglethorn Tiger",
+"min": 30,
+"max": 31,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 103,
+"outof": 90962,
+"fcount": 24,
+"foutof": 10023,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3859,
+"name": "Shadowfang Ragetooth",
+"min": 23,
+"max": 24,
+"loc": [
+209
+],
+"cls": 1,
+"count": 428,
+"outof": 29030,
+"fcount": 22,
+"foutof": 3741,
+"pctstack": "{1: 49.5327,2: 50.4673}",
+"status": "unchanged"
+},
+{
+"id": 206,
+"name": "Nightbane Vile Fang",
+"min": 29,
+"max": 30,
+"loc": [
+10
+],
+"cls": 0,
+"count": 633,
+"outof": 28128,
+"fcount": 21,
+"foutof": 2565,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1023,
+"name": "Mottled Razormaw",
+"min": 26,
+"max": 27,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 264,
+"outof": 63712,
+"fcount": 20,
+"foutof": 7094,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3853,
+"name": "Shadowfang Moonwalker",
+"min": 19,
+"max": 20,
+"loc": [
+209
+],
+"cls": 1,
+"count": 238,
+"outof": 59457,
+"fcount": 20,
+"foutof": 11712,
+"pctstack": "{1: 50.8403,2: 49.1597}",
+"status": "unchanged"
+},
+{
+"id": 689,
+"name": "Crystal Spine Basilisk",
+"min": 34,
+"max": 35,
+"loc": [
+33
+],
+"cls": 0,
+"count": 150,
+"outof": 146397,
+"fcount": 20,
+"foutof": 14144,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4109,
+"name": "Highperch Consort",
+"min": 28,
+"max": 29,
+"loc": [
+400
+],
+"cls": 0,
+"count": 101,
+"outof": 50174,
+"fcount": 19,
+"foutof": 6318,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3857,
+"name": "Shadowfang Glutton",
+"min": 21,
+"max": 22,
+"loc": [
+209
+],
+"cls": 1,
+"count": 215,
+"outof": 16916,
+"fcount": 18,
+"foutof": 2353,
+"pctstack": "{1: 56.7442,2: 43.2558}",
+"status": "unchanged"
+},
+{
+"id": 683,
+"name": "Young Panther",
+"min": 30,
+"max": 31,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 84,
+"outof": 71097,
+"fcount": 18,
+"foutof": 8692,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3256,
+"name": "Sunscale Scytheclaw",
+"min": 16,
+"max": 18,
+"loc": [
+17
+],
+"family": 11,
+"cls": 0,
+"count": 1058,
+"outof": 168822,
+"fcount": 17,
+"foutof": 17393,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4825,
+"name": "Aku'mai Snapjaw",
+"min": 26,
+"max": 27,
+"loc": [
+719
+],
+"family": 21,
+"cls": 1,
+"count": 524,
+"outof": 18854,
+"fcount": 17,
+"foutof": 2689,
+"pctstack": "{1: 50.9542,2: 49.0458}",
+"status": "unchanged"
+},
+{
+"id": 3632,
+"name": "Deviate Creeper",
+"min": 15,
+"max": 16,
+"loc": [
+17,
+-6
+],
+"family": 11,
+"cls": 1,
+"count": 347,
+"outof": 44620,
+"fcount": 17,
+"foutof": 4717,
+"pctstack": "{1: 45.8213,2: 54.1787}",
+"status": "unchanged"
+},
+{
+"id": 4511,
+"name": "Agam'ar",
+"min": 24,
+"max": 25,
+"loc": [
+491
+],
+"family": 5,
+"cls": 1,
+"count": 280,
+"outof": 24491,
+"fcount": 17,
+"foutof": 3184,
+"pctstack": "{1: 48.5714,2: 51.4286}",
+"status": "unchanged"
+},
+{
+"id": 5048,
+"name": "Deviate Adder",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"cls": 1,
+"count": 195,
+"outof": 33481,
+"fcount": 16,
+"foutof": 4015,
+"pctstack": "{1: 47.1795,2: 52.8205}",
+"status": "unchanged"
+},
+{
+"id": 4140,
+"name": "Scorpid Reaver",
+"min": 31,
+"max": 32,
+"loc": [
+400
+],
+"family": 20,
+"cls": 0,
+"count": 94,
+"outof": 112137,
+"fcount": 16,
+"foutof": 10736,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1021,
+"name": "Mottled Screecher",
+"min": 24,
+"max": 25,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 110,
+"outof": 51941,
+"fcount": 15,
+"foutof": 5068,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4147,
+"name": "Saltstone Basilisk",
+"min": 30,
+"max": 31,
+"loc": [
+400
+],
+"cls": 0,
+"count": 97,
+"outof": 80453,
+"fcount": 15,
+"foutof": 6596,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4514,
+"name": "Raging Agam'ar",
+"min": 25,
+"max": 26,
+"loc": [
+491
+],
+"family": 5,
+"cls": 1,
+"count": 379,
+"outof": 31006,
+"fcount": 14,
+"foutof": 3358,
+"pctstack": "{1: 50.9235,2: 49.0765}",
+"status": "unchanged"
+},
+{
+"id": 3637,
+"name": "Deviate Guardian",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 11,
+"cls": 1,
+"count": 357,
+"outof": 62470,
+"fcount": 14,
+"foutof": 5719,
+"pctstack": "{1: 47.0588,2: 52.9412}",
+"status": "unchanged"
+},
+{
+"id": 1022,
+"name": "Mottled Scytheclaw",
+"min": 25,
+"max": 26,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 143,
+"outof": 65940,
+"fcount": 13,
+"foutof": 4314,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4018,
+"name": "Antlered Courser",
+"min": 22,
+"max": 23,
+"loc": [
+406
+],
+"cls": 0,
+"count": 113,
+"outof": 55964,
+"fcount": 13,
+"foutof": 4106,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4107,
+"name": "Highperch Wyvern",
+"min": 28,
+"max": 29,
+"loc": [
+400
+],
+"cls": 0,
+"count": 172,
+"outof": 59724,
+"fcount": 12,
+"foutof": 7265,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5056,
+"name": "Deviate Dreadfang",
+"min": 20,
+"max": 21,
+"loc": [
+718
+],
+"family": 27,
+"cls": 1,
+"count": 157,
+"outof": 35907,
+"fcount": 12,
+"foutof": 3285,
+"pctstack": "{1: 50.9554,2: 49.0446}",
+"status": "unchanged"
+},
+{
+"id": 2354,
+"name": "Vicious Gray Bear",
+"min": 22,
+"max": 23,
+"loc": [
+267
+],
+"family": 4,
+"cls": 0,
+"count": 137,
+"outof": 89030,
+"fcount": 12,
+"foutof": 9674,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2249,
+"name": "Ferocious Yeti",
+"min": 31,
+"max": 32,
+"loc": [
+267,
+36
+],
+"cls": 0,
+"count": 136,
+"outof": 30057,
+"fcount": 12,
+"foutof": 1819,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1417,
+"name": "Young Wetlands Crocolisk",
+"min": 21,
+"max": 22,
+"loc": [
+11
+],
+"family": 6,
+"cls": 0,
+"count": 306,
+"outof": 74370,
+"fcount": 11,
+"foutof": 7250,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2408,
+"name": "Snapjaw",
+"min": 30,
+"max": 31,
+"loc": [
+267,
+36
+],
+"family": 21,
+"cls": 0,
+"count": 109,
+"outof": 147979,
+"fcount": 11,
+"foutof": 11659,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4151,
+"name": "Saltstone Crystalhide",
+"min": 32,
+"max": 33,
+"loc": [
+400
+],
+"cls": 0,
+"count": 96,
+"outof": 83428,
+"fcount": 11,
+"foutof": 6890,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4249,
+"name": "Pesterhide Snarler",
+"min": 28,
+"max": 29,
+"loc": [
+400,
+357
+],
+"family": 25,
+"cls": 0,
+"count": 60,
+"outof": 28250,
+"fcount": 11,
+"foutof": 3514,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4512,
+"name": "Rotting Agam'ar",
+"min": 28,
+"max": 28,
+"loc": [
+491
+],
+"family": 5,
+"cls": 1,
+"count": 280,
+"outof": 4663,
+"fcount": 10,
+"foutof": 539,
+"pctstack": "{1: 82.1429,2: 17.8571}",
+"status": "unchanged"
+},
+{
+"id": 3862,
+"name": "Slavering Worg",
+"min": 18,
+"max": 25,
+"loc": [
+209
+],
+"family": 1,
+"cls": 1,
+"count": 226,
+"outof": 68796,
+"fcount": 10,
+"foutof": 13142,
+"pctstack": "{1: 47.7876,2: 52.2124}",
+"status": "unchanged"
+},
+{
+"id": 2351,
+"name": "Gray Bear",
+"min": 21,
+"max": 22,
+"loc": [
+267,
+36
+],
+"family": 4,
+"cls": 0,
+"count": 195,
+"outof": 72047,
+"fcount": 10,
+"foutof": 6100,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4067,
+"name": "Twilight Runner",
+"min": 23,
+"max": 24,
+"loc": [
+406
+],
+"family": 2,
+"cls": 0,
+"count": 141,
+"outof": 46319,
+"fcount": 10,
+"foutof": 3322,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 686,
+"name": "Lashtail Raptor",
+"min": 35,
+"max": 36,
+"loc": [
+33
+],
+"family": 11,
+"cls": 0,
+"count": 84,
+"outof": 120742,
+"fcount": 10,
+"foutof": 8137,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5755,
+"name": "Deviate Viper",
+"min": 19,
+"max": 20,
+"loc": [
+718
+],
+"cls": 1,
+"count": 250,
+"outof": 42082,
+"fcount": 9,
+"foutof": 3559,
+"pctstack": "{1: 51.6,2: 48.4}",
+"status": "unchanged"
+},
+{
+"id": 3633,
+"name": "Deviate Slayer",
+"min": 16,
+"max": 17,
+"loc": [
+-6,
+17
+],
+"family": 11,
+"cls": 1,
+"count": 201,
+"outof": 32371,
+"fcount": 9,
+"foutof": 2129,
+"pctstack": "{1: 60.199,2: 39.801}",
+"status": "unchanged"
+},
+{
+"id": 3851,
+"name": "Shadowfang Whitescalp",
+"min": 18,
+"max": 19,
+"loc": [
+209
+],
+"cls": 1,
+"count": 179,
+"outof": 32220,
+"fcount": 9,
+"foutof": 4787,
+"pctstack": "{1: 50.2793,2: 49.7207}",
+"status": "unchanged"
+},
+{
+"id": 3245,
+"name": "Ornery Plainstrider",
+"min": 16,
+"max": 17,
+"loc": [
+17
+],
+"family": 12,
+"cls": 0,
+"count": 332,
+"outof": 94400,
+"fcount": 8,
+"foutof": 8480,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3861,
+"name": "Bleak Worg",
+"min": 18,
+"max": 25,
+"loc": [
+209
+],
+"family": 1,
+"cls": 1,
+"count": 279,
+"outof": 65099,
+"fcount": 8,
+"foutof": 9669,
+"pctstack": "{1: 52.6882,2: 47.3118}",
+"status": "unchanged"
+},
+{
+"id": 5762,
+"name": "Deviate Moccasin",
+"min": 20,
+"max": 21,
+"loc": [
+718
+],
+"cls": 1,
+"count": 278,
+"outof": 10750,
+"fcount": 8,
+"foutof": 1506,
+"pctstack": "{1: 84.8921,2: 15.1079}",
+"status": "unchanged"
+},
+{
+"id": 533,
+"name": "Nightbane Shadow Weaver",
+"min": 27,
+"max": 28,
+"loc": [
+10
+],
+"cls": 0,
+"count": 157,
+"outof": 16450,
+"fcount": 8,
+"foutof": 1053,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3631,
+"name": "Deviate Stinglash",
+"min": 16,
+"max": 17,
+"loc": [
+-6,
+17
+],
+"family": 27,
+"cls": 1,
+"count": 115,
+"outof": 17187,
+"fcount": 7,
+"foutof": 974,
+"pctstack": "{1: 55.6522,2: 44.3478}",
+"status": "unchanged"
+},
+{
+"id": 4124,
+"name": "Needles Cougar",
+"min": 27,
+"max": 28,
+"loc": [
+400,
+357
+],
+"family": 2,
+"cls": 0,
+"count": 76,
+"outof": 38533,
+"fcount": 7,
+"foutof": 4020,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4248,
+"name": "Pesterhide Hyena",
+"min": 26,
+"max": 27,
+"loc": [
+400
+],
+"family": 25,
+"cls": 0,
+"count": 60,
+"outof": 20506,
+"fcount": 7,
+"foutof": 1831,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4696,
+"name": "Scorpashi Snapper",
+"min": 30,
+"max": 31,
+"loc": [
+405
+],
+"family": 20,
+"cls": 0,
+"count": 44,
+"outof": 56322,
+"fcount": 7,
+"foutof": 4172,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4539,
+"name": "Greater Kraul Bat",
+"min": 32,
+"max": 32,
+"loc": [
+491
+],
+"family": 24,
+"cls": 1,
+"count": 414,
+"outof": 9479,
+"fcount": 6,
+"foutof": 706,
+"pctstack": "{1: 87.6812,2: 12.3188}",
+"status": "unchanged"
+},
+{
+"id": 3868,
+"name": "Blood Seeker",
+"min": 23,
+"max": 24,
+"loc": [
+209
+],
+"family": 24,
+"cls": 1,
+"count": 265,
+"outof": 7384,
+"fcount": 6,
+"foutof": 421,
+"pctstack": "{1: 85.6604,2: 14.3396}",
+"status": "unchanged"
+},
+{
+"id": 4128,
+"name": "Hecklefang Stalker",
+"min": 22,
+"max": 23,
+"loc": [
+17
+],
+"family": 25,
+"cls": 0,
+"count": 199,
+"outof": 23185,
+"fcount": 6,
+"foutof": 2801,
+"pctstack": null,
+"status": "unchanged"
+}
+],
+"contained-in-object": [
+{
+"id": 105570,
+"name": "Alliance Strongbox",
+"loc": [
+36
+],
+"count": 1,
+"outof": 44,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "updated",
+"skill": 1
+},
+{
+"id": 2850,
+"name": "Solid Chest",
+"loc": [
+44,
+11,
+10,
+-1
+],
+"count": 1,
+"outof": 2,
+"fcount": 428,
+"foutof": 6156,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 75297,
+"name": "Large Iron Bound Chest",
+"loc": [
+-1,
+722,
+796
+],
+"count": 1,
+"outof": 25,
+"fcount": 2,
+"foutof": 19,
+"pctstack": "",
+"status": "updated",
+"skill": 1
+},
+{
+"id": 75295,
+"name": "Large Iron Bound Chest",
+"loc": [
+-1,
+-6,
+719,
+-1
+],
+"count": 1,
+"outof": 8,
+"fcount": 10,
+"foutof": 77,
+"pctstack": "",
+"status": "unchanged",
+"skill": 1
+},
+{
+"id": 105581,
+"name": "Alliance Chest",
+"loc": [
+45
+],
+"count": 1,
+"outof": 16,
+"fcount": 4,
+"foutof": 26,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2857,
+"name": "Solid Chest",
+"loc": [
+45,
+405,
+36,
+-1
+],
+"count": 1,
+"outof": 28,
+"fcount": 183,
+"foutof": 4758,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4096,
+"name": "Alliance Chest",
+"loc": [
+267
+],
+"count": 1,
+"outof": 18,
+"fcount": 42,
+"foutof": 396,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 75296,
+"name": "Large Iron Bound Chest",
+"loc": [
+-1,
+796
+],
+"count": 1,
+"outof": 1,
+"fcount": 9,
+"foutof": 75,
+"pctstack": "",
+"status": "updated",
+"skill": 1
+},
+{
+"id": 105578,
+"name": "Horde Chest",
+"loc": [
+45
+],
+"count": 1,
+"outof": 5,
+"fcount": 6,
+"foutof": 105,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3715,
+"name": "Alliance Chest",
+"loc": [
+267,
+130,
+406,
+-1
+],
+"count": 1,
+"outof": 36,
+"fcount": 43,
+"foutof": 585,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 75300,
+"name": "Large Solid Chest",
+"loc": [
+-1,
+2597,
+722,
+-1
+],
+"count": 1,
+"outof": 22,
+"fcount": 52,
+"foutof": 845,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 105579,
+"name": "Alliance Chest",
+"loc": [
+36,
+45
+],
+"count": 1,
+"outof": 8,
+"fcount": 16,
+"foutof": 225,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 74448,
+"name": "Large Solid Chest",
+"loc": [
+-1,
+721,
+491
+],
+"count": 1,
+"outof": 30,
+"fcount": 30,
+"foutof": 263,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 75298,
+"name": "Large Solid Chest",
+"loc": [
+-1,
+-3,
+2597,
+-1
+],
+"count": 2,
+"outof": 19,
+"fcount": 203,
+"foutof": 1908,
+"pctstack": "{1: 50,2: 50}",
+"status": "unchanged"
+},
+{
+"id": 74447,
+"name": "Large Iron Bound Chest",
+"loc": [
+-1,
+721,
+491
+],
+"count": 2,
+"outof": 11,
+"fcount": 2,
+"foutof": 11,
+"pctstack": "",
+"status": "updated",
+"skill": 1
+},
+{
+"id": 75299,
+"name": "Large Solid Chest",
+"loc": [
+-1,
+-3,
+2597,
+-1
+],
+"count": 3,
+"outof": 24,
+"fcount": 142,
+"foutof": 1264,
+"pctstack": "{2: 66.6667,3: 33.3333}",
+"status": "unchanged"
+},
+{
+"id": 3714,
+"name": "Alliance Strongbox",
+"loc": [
+17
+],
+"count": 4,
+"outof": 44,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50,2: 50}",
+"status": "unchanged",
+"skill": 1
+},
+{
+"id": 2852,
+"name": "Solid Chest",
+"loc": [
+10,
+331,
+400,
+-1
+],
+"count": 7,
+"outof": 73,
+"fcount": 415,
+"foutof": 4788,
+"pctstack": "{2: 28.5714,3: 71.4286}",
+"status": "unchanged"
+},
+{
+"id": 2855,
+"name": "Solid Chest",
+"loc": [
+36,
+33,
+405,
+-1
+],
+"count": 9,
+"outof": 192,
+"fcount": 282,
+"foutof": 3906,
+"pctstack": "{2: 44.4444,3: 55.5556}",
+"status": "unchanged"
+}
+],
+"created-by-spell": [
+{
+"id": 20648,
+"name": "Medium Leather",
+"fcount": 0,
+"foutof": 0,
+"status": "unchanged",
+"skill": [
+165
+],
+"learnedat": 75,
+"reagents": [
+[
+2318,
+4
+]
+],
+"colors": [
+75,
+75,
+80,
+85
+]
+}
+]
+},
+"4232": {
+"item": "/forever/item=4232/medium-hide",
+"skinned-from": [
+{
+"id": 205,
+"name": "Nightbane Dark Runner",
+"min": 28,
+"max": 29,
+"loc": [
+10
+],
+"cls": 0,
+"count": 2610,
+"outof": 51857,
+"fcount": 73,
+"foutof": 1188,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3674,
+"name": "Skum",
+"min": 21,
+"max": 21,
+"loc": [
+718
+],
+"cls": 1,
+"count": 457,
+"outof": 919,
+"fcount": 65,
+"foutof": 123,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1150,
+"name": "River Crocolisk",
+"min": 30,
+"max": 31,
+"loc": [
+33
+],
+"family": 6,
+"cls": 0,
+"count": 980,
+"outof": 20164,
+"fcount": 51,
+"foutof": 766,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4538,
+"name": "Kraul Bat",
+"min": 30,
+"max": 31,
+"loc": [
+491
+],
+"family": 24,
+"cls": 1,
+"count": 35,
+"outof": 319,
+"fcount": 50,
+"foutof": 459,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4012,
+"name": "Pridewing Wyvern",
+"min": 21,
+"max": 22,
+"loc": [
+406
+],
+"cls": 0,
+"count": 34,
+"outof": 426,
+"fcount": 34,
+"foutof": 426,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4511,
+"name": "Agam'ar",
+"min": 24,
+"max": 25,
+"loc": [
+491
+],
+"family": 5,
+"cls": 1,
+"count": 473,
+"outof": 7383,
+"fcount": 27,
+"foutof": 286,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1417,
+"name": "Young Wetlands Crocolisk",
+"min": 21,
+"max": 22,
+"loc": [
+11
+],
+"family": 6,
+"cls": 0,
+"count": 5,
+"outof": 33,
+"fcount": 22,
+"foutof": 245,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2089,
+"name": "Giant Wetlands Crocolisk",
+"min": 25,
+"max": 26,
+"loc": [
+11
+],
+"family": 6,
+"cls": 0,
+"count": 32,
+"outof": 298,
+"fcount": 19,
+"foutof": 233,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 923,
+"name": "Young Black Ravager",
+"min": 23,
+"max": 24,
+"loc": [
+10
+],
+"family": 1,
+"cls": 0,
+"count": 684,
+"outof": 14393,
+"fcount": 16,
+"foutof": 192,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2560,
+"name": "Highland Thrasher",
+"min": 33,
+"max": 34,
+"loc": [
+45
+],
+"family": 11,
+"cls": 0,
+"count": 15,
+"outof": 158,
+"fcount": 15,
+"foutof": 158,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4539,
+"name": "Greater Kraul Bat",
+"min": 32,
+"max": 32,
+"loc": [
+491
+],
+"family": 24,
+"cls": 1,
+"count": 4,
+"outof": 20,
+"fcount": 13,
+"foutof": 113,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3238,
+"name": "Stormhide",
+"min": 22,
+"max": 23,
+"loc": [
+17
+],
+"cls": 0,
+"count": 1027,
+"outof": 20386,
+"fcount": 12,
+"foutof": 138,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3859,
+"name": "Shadowfang Ragetooth",
+"min": 23,
+"max": 24,
+"loc": [
+209
+],
+"cls": 1,
+"count": 526,
+"outof": 8563,
+"fcount": 9,
+"foutof": 69,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 628,
+"name": "Black Ravager",
+"min": 24,
+"max": 25,
+"loc": [
+10
+],
+"family": 1,
+"cls": 0,
+"count": 7,
+"outof": 59,
+"fcount": 7,
+"foutof": 59,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4274,
+"name": "Fenrus the Devourer",
+"min": 25,
+"max": 25,
+"loc": [
+209
+],
+"cls": 1,
+"count": 142,
+"outof": 1524,
+"fcount": 6,
+"foutof": 52,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3866,
+"name": "Vile Bat",
+"min": 22,
+"max": 23,
+"loc": [
+209
+],
+"family": 24,
+"cls": 1,
+"count": 3,
+"outof": 3,
+"fcount": 6,
+"foutof": 20,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1017,
+"name": "Highland Scytheclaw",
+"min": 25,
+"max": 26,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 2,
+"outof": 7,
+"fcount": 6,
+"foutof": 38,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 12678,
+"name": "Ursangous",
+"min": 25,
+"max": 25,
+"loc": [
+331
+],
+"cls": 0,
+"count": 5,
+"outof": 32,
+"fcount": 5,
+"foutof": 32,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 12940,
+"name": "Vorsha the Lasher",
+"min": 22,
+"max": 22,
+"loc": [
+331
+],
+"cls": 0,
+"count": 5,
+"outof": 38,
+"fcount": 5,
+"foutof": 38,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3466,
+"name": "Zhevra Courser",
+"min": 20,
+"max": 21,
+"loc": [
+17
+],
+"cls": 0,
+"count": 5,
+"outof": 40,
+"fcount": 5,
+"foutof": 40,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4117,
+"name": "Cloud Serpent",
+"min": 25,
+"max": 26,
+"loc": [
+400
+],
+"family": 27,
+"cls": 0,
+"count": 5,
+"outof": 40,
+"fcount": 5,
+"foutof": 40,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4512,
+"name": "Rotting Agam'ar",
+"min": 28,
+"max": 28,
+"loc": [
+491
+],
+"family": 5,
+"cls": 1,
+"count": 98,
+"outof": 1268,
+"fcount": 4,
+"foutof": 24,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4279,
+"name": "Odo the Blindwatcher",
+"min": 24,
+"max": 24,
+"loc": [
+209
+],
+"cls": 1,
+"count": 4,
+"outof": 14,
+"fcount": 4,
+"foutof": 14,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 819,
+"name": "Servant of Ilgalar",
+"min": 24,
+"max": 25,
+"loc": [
+44
+],
+"cls": 0,
+"count": 4,
+"outof": 15,
+"fcount": 4,
+"foutof": 15,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 12677,
+"name": "Shadumbra",
+"min": 28,
+"max": 28,
+"loc": [
+331
+],
+"cls": 0,
+"count": 2,
+"outof": 3,
+"fcount": 4,
+"foutof": 32,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4887,
+"name": "Ghamoo-ra",
+"min": 25,
+"max": 25,
+"loc": [
+719
+],
+"family": 21,
+"cls": 1,
+"count": 2,
+"outof": 4,
+"fcount": 4,
+"foutof": 12,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4824,
+"name": "Aku'mai Fisher",
+"min": 23,
+"max": 24,
+"loc": [
+719
+],
+"family": 21,
+"cls": 1,
+"count": 2,
+"outof": 7,
+"fcount": 4,
+"foutof": 18,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3473,
+"name": "Owatanka",
+"min": 24,
+"max": 24,
+"loc": [
+17
+],
+"cls": 0,
+"count": 3,
+"outof": 20,
+"fcount": 3,
+"foutof": 20,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 534,
+"name": "Nefaru",
+"min": 34,
+"max": 34,
+"loc": [
+10
+],
+"cls": 4,
+"count": 2,
+"outof": 4,
+"fcount": 2,
+"foutof": 4,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3927,
+"name": "Wolf Master Nandos",
+"min": 25,
+"max": 25,
+"loc": [
+209
+],
+"cls": 1,
+"count": 2,
+"outof": 9,
+"fcount": 2,
+"foutof": 9,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 6167,
+"name": "Chimaera Matriarch",
+"min": 28,
+"max": 28,
+"loc": [
+406
+],
+"cls": 0,
+"count": 2,
+"outof": 9,
+"fcount": 2,
+"foutof": 9,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4689,
+"name": "Starving Bonepaw",
+"min": 30,
+"max": 32,
+"loc": [
+405
+],
+"family": 25,
+"cls": 0,
+"count": 2,
+"outof": 11,
+"fcount": 2,
+"foutof": 11,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2248,
+"name": "Cave Yeti",
+"min": 30,
+"max": 31,
+"loc": [
+267
+],
+"cls": 0,
+"count": 3940,
+"outof": 78217,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2408,
+"name": "Snapjaw",
+"min": 30,
+"max": 31,
+"loc": [
+267,
+36
+],
+"family": 21,
+"cls": 0,
+"count": 3335,
+"outof": 67783,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2384,
+"name": "Starving Mountain Lion",
+"min": 23,
+"max": 24,
+"loc": [
+267,
+36
+],
+"family": 2,
+"cls": 0,
+"count": 3204,
+"outof": 62682,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2559,
+"name": "Highland Strider",
+"min": 30,
+"max": 31,
+"loc": [
+45,
+267
+],
+"family": 11,
+"cls": 0,
+"count": 2967,
+"outof": 61124,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 689,
+"name": "Crystal Spine Basilisk",
+"min": 34,
+"max": 35,
+"loc": [
+33
+],
+"cls": 0,
+"count": 2682,
+"outof": 67158,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 686,
+"name": "Lashtail Raptor",
+"min": 35,
+"max": 36,
+"loc": [
+33
+],
+"family": 11,
+"cls": 0,
+"count": 2247,
+"outof": 56496,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2354,
+"name": "Vicious Gray Bear",
+"min": 22,
+"max": 23,
+"loc": [
+267
+],
+"family": 4,
+"cls": 0,
+"count": 2195,
+"outof": 45052,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 683,
+"name": "Young Panther",
+"min": 30,
+"max": 31,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 2162,
+"outof": 42418,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 206,
+"name": "Nightbane Vile Fang",
+"min": 29,
+"max": 30,
+"loc": [
+10
+],
+"cls": 0,
+"count": 2161,
+"outof": 43101,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4142,
+"name": "Sparkleshell Tortoise",
+"min": 30,
+"max": 31,
+"loc": [
+400
+],
+"family": 21,
+"cls": 0,
+"count": 2018,
+"outof": 42458,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2249,
+"name": "Ferocious Yeti",
+"min": 31,
+"max": 32,
+"loc": [
+267,
+36
+],
+"cls": 0,
+"count": 2006,
+"outof": 49423,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4151,
+"name": "Saltstone Crystalhide",
+"min": 32,
+"max": 33,
+"loc": [
+400
+],
+"cls": 0,
+"count": 1993,
+"outof": 47510,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1020,
+"name": "Mottled Raptor",
+"min": 22,
+"max": 23,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 1974,
+"outof": 40427,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4140,
+"name": "Scorpid Reaver",
+"min": 31,
+"max": 32,
+"loc": [
+400
+],
+"family": 20,
+"cls": 0,
+"count": 1947,
+"outof": 46729,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1023,
+"name": "Mottled Razormaw",
+"min": 26,
+"max": 27,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 1897,
+"outof": 36818,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4147,
+"name": "Saltstone Basilisk",
+"min": 30,
+"max": 31,
+"loc": [
+400
+],
+"cls": 0,
+"count": 1785,
+"outof": 35393,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1022,
+"name": "Mottled Scytheclaw",
+"min": 25,
+"max": 26,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 1768,
+"outof": 35518,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1085,
+"name": "Elder Stranglethorn Tiger",
+"min": 34,
+"max": 35,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 1549,
+"outof": 37571,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4107,
+"name": "Highperch Wyvern",
+"min": 28,
+"max": 29,
+"loc": [
+400
+],
+"cls": 0,
+"count": 1536,
+"outof": 29594,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2351,
+"name": "Gray Bear",
+"min": 21,
+"max": 22,
+"loc": [
+267,
+36
+],
+"family": 4,
+"cls": 0,
+"count": 1462,
+"outof": 29681,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1021,
+"name": "Mottled Screecher",
+"min": 24,
+"max": 25,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 1358,
+"outof": 26222,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 920,
+"name": "Nightbane Tainted One",
+"min": 30,
+"max": 31,
+"loc": [
+10
+],
+"cls": 0,
+"count": 1335,
+"outof": 26641,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4109,
+"name": "Highperch Consort",
+"min": 28,
+"max": 29,
+"loc": [
+400
+],
+"cls": 0,
+"count": 1262,
+"outof": 24393,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4018,
+"name": "Antlered Courser",
+"min": 22,
+"max": 23,
+"loc": [
+406
+],
+"cls": 0,
+"count": 1216,
+"outof": 22927,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2727,
+"name": "Crag Coyote",
+"min": 35,
+"max": 36,
+"loc": [
+3
+],
+"family": 1,
+"cls": 0,
+"count": 1137,
+"outof": 26820,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3809,
+"name": "Ashenvale Bear",
+"min": 21,
+"max": 22,
+"loc": [
+331,
+406
+],
+"family": 4,
+"cls": 0,
+"count": 1071,
+"outof": 21749,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2356,
+"name": "Elder Gray Bear",
+"min": 25,
+"max": 26,
+"loc": [
+267,
+36
+],
+"family": 4,
+"cls": 0,
+"count": 1033,
+"outof": 19764,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4067,
+"name": "Twilight Runner",
+"min": 23,
+"max": 24,
+"loc": [
+406
+],
+"family": 2,
+"cls": 0,
+"count": 969,
+"outof": 20193,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+}
+],
+"dropped-by": [
+{
+"id": 3636,
+"name": "Deviate Ravager",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 11,
+"cls": 1,
+"count": 59,
+"outof": 70473,
+"fcount": 16,
+"foutof": 8729,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 7078,
+"name": "Cleft Scorpid",
+"min": 35,
+"max": 36,
+"loc": [
+1337
+],
+"family": 20,
+"cls": 0,
+"count": 39,
+"outof": 51976,
+"fcount": 16,
+"foutof": 10536,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4304,
+"name": "Scarlet Tracking Hound",
+"min": 33,
+"max": 34,
+"loc": [
+796
+],
+"family": 25,
+"cls": 1,
+"count": 28,
+"outof": 54646,
+"fcount": 8,
+"foutof": 4393,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4514,
+"name": "Raging Agam'ar",
+"min": 25,
+"max": 26,
+"loc": [
+491
+],
+"family": 5,
+"cls": 1,
+"count": 58,
+"outof": 31006,
+"fcount": 6,
+"foutof": 3876,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2249,
+"name": "Ferocious Yeti",
+"min": 31,
+"max": 32,
+"loc": [
+267,
+36
+],
+"cls": 0,
+"count": 9,
+"outof": 30057,
+"fcount": 6,
+"foutof": 2134,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4538,
+"name": "Kraul Bat",
+"min": 30,
+"max": 31,
+"loc": [
+491
+],
+"family": 24,
+"cls": 1,
+"count": 49,
+"outof": 24989,
+"fcount": 4,
+"foutof": 1834,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2529,
+"name": "Son of Arugal",
+"min": 24,
+"max": 25,
+"loc": [
+209
+],
+"cls": 1,
+"count": 46,
+"outof": 27080,
+"fcount": 4,
+"foutof": 1507,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3637,
+"name": "Deviate Guardian",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 11,
+"cls": 1,
+"count": 43,
+"outof": 62470,
+"fcount": 4,
+"foutof": 3652,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4511,
+"name": "Agam'ar",
+"min": 24,
+"max": 25,
+"loc": [
+491
+],
+"family": 5,
+"cls": 1,
+"count": 42,
+"outof": 24491,
+"fcount": 4,
+"foutof": 1663,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5053,
+"name": "Deviate Crocolisk",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 6,
+"cls": 0,
+"count": 39,
+"outof": 57677,
+"fcount": 4,
+"foutof": 2864,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3859,
+"name": "Shadowfang Ragetooth",
+"min": 23,
+"max": 24,
+"loc": [
+209
+],
+"cls": 1,
+"count": 33,
+"outof": 29030,
+"fcount": 4,
+"foutof": 1392,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5048,
+"name": "Deviate Adder",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"cls": 1,
+"count": 28,
+"outof": 33481,
+"fcount": 4,
+"foutof": 2839,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3851,
+"name": "Shadowfang Whitescalp",
+"min": 18,
+"max": 19,
+"loc": [
+209
+],
+"cls": 1,
+"count": 21,
+"outof": 32220,
+"fcount": 4,
+"foutof": 288,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4539,
+"name": "Greater Kraul Bat",
+"min": 32,
+"max": 32,
+"loc": [
+491
+],
+"family": 24,
+"cls": 1,
+"count": 15,
+"outof": 9479,
+"fcount": 4,
+"foutof": 706,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2384,
+"name": "Starving Mountain Lion",
+"min": 23,
+"max": 24,
+"loc": [
+267,
+36
+],
+"family": 2,
+"cls": 0,
+"count": 14,
+"outof": 133728,
+"fcount": 4,
+"foutof": 10470,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3674,
+"name": "Skum",
+"min": 21,
+"max": 21,
+"loc": [
+718
+],
+"cls": 1,
+"count": 14,
+"outof": 8885,
+"fcount": 4,
+"foutof": 902,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 7333,
+"name": "Withered Battle Boar",
+"min": 34,
+"max": 34,
+"loc": [
+722
+],
+"cls": 0,
+"count": 14,
+"outof": 26507,
+"fcount": 4,
+"foutof": 1102,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4147,
+"name": "Saltstone Basilisk",
+"min": 30,
+"max": 31,
+"loc": [
+400
+],
+"cls": 0,
+"count": 5,
+"outof": 80453,
+"fcount": 4,
+"foutof": 3243,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3809,
+"name": "Ashenvale Bear",
+"min": 21,
+"max": 22,
+"loc": [
+331,
+406
+],
+"family": 4,
+"cls": 0,
+"count": 45,
+"outof": 43643,
+"fcount": 3,
+"foutof": 1714,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2354,
+"name": "Vicious Gray Bear",
+"min": 22,
+"max": 23,
+"loc": [
+267
+],
+"family": 4,
+"cls": 0,
+"count": 15,
+"outof": 89030,
+"fcount": 3,
+"foutof": 3378,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2559,
+"name": "Highland Strider",
+"min": 30,
+"max": 31,
+"loc": [
+45,
+267
+],
+"family": 11,
+"cls": 0,
+"count": 9,
+"outof": 136365,
+"fcount": 3,
+"foutof": 5449,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4140,
+"name": "Scorpid Reaver",
+"min": 31,
+"max": 32,
+"loc": [
+400
+],
+"family": 20,
+"cls": 0,
+"count": 9,
+"outof": 112137,
+"fcount": 3,
+"foutof": 4790,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2408,
+"name": "Snapjaw",
+"min": 30,
+"max": 31,
+"loc": [
+267,
+36
+],
+"family": 21,
+"cls": 0,
+"count": 7,
+"outof": 147979,
+"fcount": 3,
+"foutof": 2999,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2560,
+"name": "Highland Thrasher",
+"min": 33,
+"max": 34,
+"loc": [
+45
+],
+"family": 11,
+"cls": 0,
+"count": 2,
+"outof": 31927,
+"fcount": 3,
+"foutof": 1473,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 920,
+"name": "Nightbane Tainted One",
+"min": 30,
+"max": 31,
+"loc": [
+10
+],
+"cls": 0,
+"count": 47,
+"outof": 16747,
+"fcount": 2,
+"foutof": 1110,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 8886,
+"name": "Deviate Python",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"cls": 0,
+"count": 30,
+"outof": 38110,
+"fcount": 2,
+"foutof": 1288,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 205,
+"name": "Nightbane Dark Runner",
+"min": 28,
+"max": 29,
+"loc": [
+10
+],
+"cls": 0,
+"count": 29,
+"outof": 32441,
+"fcount": 2,
+"foutof": 1509,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3861,
+"name": "Bleak Worg",
+"min": 18,
+"max": 25,
+"loc": [
+209
+],
+"family": 1,
+"cls": 1,
+"count": 28,
+"outof": 65099,
+"fcount": 2,
+"foutof": 4342,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3857,
+"name": "Shadowfang Glutton",
+"min": 21,
+"max": 22,
+"loc": [
+209
+],
+"cls": 1,
+"count": 26,
+"outof": 16916,
+"fcount": 2,
+"foutof": 829,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 441,
+"name": "Black Dragon Whelp",
+"min": 17,
+"max": 18,
+"loc": [
+44
+],
+"cls": 0,
+"count": 23,
+"outof": 85305,
+"fcount": 2,
+"foutof": 3091,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2248,
+"name": "Cave Yeti",
+"min": 30,
+"max": 31,
+"loc": [
+267
+],
+"cls": 0,
+"count": 23,
+"outof": 51659,
+"fcount": 2,
+"foutof": 1243,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3855,
+"name": "Shadowfang Darksoul",
+"min": 20,
+"max": 21,
+"loc": [
+209
+],
+"cls": 1,
+"count": 19,
+"outof": 39653,
+"fcount": 2,
+"foutof": 2340,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5755,
+"name": "Deviate Viper",
+"min": 19,
+"max": 20,
+"loc": [
+718
+],
+"cls": 1,
+"count": 18,
+"outof": 42082,
+"fcount": 2,
+"foutof": 1967,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 689,
+"name": "Crystal Spine Basilisk",
+"min": 34,
+"max": 35,
+"loc": [
+33
+],
+"cls": 0,
+"count": 15,
+"outof": 146397,
+"fcount": 2,
+"foutof": 6991,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1021,
+"name": "Mottled Screecher",
+"min": 24,
+"max": 25,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 12,
+"outof": 51941,
+"fcount": 2,
+"foutof": 1244,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 681,
+"name": "Young Stranglethorn Tiger",
+"min": 30,
+"max": 31,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 10,
+"outof": 90962,
+"fcount": 2,
+"foutof": 4301,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 685,
+"name": "Stranglethorn Raptor",
+"min": 33,
+"max": 34,
+"loc": [
+33
+],
+"family": 11,
+"cls": 0,
+"count": 9,
+"outof": 71090,
+"fcount": 2,
+"foutof": 687,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1043,
+"name": "Lost Whelp",
+"min": 24,
+"max": 25,
+"loc": [
+11
+],
+"cls": 0,
+"count": 4,
+"outof": 8250,
+"fcount": 2,
+"foutof": 288,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3866,
+"name": "Vile Bat",
+"min": 22,
+"max": 23,
+"loc": [
+209
+],
+"family": 24,
+"cls": 1,
+"count": 4,
+"outof": 8966,
+"fcount": 2,
+"foutof": 467,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3824,
+"name": "Ghostpaw Howler",
+"min": 23,
+"max": 24,
+"loc": [
+331
+],
+"family": 1,
+"cls": 0,
+"count": 3,
+"outof": 19361,
+"fcount": 2,
+"foutof": 443,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3914,
+"name": "Rethilgore",
+"min": 20,
+"max": 20,
+"loc": [
+209
+],
+"cls": 1,
+"count": 3,
+"outof": 11438,
+"fcount": 2,
+"foutof": 452,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4042,
+"name": "Singed Basilisk",
+"min": 25,
+"max": 26,
+"loc": [
+406
+],
+"cls": 0,
+"count": 2,
+"outof": 10154,
+"fcount": 2,
+"foutof": 326,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3256,
+"name": "Sunscale Scytheclaw",
+"min": 16,
+"max": 18,
+"loc": [
+17
+],
+"family": 11,
+"cls": 0,
+"count": 92,
+"outof": 168822,
+"fcount": 1,
+"foutof": 1336,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 206,
+"name": "Nightbane Vile Fang",
+"min": 29,
+"max": 30,
+"loc": [
+10
+],
+"cls": 0,
+"count": 53,
+"outof": 28128,
+"fcount": 1,
+"foutof": 940,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1417,
+"name": "Young Wetlands Crocolisk",
+"min": 21,
+"max": 22,
+"loc": [
+11
+],
+"family": 6,
+"cls": 0,
+"count": 50,
+"outof": 74370,
+"fcount": 1,
+"foutof": 2749,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 547,
+"name": "Great Goretusk",
+"min": 16,
+"max": 17,
+"loc": [
+44,
+40
+],
+"family": 5,
+"cls": 0,
+"count": 42,
+"outof": 173117,
+"fcount": 1,
+"foutof": 4175,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3632,
+"name": "Deviate Creeper",
+"min": 15,
+"max": 16,
+"loc": [
+17,
+-6
+],
+"family": 11,
+"cls": 1,
+"count": 33,
+"outof": 44620,
+"fcount": 1,
+"foutof": 728,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3245,
+"name": "Ornery Plainstrider",
+"min": 16,
+"max": 17,
+"loc": [
+17
+],
+"family": 12,
+"cls": 0,
+"count": 25,
+"outof": 94400,
+"fcount": 1,
+"foutof": 750,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3238,
+"name": "Stormhide",
+"min": 22,
+"max": 23,
+"loc": [
+17
+],
+"cls": 0,
+"count": 24,
+"outof": 44709,
+"fcount": 1,
+"foutof": 1823,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 213,
+"name": "Starving Dire Wolf",
+"min": 19,
+"max": 20,
+"loc": [
+10,
+12
+],
+"family": 1,
+"cls": 0,
+"count": 23,
+"outof": 96882,
+"fcount": 1,
+"foutof": 882,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1023,
+"name": "Mottled Razormaw",
+"min": 26,
+"max": 27,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 23,
+"outof": 63712,
+"fcount": 1,
+"foutof": 2057,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3426,
+"name": "Zhevra Charger",
+"min": 17,
+"max": 18,
+"loc": [
+17
+],
+"cls": 0,
+"count": 22,
+"outof": 16250,
+"fcount": 1,
+"foutof": 713,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4128,
+"name": "Hecklefang Stalker",
+"min": 22,
+"max": 23,
+"loc": [
+17
+],
+"family": 25,
+"cls": 0,
+"count": 22,
+"outof": 23185,
+"fcount": 1,
+"foutof": 1365,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1022,
+"name": "Mottled Scytheclaw",
+"min": 25,
+"max": 26,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 20,
+"outof": 65940,
+"fcount": 1,
+"foutof": 768,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3239,
+"name": "Thunderhead",
+"min": 20,
+"max": 21,
+"loc": [
+17
+],
+"cls": 0,
+"count": 19,
+"outof": 58996,
+"fcount": 1,
+"foutof": 2723,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3416,
+"name": "Savannah Matriarch",
+"min": 17,
+"max": 18,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 19,
+"outof": 6611,
+"fcount": 1,
+"foutof": 219,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2071,
+"name": "Moonstalker Matriarch",
+"min": 19,
+"max": 20,
+"loc": [
+148
+],
+"family": 2,
+"cls": 0,
+"count": 16,
+"outof": 15064,
+"fcount": 1,
+"foutof": 198,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4109,
+"name": "Highperch Consort",
+"min": 28,
+"max": 29,
+"loc": [
+400
+],
+"cls": 0,
+"count": 14,
+"outof": 50174,
+"fcount": 1,
+"foutof": 1595,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 923,
+"name": "Young Black Ravager",
+"min": 23,
+"max": 24,
+"loc": [
+10
+],
+"family": 1,
+"cls": 0,
+"count": 10,
+"outof": 28298,
+"fcount": 1,
+"foutof": 175,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2089,
+"name": "Giant Wetlands Crocolisk",
+"min": 25,
+"max": 26,
+"loc": [
+11
+],
+"family": 6,
+"cls": 0,
+"count": 10,
+"outof": 33848,
+"fcount": 1,
+"foutof": 257,
+"pctstack": null,
+"status": "unchanged"
+}
+],
+"contained-in-object": [
+{
+"id": 105570,
+"name": "Alliance Strongbox",
+"loc": [
+36
+],
+"count": 1,
+"outof": 44,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "updated",
+"skill": 1
+},
+{
+"id": 74447,
+"name": "Large Iron Bound Chest",
+"loc": [
+-1,
+721,
+491
+],
+"count": 1,
+"outof": 36,
+"fcount": 1,
+"foutof": 3,
+"pctstack": "",
+"status": "updated",
+"skill": 1
+},
+{
+"id": 105581,
+"name": "Alliance Chest",
+"loc": [
+45
+],
+"count": 1,
+"outof": 16,
+"fcount": 1,
+"foutof": 11,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2852,
+"name": "Solid Chest",
+"loc": [
+10,
+331,
+400,
+-1
+],
+"count": 1,
+"outof": 359,
+"fcount": 88,
+"foutof": 4788,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2855,
+"name": "Solid Chest",
+"loc": [
+36,
+33,
+405,
+-1
+],
+"count": 1,
+"outof": 154,
+"fcount": 65,
+"foutof": 3906,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 75299,
+"name": "Large Solid Chest",
+"loc": [
+-1,
+-3,
+2597,
+-1
+],
+"count": 1,
+"outof": 56,
+"fcount": 22,
+"foutof": 1264,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2857,
+"name": "Solid Chest",
+"loc": [
+45,
+405,
+36,
+-1
+],
+"count": 1,
+"outof": 336,
+"fcount": 61,
+"foutof": 4758,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4096,
+"name": "Alliance Chest",
+"loc": [
+267
+],
+"count": 1,
+"outof": 18,
+"fcount": 7,
+"foutof": 241,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 75300,
+"name": "Large Solid Chest",
+"loc": [
+-1,
+2597,
+722,
+-1
+],
+"count": 1,
+"outof": 106,
+"fcount": 19,
+"foutof": 845,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 105578,
+"name": "Horde Chest",
+"loc": [
+45
+],
+"count": 1,
+"outof": 5,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 105579,
+"name": "Alliance Chest",
+"loc": [
+36,
+45
+],
+"count": 1,
+"outof": 8,
+"fcount": 5,
+"foutof": 149,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 74448,
+"name": "Large Solid Chest",
+"loc": [
+-1,
+721,
+491
+],
+"count": 1,
+"outof": 25,
+"fcount": 6,
+"foutof": 123,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 75296,
+"name": "Large Iron Bound Chest",
+"loc": [
+-1,
+796
+],
+"count": 1,
+"outof": 18,
+"fcount": 1,
+"foutof": 18,
+"pctstack": "",
+"status": "updated",
+"skill": 1
+},
+{
+"id": 75297,
+"name": "Large Iron Bound Chest",
+"loc": [
+-1,
+722,
+796
+],
+"count": 1,
+"outof": 4,
+"fcount": 1,
+"foutof": 4,
+"pctstack": "",
+"status": "updated",
+"skill": 1
+}
+]
+},
+"4234": {
+"item": "/forever/item=4234/heavy-leather",
+"skinned-from": [
+{
+"id": 1557,
+"name": "Elder Mistvale Gorilla",
+"min": 40,
+"max": 41,
+"loc": [
+33
+],
+"family": 9,
+"cls": 0,
+"count": 70579,
+"outof": 91696,
+"fcount": 6191,
+"foutof": 8064,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 687,
+"name": "Jungle Stalker",
+"min": 40,
+"max": 41,
+"loc": [
+33
+],
+"family": 11,
+"cls": 0,
+"count": 64760,
+"outof": 83831,
+"fcount": 4446,
+"foutof": 5784,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2561,
+"name": "Highland Fleshstalker",
+"min": 36,
+"max": 37,
+"loc": [
+45
+],
+"family": 11,
+"cls": 0,
+"count": 32463,
+"outof": 42192,
+"fcount": 3415,
+"foutof": 4405,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2729,
+"name": "Elder Crag Coyote",
+"min": 39,
+"max": 40,
+"loc": [
+3
+],
+"family": 1,
+"cls": 0,
+"count": 45935,
+"outof": 59704,
+"fcount": 3213,
+"foutof": 4175,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 772,
+"name": "Stranglethorn Tigress",
+"min": 37,
+"max": 38,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 30223,
+"outof": 39358,
+"fcount": 1993,
+"foutof": 2593,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1082,
+"name": "Sawtooth Crocolisk",
+"min": 38,
+"max": 39,
+"loc": [
+8
+],
+"family": 6,
+"cls": 0,
+"count": 16055,
+"outof": 20967,
+"fcount": 1452,
+"foutof": 1862,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4396,
+"name": "Mudrock Tortoise",
+"min": 36,
+"max": 37,
+"loc": [
+15
+],
+"family": 21,
+"cls": 0,
+"count": 15133,
+"outof": 19727,
+"fcount": 1206,
+"foutof": 1595,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4397,
+"name": "Mudrock Spikeshell",
+"min": 37,
+"max": 38,
+"loc": [
+15
+],
+"family": 21,
+"cls": 0,
+"count": 15257,
+"outof": 19922,
+"fcount": 1194,
+"foutof": 1597,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 767,
+"name": "Swamp Jaguar",
+"min": 36,
+"max": 37,
+"loc": [
+8
+],
+"family": 2,
+"cls": 0,
+"count": 20870,
+"outof": 26954,
+"fcount": 987,
+"foutof": 1287,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 684,
+"name": "Shadowmaw Panther",
+"min": 37,
+"max": 38,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 25498,
+"outof": 40917,
+"fcount": 856,
+"foutof": 1343,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2728,
+"name": "Feral Crag Coyote",
+"min": 37,
+"max": 38,
+"loc": [
+3
+],
+"family": 1,
+"cls": 0,
+"count": 15744,
+"outof": 20524,
+"fcount": 501,
+"foutof": 664,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1114,
+"name": "Jungle Thunderer",
+"min": 37,
+"max": 38,
+"loc": [
+33
+],
+"family": 9,
+"cls": 0,
+"count": 12891,
+"outof": 16771,
+"fcount": 268,
+"foutof": 328,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2732,
+"name": "Ridge Huntress",
+"min": 38,
+"max": 39,
+"loc": [
+3
+],
+"family": 2,
+"cls": 0,
+"count": 11609,
+"outof": 15182,
+"fcount": 261,
+"foutof": 339,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4352,
+"name": "Bloodfen Screecher",
+"min": 36,
+"max": 37,
+"loc": [
+15
+],
+"family": 11,
+"cls": 0,
+"count": 11656,
+"outof": 15270,
+"fcount": 228,
+"foutof": 302,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 689,
+"name": "Crystal Spine Basilisk",
+"min": 34,
+"max": 35,
+"loc": [
+33
+],
+"cls": 0,
+"count": 33594,
+"outof": 67158,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 686,
+"name": "Lashtail Raptor",
+"min": 35,
+"max": 36,
+"loc": [
+33
+],
+"family": 11,
+"cls": 0,
+"count": 28143,
+"outof": 56496,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2249,
+"name": "Ferocious Yeti",
+"min": 31,
+"max": 32,
+"loc": [
+267,
+36
+],
+"cls": 0,
+"count": 24890,
+"outof": 49423,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4151,
+"name": "Saltstone Crystalhide",
+"min": 32,
+"max": 33,
+"loc": [
+400
+],
+"cls": 0,
+"count": 23632,
+"outof": 47510,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4140,
+"name": "Scorpid Reaver",
+"min": 31,
+"max": 32,
+"loc": [
+400
+],
+"family": 20,
+"cls": 0,
+"count": 23348,
+"outof": 46729,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 14123,
+"name": "Steeljaw Snapper",
+"min": 42,
+"max": 43,
+"loc": [
+440
+],
+"family": 21,
+"cls": 0,
+"count": 21410,
+"outof": 49727,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 736,
+"name": "Panther",
+"min": 32,
+"max": 43,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 19304,
+"outof": 38501,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "updated"
+},
+{
+"id": 1085,
+"name": "Elder Stranglethorn Tiger",
+"min": 34,
+"max": 35,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 18923,
+"outof": 37571,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4143,
+"name": "Sparkleshell Snapper",
+"min": 34,
+"max": 35,
+"loc": [
+400
+],
+"family": 21,
+"cls": 0,
+"count": 18595,
+"outof": 36847,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 682,
+"name": "Stranglethorn Tiger",
+"min": 32,
+"max": 33,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 18463,
+"outof": 37192,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 5292,
+"name": "Feral Scar Yeti",
+"min": 43,
+"max": 44,
+"loc": [
+357
+],
+"cls": 0,
+"count": 18183,
+"outof": 41806,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 685,
+"name": "Stranglethorn Raptor",
+"min": 33,
+"max": 34,
+"loc": [
+33
+],
+"family": 11,
+"cls": 0,
+"count": 17329,
+"outof": 34477,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1152,
+"name": "Snapjaw Crocolisk",
+"min": 35,
+"max": 36,
+"loc": [
+33
+],
+"family": 6,
+"cls": 0,
+"count": 17084,
+"outof": 34202,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4150,
+"name": "Saltstone Gazer",
+"min": 34,
+"max": 35,
+"loc": [
+400
+],
+"cls": 0,
+"count": 15233,
+"outof": 30061,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2727,
+"name": "Crag Coyote",
+"min": 35,
+"max": 36,
+"loc": [
+3
+],
+"family": 1,
+"cls": 0,
+"count": 13390,
+"outof": 26820,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2251,
+"name": "Giant Yeti",
+"min": 33,
+"max": 34,
+"loc": [
+36
+],
+"cls": 0,
+"count": 12195,
+"outof": 24227,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2406,
+"name": "Mountain Lion",
+"min": 32,
+"max": 33,
+"loc": [
+36,
+267
+],
+"family": 2,
+"cls": 0,
+"count": 12064,
+"outof": 23858,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 690,
+"name": "Cold Eye Basilisk",
+"min": 39,
+"max": 40,
+"loc": [
+33
+],
+"cls": 0,
+"count": 11342,
+"outof": 14687,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 7078,
+"name": "Cleft Scorpid",
+"min": 35,
+"max": 36,
+"loc": [
+1337
+],
+"family": 20,
+"cls": 0,
+"count": 10313,
+"outof": 20985,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 5295,
+"name": "Enraged Feral Scar",
+"min": 44,
+"max": 45,
+"loc": [
+357
+],
+"cls": 0,
+"count": 9777,
+"outof": 22752,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4696,
+"name": "Scorpashi Snapper",
+"min": 30,
+"max": 31,
+"loc": [
+405
+],
+"family": 20,
+"cls": 0,
+"count": 9470,
+"outof": 18780,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4728,
+"name": "Gritjaw Basilisk",
+"min": 31,
+"max": 32,
+"loc": [
+405
+],
+"cls": 0,
+"count": 9426,
+"outof": 18955,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 5305,
+"name": "Frayfeather Skystormer",
+"min": 45,
+"max": 46,
+"loc": [
+357
+],
+"cls": 0,
+"count": 9320,
+"outof": 21864,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2407,
+"name": "Hulking Mountain Lion",
+"min": 33,
+"max": 34,
+"loc": [
+36,
+267
+],
+"family": 2,
+"cls": 0,
+"count": 9250,
+"outof": 18574,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 5426,
+"name": "Blisterpaw Hyena",
+"min": 44,
+"max": 45,
+"loc": [
+440
+],
+"family": 25,
+"cls": 0,
+"count": 8840,
+"outof": 20500,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 5425,
+"name": "Starving Blisterpaw",
+"min": 41,
+"max": 42,
+"loc": [
+440
+],
+"family": 25,
+"cls": 0,
+"count": 8560,
+"outof": 20104,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2250,
+"name": "Mountain Yeti",
+"min": 32,
+"max": 33,
+"loc": [
+36
+],
+"cls": 0,
+"count": 8528,
+"outof": 16926,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1087,
+"name": "Sawtooth Snapper",
+"min": 41,
+"max": 42,
+"loc": [
+8
+],
+"family": 6,
+"cls": 0,
+"count": 8516,
+"outof": 19852,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4304,
+"name": "Scarlet Tracking Hound",
+"min": 33,
+"max": 34,
+"loc": [
+796
+],
+"family": 25,
+"cls": 1,
+"count": 8090,
+"outof": 15906,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 49.7704,2: 50.2296}",
+"status": "unchanged"
+},
+{
+"id": 5304,
+"name": "Frayfeather Stagwing",
+"min": 44,
+"max": 45,
+"loc": [
+357
+],
+"cls": 0,
+"count": 8071,
+"outof": 18842,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4357,
+"name": "Bloodfen Lashtail",
+"min": 40,
+"max": 41,
+"loc": [
+15
+],
+"family": 11,
+"cls": 0,
+"count": 7722,
+"outof": 10125,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 221292,
+"name": "Dreamhunter Hound",
+"min": 40,
+"max": 40,
+"loc": [
+331
+],
+"cls": 0,
+"count": 6944,
+"outof": 8900,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4139,
+"name": "Scorpid Terror",
+"min": 33,
+"max": 34,
+"loc": [
+400
+],
+"family": 20,
+"cls": 0,
+"count": 6572,
+"outof": 13290,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4342,
+"name": "Drywallow Vicejaw",
+"min": 36,
+"max": 37,
+"loc": [
+15
+],
+"family": 6,
+"cls": 0,
+"count": 6318,
+"outof": 8342,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2560,
+"name": "Highland Thrasher",
+"min": 33,
+"max": 34,
+"loc": [
+45
+],
+"family": 11,
+"cls": 0,
+"count": 6088,
+"outof": 12410,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4343,
+"name": "Drywallow Snapper",
+"min": 37,
+"max": 38,
+"loc": [
+15
+],
+"family": 6,
+"cls": 0,
+"count": 5534,
+"outof": 7180,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1084,
+"name": "Young Sawtooth Crocolisk",
+"min": 35,
+"max": 36,
+"loc": [
+8
+],
+"family": 6,
+"cls": 0,
+"count": 5291,
+"outof": 10621,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 8138,
+"name": "Sul'lithuz Broodling",
+"min": 39,
+"max": 39,
+"loc": [
+1176
+],
+"cls": 0,
+"count": 4951,
+"outof": 7155,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50.437,2: 49.563}",
+"status": "unchanged"
+},
+{
+"id": 7333,
+"name": "Withered Battle Boar",
+"min": 34,
+"max": 34,
+"loc": [
+722
+],
+"cls": 0,
+"count": 4917,
+"outof": 9827,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50.4488,2: 49.5512}",
+"status": "unchanged"
+},
+{
+"id": 2731,
+"name": "Ridge Stalker",
+"min": 36,
+"max": 37,
+"loc": [
+3
+],
+"family": 2,
+"cls": 0,
+"count": 4384,
+"outof": 5672,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 1151,
+"name": "Saltwater Crocolisk",
+"min": 35,
+"max": 36,
+"loc": [
+33
+],
+"family": 6,
+"cls": 0,
+"count": 4380,
+"outof": 8811,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4861,
+"name": "Shrike Bat",
+"min": 38,
+"max": 39,
+"loc": [
+1337
+],
+"family": 24,
+"cls": 1,
+"count": 4229,
+"outof": 5981,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 50.178,2: 49.822}",
+"status": "unchanged"
+},
+{
+"id": 4726,
+"name": "Raging Thunder Lizard",
+"min": 33,
+"max": 34,
+"loc": [
+405
+],
+"cls": 0,
+"count": 4023,
+"outof": 8240,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 768,
+"name": "Shadow Panther",
+"min": 39,
+"max": 40,
+"loc": [
+8
+],
+"family": 2,
+"cls": 0,
+"count": 3883,
+"outof": 6296,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4729,
+"name": "Hulking Gritjaw Basilisk",
+"min": 35,
+"max": 36,
+"loc": [
+405
+],
+"cls": 0,
+"count": 3650,
+"outof": 4735,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 4144,
+"name": "Sparkleshell Borer",
+"min": 32,
+"max": 33,
+"loc": [
+400
+],
+"family": 21,
+"cls": 0,
+"count": 3626,
+"outof": 7131,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+}
+],
+"dropped-by": [
+{
+"id": 2729,
+"name": "Elder Crag Coyote",
+"min": 39,
+"max": 40,
+"loc": [
+3
+],
+"family": 1,
+"cls": 0,
+"count": 188,
+"outof": 130267,
+"fcount": 47,
+"foutof": 10545,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 7078,
+"name": "Cleft Scorpid",
+"min": 35,
+"max": 36,
+"loc": [
+1337
+],
+"family": 20,
+"cls": 0,
+"count": 406,
+"outof": 51976,
+"fcount": 44,
+"foutof": 9242,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1557,
+"name": "Elder Mistvale Gorilla",
+"min": 40,
+"max": 41,
+"loc": [
+33
+],
+"family": 9,
+"cls": 0,
+"count": 374,
+"outof": 166481,
+"fcount": 38,
+"foutof": 14030,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 686,
+"name": "Lashtail Raptor",
+"min": 35,
+"max": 36,
+"loc": [
+33
+],
+"family": 11,
+"cls": 0,
+"count": 70,
+"outof": 120742,
+"fcount": 29,
+"foutof": 10654,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4304,
+"name": "Scarlet Tracking Hound",
+"min": 33,
+"max": 34,
+"loc": [
+796
+],
+"family": 25,
+"cls": 1,
+"count": 265,
+"outof": 54646,
+"fcount": 28,
+"foutof": 8907,
+"pctstack": "{1: 40.7547,2: 59.2453}",
+"status": "unchanged"
+},
+{
+"id": 7334,
+"name": "Battle Boar Horror",
+"min": 37,
+"max": 37,
+"loc": [
+722
+],
+"cls": 0,
+"count": 52,
+"outof": 10658,
+"fcount": 28,
+"foutof": 1688,
+"pctstack": "{1: 50,2: 50}",
+"status": "unchanged"
+},
+{
+"id": 2561,
+"name": "Highland Fleshstalker",
+"min": 36,
+"max": 37,
+"loc": [
+45
+],
+"family": 11,
+"cls": 0,
+"count": 162,
+"outof": 98709,
+"fcount": 27,
+"foutof": 9130,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4140,
+"name": "Scorpid Reaver",
+"min": 31,
+"max": 32,
+"loc": [
+400
+],
+"family": 20,
+"cls": 0,
+"count": 99,
+"outof": 112137,
+"fcount": 23,
+"foutof": 10195,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4861,
+"name": "Shrike Bat",
+"min": 38,
+"max": 39,
+"loc": [
+1337
+],
+"family": 24,
+"cls": 1,
+"count": 122,
+"outof": 20165,
+"fcount": 22,
+"foutof": 1924,
+"pctstack": "{1: 48.3607,2: 51.6393}",
+"status": "unchanged"
+},
+{
+"id": 685,
+"name": "Stranglethorn Raptor",
+"min": 33,
+"max": 34,
+"loc": [
+33
+],
+"family": 11,
+"cls": 0,
+"count": 58,
+"outof": 71090,
+"fcount": 22,
+"foutof": 6533,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1087,
+"name": "Sawtooth Snapper",
+"min": 41,
+"max": 42,
+"loc": [
+8
+],
+"family": 6,
+"cls": 0,
+"count": 58,
+"outof": 57843,
+"fcount": 22,
+"foutof": 3592,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 14123,
+"name": "Steeljaw Snapper",
+"min": 42,
+"max": 43,
+"loc": [
+440
+],
+"family": 21,
+"cls": 0,
+"count": 40,
+"outof": 68007,
+"fcount": 21,
+"foutof": 3263,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2249,
+"name": "Ferocious Yeti",
+"min": 31,
+"max": 32,
+"loc": [
+267,
+36
+],
+"cls": 0,
+"count": 161,
+"outof": 30057,
+"fcount": 19,
+"foutof": 2338,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 684,
+"name": "Shadowmaw Panther",
+"min": 37,
+"max": 38,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 152,
+"outof": 75535,
+"fcount": 19,
+"foutof": 8436,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 689,
+"name": "Crystal Spine Basilisk",
+"min": 34,
+"max": 35,
+"loc": [
+33
+],
+"cls": 0,
+"count": 173,
+"outof": 146397,
+"fcount": 18,
+"foutof": 11561,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4539,
+"name": "Greater Kraul Bat",
+"min": 32,
+"max": 32,
+"loc": [
+491
+],
+"family": 24,
+"cls": 1,
+"count": 120,
+"outof": 9479,
+"fcount": 18,
+"foutof": 1684,
+"pctstack": "{1: 55.8333,2: 44.1667}",
+"status": "unchanged"
+},
+{
+"id": 4151,
+"name": "Saltstone Crystalhide",
+"min": 32,
+"max": 33,
+"loc": [
+400
+],
+"cls": 0,
+"count": 99,
+"outof": 83428,
+"fcount": 18,
+"foutof": 9410,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 687,
+"name": "Jungle Stalker",
+"min": 40,
+"max": 41,
+"loc": [
+33
+],
+"family": 11,
+"cls": 0,
+"count": 378,
+"outof": 161295,
+"fcount": 17,
+"foutof": 14181,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4825,
+"name": "Aku'mai Snapjaw",
+"min": 26,
+"max": 27,
+"loc": [
+719
+],
+"family": 21,
+"cls": 1,
+"count": 248,
+"outof": 18854,
+"fcount": 16,
+"foutof": 2757,
+"pctstack": "{1: 46.7742,2: 53.2258}",
+"status": "unchanged"
+},
+{
+"id": 7333,
+"name": "Withered Battle Boar",
+"min": 34,
+"max": 34,
+"loc": [
+722
+],
+"cls": 0,
+"count": 152,
+"outof": 26507,
+"fcount": 16,
+"foutof": 4254,
+"pctstack": "{1: 50.6579,2: 49.3421}",
+"status": "unchanged"
+},
+{
+"id": 4863,
+"name": "Jadespine Basilisk",
+"min": 39,
+"max": 40,
+"loc": [
+1337
+],
+"cls": 1,
+"count": 60,
+"outof": 10617,
+"fcount": 16,
+"foutof": 1197,
+"pctstack": "{1: 46.6667,2: 53.3333}",
+"status": "unchanged"
+},
+{
+"id": 772,
+"name": "Stranglethorn Tigress",
+"min": 37,
+"max": 38,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 132,
+"outof": 74046,
+"fcount": 15,
+"foutof": 6368,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4143,
+"name": "Sparkleshell Snapper",
+"min": 34,
+"max": 35,
+"loc": [
+400
+],
+"family": 21,
+"cls": 0,
+"count": 93,
+"outof": 86440,
+"fcount": 15,
+"foutof": 8949,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1082,
+"name": "Sawtooth Crocolisk",
+"min": 38,
+"max": 39,
+"loc": [
+8
+],
+"family": 6,
+"cls": 0,
+"count": 67,
+"outof": 59833,
+"fcount": 15,
+"foutof": 3842,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1511,
+"name": "Enraged Silverback Gorilla",
+"min": 41,
+"max": 42,
+"loc": [
+33
+],
+"family": 9,
+"cls": 0,
+"count": 179,
+"outof": 17244,
+"fcount": 14,
+"foutof": 1934,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4538,
+"name": "Kraul Bat",
+"min": 30,
+"max": 31,
+"loc": [
+491
+],
+"family": 24,
+"cls": 1,
+"count": 165,
+"outof": 24989,
+"fcount": 14,
+"foutof": 3441,
+"pctstack": "{1: 46.6667,2: 53.3333}",
+"status": "unchanged"
+},
+{
+"id": 8138,
+"name": "Sul'lithuz Broodling",
+"min": 39,
+"max": 39,
+"loc": [
+1176
+],
+"cls": 0,
+"count": 113,
+"outof": 2369,
+"fcount": 14,
+"foutof": 21,
+"pctstack": "{1: 52.2124,2: 47.7876}",
+"status": "unchanged"
+},
+{
+"id": 1085,
+"name": "Elder Stranglethorn Tiger",
+"min": 34,
+"max": 35,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 67,
+"outof": 68287,
+"fcount": 12,
+"foutof": 7595,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 7268,
+"name": "Sandfury Guardian",
+"min": 45,
+"max": 46,
+"loc": [
+1176
+],
+"cls": 1,
+"count": 56,
+"outof": 9452,
+"fcount": 12,
+"foutof": 2379,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 7022,
+"name": "Venomlash Scorpid",
+"min": 39,
+"max": 40,
+"loc": [
+1337
+],
+"family": 20,
+"cls": 1,
+"count": 44,
+"outof": 9771,
+"fcount": 12,
+"foutof": 793,
+"pctstack": "{1: 56.8182,2: 43.1818}",
+"status": "unchanged"
+},
+{
+"id": 4323,
+"name": "Searing Hatchling",
+"min": 41,
+"max": 42,
+"loc": [
+15
+],
+"cls": 0,
+"count": 37,
+"outof": 49445,
+"fcount": 12,
+"foutof": 3520,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4274,
+"name": "Fenrus the Devourer",
+"min": 25,
+"max": 25,
+"loc": [
+209
+],
+"cls": 1,
+"count": 18,
+"outof": 14561,
+"fcount": 12,
+"foutof": 1535,
+"pctstack": "{1: 61.1111,2: 38.8889}",
+"status": "unchanged"
+},
+{
+"id": 5295,
+"name": "Enraged Feral Scar",
+"min": 44,
+"max": 45,
+"loc": [
+357
+],
+"cls": 0,
+"count": 61,
+"outof": 21267,
+"fcount": 11,
+"foutof": 1415,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 682,
+"name": "Stranglethorn Tiger",
+"min": 32,
+"max": 33,
+"loc": [
+33
+],
+"family": 2,
+"cls": 0,
+"count": 60,
+"outof": 74962,
+"fcount": 11,
+"foutof": 7349,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4324,
+"name": "Searing Whelp",
+"min": 42,
+"max": 43,
+"loc": [
+15
+],
+"cls": 0,
+"count": 42,
+"outof": 49436,
+"fcount": 11,
+"foutof": 3685,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5268,
+"name": "Ironfur Bear",
+"min": 41,
+"max": 42,
+"loc": [
+357
+],
+"family": 4,
+"cls": 0,
+"count": 57,
+"outof": 33852,
+"fcount": 10,
+"foutof": 2117,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2727,
+"name": "Crag Coyote",
+"min": 35,
+"max": 36,
+"loc": [
+3
+],
+"family": 1,
+"cls": 0,
+"count": 38,
+"outof": 51303,
+"fcount": 10,
+"foutof": 3890,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5292,
+"name": "Feral Scar Yeti",
+"min": 43,
+"max": 44,
+"loc": [
+357
+],
+"cls": 0,
+"count": 115,
+"outof": 37113,
+"fcount": 9,
+"foutof": 2666,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1152,
+"name": "Snapjaw Crocolisk",
+"min": 35,
+"max": 36,
+"loc": [
+33
+],
+"family": 6,
+"cls": 0,
+"count": 73,
+"outof": 85378,
+"fcount": 9,
+"foutof": 8575,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5286,
+"name": "Longtooth Runner",
+"min": 40,
+"max": 41,
+"loc": [
+357,
+400
+],
+"family": 1,
+"cls": 0,
+"count": 70,
+"outof": 46769,
+"fcount": 8,
+"foutof": 2014,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2406,
+"name": "Mountain Lion",
+"min": 32,
+"max": 33,
+"loc": [
+36,
+267
+],
+"family": 2,
+"cls": 0,
+"count": 68,
+"outof": 53099,
+"fcount": 8,
+"foutof": 2846,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5305,
+"name": "Frayfeather Skystormer",
+"min": 45,
+"max": 46,
+"loc": [
+357
+],
+"cls": 0,
+"count": 37,
+"outof": 52690,
+"fcount": 8,
+"foutof": 3190,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4139,
+"name": "Scorpid Terror",
+"min": 33,
+"max": 34,
+"loc": [
+400
+],
+"family": 20,
+"cls": 0,
+"count": 34,
+"outof": 34813,
+"fcount": 8,
+"foutof": 1620,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3927,
+"name": "Wolf Master Nandos",
+"min": 25,
+"max": 25,
+"loc": [
+209
+],
+"cls": 1,
+"count": 23,
+"outof": 12398,
+"fcount": 8,
+"foutof": 1314,
+"pctstack": "{1: 52.1739,2: 47.8261}",
+"status": "unchanged"
+},
+{
+"id": 2674,
+"name": "Advanced Target Dummy",
+"loc": [
+1637
+],
+"cls": 0,
+"count": 6,
+"outof": 8,
+"fcount": 8,
+"foutof": 8,
+"pctstack": "{1: 50,2: 50}",
+"status": "unchanged"
+},
+{
+"id": 206,
+"name": "Nightbane Vile Fang",
+"min": 29,
+"max": 30,
+"loc": [
+10
+],
+"cls": 0,
+"count": 179,
+"outof": 28128,
+"fcount": 7,
+"foutof": 1843,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 205,
+"name": "Nightbane Dark Runner",
+"min": 28,
+"max": 29,
+"loc": [
+10
+],
+"cls": 0,
+"count": 87,
+"outof": 32441,
+"fcount": 7,
+"foutof": 2906,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2248,
+"name": "Cave Yeti",
+"min": 30,
+"max": 31,
+"loc": [
+267
+],
+"cls": 0,
+"count": 85,
+"outof": 51659,
+"fcount": 7,
+"foutof": 1645,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4150,
+"name": "Saltstone Gazer",
+"min": 34,
+"max": 35,
+"loc": [
+400
+],
+"cls": 0,
+"count": 52,
+"outof": 47172,
+"fcount": 7,
+"foutof": 3351,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5278,
+"name": "Sprite Darter",
+"min": 43,
+"max": 45,
+"loc": [
+357
+],
+"cls": 0,
+"count": 37,
+"outof": 44305,
+"fcount": 7,
+"foutof": 2614,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2559,
+"name": "Highland Strider",
+"min": 30,
+"max": 31,
+"loc": [
+45,
+267
+],
+"family": 11,
+"cls": 0,
+"count": 28,
+"outof": 136365,
+"fcount": 7,
+"foutof": 10066,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4147,
+"name": "Saltstone Basilisk",
+"min": 30,
+"max": 31,
+"loc": [
+400
+],
+"cls": 0,
+"count": 24,
+"outof": 80453,
+"fcount": 7,
+"foutof": 5228,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4144,
+"name": "Sparkleshell Borer",
+"min": 32,
+"max": 33,
+"loc": [
+400
+],
+"family": 21,
+"cls": 0,
+"count": 11,
+"outof": 16368,
+"fcount": 7,
+"foutof": 1193,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 5422,
+"name": "Scorpid Hunter",
+"min": 40,
+"max": 41,
+"loc": [
+440
+],
+"family": 20,
+"cls": 0,
+"count": 11,
+"outof": 33303,
+"fcount": 7,
+"foutof": 2082,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2732,
+"name": "Ridge Huntress",
+"min": 38,
+"max": 39,
+"loc": [
+3
+],
+"family": 2,
+"cls": 0,
+"count": 56,
+"outof": 28198,
+"fcount": 6,
+"foutof": 775,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4396,
+"name": "Mudrock Tortoise",
+"min": 36,
+"max": 37,
+"loc": [
+15
+],
+"family": 21,
+"cls": 0,
+"count": 51,
+"outof": 38012,
+"fcount": 6,
+"foutof": 1545,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2725,
+"name": "Scalding Whelp",
+"min": 41,
+"max": 43,
+"loc": [
+3
+],
+"cls": 0,
+"count": 43,
+"outof": 104129,
+"fcount": 6,
+"foutof": 6286,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2407,
+"name": "Hulking Mountain Lion",
+"min": 33,
+"max": 34,
+"loc": [
+36,
+267
+],
+"family": 2,
+"cls": 0,
+"count": 40,
+"outof": 42388,
+"fcount": 6,
+"foutof": 2060,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4696,
+"name": "Scorpashi Snapper",
+"min": 30,
+"max": 31,
+"loc": [
+405
+],
+"family": 20,
+"cls": 0,
+"count": 40,
+"outof": 56322,
+"fcount": 6,
+"foutof": 4769,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2560,
+"name": "Highland Thrasher",
+"min": 33,
+"max": 34,
+"loc": [
+45
+],
+"family": 11,
+"cls": 0,
+"count": 37,
+"outof": 31927,
+"fcount": 6,
+"foutof": 2698,
+"pctstack": null,
+"status": "unchanged"
+}
+],
+"contained-in-object": [
+{
+"id": 153464,
+"name": "Large Solid Chest",
+"loc": [
+2597,
+1583,
+2557,
+-1
+],
+"count": 1,
+"outof": 5,
+"fcount": 17,
+"foutof": 573,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 153469,
+"name": "Large Mithril Bound Chest",
+"loc": [
+1583,
+2557,
+2017
+],
+"count": 1,
+"outof": 3,
+"fcount": 5,
+"foutof": 68,
+"pctstack": "",
+"status": "updated",
+"skill": 1
+},
+{
+"id": 153451,
+"name": "Solid Chest",
+"loc": [
+47,
+16,
+4,
+-1
+],
+"count": 1,
+"outof": 119,
+"fcount": 110,
+"foutof": 3311,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 131979,
+"name": "Large Darkwood Chest",
+"loc": [
+1337
+],
+"count": 1,
+"outof": 33,
+"fcount": 4,
+"foutof": 26,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 105581,
+"name": "Alliance Chest",
+"loc": [
+45
+],
+"count": 1,
+"outof": 6,
+"fcount": 6,
+"foutof": 59,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 153463,
+"name": "Large Solid Chest",
+"loc": [
+28
+],
+"count": 1,
+"outof": 11,
+"fcount": 4,
+"foutof": 26,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 2855,
+"name": "Solid Chest",
+"loc": [
+36,
+33,
+405,
+-1
+],
+"count": 1,
+"outof": 17,
+"fcount": 272,
+"foutof": 3906,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 105578,
+"name": "Horde Chest",
+"loc": [
+45
+],
+"count": 1,
+"outof": 6,
+"fcount": 19,
+"foutof": 145,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 105579,
+"name": "Alliance Chest",
+"loc": [
+36,
+45
+],
+"count": 1,
+"outof": 6,
+"fcount": 12,
+"foutof": 217,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 75297,
+"name": "Large Iron Bound Chest",
+"loc": [
+-1,
+722,
+796
+],
+"count": 1,
+"outof": 15,
+"fcount": 2,
+"foutof": 19,
+"pctstack": "",
+"status": "updated",
+"skill": 1
+},
+{
+"id": 75296,
+"name": "Large Iron Bound Chest",
+"loc": [
+-1,
+796
+],
+"count": 1,
+"outof": 18,
+"fcount": 8,
+"foutof": 69,
+"pctstack": "",
+"status": "updated",
+"skill": 1
+},
+{
+"id": 75299,
+"name": "Large Solid Chest",
+"loc": [
+-1,
+-3,
+2597,
+-1
+],
+"count": 2,
+"outof": 24,
+"fcount": 129,
+"foutof": 1264,
+"pctstack": "{1: 50,2: 50}",
+"status": "unchanged"
+},
+{
+"id": 75300,
+"name": "Large Solid Chest",
+"loc": [
+-1,
+2597,
+722,
+-1
+],
+"count": 2,
+"outof": 11,
+"fcount": 109,
+"foutof": 845,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 153454,
+"name": "Solid Chest",
+"loc": [
+139,
+618
+],
+"count": 2,
+"outof": 53,
+"fcount": 80,
+"foutof": 2202,
+"pctstack": "{2: 50,3: 50}",
+"status": "unchanged"
+},
+{
+"id": 2857,
+"name": "Solid Chest",
+"loc": [
+45,
+405,
+36,
+-1
+],
+"count": 2,
+"outof": 28,
+"fcount": 341,
+"foutof": 4758,
+"pctstack": "{1: 50,3: 50}",
+"status": "unchanged"
+},
+{
+"id": 105570,
+"name": "Alliance Strongbox",
+"loc": [
+36
+],
+"count": 3,
+"outof": 44,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{1: 66.6667,2: 33.3333}",
+"status": "updated",
+"skill": 1
+},
+{
+"id": 4149,
+"name": "Solid Chest",
+"loc": [
+33,
+51,
+440,
+-1
+],
+"count": 3,
+"outof": 83,
+"fcount": 315,
+"foutof": 5634,
+"pctstack": "{2: 33.3333,3: 66.6667}",
+"status": "unchanged"
+},
+{
+"id": 153453,
+"name": "Solid Chest",
+"loc": [
+46,
+16,
+28,
+-1
+],
+"count": 4,
+"outof": 79,
+"fcount": 217,
+"foutof": 3862,
+"pctstack": "{2: 75,3: 25}",
+"status": "unchanged"
+},
+{
+"id": 153468,
+"name": "Large Mithril Bound Chest",
+"loc": [
+28,
+-1
+],
+"count": 5,
+"outof": 76,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 80,3: 20}",
+"status": "updated",
+"skill": 1
+}
+],
+"created-by-spell": [
+{
+"id": 20649,
+"name": "Heavy Leather",
+"fcount": 0,
+"foutof": 0,
+"status": "unchanged",
+"skill": [
+165
+],
+"learnedat": 125,
+"reagents": [
+[
+2319,
+5
+]
+],
+"colors": [
+125,
+125,
+130,
+135
+]
+}
+]
+},
+"249410": {
+"item": "/forever/item=249410/sulfuric-acid",
+"created-by-spell": [
+{
+"id": 1249633,
+"name": "Sulfuric Acid",
+"fcount": 0,
+"foutof": 0,
+"status": "new",
+"skill": [
+171
+],
+"learnedat": 40,
+"reagents": [
+[
+249391,
+2
+],
+[
+3371,
+1
+]
+],
+"colors": [
+40,
+50,
+70,
+90
+]
+}
+],
+"comments": [],
+"quick": "Quick Facts\n\nNew in Forever\nCrafting Reagent\nSide: None\nAdded in patch 1.60.1\nIcon: \n trade_alchemy\n\n\nScreenshots\n\nNone yet \u2013 Submit one!\n\n\nVideos\n\nNone yet \u2013 Suggest one!\nGather info with the Wowhead Client\nRelated\nCreated by (1)\nTaught by (31)\nReagent for (45)\nComments\nScreenshots\n1 - 1 of 1\n\u00a0\nChanges\n\t\nName\n\t\nReagents\n\t\nSkill\n\t\nPop.\n\nNew\t\n\t\nSulfuric Acid\n\t\n2\n\t\nAlchemy (40)\n40 50 70 90\n\t\n1 - 1 o"
+},
+"249427": {
+"item": "/forever/item=249427/pristine-leather",
+"skinned-from": [
+{
+"id": 270693,
+"name": "Daggerfang",
+"min": 15,
+"max": 15,
+"loc": [
+38
+],
+"family": 6,
+"cls": 0,
+"count": 3,
+"outof": 294,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 66.6667,3: 33.3333}",
+"status": "new"
+},
+{
+"id": 3475,
+"name": "Echeyakee",
+"min": 16,
+"max": 16,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 3,
+"outof": 632,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 3474,
+"name": "Lakota'mani",
+"min": 22,
+"max": 22,
+"loc": [
+17
+],
+"cls": 0,
+"count": 2,
+"outof": 354,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 14272,
+"name": "Snarlflare",
+"min": 18,
+"max": 18,
+"loc": [
+44
+],
+"cls": 4,
+"count": 1,
+"outof": 96,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+},
+{
+"id": 5832,
+"name": "Thunderstomp",
+"min": 24,
+"max": 24,
+"loc": [
+17
+],
+"cls": 4,
+"count": 1,
+"outof": 158,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "",
+"status": "unchanged"
+}
+],
+"dropped-by": [
+{
+"id": 3256,
+"name": "Sunscale Scytheclaw",
+"min": 16,
+"max": 18,
+"loc": [
+17
+],
+"family": 11,
+"cls": 0,
+"count": 45,
+"outof": 168822,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 57.7778,3: 42.2222}",
+"status": "unchanged"
+},
+{
+"id": 547,
+"name": "Great Goretusk",
+"min": 16,
+"max": 17,
+"loc": [
+44,
+40
+],
+"family": 5,
+"cls": 0,
+"count": 28,
+"outof": 173117,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 39.2857,3: 60.7143}",
+"status": "unchanged"
+},
+{
+"id": 565,
+"name": "Rabid Dire Wolf",
+"min": 20,
+"max": 21,
+"loc": [
+10,
+12
+],
+"family": 1,
+"cls": 0,
+"count": 28,
+"outof": 85524,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 28.5714,3: 71.4286}",
+"status": "unchanged"
+},
+{
+"id": 3242,
+"name": "Zhevra Runner",
+"min": 13,
+"max": 14,
+"loc": [
+17
+],
+"cls": 0,
+"count": 27,
+"outof": 116578,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 29.6296,3: 70.3704}",
+"status": "unchanged"
+},
+{
+"id": 3244,
+"name": "Greater Plainstrider",
+"min": 11,
+"max": 12,
+"loc": [
+17
+],
+"family": 12,
+"cls": 0,
+"count": 22,
+"outof": 213383,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 63.6364,3: 36.3636}",
+"status": "unchanged"
+},
+{
+"id": 3461,
+"name": "Oasis Snapjaw",
+"min": 15,
+"max": 16,
+"loc": [
+17
+],
+"family": 21,
+"cls": 0,
+"count": 21,
+"outof": 92976,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 52.381,3: 47.619}",
+"status": "unchanged"
+},
+{
+"id": 3255,
+"name": "Sunscale Screecher",
+"min": 13,
+"max": 15,
+"loc": [
+17
+],
+"family": 11,
+"cls": 0,
+"count": 19,
+"outof": 122085,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 57.8947,3: 42.1053}",
+"status": "unchanged"
+},
+{
+"id": 3246,
+"name": "Fleeting Plainstrider",
+"min": 12,
+"max": 13,
+"loc": [
+17,
+-6
+],
+"family": 12,
+"cls": 0,
+"count": 18,
+"outof": 86479,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 66.6667,3: 33.3333}",
+"status": "unchanged"
+},
+{
+"id": 3636,
+"name": "Deviate Ravager",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 11,
+"cls": 1,
+"count": 17,
+"outof": 70473,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 47.0588,3: 52.9412}",
+"status": "unchanged"
+},
+{
+"id": 454,
+"name": "Young Goretusk",
+"min": 12,
+"max": 13,
+"loc": [
+40
+],
+"family": 5,
+"cls": 0,
+"count": 16,
+"outof": 183176,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 68.75,3: 31.25}",
+"status": "unchanged"
+},
+{
+"id": 3245,
+"name": "Ornery Plainstrider",
+"min": 16,
+"max": 17,
+"loc": [
+17
+],
+"family": 12,
+"cls": 0,
+"count": 15,
+"outof": 94400,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 66.6667,3: 33.3333}",
+"status": "unchanged"
+},
+{
+"id": 3637,
+"name": "Deviate Guardian",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 11,
+"cls": 1,
+"count": 14,
+"outof": 62470,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 64.2857,3: 35.7143}",
+"status": "unchanged"
+},
+{
+"id": 441,
+"name": "Black Dragon Whelp",
+"min": 17,
+"max": 18,
+"loc": [
+44
+],
+"cls": 0,
+"count": 14,
+"outof": 85305,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 85.7143,3: 14.2857}",
+"status": "unchanged"
+},
+{
+"id": 2164,
+"name": "Rabid Thistle Bear",
+"min": 13,
+"max": 14,
+"loc": [
+148
+],
+"cls": 0,
+"count": 13,
+"outof": 124988,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 53.8462,3: 46.1538}",
+"status": "unchanged"
+},
+{
+"id": 1693,
+"name": "Loch Crocolisk",
+"min": 14,
+"max": 15,
+"loc": [
+38
+],
+"family": 6,
+"cls": 0,
+"count": 12,
+"outof": 119590,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 41.6667,3: 58.3333}",
+"status": "unchanged"
+},
+{
+"id": 4127,
+"name": "Hecklefang Hyena",
+"min": 15,
+"max": 16,
+"loc": [
+17
+],
+"family": 25,
+"cls": 0,
+"count": 12,
+"outof": 52464,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 33.3333,3: 66.6667}",
+"status": "unchanged"
+},
+{
+"id": 5053,
+"name": "Deviate Crocolisk",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"family": 6,
+"cls": 0,
+"count": 11,
+"outof": 57677,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 27.2727,3: 72.7273}",
+"status": "unchanged"
+},
+{
+"id": 157,
+"name": "Goretusk",
+"min": 14,
+"max": 15,
+"loc": [
+40
+],
+"family": 5,
+"cls": 0,
+"count": 11,
+"outof": 88298,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 81.8182,3: 18.1818}",
+"status": "unchanged"
+},
+{
+"id": 1766,
+"name": "Mottled Worg",
+"min": 11,
+"max": 12,
+"loc": [
+130
+],
+"family": 1,
+"cls": 0,
+"count": 11,
+"outof": 78102,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 18.1818,3: 81.8182}",
+"status": "unchanged"
+},
+{
+"id": 1779,
+"name": "Moonrage Glutton",
+"min": 12,
+"max": 13,
+"loc": [
+130
+],
+"cls": 0,
+"count": 11,
+"outof": 46574,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 63.6364,3: 36.3636}",
+"status": "unchanged"
+},
+{
+"id": 3425,
+"name": "Savannah Prowler",
+"min": 14,
+"max": 15,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 11,
+"outof": 109914,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 18.1818,3: 81.8182}",
+"status": "unchanged"
+},
+{
+"id": 5048,
+"name": "Deviate Adder",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"cls": 1,
+"count": 10,
+"outof": 33481,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 70,3: 30}",
+"status": "unchanged"
+},
+{
+"id": 1778,
+"name": "Ferocious Grizzled Bear",
+"min": 11,
+"max": 12,
+"loc": [
+130
+],
+"family": 4,
+"cls": 0,
+"count": 10,
+"outof": 47588,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 70,3: 30}",
+"status": "unchanged"
+},
+{
+"id": 2069,
+"name": "Moonstalker",
+"min": 14,
+"max": 15,
+"loc": [
+148
+],
+"family": 2,
+"cls": 0,
+"count": 10,
+"outof": 70857,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 20,3: 80}",
+"status": "unchanged"
+},
+{
+"id": 3415,
+"name": "Savannah Huntress",
+"min": 11,
+"max": 12,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 10,
+"outof": 59041,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 80,3: 20}",
+"status": "unchanged"
+},
+{
+"id": 8886,
+"name": "Deviate Python",
+"min": 18,
+"max": 19,
+"loc": [
+718
+],
+"cls": 0,
+"count": 9,
+"outof": 38110,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 44.4444,3: 55.5556}",
+"status": "unchanged"
+},
+{
+"id": 2163,
+"name": "Thistle Bear",
+"min": 11,
+"max": 12,
+"loc": [
+148,
+-6
+],
+"family": 4,
+"cls": 0,
+"count": 9,
+"outof": 60672,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 22.2222,3: 77.7778}",
+"status": "unchanged"
+},
+{
+"id": 2237,
+"name": "Moonstalker Sire",
+"min": 17,
+"max": 18,
+"loc": [
+148
+],
+"family": 2,
+"cls": 0,
+"count": 9,
+"outof": 37708,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 33.3333,3: 66.6667}",
+"status": "unchanged"
+},
+{
+"id": 3853,
+"name": "Shadowfang Moonwalker",
+"min": 19,
+"max": 20,
+"loc": [
+209
+],
+"cls": 1,
+"count": 8,
+"outof": 59457,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 25,3: 75}",
+"status": "unchanged"
+},
+{
+"id": 5056,
+"name": "Deviate Dreadfang",
+"min": 20,
+"max": 21,
+"loc": [
+718
+],
+"family": 27,
+"cls": 1,
+"count": 8,
+"outof": 35907,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 50,3: 50}",
+"status": "unchanged"
+},
+{
+"id": 263470,
+"name": "Bloodhound Runt",
+"loc": [
+16919
+],
+"cls": 0,
+"count": 8,
+"outof": 2167,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 62.5,3: 37.5}",
+"status": "new"
+},
+{
+"id": 1020,
+"name": "Mottled Raptor",
+"min": 22,
+"max": 23,
+"loc": [
+11
+],
+"family": 11,
+"cls": 0,
+"count": 8,
+"outof": 74298,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 50,3: 50}",
+"status": "unchanged"
+},
+{
+"id": 1186,
+"name": "Elder Black Bear",
+"min": 11,
+"max": 12,
+"loc": [
+38
+],
+"family": 4,
+"cls": 0,
+"count": 8,
+"outof": 70667,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 50,3: 50}",
+"status": "unchanged"
+},
+{
+"id": 3239,
+"name": "Thunderhead",
+"min": 20,
+"max": 21,
+"loc": [
+17
+],
+"cls": 0,
+"count": 7,
+"outof": 58996,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 57.1429,3: 42.8571}",
+"status": "unchanged"
+},
+{
+"id": 3240,
+"name": "Stormsnout",
+"min": 18,
+"max": 19,
+"loc": [
+17
+],
+"cls": 0,
+"count": 7,
+"outof": 45552,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 14.2857,3: 85.7143}",
+"status": "unchanged"
+},
+{
+"id": 3426,
+"name": "Zhevra Charger",
+"min": 17,
+"max": 18,
+"loc": [
+17
+],
+"cls": 0,
+"count": 6,
+"outof": 16250,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 16.6667,3: 83.3333}",
+"status": "unchanged"
+},
+{
+"id": 4012,
+"name": "Pridewing Wyvern",
+"min": 21,
+"max": 22,
+"loc": [
+406
+],
+"cls": 0,
+"count": 6,
+"outof": 41337,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2529,
+"name": "Son of Arugal",
+"min": 24,
+"max": 25,
+"loc": [
+209
+],
+"cls": 1,
+"count": 5,
+"outof": 27080,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 60,3: 40}",
+"status": "unchanged"
+},
+{
+"id": 3859,
+"name": "Shadowfang Ragetooth",
+"min": 23,
+"max": 24,
+"loc": [
+209
+],
+"cls": 1,
+"count": 5,
+"outof": 29030,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 60,3: 40}",
+"status": "unchanged"
+},
+{
+"id": 3861,
+"name": "Bleak Worg",
+"min": 18,
+"max": 25,
+"loc": [
+209
+],
+"family": 1,
+"cls": 1,
+"count": 5,
+"outof": 65099,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 40,3: 60}",
+"status": "unchanged"
+},
+{
+"id": 213,
+"name": "Starving Dire Wolf",
+"min": 19,
+"max": 20,
+"loc": [
+10,
+12
+],
+"family": 1,
+"cls": 0,
+"count": 5,
+"outof": 96882,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 40,3: 60}",
+"status": "unchanged"
+},
+{
+"id": 1417,
+"name": "Young Wetlands Crocolisk",
+"min": 21,
+"max": 22,
+"loc": [
+11
+],
+"family": 6,
+"cls": 0,
+"count": 5,
+"outof": 74370,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 60,3: 40}",
+"status": "unchanged"
+},
+{
+"id": 1893,
+"name": "Moonrage Sentry",
+"min": 14,
+"max": 15,
+"loc": [
+130
+],
+"cls": 1,
+"count": 5,
+"outof": 4319,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2321,
+"name": "Foreststrider Fledgling",
+"min": 11,
+"max": 13,
+"loc": [
+148
+],
+"family": 12,
+"cls": 0,
+"count": 5,
+"outof": 56055,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 60,3: 40}",
+"status": "unchanged"
+},
+{
+"id": 3234,
+"name": "Lost Barrens Kodo",
+"min": 14,
+"max": 15,
+"loc": [
+17
+],
+"cls": 0,
+"count": 5,
+"outof": 14705,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 40,3: 60}",
+"status": "unchanged"
+},
+{
+"id": 3630,
+"name": "Deviate Coiler",
+"min": 15,
+"max": 16,
+"loc": [
+17,
+-6
+],
+"family": 27,
+"cls": 1,
+"count": 5,
+"outof": 15288,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 60,3: 40}",
+"status": "unchanged"
+},
+{
+"id": 3633,
+"name": "Deviate Slayer",
+"min": 16,
+"max": 17,
+"loc": [
+-6,
+17
+],
+"family": 11,
+"cls": 1,
+"count": 5,
+"outof": 32371,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3809,
+"name": "Ashenvale Bear",
+"min": 21,
+"max": 22,
+"loc": [
+331,
+406
+],
+"family": 4,
+"cls": 0,
+"count": 5,
+"outof": 43643,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3823,
+"name": "Ghostpaw Runner",
+"min": 19,
+"max": 20,
+"loc": [
+331,
+17
+],
+"family": 1,
+"cls": 0,
+"count": 5,
+"outof": 20882,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4129,
+"name": "Hecklefang Snarler",
+"min": 18,
+"max": 19,
+"loc": [
+17
+],
+"family": 25,
+"cls": 0,
+"count": 5,
+"outof": 13985,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 40,3: 60}",
+"status": "unchanged"
+},
+{
+"id": 270693,
+"name": "Daggerfang",
+"min": 15,
+"max": 15,
+"loc": [
+38
+],
+"family": 6,
+"cls": 0,
+"count": 5,
+"outof": 432,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "new"
+},
+{
+"id": 5755,
+"name": "Deviate Viper",
+"min": 19,
+"max": 20,
+"loc": [
+718
+],
+"cls": 1,
+"count": 4,
+"outof": 42082,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 75,3: 25}",
+"status": "unchanged"
+},
+{
+"id": 923,
+"name": "Young Black Ravager",
+"min": 23,
+"max": 24,
+"loc": [
+10
+],
+"family": 1,
+"cls": 0,
+"count": 4,
+"outof": 28298,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 50,3: 50}",
+"status": "unchanged"
+},
+{
+"id": 1797,
+"name": "Giant Grizzled Bear",
+"min": 12,
+"max": 13,
+"loc": [
+130
+],
+"family": 4,
+"cls": 0,
+"count": 4,
+"outof": 48127,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2384,
+"name": "Starving Mountain Lion",
+"min": 23,
+"max": 24,
+"loc": [
+267,
+36
+],
+"family": 2,
+"cls": 0,
+"count": 4,
+"outof": 133728,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 75,3: 25}",
+"status": "unchanged"
+},
+{
+"id": 3238,
+"name": "Stormhide",
+"min": 22,
+"max": 23,
+"loc": [
+17
+],
+"cls": 0,
+"count": 4,
+"outof": 44709,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 75,3: 25}",
+"status": "unchanged"
+},
+{
+"id": 3416,
+"name": "Savannah Matriarch",
+"min": 17,
+"max": 18,
+"loc": [
+17
+],
+"family": 2,
+"cls": 0,
+"count": 4,
+"outof": 6611,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 25,3: 75}",
+"status": "unchanged"
+},
+{
+"id": 3851,
+"name": "Shadowfang Whitescalp",
+"min": 18,
+"max": 19,
+"loc": [
+209
+],
+"cls": 1,
+"count": 3,
+"outof": 32220,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 66.6667,3: 33.3333}",
+"status": "unchanged"
+},
+{
+"id": 3862,
+"name": "Slavering Worg",
+"min": 18,
+"max": 25,
+"loc": [
+209
+],
+"family": 1,
+"cls": 1,
+"count": 3,
+"outof": 68796,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 66.6667,3: 33.3333}",
+"status": "unchanged"
+},
+{
+"id": 833,
+"name": "Coyote Packleader",
+"min": 11,
+"max": 12,
+"loc": [
+40
+],
+"family": 1,
+"cls": 0,
+"count": 3,
+"outof": 14937,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 33.3333,3: 66.6667}",
+"status": "unchanged"
+},
+{
+"id": 1191,
+"name": "Mangy Mountain Boar",
+"min": 14,
+"max": 15,
+"loc": [
+38
+],
+"family": 5,
+"cls": 0,
+"count": 3,
+"outof": 29095,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1400,
+"name": "Wetlands Crocolisk",
+"min": 23,
+"max": 24,
+"loc": [
+11
+],
+"family": 6,
+"cls": 0,
+"count": 3,
+"outof": 30455,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 66.6667,3: 33.3333}",
+"status": "unchanged"
+},
+{
+"id": 1770,
+"name": "Moonrage Darkrunner",
+"min": 11,
+"max": 12,
+"loc": [
+130
+],
+"cls": 0,
+"count": 3,
+"outof": 6882,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2185,
+"name": "Darkshore Thresher",
+"min": 12,
+"max": 14,
+"loc": [
+148
+],
+"cls": 0,
+"count": 3,
+"outof": 46947,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2322,
+"name": "Foreststrider",
+"min": 14,
+"max": 16,
+"loc": [
+148
+],
+"family": 12,
+"cls": 0,
+"count": 3,
+"outof": 10943,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3249,
+"name": "Greater Thunderhawk",
+"min": 23,
+"max": 24,
+"loc": [
+17
+],
+"family": 27,
+"cls": 0,
+"count": 3,
+"outof": 15736,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3631,
+"name": "Deviate Stinglash",
+"min": 16,
+"max": 17,
+"loc": [
+-6,
+17
+],
+"family": 27,
+"cls": 1,
+"count": 3,
+"outof": 17187,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3641,
+"name": "Deviate Lurker",
+"min": 16,
+"max": 17,
+"loc": [
+-6
+],
+"cls": 1,
+"count": 3,
+"outof": 8934,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4067,
+"name": "Twilight Runner",
+"min": 23,
+"max": 24,
+"loc": [
+406
+],
+"family": 2,
+"cls": 0,
+"count": 3,
+"outof": 46319,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 33.3333,3: 66.6667}",
+"status": "unchanged"
+},
+{
+"id": 4128,
+"name": "Hecklefang Stalker",
+"min": 22,
+"max": 23,
+"loc": [
+17
+],
+"family": 25,
+"cls": 0,
+"count": 3,
+"outof": 23185,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 4316,
+"name": "Kolkar Packhound",
+"min": 13,
+"max": 13,
+"loc": [
+17
+],
+"family": 25,
+"cls": 0,
+"count": 3,
+"outof": 16400,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3857,
+"name": "Shadowfang Glutton",
+"min": 21,
+"max": 22,
+"loc": [
+209
+],
+"cls": 1,
+"count": 2,
+"outof": 16916,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 3864,
+"name": "Fel Steed",
+"min": 19,
+"max": 20,
+"loc": [
+209
+],
+"cls": 1,
+"count": 2,
+"outof": 8642,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 50,3: 50}",
+"status": "unchanged"
+},
+{
+"id": 3865,
+"name": "Shadow Charger",
+"min": 20,
+"max": 21,
+"loc": [
+209
+],
+"cls": 1,
+"count": 2,
+"outof": 5739,
+"fcount": 0,
+"foutof": 0,
+"pctstack": "{2: 50,3: 50}",
+"status": "unchanged"
+},
+{
+"id": 3868,
+"name": "Blood Seeker",
+"min": 23,
+"max": 24,
+"loc": [
+209
+],
+"family": 24,
+"cls": 1,
+"count": 2,
+"outof": 7384,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1192,
+"name": "Elder Mountain Boar",
+"min": 16,
+"max": 17,
+"loc": [
+38
+],
+"family": 5,
+"cls": 0,
+"count": 2,
+"outof": 28741,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 1769,
+"name": "Moonrage Whitescalp",
+"min": 10,
+"max": 11,
+"loc": [
+130
+],
+"cls": 0,
+"count": 2,
+"outof": 16267,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2165,
+"name": "Grizzled Thistle Bear",
+"min": 16,
+"max": 17,
+"loc": [
+148
+],
+"family": 4,
+"cls": 0,
+"count": 2,
+"outof": 48859,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2323,
+"name": "Giant Foreststrider",
+"min": 17,
+"max": 19,
+"loc": [
+148
+],
+"family": 12,
+"cls": 0,
+"count": 2,
+"outof": 17958,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+},
+{
+"id": 2354,
+"name": "Vicious Gray Bear",
+"min": 22,
+"max": 23,
+"loc": [
+267
+],
+"family": 4,
+"cls": 0,
+"count": 2,
+"outof": 89030,
+"fcount": 0,
+"foutof": 0,
+"pctstack": null,
+"status": "unchanged"
+}
+],
+"comments": [
+{
+"rating": 3,
+"date": "2026-09-18T13:25:57-05:00",
+"body": "Got 2 off The named kodo in mulgore"
+},
+{
+"rating": 1,
+"date": "2026-09-20T05:15:39-05:00",
+"body": "This started dropping from level 18 mobs as soon as i hit skinning 150."
+},
+{
+"rating": 1,
+"date": "2026-09-20T10:49:27-05:00",
+"body": "I got 2 from skinning a boar in westfall @lvl 13 with 75 skinning"
+},
+{
+"rating": 1,
+"date": "2026-09-21T12:28:27-05:00",
+"body": "Just skinned 2 from a worgen in Silverpine. I was doing Arugal's Folly, so it was either a Moonrage Glutton or a Moonrage Darksoul."
+},
+{
+"rating": 1,
+"date": "2026-09-22T11:05:20-05:00",
+"body": "Skinned one off of a lvl 14 or 15 crocodile at skill 108"
+},
+{
+"rating": 1,
+"date": "2026-10-04T19:37:18-05:00",
+"body": "It looks like the drop rate is abysmal. I've been farming these for hours off the wyverns in Stonetalon. I only got one drop of 2x, thats it. The last hour about, I had 2/5 Boutiful harvest, but I didn't get any additional drops beyond the first two."
+},
+{
+"rating": 1,
+"date": "2026-10-05T06:11:23-05:00",
+"body": "Got 10 of it from Wailing Caverns, was skinning raptors, crocolisks and some serpents with snakes but i dont remember what was my skinning skill, but around 150 for  sure"
+},
+{
+"rating": 11,
+"date": "2026-10-09T03:55:44-05:00",
+"body": "the drop rate needs to be fixed this is worse then hunting for artic fur back in wath\nim 225 skinning\n\nduskwood for 5 hours lvl 25 to 29 mobs got 0 of them \nwetlands for 6 hours got 1 of a lvl 28 crock \nloch modan 3 hours got 0\nwailing caverns ran it 4x as the only skinner got 1\n\nThis needs to be fixed you need a ton of them for makeing even your own gear but getting 2 in 20+hours of skinning is horrible and not worth the time.\nhope other poeple have better luck with this because i switched to engineering because of this"
+},
+{
+"rating": 1,
+"date": "2026-10-11T09:05:11-05:00",
+"body": "Why is this considered \"[b]dropped by[/b]\" rather than \"[b]skinned from[/b]\"?\r\n\r\nSomething also seem to be wrong with the drop rate. The past few days I have been farming mobs for several hours, in several spots AND dungeons and haven't gotten one.\r\n\r\nI then decided to unlearn skinning and level it from scratch to see if the skinning level was the issue and I've now leveled from 1-200 without a single pristine leather drop."
+},
+{
+"rating": 1,
+"date": "2026-10-11T20:41:36-05:00",
+"body": "Y'all need to keep in mind these items are 5g from the vendor in Riverglade near the BMAH. 5g each. That is what they will be worth come live because of their rarity."
+},
+{
+"rating": 2,
+"date": "2026-10-14T08:02:33-05:00",
+"body": "This skinning rate is tough, at  225 skinning I farmed about 600 Pridemwings in Stonetalon are Mirkfallen Lake and got 1 (off the rare spawn). Then randomly got one from skinning a level 22 ashenvale bear; roughly 1 in 601 or 0.164%"
+},
+{
+"rating": 3,
+"date": "2026-10-18T12:41:52-05:00",
+"body": "This appears to be bugged as I was getting 5-8 a day just questing until i hit level 25. After 25 I have not seen this drop from any skinned mobs, grey mobs or otherwise at all. \r\n\r\nThere is no way this is the meant functionality but I've never seen any drop after level 25 and everyone I asks has been saying the same."
+}
+]
+}
+}

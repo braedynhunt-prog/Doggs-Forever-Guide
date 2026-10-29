@@ -1,0 +1,316 @@
+HUNTER WEIGHTS (RAP = 1): rwdps=14.0 mwdps=1.0 agi=2.4 ap=1.0 str=0.05 sta=0.35 int=0.5 spi=0.35 sp=0.0
+
+PER-QUEST REWARD RANKING (quests in the guide with at least one hunter-usable reward)
+
+quest 9
+    145.7   Harvester's Pestslayer               Ranged       Bow      10.2 dps +1 Agi +1 Sta  req0
+      5.8   Harvester's Pants                    Legs         Leather  +2 Agi +3 Spi  req0
+      1.4   Harvester's Robe                     Chest        Cloth    +2 Sta +2 Spi  req0
+
+quest 14
+    116.6   Spark of the People's Militia        Ranged       Wand     8.3 dps +1 SP  [wand (hunter cannot use)]  req0
+     13.0   Edge of the People's Militia         Two-Hand     Sword    11.2 dps +5 Sta  req0
+      8.5   Fist of the People's Militia         Main Hand    Mace     8.4 dps +2 Str  [mace (hunter cannot use)]  req0
+      0.0   Boots of the People's Militia        Feet         Leather  +3 SP  req0
+
+quest 38
+      5.0   Sharp Kitchen Knife                  One-Hand     Dagger   5.0 dps  req0
+      0.0   Salma's Oven Mitts                   Hands        Cloth    no stats  req0
+
+quest 46
+     78.3   Junior's Hunting Bow                 Ranged       Bow      5.6 dps  req0
+      4.4   Solid Metal Club                     Main Hand    Mace     4.4 dps  [mace (hunter cannot use)]  req0
+      4.4   Long Bayonet                         One-Hand     Dagger   4.4 dps  req0
+      4.3   Well-used Sword                      Main Hand    Sword    4.3 dps  req0
+
+quest 89
+      9.8   Smith's Trousers                     Legs         Leather  +4 Str +4 Agi  req0
+      8.7   Riding Gloves                        Hands        Cloth    +3 Agi +3 Int  req0
+      0.9   Bridgeworker's Gloves                Hands        Mail     +4 Str +2 Spi  [mail (40+)]  req0
+
+quest 102
+      0.0   Belt of the People's Militia         Waist        Mail     no stats  [mail (40+)]  req0
+      0.0   Bracers of the People's Militia      Wrist        Cloth    no stats  req0
+
+quest 116
+      0.7   Finely Woven Cloak                   Back                  +2 Spi  req0
+
+quest 122
+      7.3   Black Whelp Gloves                   Hands        Leather  +2 Str +3 Agi  req0
+      1.4   Black Whelp Boots                    Feet         Leather  +4 Sta  req0
+
+quest 126
+      2.1   Ring of Iron Will                    Finger                +4 Sta +2 Spi  req0
+      1.9   Gold Militia Boots                   Feet         Mail     +3 Str +5 Sta  [mail (40+)]  req0
+
+quest 151
+      0.0   Old Blanchy's Blanket                Back                  no stats  req0
+
+quest 153
+      4.8   Cloak of the People's Militia        Back                  +2 Agi  req0
+      1.0   Greaves of the People's Militia      Feet         Mail     +3 Sta  [mail (40+)]  req0
+      0.8   Leggings of the People's Militia     Legs         Cloth    +2 Str +2 Spi  req0
+
+quest 167
+     28.1   Tunic of Westfall                    Chest        Leather  +11 Agi +5 Sta  req0
+     19.8   Staff of Westfall                    Two-Hand     Staff    15.2 dps +5 Int +6 Spi +16 SP  req0
+     15.1   Miner's Revenge                      Two-Hand     Axe      13.0 dps +6 Spi  req0
+      2.7   Militia Quarterstaff                 Two-Hand     Staff    2.7 dps  req0
+      2.6   Militia Warhammer                    Two-Hand     Mace     2.6 dps  [mace (hunter cannot use)]  req0
+      2.0   Militia Dagger                       One-Hand     Dagger   2.0 dps  req0
+      2.0   Militia Shortsword                   Main Hand    Sword    2.0 dps  req0
+      2.0   Militia Hammer                       Main Hand    Mace     2.0 dps  [mace (hunter cannot use)]  req0
+      1.8   Miner's Workgloves                   Hands        Cloth    +5 Sta  req0
+      1.8   Miner's Workboots                    Feet         Leather  +5 Spi  req0
+
+quest 168
+      5.0   Dusty Mining Gloves                  Hands        Leather  +3 Str +2 Agi  req0
+      2.2   Worn Miner's Waistcord               Waist        Cloth    +2 Sta +3 Int  req0
+      1.7   Tunneler's Boots                     Feet         Mail     +3 Sta +2 Spi  [mail (40+)]  req0
+
+quest 170
+      0.0   Bear Shawl                           Back                  no stats  req0
+      0.0   Rustic Belt                          Waist        Mail     no stats  [mail (40+)]  req0
+      0.0   Snow Boots                           Feet         Cloth    no stats  req0
+
+quest 176
+     14.4   Balanced Fighting Stick              Two-Hand     Staff    8.9 dps +2 Agi +2 Sta  req0
+      3.1   Footman Tunic                        Chest        Leather  +1 Agi +2 Sta  req0
+      1.0   Apprentice Wizard's Gown             Chest        Cloth    +2 Int +1 SP  req0
+      0.2   Stormwind Guard Leggings             Legs         Mail     +3 Str  [mail (40+)]  req0
+
+quest 179
+      0.0   Rabbit Handler Gloves                Hands        Cloth    no stats  req0
+      0.0   Wolf Handler Gloves                  Hands        Leather  no stats  req0
+      0.0   Boar Handler Gloves                  Hands        Mail     no stats  [mail (40+)]  req0
+
+quest 182
+      2.6   Anvilmar Sledge                      Two-Hand     Mace     2.6 dps  [mace (hunter cannot use)]  req0
+      2.1   Anvilmar Hammer                      Main Hand    Mace     2.1 dps  [mace (hunter cannot use)]  req0
+      1.9   Anvilmar Knife                       One-Hand     Dagger   1.9 dps  req0
+      1.8   Anvilmar Hand Axe                    Main Hand    Axe      1.8 dps  req0
+
+quest 183
+      0.0   Dwarven Cloth Britches               Legs         Cloth    no stats  req0
+      0.0   Dwarven Leather Pants                Legs         Leather  no stats  req0
+
+quest 214
+     27.0   Piercing Axe                         Two-Hand     Axe      12.6 dps +6 Agi  req0
+     10.4   Scrimshaw Dagger                     One-Hand     Dagger   9.7 dps +2 Sta  req0
+      9.8   Solid Shortblade                     One-Hand     Sword    9.4 dps +1 Str +1 Sta  req0
+      7.4   Monastic Hammer                      Main Hand    Mace     6.4 dps +2 Int +12 SP  [mace (hunter cannot use)]  req0
+
+quest 217
+      7.3   Frontier Britches                    Legs         Leather  +3 Str +3 Agi  req0
+      6.5   Lucky Trousers                       Legs         Cloth    +2 Agi +2 Sta +3 Spi  req0
+      1.0   Dwarven Defender                     Off Hand     Shield   +3 Sta  [shield (hunter cannot use)]  req0
+
+quest 218
+      2.7   Smooth Walking Staff                 Two-Hand     Staff    2.7 dps  req0
+      0.0   Dwarven Kite Shield                  Off Hand     Shield   no stats  [shield (hunter cannot use)]  req0
+
+quest 219
+      4.5   Bone-studded Leather                 Chest        Leather  +6 Str +1 Agi +5 Sta  req0
+      3.8   Deputy Chain Coat                    Chest        Mail     +4 Sta +7 Spi  [mail (40+)]  req0
+      3.5   Robe of Solomon                      Chest        Cloth    +7 Sta +3 Spi  req0
+
+quest 256
+     10.6   Loch Walkers                         Feet         Leather  +4 Agi +3 Spi  req0
+      3.0   Kimbra Boots                         Feet         Cloth    +4 Int +3 Spi  req0
+      2.1   Durable Chain Shoulders              Shoulder     Mail     +6 Sta  [mail (40+)]  req0
+      1.0   Minor Channeling Ring                Finger                +2 Int +4 SP  req0
+
+quest 257
+    148.5   Daryl's Hunting Rifle                Ranged       Gun      10.6 dps +1 Str  req0
+    142.4   Daryl's Hunting Bow                  Ranged       Bow      10.0 dps +1 Agi  req0
+
+quest 258
+     13.5   Daryl's Shortsword                   One-Hand     Sword    8.7 dps +2 Agi  req0
+      0.0   Fine Cloth Shirt                     Shirt                 no stats  [cosmetic/none]  req0
+
+quest 283
+     17.2   Thornblade                           One-Hand     Dagger   10.0 dps +3 Agi  req0
+     13.0   Dwarven Tree Chopper                 Two-Hand     Axe      13.0 dps +6 Exp  req0
+
+quest 287
+      0.0   Warm Winter Robe                     Chest        Cloth    no stats  req0
+      0.0   Stone Buckler                        Off Hand     Shield   no stats  [shield (hunter cannot use)]  req0
+
+quest 297
+    125.2   Dwarven Flamestick                   Ranged       Wand     8.9 dps +2 Spi  [wand (hunter cannot use)]  req0
+     13.9   Thelsamar Axe                        Main Hand    Axe      9.1 dps +2 Agi  req0
+     13.7   Trogg Slicer                         Two-Hand     Sword    11.9 dps +5 Spi  req0
+
+quest 307
+      1.4   Ironheart Chain                      Chest        Mail     +4 Sta  [mail (40+)]  req0
+      1.4   Robe of the Keeper                   Chest        Cloth    +4 Sta  req0
+      0.7   Ironplate Buckler                    Off Hand     Shield   +2 Spi  [shield (hunter cannot use)]  req0
+
+quest 309
+      1.4   Foreman Belt                         Waist        Cloth    +2 Sta +2 Spi  req0
+      1.0   Mud Stompers                         Feet         Mail     +3 Sta  [mail (40+)]  req0
+
+quest 312
+      0.0   Ironwrought Bracers                  Wrist        Mail     no stats  [mail (40+)]  req0
+      0.0   Wooly Mittens                        Hands        Cloth    no stats  req0
+
+quest 314
+      8.7   Coldridge Hammer                     Two-Hand     Mace     8.3 dps +1 Str +1 Spi  [mace (hunter cannot use)]  req0
+      0.7   Rancher's Trousers                   Legs         Cloth    +1 Sta +1 Spi  req0
+      0.7   Soft Leather Tunic                   Chest        Leather  +2 Sta  req0
+
+quest 315
+      0.0   Goat Fur Cloak                       Back                  no stats  req0
+      0.0   Ivy-weave Bracers                    Wrist        Cloth    no stats  req0
+
+quest 320
+      4.3   Gnarled Short Staff                  Two-Hand     Staff    4.3 dps  req0
+      3.3   Sharp Axe                            Main Hand    Axe      3.3 dps  req0
+      3.2   Camping Knife                        One-Hand     Dagger   3.2 dps  req0
+
+quest 385
+      0.0   Rugged Cape                          Back                  no stats  req0
+
+quest 412
+      0.0   Driving Gloves                       Hands        Leather  no stats  req0
+      0.0   Oil-stained Cloak                    Back                  no stats  req0
+
+quest 416
+      0.0   Burnt Hide Bracers                   Wrist        Leather  no stats  req0
+      0.0   Cavalier's Boots                     Feet         Cloth    no stats  req0
+
+quest 417
+      9.2   Craftsman's Dagger                   One-Hand     Dagger   6.8 dps +1 Agi  req0
+      7.3   Compact Hammer                       Main Hand    Mace     7.0 dps +1 Sta  [mace (hunter cannot use)]  req0
+
+quest 466
+      1.2   Beerstained Gloves                   Hands        Cloth    +3 Str +3 Sta  req0
+
+quest 982
+      4.8   Murloc-hide Gloves                   Hands        Leather  +2 Agi  req0
+      1.0   Welldrip Gloves                      Hands        Cloth    +2 Int  req0
+      0.1   Noosegrip Gauntlets                  Hands        Mail     +2 Str  [mail (40+)]  req0
+
+quest 2038
+      5.8   Bingles' Flying Gloves               Hands        Leather  +2 Agi +2 Int  req0
+
+quest 2040
+    203.2   Sable Wand                           Ranged       Wand     14.4 dps +3 Spi +3 SP  [wand (hunter cannot use)]  req0
+     11.1   Bravo's Armbands                     Wrist        Leather  +2 Str +4 Agi +4 Spi  req0
+      5.5   Dreamer's Leggings                   Legs         Leather  +11 Int +4 SP  req0
+      2.4   Polar Gauntlets                      Hands        Mail     +6 Str +6 Spi  [mail (40+)]  req0
+
+quest 95999
+     12.2   Alacritous Treads                    Feet         Mail     +5 Str +5 Agi  [mail (40+)]  req0
+     12.0   Disjointed Shoes                     Feet         Leather  +12 AP +4 SP  req0
+      4.0   Incinerator's Boots                  Feet         Cloth    +3 Sta +6 Int  req0
+
+SLOT BY SLOT, hunter-usable, req <= 20
+
+Ranged:
+    223.2  Calibrated Blunderbuss                   Gun      15.9 dps +3 Sta                            drop  req0
+    148.5  Daryl's Hunting Rifle                    Gun      10.6 dps +1 Str                            q257  req0
+    145.7  Harvester's Pestslayer                   Bow      10.2 dps +1 Agi +1 Sta                     q9  req0
+    142.4  Daryl's Hunting Bow                      Bow      10.0 dps +1 Agi                            q257  req0
+     78.3  Junior's Hunting Bow                     Bow      5.6 dps                                    q46  req0
+
+Two-Hand:
+     43.1  Impaling Harpoon                         Polearm  19.0 dps +9 Agi +5 Int                     drop  req17
+     27.0  Piercing Axe                             Axe      12.6 dps +6 Agi                            q214  req0
+     20.2  Taskmaster Axe                           Axe      14.6 dps +8 Sta +8 Spi +15 SP              drop  req18
+     20.2  Rockslicer                               Axe      19.7 dps +10 Str                           drop  req18
+     19.8  Staff of Westfall                        Staff    15.2 dps +5 Int +6 Spi +16 SP              q167  req0
+     17.7  Golemheart Stave                         Staff    11.9 dps +3 Sta +6 Int +5 Spi +18 SP       drop  req13
+     17.7  Emberstone Staff                         Staff    14.2 dps +5 Sta +5 Spi +24 SP              drop  req17
+     15.1  Miner's Revenge                          Axe      13.0 dps +6 Spi                            q167  req0
+
+Main Hand:
+     15.1  Durgen's Crescent Axe                    Axe      12.3 dps +2 Str +1 Agi +1 Spi              drop  req13
+     13.9  Thelsamar Axe                            Axe      9.1 dps +2 Agi                             q297  req0
+      9.9  Fang of Magmatus                         Dagger   7.9 dps +4 Int +18 SP                      drop  req13
+      9.0  Buzzer Blade                             Dagger   9.0 dps +22 SP                             drop  req16
+      4.3  Well-used Sword                          Sword    4.3 dps                                    q46  req0
+      3.3  Sharp Axe                                Axe      3.3 dps                                    q320  req0
+      2.0  Militia Shortsword                       Sword    2.0 dps                                    q167  req0
+      1.8  Anvilmar Hand Axe                        Axe      1.8 dps                                    q182  req0
+
+One-Hand:
+     27.5  Cruel Barb                               Sword    15.5 dps +12 AP                            drop  req19
+     24.0  Thief's Blade                            Sword    14.4 dps +4 Agi                            drop  req17
+     23.5  Buzz Saw                                 Sword    15.2 dps +3 Agi +3 Sta                     drop  req18
+     17.2  Thornblade                               Dagger   10.0 dps +3 Agi                            q283  req0
+     15.5  Smite's Reaver                           Axe      13.9 dps +3 Str +2 Sta +2 Spi              drop  req17
+     13.5  Daryl's Shortsword                       Sword    8.7 dps +2 Agi                             q258  req0
+     12.7  Daggerfang's Daggerfang                  Dagger   7.9 dps +2 Agi                             drop  req0
+     10.4  Scrimshaw Dagger                         Dagger   9.7 dps +2 Sta                             q214  req0
+
+Head:
+     22.7  Brawler's Leather Hood (LW 20)           Leather  +8 Agi +10 Sta                             craft/RoL  req20
+
+Neck:
+      2.1  Ephemeral Choker                                  +4 Sta +2 Spi                              drop  req13
+
+Back:
+     13.1  Cape of the Brotherhood                           +5 Agi +3 Sta                              drop  req19
+     10.6  Spiritwraith Drape                                +4 Agi +3 Spi                              drop  req13
+      7.0  Catacomb Cloak                                    +3 Sta +6 AP                               drop  req0
+      5.8  Miner's Cape                                      +5 Sta +4 AP                               drop  req17
+      4.8  Cloak of the People's Militia                     +2 Agi                                     q153  req0
+      1.4  Cloak of the Honored Guest                        +1 Sta +1 AP +1 SP                         drop  req0
+      0.7  Finely Woven Cloak                                +2 Spi                                     q116  req0
+
+Chest:
+     28.1  Tunic of Westfall                        Leather  +11 Agi +5 Sta                             q167  req0
+     19.2  Brawler's Leather Armor (LW 15)          Leather  +5 Str +7 Agi +3 Sta +3 Spi                craft/RoL  req15
+     10.9  Blackened Defias Armor                   Leather  +4 Str +3 Agi +10 Sta                      drop  req17
+      4.9  Robes of the Disgraced Thane             Cloth    +5 Int +7 Spi                              drop  req13
+      4.5  Corsair's Overshirt                      Cloth    +5 Sta +8 Spi +3 SP                        drop  req17
+      4.5  Bone-studded Leather                     Leather  +6 Str +1 Agi +5 Sta                       q219  req0
+      3.5  Robe of Solomon                          Cloth    +7 Sta +3 Spi                              q219  req0
+      3.1  Footman Tunic                            Leather  +1 Agi +2 Sta                              q176  req0
+
+Wrist:
+     11.1  Bravo's Armbands                         Leather  +2 Str +4 Agi +4 Spi                       q2040  req0
+      1.7  Repurposed Hair Band                     Cloth    +2 Int +2 Spi                              drop  req0
+      1.0  Aetherwisp Bracers                       Cloth    +3 Sta +3 SP                               drop  req13
+
+Hands:
+     11.1  Flamefist Grips                          Leather  +2 Str +4 Agi +4 Spi                       drop  req13
+     10.8  Brawler's Leather Gloves (LW 15)         Leather  +4 Str +4 Agi +3 Sta                       craft/RoL  req15
+      8.7  Riding Gloves                            Cloth    +3 Agi +3 Int                              q89  req0
+      7.3  Black Whelp Gloves                       Leather  +2 Str +3 Agi                              q122  req0
+      5.8  Bingles' Flying Gloves                   Leather  +2 Agi +2 Int                              q2038  req0
+      5.0  Dusty Mining Gloves                      Leather  +3 Str +2 Agi                              q168  req0
+      4.8  Murloc-hide Gloves                       Leather  +2 Agi                                     q982  req0
+      4.0  Tomb Robber's Gloves                     Cloth    +3 Sta +6 Int                              drop  req0
+
+Waist:
+     18.0  Blackened Defias Belt                    Leather  +18 AP                                     drop  req17
+     13.4  Dusty Belt                               Leather  +5 Agi +4 Spi                              drop  req0
+     10.8  Brawler's Leather Belt (LW 12)           Leather  +4 Str +4 Agi +3 Sta                       craft/RoL  req12
+      2.2  Worn Miner's Waistcord                   Cloth    +2 Sta +3 Int                              q168  req0
+      1.4  Foreman Belt                             Cloth    +2 Sta +2 Spi                              q309  req0
+
+Legs:
+     29.5  Duty Bound Leggings (Ruins of Lordaeron) Leather  +6 Agi +9 Sta +12 AP                       craft/RoL  req15
+     24.7  Brawler's Leather Pants (LW 20)          Leather  +6 Str +9 Agi +4 Sta +4 Spi                craft/RoL  req20
+     12.0  Direhammer Leggings                      Leather  +4 Agi +7 Sta                              drop  req13
+      9.8  Smith's Trousers                         Leather  +4 Str +4 Agi                              q89  req0
+      8.6  Deepgrave Trousers                       Leather  +7 Str +3 Agi +3 Spi                       drop  req0
+      7.3  Frontier Britches                        Leather  +3 Str +3 Agi                              q217  req0
+      6.5  Lucky Trousers                           Cloth    +2 Agi +2 Sta +3 Spi                       q217  req0
+      5.8  Harvester's Pants                        Leather  +2 Agi +3 Spi                              q9  req0
+
+Feet:
+     13.7  Brawler's Leather Boots (LW 17)          Leather  +5 Str +5 Agi +4 Sta                       craft/RoL  req17
+     12.0  Disjointed Shoes                         Leather  +12 AP +4 SP                               q95999  req0
+     10.6  Loch Walkers                             Leather  +4 Agi +3 Spi                              q256  req0
+      4.0  Incinerator's Boots                      Cloth    +3 Sta +6 Int                              q95999  req0
+      3.0  Kimbra Boots                             Cloth    +4 Int +3 Spi                              q256  req0
+      1.8  Miner's Workboots                        Leather  +5 Spi                                     q167  req0
+      1.4  Black Whelp Boots                        Leather  +4 Sta                                     q122  req0
+
+Finger:
+      7.8  Lavishly Jeweled Ring                             +2 Agi +6 Int                              drop  req17
+      2.1  Ring of Iron Will                                 +4 Sta +2 Spi                              q126  req0
+      1.0  Minor Channeling Ring                             +2 Int +4 SP                               q256  req0

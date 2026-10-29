@@ -1,0 +1,263 @@
+chapter	order	qid	name	zone	level	req	xp	status	side	restrict	optional	in_ours_1-20	turned_in_same_chain
+20-22 Ruins of Lordaeron&Deadmines	1	95250	Abominable Creatures	Ruins of Lordaeron	21	16	1650	new	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	2	95195	Bloodied Insignia	Stormwind City / Ruins of Lordaeron	22	16	2600	new	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	3	95189	Crest of Lordaeron	Stormwind City / Ruins of Lordaeron	22	16	2600	new	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	4	92415	Remember That I Love You	Stormwind City / Ruins of Lordaeron	22	15	2600	new	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	5	95161	Remember That I Love You	Duskwood / Stormwind City	22	15	175	new	A			yes	NO
+20-22 Ruins of Lordaeron&Deadmines	6	94	A Watchful Eye	Elwynn Forest / Redridge Mountains	21	20	1250	unchanged	A	Dwarf,Gnome,Night Elf		yes	yes
+20-22 Ruins of Lordaeron&Deadmines	7	244	Encroaching Gnolls	Redridge Mountains	16	11	290	unchanged	A	Dwarf,Gnome,Night Elf		yes	yes
+20-22 Ruins of Lordaeron&Deadmines	8	129	A Free Lunch	Redridge Mountains	15	12	540	unchanged	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	9	132	The Defias Brotherhood	Westfall / Redridge Mountains	18	14	680	unchanged	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	10	127	Selling Fish	Redridge Mountains	21	16	1250	unchanged	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	11	120	Messenger to Stormwind	Stormwind City / Redridge Mountains	14	14	490	unchanged	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	12	118	The Price of Shoes	Elwynn Forest / Redridge Mountains	18	14	340	unchanged	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	13	246	Assessing the Threat	Redridge Mountains	17	11	950	unchanged	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	14	98407	Show of Force	Redridge Mountains	17	11	950	new	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	15	135	The Defias Brotherhood	Stormwind City / Westfall	18	14	680	unchanged	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	16	121	Messenger to Stormwind	Stormwind City / Redridge Mountains	14	14	245	unchanged	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	17	119	Return to Verner	Elwynn Forest / Redridge Mountains	18	13	680	unchanged	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	18	141	The Defias Brotherhood	Stormwind City / Westfall	18	14	340	unchanged	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	19	142	The Defias Brotherhood	Westfall	18	14	1350	unchanged	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	20	155	The Defias Brotherhood	Westfall	18	14	1700	updated	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	21	166	The Defias Brotherhood	The Deadmines / Westfall	22	14	2600	unchanged	A			yes	NO
+20-22 Ruins of Lordaeron&Deadmines	22	214	Red Silk Bandanas	The Deadmines / Westfall	17	14	1250	updated	A			yes	NO
+20-22 Ruins of Lordaeron&Deadmines	23	373	The Unsent Letter	Stormwind City / The Deadmines	22	16	870	unchanged	A			yes	yes
+20-22 Ruins of Lordaeron&Deadmines	24	389	Bazil Thredd	Stormwind City	22	16	435	unchanged	A			yes	yes
+22-23 Redridge Mountains	1	98387	Blackrock Blockade	Redridge Mountains	21	18	1650	new	A			yes	yes
+22-23 Redridge Mountains	2	20	Blackrock Menace	Redridge Mountains	21	18	1650	unchanged	A			yes	yes
+22-23 Redridge Mountains	3	125	The Lost Tools	Redridge Mountains	16	15	880	unchanged	A			yes	yes
+22-23 Redridge Mountains	4	124	A Baying of Gnolls	Redridge Mountains	20	15	1150	unchanged	A			yes	yes
+22-23 Redridge Mountains	5	3741	Hilary's Necklace	Redridge Mountains	15	12	1350	unchanged	A			yes	yes
+22-23 Redridge Mountains	6	130	Visit the Herbalist	Redridge Mountains	15	12	270	unchanged	A			yes	yes
+22-23 Redridge Mountains	7	19	Tharil'zun	Redridge Mountains	25	18	2550	unchanged	A			yes	yes
+22-23 Redridge Mountains	8	115	Shadow Magic	Redridge Mountains	23	18	2300	unchanged	A			yes	yes
+22-23 Redridge Mountains	9	89	The Everstill Bridge	Redridge Mountains	20	15	1550	unchanged	A			yes	yes
+22-23 Redridge Mountains	10	143	Messenger to Westfall	Westfall / Redridge Mountains	14	14	490	unchanged	A			yes	yes
+22-23 Redridge Mountains	11	91	Solomon's Law	Redridge Mountains	23	17	1850	unchanged	A			yes	yes
+22-23 Redridge Mountains	12	150	Murloc Poachers	Redridge Mountains	20	20	1550	unchanged	A			yes	yes
+22-23 Redridge Mountains	13	131	Delivering Daffodils	Redridge Mountains	15	12	270	unchanged	A			yes	yes
+23-24 Ashenvale	1	994	Escape Through Force	Darkshore	22	10	1750	unchanged	A			yes	yes
+23-24 Ashenvale	2	970	The Tower of Althalaxx	Darkshore / Ashenvale	21	13	1650	unchanged	A			yes	yes
+23-24 Ashenvale	3	1010	Bathran's Hair	Ashenvale	20	20	780	unchanged	A			yes	yes
+23-24 Ashenvale	4	1020	Orendil's Cure	Ashenvale	20	20	1950	unchanged	A			yes	yes
+23-24 Ashenvale	5	973	The Tower of Althalaxx	Darkshore / Ashenvale	24	13	1950	unchanged	A			yes	NO
+23-24 Ashenvale	6	1008	The Zoram Strand	Ashenvale	19	14	1450	unchanged	A				yes
+23-24 Ashenvale	7	1070	On Guard in Stonetalon	Ashenvale / Stonetalon Mountains	21	17	830	unchanged	A			yes	yes
+23-24 Ashenvale	8	991	Raene's Cleansing	Ashenvale	19	18	1450	unchanged	A			yes	yes
+23-24 Ashenvale	9	1033	Elune's Tear	Ashenvale	22	20	1750	unchanged	A			yes	yes
+23-24 Ashenvale	10	1023	Raene's Cleansing	Ashenvale	21	18	1250	unchanged	A			yes	yes
+23-24 Ashenvale	11	1007	The Ancient Statuette	Ashenvale	20	19	1150	unchanged	A			yes	yes
+23-24 Ashenvale	12	1009	Ruuzel	Ashenvale	25	20	2550	unchanged	A			yes	yes
+23-24 Ashenvale	13	1134	Pridewings of Stonetalon	Ashenvale	21	18	1650	unchanged	A				NO
+24-25 Duskwood	1	66	The Legend of Stalvan	Duskwood	28	22	230	unchanged	A			yes	yes
+24-25 Duskwood	2	101	The Totem of Infliction	Duskwood	25	18	2550	unchanged	A			yes	yes
+24-25 Duskwood	3	67	The Legend of Stalvan	Duskwood / Westfall	28	22	1150	unchanged	A			yes	yes
+24-25 Duskwood	4	96139	The Valor Family	Duskwood	22	18	1750	new	A			yes	yes
+24-25 Duskwood	5	377	Crime and Punishment	Duskwood / The Stockade	26	22	2100	updated	A			yes	yes
+24-25 Duskwood	6	56	The Night Watch	Duskwood	24	18	1450	unchanged	A			yes	yes
+24-25 Duskwood	7	163	Raven Hill	Duskwood	20	17	390	unchanged	A			yes	yes
+24-25 Duskwood	8	164	Deliveries to Sven	Duskwood	23	17	920	unchanged	A			yes	yes
+24-25 Duskwood	9	165	The Hermit	Duskwood	25	17	1000	unchanged	A			yes	yes
+24-25 Duskwood	10	174	Look to the Stars	Duskwood	25	20	2000	updated	A			yes	yes
+24-25 Duskwood	11	175	Look to the Stars	Duskwood	25	20	1000	updated	A			yes	yes
+24-25 Duskwood	12	177	Look to the Stars	Duskwood	25	20	1500	updated	A			yes	yes
+24-25 Duskwood	13	245	Eight-Legged Menaces	Duskwood	21	17	1250	unchanged	A			yes	yes
+24-25 Duskwood	14	5	Jitters' Growling Gut	Duskwood	20	17	390	unchanged	A			yes	yes
+24-25 Duskwood	15	95	Sven's Revenge	Duskwood	25	20	1000	unchanged	A			yes	yes
+24-25 Duskwood	16	226	Wolves at Our Heels	Duskwood	21	19	1250	unchanged	A			yes	yes
+24-25 Duskwood	17	148	Supplies from Darkshire	Duskwood	24	20	485	unchanged	A			yes	yes
+24-25 Duskwood	18	144	Messenger to Westfall	Westfall / Redridge Mountains	14	14	245	unchanged	A			yes	yes
+24-25 Duskwood	19	68	The Legend of Stalvan	Duskwood / Westfall	28	22	1700	unchanged	A			yes	yes
+24-25 Duskwood	20	149	Ghost Hair Thread	Duskwood	24	20	485	unchanged	A			yes	yes
+24-25 Duskwood	21	93	Dusky Crab Cakes	Duskwood	20	17	780	unchanged	A			yes	yes
+24-25 Duskwood	22	69	The Legend of Stalvan	Duskwood / Elwynn Forest	28	22	570	unchanged	A			yes	yes
+24-25 Duskwood	23	154	Return the Comb	Duskwood	24	20	195	unchanged	A			yes	yes
+24-25 Duskwood	24	181	Look to the Stars	Duskwood	30	20	2450	updated	A			yes	yes
+24-25 Duskwood	25	157	Deliver the Thread	Duskwood	24	20	1450	unchanged	A			yes	yes
+24-25 Duskwood	26	70	The Legend of Stalvan	Duskwood / Elwynn Forest / Stormwind City	28	22	1700	unchanged	A			yes	yes
+24-25 Duskwood	27	72	The Legend of Stalvan	Duskwood / Stormwind City	28	22	230	unchanged	A			yes	yes
+24-25 Duskwood	28	74	The Legend of Stalvan	Duskwood / Elwynn Forest / Stormwind City	28	22	1150	unchanged	A			yes	yes
+25-26 Stockades	1	387	Quell the Uprising	Stormwind City / The Stockade	26	22	2650	updated	A			yes	yes
+25-26 Stockades	2	391	The Stockade Riots	Stormwind City / The Stockade	29	16	2350	unchanged	A			yes	yes
+25-26 Stockades	3	388	The Color of Blood	Stormwind City / The Stockade	26	22	2650	unchanged	A			yes	yes
+25-26 Stockades	4	377	Crime and Punishment	Duskwood / The Stockade	26	22	2100	updated	A			yes	yes
+25-26 Stockades	5	386	What Comes Around...	Redridge Mountains / The Stockade	25	22	2000	updated	A			yes	yes
+25-26 Stockades	6	392	The Curious Visitor	Stormwind City	29	16	590	unchanged	A			yes	yes
+25-26 Stockades	7	393	Shadow of the Past	Stormwind City	29	16	590	unchanged	A			yes	yes
+25-26 Stockades	8	350	Look to an Old Friend	Stormwind City	31	16	250	unchanged	A			yes	yes
+25-26 Stockades	9	2745	Infiltrating the Castle	Stormwind City	31	16	250	unchanged	A			yes	yes
+25-26 Stockades	10	2746	Items of Some Consequence	Stormwind City	31	16	630	unchanged	A			yes	yes
+26-27 Redridge Mountains	1	98386	Alther's Mill	Redridge Mountains	21	15	1650	new	A			yes	yes
+26-27 Redridge Mountains	2	126	Howling in the Hills	Redridge Mountains	25	15	2000	unchanged	A			yes	yes
+26-27 Redridge Mountains	3	169	WANTED: Gath'Ilzogg	Redridge Mountains	26	15	2650	updated	A			yes	yes
+26-27 Redridge Mountains	4	95999	WANTED: Incinerator Gar'im	Redridge Mountains	25	16	2550	new	A		O	yes	yes
+26-27 Redridge Mountains	5	145	Messenger to Darkshire	Duskwood / Redridge Mountains	18	18	1000	unchanged	A			yes	yes
+26-27 Redridge Mountains	6	180	WANTED: Lieutenant Fangore	Redridge Mountains	26	15	2650	updated	A			yes	yes
+26-27 Redridge Mountains	7	92	Redridge Goulash	Redridge Mountains	18	15	1350	unchanged	A			yes	yes
+26-27 Redridge Mountains	8	34	An Unwelcome Guest	Redridge Mountains	24	18	1950	unchanged	A			yes	yes
+26-27 Redridge Mountains	9	75	The Legend of Stalvan	Duskwood / Elwynn Forest	28	22	1150	unchanged	A			yes	yes
+26-27 Redridge Mountains	10	78	The Legend of Stalvan	Duskwood / Elwynn Forest	28	22	570	unchanged	A			yes	yes
+26-27 Redridge Mountains	11	128	Blackrock Bounty	Redridge Mountains	25	20	2000	unchanged	A			yes	yes
+26-27 Redridge Mountains	12	248	Looking Further	Redridge Mountains	22	20	1300	unchanged	A		O	yes	NO
+26-27 Redridge Mountains	13	79	The Legend of Stalvan	Duskwood	28	22	230	unchanged	A			yes	yes
+26-27 Redridge Mountains	14	240	Return to Jitters	Duskwood	20	17	780	unchanged	A			yes	yes
+26-27 Redridge Mountains	15	80	The Legend of Stalvan	Duskwood	28	22	230	unchanged	A			yes	yes
+26-27 Redridge Mountains	16	97	The Legend of Stalvan	Duskwood	28	22	230	unchanged	A			yes	yes
+27-28 Ashenvale	1	95737	Seeking Caitlin	Wetlands / Mount Hyjal / Ashenvale	31	24	630	new	A			yes	yes
+27-28 Ashenvale	2	1056	Journey to Stonetalon Peak	Ashenvale / Stonetalon Mountains	18	18	680	unchanged	A			yes	yes
+27-28 Ashenvale	3	1024	Raene's Cleansing	Ashenvale	21	18	830	unchanged	A			yes	yes
+27-28 Ashenvale	4	1025	An Aggressive Defense	Ashenvale	24	18	1950	unchanged	A			yes	yes
+27-28 Ashenvale	5	1054	Culling the Threat	Ashenvale	25	18	2000	unchanged	A			yes	yes
+27-28 Ashenvale	6	1026	Raene's Cleansing	Ashenvale	27	18	2200	unchanged	A			yes	yes
+27-28 Ashenvale	7	1034	The Ruins of Stardust	Ashenvale	23	20	1850	unchanged	A			yes	yes
+27-28 Ashenvale	8	2931	Castpipe's Task	Ironforge / Stonetalon Mountains / Gnomeregan	28	25	230	unchanged	A			yes	yes
+27-28 Ashenvale	9	1085	On Guard in Stonetalon	Ashenvale / Stonetalon Mountains	21	17	165	unchanged	A			yes	yes
+27-28 Ashenvale	10	4581	Kayneth Stillwind	Ashenvale	29	24	590	unchanged	A			yes	yes
+29-30 Wetlands	1	98208	Bloom of the Heavens	Wetlands	29	22	2350	new	A			yes	yes
+29-30 Wetlands	2	484	Young Crocolisk Skins	Wetlands	22	18	1750	updated	A			yes	yes
+29-30 Wetlands	3	279	Claws from the Deep	Wetlands	22	20	1750	unchanged	A			yes	yes
+29-30 Wetlands	4	463	The Greenwarden	Wetlands	21	20	830	unchanged	A			yes	yes
+29-30 Wetlands	5	288	The Third Fleet	Wetlands	27	22	220	unchanged	A			yes	yes
+29-30 Wetlands	6	943	The Absent Minded Prospector	Wetlands / Darkshore	24	15	2400	updated	A			yes	yes
+29-30 Wetlands	7	289	The Cursed Crew	Wetlands	29	22	1750	unchanged	A			yes	yes
+29-30 Wetlands	8	95647	Lost in the Thicket Things	Wetlands / Mount Hyjal	31	24	2500	new	A			yes	NO
+29-30 Wetlands	9	98282	Alchemical Hazards	Wetlands	22	20	1750	new	A			yes	yes
+29-30 Wetlands	10	470	Digging Through the Ooze	Wetlands	24	19	2400	unchanged	A			yes	yes
+29-30 Wetlands	11	472	Fall of Dun Modr	Wetlands	30	25	1200	updated	A			yes	yes
+29-30 Wetlands	12	98197	Spoils of War	Wetlands	22	18	1750	new	A			yes	yes
+29-30 Wetlands	13	464	War Banners	Wetlands	28	23	2300	unchanged	A			yes	yes
+29-30 Wetlands	14	98221	From the Ashes	Wetlands	28	23	2300	new	A			yes	NO
+29-30 Wetlands	15	305	In Search of the Excavation Team	Wetlands	24	21	970	updated	A			yes	yes
+29-30 Wetlands	16	294	Ormer's Revenge	Wetlands	24	22	1950	unchanged	A			yes	yes
+29-30 Wetlands	17	306	In Search of the Excavation Team	Wetlands	24	21	485	updated	A			yes	yes
+29-30 Wetlands	18	299	Uncovering the Past	Wetlands	27	22	2200	updated	A			yes	yes
+29-30 Wetlands	19	295	Ormer's Revenge	Wetlands	27	22	2200	updated	A			yes	yes
+29-30 Wetlands	20	296	Ormer's Revenge	Wetlands	29	22	2950	updated	A			yes	yes
+29-30 Wetlands	21	98245	Razormaw Needling	Wetlands	29	21	2350	new	A			yes	yes
+29-30 Wetlands	22	98246	Trying Times	Wetlands	29	21	2350	new	A			yes	yes
+29-30 Wetlands	23	276	Tramping Paws	Wetlands	21	20	1250	unchanged	A			yes	yes
+29-30 Wetlands	24	277	Fire Taboo	Wetlands	23	20	1850	unchanged	A			yes	yes
+29-30 Wetlands	25	631	The Thandol Span	Wetlands / Arathi Highlands	31	26	2500	updated	A			yes	yes
+29-30 Wetlands	26	632	The Thandol Span	Wetlands / Arathi Highlands	31	26	2500	updated	A			yes	yes
+29-30 Wetlands	27	633	The Thandol Span	Wetlands	31	26	2500	updated	A			yes	yes
+29-30 Wetlands	28	637	Sully Balloo's Letter	Ironforge	30	25	2450	unchanged	A			yes	yes
+29-30 Wetlands	29	634	Plea to the Alliance	Wetlands / Arathi Highlands	31	28	1250	updated	A			yes	yes
+29-30 Wetlands	30	281	Reclaiming Goods	Wetlands	25	20	510	unchanged	A			yes	yes
+29-30 Wetlands	31	471	Apprentice's Duties	Wetlands	26	18	2100	unchanged	A			yes	yes
+29-30 Wetlands	32	465	Nek'rosh's Gambit	Wetlands	31	23	1900	updated	A			yes	yes
+29-30 Wetlands	33	284	The Search Continues	Wetlands	25	20	510	unchanged	A			yes	yes
+29-30 Wetlands	34	285	Search More Hovels	Wetlands	25	20	1000	unchanged	A			yes	yes
+29-30 Wetlands	35	286	Return the Statuette	Wetlands	25	20	1500	unchanged	A			yes	yes
+29-30 Wetlands	36	98072	Crocs of the Sky	Wetlands	27	19	2200	new	A			yes	yes
+29-30 Wetlands	37	98189	Return the Statuette	Wetlands	25	20	200	new	A			yes	yes
+29-30 Wetlands	38	290	Lifting the Curse	Wetlands	30	22	1200	unchanged	A			yes	yes
+29-30 Wetlands	39	98190	A Friend of the Family	Wetlands / Stormwind City	25	20		new	A			yes	yes
+30-31 Duskwood	1	335	A Noble Brew	Stormwind City	30	25	2450	unchanged	A				yes
+30-31 Duskwood	2	2923	Tinkmaster Overspark	Stormwind City / Ironforge / Gnomeregan	26	20	210	unchanged	A			yes	yes
+30-31 Duskwood	3	2928	Gyrodrillmatic Excavationators	Stormwind City / Gnomeregan	30	20	2450	updated	A			yes	NO
+30-31 Duskwood	4	57	The Night Watch	Duskwood	26	18	2100	unchanged	A			yes	yes
+30-31 Duskwood	5	173	Worgen in the Woods	Duskwood	28	23	1150	unchanged	A			yes	yes
+30-31 Duskwood	6	221	Worgen in the Woods	Duskwood	29	23	1750	unchanged	A			yes	yes
+30-31 Duskwood	7	230	Sven's Camp	Duskwood	25	20	1000	unchanged	A			yes	yes
+30-31 Duskwood	8	158	Zombie Juice	Duskwood	24	20	485	unchanged	A			yes	yes
+30-31 Duskwood	9	225	The Weathered Grave	Duskwood	35	28	690	unchanged	A			yes	yes
+30-31 Duskwood	10	262	The Shadowy Figure	Duskwood	25	20	510	unchanged	A			yes	yes
+30-31 Duskwood	11	265	The Shadowy Search Continues	Duskwood	25	20	200	unchanged	A			yes	yes
+30-31 Duskwood	12	58	The Night Watch	Duskwood	30	18	2450	unchanged	A			yes	yes
+30-31 Duskwood	13	266	Inquire at the Inn	Duskwood	25	20	200	unchanged	A			yes	yes
+30-31 Duskwood	14	227	Morgan Ladimore	Duskwood	35	28	275	unchanged	A			yes	yes
+30-31 Duskwood	15	453	Finding the Shadowy Figure	Duskwood	25	20	1000	unchanged	A			yes	yes
+30-31 Duskwood	16	156	Gather Rot Blossoms	Duskwood	24	20	970	unchanged	A			yes	yes
+30-31 Duskwood	17	159	Juice Delivery	Duskwood	24	20	970	unchanged	A			yes	yes
+30-31 Duskwood	18	268	Return to Sven	Duskwood	25	20	510	unchanged	A			yes	yes
+30-31 Duskwood	19	133	Ghoulish Effigy	Duskwood	27	20	1650	unchanged	A			yes	yes
+30-31 Duskwood	20	134	Ogre Thieves	Duskwood	30	20	1200	unchanged	A			yes	NO
+30-31 Duskwood	21	323	Proving Your Worth	Duskwood	28	20	2300	unchanged	A			yes	yes
+30-31 Duskwood	22	269	Seeking Wisdom	Duskwood / Stormwind City	29	20	590	unchanged	A			yes	yes
+30-31 Duskwood	23	1274	The Missing Diplomat	Stormwind City	28	28	230	unchanged	A			yes	yes
+30-31 Duskwood	24	270	The Doomed Fleet	Duskwood / Wetlands / Stormwind City	29	20	1200	unchanged	A			yes	yes
+30-31 Duskwood	25	98191	A Friend of the Family	Stormwind City	25	20	200	new	A			yes	NO
+30-31 Duskwood	26	1241	The Missing Diplomat	Stormwind City	28	28	230	unchanged	A			yes	yes
+30-31 Duskwood	27	434	The Attack!	Stormwind City	31	16	1900	unchanged	A		O	yes	yes
+30-31 Duskwood	28	1242	The Missing Diplomat	Stormwind City	28	28	230	unchanged	A			yes	yes
+30-31 Duskwood	29	1243	The Missing Diplomat	Duskwood / Stormwind City	28	28	230	unchanged	A			yes	yes
+30-31 Duskwood	30	394	The Head of the Beast	Stormwind City	31	16	250	unchanged	A		O	yes	yes
+30-31 Duskwood	31	395	Brotherhood's End	Stormwind City	31	16	630	unchanged	A		O	yes	yes
+30-31 Duskwood	32	396	An Audience with the King	Stormwind City	31	16	3750	unchanged	A		O	yes	yes
+31-32 Wetlands	1	2922	Save Techbot's Brain!	Ironforge / Gnomeregan	26	20	2650	unchanged	A			yes	yes
+31-32 Wetlands	2	2929	The Grand Betrayal	Ironforge / Gnomeregan	35	25	2750	unchanged	A			yes	yes
+31-32 Wetlands	3	2930	Data Rescue	Ironforge / Gnomeregan	30	25	3650	unchanged	A			yes	yes
+31-32 Wetlands	4	2924	Essential Artificials	Ironforge / Gnomeregan	30	24	3050	unchanged	A			yes	yes
+31-32 Wetlands	5	683	Sara Balloo's Plea	Ironforge	30	25	1200	unchanged	A			yes	yes
+31-32 Wetlands	6	686	A King's Tribute	Ironforge	30	25	1200	unchanged	A			yes	yes
+31-32 Wetlands	7	1050	Mythology of the Titans	Ironforge / Scarlet Monastery	38	28	3550	unchanged	A				NO
+31-32 Wetlands	8	1179	The Brassbolts Brothers	Ironforge / Thousand Needles	30	28	2450	unchanged	A				yes
+31-32 Wetlands	9	689	A King's Tribute	Ironforge	31	25	2500	unchanged	A			yes	yes
+31-32 Wetlands	10	321	Lightforge Iron	Duskwood / Wetlands	29	20	590	unchanged	A			yes	yes
+31-32 Wetlands	11	324	The Lost Ingots	Duskwood / Wetlands	29	20	1750	unchanged	A			yes	yes
+31-32 Wetlands	12	322	Blessed Arm	Duskwood / Wetlands / Stormwind City	29	20	1200	unchanged	A			yes	yes
+31-32 Wetlands	13	292	The Eye of Paleth	Wetlands	30	22	1200	unchanged	A			yes	yes
+31-32 Wetlands	14	474	Defeat Nek'rosh	Wetlands	32	23	2550	updated	A		O	yes	yes
+31-32 Wetlands	15	304	A Grim Task	Wetlands	34	26	3350	updated	A		O	yes	yes
+31-32 Wetlands	16	303	The Dark Iron War	Wetlands	30	25	2450	unchanged	A		O	yes	yes
+31-32 Wetlands	17	293	Cleansing the Eye	Wetlands / Stormwind City	30	22	2450	unchanged	A			yes	yes
+31-32 Wetlands	18	659	Hints of a New Plague?	Hillsbrad Foothills / Arathi Highlands	33	30	1300	unchanged	A			yes	NO
+31-32 Wetlands	19	536	Down the Coast	Hillsbrad Foothills	30	25	1850	unchanged	A			yes	yes
+31-32 Wetlands	20	98463	Talk of the Town	Hillsbrad Foothills / Stranglethorn Vale	33	28	265	new	A				NO
+31-32 Wetlands	21	98071	Brewer's Trade	Hillsbrad Foothills	27	23	2200	new	A			yes	yes
+31-32 Wetlands	22	559	Farren's Proof	Hillsbrad Foothills	32	25	2550	unchanged	A			yes	yes
+31-32 Wetlands	23	560	Farren's Proof	Hillsbrad Foothills	32	25	255	unchanged	A			yes	yes
+31-32 Wetlands	24	561	Farren's Proof	Hillsbrad Foothills	32	25	255	unchanged	A			yes	yes
+31-32 Wetlands	25	562	Stormwind Ho!	Hillsbrad Foothills	32	25	1950	unchanged	A			yes	yes
+31-32 Wetlands	26	563	Reassignment	Stormwind City / Hillsbrad Foothills	32	25	3200	unchanged	A			yes	yes
+32-33 Stranglethorn Vale	1	336	A Noble Brew	Stormwind City	30	25	2450	unchanged	A				yes
+32-33 Stranglethorn Vale	2	325	Armed and Ready	Duskwood / Stormwind City	29	20	590	unchanged	A			yes	yes
+32-33 Stranglethorn Vale	3	1244	The Missing Diplomat	Duskwood / Stormwind City	30	28	2450	unchanged	A			yes	NO
+32-33 Stranglethorn Vale	4	223	Worgen in the Woods	Duskwood	31	23	3150	unchanged	A			yes	yes
+32-33 Stranglethorn Vale	5	55	Morbent Fel	Duskwood	32	20	3850	unchanged	A		O	yes	NO
+32-33 Stranglethorn Vale	6	203	The Second Rebellion	Stranglethorn Vale	33	30	1950	unchanged	A				yes
+32-33 Stranglethorn Vale	7	583	Welcome to the Jungle	Stranglethorn Vale	30	28	245	unchanged	both				yes
+32-33 Stranglethorn Vale	8	194	Raptor Mastery	Stranglethorn Vale	34	28	1350	unchanged	both				NO
+32-33 Stranglethorn Vale	9	185	Tiger Mastery	Stranglethorn Vale	31	28	1250	unchanged	both				yes
+32-33 Stranglethorn Vale	10	190	Panther Mastery	Stranglethorn Vale	31	28	1250	unchanged	both				yes
+32-33 Stranglethorn Vale	11	186	Tiger Mastery	Stranglethorn Vale	33	28	1300	unchanged	both				yes
+32-33 Stranglethorn Vale	12	187	Tiger Mastery	Stranglethorn Vale	35	28	2050	unchanged	both				NO
+32-33 Stranglethorn Vale	13	191	Panther Mastery	Stranglethorn Vale	33	28	1300	unchanged	both				NO
+32-33 Stranglethorn Vale	14	210	Krazek's Cookery	Stranglethorn Vale	37	32	1400	unchanged	A				yes
+32-33 Stranglethorn Vale	15	616	The Haunted Isle	Stranglethorn Vale	37	32	285	unchanged	A				yes
+33-34 Gnomeregan	1	2924	Essential Artificials	Ironforge / Gnomeregan	30	24	3050	unchanged	A		O	yes	yes
+33-34 Gnomeregan	2	2930	Data Rescue	Ironforge / Gnomeregan	30	25	3650	unchanged	A		O	yes	yes
+33-34 Gnomeregan	3	2922	Save Techbot's Brain!	Ironforge / Gnomeregan	26	20	2650	unchanged	A		O	yes	yes
+33-34 Gnomeregan	4	2929	The Grand Betrayal	Ironforge / Gnomeregan	35	25	2750	unchanged	A		O	yes	yes
+33-34 Gnomeregan	5	2927	The Day After	Dun Morogh / Ironforge / Gnomeregan	27	20	220	unchanged	A		O	yes	yes
+33-34 Gnomeregan	6	2926	Gnogaine	Dun Morogh / Gnomeregan	27	20	2200	unchanged	A		O	yes	yes
+33-34 Gnomeregan	7	1179	The Brassbolts Brothers	Ironforge / Thousand Needles	30	28	2450	unchanged	A				yes
+33-34 Gnomeregan	8	700	A King's Tribute	Ironforge	31	25	2500	unchanged	A			yes	yes
+33-34 Gnomeregan	9	683	Sara Balloo's Plea	Ironforge	30	25	1200	unchanged	A			yes	yes
+33-34 Gnomeregan	10	686	A King's Tribute	Ironforge	30	25	1200	unchanged	A			yes	yes
+33-34 Gnomeregan	11	689	A King's Tribute	Ironforge	31	25	2500	unchanged	A			yes	yes
+34-35 Ashenvale	1	1022	The Howling Vale	Ashenvale	30	25	2450	unchanged	A			yes	yes
+34-35 Ashenvale	2	1021	Vile Satyr! Dryads in Danger!	Ashenvale	32	26	2550	unchanged	A			yes	yes
+34-35 Ashenvale	3	4581	Kayneth Stillwind	Ashenvale	29	24	590	unchanged	A			yes	yes
+34-35 Ashenvale	4	1035	Fallen Sky Lake	Ashenvale	30	20	3050	unchanged	A			yes	yes
+34-35 Ashenvale	5	1027	Raene's Cleansing	Ashenvale	28	18	2300	unchanged	A			yes	yes
+34-35 Ashenvale	6	1028	Raene's Cleansing	Ashenvale	28	18	1700	unchanged	A			yes	yes
+34-35 Ashenvale	7	1031	The Branch of Cenarius	Ashenvale	32	26	2550	unchanged	A			yes	yes
+34-35 Ashenvale	8	1037	Velinde Starsong	Darnassus / Ashenvale	30	25	610	unchanged	A				yes
+34-35 Ashenvale	9	2925	Klockmort's Essentials	Ironforge / Darnassus / Gnomeregan	30	24	245	unchanged	A			yes	yes
+34-35 Ashenvale	10	1038	Velinde's Effects	Darnassus / Ashenvale	30	25	610	unchanged	A				yes
+34-35 Ashenvale	11	1039	The Barrens Port	Darnassus / Ashenvale	30	25	1200	unchanged	A				NO
+34-35 Ashenvale	12	1105	Hardened Shells	Thousand Needles	30	28	2450	unchanged	both				NO
+34-35 Ashenvale	13	1104	Salt Flat Venom	Thousand Needles	30	28	1850	unchanged	both				NO
+34-35 Ashenvale	14	1110	Rocket Car Parts	Thousand Needles	31	28	2500	unchanged	both				NO
+34-35 Ashenvale	15	1111	Wharfmaster Dizzywig	Thousand Needles	36	30	1400	unchanged	both				NO
+34-35 Ashenvale	16	5762	Hemet Nesingwary	Stranglethorn Vale / Thousand Needles	31	28	1250	unchanged	both				NO
+34-35 Ashenvale	17	1176	Load Lightening	Thousand Needles	30	29	1850	unchanged	both				NO
+34-35 Ashenvale	18	1175	A Bump in the Road	Thousand Needles	33	28	2650	unchanged	both				NO
+34-35 Ashenvale	19	564	Costly Menace	Hillsbrad Foothills	34	30	2700	unchanged	A				yes
+34-35 Ashenvale	20	505	Syndicate Assassins	Hillsbrad Foothills / Alterac Mountains	33	26	1950	unchanged	A			yes	yes
+34-35 Ashenvale	21	510	Foreboding Plans	Hillsbrad Foothills / Alterac Mountains	34	26	1350	unchanged	A				yes
+34-35 Ashenvale	22	511	Encrypted Letter	Hillsbrad Foothills / Alterac Mountains	34	30	1350	unchanged	A				yes
+34-35 Ashenvale	23	514	Letter to Stormpike	Ironforge / Hillsbrad Foothills / Alterac Mountains	34	30	1350	unchanged	A				yes
+34-35 Ashenvale	24	525	Further Mysteries	Ironforge / Hillsbrad Foothills / Alterac Mountains	34	30	1350	unchanged	A				NO
+34-35 Ashenvale	25	1453	Reclaimers' Business in Desolace	Ironforge	33	30	1300	unchanged	A				NO

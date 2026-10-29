@@ -1,0 +1,642 @@
+bucket	qid	name	zone	level	req	xp	status	side	qclass	qrace	src	tugs_DS	ours_DS	tugs_DH	ours_DH	tugs_HH	ours_HH	tugs_later	skipped	tugs_no_turnin	ours_no_turnin
+both	179	Dwarven Outfitters	Dun Morogh	1	1	80	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]						
+both	170	A New Threat	Dun Morogh	2	1	170	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]						
+both	183	The Boar Hunter	Dun Morogh	3	1	250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]						
+both	233	Coldridge Valley Mail Delivery	Dun Morogh	3	1	190	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]						
+both	3361	A Refugee's Quandary	Dun Morogh	3	3	250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]						
+both	182	The Troll Cave	Dun Morogh	4	1	355	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]						
+both	234	Coldridge Valley Mail Delivery	Dun Morogh	4	1	270	updated	A		Human,Dwarf,Night Elf,Gnome	atlas	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]						
+both	218	The Stolen Journal	Dun Morogh	5	1	560	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]						
+both	282	Senir's Observations	Dun Morogh	5	1	335	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]						
+both	420	Senir's Observations	Dun Morogh	5	1	335	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]						
+both	2160	Supplies to Tannok	Dun Morogh	5	1	110	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]						
+both	3364	Scalding Mornbrew Delivery	Dun Morogh	5	4	225	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]						
+both	3365	Bring Back the Mug	Dun Morogh	5	4	450	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]						
+both	96628	The Adventurer	Dun Morogh	6	4	405	new	A		Human,Dwarf,Night Elf,Gnome	atlas	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]					x	
+both	97277	Grund and Gozwin	Dun Morogh	6	4	405	new	A		Human,Dwarf,Night Elf,Gnome	atlas	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]	1-6 Coldridge Valley	01a_ColdridgeValley [A Dwarf]						
+both	400	Tools for Steelgrill	Dun Morogh	5	2	110	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]						
+both	310	Bitter Rivals	Dun Morogh	6	2	135	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]						
+both	317	Stocking Jetsteam	Dun Morogh	6	2	680	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]						
+both	5541	Ammo for Rumbleshot	Dun Morogh	6	5	540	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]						
+both	311	Return to Marleth	Dun Morogh	7	2	630	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]						
+both	313	The Grizzled Den	Dun Morogh	7	4	630	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]						
+both	318	Evershine	Dun Morogh	7	2	160	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]						
+both	384	Beer Basted Boar Ribs	Dun Morogh	7	5	630	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]						
+both	319	A Favor for Evershine	Dun Morogh	8	2	530	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]						
+both	320	Return to Bellowfiz	Dun Morogh	8	2	880	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]						
+both	287	Frostmane Hold	Dun Morogh	9	7	590	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]						
+both	312	Tundra MacGrann's Stolen Stash	Dun Morogh	12	7	910	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]						
+both	291	The Reports	Dun Morogh / Ironforge	10	1	420	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]	6-9 Dun Morogh	01b_DunMorogh [A Dwarf]					x	
+both	432	Those Blasted Troggs!	Dun Morogh	9	5	590	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan					
+both	419	The Lost Pilot	Dun Morogh	10	8	420	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan					
+both	417	A Pilot's Revenge	Dun Morogh	11	8	660	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan					
+both	433	The Public Servant	Dun Morogh	11	6	660	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan					
+both	314	Protecting the Herd	Dun Morogh	12	6	910	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	9-11 Dun Morogh&Loch Modan [O]	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan [O]	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan [O]					
+both	96390	Nip 'Em in the Bud	Dun Morogh	13	9	910	new	A		Human,Dwarf,Night Elf,Gnome	atlas	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan	00b_Elwynn [A Human]				
+both	96392	Farsen's Watch	Dun Morogh	13	9	680	new	A		Human,Dwarf,Night Elf,Gnome	atlas	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan	00b_Elwynn [A Human]				
+both	96391	Underground Map	Dun Morogh	15	9	1050	new	A		Human,Dwarf,Night Elf,Gnome	atlas	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan	00b_Elwynn [A Human]				
+both	96393	Old Ironforge Incursion	Dun Morogh / Ironforge / The Hall of Thanes	16	9	1450	new	A		Human,Dwarf,Night Elf,Gnome	atlas	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan	01b_DunMorogh [A Dwarf]	9-11 Dun Morogh&Loch Modan	00b_Elwynn [A Human]				
+both	6388	Gryth Thurden	Ironforge / Loch Modan	10	10	210	unchanged	A		Dwarf,Gnome	atlas	9-11 Dun Morogh&Loch Modan [A Dwarf,Gnome]	02_LochModan	9-11 Dun Morogh&Loch Modan [A Dwarf,Gnome]	02_LochModan		02_LochModan				
+both	6391	Ride to Ironforge	Ironforge / Loch Modan	10	10	420	unchanged	A		Dwarf,Gnome	atlas	9-11 Dun Morogh&Loch Modan [A Dwarf,Gnome]	02_LochModan	9-11 Dun Morogh&Loch Modan [A Dwarf,Gnome]	02_LochModan		02_LochModan				
+both	6387	Honor Students	Loch Modan	10	10	210	unchanged	A		Dwarf,Gnome	atlas	9-11 Dun Morogh&Loch Modan [A Dwarf,Gnome]	02_LochModan	9-11 Dun Morogh&Loch Modan [A Dwarf,Gnome]	02_LochModan		02_LochModan				
+both	224	In Defense of the King's Lands	Loch Modan	12	10	910	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	9-11 Dun Morogh&Loch Modan	02_LochModan	9-11 Dun Morogh&Loch Modan	02_LochModan	9-11 Dun Morogh&Loch Modan	02_LochModan				
+both	267	The Trogg Threat	Loch Modan	12	10	910	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	9-11 Dun Morogh&Loch Modan	02_LochModan	9-11 Dun Morogh&Loch Modan	02_LochModan	9-11 Dun Morogh&Loch Modan	02_LochModan				
+both	237	In Defense of the King's Lands	Loch Modan	15	10	1050	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	9-11 Dun Morogh&Loch Modan	02_LochModan	9-11 Dun Morogh&Loch Modan	02_LochModan	9-11 Dun Morogh&Loch Modan	02_LochModan				
+both	307	Filthy Paws	Loch Modan	15	9	1350	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	9-11 Dun Morogh&Loch Modan	02_LochModan	9-11 Dun Morogh&Loch Modan	02_LochModan	9-11 Dun Morogh&Loch Modan	02_LochModan				
+both	1339	Mountaineer Stormpike's Task	Loch Modan	15	9	540	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	9-11 Dun Morogh&Loch Modan	02_LochModan [A Dwarf]	9-11 Dun Morogh&Loch Modan	02_LochModan [A Dwarf]	9-11 Dun Morogh&Loch Modan	02_LochModan [A Human]				
+both	1338	Stormpike's Order	Stormwind City / Loch Modan	14	9	980	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	9-11 Dun Morogh&Loch Modan	02_LochModan	9-11 Dun Morogh&Loch Modan	02_LochModan	9-11 Dun Morogh&Loch Modan	02_LochModan				
+both	3524	Washed Ashore	Darkshore	13	11	680	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore	11_Darkshore [O]	11-14 Darkshore	11_Darkshore [O]	11-14 Darkshore	11_Darkshore [O]				
+both	984	How Big a Threat?	Darkshore	14	10	740	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore	11_Darkshore	11-14 Darkshore	11_Darkshore	11-14 Darkshore	11_Darkshore				
+both	985	How Big a Threat?	Darkshore	14	10	980	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore	11_Darkshore [O]	11-14 Darkshore	11_Darkshore [O]	11-14 Darkshore	11_Darkshore [O]				
+both	2118	Plagued Lands	Darkshore	14	10	980	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore	11_Darkshore	11-14 Darkshore	11_Darkshore	11-14 Darkshore	11_Darkshore				
+both	4681	Washed Ashore	Darkshore	14	11	980	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore	11_Darkshore [O]	11-14 Darkshore	11_Darkshore [O]	11-14 Darkshore	11_Darkshore [O]				
+both	4761	Thundris Windweaver	Darkshore	15	11	105	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore	11_Darkshore	11-14 Darkshore	11_Darkshore	11-14 Darkshore	11_Darkshore				
+both	4762	The Cliffspring River	Darkshore	15	11	800	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore	11_Darkshore	11-14 Darkshore	11_Darkshore	11-14 Darkshore	11_Darkshore				
+both	2138	Cleansing of the Infected	Darkshore	16	10	1150	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore	11_Darkshore	11-14 Darkshore	11_Darkshore	11-14 Darkshore	11_Darkshore				
+both	947	Cave Mushrooms	Darkshore	17	12	1250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore	11_Darkshore	11-14 Darkshore	11_Darkshore	11-14 Darkshore	11_Darkshore				
+both	965	The Tower of Althalaxx	Darkshore	18	13	680	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore	11_Darkshore	11-14 Darkshore	11_Darkshore	11-14 Darkshore	11_Darkshore				
+both	97894	Business in Auberdine	Darkshore / Stormwind City	17	13		new	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	11_Darkshore [O]	14-15 Westfall	11_Darkshore [O]	14-15 Westfall	11_Darkshore [O]				
+both	109	Report to Gryan Stoutmantle	Elwynn Forest / Westfall	10	9	630	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall				
+both	168	Collecting Memories	Stormwind City / The Deadmines	18	14	1350	updated	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall			x	
+both	167	Oh Brother...	Stormwind City / The Deadmines	20	15	1550	updated	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall			x	
+both	2040	Underground Assault	Stormwind City / The Deadmines	20	15	1550	updated	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall			x	
+both	36	Westfall Stew	Westfall	10	9	420	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall				
+both	12	The People's Militia	Westfall	12	9	910	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall				
+both	64	The Forgotten Heirloom	Westfall	12	9	910	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall				
+both	92742	Testing the Wells	Westfall	12	9	455	new	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall				
+both	92744	Murloc Gills	Westfall	12	9	455	new	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall				
+both	13	The People's Militia	Westfall	14	9	980	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall				
+both	151	Poor Old Blanchy	Westfall	14	9	1250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall				
+both	92745	The State of the Mines	Westfall	14	9	490	new	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall				
+both	9	The Killing Fields	Westfall	15	8	1050	updated	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall				
+both	153	Red Leather Bandanas	Westfall	15	10	1050	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall				
+both	92909	Harvesting the Harvesters	Westfall	15	8	800	new	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall [O]	14-15 Westfall	05_Westfall [O]	14-15 Westfall	05_Westfall [O]				
+both	65	The Defias Brotherhood	Westfall / Redridge Mountains	18	14	1350	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall	14-15 Westfall	05_Westfall			x	
+both	98423	The Treaty of Understanding	Dun Morogh / Ironforge	16	9	1150	new	A		Human,Dwarf,Night Elf,Gnome	atlas	15-16 Halls of Thanes	03_HallOfThanes	15-16 Halls of Thanes	03_HallOfThanes	15-16 Halls of Thanes	03_HallOfThanes				
+both	96394	The Restless Dead	Ironforge / The Hall of Thanes	15	10	1050	new	A		Human,Dwarf,Night Elf,Gnome	atlas	15-16 Halls of Thanes	02_LochModan	15-16 Halls of Thanes	02_LochModan	15-16 Halls of Thanes	02_LochModan				
+both	96403	Important Heirlooms	Ironforge / The Hall of Thanes	15	10	1350	new	A		Human,Dwarf,Night Elf,Gnome	atlas	15-16 Halls of Thanes	02_LochModan	15-16 Halls of Thanes	02_LochModan	15-16 Halls of Thanes	02_LochModan				
+both	96395	An Ancient Grudge	The Hall of Thanes	15	10	1050	new			Human,Dwarf,Night Elf,Gnome	atlas	15-16 Halls of Thanes	03_HallOfThanes	15-16 Halls of Thanes	03_HallOfThanes	15-16 Halls of Thanes	03_HallOfThanes				
+both	3765	The Corruption Abroad	Darkshore / Stormwind City	24	18	1450	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	16-18 Loch Modan	08_RuinsOfLordaeron	16-18 Loch Modan	08_RuinsOfLordaeron	16-18 Loch Modan	08_RuinsOfLordaeron				
+both	6392	Return to Brock	Ironforge / Loch Modan	10	10	1050	unchanged	A		Dwarf,Gnome	atlas	16-18 Loch Modan [A Dwarf,Gnome]	02_LochModan	16-18 Loch Modan [A Dwarf,Gnome]	02_LochModan		02_LochModan				
+both	301	Report to Ironforge	Ironforge / Loch Modan	15	10	540	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan			x	
+both	263	In Defense of the King's Lands	Loch Modan	15	10	1050	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan				
+both	298	Excavation Progress Report	Loch Modan	15	10	270	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan				
+both	385	Crocolisk Hunting	Loch Modan	15	10	1050	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan				
+both	2038	Bingles' Missing Supplies	Loch Modan	15	12	1050	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan				
+both	257	A Hunter's Boast	Loch Modan	16	11	880	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan				
+both	86758	Twisting the Knife	Loch Modan	16	12	1150	new	A		Human,Dwarf,Night Elf,Gnome	atlas	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan			x	
+both	258	A Hunter's Challenge	Loch Modan	17	11	950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan				
+both	199	A Dark Threat Looms	Loch Modan	18	16	1350	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	16-18 Loch Modan	09_LochModanMenethil	16-18 Loch Modan	09_LochModanMenethil	16-18 Loch Modan	09_LochModanMenethil				
+both	250	A Dark Threat Looms	Loch Modan	18	16	680	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	16-18 Loch Modan	09_LochModanMenethil	16-18 Loch Modan	09_LochModanMenethil	16-18 Loch Modan	09_LochModanMenethil				
+both	297	Gathering Idols	Loch Modan	18	13	1350	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	16-18 Loch Modan	04_LochModan2	16-18 Loch Modan	04_LochModan2	16-18 Loch Modan	04_LochModan2				
+both	436	Ironband's Excavation	Loch Modan	18	13	340	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan	16-18 Loch Modan	02_LochModan				
+both	948	Onu	Darkshore	17	12	630	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore				
+both	950	Return to Onu	Darkshore	17	12	950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore				
+both	982	Deep Ocean, Vast Sea	Darkshore	17	13	1250	updated	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]				
+both	1138	Fruit of the Sea	Darkshore	17	15	1250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]				
+both	98042	It's All Fun and Games Until...	Darkshore	17	12	1250	new	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]				
+both	966	The Tower of Althalaxx	Darkshore	18	13	1350	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore				
+both	2139	Tharnariun's Hope	Darkshore	18	10	1350	updated	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore			x	
+both	4740	WANTED: Murkdeep!	Darkshore	18	15	1700	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore				
+both	4763	The Blackwood Corrupted	Darkshore	18	15	1700	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore			x	
+both	4731	Beached Sea Turtle	Darkshore	19	13	730	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]				
+both	4732	Beached Sea Turtle	Darkshore	19	13	730	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]				
+both	4733	Beached Sea Creature	Darkshore	19	13	730	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]				
+both	729	The Absent Minded Prospector	Darkshore	20	15	1150	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore				
+both	731	The Absent Minded Prospector	Darkshore	20	15	1950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore				
+both	951	Mathystra Relics	Darkshore	20	12	1950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore			x	
+both	986	A Lost Master	Darkshore	20	10	1550	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]				
+both	993	A Lost Master	Darkshore	20	10	780	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]			x	
+both	87760	Holy Diver	Darkshore	20	15		new	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]			x	
+both	98013	Swelling Forces	Darkshore	20	12	1550	new	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore			x	
+both	944	The Master's Glaive	Darkshore / Ashenvale	17	12	630	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore				
+both	949	The Twilight Camp	Darkshore / Ashenvale	17	12	1250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore				
+both	945	Therylune's Escape	Darkshore / Ashenvale	18	10	1350	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]			x	
+both	967	The Tower of Althalaxx	Darkshore / Ashenvale	18	13	1000	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore			x	
+both	1275	Researching the Corruption	Darkshore / Blackfathom Deeps	24	18	2400	updated	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	08_RuinsOfLordaeron	18-20 Darkshore	08_RuinsOfLordaeron	18-20 Darkshore	08_RuinsOfLordaeron			x	
+both	741	The Absent Minded Prospector	Darkshore / Darnassus	20	15	1150	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore				
+both	968	The Powers Below	Darkshore / Ironforge	20	10	1950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]	18-20 Darkshore	11_Darkshore [O]			x	
+both	1198	In Search of Thaelrid	Darnassus / Blackfathom Deeps	24	18	2400	unchanged	A			atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore			x	
+both	1199	Twilight Falls	Darnassus / Blackfathom Deeps	25	20	2550	updated	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore	18-20 Darkshore	11_Darkshore			x	
+both	98461	Unrequited Love	Wetlands / Darkshore	21	18	165	new	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	08_RuinsOfLordaeron [O]	18-20 Darkshore	08_RuinsOfLordaeron [O]	18-20 Darkshore	08_RuinsOfLordaeron [O]			x	
+both	942	The Absent Minded Prospector	Wetlands / Darkshore / Darnassus	20	15	1550	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore	20_Darnassus	18-20 Darkshore	20_Darnassus	18-20 Darkshore	20_Darnassus			x	
+hunter/human-only step	783	A Threat Within	Elwynn Forest	1	1	40	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	92479	A Scribbled Letter	Elwynn Forest	1	1	40	new	A	Hunter	Human	atlas					1-6 Northshire [A Hunter]					
+hunter/human-only step	7	Kobold Camp Cleanup	Elwynn Forest	2	1	170	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	33	Wolves Across the Border	Elwynn Forest	2	1	170	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	5261	Eagan Peltskinner	Elwynn Forest	2	1	85	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	91741	Nibbled-On Book	Elwynn Forest	2	1	85	new	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [O] [A Human]				
+hunter/human-only step	91743	Rascally Rodents	Elwynn Forest	2	1	170	new	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	92124	Book Inventory	Elwynn Forest	2	1	15	new	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	15	Investigate Echo Ridge	Elwynn Forest	3	1	250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	18	Brotherhood of Thieves	Elwynn Forest	4	2	355	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	3903	Milly Osworth	Elwynn Forest	4	2	35	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	3904	Milly's Harvest	Elwynn Forest	4	2	180	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	3905	Grape Manifest	Elwynn Forest	4	2	355	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	6	Bounty on Garrick Padfoot	Elwynn Forest	5	2	335	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	21	Skirmish at Echo Ridge	Elwynn Forest	5	1	450	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	54	Report to Goldshire	Elwynn Forest	5	1	225	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	2158	Rest and Relaxation	Elwynn Forest	5	1	110	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	96627	The Adventurer	Elwynn Forest	6	4	405	new	A		Human,Dwarf,Night Elf,Gnome	atlas					1-6 Northshire	00a_Northshire [A Human]				
+hunter/human-only step	84	Back to Billy	Elwynn Forest	6	5	135	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	85	Lost Necklace	Elwynn Forest	6	5	135	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	86	Pie for Billy	Elwynn Forest	6	5	405	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	106	Young Lovers	Elwynn Forest	6	5	135	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	107	Note to William	Elwynn Forest	6	5	135	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	111	Speak with Gramma	Elwynn Forest	6	5	135	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	95998	The Great Outdoors	Elwynn Forest	6	4	405	new	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00a_Northshire [A Human]				
+hunter/human-only step	96626	Camping 101: Cooking	Elwynn Forest	6	4	270	new	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00a_Northshire [O] [A Human]				
+hunter/human-only step	97919	Camping 101: First Aid	Elwynn Forest	6	4	270	new	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00a_Northshire [O] [A Human]				
+hunter/human-only step	97924	Camping 101: Skinning	Elwynn Forest	6	4	270	new	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00a_Northshire [O] [A Human]				
+hunter/human-only step	47	Gold Dust Exchange	Elwynn Forest	7	4	630	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	60	Kobold Candles	Elwynn Forest	7	3	475	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	62	The Fargodeep Mine	Elwynn Forest	7	4	475	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	112	Collecting Kelp	Elwynn Forest	7	5	315	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	114	The Escape	Elwynn Forest	7	5	790	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	99127	A Net Disaster	Elwynn Forest	7	4	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	99143	Bottles and Baubles	Elwynn Forest	7	4	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	87	Goldtooth	Elwynn Forest	8	5	880	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	88	Princess Must Die!	Elwynn Forest	9	6	780	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest [O]	00b_Elwynn [A Human]				
+hunter/human-only step	5545	A Bundle of Trouble	Elwynn Forest	9	5	780	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	35	Further Concerns	Elwynn Forest	10	7	420	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	37	Find the Lost Guards	Elwynn Forest	10	7	210	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	39	Deliver Thomas' Report	Elwynn Forest	10	7	1050	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	40	A Fishy Peril	Elwynn Forest	10	7	85	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	45	Discover Rolf's Fate	Elwynn Forest	10	7	420	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	52	Protect the Frontier	Elwynn Forest	10	7	630	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	71	Report to Thomas	Elwynn Forest	10	7	210	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	76	The Jasperlode Mine	Elwynn Forest	10	4	840	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	91732	Good Steel	Elwynn Forest	10	7	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	91733	Downstream	Elwynn Forest	10	7	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	94792	Taming the Beast	Elwynn Forest	10	10	840	new	A	Hunter	Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest [A Hunter]	00b_Elwynn [A Human,Hunter]				
+hunter/human-only step	94793	Training the Beast	Elwynn Forest	10	10	420	new	A	Hunter	Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest [A Hunter]	00b_Elwynn [A Human,Hunter]				
+hunter/human-only step	94863	Taming the Beast	Elwynn Forest	10	10	840	new	A	Hunter	Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest [A Hunter]	00b_Elwynn [A Human,Hunter]				
+hunter/human-only step	94864	Taming the Beast	Elwynn Forest	10	10	840	new	A	Hunter	Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest [A Hunter]	00b_Elwynn [A Human,Hunter]				
+hunter/human-only step	97923	Camping 101: Mining	Elwynn Forest / Stormwind City	6	4	270	new	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest				x	
+hunter/human-only step	61	Shipment to Stormwind	Elwynn Forest / Stormwind City	7	3	790	updated	A		Human,Dwarf,Night Elf,Gnome	atlas					6-9 Elwynn Forest	00b_Elwynn [A Human]				
+hunter/human-only step	3108	Etched Rune	Dun Morogh	1	1	40	unchanged	A	Hunter	Dwarf	atlas			1-6 Coldridge Valley [A Hunter]	01a_ColdridgeValley [A Dwarf,Hunter]						
+hunter/human-only step	6064	Taming the Beast	Dun Morogh	10	10	840	unchanged	A	Hunter	Dwarf	atlas			9-11 Dun Morogh&Loch Modan [A Dwarf,Hunter]	01b_DunMorogh [A Dwarf,Hunter]						
+hunter/human-only step	6084	Taming the Beast	Dun Morogh	10	10	840	unchanged	A	Hunter	Dwarf	atlas			9-11 Dun Morogh&Loch Modan [A Dwarf,Hunter]	01b_DunMorogh [A Dwarf,Hunter]						
+hunter/human-only step	6085	Taming the Beast	Dun Morogh	10	10	840	updated	A	Hunter	Dwarf	atlas			9-11 Dun Morogh&Loch Modan [A Dwarf,Hunter]	01b_DunMorogh [A Dwarf,Hunter]						
+hunter/human-only step	6086	Training the Beast	Dun Morogh / Ironforge	10	10	420	updated	A	Hunter	Dwarf	atlas			9-11 Dun Morogh&Loch Modan [A Dwarf,Hunter]	01b_DunMorogh [A Dwarf,Hunter]						
+hunter/human-only step	91745	Mining Consultant	Elwynn Forest	3	1	125	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00a_Northshire [A Human]				
+hunter/human-only step	91752	The Big Picture	Elwynn Forest	3	1	315	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00a_Northshire [A Human]				
+hunter/human-only step	91758	Follow That Kobold!	Elwynn Forest	4	1	180	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00a_Northshire [A Human]				
+hunter/human-only step	91772	Shhh! We're Hunting Kobolds	Elwynn Forest	4	1	270	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00a_Northshire [A Human]				
+hunter/human-only step	97922	Camping 101: Leatherworking	Elwynn Forest	6	4	270	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00a_Northshire [O] [A Human]				
+hunter/human-only step	91736	Applejack Still	Elwynn Forest	1	1		new	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [O] [A Human]				
+hunter/human-only step	91775	Book Return	Elwynn Forest	6	1	680	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [A Human]				
+hunter/human-only step	91751	Rough Wolf Pelts	Elwynn Forest	7	5	475	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [O] [A Human]				
+hunter/human-only step	91777	Rare Books	Elwynn Forest	7	1	790	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [A Human]				
+hunter/human-only step	99128	Slimy Menace	Elwynn Forest	7	4	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [A Human]				
+hunter/human-only step	99129	A Man About a Murloc	Elwynn Forest	7	4	65	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [A Human]				
+hunter/human-only step	99130	An Enticing Offer	Elwynn Forest	7	4	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [A Human]				
+hunter/human-only step	99131	Baited for Success	Elwynn Forest	7	4	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [A Human]				
+hunter/human-only step	83	Red Linen Goods	Elwynn Forest	9	4	780	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [A Human]				
+hunter/human-only step	11	Riverpaw Gnoll Bounty	Elwynn Forest	10	6	840	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [A Human]				
+hunter/human-only step	239	Westbrook Garrison Needs Help!	Elwynn Forest	10	6	210	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [A Human]				
+hunter/human-only step	91723	Delicate Instruments	Elwynn Forest	10	7	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [A Human]				
+hunter/human-only step	91724	Delicate Instruments	Elwynn Forest	10	7	840	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [A Human]				
+hunter/human-only step	91725	Stolen Enchanting Supplies	Elwynn Forest	10	7	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [A Human]				
+hunter/human-only step	91738	An Apple Treat	Elwynn Forest	10	7	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [O] [A Human]				
+hunter/human-only step	176	"WANTED: ""Hogger"""	Elwynn Forest	11	5	880	updated	A		Human,Dwarf,Night Elf,Gnome	atlas						00b_Elwynn [A Human]				
+ours-only	1097	Elmore's Task	Elwynn Forest / Stormwind City / Redridge Mountains	15	9	105	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		05_Westfall [O]		05_Westfall [O]	6-9 Elwynn Forest	05_Westfall [O]				
+ours-only	353	Stormpike's Delivery	Stormwind City / Loch Modan	15	9	1050	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines [O]		07_Deadmines [O]	6-9 Elwynn Forest	07_Deadmines [O]				
+ours-only	98581	Archaic Rune	Dun Morogh	1	1	40	new	A	Shaman	Dwarf	atlas		01a_ColdridgeValley [A Dwarf,Shaman]								
+ours-only	94373	Call of Earth	Dun Morogh	4	4	270	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		01a_ColdridgeValley [A Dwarf,Shaman]								
+ours-only	94374	Call of Earth	Dun Morogh	4	4	270	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		01a_ColdridgeValley [A Dwarf,Shaman]								
+ours-only	94375	Call of Earth	Dun Morogh	4	4	445	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		01a_ColdridgeValley [A Dwarf,Shaman]								
+ours-only	96046	Camping 101: Mining	Dun Morogh	6	4	270	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [O] [A Dwarf]		01b_DunMorogh [O] [A Dwarf]						
+ours-only	96047	Camping 101: First Aid	Dun Morogh	6	4	270	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [O] [A Dwarf]		01b_DunMorogh [O] [A Dwarf]						
+ours-only	96608	The Great Outdoors	Dun Morogh	6	4	405	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	96629	Camping 101: Cooking	Dun Morogh	6	4	270	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	98321	Flintfire's Shipment	Dun Morogh	7	4	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	98319	Secure the Mountain	Dun Morogh	8	4	175	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	98322	Secure the Mountain	Dun Morogh	8	4	70	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	98323	Secure the Mountain	Dun Morogh	8	4	70	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	99158	Dawn in the Mountains	Dun Morogh	8	5	70	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	99159	Finding Warmth	Dun Morogh	8	5	700	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	99160	Rime's Wrath	Dun Morogh	8	5	700	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	99161	Rime's Wrath	Dun Morogh	8	5	700	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	99162	Treacherous Cold	Dun Morogh	8	5	700	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	315	The Perfect Stout	Dun Morogh	9	5	780	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	98326	Frosthowl	Dun Morogh	9	5	780	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	412	Operation Recombobulation	Dun Morogh	10	7	840	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	413	Shimmer Stout	Dun Morogh	10	8	420	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	95212	Never Saddle on Quality	Dun Morogh	10	7	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	95213	Stolen Blasting Powder	Dun Morogh	10	7	85	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	95214	Stolen Blasting Powder	Dun Morogh	10	7	840	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	95217	The Quarry's Smith	Dun Morogh	10	7	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [O] [A Dwarf]		01b_DunMorogh [O] [A Dwarf]						
+ours-only	96408	A Visitor to Dun Morogh	Dun Morogh	13	9	680	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]		00b_Elwynn [A Human]				
+ours-only	96031	Camping 101: Leatherworking	Dun Morogh / Ironforge	6	4	270	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [O] [A Dwarf]		01b_DunMorogh [O] [A Dwarf]						
+ours-only	96056	Camping 101: Skinning	Dun Morogh / Ironforge	6	4	270	new	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [O] [A Dwarf]		01b_DunMorogh [O] [A Dwarf]						
+ours-only	94449	Call of Fire	Dun Morogh / Ironforge	10	10	420	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf,Shaman]								
+ours-only	414	Stout to Kadrell	Dun Morogh / Loch Modan	10	8	630	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf]		01b_DunMorogh [A Dwarf]						
+ours-only	94465	Call of Fire	Dun Morogh / Loch Modan	11	10	660	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		01b_DunMorogh [A Dwarf,Shaman]								
+ours-only	95041	Data Hoarders	Dun Morogh / Ironforge	10	7	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas		02_LochModan [O]		02_LochModan [O]		02_LochModan [O]		ours		x
+ours-only	94468	Call of Fire	Dun Morogh / Loch Modan	14	10	1250	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		02_LochModan [A Shaman]								
+ours-only	2039	Find Bingles	Ironforge / Loch Modan	15	12	270	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		02_LochModan		02_LochModan		02_LochModan				
+ours-only	86667	Snowbound	Loch Modan	10	10	420	new	A		Human,Dwarf,Night Elf,Gnome	atlas		02_LochModan		02_LochModan		02_LochModan				
+ours-only	416	Rat Catching	Loch Modan	11	10	880	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		02_LochModan [A Dwarf]		02_LochModan [A Dwarf]		02_LochModan [A Human]				
+ours-only	418	Thelsamar Blood Sausages	Loch Modan	11	7	880	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		02_LochModan		02_LochModan		02_LochModan				
+ours-only	94466	Call of Fire	Loch Modan	14	10	980	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		02_LochModan [A Shaman]								
+ours-only	94467	Call of Fire	Loch Modan	14	10	1250	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		02_LochModan [A Shaman]								
+ours-only	217	In Defense of the King's Lands	Loch Modan	17	10	1600	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		02_LochModan		02_LochModan		02_LochModan				
+ours-only	86585	Banner of the Fallen	Loch Modan	17	10	1250	new	A		Human,Dwarf,Night Elf,Gnome	atlas		02_LochModan		02_LochModan		02_LochModan				
+ours-only	86613	Excavation Tools	Loch Modan	18	13	1350	new	A		Human,Dwarf,Night Elf,Gnome	atlas		02_LochModan		02_LochModan		02_LochModan				
+ours-only	86614	Silver of the Waves	Loch Modan	20	13	1550	new	A		Human,Dwarf,Night Elf,Gnome	atlas		02_LochModan [O]		02_LochModan [O]		02_LochModan [O]				
+ours-only	2041	Speak with Shoni	Stormwind City / Ironforge	15	15	270	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		02_LochModan		02_LochModan		02_LochModan				
+ours-only	302	Powder to Ironband	Ironforge / Loch Modan	15	10	270	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		03_HallOfThanes		03_HallOfThanes		03_HallOfThanes				
+ours-only	273	Resupplying the Excavation	Loch Modan	15	10	270	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		04_LochModan2		04_LochModan2		04_LochModan2				
+ours-only	309	Protecting the Shipment	Loch Modan	15	10	1050	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		04_LochModan2		04_LochModan2		04_LochModan2				
+ours-only	454	After the Ambush	Loch Modan	15	10	105	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		04_LochModan2		04_LochModan2		04_LochModan2				
+ours-only	255	Mercenaries	Loch Modan	19	15	1800	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		04_LochModan2 [O]		04_LochModan2 [O]		04_LochModan2 [O]				
+ours-only	271	Vyrin's Revenge	Loch Modan	20	15	780	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		04_LochModan2		04_LochModan2		04_LochModan2				
+ours-only	531	Vyrin's Revenge	Loch Modan	20	15	1550	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		04_LochModan2 [O]		04_LochModan2 [O]		04_LochModan2 [O]				
+ours-only	92748	Explosive Consultation	Stormwind City / Westfall	16	9	580	new	A		Human,Dwarf,Night Elf,Gnome	atlas		05_Westfall		05_Westfall		05_Westfall				
+ours-only	92109	My First Alchemy Set	Westfall	10	10	420	new	A		Human,Dwarf,Night Elf,Gnome	atlas		05_Westfall [O]		05_Westfall [O]		05_Westfall [O]				
+ours-only	92110	My First Real Potion	Westfall	10	10	420	new	A		Human,Dwarf,Night Elf,Gnome	atlas		05_Westfall [O]		05_Westfall [O]		05_Westfall [O]				
+ours-only	22	Goretusk Liver Pie	Westfall	12	9	910	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		05_Westfall		05_Westfall		05_Westfall				
+ours-only	38	Westfall Stew	Westfall	13	9	910	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		05_Westfall		05_Westfall		05_Westfall				
+ours-only	102	Patrolling Westfall	Westfall	14	8	980	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		05_Westfall		05_Westfall		05_Westfall				
+ours-only	92747	Moonbrook Espionage	Westfall	15	9	540	new	A		Human,Dwarf,Night Elf,Gnome	atlas		05_Westfall		05_Westfall		05_Westfall				
+ours-only	92911	Harvesting the Harvesters	Westfall	15	8	800	new	A		Human,Dwarf,Night Elf,Gnome	atlas		05_Westfall [O]		05_Westfall [O]		05_Westfall [O]				
+ours-only	103	Keeper of the Flame	Westfall	16	10	1150	unchanged	both			atlas		05_Westfall		05_Westfall		05_Westfall				
+ours-only	14	The People's Militia	Westfall	17	9	1600	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		05_Westfall		05_Westfall		05_Westfall				
+ours-only	152	The Coast Isn't Clear	Westfall	19	10	1450	unchanged	both			atlas		05_Westfall		05_Westfall		05_Westfall				
+ours-only	104	The Coastal Menace	Westfall	20	15	1550	unchanged	both			atlas		05_Westfall		05_Westfall		05_Westfall				
+ours-only	95065	Fishin' Time	Stormwind City	12	7	910	new	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines				
+ours-only	97220	Philmor's Favor	Stormwind City	15	9	540	new	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines				
+ours-only	97222	Gatehouse Goods	Stormwind City	15	9	800	new	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines				
+ours-only	97234	Reading Room	Stormwind City	18	13	680	new	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines				
+ours-only	97237	Shelf Picked	Stormwind City	18	13	1000	new	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines				
+ours-only	92749	A Dynamite Plan	Stormwind City / Westfall	16	9	580	new	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines				
+ours-only	92750	Detonation at a Distance	Stormwind City / Westfall	16	9	580	new	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines				
+ours-only	92751	Detonation at a Distance	Stormwind City / Westfall	16	9	580	new	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines				
+ours-only	92752	Explosive Consultation	Stormwind City / Westfall	16	9	580	new	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines				
+ours-only	92753	Destruction in Deadmines	The Deadmines / Westfall	18	9	1350	new	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines				
+ours-only	92819	Destruction in Deadmines	Westfall	18	9	680	new	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines				
+ours-only	971	Knowledge in the Deeps	Ironforge / Blackfathom Deeps	23	10	2750	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		08_RuinsOfLordaeron [A Shaman]								
+ours-only	94494	Call of Water	Ironforge / Loch Modan	20	20	780	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		08_RuinsOfLordaeron [A Shaman]								
+ours-only	278	A Dark Threat Looms	Loch Modan	18	16	1350	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil [O]		09_LochModanMenethil [O]		09_LochModanMenethil [O]				
+ours-only	280	A Dark Threat Looms	Loch Modan	18	16	680	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil [O]		09_LochModanMenethil [O]		09_LochModanMenethil [O]				
+ours-only	283	A Dark Threat Looms	Loch Modan	20	16	1950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil [O]		09_LochModanMenethil [O]		09_LochModanMenethil [O]				
+ours-only	256	WANTED: Chok'sul	Loch Modan	22	17	1750	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil [O]		09_LochModanMenethil [O]		09_LochModanMenethil [O]				
+ours-only	86776	Ingredients for the Forge	Loch Modan	30	15	2450	new	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil [O]		09_LochModanMenethil [O]		09_LochModanMenethil [O]				
+ours-only	469	Daily Delivery	Wetlands	21	18	830	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil				
+ours-only	94497	Call of Water	Wetlands	22	20	870	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil [A Shaman]								
+ours-only	94499	Call of Water	Wetlands	22	20	1300	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil [A Shaman]								
+ours-only	161	A Dark Threat Looms	Wetlands / Loch Modan	18	16	1350	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil [O]		09_LochModanMenethil [O]		09_LochModanMenethil [O]				
+ours-only	274	A Dark Threat Looms	Wetlands / Loch Modan	18	16	340	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil [O]		09_LochModanMenethil [O]		09_LochModanMenethil [O]				
+ours-only	455	The Algaz Gauntlet	Wetlands / Loch Modan	21	19	1250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil				
+ours-only	468	Report to Mountaineer Rockgar	Wetlands / Loch Modan	21	19	165	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil				
+ours-only	94495	Call of Water	Wetlands / Loch Modan	22	20	435	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil [A Shaman]								
+ours-only	249	Morganth	Elwynn Forest / Redridge Mountains	27	20	2750	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		10_Redridge2		10_Redridge2		10_Redridge2				
+ours-only	122	Underbelly Scales	Redridge Mountains	18	14	1700	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		10_Redridge2		10_Redridge2		10_Redridge2				
+ours-only	219	Missing In Action	Redridge Mountains	25	19	2550	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		10_Redridge2		10_Redridge2		10_Redridge2				
+ours-only	2078	Gyromast's Revenge	Darkshore	20	14	1150	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		11_Darkshore		11_Darkshore		11_Darkshore				
+ours-only	2098	Gyromast's Retrieval	Darkshore	20	14	1550	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		11_Darkshore		11_Darkshore		11_Darkshore				
+ours-only	98028	Baron Marinous	Darkshore	21	17	1650	new	A		Human,Dwarf,Night Elf,Gnome	atlas		11_Darkshore [O]		11_Darkshore [O]		11_Darkshore [O]				
+ours-only	5321	The Sleeper Has Awakened	Darkshore / Ashenvale	20	17	1550	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		11_Darkshore		11_Darkshore		11_Darkshore				
+ours-only	1016	Elemental Bracers	Ashenvale	24	20	1950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		12_Ashenvale		12_Ashenvale		12_Ashenvale				
+ours-only	1017	Mage Summoner	Ashenvale	25	20	2550	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		12_Ashenvale [O]		12_Ashenvale [O]		12_Ashenvale [O]				
+ours-only	976	Supplies to Auberdine	Darkshore / Ashenvale	24	19	2900	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		12_Ashenvale		12_Ashenvale		12_Ashenvale				
+ours-only	1140	The Tower of Althalaxx	Darkshore / Ashenvale	28	13	2300	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		12_Ashenvale [O]		12_Ashenvale [O]		12_Ashenvale [O]				
+ours-only	1200	Blackfathom Villainy	Darnassus / Blackfathom Deeps	27	18	3300	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		13_Blackfathom		13_Blackfathom		13_Blackfathom				
+ours-only	98447	The Valor Family	Duskwood	27	18	2200	new				atlas		14_Duskwood [O]		14_Duskwood [O]		14_Duskwood [O]		ours		
+ours-only	337	An Old History Book	Duskwood / Stormwind City	25	20	1500	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood [O]		14_Duskwood [O]		14_Duskwood [O]				
+ours-only	344	Brother Paxton	Elwynn Forest / Stormwind City	24	20	485	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade [O]		15_Stockade [O]		15_Stockade [O]				
+ours-only	345	Ink Supplies	Elwynn Forest / Stormwind City / Redridge Mountains	24	20	485	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade [O]		15_Stockade [O]		15_Stockade [O]				
+ours-only	343	Speaking of Fortitude	Stormwind City	24	20	195	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade [O]		15_Stockade [O]		15_Stockade [O]				
+ours-only	178	Theocritus' Retrieval	Elwynn Forest / Redridge Mountains	23	15	1400	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		16_RedridgeEastvale [O]		16_RedridgeEastvale [O]		16_RedridgeEastvale [O]				
+ours-only	346	Return to Kristoff	Elwynn Forest / Stormwind City	24	20	1950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		16_RedridgeEastvale [O]		16_RedridgeEastvale [O]		16_RedridgeEastvale [O]				
+ours-only	347	Rethban Ore	Elwynn Forest / Stormwind City / Redridge Mountains	24	20	970	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		16_RedridgeEastvale [O]		16_RedridgeEastvale [O]		16_RedridgeEastvale [O]				
+ours-only	95772	Songblade Search	Mount Hyjal / Redridge Mountains	31	24	3150	new	A		Human,Dwarf,Night Elf,Gnome	atlas		16_RedridgeEastvale		16_RedridgeEastvale		16_RedridgeEastvale				
+ours-only	96138	Merrick's Bow	Duskwood	28	18	2300	new	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2 [O]		17_Duskwood2 [O]		17_Duskwood2 [O]				
+ours-only	160	Note to the Mayor	Duskwood	30	20	610	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2				
+ours-only	251	Translate Abercrombie's Note	Duskwood	30	20	245	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2				
+ours-only	252	Translation to Ello	Duskwood	30	20	245	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2				
+ours-only	253	Bride of the Embalmer	Duskwood	30	20	3650	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2				
+ours-only	401	Wait for Sirra to Finish	Duskwood	30	20	1850	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2				
+ours-only	222	Worgen in the Woods	Duskwood	31	23	1900	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2				
+ours-only	98	The Legend of Stalvan	Duskwood	35	22	4100	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2				
+ours-only	96137	Ira's Dagger	Duskwood / Alterac Mountains	24	18	1950	new	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2 [O]		17_Duskwood2 [O]		17_Duskwood2 [O]				
+ours-only	146	Messenger to Darkshire	Duskwood / Redridge Mountains	18	18	340	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2 [O]		17_Duskwood2 [O]		17_Duskwood2 [O]		ours		x
+ours-only	98219	The Shamed Lieutenant	Stormwind City / Hillsbrad Foothills	30	20	245	new	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1				
+ours-only	538	Southshore	Stormwind City / Hillsbrad Foothills	38	20	710	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1 [O]		18_Wetlands1 [O]		18_Wetlands1 [O]				
+ours-only	94500	Call of Water	Wetlands	23	20	1400	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1 [A Shaman]								
+ours-only	473	Report to Captain Stoutfist	Wetlands	28	23	230	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1				
+ours-only	98230	This Land Was Their Land	Wetlands	29	22	1200	new	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1				
+ours-only	98240	Crimson Crate Delivery	Wetlands	29	19	1200	new	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1				
+ours-only	98216	Understanding Our Present	Wetlands	31	23	3150	new	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1 [O]		18_Wetlands1 [O]		18_Wetlands1 [O]				
+ours-only	98310	Gleaning Our Future	Wetlands	32	24	3200	new	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1 [O]		18_Wetlands1 [O]		18_Wetlands1 [O]				
+ours-only	98209	Bloom of the Heavens	Wetlands / Darkshore	29	22	1200	new	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1				
+ours-only	98815	Highland Hides	Wetlands / Mount Hyjal	28	24	1150	new	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1		ours		
+ours-only	275	Blisters on the Land	Wetlands	26	20	2650	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2		19_Wetlands2		19_Wetlands2				
+ours-only	98283	Carnage	Wetlands	30	22	3050	new	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]				
+ours-only	98291	Death to the Dragonmaw	Wetlands	30	22	3050	new	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]				
+ours-only	98293	Forced Disarmament	Wetlands	30	22	3050	new	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]				
+ours-only	98223	Old Habits	Wetlands	31	23	1250	new	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]				
+ours-only	87491	Spark of Freedom	Wetlands	32	27	2550	new	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]				
+ours-only	88756	Bring Back a Bang	Wetlands	32	27	2550	new	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]				
+ours-only	87318	Hearts of the Lost	Wetlands	33	28	2650	new	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]				
+ours-only	88757	Accessories of the Lost	Wetlands	33	28	2650	new	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]				
+ours-only	88758	Sentiments of the Lost	Wetlands	33	28	2650	new	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]				
+ours-only	98297	Stopping the Cycle	Wetlands	34	24	2700	new	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]				
+ours-only	98300	Word to Ironforge	Wetlands / Ironforge	34	24	2700	new	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2		19_Wetlands2		19_Wetlands2				
+ours-only	95646	Horrors in the Highland	Wetlands / Mount Hyjal	31	24	3150	new	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2		19_Wetlands2		19_Wetlands2				
+ours-only	378	The Fury Runs Deep	Wetlands / The Stockade	27	22	2750	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]		ours		x
+ours-only	78133	Dragonslayer's Shield	Ashenvale	25	15	2550	updated	both			atlas		20_Darnassus [O]		20_Darnassus [O]		20_Darnassus [O]				
+ours-only	78134	Dragonslayer's Lance	Ashenvale	25	15	2550	updated	both			atlas		20_Darnassus [O]		20_Darnassus [O]		20_Darnassus [O]				
+ours-only	1029	Raene's Cleansing	Ashenvale	28	18	230	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast		21_AshenvaleEast		21_AshenvaleEast				
+ours-only	1030	Raene's Cleansing	Ashenvale	28	18	1700	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast		21_AshenvaleEast		21_AshenvaleEast				
+ours-only	1055	Raene's Cleansing	Ashenvale	28	18	230	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast		21_AshenvaleEast		21_AshenvaleEast				
+ours-only	1011	Forsaken Diseases	Ashenvale	29	24	2350	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast		21_AshenvaleEast		21_AshenvaleEast				
+ours-only	98027	Gleaming Crescent Necklace	Ashenvale	29	25	2350	new	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast		21_AshenvaleEast		21_AshenvaleEast				
+ours-only	1045	Raene's Cleansing	Ashenvale	30	18	2450	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast		21_AshenvaleEast		21_AshenvaleEast				
+ours-only	1046	Raene's Cleansing	Ashenvale	30	18	3050	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast		21_AshenvaleEast		21_AshenvaleEast				
+ours-only	98417	Vengeful Trail	Ashenvale	30	23	2450	new	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast		21_AshenvaleEast		21_AshenvaleEast				
+ours-only	98418	Shared Fury	Ashenvale	30	23	2450	new	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast		21_AshenvaleEast		21_AshenvaleEast				
+ours-only	1012	Insane Druids	Ashenvale	32	24	3200	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast		21_AshenvaleEast		21_AshenvaleEast				
+ours-only	86757	Slowing the Orc Advance	Ashenvale	32	27	2550	new	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast [O]		21_AshenvaleEast [O]		21_AshenvaleEast [O]				
+ours-only	1143	The Tower of Althalaxx	Darkshore	31	13	2500	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast [O]		21_AshenvaleEast [O]		21_AshenvaleEast [O]				
+ours-only	1167	The Tower of Althalaxx	Darkshore / Ashenvale	28	13	570	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast [O]		21_AshenvaleEast [O]		21_AshenvaleEast [O]				
+ours-only	981	The Tower of Althalaxx	Darkshore / Ashenvale	31	13	2500	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast [O]		21_AshenvaleEast [O]		21_AshenvaleEast [O]				
+ours-only	94502	Call of Water	Loch Modan / Westfall	23	20	1400	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		22_ExcavationSite [A Shaman]								
+ours-only	95795	Fallen in the Fen	Mount Hyjal / Redridge Mountains	31	24	3150	new	A		Human,Dwarf,Night Elf,Gnome	atlas		22_ExcavationSite		22_ExcavationSite		22_ExcavationSite				
+ours-only	94503	Call of Water	Silverpine Forest / Westfall	23	20	185	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		22_ExcavationSite [A Shaman]								
+ours-only	98313	For Further Study	Wetlands / Ironforge	32	24		new	A		Human,Dwarf,Night Elf,Gnome	atlas		22_ExcavationSite		22_ExcavationSite		22_ExcavationSite				
+ours-only	98824	Prehistoric Prism	Wetlands / Ironforge / Mount Hyjal	31	24	3150	new	A		Human,Dwarf,Night Elf,Gnome	atlas		22_ExcavationSite [O]		22_ExcavationSite [O]		22_ExcavationSite [O]				
+ours-only	94501	Call of Water	Wetlands / Loch Modan	23	20	460	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		22_ExcavationSite [A Shaman]								
+ours-only	95809	Heartwoven	Wetlands / Mount Hyjal	31	24	3150	new	A		Human,Dwarf,Night Elf,Gnome	atlas		22_ExcavationSite		22_ExcavationSite		22_ExcavationSite				
+ours-only	95810	Lost Relic Carry	Wetlands / Mount Hyjal	31	24	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas		22_ExcavationSite [O]		22_ExcavationSite [O]		22_ExcavationSite [O]				
+ours-only	98059	Hillsbrad's Hoard	Hillsbrad Foothills	27	23	2200	new	A		Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad		23_Hillsbrad		23_Hillsbrad				
+ours-only	555	Soothing Turtle Bisque	Hillsbrad Foothills	31	28	2500	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad		23_Hillsbrad		23_Hillsbrad		ours		
+ours-only	565	Bartolo's Yeti Fur Cloak	Hillsbrad Foothills	34	29	2700	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad [O]		23_Hillsbrad [O]		23_Hillsbrad [O]				
+ours-only	92432	An Alarming Request	Silverpine Forest / Hillsbrad Foothills / Alterac Mountains	33	30	660	new	A		Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad [O] [A Shaman]								
+ours-only	94505	Call of Water	Silverpine Forest / Loch Modan	23	20	2750	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad [A Shaman]								
+ours-only	540	Preserving Knowledge	Stormwind City / Hillsbrad Foothills	38	20	3550	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad [O]		23_Hillsbrad [O]		23_Hillsbrad [O]				
+ours-only	542	Return to Milton	Stormwind City / Hillsbrad Foothills	38	20	3550	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad [O]		23_Hillsbrad [O]		23_Hillsbrad [O]				
+ours-only	2962	The Only Cure is More Green Glow	Dun Morogh / Gnomeregan	30	20	2450	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		24_Gnomeregan		24_Gnomeregan		24_Gnomeregan				
+ours-only	2951	The Sparklematic 5200!	Gnomeregan	30	25		unchanged	both			atlas		24_Gnomeregan [O]		24_Gnomeregan [O]		24_Gnomeregan [O]				
+ours-only	2952	The Sparklematic 5200!	Gnomeregan	30	25	2450	unchanged	both			atlas		24_Gnomeregan [O]		24_Gnomeregan [O]		24_Gnomeregan [O]				
+ours-only	2945	Grime-Encrusted Ring	Gnomeregan	34	28	2700	unchanged	both			atlas		24_Gnomeregan [O]		24_Gnomeregan [O]		24_Gnomeregan [O]				
+ours-only	2948	Gnome Improvement	Ironforge	35	28	2750	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		24_Gnomeregan [O]		24_Gnomeregan [O]		24_Gnomeregan [O]				
+ours-only	2947	Return of the Ring	Ironforge / Gnomeregan	34	28	2700	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		24_Gnomeregan [O]		24_Gnomeregan [O]		24_Gnomeregan [O]				
+ours-only	2904	A Fine Mess	Stranglethorn Vale / Gnomeregan	30	20	2450	updated	both			atlas		24_Gnomeregan [O]		24_Gnomeregan [O]		24_Gnomeregan [O]		ours		x
+ours-only	96264	Elemental Aid	Arathi Highlands	33	30	2650	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30 [A Shaman]								
+ours-only	228	Mor'Ladim	Duskwood	35	28	2050	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30 [O]		25_LooseEnds30 [O]		25_LooseEnds30 [O]				
+ours-only	229	The Daughter Who Lived	Duskwood	35	28	275	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30 [O]		25_LooseEnds30 [O]		25_LooseEnds30 [O]				
+ours-only	231	A Daughter's Love	Duskwood	35	28	1350	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30 [O]		25_LooseEnds30 [O]		25_LooseEnds30 [O]				
+ours-only	1245	The Missing Diplomat	Duskwood / Stormwind City	30	28	245	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30		25_LooseEnds30		25_LooseEnds30				
+ours-only	94789	Call of Air	Ironforge / Arathi Highlands	30	30	2450	new	A	Shaman	Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30 [A Shaman]								
+ours-only	1246	The Missing Diplomat	Stormwind City	31	28	250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30		25_LooseEnds30		25_LooseEnds30				
+ours-only	1247	The Missing Diplomat	Stormwind City	31	28	250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30		25_LooseEnds30		25_LooseEnds30				
+ours-only	1447	The Missing Diplomat	Stormwind City	31	28	1250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30		25_LooseEnds30		25_LooseEnds30				
+ours-only	1248	The Missing Diplomat	Wetlands / Stormwind City	33	28	660	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30		25_LooseEnds30		25_LooseEnds30		ours		x
+ours-only	1142	Mortality Wanes	Darnassus / Razorfen Kraul	30	25	3050	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		26_RazorfenKraul		26_RazorfenKraul		26_RazorfenKraul				
+ours-only	1221	Blueleaf Tubers	Razorfen Kraul	26	20	2100	unchanged	both			atlas		26_RazorfenKraul		26_RazorfenKraul		26_RazorfenKraul				
+ours-only	1144	Willix the Importer	Razorfen Kraul	30	22	3050	updated	both			atlas		26_RazorfenKraul		26_RazorfenKraul		26_RazorfenKraul				
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	118	The Price of Shoes	Elwynn Forest / Redridge Mountains	18	14	340	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	129	A Free Lunch	Redridge Mountains	15	12	540	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	244	Encroaching Gnolls	Redridge Mountains	16	11	290	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	246	Assessing the Threat	Redridge Mountains	17	11	950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	98407	Show of Force	Redridge Mountains	17	11	950	new	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	127	Selling Fish	Redridge Mountains	21	16	1250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	120	Messenger to Stormwind	Stormwind City / Redridge Mountains	14	14	490	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	132	The Defias Brotherhood	Westfall / Redridge Mountains	18	14	680	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	389	Bazil Thredd	Stormwind City	22	16	435	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	121	Messenger to Stormwind	Stormwind City / Redridge Mountains	14	14	245	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	373	The Unsent Letter	Stormwind City / The Deadmines	22	16	870	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	135	The Defias Brotherhood	Stormwind City / Westfall	18	14	680	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	141	The Defias Brotherhood	Stormwind City / Westfall	18	14	340	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	214	Red Silk Bandanas	The Deadmines / Westfall	17	14	1250	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	166	The Defias Brotherhood	The Deadmines / Westfall	22	14	2600	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	142	The Defias Brotherhood	Westfall	18	14	1350	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	155	The Defias Brotherhood	Westfall	18	14	1700	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		07_Deadmines		07_Deadmines		07_Deadmines	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	95161	Remember That I Love You	Duskwood / Stormwind City	22	15	175	new	A		Human,Dwarf,Night Elf,Gnome	atlas		08_RuinsOfLordaeron		08_RuinsOfLordaeron		08_RuinsOfLordaeron	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	95250	Abominable Creatures	Ruins of Lordaeron	21	16	1650	new	A		Human,Dwarf,Night Elf,Gnome	atlas		08_RuinsOfLordaeron		08_RuinsOfLordaeron		08_RuinsOfLordaeron	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	92415	Remember That I Love You	Stormwind City / Ruins of Lordaeron	22	15	2600	new	A		Human,Dwarf,Night Elf,Gnome	atlas		08_RuinsOfLordaeron		08_RuinsOfLordaeron		08_RuinsOfLordaeron	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	95189	Crest of Lordaeron	Stormwind City / Ruins of Lordaeron	22	16	2600	new	A		Human,Dwarf,Night Elf,Gnome	atlas		08_RuinsOfLordaeron [O]		08_RuinsOfLordaeron [O]		08_RuinsOfLordaeron [O]	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	95195	Bloodied Insignia	Stormwind City / Ruins of Lordaeron	22	16	2600	new	A		Human,Dwarf,Night Elf,Gnome	atlas		08_RuinsOfLordaeron [O]		08_RuinsOfLordaeron [O]		08_RuinsOfLordaeron [O]	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 20-22 Ruins of Lordaeron&Deadmines)	119	Return to Verner	Elwynn Forest / Redridge Mountains	18	13	680	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		10_Redridge2		10_Redridge2		10_Redridge2	20-22 Ruins of Lordaeron&Deadmines			
+ours-only (TUGs later: 22-23 Redridge Mountains)	130	Visit the Herbalist	Redridge Mountains	15	12	270	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	22-23 Redridge Mountains			
+ours-only (TUGs later: 22-23 Redridge Mountains)	131	Delivering Daffodils	Redridge Mountains	15	12	270	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	22-23 Redridge Mountains			
+ours-only (TUGs later: 22-23 Redridge Mountains)	3741	Hilary's Necklace	Redridge Mountains	15	12	1350	unchanged	A			atlas		06_Redridge		06_Redridge		06_Redridge	22-23 Redridge Mountains			
+ours-only (TUGs later: 22-23 Redridge Mountains)	125	The Lost Tools	Redridge Mountains	16	15	880	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	22-23 Redridge Mountains			
+ours-only (TUGs later: 22-23 Redridge Mountains)	89	The Everstill Bridge	Redridge Mountains	20	15	1550	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	22-23 Redridge Mountains			
+ours-only (TUGs later: 22-23 Redridge Mountains)	20	Blackrock Menace	Redridge Mountains	21	18	1650	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	22-23 Redridge Mountains			
+ours-only (TUGs later: 22-23 Redridge Mountains)	98387	Blackrock Blockade	Redridge Mountains	21	18	1650	new	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge [O]		06_Redridge [O]		06_Redridge [O]	22-23 Redridge Mountains			
+ours-only (TUGs later: 22-23 Redridge Mountains)	115	Shadow Magic	Redridge Mountains	23	18	2300	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	22-23 Redridge Mountains			
+ours-only (TUGs later: 22-23 Redridge Mountains)	19	Tharil'zun	Redridge Mountains	25	18	2550	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	22-23 Redridge Mountains			
+ours-only (TUGs later: 22-23 Redridge Mountains)	124	A Baying of Gnolls	Redridge Mountains	20	15	1150	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		10_Redridge2		10_Redridge2		10_Redridge2	22-23 Redridge Mountains			
+ours-only (TUGs later: 22-23 Redridge Mountains)	150	Murloc Poachers	Redridge Mountains	20	20	1550	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		10_Redridge2		10_Redridge2		10_Redridge2	22-23 Redridge Mountains			
+ours-only (TUGs later: 22-23 Redridge Mountains)	91	Solomon's Law	Redridge Mountains	23	17	1850	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		10_Redridge2		10_Redridge2		10_Redridge2	22-23 Redridge Mountains			
+ours-only (TUGs later: 22-23 Redridge Mountains)	143	Messenger to Westfall	Westfall / Redridge Mountains	14	14	490	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		10_Redridge2		10_Redridge2		10_Redridge2	22-23 Redridge Mountains			
+ours-only (TUGs later: 23-24 Ashenvale)	994	Escape Through Force	Darkshore	22	10	1750	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		11_Darkshore [O]		11_Darkshore [O]		11_Darkshore [O]	23-24 Ashenvale			
+ours-only (TUGs later: 23-24 Ashenvale)	970	The Tower of Althalaxx	Darkshore / Ashenvale	21	13	1650	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		11_Darkshore		11_Darkshore		11_Darkshore	23-24 Ashenvale			
+ours-only (TUGs later: 23-24 Ashenvale)	973	The Tower of Althalaxx	Darkshore / Ashenvale	24	13	1950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		11_Darkshore		11_Darkshore		11_Darkshore	23-24 Ashenvale			
+ours-only (TUGs later: 23-24 Ashenvale)	991	Raene's Cleansing	Ashenvale	19	18	1450	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		12_Ashenvale		12_Ashenvale		12_Ashenvale	23-24 Ashenvale			
+ours-only (TUGs later: 23-24 Ashenvale)	1007	The Ancient Statuette	Ashenvale	20	19	1150	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		12_Ashenvale		12_Ashenvale		12_Ashenvale	23-24 Ashenvale			
+ours-only (TUGs later: 23-24 Ashenvale)	1010	Bathran's Hair	Ashenvale	20	20	780	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		12_Ashenvale		12_Ashenvale		12_Ashenvale	23-24 Ashenvale			
+ours-only (TUGs later: 23-24 Ashenvale)	1020	Orendil's Cure	Ashenvale	20	20	1950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		12_Ashenvale		12_Ashenvale		12_Ashenvale	23-24 Ashenvale			
+ours-only (TUGs later: 23-24 Ashenvale)	1023	Raene's Cleansing	Ashenvale	21	18	1250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		12_Ashenvale		12_Ashenvale		12_Ashenvale	23-24 Ashenvale			
+ours-only (TUGs later: 23-24 Ashenvale)	1033	Elune's Tear	Ashenvale	22	20	1750	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		12_Ashenvale		12_Ashenvale		12_Ashenvale	23-24 Ashenvale			
+ours-only (TUGs later: 23-24 Ashenvale)	1009	Ruuzel	Ashenvale	25	20	2550	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		12_Ashenvale		12_Ashenvale		12_Ashenvale	23-24 Ashenvale			
+ours-only (TUGs later: 23-24 Ashenvale)	1070	On Guard in Stonetalon	Ashenvale / Stonetalon Mountains	21	17	830	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		12_Ashenvale [O]		12_Ashenvale [O]		12_Ashenvale [O]	23-24 Ashenvale			
+ours-only (TUGs later: 24-25 Duskwood)	144	Messenger to Westfall	Westfall / Redridge Mountains	14	14	245	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		10_Redridge2		10_Redridge2		10_Redridge2	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	5	Jitters' Growling Gut	Duskwood	20	17	390	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	93	Dusky Crab Cakes	Duskwood	20	17	780	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	163	Raven Hill	Duskwood	20	17	390	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	226	Wolves at Our Heels	Duskwood	21	19	1250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	245	Eight-Legged Menaces	Duskwood	21	17	1250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	96139	The Valor Family	Duskwood	22	18	1750	new	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	56	The Night Watch	Duskwood	24	18	1450	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	101	The Totem of Infliction	Duskwood	25	18	2550	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	174	Look to the Stars	Duskwood	25	20	2000	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	175	Look to the Stars	Duskwood	25	20	1000	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	177	Look to the Stars	Duskwood	25	20	1500	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	66	The Legend of Stalvan	Duskwood	28	22	230	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	181	Look to the Stars	Duskwood	30	20	2450	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	69	The Legend of Stalvan	Duskwood / Elwynn Forest	28	22	570	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	377	Crime and Punishment	Duskwood / The Stockade	26	22	2100	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	67	The Legend of Stalvan	Duskwood / Westfall	28	22	1150	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	68	The Legend of Stalvan	Duskwood / Westfall	28	22	1700	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	70	The Legend of Stalvan	Duskwood / Elwynn Forest / Stormwind City	28	22	1700	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	74	The Legend of Stalvan	Duskwood / Elwynn Forest / Stormwind City	28	22	1150	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	72	The Legend of Stalvan	Duskwood / Stormwind City	28	22	230	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	164	Deliveries to Sven	Duskwood	23	17	920	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	148	Supplies from Darkshire	Duskwood	24	20	485	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	149	Ghost Hair Thread	Duskwood	24	20	485	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	154	Return the Comb	Duskwood	24	20	195	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	157	Deliver the Thread	Duskwood	24	20	1450	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	95	Sven's Revenge	Duskwood	25	20	1000	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	24-25 Duskwood			
+ours-only (TUGs later: 24-25 Duskwood)	165	The Hermit	Duskwood	25	17	1000	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	24-25 Duskwood			
+ours-only (TUGs later: 25-26 Stockades)	386	What Comes Around...	Redridge Mountains / The Stockade	25	22	2000	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		10_Redridge2		10_Redridge2		10_Redridge2	25-26 Stockades			
+ours-only (TUGs later: 25-26 Stockades)	392	The Curious Visitor	Stormwind City	29	16	590	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	25-26 Stockades			
+ours-only (TUGs later: 25-26 Stockades)	393	Shadow of the Past	Stormwind City	29	16	590	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	25-26 Stockades			
+ours-only (TUGs later: 25-26 Stockades)	350	Look to an Old Friend	Stormwind City	31	16	250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	25-26 Stockades			
+ours-only (TUGs later: 25-26 Stockades)	2745	Infiltrating the Castle	Stormwind City	31	16	250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	25-26 Stockades			
+ours-only (TUGs later: 25-26 Stockades)	2746	Items of Some Consequence	Stormwind City	31	16	630	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	25-26 Stockades			
+ours-only (TUGs later: 25-26 Stockades)	387	Quell the Uprising	Stormwind City / The Stockade	26	22	2650	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	25-26 Stockades			
+ours-only (TUGs later: 25-26 Stockades)	388	The Color of Blood	Stormwind City / The Stockade	26	22	2650	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	25-26 Stockades			
+ours-only (TUGs later: 25-26 Stockades)	391	The Stockade Riots	Stormwind City / The Stockade	29	16	2350	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	25-26 Stockades			
+ours-only (TUGs later: 26-27 Redridge Mountains)	92	Redridge Goulash	Redridge Mountains	18	15	1350	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge		06_Redridge		06_Redridge	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	98386	Alther's Mill	Redridge Mountains	21	15	1650	new	A		Human,Dwarf,Night Elf,Gnome	atlas		06_Redridge [O]		06_Redridge [O]		06_Redridge [O]	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	94	A Watchful Eye	Elwynn Forest / Redridge Mountains	21	20	1250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		10_Redridge2		10_Redridge2		10_Redridge2	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	248	Looking Further	Redridge Mountains	22	20	1300	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		10_Redridge2		10_Redridge2		10_Redridge2	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	126	Howling in the Hills	Redridge Mountains	25	15	2000	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		10_Redridge2		10_Redridge2		10_Redridge2	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	240	Return to Jitters	Duskwood	20	17	780	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood [O]		14_Duskwood [O]		14_Duskwood [O]	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	75	The Legend of Stalvan	Duskwood / Elwynn Forest	28	22	1150	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		16_RedridgeEastvale		16_RedridgeEastvale		16_RedridgeEastvale	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	78	The Legend of Stalvan	Duskwood / Elwynn Forest	28	22	570	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		16_RedridgeEastvale		16_RedridgeEastvale		16_RedridgeEastvale	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	145	Messenger to Darkshire	Duskwood / Redridge Mountains	18	18	1000	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		16_RedridgeEastvale		16_RedridgeEastvale		16_RedridgeEastvale	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	34	An Unwelcome Guest	Redridge Mountains	24	18	1950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		16_RedridgeEastvale		16_RedridgeEastvale		16_RedridgeEastvale	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	128	Blackrock Bounty	Redridge Mountains	25	20	2000	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		16_RedridgeEastvale		16_RedridgeEastvale		16_RedridgeEastvale	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	95999	WANTED: Incinerator Gar'im	Redridge Mountains	25	16	2550	new	A		Human,Dwarf,Night Elf,Gnome	atlas		16_RedridgeEastvale		16_RedridgeEastvale		16_RedridgeEastvale	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	169	WANTED: Gath'Ilzogg	Redridge Mountains	26	15	2650	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		16_RedridgeEastvale [O]		16_RedridgeEastvale [O]		16_RedridgeEastvale [O]	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	180	WANTED: Lieutenant Fangore	Redridge Mountains	26	15	2650	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		16_RedridgeEastvale		16_RedridgeEastvale		16_RedridgeEastvale	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	79	The Legend of Stalvan	Duskwood	28	22	230	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	80	The Legend of Stalvan	Duskwood	28	22	230	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	26-27 Redridge Mountains			
+ours-only (TUGs later: 26-27 Redridge Mountains)	97	The Legend of Stalvan	Duskwood	28	22	230	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	26-27 Redridge Mountains			
+ours-only (TUGs later: 27-28 Ashenvale)	1034	The Ruins of Stardust	Ashenvale	23	20	1850	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		12_Ashenvale		12_Ashenvale		12_Ashenvale	27-28 Ashenvale			
+ours-only (TUGs later: 27-28 Ashenvale)	1025	An Aggressive Defense	Ashenvale	24	18	1950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		12_Ashenvale		12_Ashenvale		12_Ashenvale	27-28 Ashenvale			
+ours-only (TUGs later: 27-28 Ashenvale)	1054	Culling the Threat	Ashenvale	25	18	2000	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		12_Ashenvale		12_Ashenvale		12_Ashenvale	27-28 Ashenvale			
+ours-only (TUGs later: 27-28 Ashenvale)	1024	Raene's Cleansing	Ashenvale	21	18	830	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		20_Darnassus		20_Darnassus		20_Darnassus	27-28 Ashenvale			
+ours-only (TUGs later: 27-28 Ashenvale)	4581	Kayneth Stillwind	Ashenvale	29	24	590	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		20_Darnassus		20_Darnassus		20_Darnassus	27-28 Ashenvale			
+ours-only (TUGs later: 27-28 Ashenvale)	1056	Journey to Stonetalon Peak	Ashenvale / Stonetalon Mountains	18	18	680	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		20_Darnassus [O]		20_Darnassus [O]		20_Darnassus [O]	27-28 Ashenvale			
+ours-only (TUGs later: 27-28 Ashenvale)	1085	On Guard in Stonetalon	Ashenvale / Stonetalon Mountains	21	17	165	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		20_Darnassus [O]		20_Darnassus [O]		20_Darnassus [O]	27-28 Ashenvale			
+ours-only (TUGs later: 27-28 Ashenvale)	2931	Castpipe's Task	Ironforge / Stonetalon Mountains / Gnomeregan	28	25	230	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		20_Darnassus [O]		20_Darnassus [O]		20_Darnassus [O]	27-28 Ashenvale			
+ours-only (TUGs later: 27-28 Ashenvale)	95737	Seeking Caitlin	Wetlands / Mount Hyjal / Ashenvale	31	24	630	new	A		Human,Dwarf,Night Elf,Gnome	atlas		20_Darnassus		20_Darnassus		20_Darnassus	27-28 Ashenvale			
+ours-only (TUGs later: 27-28 Ashenvale)	1026	Raene's Cleansing	Ashenvale	27	18	2200	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast		21_AshenvaleEast		21_AshenvaleEast	27-28 Ashenvale			
+ours-only (TUGs later: 29-30 Wetlands)	276	Tramping Paws	Wetlands	21	20	1250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	463	The Greenwarden	Wetlands	21	20	830	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	279	Claws from the Deep	Wetlands	22	20	1750	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	484	Young Crocolisk Skins	Wetlands	22	18	1750	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	98197	Spoils of War	Wetlands	22	18	1750	new	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	98282	Alchemical Hazards	Wetlands	22	20	1750	new	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	277	Fire Taboo	Wetlands	23	20	1850	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	281	Reclaiming Goods	Wetlands	25	20	510	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	284	The Search Continues	Wetlands	25	20	510	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	285	Search More Hovels	Wetlands	25	20	1000	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	286	Return the Statuette	Wetlands	25	20	1500	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	98189	Return the Statuette	Wetlands	25	20	200	new	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	471	Apprentice's Duties	Wetlands	26	18	2100	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil	29-30 Wetlands	ours		
+ours-only (TUGs later: 29-30 Wetlands)	288	The Third Fleet	Wetlands	27	22	220	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil [O]		09_LochModanMenethil [O]		09_LochModanMenethil [O]	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	289	The Cursed Crew	Wetlands	29	22	1750	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil [O]		09_LochModanMenethil [O]		09_LochModanMenethil [O]	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	290	Lifting the Curse	Wetlands	30	22	1200	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil [O]		09_LochModanMenethil [O]		09_LochModanMenethil [O]	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	98190	A Friend of the Family	Wetlands / Stormwind City	25	20		new	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil		09_LochModanMenethil		09_LochModanMenethil	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	294	Ormer's Revenge	Wetlands	24	22	1950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	305	In Search of the Excavation Team	Wetlands	24	21	970	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	306	In Search of the Excavation Team	Wetlands	24	21	485	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	470	Digging Through the Ooze	Wetlands	24	19	2400	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1 [O]		18_Wetlands1 [O]		18_Wetlands1 [O]	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	295	Ormer's Revenge	Wetlands	27	22	2200	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	299	Uncovering the Past	Wetlands	27	22	2200	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	98072	Crocs of the Sky	Wetlands	27	19	2200	new	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	464	War Banners	Wetlands	28	23	2300	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	98221	From the Ashes	Wetlands	28	23	2300	new	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	296	Ormer's Revenge	Wetlands	29	22	2950	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	98208	Bloom of the Heavens	Wetlands	29	22	2350	new	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	472	Fall of Dun Modr	Wetlands	30	25	1200	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	637	Sully Balloo's Letter	Ironforge	30	25	2450	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	98245	Razormaw Needling	Wetlands	29	21	2350	new	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2		19_Wetlands2		19_Wetlands2	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	98246	Trying Times	Wetlands	29	21	2350	new	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2		19_Wetlands2		19_Wetlands2	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	465	Nek'rosh's Gambit	Wetlands	31	23	1900	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	633	The Thandol Span	Wetlands	31	26	2500	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2		19_Wetlands2		19_Wetlands2	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	631	The Thandol Span	Wetlands / Arathi Highlands	31	26	2500	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2		19_Wetlands2		19_Wetlands2	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	632	The Thandol Span	Wetlands / Arathi Highlands	31	26	2500	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2		19_Wetlands2		19_Wetlands2	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	634	Plea to the Alliance	Wetlands / Arathi Highlands	31	28	1250	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2		19_Wetlands2		19_Wetlands2	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	943	The Absent Minded Prospector	Wetlands / Darkshore	24	15	2400	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		22_ExcavationSite		22_ExcavationSite		22_ExcavationSite	29-30 Wetlands			
+ours-only (TUGs later: 29-30 Wetlands)	95647	Lost in the Thicket Things	Wetlands / Mount Hyjal	31	24	2500	new	A		Human,Dwarf,Night Elf,Gnome	atlas		22_ExcavationSite		22_ExcavationSite		22_ExcavationSite	29-30 Wetlands			
+ours-only (TUGs later: 30-31 Duskwood)	57	The Night Watch	Duskwood	26	18	2100	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	173	Worgen in the Woods	Duskwood	28	23	1150	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	221	Worgen in the Woods	Duskwood	29	23	1750	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		14_Duskwood		14_Duskwood		14_Duskwood	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	98191	A Friend of the Family	Stormwind City	25	20	200	new	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	394	The Head of the Beast	Stormwind City	31	16	250	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	395	Brotherhood's End	Stormwind City	31	16	630	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	396	An Audience with the King	Stormwind City	31	16	3750	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	434	The Attack!	Stormwind City	31	16	1900	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	2923	Tinkmaster Overspark	Stormwind City / Ironforge / Gnomeregan	26	20	210	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		15_Stockade		15_Stockade		15_Stockade	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	156	Gather Rot Blossoms	Duskwood	24	20	970	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	158	Zombie Juice	Duskwood	24	20	485	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	159	Juice Delivery	Duskwood	24	20	970	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	230	Sven's Camp	Duskwood	25	20	1000	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	262	The Shadowy Figure	Duskwood	25	20	510	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	265	The Shadowy Search Continues	Duskwood	25	20	200	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	266	Inquire at the Inn	Duskwood	25	20	200	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	268	Return to Sven	Duskwood	25	20	510	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	453	Finding the Shadowy Figure	Duskwood	25	20	1000	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	133	Ghoulish Effigy	Duskwood	27	20	1650	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	323	Proving Your Worth	Duskwood	28	20	2300	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	58	The Night Watch	Duskwood	30	18	2450	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	134	Ogre Thieves	Duskwood	30	20	1200	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	269	Seeking Wisdom	Duskwood / Stormwind City	29	20	590	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	270	The Doomed Fleet	Duskwood / Wetlands / Stormwind City	29	20	1200	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	2928	Gyrodrillmatic Excavationators	Stormwind City / Gnomeregan	30	20	2450	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	225	The Weathered Grave	Duskwood	35	28	690	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30 [O]		25_LooseEnds30 [O]		25_LooseEnds30 [O]	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	227	Morgan Ladimore	Duskwood	35	28	275	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30 [O]		25_LooseEnds30 [O]		25_LooseEnds30 [O]	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	1243	The Missing Diplomat	Duskwood / Stormwind City	28	28	230	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30		25_LooseEnds30		25_LooseEnds30	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	1241	The Missing Diplomat	Stormwind City	28	28	230	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30		25_LooseEnds30		25_LooseEnds30	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	1242	The Missing Diplomat	Stormwind City	28	28	230	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30		25_LooseEnds30		25_LooseEnds30	30-31 Duskwood			
+ours-only (TUGs later: 30-31 Duskwood)	1274	The Missing Diplomat	Stormwind City	28	28	230	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30		25_LooseEnds30		25_LooseEnds30	30-31 Duskwood			
+ours-only (TUGs later: 31-32 Wetlands)	292	The Eye of Paleth	Wetlands	30	22	1200	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil [O]		09_LochModanMenethil [O]		09_LochModanMenethil [O]	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	293	Cleansing the Eye	Wetlands / Stormwind City	30	22	2450	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		09_LochModanMenethil [O]		09_LochModanMenethil [O]		09_LochModanMenethil [O]	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	321	Lightforge Iron	Duskwood / Wetlands	29	20	590	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	324	The Lost Ingots	Duskwood / Wetlands	29	20	1750	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		18_Wetlands1		18_Wetlands1		18_Wetlands1	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	303	The Dark Iron War	Wetlands	30	25	2450	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	474	Defeat Nek'rosh	Wetlands	32	23	2550	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	304	A Grim Task	Wetlands	34	26	3350	updated	A		Human,Dwarf,Night Elf,Gnome	atlas		19_Wetlands2 [O]		19_Wetlands2 [O]		19_Wetlands2 [O]	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	322	Blessed Arm	Duskwood / Wetlands / Stormwind City	29	20	1200	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		22_ExcavationSite		22_ExcavationSite		22_ExcavationSite	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	98071	Brewer's Trade	Hillsbrad Foothills	27	23	2200	new	A		Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad		23_Hillsbrad		23_Hillsbrad	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	536	Down the Coast	Hillsbrad Foothills	30	25	1850	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad		23_Hillsbrad		23_Hillsbrad	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	559	Farren's Proof	Hillsbrad Foothills	32	25	2550	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad		23_Hillsbrad		23_Hillsbrad	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	560	Farren's Proof	Hillsbrad Foothills	32	25	255	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad		23_Hillsbrad		23_Hillsbrad	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	561	Farren's Proof	Hillsbrad Foothills	32	25	255	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad		23_Hillsbrad		23_Hillsbrad	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	562	Stormwind Ho!	Hillsbrad Foothills	32	25	1950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad		23_Hillsbrad		23_Hillsbrad	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	659	Hints of a New Plague?	Hillsbrad Foothills / Arathi Highlands	33	30	1300	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad [O] [A Shaman]					31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	563	Reassignment	Stormwind City / Hillsbrad Foothills	32	25	3200	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad		23_Hillsbrad		23_Hillsbrad	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	683	Sara Balloo's Plea	Ironforge	30	25	1200	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		24_Gnomeregan [O]		24_Gnomeregan [O]		24_Gnomeregan [O]	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	686	A King's Tribute	Ironforge	30	25	1200	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		24_Gnomeregan [O]		24_Gnomeregan [O]		24_Gnomeregan [O]	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	689	A King's Tribute	Ironforge	31	25	2500	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		24_Gnomeregan [O]		24_Gnomeregan [O]		24_Gnomeregan [O]	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	2922	Save Techbot's Brain!	Ironforge / Gnomeregan	26	20	2650	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		24_Gnomeregan		24_Gnomeregan		24_Gnomeregan	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	2924	Essential Artificials	Ironforge / Gnomeregan	30	24	3050	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		24_Gnomeregan		24_Gnomeregan		24_Gnomeregan	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	2930	Data Rescue	Ironforge / Gnomeregan	30	25	3650	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		24_Gnomeregan		24_Gnomeregan		24_Gnomeregan	31-32 Wetlands			
+ours-only (TUGs later: 31-32 Wetlands)	2929	The Grand Betrayal	Ironforge / Gnomeregan	35	25	2750	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		24_Gnomeregan		24_Gnomeregan		24_Gnomeregan	31-32 Wetlands			
+ours-only (TUGs later: 32-33 Stranglethorn Vale)	223	Worgen in the Woods	Duskwood	31	23	3150	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		17_Duskwood2		17_Duskwood2		17_Duskwood2	32-33 Stranglethorn Vale			
+ours-only (TUGs later: 32-33 Stranglethorn Vale)	55	Morbent Fel	Duskwood	32	20	3850	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30 [O]		25_LooseEnds30 [O]		25_LooseEnds30 [O]	32-33 Stranglethorn Vale			
+ours-only (TUGs later: 32-33 Stranglethorn Vale)	325	Armed and Ready	Duskwood / Stormwind City	29	20	590	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30		25_LooseEnds30		25_LooseEnds30	32-33 Stranglethorn Vale			
+ours-only (TUGs later: 32-33 Stranglethorn Vale)	1244	The Missing Diplomat	Duskwood / Stormwind City	30	28	2450	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		25_LooseEnds30		25_LooseEnds30		25_LooseEnds30	32-33 Stranglethorn Vale			
+ours-only (TUGs later: 33-34 Gnomeregan)	2926	Gnogaine	Dun Morogh / Gnomeregan	27	20	2200	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		24_Gnomeregan		24_Gnomeregan		24_Gnomeregan	33-34 Gnomeregan			
+ours-only (TUGs later: 33-34 Gnomeregan)	2927	The Day After	Dun Morogh / Ironforge / Gnomeregan	27	20	220	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		24_Gnomeregan		24_Gnomeregan		24_Gnomeregan	33-34 Gnomeregan			
+ours-only (TUGs later: 33-34 Gnomeregan)	700	A King's Tribute	Ironforge	31	25	2500	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		24_Gnomeregan [O]		24_Gnomeregan [O]		24_Gnomeregan [O]	33-34 Gnomeregan			
+ours-only (TUGs later: 34-35 Ashenvale)	1022	The Howling Vale	Ashenvale	30	25	2450	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		20_Darnassus [O]		20_Darnassus [O]		20_Darnassus [O]	34-35 Ashenvale			
+ours-only (TUGs later: 34-35 Ashenvale)	1035	Fallen Sky Lake	Ashenvale	30	20	3050	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		20_Darnassus		20_Darnassus		20_Darnassus	34-35 Ashenvale			
+ours-only (TUGs later: 34-35 Ashenvale)	1021	Vile Satyr! Dryads in Danger!	Ashenvale	32	26	2550	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		20_Darnassus		20_Darnassus		20_Darnassus	34-35 Ashenvale			
+ours-only (TUGs later: 34-35 Ashenvale)	2925	Klockmort's Essentials	Ironforge / Darnassus / Gnomeregan	30	24	245	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		20_Darnassus		20_Darnassus		20_Darnassus	34-35 Ashenvale			
+ours-only (TUGs later: 34-35 Ashenvale)	1027	Raene's Cleansing	Ashenvale	28	18	2300	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast		21_AshenvaleEast		21_AshenvaleEast	34-35 Ashenvale			
+ours-only (TUGs later: 34-35 Ashenvale)	1028	Raene's Cleansing	Ashenvale	28	18	1700	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast		21_AshenvaleEast		21_AshenvaleEast	34-35 Ashenvale			
+ours-only (TUGs later: 34-35 Ashenvale)	1031	The Branch of Cenarius	Ashenvale	32	26	2550	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		21_AshenvaleEast		21_AshenvaleEast		21_AshenvaleEast	34-35 Ashenvale			
+ours-only (TUGs later: 34-35 Ashenvale)	505	Syndicate Assassins	Hillsbrad Foothills / Alterac Mountains	33	26	1950	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas		23_Hillsbrad [O]		23_Hillsbrad [O]		23_Hillsbrad [O]	34-35 Ashenvale			
+tugs-only	983	Buzzbox 827	Darkshore	10	7	840	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore		11-14 Darkshore		11-14 Darkshore					
+tugs-only	953	The Fall of Ameth'Aran	Darkshore	12	9	910	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore		11-14 Darkshore		11-14 Darkshore					
+tugs-only	954	Bashal'Aran	Darkshore	12	7	680	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore		11-14 Darkshore		11-14 Darkshore					
+tugs-only	955	Bashal'Aran	Darkshore	12	7	910	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore		11-14 Darkshore		11-14 Darkshore					
+tugs-only	958	Tools of the Highborne	Darkshore	12	9	910	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore		11-14 Darkshore		11-14 Darkshore					
+tugs-only	1001	Buzzbox 411	Darkshore	12	7	1150	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore		11-14 Darkshore		11-14 Darkshore					
+tugs-only	956	Bashal'Aran	Darkshore	13	7	910	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore		11-14 Darkshore		11-14 Darkshore					
+tugs-only	957	Bashal'Aran	Darkshore	13	7	680	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore		11-14 Darkshore		11-14 Darkshore					
+tugs-only	4722	Beached Sea Turtle	Darkshore	13	11	455	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore		11-14 Darkshore		11-14 Darkshore					
+tugs-only	98025	WANTED: Jai'vhanel	Darkshore	13	10	1150	new	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore		11-14 Darkshore		11-14 Darkshore					
+tugs-only	4811	The Red Crystal	Darkshore	14	12	490	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore		11-14 Darkshore		11-14 Darkshore					
+tugs-only	4812	As Water Cascades	Darkshore	14	12	490	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore		11-14 Darkshore		11-14 Darkshore					
+tugs-only	963	For Love Eternal	Darkshore	16	11	880	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore		11-14 Darkshore		11-14 Darkshore					
+tugs-only	97914	Expanding Horizons	Darkshore / Stormwind City	17	13	125	new	A		Human,Dwarf,Night Elf,Gnome	atlas	11-14 Darkshore		11-14 Darkshore		11-14 Darkshore					
+tugs-only	97926	Making Do	Darkshore / Stormwind City	17	13	125	new	A		Human,Dwarf,Night Elf,Gnome	atlas	14-15 Westfall		14-15 Westfall		14-15 Westfall					
+tugs-only	4723	Beached Sea Creature	Darkshore	13	11	455	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore		18-20 Darkshore		18-20 Darkshore					
+tugs-only	1002	Buzzbox 323	Darkshore	14	7	980	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore		18-20 Darkshore		18-20 Darkshore					
+tugs-only	4728	Beached Sea Creature	Darkshore	14	12	490	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore		18-20 Darkshore		18-20 Darkshore					
+tugs-only	4813	The Fragments Within	Darkshore	14	12	980	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore		18-20 Darkshore		18-20 Darkshore					
+tugs-only	4725	Beached Sea Turtle	Darkshore	15	12	540	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore		18-20 Darkshore		18-20 Darkshore					
+tugs-only	4727	Beached Sea Turtle	Darkshore	15	12	540	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore		18-20 Darkshore		18-20 Darkshore					
+tugs-only	1003	Buzzbox 525	Darkshore	16	7	1150	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore		18-20 Darkshore		18-20 Darkshore					
+tugs-only	4730	Beached Sea Creature	Darkshore	16	12	580	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore		18-20 Darkshore		18-20 Darkshore					
+tugs-only	5713	One Shot. One Kill.	Darkshore / Ashenvale	15	10	1050	unchanged	A		Human,Dwarf,Night Elf,Gnome	atlas	18-20 Darkshore		18-20 Darkshore		18-20 Darkshore				x	

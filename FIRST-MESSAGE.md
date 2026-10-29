@@ -1,0 +1,15 @@
+Hi. This folder is the WoW Forever Atlas: a Guidelime levelling-guide addon for my Dwarf Shaman on WoW Forever (Alliance), plus the data and Python tooling it was built from. Until today it was maintained through claude.ai chat sessions that edited files over a device bridge. I'm moving the build-and-verify work into Claude Code. This is the first session, so the job today is to get the repo in order and understand what's here. Do not edit anything under guide/ this session.
+
+Start by reading CLAUDE.md (it imports docs/RULES.md) and then docs/audit-2026-10-27.md, which is the latest state. Then:
+
+1. Inventory. Walk the folder and give me a short map: what's in guide/, tooling/, data/, weights/, archive/, "Claude outputs/". Note anything that looks out of place, duplicated, or like a stale staging artifact (there is at least one _to_delete folder). Tell me the current TOC version of the guide and the chapter list with their [N] titles.
+
+2. Git. Initialize a repo here. Write a .gitignore that excludes __pycache__, .pyc, OS junk, the _to_delete folder, and any large regenerable cache you find (ask me before excluding anything under tooling/qdb or data/, those are the datasets the guide is checked against and I want them versioned). Make an initial commit of everything else with a message that records the guide's TOC version.
+
+3. Prove the tooling runs. Run python tooling/check_guide.py and python tooling/tarcheck.py from the repo root and report the exact output. The expected result on check_guide.py is 0 flow problems and 7 known cosmetic "optional step without [G]" findings. If either script fails to run or the result differs, tell me what you see and what you think is wrong, but don't fix the guide. Fixing a path bug in a script is fine; say what you changed.
+
+4. Read tooling/README and tell me whether the tooling can already do these checks or whether we need to add them: every [QA] has a matching [QT] or [QS] later in the same race chain; every [TAR<id>] exists in qdb/npc.json and its name matches; every [G x,y Zone] on a [TAR] step is within a few units of a DB spawn for that NPC; every quest's start and end NPC in the guide matches qdb/quest.json; skill-gated steps (recipes, trainers) come after the step that provides the skill. For anything not covered, propose how you'd add it to check_guide.py or as a new tooling/verify.py. Don't write it yet; I want to see the plan first.
+
+5. Propose a PostToolUse hook that runs check_guide.py whenever a .lua file under guide/ is edited and surfaces any new findings. Show me the settings.json snippet; don't install it yet.
+
+Working style: I'm a CTO, you can be terse and technical. When you're unsure about a Forever-specific fact, say it's unverified instead of filling in from Classic knowledge; that class of mistake (wrong NPC, wrong coords, Classic map numbers on a Forever map) is exactly what the tooling exists to catch. Ask before any destructive or irreversible action. Finish by giving me the inventory, the commit hash, the two script outputs, and your proposals for 4 and 5.

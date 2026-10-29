@@ -1,0 +1,11455 @@
+{
+"recipeItems": [
+{
+"id": 2406,
+"name": "Pattern: Fine Leather Boots",
+"skill": 65,
+"quality": 2,
+"level": 15,
+"source": [
+2,
+16,
+21
+],
+"status": "updated"
+},
+{
+"id": 2407,
+"name": "Pattern: White Leather Jerkin",
+"skill": 40,
+"quality": 2,
+"level": 13,
+"source": [
+2,
+16,
+21
+],
+"status": "updated"
+},
+{
+"id": 2408,
+"name": "Pattern: Fine Leather Gloves",
+"skill": 50,
+"quality": 2,
+"level": 15,
+"source": [
+2,
+21
+],
+"status": "updated"
+},
+{
+"id": 2409,
+"name": "Pattern: Dark Leather Tunic",
+"skill": 75,
+"quality": 2,
+"level": 20,
+"source": [
+2,
+16
+],
+"status": "updated"
+},
+{
+"id": 4293,
+"name": "Pattern: Hillman's Leather Vest",
+"skill": 75,
+"quality": 2,
+"level": 20,
+"source": [
+2,
+21
+],
+"status": "updated"
+},
+{
+"id": 4294,
+"name": "Pattern: Hillman's Belt",
+"skill": 95,
+"quality": 2,
+"level": 24,
+"source": [
+2,
+16
+],
+"status": "updated"
+},
+{
+"id": 4295,
+"name": "Pattern: Double-stitched Leather Gloves OLD",
+"skill": 125,
+"quality": 1,
+"level": 25,
+"status": "unchanged"
+},
+{
+"id": 4296,
+"name": "Pattern: Dark Leather Shoulders",
+"skill": 115,
+"quality": 2,
+"level": 28,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 4297,
+"name": "Pattern: Barbaric Gloves",
+"skill": 125,
+"quality": 2,
+"level": 30,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 4298,
+"name": "Pattern: Guardian Belt",
+"skill": 145,
+"quality": 3,
+"level": 34,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 4299,
+"name": "Pattern: Guardian Armor",
+"skill": 150,
+"quality": 2,
+"level": 35,
+"source": [
+2,
+16
+],
+"status": "updated"
+},
+{
+"id": 4300,
+"name": "Pattern: Guardian Leather Bracers",
+"skill": 170,
+"quality": 2,
+"level": 39,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 4301,
+"name": "Pattern: Barbaric Belt",
+"skill": 175,
+"quality": 3,
+"level": 40,
+"source": [
+2,
+21
+],
+"status": "updated"
+},
+{
+"id": 5083,
+"name": "Pattern: Kodo Hide Bag",
+"skill": 35,
+"quality": 2,
+"level": 11,
+"source": [
+4
+],
+"status": "updated"
+},
+{
+"id": 5786,
+"name": "Pattern: Murloc Scale Belt",
+"skill": 65,
+"quality": 1,
+"level": 18,
+"source": [
+2,
+5
+],
+"status": "updated"
+},
+{
+"id": 5787,
+"name": "Pattern: Murloc Scale Breastplate",
+"skill": 70,
+"quality": 1,
+"level": 19,
+"source": [
+2,
+5
+],
+"status": "updated"
+},
+{
+"id": 5788,
+"name": "Pattern: Thick Murloc Armor",
+"skill": 145,
+"quality": 2,
+"level": 34,
+"source": [
+2,
+5
+],
+"status": "updated"
+},
+{
+"id": 5789,
+"name": "Pattern: Murloc Scale Bracers",
+"skill": 165,
+"quality": 2,
+"level": 38,
+"source": [
+2,
+5
+],
+"status": "updated"
+},
+{
+"id": 5972,
+"name": "Pattern: Fine Leather Pants",
+"skill": 80,
+"quality": 2,
+"level": 21,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 5973,
+"name": "Pattern: Barbaric Leggings",
+"skill": 145,
+"quality": 1,
+"level": 34,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 5974,
+"name": "Pattern: Guardian Cloak",
+"skill": 160,
+"quality": 2,
+"level": 37,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 6474,
+"name": "Pattern: Deviate Scale Cloak",
+"skill": 65,
+"quality": 1,
+"level": 18,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 6475,
+"name": "Pattern: Deviate Scale Gloves",
+"skill": 80,
+"quality": 1,
+"level": 21,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 6476,
+"name": "Pattern: Deviate Scale Belt",
+"skill": 90,
+"quality": 2,
+"level": 23,
+"source": [
+4
+],
+"status": "updated"
+},
+{
+"id": 6710,
+"name": "Pattern: Moonglow Vest",
+"skill": 65,
+"quality": 2,
+"level": 18,
+"source": [
+4
+],
+"status": "updated"
+},
+{
+"id": 7288,
+"name": "Pattern: Rugged Leather Pants",
+"skill": 30,
+"quality": 2,
+"level": 11,
+"source": [
+2,
+16,
+21
+],
+"status": "updated"
+},
+{
+"id": 7289,
+"name": "Pattern: Black Whelp Cloak",
+"skill": 75,
+"quality": 1,
+"level": 20,
+"source": [
+2,
+5
+],
+"status": "updated"
+},
+{
+"id": 7290,
+"name": "Pattern: Red Whelp Gloves",
+"skill": 95,
+"quality": 1,
+"level": 24,
+"source": [
+2,
+5
+],
+"status": "updated"
+},
+{
+"id": 7360,
+"name": "Pattern: Dark Leather Gloves",
+"skill": 95,
+"quality": 2,
+"level": 25,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 7361,
+"name": "Pattern: Herbalist's Gloves",
+"skill": 110,
+"quality": 2,
+"level": 26,
+"source": [
+2,
+5
+],
+"status": "updated"
+},
+{
+"id": 7362,
+"name": "Pattern: Earthen Leather Shoulders",
+"skill": 110,
+"quality": 1,
+"level": 27,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 7363,
+"name": "Pattern: Pilferer's Gloves",
+"skill": 115,
+"quality": 2,
+"level": 28,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 7364,
+"name": "Pattern: Heavy Earthen Gloves",
+"skill": 120,
+"quality": 2,
+"level": 29,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 7449,
+"name": "Pattern: Dusky Leather Leggings",
+"skill": 140,
+"quality": 2,
+"level": 33,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 7450,
+"name": "Pattern: Green Whelp Armor",
+"skill": 150,
+"quality": 2,
+"level": 35,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 7451,
+"name": "Pattern: Green Whelp Bracers",
+"skill": 165,
+"quality": 2,
+"level": 38,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 7452,
+"name": "Pattern: Dusky Boots",
+"skill": 175,
+"quality": 3,
+"level": 40,
+"source": [
+2,
+21
+],
+"status": "updated"
+},
+{
+"id": 7453,
+"name": "Pattern: Swift Boots",
+"skill": 175,
+"quality": 2,
+"level": 40,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 7613,
+"name": "Pattern: Green Leather Armor",
+"skill": 130,
+"quality": 1,
+"level": 31,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 8384,
+"name": "Pattern: Comfortable Leather Hat",
+"skill": 175,
+"quality": 3,
+"level": 40,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 8385,
+"name": "Pattern: Turtle Scale Gloves",
+"skill": 180,
+"quality": 1,
+"level": 41,
+"source": [
+2,
+5,
+16
+],
+"status": "updated"
+},
+{
+"id": 8386,
+"name": "Pattern: Big Voodoo Robe",
+"skill": 190,
+"quality": 2,
+"level": 43,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 8387,
+"name": "Pattern: Big Voodoo Mask",
+"skill": 195,
+"quality": 2,
+"level": 44,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 8388,
+"name": "Pattern: Nightscape Cloak",
+"skill": 205,
+"quality": 2,
+"level": 46,
+"status": "updated"
+},
+{
+"id": 8389,
+"name": "Pattern: Big Voodoo Pants",
+"skill": 215,
+"quality": 2,
+"level": 48,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 8390,
+"name": "Pattern: Big Voodoo Cloak",
+"skill": 215,
+"quality": 2,
+"level": 48,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 8395,
+"name": "Pattern: Tough Scorpid Breastplate",
+"skill": 195,
+"quality": 2,
+"level": 44,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 8397,
+"name": "Pattern: Tough Scorpid Bracers",
+"skill": 195,
+"quality": 2,
+"level": 44,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 8398,
+"name": "Pattern: Tough Scorpid Gloves",
+"skill": 200,
+"quality": 2,
+"level": 45,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 8399,
+"name": "Pattern: Tough Scorpid Boots",
+"skill": 210,
+"quality": 2,
+"level": 47,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 8400,
+"name": "Pattern: Tough Scorpid Shoulders",
+"skill": 215,
+"quality": 2,
+"level": 48,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 8401,
+"name": "Pattern: Tough Scorpid Leggings",
+"skill": 220,
+"quality": 2,
+"level": 49,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 8402,
+"name": "Pattern: Tough Scorpid Helm",
+"skill": 225,
+"quality": 2,
+"level": 50,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 8403,
+"name": "Pattern: Wild Leather Shoulders",
+"skill": 195,
+"quality": 2,
+"level": 44,
+"source": [
+4
+],
+"status": "updated"
+},
+{
+"id": 8404,
+"name": "Pattern: Wild Leather Vest",
+"skill": 200,
+"quality": 2,
+"level": 45,
+"source": [
+4
+],
+"status": "updated"
+},
+{
+"id": 8405,
+"name": "Pattern: Wild Leather Helmet",
+"skill": 200,
+"quality": 2,
+"level": 45,
+"source": [
+4
+],
+"status": "updated"
+},
+{
+"id": 8406,
+"name": "Pattern: Wild Leather Boots",
+"skill": 220,
+"quality": 2,
+"level": 49,
+"source": [
+4
+],
+"status": "updated"
+},
+{
+"id": 8407,
+"name": "Pattern: Wild Leather Leggings",
+"skill": 225,
+"quality": 2,
+"level": 50,
+"source": [
+4
+],
+"status": "updated"
+},
+{
+"id": 8408,
+"name": "Pattern: Wild Leather Cloak",
+"skill": 225,
+"quality": 2,
+"level": 50,
+"source": [
+4
+],
+"status": "updated"
+},
+{
+"id": 8409,
+"name": "Pattern: Nightscape Shoulders",
+"skill": 185,
+"quality": 2,
+"level": 42,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 12691,
+"name": "Pattern: Wildthorn Mail",
+"skill": 245,
+"quality": 2,
+"level": 54,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 12703,
+"name": "Pattern: Storm Gauntlets",
+"skill": 270,
+"quality": 3,
+"level": 59,
+"source": [
+2,
+5
+],
+"status": "updated"
+},
+{
+"id": 12716,
+"name": "Pattern: Helm of the Great Chief",
+"skill": 290,
+"quality": 3,
+"level": 61,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 12728,
+"name": "Pattern: Invulnerable Mail",
+"skill": 295,
+"quality": 4,
+"level": 63,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 13287,
+"name": "Pattern: Raptor Hide Harness",
+"skill": 140,
+"quality": 2,
+"level": 33,
+"source": [
+2,
+5
+],
+"status": "updated"
+},
+{
+"id": 13288,
+"name": "Pattern: Raptor Hide Belt",
+"skill": 140,
+"quality": 2,
+"level": 33,
+"source": [
+2,
+5
+],
+"status": "updated"
+},
+{
+"id": 14635,
+"name": "Pattern: Gem-studded Leather Belt",
+"skill": 160,
+"quality": 1,
+"level": 37,
+"source": [
+2,
+5
+],
+"status": "updated"
+},
+{
+"id": 15724,
+"name": "Pattern: Heavy Scorpid Bracers",
+"skill": 255,
+"quality": 1,
+"level": 51,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 15725,
+"name": "Pattern: Wicked Leather Gauntlets",
+"skill": 235,
+"quality": 1,
+"level": 52,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 15726,
+"name": "Pattern: Green Dragonscale Breastplate",
+"skill": 235,
+"quality": 1,
+"level": 52,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 15727,
+"name": "Pattern: Heavy Scorpid Vest",
+"skill": 240,
+"quality": 2,
+"level": 53,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15728,
+"name": "Pattern: Wicked Leather Bracers",
+"skill": 240,
+"quality": 2,
+"level": 53,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15729,
+"name": "Pattern: Chimeric Gloves",
+"skill": 240,
+"quality": 1,
+"level": 53,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 15730,
+"name": "Pattern: Red Dragonscale Breastplate",
+"skill": 290,
+"quality": 3,
+"level": 61,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15731,
+"name": "Pattern: Runic Leather Gauntlets",
+"skill": 245,
+"quality": 2,
+"level": 54,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15732,
+"name": "Pattern: Volcanic Leggings",
+"skill": 245,
+"quality": 2,
+"level": 54,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15733,
+"name": "Pattern: Green Dragonscale Leggings",
+"skill": 245,
+"quality": 3,
+"level": 54,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15734,
+"name": "Pattern: Living Shoulders",
+"skill": 245,
+"quality": 1,
+"level": 54,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 15735,
+"name": "Pattern: Ironfeather Shoulders",
+"skill": 245,
+"quality": 1,
+"level": 54,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 15737,
+"name": "Pattern: Chimeric Boots",
+"skill": 250,
+"quality": 2,
+"level": 55,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15738,
+"name": "Pattern: Heavy Scorpid Gauntlets",
+"skill": 250,
+"quality": 2,
+"level": 55,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15739,
+"name": "Pattern: Runic Leather Bracers",
+"skill": 250,
+"quality": 2,
+"level": 55,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15740,
+"name": "Pattern: Frostsaber Boots",
+"skill": 250,
+"quality": 1,
+"level": 55,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 15741,
+"name": "Pattern: Stormshroud Pants",
+"skill": 250,
+"quality": 1,
+"level": 55,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 15742,
+"name": "Pattern: Warbear Harness",
+"skill": 250,
+"quality": 1,
+"level": 55,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15743,
+"name": "Pattern: Heavy Scorpid Belt",
+"skill": 255,
+"quality": 2,
+"level": 56,
+"source": [
+2,
+16
+],
+"status": "updated"
+},
+{
+"id": 15744,
+"name": "Pattern: Wicked Leather Headband",
+"skill": 255,
+"quality": 2,
+"level": 56,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15745,
+"name": "Pattern: Runic Leather Belt",
+"skill": 255,
+"quality": 2,
+"level": 56,
+"source": [
+2,
+16
+],
+"status": "updated"
+},
+{
+"id": 15746,
+"name": "Pattern: Chimeric Leggings",
+"skill": 255,
+"quality": 2,
+"level": 56,
+"source": [
+2,
+16
+],
+"status": "updated"
+},
+{
+"id": 15747,
+"name": "Pattern: Frostsaber Leggings",
+"skill": 260,
+"quality": 2,
+"level": 57,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15748,
+"name": "Pattern: Heavy Scorpid Leggings",
+"skill": 260,
+"quality": 2,
+"level": 57,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15749,
+"name": "Pattern: Volcanic Breastplate",
+"skill": 260,
+"quality": 2,
+"level": 57,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15751,
+"name": "Pattern: Blue Dragonscale Breastplate",
+"skill": 260,
+"quality": 1,
+"level": 57,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 15752,
+"name": "Pattern: Living Leggings",
+"skill": 260,
+"quality": 3,
+"level": 57,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15753,
+"name": "Pattern: Stormshroud Armor",
+"skill": 260,
+"quality": 3,
+"level": 57,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15755,
+"name": "Pattern: Chimeric Vest",
+"skill": 265,
+"quality": 2,
+"level": 58,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15756,
+"name": "Pattern: Runic Leather Headband",
+"skill": 265,
+"quality": 1,
+"level": 58,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 15757,
+"name": "Pattern: Wicked Leather Pants",
+"skill": 265,
+"quality": 2,
+"level": 58,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15758,
+"name": "Pattern: Devilsaur Gauntlets",
+"skill": 265,
+"quality": 1,
+"level": 58,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 15759,
+"name": "Pattern: Black Dragonscale Breastplate",
+"skill": 265,
+"quality": 1,
+"level": 58,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 15760,
+"name": "Pattern: Ironfeather Breastplate",
+"skill": 265,
+"quality": 3,
+"level": 58,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15761,
+"name": "Pattern: Frostsaber Gloves",
+"skill": 270,
+"quality": 2,
+"level": 59,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15762,
+"name": "Pattern: Heavy Scorpid Helm",
+"skill": 270,
+"quality": 1,
+"level": 59,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 15763,
+"name": "Pattern: Blue Dragonscale Shoulders",
+"skill": 270,
+"quality": 3,
+"level": 59,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15764,
+"name": "Pattern: Stormshroud Shoulders",
+"skill": 270,
+"quality": 3,
+"level": 59,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15765,
+"name": "Pattern: Runic Leather Pants",
+"skill": 275,
+"quality": 2,
+"level": 60,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15768,
+"name": "Pattern: Wicked Leather Belt",
+"skill": 275,
+"quality": 2,
+"level": 60,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15770,
+"name": "Pattern: Black Dragonscale Shoulders",
+"skill": 270,
+"quality": 3,
+"level": 60,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15771,
+"name": "Pattern: Living Breastplate",
+"skill": 290,
+"quality": 3,
+"level": 60,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15772,
+"name": "Pattern: Devilsaur Leggings",
+"skill": 290,
+"quality": 3,
+"level": 60,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15773,
+"name": "Pattern: Wicked Leather Armor",
+"skill": 280,
+"quality": 2,
+"level": 61,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15774,
+"name": "Pattern: Heavy Scorpid Shoulders",
+"skill": 280,
+"quality": 2,
+"level": 61,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15775,
+"name": "Pattern: Volcanic Shoulders",
+"skill": 280,
+"quality": 2,
+"level": 61,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15776,
+"name": "Pattern: Runic Leather Armor",
+"skill": 285,
+"quality": 2,
+"level": 61,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15777,
+"name": "Pattern: Runic Leather Shoulders",
+"skill": 285,
+"quality": 2,
+"level": 62,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15779,
+"name": "Pattern: Frostsaber Tunic",
+"skill": 290,
+"quality": 2,
+"level": 62,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 15781,
+"name": "Pattern: Black Dragonscale Leggings",
+"skill": 290,
+"quality": 3,
+"level": 62,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 17022,
+"name": "Pattern: Corehound Boots",
+"skill": 295,
+"quality": 1,
+"level": 59,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 17023,
+"name": "Pattern: Molten Helm",
+"skill": 300,
+"quality": 1,
+"level": 60,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 17025,
+"name": "Pattern: Black Dragonscale Boots",
+"skill": 300,
+"quality": 1,
+"level": 60,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 17722,
+"name": "Pattern: Gloves of the Greatfather",
+"skill": 165,
+"quality": 2,
+"level": 38,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 18239,
+"name": "Pattern: Shadowskin Gloves",
+"skill": 175,
+"quality": 1,
+"level": 40,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 18252,
+"name": "Pattern: Core Armor Kit",
+"skill": 300,
+"quality": 3,
+"level": 60,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 18514,
+"name": "Pattern: Girdle of Insight",
+"skill": 290,
+"quality": 3,
+"level": 62,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 18515,
+"name": "Pattern: Mongoose Boots",
+"skill": 290,
+"quality": 3,
+"level": 62,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 18516,
+"name": "Pattern: Swift Flight Bracers",
+"skill": 290,
+"quality": 3,
+"level": 62,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 18517,
+"name": "Pattern: Chromatic Cloak",
+"skill": 300,
+"quality": 4,
+"level": 62,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 18518,
+"name": "Pattern: Hide of the Wild",
+"skill": 300,
+"quality": 4,
+"level": 62,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 18519,
+"name": "Pattern: Shifting Cloak",
+"skill": 300,
+"quality": 4,
+"level": 62,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 18731,
+"name": "Pattern: Heavy Leather Ball",
+"skill": 125,
+"quality": 1,
+"level": 30,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 18949,
+"name": "Pattern: Barbaric Bracers",
+"skill": 130,
+"quality": 1,
+"level": 31,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 19202,
+"name": "Pattern: Heavy Timbermaw Belt",
+"skill": 265,
+"quality": 1,
+"level": 58,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 19204,
+"name": "Pattern: Heavy Timbermaw Boots",
+"skill": 295,
+"quality": 1,
+"level": 64,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 19326,
+"name": "Pattern: Might of the Timbermaw",
+"skill": 265,
+"quality": 1,
+"level": 58,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 19327,
+"name": "Pattern: Timbermaw Brawlers",
+"skill": 295,
+"quality": 1,
+"level": 64,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 19328,
+"name": "Pattern: Dawn Treaders",
+"skill": 265,
+"quality": 1,
+"level": 58,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 19329,
+"name": "Pattern: Golden Mantle of the Dawn",
+"skill": 295,
+"quality": 1,
+"level": 64,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 19330,
+"name": "Pattern: Lava Belt",
+"skill": 300,
+"quality": 1,
+"level": 66,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 19331,
+"name": "Pattern: Chromatic Gauntlets",
+"skill": 300,
+"quality": 1,
+"level": 70,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 19332,
+"name": "Pattern: Corehound Belt",
+"skill": 300,
+"quality": 1,
+"level": 70,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 19333,
+"name": "Pattern: Molten Belt",
+"skill": 300,
+"quality": 1,
+"level": 70,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 19769,
+"name": "Pattern: Primal Batskin Jerkin",
+"skill": 300,
+"quality": 1,
+"level": 65,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 19770,
+"name": "Pattern: Primal Batskin Gloves",
+"skill": 300,
+"quality": 1,
+"level": 65,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 19771,
+"name": "Pattern: Primal Batskin Bracers",
+"skill": 300,
+"quality": 1,
+"level": 65,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 19772,
+"name": "Pattern: Blood Tiger Breastplate",
+"skill": 300,
+"quality": 1,
+"level": 65,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 19773,
+"name": "Pattern: Blood Tiger Shoulders",
+"skill": 300,
+"quality": 1,
+"level": 65,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 20253,
+"name": "Pattern: Warbear Harness",
+"skill": 250,
+"quality": 1,
+"level": 55,
+"source": [
+2,
+5
+],
+"status": "updated"
+},
+{
+"id": 20254,
+"name": "Pattern: Warbear Woolies",
+"skill": 260,
+"quality": 1,
+"level": 57,
+"source": [
+5
+],
+"status": "updated"
+},
+{
+"id": 20576,
+"name": "Pattern: Black Whelp Tunic",
+"skill": 75,
+"quality": 1,
+"level": 20,
+"source": [
+2,
+5
+],
+"status": "updated"
+},
+{
+"id": 21548,
+"name": "Pattern: Stormshroud Gloves",
+"skill": 290,
+"quality": 3,
+"level": 62,
+"source": [
+2
+],
+"status": "updated"
+},
+{
+"id": 34262,
+"name": "Pattern: Winter Boots",
+"skill": 285,
+"quality": 2,
+"level": 1,
+"status": "new"
+},
+{
+"id": 215152,
+"name": "Pattern: Glowing Gneuro-Linked Cowl",
+"skill": 225,
+"quality": 4,
+"level": 40,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 215367,
+"name": "Pattern: Faintly Glowing Leather",
+"skill": 200,
+"quality": 3,
+"level": 40,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 215422,
+"name": "Pattern: Glowing Hyperconductive Scale Coif",
+"skill": 225,
+"quality": 4,
+"level": 40,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 215423,
+"name": "Pattern: Gneuro-Conductive Channeler's Hood",
+"skill": 225,
+"quality": 4,
+"level": 40,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 215424,
+"name": "Pattern: Rad-Resistant Scale Hood",
+"skill": 225,
+"quality": 4,
+"level": 40,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 217260,
+"name": "Pattern: Big Voodoo Mask",
+"skill": 220,
+"quality": 2,
+"level": 44,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 217262,
+"name": "Pattern: Big Voodoo Robe",
+"skill": 215,
+"quality": 2,
+"level": 43,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 217264,
+"name": "Pattern: Guardian Leather Bracers",
+"skill": 195,
+"quality": 2,
+"level": 39,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 217266,
+"name": "Pattern: Guardian Belt",
+"skill": 170,
+"quality": 3,
+"level": 34,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 217271,
+"name": "Pattern: Turtle Scale Gloves",
+"skill": 205,
+"quality": 1,
+"level": 41,
+"source": [
+2,
+5
+],
+"status": "unchanged"
+},
+{
+"id": 227895,
+"name": "Pattern: Golden Mantle of the Dawn",
+"skill": 300,
+"quality": 1,
+"level": 64,
+"status": "unchanged"
+},
+{
+"id": 227898,
+"name": "Pattern: Honed Blue Dragonscale Breastplate",
+"skill": 285,
+"quality": 1,
+"level": 57,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 227899,
+"name": "Pattern: Honed Blue Dragonscale Shoulders",
+"skill": 295,
+"quality": 3,
+"level": 59,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 227900,
+"name": "Pattern: Living Green Dragonscale Leggings",
+"skill": 270,
+"quality": 3,
+"level": 54,
+"status": "unchanged"
+},
+{
+"id": 227902,
+"name": "Pattern: Hardened Black Dragonscale Breastplate",
+"skill": 290,
+"quality": 1,
+"level": 58,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 227903,
+"name": "Pattern: Hardened Black Dragonscale Leggings",
+"skill": 300,
+"quality": 3,
+"level": 62,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 227904,
+"name": "Pattern: Hardened Black Dragonscale Shoulders",
+"skill": 300,
+"quality": 3,
+"level": 60,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 227906,
+"name": "Pattern: Masterwork Volcanic Breastplate",
+"skill": 285,
+"quality": 2,
+"level": 57,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 227907,
+"name": "Pattern: Masterwork Volcanic Shoulders",
+"skill": 300,
+"quality": 2,
+"level": 61,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 227908,
+"name": "Pattern: Masterwork Volcanic Leggings",
+"skill": 270,
+"quality": 2,
+"level": 54,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 227910,
+"name": "Pattern: Brilliant Chromatic Cloak",
+"skill": 300,
+"quality": 4,
+"level": 62,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 228119,
+"name": "Pattern: Devilcore Gauntlets",
+"skill": 290,
+"quality": 3,
+"level": 58,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 228120,
+"name": "Pattern: Devilcore Leggings",
+"skill": 300,
+"quality": 3,
+"level": 60,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 228251,
+"name": "Pattern: Living Green Dragonscale Gauntlets",
+"skill": 270,
+"quality": 3,
+"level": 54,
+"status": "updated"
+},
+{
+"id": 228276,
+"name": "Pattern: Mastercrafted Shifting Cloak",
+"skill": 300,
+"quality": 4,
+"level": 62,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 228301,
+"name": "Pattern: Swift Flight Vambraces",
+"skill": 300,
+"quality": 3,
+"level": 62,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 228309,
+"name": "Pattern: Living Green Dragonscale Breastplate",
+"skill": 260,
+"quality": 1,
+"level": 52,
+"source": [
+5
+],
+"status": "unchanged"
+},
+{
+"id": 228319,
+"name": "Pattern: Girdle of Arcane Insight",
+"skill": 300,
+"quality": 3,
+"level": 62,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238306,
+"name": "Pattern: Scarlet Infiltrator's Bandana",
+"skill": 280,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238307,
+"name": "Pattern: Scarlet Infiltrator's Shoulderpads",
+"skill": 280,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238308,
+"name": "Pattern: Scarlet Infiltrator's Vest",
+"skill": 280,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238309,
+"name": "Pattern: Scarlet Infiltrator's Bracers",
+"skill": 250,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238310,
+"name": "Pattern: Scarlet Infiltrator's Gloves",
+"skill": 260,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238311,
+"name": "Pattern: Scarlet Infiltrator's Belt",
+"skill": 250,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238312,
+"name": "Pattern: Scarlet Infiltrator's Trousers",
+"skill": 270,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238313,
+"name": "Pattern: Scarlet Infiltrator's Shoes",
+"skill": 260,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238314,
+"name": "Pattern: Scarlet Huntsman's Coif",
+"skill": 280,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238315,
+"name": "Pattern: Scarlet Huntsman's Pauldrons",
+"skill": 280,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238316,
+"name": "Pattern: Scarlet Huntsman's Chain",
+"skill": 280,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238317,
+"name": "Pattern: Scarlet Huntsman's Wristguards",
+"skill": 250,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238318,
+"name": "Pattern: Scarlet Huntsman's Handguards",
+"skill": 260,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238319,
+"name": "Pattern: Scarlet Huntsman's Clasp",
+"skill": 250,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238320,
+"name": "Pattern: Scarlet Huntsman's Legguards",
+"skill": 270,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238321,
+"name": "Pattern: Scarlet Huntsman's Boots",
+"skill": 260,
+"quality": 3,
+"level": 1,
+"source": [
+2
+],
+"status": "unchanged"
+},
+{
+"id": 238927,
+"name": "Pattern: Scarlet Quiver",
+"skill": 275,
+"quality": 2,
+"level": 1,
+"status": "unchanged"
+},
+{
+"id": 238928,
+"name": "Pattern: Scarlet Ammo Pouch",
+"skill": 275,
+"quality": 2,
+"level": 1,
+"status": "unchanged"
+},
+{
+"id": 251738,
+"name": "Pattern: Beastculler's Adaptive Vest",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 251739,
+"name": "Pattern: Beastculler's Adaptive Bracers",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 251740,
+"name": "Pattern: Beastculler's Adaptive Wrap",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 251741,
+"name": "Pattern: Dinodestroyer's Adaptive Chestguard",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 251742,
+"name": "Pattern: Dinodestroyer's Adaptive Wrists",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 251743,
+"name": "Pattern: Dinodestroyer's Adaptive Belt",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 251753,
+"name": "Pattern: Beastmender's Adaptive Robe",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 251754,
+"name": "Pattern: Beastmender's Adaptive Wristlinks",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 251755,
+"name": "Pattern: Beastmender's Adaptive Girdle",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 251756,
+"name": "Pattern: Dinomender's Adaptive Tunic",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 251757,
+"name": "Pattern: Dinomender's Adaptive Wrists",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 251758,
+"name": "Pattern: Dinomender's Adaptive Chain",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 252761,
+"name": "Pattern: Black Whelp Slippers",
+"skill": 35,
+"quality": 3,
+"level": 15,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252762,
+"name": "Pattern: Dark Leather Boots",
+"skill": 35,
+"quality": 3,
+"level": 15,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252763,
+"name": "Pattern: Murloc Scale Shoes",
+"skill": 35,
+"quality": 3,
+"level": 15,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252764,
+"name": "Pattern: Moonglow Boots",
+"skill": 35,
+"quality": 3,
+"level": 15,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252765,
+"name": "Pattern: Brawler's Leather Belt",
+"skill": 60,
+"quality": 3,
+"level": 17,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252766,
+"name": "Pattern: Trapper's Leather Belt",
+"skill": 60,
+"quality": 3,
+"level": 17,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252767,
+"name": "Pattern: Defender's Leather Belt",
+"skill": 60,
+"quality": 3,
+"level": 17,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252768,
+"name": "Pattern: Totemic Leather Belt",
+"skill": 60,
+"quality": 3,
+"level": 17,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252769,
+"name": "Pattern: Stormrider's Leather Belt",
+"skill": 60,
+"quality": 3,
+"level": 17,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252770,
+"name": "Pattern: Wisdom's Leather Belt",
+"skill": 60,
+"quality": 3,
+"level": 17,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252777,
+"name": "Pattern: Brawler's Leather Gloves",
+"skill": 75,
+"quality": 3,
+"level": 20,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252778,
+"name": "Pattern: Trapper's Leather Gloves",
+"skill": 75,
+"quality": 3,
+"level": 20,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252779,
+"name": "Pattern: Defender's Leather Gloves",
+"skill": 75,
+"quality": 3,
+"level": 20,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252780,
+"name": "Pattern: Totemic Leather Gloves",
+"skill": 75,
+"quality": 3,
+"level": 20,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252781,
+"name": "Pattern: Stormrider's Leather Gloves",
+"skill": 75,
+"quality": 3,
+"level": 20,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252782,
+"name": "Pattern: Wisdom's Leather Gloves",
+"skill": 75,
+"quality": 3,
+"level": 20,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252783,
+"name": "Pattern: Mystic Medium Armor Kit",
+"skill": 80,
+"quality": 2,
+"level": 15,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252784,
+"name": "Pattern: Forceful Medium Armor Kit",
+"skill": 80,
+"quality": 2,
+"level": 15,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252786,
+"name": "Pattern: Brawler's Leather Boots",
+"skill": 85,
+"quality": 3,
+"level": 22,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252787,
+"name": "Pattern: Trapper's Leather Boots",
+"skill": 85,
+"quality": 3,
+"level": 22,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252788,
+"name": "Pattern: Defender's Leather Boots",
+"skill": 85,
+"quality": 3,
+"level": 22,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252789,
+"name": "Pattern: Totemic Leather Boots",
+"skill": 85,
+"quality": 3,
+"level": 22,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252790,
+"name": "Pattern: Stormrider's Leather Boots",
+"skill": 85,
+"quality": 3,
+"level": 22,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252791,
+"name": "Pattern: Wisdom's Leather Boots",
+"skill": 85,
+"quality": 3,
+"level": 22,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252798,
+"name": "Pattern: Brawler's Leather Hood",
+"skill": 100,
+"quality": 3,
+"level": 25,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252799,
+"name": "Pattern: Trapper's Leather Hood",
+"skill": 100,
+"quality": 3,
+"level": 25,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252800,
+"name": "Pattern: Defender's Leather Hood",
+"skill": 100,
+"quality": 3,
+"level": 25,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252801,
+"name": "Pattern: Totemic Leather Hood",
+"skill": 100,
+"quality": 3,
+"level": 25,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252802,
+"name": "Pattern: Stormrider's Leather Hood",
+"skill": 100,
+"quality": 3,
+"level": 25,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252803,
+"name": "Pattern: Wisdom's Leather Hood",
+"skill": 100,
+"quality": 3,
+"level": 25,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252804,
+"name": "Pattern: Hillman's Leather Boots",
+"skill": 110,
+"quality": 2,
+"level": 27,
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 252805,
+"name": "Pattern: Brawler's Leather Tunic",
+"skill": 110,
+"quality": 3,
+"level": 27,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252806,
+"name": "Pattern: Trapper's Leather Tunic",
+"skill": 110,
+"quality": 3,
+"level": 27,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252807,
+"name": "Pattern: Defender's Leather Tunic",
+"skill": 110,
+"quality": 3,
+"level": 27,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252808,
+"name": "Pattern: Totemic Leather Tunic",
+"skill": 110,
+"quality": 3,
+"level": 27,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252809,
+"name": "Pattern: Stormrider's Leather Tunic",
+"skill": 110,
+"quality": 3,
+"level": 27,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252810,
+"name": "Pattern: Wisdom's Leather Tunic",
+"skill": 110,
+"quality": 3,
+"level": 27,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252811,
+"name": "Pattern: Mystic Heavy Armor Kit",
+"skill": 135,
+"quality": 2,
+"level": 30,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252812,
+"name": "Pattern: Forceful Heavy Armor Kit",
+"skill": 135,
+"quality": 2,
+"level": 30,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252820,
+"name": "Pattern: Brawler's Leather Legguards",
+"skill": 125,
+"quality": 3,
+"level": 30,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252821,
+"name": "Pattern: Trapper's Leather Legguards",
+"skill": 125,
+"quality": 3,
+"level": 30,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252822,
+"name": "Pattern: Defender's Leather Kilt",
+"skill": 125,
+"quality": 3,
+"level": 30,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252823,
+"name": "Pattern: Totemic Leather Leggings",
+"skill": 125,
+"quality": 3,
+"level": 30,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252824,
+"name": "Pattern: Stormrider's Leather Kilt",
+"skill": 125,
+"quality": 3,
+"level": 30,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252825,
+"name": "Pattern: Wisdom's Leather Leggings",
+"skill": 125,
+"quality": 3,
+"level": 30,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 252826,
+"name": "Pattern: Prowler's Leather Belt",
+"skill": 150,
+"quality": 3,
+"level": 35,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252827,
+"name": "Pattern: Skulker's Leather Belt",
+"skill": 150,
+"quality": 3,
+"level": 35,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252828,
+"name": "Pattern: Stalker's Leather Belt",
+"skill": 150,
+"quality": 3,
+"level": 35,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252829,
+"name": "Pattern: Warden's Leather Belt",
+"skill": 150,
+"quality": 3,
+"level": 35,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252830,
+"name": "Pattern: Skirmisher's Leather Belt",
+"skill": 150,
+"quality": 3,
+"level": 35,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252831,
+"name": "Pattern: Skycaller's Leather Belt",
+"skill": 150,
+"quality": 3,
+"level": 35,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252832,
+"name": "Pattern: Mender's Leather Belt",
+"skill": 150,
+"quality": 3,
+"level": 35,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252833,
+"name": "Pattern: Mystic Thick Armor Kit",
+"skill": 185,
+"quality": 2,
+"level": 1,
+"source": [
+4,
+5
+],
+"status": "new"
+},
+{
+"id": 252834,
+"name": "Pattern: Forceful Thick Armor Kit",
+"skill": 185,
+"quality": 2,
+"level": 40,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252836,
+"name": "Pattern: Prowler's Leather Gloves",
+"skill": 175,
+"quality": 3,
+"level": 40,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252837,
+"name": "Pattern: Skulker's Leather Gloves",
+"skill": 175,
+"quality": 3,
+"level": 40,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252838,
+"name": "Pattern: Stalker's Leather Gloves",
+"skill": 175,
+"quality": 3,
+"level": 40,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252839,
+"name": "Pattern: Warden's Leather Gloves",
+"skill": 175,
+"quality": 3,
+"level": 40,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252840,
+"name": "Pattern: Skirmisher's Leather Gloves",
+"skill": 175,
+"quality": 3,
+"level": 40,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252841,
+"name": "Pattern: Skycaller's Leather Gloves",
+"skill": 175,
+"quality": 3,
+"level": 40,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252842,
+"name": "Pattern: Mender's Leather Gloves",
+"skill": 175,
+"quality": 3,
+"level": 40,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252843,
+"name": "Pattern: Prowler's Leather Shoes",
+"skill": 200,
+"quality": 3,
+"level": 45,
+"status": "new"
+},
+{
+"id": 252844,
+"name": "Pattern: Skulker's Leather Shoes",
+"skill": 200,
+"quality": 3,
+"level": 45,
+"status": "new"
+},
+{
+"id": 252845,
+"name": "Pattern: Warden's Leather Shoes",
+"skill": 200,
+"quality": 3,
+"level": 45,
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 252846,
+"name": "Pattern: Skycaller's Leather Shoes",
+"skill": 200,
+"quality": 3,
+"level": 45,
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 252847,
+"name": "Pattern: Mender's Leather Shoes",
+"skill": 200,
+"quality": 3,
+"level": 45,
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 252848,
+"name": "Pattern: Prowler's Leather Shoulders",
+"skill": 210,
+"quality": 3,
+"level": 47,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252849,
+"name": "Pattern: Skulker's Leather Shoulder",
+"skill": 210,
+"quality": 3,
+"level": 47,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252850,
+"name": "Pattern: Warden's Leather Shoulders",
+"skill": 210,
+"quality": 3,
+"level": 47,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252851,
+"name": "Pattern: Skycaller's Leather Shoulders",
+"skill": 210,
+"quality": 3,
+"level": 47,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252852,
+"name": "Pattern: Mender's Leather Shoulders",
+"skill": 210,
+"quality": 3,
+"level": 47,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252853,
+"name": "Pattern: Prowler's Leather Bracers",
+"skill": 225,
+"quality": 3,
+"level": 50,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252854,
+"name": "Pattern: Skulker's Leather Bracers",
+"skill": 225,
+"quality": 3,
+"level": 50,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252855,
+"name": "Pattern: Warden's Leather Bracers",
+"skill": 225,
+"quality": 3,
+"level": 50,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252856,
+"name": "Pattern: Skycaller's Leather Bracers",
+"skill": 225,
+"quality": 3,
+"level": 50,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252857,
+"name": "Pattern: Mender's Leather Bracers",
+"skill": 225,
+"quality": 3,
+"level": 50,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252858,
+"name": "Pattern: Tooled Leather Belt",
+"skill": 235,
+"quality": 2,
+"level": 52,
+"status": "new"
+},
+{
+"id": 252859,
+"name": "Pattern: Blue Suede Shoes",
+"skill": 235,
+"quality": 2,
+"level": 52,
+"status": "new"
+},
+{
+"id": 252860,
+"name": "Pattern: Prowler's Leather Boots",
+"skill": 235,
+"quality": 3,
+"level": 52,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252861,
+"name": "Pattern: Skulker's Leather Boots",
+"skill": 235,
+"quality": 3,
+"level": 52,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252862,
+"name": "Pattern: Warden's Leather Boots",
+"skill": 235,
+"quality": 3,
+"level": 52,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252863,
+"name": "Pattern: Skycaller's Leather Boots",
+"skill": 235,
+"quality": 3,
+"level": 52,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252864,
+"name": "Pattern: Mender's Leather Boots",
+"skill": 235,
+"quality": 3,
+"level": 52,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252865,
+"name": "Pattern: Tooled Leather Boots",
+"skill": 240,
+"quality": 2,
+"level": 53,
+"status": "new"
+},
+{
+"id": 252866,
+"name": "Pattern: Blue Suede Gloves",
+"skill": 240,
+"quality": 2,
+"level": 53,
+"status": "new"
+},
+{
+"id": 252867,
+"name": "Pattern: Prowler's Leather Gauntlets",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"status": "new"
+},
+{
+"id": 252868,
+"name": "Pattern: Skulker's Leather Gauntlets",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"status": "new"
+},
+{
+"id": 252869,
+"name": "Pattern: Warden's Leather Gauntlets",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"status": "new"
+},
+{
+"id": 252870,
+"name": "Pattern: Skycaller's Leather Gauntlets",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"status": "new"
+},
+{
+"id": 252871,
+"name": "Pattern: Mender's Leather Gauntlets",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"status": "new"
+},
+{
+"id": 252872,
+"name": "Pattern: Prowler's Leather Waistguard",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252873,
+"name": "Pattern: Skulker's Leather Waistguard",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252874,
+"name": "Pattern: Warden's Leather Waistguard",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252875,
+"name": "Pattern: Skycaller's Leather Waistguard",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252876,
+"name": "Pattern: Mender's Leather Waistguard",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252877,
+"name": "Pattern: Tooled Leather Armor",
+"skill": 255,
+"quality": 2,
+"level": 56,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252878,
+"name": "Pattern: Blue Suede Pants",
+"skill": 255,
+"quality": 2,
+"level": 56,
+"status": "new"
+},
+{
+"id": 252879,
+"name": "Pattern: Wicked Leather Boots",
+"skill": 260,
+"quality": 2,
+"level": 57,
+"status": "new"
+},
+{
+"id": 252880,
+"name": "Pattern: Tooled Leather Gauntlets",
+"skill": 260,
+"quality": 2,
+"level": 57,
+"status": "new"
+},
+{
+"id": 252881,
+"name": "Pattern: Blue Suede Shoulders",
+"skill": 260,
+"quality": 2,
+"level": 57,
+"status": "new"
+},
+{
+"id": 252882,
+"name": "Pattern: Tooled Leather Crown",
+"skill": 265,
+"quality": 2,
+"level": 58,
+"status": "new"
+},
+{
+"id": 252883,
+"name": "Pattern: Blue Suede Armor",
+"skill": 265,
+"quality": 2,
+"level": 58,
+"source": [
+4
+],
+"status": "new"
+},
+{
+"id": 252884,
+"name": "Pattern: Wicked Leather Shoulders",
+"skill": 270,
+"quality": 2,
+"level": 59,
+"status": "new"
+},
+{
+"id": 252885,
+"name": "Pattern: Tooled Leather Bracers",
+"skill": 270,
+"quality": 2,
+"level": 59,
+"status": "new"
+},
+{
+"id": 252886,
+"name": "Pattern: Blue Suede Belt",
+"skill": 270,
+"quality": 2,
+"level": 59,
+"status": "new"
+},
+{
+"id": 252887,
+"name": "Pattern: Tooled Leather Epaulets",
+"skill": 275,
+"quality": 2,
+"level": 60,
+"status": "new"
+},
+{
+"id": 252888,
+"name": "Pattern: Blue Suede Bracers",
+"skill": 275,
+"quality": 2,
+"level": 60,
+"status": "new"
+},
+{
+"id": 252889,
+"name": "Pattern: Tooled Leather Pants",
+"skill": 280,
+"quality": 2,
+"level": 60,
+"status": "new"
+},
+{
+"id": 252890,
+"name": "Pattern: Blue Suede Hat",
+"skill": 280,
+"quality": 2,
+"level": 60,
+"status": "new"
+},
+{
+"id": 252891,
+"name": "Pattern: Living Crown",
+"skill": 300,
+"quality": 4,
+"level": 60,
+"status": "new"
+},
+{
+"id": 252892,
+"name": "Pattern: Dawn Armor",
+"skill": 300,
+"quality": 4,
+"level": 60,
+"status": "new"
+},
+{
+"id": 252893,
+"name": "Pattern: Timbermaw Tunic",
+"skill": 300,
+"quality": 4,
+"level": 60,
+"status": "new"
+},
+{
+"id": 252894,
+"name": "Pattern: Warbear Helm",
+"skill": 300,
+"quality": 4,
+"level": 60,
+"status": "new"
+},
+{
+"id": 252895,
+"name": "Pattern: Ironfeather Leggings",
+"skill": 300,
+"quality": 4,
+"level": 60,
+"status": "new"
+},
+{
+"id": 252896,
+"name": "Pattern: Stalker's Mail Boots",
+"skill": 200,
+"quality": 3,
+"level": 45,
+"status": "new"
+},
+{
+"id": 252897,
+"name": "Pattern: Skycaller's Mail Boots",
+"skill": 200,
+"quality": 3,
+"level": 45,
+"status": "new"
+},
+{
+"id": 252898,
+"name": "Pattern: Skirmisher's Mail Boots",
+"skill": 200,
+"quality": 3,
+"level": 45,
+"status": "new"
+},
+{
+"id": 252899,
+"name": "Pattern: Mender's Mail Boots",
+"skill": 200,
+"quality": 3,
+"level": 45,
+"source": [
+2
+],
+"status": "new"
+},
+{
+"id": 252900,
+"name": "Pattern: Stalker's Mail Shoulders",
+"skill": 210,
+"quality": 3,
+"level": 47,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252901,
+"name": "Pattern: Skycaller's Mail Shoulders",
+"skill": 210,
+"quality": 3,
+"level": 47,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252902,
+"name": "Pattern: Skirmisher's Mail Shoulders",
+"skill": 210,
+"quality": 3,
+"level": 47,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252903,
+"name": "Pattern: Mender's Mail Shoulders",
+"skill": 210,
+"quality": 3,
+"level": 47,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252904,
+"name": "Pattern: Stalker's Mail Bracers",
+"skill": 225,
+"quality": 3,
+"level": 50,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252905,
+"name": "Pattern: Skycaller's Mail Bracers",
+"skill": 225,
+"quality": 3,
+"level": 50,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252906,
+"name": "Pattern: Skirmisher's Mail Bracers",
+"skill": 225,
+"quality": 3,
+"level": 50,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252907,
+"name": "Pattern: Mender's Mail Bracers",
+"skill": 225,
+"quality": 3,
+"level": 50,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252908,
+"name": "Pattern: Supple Scorpid Boots",
+"skill": 230,
+"quality": 2,
+"level": 51,
+"status": "new"
+},
+{
+"id": 252909,
+"name": "Pattern: Charged Scorpid Belt",
+"skill": 230,
+"quality": 2,
+"level": 51,
+"status": "new"
+},
+{
+"id": 252910,
+"name": "Pattern: Stalker's Mail Sabatons",
+"skill": 235,
+"quality": 3,
+"level": 52,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252911,
+"name": "Pattern: Skycaller's Mail Sabatons",
+"skill": 235,
+"quality": 3,
+"level": 52,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252912,
+"name": "Pattern: Skirmisher's Mail Sabatons",
+"skill": 235,
+"quality": 3,
+"level": 52,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252913,
+"name": "Pattern: Mender's Mail Sabatons",
+"skill": 235,
+"quality": 3,
+"level": 52,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252914,
+"name": "Pattern: Supple Scorpid Leggings",
+"skill": 240,
+"quality": 2,
+"level": 53,
+"status": "new"
+},
+{
+"id": 252915,
+"name": "Pattern: Charged Scorpid Helm",
+"skill": 240,
+"quality": 2,
+"level": 53,
+"status": "new"
+},
+{
+"id": 252916,
+"name": "Pattern: Supple Scorpid Bracers",
+"skill": 250,
+"quality": 2,
+"level": 55,
+"status": "new"
+},
+{
+"id": 252917,
+"name": "Pattern: Charged Scorpid Shoulders",
+"skill": 250,
+"quality": 2,
+"level": 55,
+"status": "new"
+},
+{
+"id": 252918,
+"name": "Pattern: Stalker's Mail Gauntlets",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"status": "new"
+},
+{
+"id": 252919,
+"name": "Pattern: Skycaller's Mail Gauntlets",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"status": "new"
+},
+{
+"id": 252920,
+"name": "Pattern: Skirmisher's Mail Gauntlets",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"status": "new"
+},
+{
+"id": 252921,
+"name": "Pattern: Mender's Mail Gauntlets",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"status": "new"
+},
+{
+"id": 252922,
+"name": "Pattern: Stalker's Mail Belt",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252923,
+"name": "Pattern: Skycaller's Mail Belt",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252924,
+"name": "Pattern: Skirmisher's Mail Belt",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252925,
+"name": "Pattern: Mender's Mail Belt",
+"skill": 250,
+"quality": 3,
+"level": 55,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252926,
+"name": "Pattern: Supple Scorpid Shoulders",
+"skill": 255,
+"quality": 2,
+"level": 56,
+"status": "new"
+},
+{
+"id": 252927,
+"name": "Pattern: Charged Scorpid Bracers",
+"skill": 255,
+"quality": 2,
+"level": 56,
+"status": "new"
+},
+{
+"id": 252928,
+"name": "Pattern: Heavy Scorpid Boots",
+"skill": 255,
+"quality": 2,
+"level": 56,
+"status": "new"
+},
+{
+"id": 252929,
+"name": "Pattern: Supple Scorpid Belt",
+"skill": 255,
+"quality": 2,
+"level": 56,
+"status": "new"
+},
+{
+"id": 252930,
+"name": "Pattern: Charged Scorpid Gauntlets",
+"skill": 255,
+"quality": 2,
+"level": 56,
+"status": "new"
+},
+{
+"id": 252931,
+"name": "Pattern: Supple Scorpid Helm",
+"skill": 260,
+"quality": 2,
+"level": 57,
+"status": "new"
+},
+{
+"id": 252932,
+"name": "Pattern: Charged Scorpid Vest",
+"skill": 260,
+"quality": 2,
+"level": 57,
+"status": "new"
+},
+{
+"id": 252933,
+"name": "Pattern: Supple Scorpid Vest",
+"skill": 270,
+"quality": 2,
+"level": 59,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252934,
+"name": "Pattern: Charged Scorpid Leggings",
+"skill": 270,
+"quality": 2,
+"level": 59,
+"status": "new"
+},
+{
+"id": 252935,
+"name": "Pattern: Supple Scorpid Sabatons",
+"skill": 280,
+"quality": 2,
+"level": 60,
+"status": "new"
+},
+{
+"id": 252936,
+"name": "Pattern: Charged Scorpid Boots",
+"skill": 280,
+"quality": 2,
+"level": 60,
+"status": "new"
+},
+{
+"id": 252937,
+"name": "Pattern: Red Dragonscale Leggings",
+"skill": 300,
+"quality": 4,
+"level": 60,
+"status": "new"
+},
+{
+"id": 252938,
+"name": "Pattern: Blue Dragonscale Helm",
+"skill": 300,
+"quality": 4,
+"level": 60,
+"status": "new"
+},
+{
+"id": 252939,
+"name": "Pattern: Black Dragonscale Helm",
+"skill": 300,
+"quality": 4,
+"level": 60,
+"status": "new"
+},
+{
+"id": 252940,
+"name": "Pattern: Pristine Scorpid Leggings",
+"skill": 300,
+"quality": 4,
+"level": 60,
+"status": "new"
+},
+{
+"id": 252941,
+"name": "Pattern: Mystic Rugged Armor Kit",
+"skill": 235,
+"quality": 2,
+"level": 50,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 252942,
+"name": "Pattern: Forceful Rugged Armor Kit",
+"skill": 235,
+"quality": 2,
+"level": 50,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273096,
+"name": "Blueprint: Tanning Rack",
+"skill": 140,
+"quality": 2,
+"level": 25,
+"source": [
+2,
+5
+],
+"status": "new"
+},
+{
+"id": 273121,
+"name": "Blueprint: Sewing Machine",
+"skill": 300,
+"quality": 2,
+"level": 60,
+"status": "new"
+},
+{
+"id": 273952,
+"name": "Pattern: Grovekeeper Trousers",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273953,
+"name": "Pattern: Grovekeeper Grips",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273954,
+"name": "Pattern: Grovekeeper Shoulderpads",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273955,
+"name": "Pattern: Grovekeeper Stompers",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273956,
+"name": "Pattern: Grovekeeper Kilt",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273957,
+"name": "Pattern: Grovekeeper Mitts",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273958,
+"name": "Pattern: Grovekeeper Mantle",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273959,
+"name": "Pattern: Grovekeeper Sandals",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273960,
+"name": "Pattern: Grovekeeper Legguards",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273961,
+"name": "Pattern: Grovekeeper Handguards",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273962,
+"name": "Pattern: Grovekeeper Pauldrons",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273963,
+"name": "Pattern: Grovekeeper Boots",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273964,
+"name": "Pattern: Grovekeeper Leggings",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273965,
+"name": "Pattern: Grovekeeper Gauntlets",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273966,
+"name": "Pattern: Grovekeeper Spaulders",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273967,
+"name": "Pattern: Grovekeeper Treads",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273968,
+"name": "Pattern: Wildstalker's Legguards",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273969,
+"name": "Pattern: Wildstalker's Gauntlets",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273970,
+"name": "Pattern: Wildstalker's Spaulders",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273971,
+"name": "Pattern: Wildstalker's Greaves",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273996,
+"name": "Pattern: Grimstitch Pants",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273997,
+"name": "Pattern: Grimstitch Gloves",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273998,
+"name": "Pattern: Grimstitch Spaulders",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 273999,
+"name": "Pattern: Grimstitch Boots",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 274000,
+"name": "Pattern: Spiritcaller Leggings",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 274001,
+"name": "Pattern: Spiritcaller Grips",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 274002,
+"name": "Pattern: Spiritcaller Spaulders",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 274003,
+"name": "Pattern: Spiritcaller Treads",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 274004,
+"name": "Pattern: Spiritcaller Pants",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 274005,
+"name": "Pattern: Spiritcaller Gauntlets",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 274006,
+"name": "Pattern: Spiritcaller Epaulets",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 274007,
+"name": "Pattern: Spiritcaller Greaves",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 274491,
+"name": "Pattern: Centaur Hoofwarmers",
+"skill": 165,
+"quality": 2,
+"level": 44,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 275586,
+"name": "Pattern: Bileblister Claws",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 275587,
+"name": "Pattern: Bileblister Girdle",
+"skill": 290,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 275588,
+"name": "Pattern: Bileblister Boots",
+"skill": 295,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 275589,
+"name": "Pattern: Hivethrasher's Claws",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 275590,
+"name": "Pattern: Hivethrasher's Girdle",
+"skill": 290,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 275591,
+"name": "Pattern: Hivethrasher's Boots",
+"skill": 295,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 275592,
+"name": "Pattern: Scalegut Clenchers",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 275593,
+"name": "Pattern: Scalegut Belt",
+"skill": 290,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 275594,
+"name": "Pattern: Scalegut Treaders",
+"skill": 295,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 275595,
+"name": "Pattern: Broodwatcher's Clenchers",
+"skill": 285,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 275596,
+"name": "Pattern: Broodwatcher's Belt",
+"skill": 290,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 275597,
+"name": "Pattern: Broodwatcher's Treaders",
+"skill": 295,
+"quality": 3,
+"level": 1,
+"status": "new"
+},
+{
+"id": 276542,
+"name": "Pattern: Spiritcaller Kilt",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276543,
+"name": "Pattern: Spiritcaller Gloves",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276544,
+"name": "Pattern: Spiritcaller Mantle",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276545,
+"name": "Pattern: Spiritcaller Boots",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276934,
+"name": "Pattern: Cloudy Gustwoven Harness",
+"skill": 60,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276935,
+"name": "Pattern: Cloudy Gustwoven Bracers",
+"skill": 50,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276936,
+"name": "Pattern: Cloudy Gustwoven Gloves",
+"skill": 55,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276937,
+"name": "Pattern: Cloudy Gustwoven Belt",
+"skill": 50,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276938,
+"name": "Pattern: Cloudy Gustwoven Trousers",
+"skill": 60,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276939,
+"name": "Pattern: Cloudy Gustwoven Boots",
+"skill": 55,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276940,
+"name": "Pattern: Cloudy Windraveled Jerkin",
+"skill": 60,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276941,
+"name": "Pattern: Cloudy Windraveled Armguards",
+"skill": 50,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276942,
+"name": "Pattern: Cloudy Windraveled Mitts",
+"skill": 55,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276943,
+"name": "Pattern: Cloudy Windraveled Strap",
+"skill": 50,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276944,
+"name": "Pattern: Cloudy Windraveled Pants",
+"skill": 60,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276945,
+"name": "Pattern: Cloudy Windraveled Footwraps",
+"skill": 55,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276958,
+"name": "Pattern: Azure Gustwoven Harness",
+"skill": 60,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276959,
+"name": "Pattern: Azure Gustwoven Bracers",
+"skill": 50,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276960,
+"name": "Pattern: Azure Gustwoven Gloves",
+"skill": 55,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276961,
+"name": "Pattern: Azure Gustwoven Belt",
+"skill": 50,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276962,
+"name": "Pattern: Azure Gustwoven Trousers",
+"skill": 60,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276963,
+"name": "Pattern: Azure Gustwoven Boots",
+"skill": 55,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276964,
+"name": "Pattern: Azure Windraveled Jerkin",
+"skill": 60,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276965,
+"name": "Pattern: Azure Windraveled Armguards",
+"skill": 50,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276966,
+"name": "Pattern: Azure Windraveled Mitts",
+"skill": 55,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276967,
+"name": "Pattern: Azure Windraveled Strap",
+"skill": 50,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276968,
+"name": "Pattern: Azure Windraveled Pants",
+"skill": 60,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276969,
+"name": "Pattern: Azure Windraveled Footwraps",
+"skill": 55,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276978,
+"name": "Pattern: Cloudy Gustwoven Hood",
+"skill": 175,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276979,
+"name": "Pattern: Cloudy Gustwoven Spaulders",
+"skill": 175,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276980,
+"name": "Pattern: Cloudy Windraveled Cover",
+"skill": 175,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276981,
+"name": "Pattern: Cloudy Windraveled Drapes",
+"skill": 175,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276986,
+"name": "Pattern: Azure Gustwoven Hood",
+"skill": 175,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276987,
+"name": "Pattern: Azure Gustwoven Spaulders",
+"skill": 175,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276988,
+"name": "Pattern: Azure Windraveled Cover",
+"skill": 175,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 276989,
+"name": "Pattern: Azure Windraveled Drapes",
+"skill": 175,
+"quality": 2,
+"level": 1,
+"source": [
+5
+],
+"status": "new"
+},
+{
+"id": 277716,
+"name": "Pattern: Light Leather Reagent Bag",
+"skill": 30,
+"quality": 2,
+"level": 5,
+"source": [
+4,
+5
+],
+"status": "new"
+},
+{
+"id": 279301,
+"name": "Pattern: Elderwild Waistcord",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"status": "new"
+},
+{
+"id": 279302,
+"name": "Pattern: Outlaw's Collar",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"status": "new"
+},
+{
+"id": 279303,
+"name": "Pattern: Elderwild Pants",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"status": "new"
+},
+{
+"id": 279304,
+"name": "Pattern: Eternity Pauldrons",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"status": "new"
+},
+{
+"id": 279305,
+"name": "Pattern: Tranquil Wristguards",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"status": "new"
+},
+{
+"id": 279306,
+"name": "Pattern: Mourning Handguards",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"status": "new"
+},
+{
+"id": 279307,
+"name": "Pattern: Wild Leather Armor Kit",
+"skill": 300,
+"quality": 4,
+"level": 1,
+"status": "new"
+}
+],
+"crafted": [
+{
+"id": 2300,
+"name": "Embossed Leather Vest",
+"quality": 2,
+"ilvl": 12,
+"reqlevel": 7,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 62,
+"spell": 2160,
+"status": "unchanged"
+},
+{
+"id": 2302,
+"name": "Handstitched Leather Boots",
+"quality": 1,
+"ilvl": 8,
+"reqlevel": 3,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 31,
+"spell": 2149,
+"status": "unchanged"
+},
+{
+"id": 2303,
+"name": "Handstitched Leather Pants",
+"quality": 2,
+"ilvl": 10,
+"reqlevel": 5,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 48,
+"spell": 2153,
+"status": "updated"
+},
+{
+"id": 2304,
+"name": "Light Armor Kit",
+"quality": 1,
+"ilvl": 5,
+"slot": 0,
+"classs": 0,
+"subclass": 6,
+"armor": 8,
+"spell": 2152,
+"status": "updated"
+},
+{
+"id": 2307,
+"name": "Fine Leather Boots",
+"quality": 2,
+"ilvl": 18,
+"reqlevel": 13,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 51,
+"spell": 2158,
+"status": "updated"
+},
+{
+"id": 2308,
+"name": "Fine Leather Cloak",
+"quality": 2,
+"ilvl": 15,
+"reqlevel": 10,
+"slot": 16,
+"classs": 4,
+"subclass": -6,
+"armor": 14,
+"spell": 2159,
+"status": "unchanged"
+},
+{
+"id": 2309,
+"name": "Embossed Leather Boots",
+"quality": 2,
+"ilvl": 15,
+"reqlevel": 10,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 48,
+"spell": 2161,
+"status": "updated"
+},
+{
+"id": 2310,
+"name": "Embossed Leather Cloak",
+"quality": 2,
+"ilvl": 13,
+"reqlevel": 8,
+"slot": 16,
+"classs": 4,
+"subclass": -6,
+"armor": 12,
+"spell": 2162,
+"status": "updated"
+},
+{
+"id": 2311,
+"name": "White Leather Jerkin",
+"quality": 2,
+"ilvl": 13,
+"reqlevel": 8,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 65,
+"spell": 2163,
+"status": "updated"
+},
+{
+"id": 2312,
+"name": "Fine Leather Gloves",
+"quality": 2,
+"ilvl": 15,
+"reqlevel": 10,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 43,
+"spell": 2164,
+"status": "updated"
+},
+{
+"id": 2313,
+"name": "Medium Armor Kit",
+"quality": 1,
+"ilvl": 15,
+"reqlevel": 5,
+"slot": 0,
+"classs": 0,
+"subclass": 6,
+"armor": 16,
+"spell": 2165,
+"status": "updated"
+},
+{
+"id": 2314,
+"name": "Toughened Leather Armor",
+"quality": 1,
+"ilvl": 24,
+"reqlevel": 19,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 80,
+"spell": 2166,
+"status": "unchanged"
+},
+{
+"id": 2315,
+"name": "Gray Leather Boots",
+"quality": 2,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 53,
+"spell": 2167,
+"status": "updated"
+},
+{
+"id": 2316,
+"name": "Dark Leather Cloak",
+"quality": 2,
+"ilvl": 22,
+"reqlevel": 17,
+"slot": 16,
+"classs": 4,
+"subclass": -6,
+"armor": 18,
+"spell": 2168,
+"status": "updated"
+},
+{
+"id": 2317,
+"name": "Dark Leather Tunic",
+"quality": 2,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 78,
+"spell": 2169,
+"status": "unchanged"
+},
+{
+"id": 2318,
+"name": "Light Leather",
+"quality": 1,
+"ilvl": 10,
+"slot": 0,
+"classs": 7,
+"subclass": 6,
+"spell": 2881,
+"status": "unchanged"
+},
+{
+"id": 2319,
+"name": "Medium Leather",
+"quality": 1,
+"ilvl": 20,
+"slot": 0,
+"classs": 7,
+"subclass": 6,
+"spell": 20648,
+"status": "unchanged"
+},
+{
+"id": 3719,
+"name": "Hillman's Cloak",
+"quality": 2,
+"ilvl": 30,
+"reqlevel": 25,
+"slot": 16,
+"classs": 4,
+"subclass": -6,
+"armor": 21,
+"spell": 3760,
+"status": "updated"
+},
+{
+"id": 4231,
+"name": "Cured Light Hide",
+"quality": 1,
+"ilvl": 10,
+"slot": 0,
+"classs": 7,
+"subclass": 6,
+"spell": 3816,
+"status": "unchanged"
+},
+{
+"id": 4233,
+"name": "Cured Medium Hide",
+"quality": 1,
+"ilvl": 20,
+"slot": 0,
+"classs": 7,
+"subclass": 6,
+"spell": 3817,
+"status": "unchanged"
+},
+{
+"id": 4234,
+"name": "Heavy Leather",
+"quality": 1,
+"ilvl": 30,
+"slot": 0,
+"classs": 7,
+"subclass": 6,
+"spell": 20649,
+"status": "unchanged"
+},
+{
+"id": 4236,
+"name": "Cured Heavy Hide",
+"quality": 1,
+"ilvl": 30,
+"slot": 0,
+"classs": 7,
+"subclass": 6,
+"spell": 3818,
+"status": "unchanged"
+},
+{
+"id": 4237,
+"name": "Handstitched Leather Belt",
+"quality": 2,
+"ilvl": 10,
+"reqlevel": 5,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 31,
+"spell": 3753,
+"status": "updated"
+},
+{
+"id": 4239,
+"name": "Embossed Leather Gloves",
+"quality": 2,
+"ilvl": 13,
+"reqlevel": 8,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 41,
+"spell": 3756,
+"status": "updated"
+},
+{
+"id": 4242,
+"name": "Embossed Leather Pants",
+"quality": 2,
+"ilvl": 15,
+"reqlevel": 10,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 61,
+"spell": 3759,
+"status": "updated"
+},
+{
+"id": 4243,
+"name": "Fine Leather Tunic",
+"quality": 2,
+"ilvl": 17,
+"reqlevel": 12,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 73,
+"spell": 3761,
+"status": "unchanged"
+},
+{
+"id": 4244,
+"name": "Hillman's Leather Vest",
+"quality": 2,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 78,
+"spell": 3762,
+"status": "updated"
+},
+{
+"id": 4246,
+"name": "Fine Leather Belt",
+"quality": 2,
+"ilvl": 16,
+"reqlevel": 11,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 40,
+"spell": 3763,
+"status": "updated"
+},
+{
+"id": 4247,
+"name": "Hillman's Leather Gloves",
+"quality": 2,
+"ilvl": 29,
+"reqlevel": 24,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 57,
+"spell": 3764,
+"status": "updated"
+},
+{
+"id": 4248,
+"name": "Dark Leather Gloves",
+"quality": 2,
+"ilvl": 26,
+"reqlevel": 21,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 54,
+"spell": 3765,
+"status": "unchanged"
+},
+{
+"id": 4249,
+"name": "Dark Leather Belt",
+"quality": 2,
+"ilvl": 25,
+"reqlevel": 20,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 48,
+"spell": 3766,
+"status": "unchanged"
+},
+{
+"id": 4250,
+"name": "Hillman's Belt",
+"quality": 2,
+"ilvl": 25,
+"reqlevel": 20,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 48,
+"spell": 3767,
+"status": "updated"
+},
+{
+"id": 4251,
+"name": "Hillman's Shoulders",
+"quality": 2,
+"ilvl": 26,
+"reqlevel": 21,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 65,
+"spell": 3768,
+"status": "updated"
+},
+{
+"id": 4252,
+"name": "Dark Leather Shoulders",
+"quality": 2,
+"ilvl": 28,
+"reqlevel": 23,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 68,
+"spell": 3769,
+"status": "unchanged"
+},
+{
+"id": 4253,
+"name": "Toughened Leather Gloves",
+"quality": 3,
+"ilvl": 27,
+"reqlevel": 22,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 61,
+"spell": 3770,
+"status": "updated"
+},
+{
+"id": 4254,
+"name": "Barbaric Gloves",
+"quality": 2,
+"ilvl": 30,
+"reqlevel": 25,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 58,
+"spell": 3771,
+"status": "updated"
+},
+{
+"id": 4255,
+"name": "Green Leather Armor",
+"quality": 2,
+"ilvl": 31,
+"reqlevel": 26,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 95,
+"spell": 3772,
+"status": "updated"
+},
+{
+"id": 4256,
+"name": "Guardian Armor",
+"quality": 2,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 102,
+"spell": 3773,
+"status": "updated"
+},
+{
+"id": 4257,
+"name": "Green Leather Belt",
+"quality": 2,
+"ilvl": 32,
+"reqlevel": 27,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 54,
+"spell": 3774,
+"status": "updated"
+},
+{
+"id": 4258,
+"name": "Guardian Belt",
+"quality": 2,
+"ilvl": 34,
+"reqlevel": 29,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 56,
+"spell": 3775,
+"status": "updated"
+},
+{
+"id": 4259,
+"name": "Green Leather Bracers",
+"quality": 2,
+"ilvl": 36,
+"reqlevel": 31,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 45,
+"spell": 3776,
+"status": "updated"
+},
+{
+"id": 4260,
+"name": "Guardian Leather Bracers",
+"quality": 2,
+"ilvl": 39,
+"reqlevel": 34,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 48,
+"spell": 3777,
+"status": "updated"
+},
+{
+"id": 4262,
+"name": "Gem-studded Leather Belt",
+"quality": 3,
+"ilvl": 37,
+"reqlevel": 32,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 65,
+"spell": 3778,
+"status": "updated"
+},
+{
+"id": 4264,
+"name": "Barbaric Belt",
+"quality": 2,
+"ilvl": 40,
+"reqlevel": 35,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 62,
+"spell": 3779,
+"status": "unchanged"
+},
+{
+"id": 4265,
+"name": "Heavy Armor Kit",
+"quality": 1,
+"ilvl": 30,
+"reqlevel": 20,
+"slot": 0,
+"classs": 0,
+"subclass": 6,
+"armor": 24,
+"spell": 3780,
+"status": "updated"
+},
+{
+"id": 4304,
+"name": "Thick Leather",
+"quality": 1,
+"ilvl": 40,
+"reqlevel": 32,
+"slot": 0,
+"classs": 7,
+"subclass": 6,
+"spell": 20650,
+"status": "unchanged"
+},
+{
+"id": 4455,
+"name": "Raptor Hide Harness",
+"quality": 2,
+"ilvl": 33,
+"reqlevel": 28,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 98,
+"spell": 4096,
+"status": "unchanged"
+},
+{
+"id": 4456,
+"name": "Raptor Hide Belt",
+"quality": 2,
+"ilvl": 33,
+"reqlevel": 28,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 55,
+"spell": 4097,
+"status": "unchanged"
+},
+{
+"id": 5081,
+"name": "Kodo Hide Bag",
+"quality": 1,
+"ilvl": 5,
+"slot": 18,
+"classs": 1,
+"subclass": 0,
+"spell": 5244,
+"status": "unchanged"
+},
+{
+"id": 5739,
+"name": "Barbaric Harness",
+"quality": 2,
+"ilvl": 38,
+"reqlevel": 33,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 106,
+"spell": 6661,
+"status": "updated"
+},
+{
+"id": 5780,
+"name": "Murloc Scale Belt",
+"quality": 2,
+"ilvl": 18,
+"reqlevel": 13,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 42,
+"spell": 6702,
+"status": "unchanged"
+},
+{
+"id": 5781,
+"name": "Murloc Scale Breastplate",
+"quality": 2,
+"ilvl": 19,
+"reqlevel": 14,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 6703,
+"status": "unchanged"
+},
+{
+"id": 5782,
+"name": "Thick Murloc Armor",
+"quality": 2,
+"ilvl": 34,
+"reqlevel": 29,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 100,
+"spell": 6704,
+"status": "unchanged"
+},
+{
+"id": 5783,
+"name": "Murloc Scale Bracers",
+"quality": 2,
+"ilvl": 38,
+"reqlevel": 33,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 47,
+"spell": 6705,
+"status": "unchanged"
+},
+{
+"id": 5957,
+"name": "Handstitched Leather Vest",
+"quality": 2,
+"ilvl": 10,
+"reqlevel": 3,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 55,
+"spell": 7126,
+"status": "updated"
+},
+{
+"id": 5958,
+"name": "Fine Leather Pants",
+"quality": 2,
+"ilvl": 21,
+"reqlevel": 16,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 69,
+"spell": 7133,
+"status": "unchanged"
+},
+{
+"id": 5961,
+"name": "Dark Leather Pants",
+"quality": 2,
+"ilvl": 23,
+"reqlevel": 18,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 72,
+"spell": 7135,
+"status": "unchanged"
+},
+{
+"id": 5962,
+"name": "Guardian Pants",
+"quality": 2,
+"ilvl": 32,
+"reqlevel": 27,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 85,
+"spell": 7147,
+"status": "updated"
+},
+{
+"id": 5963,
+"name": "Barbaric Leggings",
+"quality": 2,
+"ilvl": 34,
+"reqlevel": 29,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 87,
+"spell": 7149,
+"status": "updated"
+},
+{
+"id": 5964,
+"name": "Barbaric Shoulders",
+"quality": 2,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 7151,
+"status": "updated"
+},
+{
+"id": 5965,
+"name": "Guardian Cloak",
+"quality": 2,
+"ilvl": 37,
+"reqlevel": 32,
+"slot": 16,
+"classs": 4,
+"subclass": -6,
+"armor": 24,
+"spell": 7153,
+"status": "updated"
+},
+{
+"id": 5966,
+"name": "Guardian Gloves",
+"quality": 2,
+"ilvl": 38,
+"reqlevel": 33,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 66,
+"spell": 7156,
+"status": "updated"
+},
+{
+"id": 6466,
+"name": "Deviate Scale Cloak",
+"quality": 2,
+"ilvl": 18,
+"reqlevel": 13,
+"slot": 16,
+"classs": 4,
+"subclass": -6,
+"armor": 16,
+"spell": 7953,
+"status": "unchanged"
+},
+{
+"id": 6467,
+"name": "Deviate Scale Gloves",
+"quality": 2,
+"ilvl": 21,
+"reqlevel": 16,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 49,
+"spell": 7954,
+"status": "unchanged"
+},
+{
+"id": 6468,
+"name": "Deviate Scale Belt",
+"quality": 3,
+"ilvl": 23,
+"reqlevel": 18,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 51,
+"spell": 7955,
+"status": "updated"
+},
+{
+"id": 6709,
+"name": "Moonglow Vest",
+"quality": 2,
+"ilvl": 18,
+"reqlevel": 13,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 74,
+"spell": 8322,
+"status": "updated"
+},
+{
+"id": 7276,
+"name": "Handstitched Leather Cloak",
+"quality": 1,
+"ilvl": 9,
+"reqlevel": 4,
+"slot": 16,
+"classs": 4,
+"subclass": -6,
+"armor": 8,
+"spell": 9058,
+"status": "unchanged"
+},
+{
+"id": 7277,
+"name": "Handstitched Leather Bracers",
+"quality": 1,
+"ilvl": 9,
+"reqlevel": 4,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 21,
+"spell": 9059,
+"status": "unchanged"
+},
+{
+"id": 7278,
+"name": "Light Leather Quiver",
+"quality": 1,
+"ilvl": 5,
+"slot": 18,
+"classs": 11,
+"subclass": 2,
+"spell": 9060,
+"status": "unchanged"
+},
+{
+"id": 7279,
+"name": "Small Leather Ammo Pouch",
+"quality": 1,
+"ilvl": 5,
+"slot": 18,
+"classs": 11,
+"subclass": 3,
+"spell": 9062,
+"status": "unchanged"
+},
+{
+"id": 7280,
+"name": "Rugged Leather Pants",
+"quality": 2,
+"ilvl": 11,
+"reqlevel": 6,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 51,
+"spell": 9064,
+"status": "unchanged"
+},
+{
+"id": 7281,
+"name": "Light Leather Bracers",
+"quality": 2,
+"ilvl": 14,
+"reqlevel": 9,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 30,
+"spell": 9065,
+"status": "updated"
+},
+{
+"id": 7282,
+"name": "Light Leather Pants",
+"quality": 2,
+"ilvl": 19,
+"reqlevel": 14,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 66,
+"spell": 9068,
+"status": "updated"
+},
+{
+"id": 7283,
+"name": "Black Whelp Cloak",
+"quality": 2,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 16,
+"classs": 4,
+"subclass": -6,
+"armor": 17,
+"spell": 9070,
+"status": "updated"
+},
+{
+"id": 7284,
+"name": "Red Whelp Gloves",
+"quality": 2,
+"ilvl": 24,
+"reqlevel": 19,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 52,
+"spell": 9072,
+"status": "updated"
+},
+{
+"id": 7285,
+"name": "Nimble Leather Gloves",
+"quality": 2,
+"ilvl": 24,
+"reqlevel": 19,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 52,
+"spell": 9074,
+"status": "updated"
+},
+{
+"id": 7348,
+"name": "Fletcher's Gloves",
+"quality": 2,
+"ilvl": 25,
+"reqlevel": 20,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 53,
+"spell": 9145,
+"status": "updated"
+},
+{
+"id": 7349,
+"name": "Herbalist's Gloves",
+"quality": 2,
+"ilvl": 27,
+"reqlevel": 22,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 55,
+"spell": 9146,
+"status": "unchanged"
+},
+{
+"id": 7352,
+"name": "Earthen Leather Shoulders",
+"quality": 2,
+"ilvl": 27,
+"reqlevel": 22,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 67,
+"spell": 9147,
+"status": "unchanged"
+},
+{
+"id": 7358,
+"name": "Pilferer's Gloves",
+"quality": 2,
+"ilvl": 28,
+"reqlevel": 23,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 56,
+"spell": 9148,
+"status": "unchanged"
+},
+{
+"id": 7359,
+"name": "Heavy Earthen Gloves",
+"quality": 2,
+"ilvl": 29,
+"reqlevel": 24,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 57,
+"spell": 9149,
+"status": "unchanged"
+},
+{
+"id": 7371,
+"name": "Heavy Quiver",
+"quality": 2,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 18,
+"classs": 11,
+"subclass": 2,
+"spell": 9193,
+"status": "unchanged"
+},
+{
+"id": 7372,
+"name": "Heavy Leather Ammo Pouch",
+"quality": 2,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 18,
+"classs": 11,
+"subclass": 3,
+"spell": 9194,
+"status": "unchanged"
+},
+{
+"id": 7373,
+"name": "Dusky Leather Leggings",
+"quality": 2,
+"ilvl": 33,
+"reqlevel": 28,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 86,
+"spell": 9195,
+"status": "unchanged"
+},
+{
+"id": 7374,
+"name": "Dusky Leather Armor",
+"quality": 2,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 102,
+"spell": 9196,
+"status": "unchanged"
+},
+{
+"id": 7375,
+"name": "Green Whelp Armor",
+"quality": 2,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 102,
+"spell": 9197,
+"status": "updated"
+},
+{
+"id": 7377,
+"name": "Frost Leather Cloak",
+"quality": 2,
+"ilvl": 36,
+"reqlevel": 31,
+"slot": 16,
+"classs": 4,
+"subclass": -6,
+"armor": 24,
+"spell": 9198,
+"status": "unchanged"
+},
+{
+"id": 7378,
+"name": "Dusky Bracers",
+"quality": 2,
+"ilvl": 37,
+"reqlevel": 32,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 46,
+"spell": 9201,
+"status": "unchanged"
+},
+{
+"id": 7386,
+"name": "Green Whelp Bracers",
+"quality": 2,
+"ilvl": 38,
+"reqlevel": 33,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 47,
+"spell": 9202,
+"status": "updated"
+},
+{
+"id": 7387,
+"name": "Dusky Belt",
+"quality": 2,
+"ilvl": 39,
+"reqlevel": 34,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 61,
+"spell": 9206,
+"status": "unchanged"
+},
+{
+"id": 7390,
+"name": "Dusky Boots",
+"quality": 2,
+"ilvl": 40,
+"reqlevel": 35,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 9207,
+"status": "unchanged"
+},
+{
+"id": 7391,
+"name": "Swift Boots",
+"quality": 2,
+"ilvl": 40,
+"reqlevel": 35,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 9208,
+"status": "updated"
+},
+{
+"id": 8170,
+"name": "Rugged Leather",
+"quality": 1,
+"ilvl": 50,
+"slot": 0,
+"classs": 7,
+"subclass": 6,
+"spell": 22331,
+"status": "unchanged"
+},
+{
+"id": 8172,
+"name": "Cured Thick Hide",
+"quality": 1,
+"ilvl": 40,
+"slot": 0,
+"classs": 7,
+"subclass": 6,
+"spell": 10482,
+"status": "unchanged"
+},
+{
+"id": 8173,
+"name": "Thick Armor Kit",
+"quality": 1,
+"ilvl": 40,
+"reqlevel": 30,
+"slot": 0,
+"classs": 0,
+"subclass": 6,
+"armor": 32,
+"spell": 10487,
+"status": "updated"
+},
+{
+"id": 8174,
+"name": "Comfortable Leather Hat",
+"quality": 2,
+"ilvl": 40,
+"reqlevel": 35,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 90,
+"spell": 10490,
+"status": "updated"
+},
+{
+"id": 8175,
+"name": "Nightscape Tunic",
+"quality": 2,
+"ilvl": 41,
+"reqlevel": 36,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 113,
+"spell": 10499,
+"status": "unchanged"
+},
+{
+"id": 8176,
+"name": "Nightscape Headband",
+"quality": 2,
+"ilvl": 41,
+"reqlevel": 36,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 91,
+"spell": 10507,
+"status": "unchanged"
+},
+{
+"id": 8185,
+"name": "Turtle Scale Leggings",
+"quality": 2,
+"ilvl": 47,
+"reqlevel": 42,
+"slot": 7,
+"classs": 4,
+"subclass": 3,
+"armor": 226,
+"spell": 10556,
+"status": "updated"
+},
+{
+"id": 8187,
+"name": "Turtle Scale Gloves",
+"quality": 2,
+"ilvl": 41,
+"reqlevel": 36,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 146,
+"spell": 10509,
+"status": "updated"
+},
+{
+"id": 8189,
+"name": "Turtle Scale Breastplate",
+"quality": 2,
+"ilvl": 42,
+"reqlevel": 37,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 238,
+"spell": 10511,
+"status": "updated"
+},
+{
+"id": 8191,
+"name": "Turtle Scale Helm",
+"quality": 2,
+"ilvl": 46,
+"reqlevel": 41,
+"slot": 1,
+"classs": 4,
+"subclass": 3,
+"armor": 206,
+"spell": 10552,
+"status": "updated"
+},
+{
+"id": 8192,
+"name": "Nightscape Shoulders",
+"quality": 2,
+"ilvl": 42,
+"reqlevel": 37,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 86,
+"spell": 10516,
+"status": "unchanged"
+},
+{
+"id": 8193,
+"name": "Nightscape Pants",
+"quality": 2,
+"ilvl": 46,
+"reqlevel": 41,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 108,
+"spell": 10548,
+"status": "unchanged"
+},
+{
+"id": 8197,
+"name": "Nightscape Boots",
+"quality": 2,
+"ilvl": 47,
+"reqlevel": 42,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 87,
+"spell": 10558,
+"status": "unchanged"
+},
+{
+"id": 8198,
+"name": "Turtle Scale Bracers",
+"quality": 2,
+"ilvl": 42,
+"reqlevel": 37,
+"slot": 9,
+"classs": 4,
+"subclass": 3,
+"armor": 104,
+"spell": 10518,
+"status": "updated"
+},
+{
+"id": 8200,
+"name": "Big Voodoo Robe",
+"quality": 2,
+"ilvl": 43,
+"reqlevel": 38,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 117,
+"spell": 10520,
+"status": "updated"
+},
+{
+"id": 8201,
+"name": "Big Voodoo Mask",
+"quality": 2,
+"ilvl": 44,
+"reqlevel": 39,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 97,
+"spell": 10531,
+"status": "updated"
+},
+{
+"id": 8202,
+"name": "Big Voodoo Pants",
+"quality": 2,
+"ilvl": 47,
+"reqlevel": 42,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 110,
+"spell": 10560,
+"status": "updated"
+},
+{
+"id": 8203,
+"name": "Tough Scorpid Breastplate",
+"quality": 2,
+"ilvl": 44,
+"reqlevel": 39,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 245,
+"spell": 10525,
+"status": "updated"
+},
+{
+"id": 8204,
+"name": "Tough Scorpid Gloves",
+"quality": 2,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 155,
+"spell": 10542,
+"status": "updated"
+},
+{
+"id": 8205,
+"name": "Tough Scorpid Bracers",
+"quality": 2,
+"ilvl": 44,
+"reqlevel": 39,
+"slot": 9,
+"classs": 4,
+"subclass": 3,
+"armor": 107,
+"spell": 10533,
+"status": "updated"
+},
+{
+"id": 8206,
+"name": "Tough Scorpid Leggings",
+"quality": 2,
+"ilvl": 49,
+"reqlevel": 44,
+"slot": 7,
+"classs": 4,
+"subclass": 3,
+"armor": 235,
+"spell": 10568,
+"status": "updated"
+},
+{
+"id": 8207,
+"name": "Tough Scorpid Shoulders",
+"quality": 2,
+"ilvl": 48,
+"reqlevel": 43,
+"slot": 3,
+"classs": 4,
+"subclass": 3,
+"armor": 197,
+"spell": 10564,
+"status": "updated"
+},
+{
+"id": 8208,
+"name": "Tough Scorpid Helm",
+"quality": 2,
+"ilvl": 50,
+"reqlevel": 45,
+"slot": 1,
+"classs": 4,
+"subclass": 3,
+"armor": 222,
+"spell": 10570,
+"status": "updated"
+},
+{
+"id": 8209,
+"name": "Tough Scorpid Boots",
+"quality": 2,
+"ilvl": 47,
+"reqlevel": 42,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 178,
+"spell": 10554,
+"status": "updated"
+},
+{
+"id": 8210,
+"name": "Wild Leather Shoulders",
+"quality": 2,
+"ilvl": 44,
+"reqlevel": 39,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 90,
+"spell": 10529,
+"status": "unchanged"
+},
+{
+"id": 8211,
+"name": "Wild Leather Vest",
+"quality": 2,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 121,
+"spell": 10544,
+"status": "unchanged"
+},
+{
+"id": 8212,
+"name": "Wild Leather Leggings",
+"quality": 2,
+"ilvl": 50,
+"reqlevel": 45,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 116,
+"spell": 10572,
+"status": "unchanged"
+},
+{
+"id": 8213,
+"name": "Wild Leather Boots",
+"quality": 2,
+"ilvl": 49,
+"reqlevel": 44,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 90,
+"spell": 10566,
+"status": "unchanged"
+},
+{
+"id": 8214,
+"name": "Wild Leather Helmet",
+"quality": 2,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 99,
+"spell": 10546,
+"status": "unchanged"
+},
+{
+"id": 8215,
+"name": "Wild Leather Cloak",
+"quality": 2,
+"ilvl": 50,
+"reqlevel": 45,
+"slot": 16,
+"classs": 4,
+"subclass": -6,
+"armor": 33,
+"spell": 10574,
+"status": "unchanged"
+},
+{
+"id": 8216,
+"name": "Big Voodoo Cloak",
+"quality": 2,
+"ilvl": 48,
+"reqlevel": 43,
+"slot": 16,
+"classs": 4,
+"subclass": -6,
+"armor": 31,
+"spell": 10562,
+"status": "updated"
+},
+{
+"id": 8217,
+"name": "Quickdraw Quiver",
+"quality": 2,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 18,
+"classs": 11,
+"subclass": 2,
+"spell": 14930,
+"status": "unchanged"
+},
+{
+"id": 8218,
+"name": "Thick Leather Ammo Pouch",
+"quality": 2,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 18,
+"classs": 11,
+"subclass": 3,
+"spell": 14932,
+"status": "unchanged"
+},
+{
+"id": 8345,
+"name": "Wolfshead Helm",
+"quality": 3,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 109,
+"spell": 10621,
+"status": "updated"
+},
+{
+"id": 8346,
+"name": "Gauntlets of the Sea",
+"quality": 3,
+"ilvl": 46,
+"reqlevel": 41,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 85,
+"spell": 10630,
+"status": "updated"
+},
+{
+"id": 8347,
+"name": "Dragonscale Gauntlets",
+"quality": 3,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 171,
+"spell": 10619,
+"status": "updated"
+},
+{
+"id": 8348,
+"name": "Helm of Fire",
+"quality": 3,
+"ilvl": 50,
+"reqlevel": 45,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 118,
+"spell": 10632,
+"status": "updated"
+},
+{
+"id": 8349,
+"name": "Feathered Breastplate",
+"quality": 3,
+"ilvl": 50,
+"reqlevel": 45,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 146,
+"spell": 10647,
+"status": "updated"
+},
+{
+"id": 8367,
+"name": "Dragonscale Breastplate",
+"quality": 3,
+"ilvl": 51,
+"reqlevel": 46,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 306,
+"spell": 10650,
+"status": "updated"
+},
+{
+"id": 12624,
+"name": "Wildthorn Mail",
+"quality": 3,
+"ilvl": 54,
+"reqlevel": 49,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 322,
+"spell": 16650,
+"status": "updated"
+},
+{
+"id": 12632,
+"name": "Storm Gauntlets",
+"quality": 3,
+"ilvl": 59,
+"reqlevel": 54,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 218,
+"spell": 16661,
+"status": "updated"
+},
+{
+"id": 12636,
+"name": "Helm of the Great Chief",
+"quality": 3,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 1,
+"classs": 4,
+"subclass": 3,
+"armor": 292,
+"spell": 16728,
+"status": "updated"
+},
+{
+"id": 12641,
+"name": "Invulnerable Mail",
+"quality": 4,
+"ilvl": 63,
+"reqlevel": 57,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 404,
+"spell": 16746,
+"status": "updated"
+},
+{
+"id": 15045,
+"name": "Green Dragonscale Breastplate",
+"quality": 3,
+"ilvl": 52,
+"reqlevel": 47,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 311,
+"spell": 19050,
+"status": "updated"
+},
+{
+"id": 15046,
+"name": "Green Dragonscale Leggings",
+"quality": 3,
+"ilvl": 54,
+"reqlevel": 49,
+"slot": 7,
+"classs": 4,
+"subclass": 3,
+"armor": 282,
+"spell": 19060,
+"status": "updated"
+},
+{
+"id": 15047,
+"name": "Red Dragonscale Breastplate",
+"quality": 3,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 360,
+"spell": 19054,
+"status": "updated"
+},
+{
+"id": 15048,
+"name": "Blue Dragonscale Breastplate",
+"quality": 3,
+"ilvl": 57,
+"reqlevel": 52,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 338,
+"spell": 19077,
+"status": "updated"
+},
+{
+"id": 15049,
+"name": "Blue Dragonscale Shoulders",
+"quality": 3,
+"ilvl": 59,
+"reqlevel": 54,
+"slot": 3,
+"classs": 4,
+"subclass": 3,
+"armor": 262,
+"spell": 19089,
+"status": "updated"
+},
+{
+"id": 15050,
+"name": "Black Dragonscale Breastplate",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 344,
+"spell": 19085,
+"status": "unchanged"
+},
+{
+"id": 15051,
+"name": "Black Dragonscale Shoulders",
+"quality": 3,
+"ilvl": 60,
+"reqlevel": 55,
+"slot": 3,
+"classs": 4,
+"subclass": 3,
+"armor": 266,
+"spell": 19094,
+"status": "unchanged"
+},
+{
+"id": 15052,
+"name": "Black Dragonscale Leggings",
+"quality": 3,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 7,
+"classs": 4,
+"subclass": 3,
+"armor": 320,
+"spell": 19107,
+"status": "unchanged"
+},
+{
+"id": 15053,
+"name": "Volcanic Breastplate",
+"quality": 2,
+"ilvl": 57,
+"reqlevel": 52,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 148,
+"spell": 19076,
+"status": "updated"
+},
+{
+"id": 15054,
+"name": "Volcanic Leggings",
+"quality": 2,
+"ilvl": 54,
+"reqlevel": 49,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 124,
+"spell": 19059,
+"status": "updated"
+},
+{
+"id": 15055,
+"name": "Volcanic Shoulders",
+"quality": 2,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 117,
+"spell": 19101,
+"status": "updated"
+},
+{
+"id": 15056,
+"name": "Stormshroud Armor",
+"quality": 3,
+"ilvl": 57,
+"reqlevel": 52,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 163,
+"spell": 19079,
+"status": "updated"
+},
+{
+"id": 15057,
+"name": "Stormshroud Pants",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 138,
+"spell": 19067,
+"status": "updated"
+},
+{
+"id": 15058,
+"name": "Stormshroud Shoulders",
+"quality": 3,
+"ilvl": 59,
+"reqlevel": 54,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 126,
+"spell": 19090,
+"status": "updated"
+},
+{
+"id": 15059,
+"name": "Living Breastplate",
+"quality": 3,
+"ilvl": 60,
+"reqlevel": 55,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 169,
+"spell": 19095,
+"status": "updated"
+},
+{
+"id": 15060,
+"name": "Living Leggings",
+"quality": 3,
+"ilvl": 57,
+"reqlevel": 52,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 142,
+"spell": 19078,
+"status": "updated"
+},
+{
+"id": 15061,
+"name": "Living Shoulders",
+"quality": 3,
+"ilvl": 54,
+"reqlevel": 49,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 117,
+"spell": 19061,
+"status": "updated"
+},
+{
+"id": 15062,
+"name": "Devilsaur Leggings",
+"quality": 3,
+"ilvl": 60,
+"reqlevel": 55,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 148,
+"spell": 19097,
+"status": "updated"
+},
+{
+"id": 15063,
+"name": "Devilsaur Gauntlets",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 103,
+"spell": 19084,
+"status": "updated"
+},
+{
+"id": 15064,
+"name": "Warbear Harness",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 158,
+"spell": 19068,
+"status": "updated"
+},
+{
+"id": 15065,
+"name": "Warbear Woolies",
+"quality": 3,
+"ilvl": 57,
+"reqlevel": 52,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 142,
+"spell": 19080,
+"status": "updated"
+},
+{
+"id": 15066,
+"name": "Ironfeather Breastplate",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 165,
+"spell": 19086,
+"status": "updated"
+},
+{
+"id": 15067,
+"name": "Ironfeather Shoulders",
+"quality": 3,
+"ilvl": 54,
+"reqlevel": 49,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 117,
+"spell": 19062,
+"status": "updated"
+},
+{
+"id": 15068,
+"name": "Frostsaber Tunic",
+"quality": 2,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 158,
+"spell": 19104,
+"status": "updated"
+},
+{
+"id": 15069,
+"name": "Frostsaber Leggings",
+"quality": 2,
+"ilvl": 57,
+"reqlevel": 52,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 129,
+"spell": 19074,
+"status": "updated"
+},
+{
+"id": 15070,
+"name": "Frostsaber Gloves",
+"quality": 2,
+"ilvl": 59,
+"reqlevel": 54,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 95,
+"spell": 19087,
+"status": "updated"
+},
+{
+"id": 15071,
+"name": "Frostsaber Boots",
+"quality": 2,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 99,
+"spell": 19066,
+"status": "updated"
+},
+{
+"id": 15072,
+"name": "Chimeric Leggings",
+"quality": 2,
+"ilvl": 56,
+"reqlevel": 51,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 127,
+"spell": 19073,
+"status": "updated"
+},
+{
+"id": 15073,
+"name": "Chimeric Boots",
+"quality": 2,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 99,
+"spell": 19063,
+"status": "updated"
+},
+{
+"id": 15074,
+"name": "Chimeric Gloves",
+"quality": 2,
+"ilvl": 53,
+"reqlevel": 48,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 87,
+"spell": 19053,
+"status": "updated"
+},
+{
+"id": 15075,
+"name": "Chimeric Vest",
+"quality": 2,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 150,
+"spell": 19081,
+"status": "updated"
+},
+{
+"id": 15076,
+"name": "Heavy Scorpid Vest",
+"quality": 2,
+"ilvl": 53,
+"reqlevel": 48,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 288,
+"spell": 19051,
+"status": "updated"
+},
+{
+"id": 15077,
+"name": "Heavy Scorpid Bracers",
+"quality": 2,
+"ilvl": 51,
+"reqlevel": 46,
+"slot": 9,
+"classs": 4,
+"subclass": 3,
+"armor": 122,
+"spell": 19048,
+"status": "updated"
+},
+{
+"id": 15078,
+"name": "Heavy Scorpid Gauntlet",
+"quality": 2,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 186,
+"spell": 19064,
+"status": "updated"
+},
+{
+"id": 15079,
+"name": "Heavy Scorpid Leggings",
+"quality": 2,
+"ilvl": 57,
+"reqlevel": 52,
+"slot": 7,
+"classs": 4,
+"subclass": 3,
+"armor": 269,
+"spell": 19075,
+"status": "updated"
+},
+{
+"id": 15080,
+"name": "Heavy Scorpid Helm",
+"quality": 2,
+"ilvl": 59,
+"reqlevel": 54,
+"slot": 1,
+"classs": 4,
+"subclass": 3,
+"armor": 258,
+"spell": 19088,
+"status": "updated"
+},
+{
+"id": 15081,
+"name": "Heavy Scorpid Shoulders",
+"quality": 2,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 3,
+"classs": 4,
+"subclass": 3,
+"armor": 245,
+"spell": 19100,
+"status": "updated"
+},
+{
+"id": 15082,
+"name": "Heavy Scorpid Belt",
+"quality": 2,
+"ilvl": 56,
+"reqlevel": 51,
+"slot": 6,
+"classs": 4,
+"subclass": 3,
+"armor": 170,
+"spell": 19070,
+"status": "updated"
+},
+{
+"id": 15083,
+"name": "Wicked Leather Gauntlets",
+"quality": 2,
+"ilvl": 52,
+"reqlevel": 47,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 86,
+"spell": 19049,
+"status": "unchanged"
+},
+{
+"id": 15084,
+"name": "Wicked Leather Bracers",
+"quality": 2,
+"ilvl": 53,
+"reqlevel": 48,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 61,
+"spell": 19052,
+"status": "unchanged"
+},
+{
+"id": 15085,
+"name": "Wicked Leather Armor",
+"quality": 2,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 156,
+"spell": 19098,
+"status": "unchanged"
+},
+{
+"id": 15086,
+"name": "Wicked Leather Headband",
+"quality": 2,
+"ilvl": 56,
+"reqlevel": 51,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 118,
+"spell": 19071,
+"status": "updated"
+},
+{
+"id": 15087,
+"name": "Wicked Leather Pants",
+"quality": 2,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 131,
+"spell": 19083,
+"status": "unchanged"
+},
+{
+"id": 15088,
+"name": "Wicked Leather Belt",
+"quality": 2,
+"ilvl": 60,
+"reqlevel": 55,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 87,
+"spell": 19092,
+"status": "unchanged"
+},
+{
+"id": 15090,
+"name": "Runic Leather Armor",
+"quality": 2,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 158,
+"spell": 19102,
+"status": "updated"
+},
+{
+"id": 15091,
+"name": "Runic Leather Gauntlets",
+"quality": 2,
+"ilvl": 54,
+"reqlevel": 49,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 88,
+"spell": 19055,
+"status": "updated"
+},
+{
+"id": 15092,
+"name": "Runic Leather Bracers",
+"quality": 2,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 63,
+"spell": 19065,
+"status": "updated"
+},
+{
+"id": 15093,
+"name": "Runic Leather Belt",
+"quality": 2,
+"ilvl": 56,
+"reqlevel": 51,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 82,
+"spell": 19072,
+"status": "updated"
+},
+{
+"id": 15094,
+"name": "Runic Leather Headband",
+"quality": 2,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 122,
+"spell": 19082,
+"status": "updated"
+},
+{
+"id": 15095,
+"name": "Runic Leather Pants",
+"quality": 2,
+"ilvl": 60,
+"reqlevel": 55,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 135,
+"spell": 19091,
+"status": "updated"
+},
+{
+"id": 15096,
+"name": "Runic Leather Shoulders",
+"quality": 2,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 119,
+"spell": 19103,
+"status": "updated"
+},
+{
+"id": 15138,
+"name": "Onyxia Scale Cloak",
+"quality": 3,
+"ilvl": 60,
+"reqlevel": 55,
+"slot": 16,
+"classs": 4,
+"subclass": -6,
+"armor": 43,
+"spell": 19093,
+"status": "unchanged"
+},
+{
+"id": 15407,
+"name": "Cured Rugged Hide",
+"quality": 1,
+"ilvl": 50,
+"slot": 0,
+"classs": 7,
+"subclass": 6,
+"spell": 19047,
+"status": "unchanged"
+},
+{
+"id": 15564,
+"name": "Rugged Armor Kit",
+"quality": 1,
+"ilvl": 50,
+"reqlevel": 40,
+"slot": 0,
+"classs": 0,
+"subclass": 6,
+"armor": 40,
+"spell": 19058,
+"status": "updated"
+},
+{
+"id": 16982,
+"name": "Corehound Boots",
+"quality": 4,
+"ilvl": 59,
+"reqlevel": 54,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 126,
+"spell": 20853,
+"status": "unchanged"
+},
+{
+"id": 16983,
+"name": "Molten Helm",
+"quality": 4,
+"ilvl": 60,
+"reqlevel": 55,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 150,
+"spell": 20854,
+"status": "updated"
+},
+{
+"id": 16984,
+"name": "Black Dragonscale Boots",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 270,
+"spell": 20855,
+"status": "updated"
+},
+{
+"id": 17721,
+"name": "Gloves of the Greatfather",
+"quality": 2,
+"ilvl": 38,
+"reqlevel": 33,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 66,
+"spell": 21943,
+"status": "updated"
+},
+{
+"id": 18238,
+"name": "Shadowskin Gloves",
+"quality": 3,
+"ilvl": 40,
+"reqlevel": 35,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 22711,
+"status": "updated"
+},
+{
+"id": 18251,
+"name": "Core Armor Kit",
+"quality": 3,
+"ilvl": 60,
+"reqlevel": 50,
+"slot": 0,
+"classs": 0,
+"subclass": 6,
+"spell": 22727,
+"status": "updated"
+},
+{
+"id": 18504,
+"name": "Girdle of Insight",
+"quality": 3,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 98,
+"spell": 22921,
+"status": "updated"
+},
+{
+"id": 18506,
+"name": "Mongoose Boots",
+"quality": 3,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 120,
+"spell": 22922,
+"status": "unchanged"
+},
+{
+"id": 18508,
+"name": "Swift Flight Bracers",
+"quality": 3,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 9,
+"classs": 4,
+"subclass": 3,
+"armor": 160,
+"spell": 22923,
+"status": "unchanged"
+},
+{
+"id": 18509,
+"name": "Chromatic Cloak",
+"quality": 4,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 16,
+"classs": 4,
+"subclass": -6,
+"armor": 48,
+"spell": 22926,
+"status": "updated"
+},
+{
+"id": 18510,
+"name": "Hide of the Wild",
+"quality": 4,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 16,
+"classs": 4,
+"subclass": -6,
+"armor": 48,
+"spell": 22927,
+"status": "updated"
+},
+{
+"id": 18511,
+"name": "Shifting Cloak",
+"quality": 4,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 16,
+"classs": 4,
+"subclass": -6,
+"armor": 48,
+"spell": 22928,
+"status": "updated"
+},
+{
+"id": 18662,
+"name": "Heavy Leather Ball",
+"quality": 1,
+"ilvl": 1,
+"slot": 0,
+"classs": 0,
+"subclass": 8,
+"spell": 23190,
+"status": "unchanged"
+},
+{
+"id": 18948,
+"name": "Barbaric Bracers",
+"quality": 3,
+"ilvl": 32,
+"reqlevel": 27,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 47,
+"spell": 23399,
+"status": "updated"
+},
+{
+"id": 19043,
+"name": "Heavy Timbermaw Belt",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 6,
+"classs": 4,
+"subclass": 3,
+"armor": 193,
+"spell": 23628,
+"status": "unchanged"
+},
+{
+"id": 19044,
+"name": "Might of the Timbermaw",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 93,
+"spell": 23703,
+"status": "updated"
+},
+{
+"id": 19048,
+"name": "Heavy Timbermaw Boots",
+"quality": 3,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 247,
+"spell": 23629,
+"status": "updated"
+},
+{
+"id": 19049,
+"name": "Timbermaw Brawlers",
+"quality": 3,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 107,
+"spell": 23704,
+"status": "updated"
+},
+{
+"id": 19052,
+"name": "Dawn Treaders",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 114,
+"spell": 23705,
+"status": "updated"
+},
+{
+"id": 19058,
+"name": "Golden Mantle of the Dawn",
+"quality": 3,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 129,
+"spell": 23706,
+"status": "updated"
+},
+{
+"id": 19149,
+"name": "Lava Belt",
+"quality": 4,
+"ilvl": 66,
+"reqlevel": 60,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 113,
+"spell": 23707,
+"status": "updated"
+},
+{
+"id": 19157,
+"name": "Chromatic Gauntlets",
+"quality": 4,
+"ilvl": 70,
+"reqlevel": 60,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 279,
+"spell": 23708,
+"status": "updated"
+},
+{
+"id": 19162,
+"name": "Corehound Belt",
+"quality": 4,
+"ilvl": 70,
+"reqlevel": 60,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 118,
+"spell": 23709,
+"status": "updated"
+},
+{
+"id": 19163,
+"name": "Molten Belt",
+"quality": 4,
+"ilvl": 70,
+"reqlevel": 60,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 118,
+"spell": 23710,
+"status": "unchanged"
+},
+{
+"id": 19685,
+"name": "Primal Batskin Jerkin",
+"quality": 3,
+"ilvl": 65,
+"reqlevel": 60,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 181,
+"spell": 24121,
+"status": "updated"
+},
+{
+"id": 19686,
+"name": "Primal Batskin Gloves",
+"quality": 3,
+"ilvl": 65,
+"reqlevel": 60,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 113,
+"spell": 24122,
+"status": "updated"
+},
+{
+"id": 19687,
+"name": "Primal Batskin Bracers",
+"quality": 3,
+"ilvl": 65,
+"reqlevel": 60,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 79,
+"spell": 24123,
+"status": "updated"
+},
+{
+"id": 19688,
+"name": "Blood Tiger Breastplate",
+"quality": 3,
+"ilvl": 65,
+"reqlevel": 60,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 181,
+"spell": 24124,
+"status": "unchanged"
+},
+{
+"id": 19689,
+"name": "Blood Tiger Shoulders",
+"quality": 3,
+"ilvl": 65,
+"reqlevel": 60,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 136,
+"spell": 24125,
+"status": "unchanged"
+},
+{
+"id": 20295,
+"name": "Blue Dragonscale Leggings",
+"quality": 3,
+"ilvl": 60,
+"reqlevel": 55,
+"slot": 7,
+"classs": 4,
+"subclass": 3,
+"armor": 310,
+"spell": 24654,
+"status": "updated"
+},
+{
+"id": 20296,
+"name": "Green Dragonscale Gauntlets",
+"quality": 3,
+"ilvl": 56,
+"reqlevel": 51,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 208,
+"spell": 24655,
+"status": "updated"
+},
+{
+"id": 20380,
+"name": "Dreamscale Breastplate",
+"quality": 4,
+"ilvl": 68,
+"reqlevel": 60,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 434,
+"spell": 24703,
+"status": "unchanged"
+},
+{
+"id": 20476,
+"name": "Sandstalker Bracers",
+"quality": 3,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 9,
+"classs": 4,
+"subclass": 3,
+"armor": 160,
+"spell": 24849,
+"status": "updated"
+},
+{
+"id": 20477,
+"name": "Sandstalker Gauntlets",
+"quality": 3,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 228,
+"spell": 24850,
+"status": "updated"
+},
+{
+"id": 20478,
+"name": "Sandstalker Breastplate",
+"quality": 3,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 365,
+"spell": 24851,
+"status": "updated"
+},
+{
+"id": 20479,
+"name": "Spitfire Breastplate",
+"quality": 3,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 365,
+"spell": 24848,
+"status": "updated"
+},
+{
+"id": 20480,
+"name": "Spitfire Gauntlets",
+"quality": 3,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 228,
+"spell": 24847,
+"status": "updated"
+},
+{
+"id": 20481,
+"name": "Spitfire Bracers",
+"quality": 3,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 9,
+"classs": 4,
+"subclass": 3,
+"armor": 160,
+"spell": 24846,
+"status": "updated"
+},
+{
+"id": 20575,
+"name": "Black Whelp Tunic",
+"quality": 2,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 78,
+"spell": 24940,
+"status": "updated"
+},
+{
+"id": 21278,
+"name": "Stormshroud Gloves",
+"quality": 3,
+"ilvl": 62,
+"reqlevel": 57,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 109,
+"spell": 26279,
+"status": "updated"
+},
+{
+"id": 22661,
+"name": "Polar Tunic",
+"quality": 4,
+"ilvl": 80,
+"reqlevel": 60,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 234,
+"spell": 28219,
+"status": "unchanged"
+},
+{
+"id": 22662,
+"name": "Polar Gloves",
+"quality": 4,
+"ilvl": 80,
+"reqlevel": 60,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 146,
+"spell": 28220,
+"status": "unchanged"
+},
+{
+"id": 22663,
+"name": "Polar Bracers",
+"quality": 4,
+"ilvl": 80,
+"reqlevel": 60,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 102,
+"spell": 28221,
+"status": "unchanged"
+},
+{
+"id": 22664,
+"name": "Icy Scale Breastplate",
+"quality": 4,
+"ilvl": 80,
+"reqlevel": 60,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 506,
+"spell": 28222,
+"status": "unchanged"
+},
+{
+"id": 22665,
+"name": "Icy Scale Bracers",
+"quality": 4,
+"ilvl": 80,
+"reqlevel": 60,
+"slot": 9,
+"classs": 4,
+"subclass": 3,
+"armor": 221,
+"spell": 28224,
+"status": "unchanged"
+},
+{
+"id": 22666,
+"name": "Icy Scale Gauntlets",
+"quality": 4,
+"ilvl": 80,
+"reqlevel": 60,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 316,
+"spell": 28223,
+"status": "unchanged"
+},
+{
+"id": 22759,
+"name": "Bramblewood Helm",
+"quality": 3,
+"ilvl": 70,
+"reqlevel": 60,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 156,
+"spell": 28472,
+"status": "unchanged"
+},
+{
+"id": 22760,
+"name": "Bramblewood Boots",
+"quality": 3,
+"ilvl": 70,
+"reqlevel": 60,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 132,
+"spell": 28473,
+"status": "unchanged"
+},
+{
+"id": 22761,
+"name": "Bramblewood Belt",
+"quality": 3,
+"ilvl": 70,
+"reqlevel": 60,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 108,
+"spell": 28474,
+"status": "updated"
+},
+{
+"id": 34086,
+"name": "Winter Boots",
+"quality": 1,
+"ilvl": 1,
+"slot": 8,
+"classs": 4,
+"subclass": 5,
+"armor": 0,
+"spell": 44953,
+"status": "new"
+},
+{
+"id": 213369,
+"name": "Faintly Glowing Leather",
+"quality": 3,
+"ilvl": 40,
+"slot": 0,
+"classs": 7,
+"subclass": 6,
+"spell": 435819,
+"status": "unchanged"
+},
+{
+"id": 217270,
+"name": "Turtle Scale Gloves",
+"quality": 2,
+"ilvl": 41,
+"reqlevel": 36,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 146,
+"spell": 439118,
+"status": "unchanged"
+},
+{
+"id": 252424,
+"name": "Black Whelp Slippers",
+"quality": 3,
+"ilvl": 15,
+"reqlevel": 10,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 53,
+"spell": 1255146,
+"status": "new"
+},
+{
+"id": 252425,
+"name": "Dark Leather Boots",
+"quality": 3,
+"ilvl": 15,
+"reqlevel": 10,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 53,
+"spell": 1255145,
+"status": "new"
+},
+{
+"id": 252426,
+"name": "Murloc Scale Shoes",
+"quality": 3,
+"ilvl": 15,
+"reqlevel": 10,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 53,
+"spell": 1255144,
+"status": "new"
+},
+{
+"id": 252427,
+"name": "Moonglow Boots",
+"quality": 3,
+"ilvl": 15,
+"reqlevel": 10,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 53,
+"spell": 1255143,
+"status": "new"
+},
+{
+"id": 252428,
+"name": "Brawler's Leather Belt",
+"quality": 3,
+"ilvl": 17,
+"reqlevel": 12,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 45,
+"spell": 1255142,
+"status": "new"
+},
+{
+"id": 252429,
+"name": "Trapper's Leather Belt",
+"quality": 3,
+"ilvl": 17,
+"reqlevel": 12,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 45,
+"spell": 1255141,
+"status": "new"
+},
+{
+"id": 252430,
+"name": "Defender's Leather Belt",
+"quality": 3,
+"ilvl": 17,
+"reqlevel": 12,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 45,
+"spell": 1255140,
+"status": "new"
+},
+{
+"id": 252431,
+"name": "Totemic Leather Belt",
+"quality": 3,
+"ilvl": 17,
+"reqlevel": 12,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 45,
+"spell": 1255139,
+"status": "new"
+},
+{
+"id": 252432,
+"name": "Stormrider's Leather Belt",
+"quality": 3,
+"ilvl": 17,
+"reqlevel": 12,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 45,
+"spell": 1255138,
+"status": "new"
+},
+{
+"id": 252433,
+"name": "Wisdom's Leather Belt",
+"quality": 3,
+"ilvl": 17,
+"reqlevel": 12,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 45,
+"spell": 1255137,
+"status": "new"
+},
+{
+"id": 252434,
+"name": "Defender's Leather Armor",
+"quality": 3,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 85,
+"spell": 1255134,
+"status": "new"
+},
+{
+"id": 252435,
+"name": "Totemic Leather Armor",
+"quality": 3,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 85,
+"spell": 1255133,
+"status": "new"
+},
+{
+"id": 252436,
+"name": "Mystic Medium Armor Kit",
+"quality": 2,
+"ilvl": 15,
+"reqlevel": 15,
+"slot": 0,
+"classs": 0,
+"subclass": 6,
+"armor": 16,
+"spell": 1255124,
+"status": "new"
+},
+{
+"id": 252437,
+"name": "Forceful Medium Armor Kit",
+"quality": 2,
+"ilvl": 15,
+"reqlevel": 15,
+"slot": 0,
+"classs": 0,
+"subclass": 6,
+"armor": 16,
+"spell": 1255123,
+"status": "new"
+},
+{
+"id": 252439,
+"name": "Brawler's Leather Boots",
+"quality": 3,
+"ilvl": 22,
+"reqlevel": 17,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 61,
+"spell": 1255121,
+"status": "new"
+},
+{
+"id": 252440,
+"name": "Trapper's Leather Boots",
+"quality": 3,
+"ilvl": 22,
+"reqlevel": 17,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 61,
+"spell": 1255120,
+"status": "new"
+},
+{
+"id": 252441,
+"name": "Defender's Leather Boots",
+"quality": 3,
+"ilvl": 22,
+"reqlevel": 17,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 61,
+"spell": 1255119,
+"status": "new"
+},
+{
+"id": 252442,
+"name": "Totemic Leather Boots",
+"quality": 3,
+"ilvl": 22,
+"reqlevel": 17,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 61,
+"spell": 1255118,
+"status": "new"
+},
+{
+"id": 252443,
+"name": "Stormrider's Leather Boots",
+"quality": 3,
+"ilvl": 22,
+"reqlevel": 17,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 61,
+"spell": 1255117,
+"status": "new"
+},
+{
+"id": 252444,
+"name": "Wisdom's Leather Boots",
+"quality": 3,
+"ilvl": 22,
+"reqlevel": 17,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 61,
+"spell": 1255116,
+"status": "new"
+},
+{
+"id": 252445,
+"name": "Defender's Leather Pants",
+"quality": 3,
+"ilvl": 25,
+"reqlevel": 20,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 82,
+"spell": 1255113,
+"status": "new"
+},
+{
+"id": 252446,
+"name": "Totemic Leather Pants",
+"quality": 3,
+"ilvl": 25,
+"reqlevel": 20,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 82,
+"spell": 1255112,
+"status": "new"
+},
+{
+"id": 252447,
+"name": "Defender's Leather Hood",
+"quality": 3,
+"ilvl": 25,
+"reqlevel": 20,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1255107,
+"status": "new"
+},
+{
+"id": 252448,
+"name": "Totemic Leather Hood",
+"quality": 3,
+"ilvl": 25,
+"reqlevel": 20,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1255106,
+"status": "new"
+},
+{
+"id": 252449,
+"name": "Hillman's Leather Boots",
+"quality": 2,
+"ilvl": 27,
+"reqlevel": 22,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 61,
+"spell": 1255103,
+"status": "new"
+},
+{
+"id": 252450,
+"name": "Defender's Leather Tunic",
+"quality": 3,
+"ilvl": 27,
+"reqlevel": 22,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 98,
+"spell": 1255100,
+"status": "new"
+},
+{
+"id": 252451,
+"name": "Totemic Leather Tunic",
+"quality": 3,
+"ilvl": 27,
+"reqlevel": 22,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 98,
+"spell": 1255099,
+"status": "new"
+},
+{
+"id": 252452,
+"name": "Mystic Heavy Armor Kit",
+"quality": 2,
+"ilvl": 30,
+"reqlevel": 30,
+"slot": 0,
+"classs": 0,
+"subclass": 6,
+"armor": 24,
+"spell": 1255096,
+"status": "new"
+},
+{
+"id": 252453,
+"name": "Forceful Heavy Armor Kit",
+"quality": 2,
+"ilvl": 30,
+"reqlevel": 30,
+"slot": 0,
+"classs": 0,
+"subclass": 6,
+"armor": 24,
+"spell": 1255095,
+"status": "new"
+},
+{
+"id": 252455,
+"name": "Defender's Leather Helm",
+"quality": 3,
+"ilvl": 30,
+"reqlevel": 25,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 84,
+"spell": 1255091,
+"status": "new"
+},
+{
+"id": 252456,
+"name": "Totemic Leather Helm",
+"quality": 3,
+"ilvl": 30,
+"reqlevel": 25,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 84,
+"spell": 1255090,
+"status": "new"
+},
+{
+"id": 252457,
+"name": "Defender's Leather Kilt",
+"quality": 3,
+"ilvl": 30,
+"reqlevel": 25,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 90,
+"spell": 1255085,
+"status": "new"
+},
+{
+"id": 252458,
+"name": "Totemic Leather Leggings",
+"quality": 3,
+"ilvl": 30,
+"reqlevel": 25,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 90,
+"spell": 1255084,
+"status": "new"
+},
+{
+"id": 252459,
+"name": "Prowler's Leather Belt",
+"quality": 3,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 63,
+"spell": 1255081,
+"status": "new"
+},
+{
+"id": 252460,
+"name": "Warden's Leather Belt",
+"quality": 3,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 63,
+"spell": 1255078,
+"status": "new"
+},
+{
+"id": 252461,
+"name": "Skirmisher's Leather Belt",
+"quality": 3,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 63,
+"spell": 1255077,
+"status": "new"
+},
+{
+"id": 252462,
+"name": "Mystic Thick Armor Kit",
+"quality": 2,
+"ilvl": 40,
+"reqlevel": 40,
+"slot": 0,
+"classs": 0,
+"subclass": 6,
+"armor": 32,
+"spell": 1255074,
+"status": "new"
+},
+{
+"id": 252463,
+"name": "Forceful Thick Armor Kit",
+"quality": 2,
+"ilvl": 40,
+"reqlevel": 40,
+"slot": 0,
+"classs": 0,
+"subclass": 6,
+"armor": 32,
+"spell": 1255073,
+"status": "new"
+},
+{
+"id": 252465,
+"name": "Prowler's Leather Shoes",
+"quality": 3,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 92,
+"spell": 1255064,
+"status": "new"
+},
+{
+"id": 252466,
+"name": "Warden's Leather Shoes",
+"quality": 3,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 92,
+"spell": 1255062,
+"status": "new"
+},
+{
+"id": 252467,
+"name": "Blue Suede Shoes",
+"quality": 2,
+"ilvl": 52,
+"reqlevel": 47,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 94,
+"spell": 1255048,
+"status": "new"
+},
+{
+"id": 252468,
+"name": "Prowler's Leather Boots",
+"quality": 3,
+"ilvl": 52,
+"reqlevel": 47,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 104,
+"spell": 1255047,
+"status": "new"
+},
+{
+"id": 252469,
+"name": "Skulker's Leather Boots",
+"quality": 3,
+"ilvl": 52,
+"reqlevel": 47,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 104,
+"spell": 1255046,
+"status": "new"
+},
+{
+"id": 252470,
+"name": "Warden's Leather Boots",
+"quality": 3,
+"ilvl": 52,
+"reqlevel": 47,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 104,
+"spell": 1255045,
+"status": "new"
+},
+{
+"id": 252471,
+"name": "Skycaller's Leather Boots",
+"quality": 3,
+"ilvl": 52,
+"reqlevel": 47,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 104,
+"spell": 1255044,
+"status": "new"
+},
+{
+"id": 252472,
+"name": "Mender's Leather Boots",
+"quality": 3,
+"ilvl": 52,
+"reqlevel": 47,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 104,
+"spell": 1255043,
+"status": "new"
+},
+{
+"id": 252473,
+"name": "Prowler's Leather Waistguard",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 89,
+"spell": 1255035,
+"status": "new"
+},
+{
+"id": 252474,
+"name": "Skulker's Leather Waistguard",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 89,
+"spell": 1255034,
+"status": "new"
+},
+{
+"id": 252475,
+"name": "Warden's Leather Waistguard",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 89,
+"spell": 1255033,
+"status": "new"
+},
+{
+"id": 252476,
+"name": "Skycaller's Leather Waistguard",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 89,
+"spell": 1255032,
+"status": "new"
+},
+{
+"id": 252477,
+"name": "Mender's Leather Waistguard",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 89,
+"spell": 1255031,
+"status": "new"
+},
+{
+"id": 252478,
+"name": "Blue Suede Pants",
+"quality": 2,
+"ilvl": 56,
+"reqlevel": 51,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 127,
+"spell": 1255029,
+"status": "new"
+},
+{
+"id": 252479,
+"name": "Wicked Leather Boots",
+"quality": 2,
+"ilvl": 57,
+"reqlevel": 52,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 102,
+"spell": 1255028,
+"status": "new"
+},
+{
+"id": 252480,
+"name": "Blue Suede Armor",
+"quality": 2,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 150,
+"spell": 1255024,
+"status": "new"
+},
+{
+"id": 252481,
+"name": "Blue Suede Belt",
+"quality": 2,
+"ilvl": 59,
+"reqlevel": 54,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 86,
+"spell": 1255021,
+"status": "new"
+},
+{
+"id": 252482,
+"name": "Blue Suede Hat",
+"quality": 2,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 127,
+"spell": 1255017,
+"status": "new"
+},
+{
+"id": 252483,
+"name": "Dawn Armor",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 187,
+"spell": 1255015,
+"status": "new"
+},
+{
+"id": 252484,
+"name": "Timbermaw Tunic",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 187,
+"spell": 1255014,
+"status": "new"
+},
+{
+"id": 252485,
+"name": "Warbear Helm",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 152,
+"spell": 1255013,
+"status": "new"
+},
+{
+"id": 252486,
+"name": "Ironfeather Leggings",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 164,
+"spell": 1255012,
+"status": "new"
+},
+{
+"id": 252487,
+"name": "Mystic Rugged Armor Kit",
+"quality": 2,
+"ilvl": 50,
+"reqlevel": 50,
+"slot": 0,
+"classs": 0,
+"subclass": 6,
+"armor": 40,
+"spell": 1254966,
+"status": "new"
+},
+{
+"id": 252488,
+"name": "Forceful Rugged Armor Kit",
+"quality": 2,
+"ilvl": 50,
+"reqlevel": 50,
+"slot": 0,
+"classs": 0,
+"subclass": 6,
+"armor": 40,
+"spell": 1254965,
+"status": "new"
+},
+{
+"id": 252490,
+"name": "Brawler's Leather Armor",
+"quality": 3,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 85,
+"spell": 1255136,
+"status": "new"
+},
+{
+"id": 252491,
+"name": "Trapper's Leather Armor",
+"quality": 3,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 85,
+"spell": 1255135,
+"status": "new"
+},
+{
+"id": 252492,
+"name": "Stormrider's Leather Armor",
+"quality": 3,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 85,
+"spell": 1255132,
+"status": "new"
+},
+{
+"id": 252493,
+"name": "Wisdom's Leather Armor",
+"quality": 3,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 85,
+"spell": 1255131,
+"status": "new"
+},
+{
+"id": 252494,
+"name": "Brawler's Leather Gloves",
+"quality": 3,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 53,
+"spell": 1255130,
+"status": "new"
+},
+{
+"id": 252495,
+"name": "Trapper's Leather Gloves",
+"quality": 3,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 53,
+"spell": 1255129,
+"status": "new"
+},
+{
+"id": 252496,
+"name": "Defender's Leather Gloves",
+"quality": 3,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 53,
+"spell": 1255128,
+"status": "new"
+},
+{
+"id": 252497,
+"name": "Totemic Leather Gloves",
+"quality": 3,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 53,
+"spell": 1255127,
+"status": "new"
+},
+{
+"id": 252498,
+"name": "Stormrider's Leather Gloves",
+"quality": 3,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 53,
+"spell": 1255126,
+"status": "new"
+},
+{
+"id": 252499,
+"name": "Wisdom's Leather Gloves",
+"quality": 3,
+"ilvl": 20,
+"reqlevel": 15,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 53,
+"spell": 1255125,
+"status": "new"
+},
+{
+"id": 252500,
+"name": "Brawler's Leather Pants",
+"quality": 3,
+"ilvl": 25,
+"reqlevel": 20,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 82,
+"spell": 1255115,
+"status": "new"
+},
+{
+"id": 252501,
+"name": "Trapper's Leather Pants",
+"quality": 3,
+"ilvl": 25,
+"reqlevel": 20,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 82,
+"spell": 1255114,
+"status": "new"
+},
+{
+"id": 252502,
+"name": "Stormrider's Leather Pants",
+"quality": 3,
+"ilvl": 25,
+"reqlevel": 20,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 82,
+"spell": 1255111,
+"status": "new"
+},
+{
+"id": 252503,
+"name": "Wisdom's Leather Pants",
+"quality": 3,
+"ilvl": 25,
+"reqlevel": 20,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 82,
+"spell": 1255110,
+"status": "new"
+},
+{
+"id": 252504,
+"name": "Brawler's Leather Hood",
+"quality": 3,
+"ilvl": 25,
+"reqlevel": 20,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1255109,
+"status": "new"
+},
+{
+"id": 252505,
+"name": "Trapper's Leather Hood",
+"quality": 3,
+"ilvl": 25,
+"reqlevel": 20,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1255108,
+"status": "new"
+},
+{
+"id": 252506,
+"name": "Stormrider's Leather Hood",
+"quality": 3,
+"ilvl": 25,
+"reqlevel": 20,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1255105,
+"status": "new"
+},
+{
+"id": 252507,
+"name": "Wisdom's Leather Hood",
+"quality": 3,
+"ilvl": 25,
+"reqlevel": 20,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1255104,
+"status": "new"
+},
+{
+"id": 252508,
+"name": "Brawler's Leather Tunic",
+"quality": 3,
+"ilvl": 27,
+"reqlevel": 22,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 98,
+"spell": 1255102,
+"status": "new"
+},
+{
+"id": 252509,
+"name": "Trapper's Leather Tunic",
+"quality": 3,
+"ilvl": 27,
+"reqlevel": 22,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 98,
+"spell": 1255101,
+"status": "new"
+},
+{
+"id": 252510,
+"name": "Stormrider's Leather Tunic",
+"quality": 3,
+"ilvl": 27,
+"reqlevel": 22,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 98,
+"spell": 1255098,
+"status": "new"
+},
+{
+"id": 252511,
+"name": "Wisdom's Leather Tunic",
+"quality": 3,
+"ilvl": 27,
+"reqlevel": 22,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 98,
+"spell": 1255097,
+"status": "new"
+},
+{
+"id": 252512,
+"name": "Brawler's Leather Helm",
+"quality": 3,
+"ilvl": 30,
+"reqlevel": 25,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 84,
+"spell": 1255093,
+"status": "new"
+},
+{
+"id": 252513,
+"name": "Trapper's Leather Helm",
+"quality": 3,
+"ilvl": 30,
+"reqlevel": 25,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 84,
+"spell": 1255092,
+"status": "new"
+},
+{
+"id": 252514,
+"name": "Stormrider's Leather Helm",
+"quality": 3,
+"ilvl": 30,
+"reqlevel": 25,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 84,
+"spell": 1255089,
+"status": "new"
+},
+{
+"id": 252515,
+"name": "Wisdom's Leather Helm",
+"quality": 3,
+"ilvl": 30,
+"reqlevel": 25,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 84,
+"spell": 1255088,
+"status": "new"
+},
+{
+"id": 252516,
+"name": "Brawler's Leather Legguards",
+"quality": 3,
+"ilvl": 30,
+"reqlevel": 25,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 90,
+"spell": 1255087,
+"status": "new"
+},
+{
+"id": 252517,
+"name": "Trapper's Leather Legguards",
+"quality": 3,
+"ilvl": 30,
+"reqlevel": 25,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 90,
+"spell": 1255086,
+"status": "new"
+},
+{
+"id": 252518,
+"name": "Stormrider's Leather Kilt",
+"quality": 3,
+"ilvl": 30,
+"reqlevel": 25,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 90,
+"spell": 1255083,
+"status": "new"
+},
+{
+"id": 252519,
+"name": "Wisdom's Leather Leggings",
+"quality": 3,
+"ilvl": 30,
+"reqlevel": 25,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 90,
+"spell": 1255082,
+"status": "new"
+},
+{
+"id": 252520,
+"name": "Skulker's Leather Belt",
+"quality": 3,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 63,
+"spell": 1255080,
+"status": "new"
+},
+{
+"id": 252521,
+"name": "Stalker's Leather Belt",
+"quality": 3,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 63,
+"spell": 1255079,
+"status": "new"
+},
+{
+"id": 252522,
+"name": "Skycaller's Leather Belt",
+"quality": 3,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 63,
+"spell": 1255076,
+"status": "new"
+},
+{
+"id": 252523,
+"name": "Mender's Leather Belt",
+"quality": 3,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 63,
+"spell": 1255075,
+"status": "new"
+},
+{
+"id": 252524,
+"name": "Prowler's Leather Gloves",
+"quality": 3,
+"ilvl": 40,
+"reqlevel": 35,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1255071,
+"status": "new"
+},
+{
+"id": 252525,
+"name": "Skulker's Leather Gloves",
+"quality": 3,
+"ilvl": 40,
+"reqlevel": 35,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1255070,
+"status": "new"
+},
+{
+"id": 252526,
+"name": "Stalker's Leather Gloves",
+"quality": 3,
+"ilvl": 40,
+"reqlevel": 35,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1255069,
+"status": "new"
+},
+{
+"id": 252527,
+"name": "Warden's Leather Gloves",
+"quality": 3,
+"ilvl": 40,
+"reqlevel": 35,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1255068,
+"status": "new"
+},
+{
+"id": 252528,
+"name": "Skirmisher's Leather Gloves",
+"quality": 3,
+"ilvl": 40,
+"reqlevel": 35,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1255067,
+"status": "new"
+},
+{
+"id": 252529,
+"name": "Skycaller's Leather Gloves",
+"quality": 3,
+"ilvl": 40,
+"reqlevel": 35,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1255066,
+"status": "new"
+},
+{
+"id": 252530,
+"name": "Mender's Leather Gloves",
+"quality": 3,
+"ilvl": 40,
+"reqlevel": 35,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1255065,
+"status": "new"
+},
+{
+"id": 252531,
+"name": "Skulker's Leather Shoes",
+"quality": 3,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 92,
+"spell": 1255063,
+"status": "new"
+},
+{
+"id": 252532,
+"name": "Skycaller's Leather Shoes",
+"quality": 3,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 92,
+"spell": 1255061,
+"status": "new"
+},
+{
+"id": 252533,
+"name": "Mender's Leather Shoes",
+"quality": 3,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 92,
+"spell": 1255060,
+"status": "new"
+},
+{
+"id": 252534,
+"name": "Prowler's Leather Shoulders",
+"quality": 3,
+"ilvl": 47,
+"reqlevel": 42,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 104,
+"spell": 1255059,
+"status": "new"
+},
+{
+"id": 252535,
+"name": "Skulker's Leather Shoulder",
+"quality": 3,
+"ilvl": 47,
+"reqlevel": 42,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 104,
+"spell": 1255058,
+"status": "new"
+},
+{
+"id": 252536,
+"name": "Warden's Leather Shoulders",
+"quality": 3,
+"ilvl": 47,
+"reqlevel": 42,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 104,
+"spell": 1255057,
+"status": "new"
+},
+{
+"id": 252537,
+"name": "Skycaller's Leather Shoulders",
+"quality": 3,
+"ilvl": 47,
+"reqlevel": 42,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 104,
+"spell": 1255056,
+"status": "new"
+},
+{
+"id": 252538,
+"name": "Mender's Leather Shoulders",
+"quality": 3,
+"ilvl": 47,
+"reqlevel": 42,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 104,
+"spell": 1255055,
+"status": "new"
+},
+{
+"id": 252539,
+"name": "Prowler's Leather Bracers",
+"quality": 3,
+"ilvl": 50,
+"reqlevel": 45,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 64,
+"spell": 1255054,
+"status": "new"
+},
+{
+"id": 252540,
+"name": "Skulker's Leather Bracers",
+"quality": 3,
+"ilvl": 50,
+"reqlevel": 45,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 64,
+"spell": 1255053,
+"status": "new"
+},
+{
+"id": 252541,
+"name": "Warden's Leather Bracers",
+"quality": 3,
+"ilvl": 50,
+"reqlevel": 45,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 64,
+"spell": 1255052,
+"status": "new"
+},
+{
+"id": 252542,
+"name": "Skycaller's Leather Bracers",
+"quality": 3,
+"ilvl": 50,
+"reqlevel": 45,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 64,
+"spell": 1255051,
+"status": "new"
+},
+{
+"id": 252543,
+"name": "Mender's Leather Bracers",
+"quality": 3,
+"ilvl": 50,
+"reqlevel": 45,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 64,
+"spell": 1255050,
+"status": "new"
+},
+{
+"id": 252544,
+"name": "Tooled Leather Belt",
+"quality": 2,
+"ilvl": 52,
+"reqlevel": 47,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 77,
+"spell": 1255049,
+"status": "new"
+},
+{
+"id": 252545,
+"name": "Tooled Leather Boots",
+"quality": 2,
+"ilvl": 53,
+"reqlevel": 48,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 96,
+"spell": 1255042,
+"status": "new"
+},
+{
+"id": 252546,
+"name": "Blue Suede Gloves",
+"quality": 2,
+"ilvl": 53,
+"reqlevel": 48,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 87,
+"spell": 1255041,
+"status": "new"
+},
+{
+"id": 252547,
+"name": "Prowler's Leather Gauntlets",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 99,
+"spell": 1255040,
+"status": "new"
+},
+{
+"id": 252548,
+"name": "Skulker's Leather Gauntlets",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 99,
+"spell": 1255039,
+"status": "new"
+},
+{
+"id": 252549,
+"name": "Warden's Leather Gauntlets",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 99,
+"spell": 1255038,
+"status": "new"
+},
+{
+"id": 252550,
+"name": "Skycaller's Leather Gauntlets",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 99,
+"spell": 1255037,
+"status": "new"
+},
+{
+"id": 252551,
+"name": "Mender's Leather Gauntlets",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 99,
+"spell": 1255036,
+"status": "new"
+},
+{
+"id": 252552,
+"name": "Tooled Leather Armor",
+"quality": 2,
+"ilvl": 56,
+"reqlevel": 51,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 146,
+"spell": 1255030,
+"status": "new"
+},
+{
+"id": 252553,
+"name": "Tooled Leather Gauntlets",
+"quality": 2,
+"ilvl": 57,
+"reqlevel": 52,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 92,
+"spell": 1255027,
+"status": "new"
+},
+{
+"id": 252554,
+"name": "Blue Suede Shoulders",
+"quality": 2,
+"ilvl": 57,
+"reqlevel": 52,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 111,
+"spell": 1255026,
+"status": "new"
+},
+{
+"id": 252555,
+"name": "Tooled Leather Crown",
+"quality": 2,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 122,
+"spell": 1255025,
+"status": "new"
+},
+{
+"id": 252556,
+"name": "Wicked Leather Shoulders",
+"quality": 2,
+"ilvl": 59,
+"reqlevel": 54,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 114,
+"spell": 1255023,
+"status": "new"
+},
+{
+"id": 252557,
+"name": "Tooled Leather Bracers",
+"quality": 2,
+"ilvl": 59,
+"reqlevel": 54,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 67,
+"spell": 1255022,
+"status": "new"
+},
+{
+"id": 252558,
+"name": "Tooled Leather Epaulets",
+"quality": 2,
+"ilvl": 60,
+"reqlevel": 55,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 115,
+"spell": 1255020,
+"status": "new"
+},
+{
+"id": 252559,
+"name": "Blue Suede Bracers",
+"quality": 2,
+"ilvl": 60,
+"reqlevel": 55,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 67,
+"spell": 1255019,
+"status": "new"
+},
+{
+"id": 252560,
+"name": "Tooled Leather Pants",
+"quality": 2,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 136,
+"spell": 1255018,
+"status": "new"
+},
+{
+"id": 252561,
+"name": "Living Crown",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 152,
+"spell": 1255016,
+"status": "new"
+},
+{
+"id": 252562,
+"name": "Stalker's Mail Boots",
+"quality": 3,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 188,
+"spell": 1255011,
+"status": "new"
+},
+{
+"id": 252563,
+"name": "Skycaller's Mail Boots",
+"quality": 3,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 188,
+"spell": 1255010,
+"status": "new"
+},
+{
+"id": 252564,
+"name": "Skirmisher's Mail Boots",
+"quality": 3,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 188,
+"spell": 1255009,
+"status": "new"
+},
+{
+"id": 252565,
+"name": "Mender's Mail Boots",
+"quality": 3,
+"ilvl": 45,
+"reqlevel": 40,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 188,
+"spell": 1255008,
+"status": "new"
+},
+{
+"id": 252566,
+"name": "Stalker's Mail Shoulders",
+"quality": 3,
+"ilvl": 47,
+"reqlevel": 42,
+"slot": 3,
+"classs": 4,
+"subclass": 3,
+"armor": 213,
+"spell": 1255007,
+"status": "new"
+},
+{
+"id": 252567,
+"name": "Skycaller's Mail Shoulders",
+"quality": 3,
+"ilvl": 47,
+"reqlevel": 42,
+"slot": 3,
+"classs": 4,
+"subclass": 3,
+"armor": 213,
+"spell": 1255006,
+"status": "new"
+},
+{
+"id": 252568,
+"name": "Skirmisher's Mail Shoulders",
+"quality": 3,
+"ilvl": 47,
+"reqlevel": 42,
+"slot": 3,
+"classs": 4,
+"subclass": 3,
+"armor": 213,
+"spell": 1255005,
+"status": "new"
+},
+{
+"id": 252569,
+"name": "Mender's Mail Shoulders",
+"quality": 3,
+"ilvl": 47,
+"reqlevel": 42,
+"slot": 3,
+"classs": 4,
+"subclass": 3,
+"armor": 213,
+"spell": 1255004,
+"status": "new"
+},
+{
+"id": 252570,
+"name": "Stalker's Mail Bracers",
+"quality": 3,
+"ilvl": 50,
+"reqlevel": 45,
+"slot": 9,
+"classs": 4,
+"subclass": 3,
+"armor": 131,
+"spell": 1255003,
+"status": "new"
+},
+{
+"id": 252571,
+"name": "Skycaller's Mail Bracers",
+"quality": 3,
+"ilvl": 50,
+"reqlevel": 45,
+"slot": 9,
+"classs": 4,
+"subclass": 3,
+"armor": 131,
+"spell": 1255002,
+"status": "new"
+},
+{
+"id": 252572,
+"name": "Skirmisher's Mail Bracers",
+"quality": 3,
+"ilvl": 50,
+"reqlevel": 45,
+"slot": 9,
+"classs": 4,
+"subclass": 3,
+"armor": 131,
+"spell": 1255001,
+"status": "new"
+},
+{
+"id": 252573,
+"name": "Mender's Mail Bracers",
+"quality": 3,
+"ilvl": 50,
+"reqlevel": 45,
+"slot": 9,
+"classs": 4,
+"subclass": 3,
+"armor": 131,
+"spell": 1255000,
+"status": "new"
+},
+{
+"id": 252574,
+"name": "Supple Scorpid Boots",
+"quality": 2,
+"ilvl": 51,
+"reqlevel": 46,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 191,
+"spell": 1254999,
+"status": "new"
+},
+{
+"id": 252575,
+"name": "Charged Scorpid Belt",
+"quality": 2,
+"ilvl": 51,
+"reqlevel": 46,
+"slot": 6,
+"classs": 4,
+"subclass": 3,
+"armor": 156,
+"spell": 1254998,
+"status": "new"
+},
+{
+"id": 252576,
+"name": "Stalker's Mail Sabatons",
+"quality": 3,
+"ilvl": 52,
+"reqlevel": 47,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 214,
+"spell": 1254997,
+"status": "new"
+},
+{
+"id": 252577,
+"name": "Skycaller's Mail Sabatons",
+"quality": 3,
+"ilvl": 52,
+"reqlevel": 47,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 214,
+"spell": 1254996,
+"status": "new"
+},
+{
+"id": 252578,
+"name": "Skirmisher's Mail Sabatons",
+"quality": 3,
+"ilvl": 52,
+"reqlevel": 47,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 214,
+"spell": 1254995,
+"status": "new"
+},
+{
+"id": 252579,
+"name": "Mender's Mail Sabatons",
+"quality": 3,
+"ilvl": 52,
+"reqlevel": 47,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 214,
+"spell": 1254994,
+"status": "new"
+},
+{
+"id": 252580,
+"name": "Supple Scorpid Leggings",
+"quality": 2,
+"ilvl": 53,
+"reqlevel": 48,
+"slot": 7,
+"classs": 4,
+"subclass": 3,
+"armor": 252,
+"spell": 1254993,
+"status": "new"
+},
+{
+"id": 252581,
+"name": "Charged Scorpid Helm",
+"quality": 2,
+"ilvl": 53,
+"reqlevel": 48,
+"slot": 1,
+"classs": 4,
+"subclass": 3,
+"armor": 234,
+"spell": 1254992,
+"status": "new"
+},
+{
+"id": 252582,
+"name": "Supple Scorpid Bracers",
+"quality": 2,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 9,
+"classs": 4,
+"subclass": 3,
+"armor": 130,
+"spell": 1254991,
+"status": "new"
+},
+{
+"id": 252583,
+"name": "Charged Scorpid Shoulders",
+"quality": 2,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 3,
+"classs": 4,
+"subclass": 3,
+"armor": 223,
+"spell": 1254990,
+"status": "new"
+},
+{
+"id": 252584,
+"name": "Stalker's Mail Gauntlets",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 205,
+"spell": 1254989,
+"status": "new"
+},
+{
+"id": 252585,
+"name": "Skycaller's Mail Gauntlets",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 205,
+"spell": 1254988,
+"status": "new"
+},
+{
+"id": 252586,
+"name": "Skirmisher's Mail Gauntlets",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 205,
+"spell": 1254987,
+"status": "new"
+},
+{
+"id": 252587,
+"name": "Mender's Mail Gauntlets",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 205,
+"spell": 1254986,
+"status": "new"
+},
+{
+"id": 252588,
+"name": "Stalker's Mail Belt",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 6,
+"classs": 4,
+"subclass": 3,
+"armor": 184,
+"spell": 1254985,
+"status": "new"
+},
+{
+"id": 252589,
+"name": "Skycaller's Mail Belt",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 6,
+"classs": 4,
+"subclass": 3,
+"armor": 184,
+"spell": 1254984,
+"status": "new"
+},
+{
+"id": 252590,
+"name": "Skirmisher's Mail Belt",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 6,
+"classs": 4,
+"subclass": 3,
+"armor": 184,
+"spell": 1254983,
+"status": "new"
+},
+{
+"id": 252591,
+"name": "Mender's Mail Belt",
+"quality": 3,
+"ilvl": 55,
+"reqlevel": 50,
+"slot": 6,
+"classs": 4,
+"subclass": 3,
+"armor": 184,
+"spell": 1254982,
+"status": "new"
+},
+{
+"id": 252592,
+"name": "Supple Scorpid Shoulders",
+"quality": 2,
+"ilvl": 56,
+"reqlevel": 51,
+"slot": 3,
+"classs": 4,
+"subclass": 3,
+"armor": 227,
+"spell": 1254981,
+"status": "new"
+},
+{
+"id": 252593,
+"name": "Charged Scorpid Bracers",
+"quality": 2,
+"ilvl": 56,
+"reqlevel": 51,
+"slot": 9,
+"classs": 4,
+"subclass": 3,
+"armor": 132,
+"spell": 1254980,
+"status": "new"
+},
+{
+"id": 252594,
+"name": "Heavy Scorpid Boots",
+"quality": 2,
+"ilvl": 56,
+"reqlevel": 51,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 208,
+"spell": 1254979,
+"status": "new"
+},
+{
+"id": 252595,
+"name": "Supple Scorpid Belt",
+"quality": 2,
+"ilvl": 56,
+"reqlevel": 51,
+"slot": 6,
+"classs": 4,
+"subclass": 3,
+"armor": 170,
+"spell": 1254978,
+"status": "new"
+},
+{
+"id": 252596,
+"name": "Charged Scorpid Gauntlets",
+"quality": 2,
+"ilvl": 56,
+"reqlevel": 51,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 189,
+"spell": 1254977,
+"status": "new"
+},
+{
+"id": 252597,
+"name": "Supple Scorpid Helm",
+"quality": 2,
+"ilvl": 57,
+"reqlevel": 52,
+"slot": 1,
+"classs": 4,
+"subclass": 3,
+"armor": 250,
+"spell": 1254976,
+"status": "new"
+},
+{
+"id": 252598,
+"name": "Charged Scorpid Vest",
+"quality": 2,
+"ilvl": 57,
+"reqlevel": 52,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 307,
+"spell": 1254975,
+"status": "new"
+},
+{
+"id": 252599,
+"name": "Supple Scorpid Vest",
+"quality": 2,
+"ilvl": 59,
+"reqlevel": 54,
+"slot": 5,
+"classs": 4,
+"subclass": 3,
+"armor": 317,
+"spell": 1254974,
+"status": "new"
+},
+{
+"id": 252600,
+"name": "Charged Scorpid Leggings",
+"quality": 2,
+"ilvl": 59,
+"reqlevel": 54,
+"slot": 7,
+"classs": 4,
+"subclass": 3,
+"armor": 278,
+"spell": 1254973,
+"status": "new"
+},
+{
+"id": 252601,
+"name": "Supple Scorpid Sabatons",
+"quality": 2,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 225,
+"spell": 1254972,
+"status": "new"
+},
+{
+"id": 252602,
+"name": "Charged Scorpid Boots",
+"quality": 2,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 225,
+"spell": 1254971,
+"status": "new"
+},
+{
+"id": 252603,
+"name": "Red Dragonscale Leggings",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 7,
+"classs": 4,
+"subclass": 3,
+"armor": 344,
+"spell": 1254970,
+"status": "new"
+},
+{
+"id": 252604,
+"name": "Blue Dragonscale Helm",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 1,
+"classs": 4,
+"subclass": 3,
+"armor": 319,
+"spell": 1254969,
+"status": "new"
+},
+{
+"id": 252605,
+"name": "Black Dragonscale Helm",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 1,
+"classs": 4,
+"subclass": 3,
+"armor": 319,
+"spell": 1254968,
+"status": "new"
+},
+{
+"id": 252606,
+"name": "Pristine Scorpid Leggings",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 56,
+"slot": 7,
+"classs": 4,
+"subclass": 3,
+"armor": 344,
+"spell": 1254967,
+"status": "new"
+},
+{
+"id": 273884,
+"name": "Grovekeeper Trousers",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 164,
+"spell": 1292920,
+"status": "new"
+},
+{
+"id": 273885,
+"name": "Grovekeeper Grips",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 117,
+"spell": 1292921,
+"status": "new"
+},
+{
+"id": 273886,
+"name": "Grovekeeper Shoulderpads",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 140,
+"spell": 1292923,
+"status": "new"
+},
+{
+"id": 273887,
+"name": "Grovekeeper Stompers",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 129,
+"spell": 1292924,
+"status": "new"
+},
+{
+"id": 273888,
+"name": "Grovekeeper Kilt",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 164,
+"spell": 1292925,
+"status": "new"
+},
+{
+"id": 273889,
+"name": "Grovekeeper Mitts",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 117,
+"spell": 1292926,
+"status": "new"
+},
+{
+"id": 273890,
+"name": "Grovekeeper Mantle",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 140,
+"spell": 1292927,
+"status": "new"
+},
+{
+"id": 273891,
+"name": "Grovekeeper Sandals",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 129,
+"spell": 1292928,
+"status": "new"
+},
+{
+"id": 273892,
+"name": "Grovekeeper Legguards",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 164,
+"spell": 1292929,
+"status": "new"
+},
+{
+"id": 273893,
+"name": "Grovekeeper Handguards",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 117,
+"spell": 1292930,
+"status": "new"
+},
+{
+"id": 273894,
+"name": "Grovekeeper Pauldrons",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 140,
+"spell": 1292931,
+"status": "new"
+},
+{
+"id": 273895,
+"name": "Grovekeeper Boots",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 129,
+"spell": 1292932,
+"status": "new"
+},
+{
+"id": 273896,
+"name": "Grovekeeper Leggings",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 164,
+"spell": 1292933,
+"status": "new"
+},
+{
+"id": 273897,
+"name": "Grovekeeper Gauntlets",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 117,
+"spell": 1292934,
+"status": "new"
+},
+{
+"id": 273898,
+"name": "Grovekeeper Spaulders",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 140,
+"spell": 1292935,
+"status": "new"
+},
+{
+"id": 273899,
+"name": "Grovekeeper Treads",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 129,
+"spell": 1292936,
+"status": "new"
+},
+{
+"id": 273900,
+"name": "Wildstalker's Legguards",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 7,
+"classs": 4,
+"subclass": 3,
+"armor": 344,
+"spell": 1292937,
+"status": "new"
+},
+{
+"id": 273901,
+"name": "Wildstalker's Gauntlets",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 245,
+"spell": 1292938,
+"status": "new"
+},
+{
+"id": 273902,
+"name": "Wildstalker's Spaulders",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 3,
+"classs": 4,
+"subclass": 3,
+"armor": 294,
+"spell": 1292939,
+"status": "new"
+},
+{
+"id": 273903,
+"name": "Wildstalker's Greaves",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 270,
+"spell": 1292940,
+"status": "new"
+},
+{
+"id": 273928,
+"name": "Grimstitch Pants",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 164,
+"spell": 1292965,
+"status": "new"
+},
+{
+"id": 273929,
+"name": "Grimstitch Gloves",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 117,
+"spell": 1292966,
+"status": "new"
+},
+{
+"id": 273930,
+"name": "Grimstitch Spaulders",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 140,
+"spell": 1292967,
+"status": "new"
+},
+{
+"id": 273931,
+"name": "Grimstitch Boots",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 129,
+"spell": 1292968,
+"status": "new"
+},
+{
+"id": 273932,
+"name": "Spiritcaller Leggings",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 7,
+"classs": 4,
+"subclass": 3,
+"armor": 344,
+"spell": 1292969,
+"status": "new"
+},
+{
+"id": 273933,
+"name": "Spiritcaller Grips",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 245,
+"spell": 1292970,
+"status": "new"
+},
+{
+"id": 273934,
+"name": "Spiritcaller Spaulders",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 3,
+"classs": 4,
+"subclass": 3,
+"armor": 294,
+"spell": 1292971,
+"status": "new"
+},
+{
+"id": 273935,
+"name": "Spiritcaller Treads",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 270,
+"spell": 1292972,
+"status": "new"
+},
+{
+"id": 273936,
+"name": "Spiritcaller Pants",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 7,
+"classs": 4,
+"subclass": 3,
+"armor": 344,
+"spell": 1292973,
+"status": "new"
+},
+{
+"id": 273937,
+"name": "Spiritcaller Gauntlets",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 245,
+"spell": 1292974,
+"status": "new"
+},
+{
+"id": 273938,
+"name": "Spiritcaller Epaulets",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 3,
+"classs": 4,
+"subclass": 3,
+"armor": 294,
+"spell": 1292975,
+"status": "new"
+},
+{
+"id": 273939,
+"name": "Spiritcaller Greaves",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 270,
+"spell": 1292976,
+"status": "new"
+},
+{
+"id": 275610,
+"name": "Bileblister Claws",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 103,
+"spell": 1297126,
+"status": "new"
+},
+{
+"id": 275611,
+"name": "Bileblister Girdle",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 93,
+"spell": 1297127,
+"status": "new"
+},
+{
+"id": 275612,
+"name": "Bileblister Boots",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 114,
+"spell": 1297128,
+"status": "new"
+},
+{
+"id": 275613,
+"name": "Hivethrasher's Claws",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 103,
+"spell": 1297129,
+"status": "new"
+},
+{
+"id": 275614,
+"name": "Hivethrasher's Girdle",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 93,
+"spell": 1297130,
+"status": "new"
+},
+{
+"id": 275615,
+"name": "Hivethrasher's Boots",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 114,
+"spell": 1297131,
+"status": "new"
+},
+{
+"id": 275616,
+"name": "Scalegut Clenchers",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 215,
+"spell": 1297132,
+"status": "new"
+},
+{
+"id": 275617,
+"name": "Scalegut Belt",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 6,
+"classs": 4,
+"subclass": 3,
+"armor": 193,
+"spell": 1297133,
+"status": "new"
+},
+{
+"id": 275618,
+"name": "Scalegut Treaders",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 236,
+"spell": 1297134,
+"status": "new"
+},
+{
+"id": 275619,
+"name": "Broodwatcher's Clenchers",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 215,
+"spell": 1297135,
+"status": "new"
+},
+{
+"id": 275620,
+"name": "Broodwatcher's Belt",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 6,
+"classs": 4,
+"subclass": 3,
+"armor": 193,
+"spell": 1297136,
+"status": "new"
+},
+{
+"id": 275621,
+"name": "Broodwatcher's Treaders",
+"quality": 3,
+"ilvl": 58,
+"reqlevel": 53,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 236,
+"spell": 1297137,
+"status": "new"
+},
+{
+"id": 276538,
+"name": "Spiritcaller Kilt",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 7,
+"classs": 4,
+"subclass": 3,
+"armor": 344,
+"spell": 1299914,
+"status": "new"
+},
+{
+"id": 276539,
+"name": "Spiritcaller Gloves",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 245,
+"spell": 1299915,
+"status": "new"
+},
+{
+"id": 276540,
+"name": "Spiritcaller Mantle",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 3,
+"classs": 4,
+"subclass": 3,
+"armor": 294,
+"spell": 1299916,
+"status": "new"
+},
+{
+"id": 276541,
+"name": "Spiritcaller Boots",
+"quality": 4,
+"ilvl": 61,
+"reqlevel": 60,
+"slot": 8,
+"classs": 4,
+"subclass": 3,
+"armor": 270,
+"spell": 1299917,
+"status": "new"
+},
+{
+"id": 276998,
+"name": "Cloudy Gustwoven Harness",
+"quality": 2,
+"ilvl": 12,
+"reqlevel": 7,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 62,
+"spell": 1301427,
+"status": "new"
+},
+{
+"id": 276999,
+"name": "Cloudy Gustwoven Bracers",
+"quality": 2,
+"ilvl": 10,
+"reqlevel": 5,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 24,
+"spell": 1301428,
+"status": "new"
+},
+{
+"id": 277000,
+"name": "Cloudy Gustwoven Gloves",
+"quality": 2,
+"ilvl": 11,
+"reqlevel": 6,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 36,
+"spell": 1301429,
+"status": "new"
+},
+{
+"id": 277001,
+"name": "Cloudy Gustwoven Belt",
+"quality": 2,
+"ilvl": 10,
+"reqlevel": 5,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 31,
+"spell": 1301430,
+"status": "new"
+},
+{
+"id": 277002,
+"name": "Cloudy Gustwoven Trousers",
+"quality": 2,
+"ilvl": 12,
+"reqlevel": 7,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 54,
+"spell": 1301431,
+"status": "new"
+},
+{
+"id": 277003,
+"name": "Cloudy Gustwoven Boots",
+"quality": 2,
+"ilvl": 11,
+"reqlevel": 6,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 40,
+"spell": 1301432,
+"status": "new"
+},
+{
+"id": 277004,
+"name": "Cloudy Windraveled Jerkin",
+"quality": 2,
+"ilvl": 12,
+"reqlevel": 7,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 62,
+"spell": 1301433,
+"status": "new"
+},
+{
+"id": 277005,
+"name": "Cloudy Windraveled Armguards",
+"quality": 2,
+"ilvl": 10,
+"reqlevel": 5,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 24,
+"spell": 1301434,
+"status": "new"
+},
+{
+"id": 277006,
+"name": "Cloudy Windraveled Mitts",
+"quality": 2,
+"ilvl": 11,
+"reqlevel": 6,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 36,
+"spell": 1301435,
+"status": "new"
+},
+{
+"id": 277007,
+"name": "Cloudy Windraveled Strap",
+"quality": 2,
+"ilvl": 10,
+"reqlevel": 5,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 31,
+"spell": 1301436,
+"status": "new"
+},
+{
+"id": 277008,
+"name": "Cloudy Windraveled Pants",
+"quality": 2,
+"ilvl": 12,
+"reqlevel": 7,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 54,
+"spell": 1301437,
+"status": "new"
+},
+{
+"id": 277009,
+"name": "Cloudy Windraveled Footwraps",
+"quality": 2,
+"ilvl": 11,
+"reqlevel": 6,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 40,
+"spell": 1301438,
+"status": "new"
+},
+{
+"id": 277022,
+"name": "Azure Gustwoven Harness",
+"quality": 2,
+"ilvl": 12,
+"reqlevel": 7,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 62,
+"spell": 1301451,
+"status": "new"
+},
+{
+"id": 277023,
+"name": "Azure Gustwoven Bracers",
+"quality": 2,
+"ilvl": 10,
+"reqlevel": 5,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 24,
+"spell": 1301452,
+"status": "new"
+},
+{
+"id": 277024,
+"name": "Azure Gustwoven Gloves",
+"quality": 2,
+"ilvl": 11,
+"reqlevel": 6,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 36,
+"spell": 1301453,
+"status": "new"
+},
+{
+"id": 277025,
+"name": "Azure Gustwoven Belt",
+"quality": 2,
+"ilvl": 10,
+"reqlevel": 5,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 31,
+"spell": 1301454,
+"status": "new"
+},
+{
+"id": 277026,
+"name": "Azure Gustwoven Trousers",
+"quality": 2,
+"ilvl": 12,
+"reqlevel": 7,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 54,
+"spell": 1301455,
+"status": "new"
+},
+{
+"id": 277027,
+"name": "Azure Gustwoven Boots",
+"quality": 2,
+"ilvl": 11,
+"reqlevel": 6,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 40,
+"spell": 1301456,
+"status": "new"
+},
+{
+"id": 277028,
+"name": "Azure Windraveled Jerkin",
+"quality": 2,
+"ilvl": 12,
+"reqlevel": 7,
+"slot": 5,
+"classs": 4,
+"subclass": 2,
+"armor": 62,
+"spell": 1301457,
+"status": "new"
+},
+{
+"id": 277029,
+"name": "Azure Windraveled Armguards",
+"quality": 2,
+"ilvl": 10,
+"reqlevel": 5,
+"slot": 9,
+"classs": 4,
+"subclass": 2,
+"armor": 24,
+"spell": 1301458,
+"status": "new"
+},
+{
+"id": 277030,
+"name": "Azure Windraveled Mitts",
+"quality": 2,
+"ilvl": 11,
+"reqlevel": 6,
+"slot": 10,
+"classs": 4,
+"subclass": 2,
+"armor": 36,
+"spell": 1301459,
+"status": "new"
+},
+{
+"id": 277031,
+"name": "Azure Windraveled Strap",
+"quality": 2,
+"ilvl": 10,
+"reqlevel": 5,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 31,
+"spell": 1301460,
+"status": "new"
+},
+{
+"id": 277032,
+"name": "Azure Windraveled Pants",
+"quality": 2,
+"ilvl": 12,
+"reqlevel": 7,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 54,
+"spell": 1301461,
+"status": "new"
+},
+{
+"id": 277033,
+"name": "Azure Windraveled Footwraps",
+"quality": 2,
+"ilvl": 11,
+"reqlevel": 6,
+"slot": 8,
+"classs": 4,
+"subclass": 2,
+"armor": 40,
+"spell": 1301462,
+"status": "new"
+},
+{
+"id": 277042,
+"name": "Cloudy Gustwoven Hood",
+"quality": 2,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 83,
+"spell": 1301528,
+"status": "new"
+},
+{
+"id": 277043,
+"name": "Cloudy Gustwoven Spaulders",
+"quality": 2,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1301529,
+"status": "new"
+},
+{
+"id": 277044,
+"name": "Cloudy Windraveled Cover",
+"quality": 2,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 83,
+"spell": 1301530,
+"status": "new"
+},
+{
+"id": 277045,
+"name": "Cloudy Windraveled Drapes",
+"quality": 2,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1301531,
+"status": "new"
+},
+{
+"id": 277050,
+"name": "Azure Gustwoven Hood",
+"quality": 2,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 83,
+"spell": 1301536,
+"status": "new"
+},
+{
+"id": 277051,
+"name": "Azure Gustwoven Spaulders",
+"quality": 2,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1301537,
+"status": "new"
+},
+{
+"id": 277052,
+"name": "Azure Windraveled Cover",
+"quality": 2,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 83,
+"spell": 1301538,
+"status": "new"
+},
+{
+"id": 277053,
+"name": "Azure Windraveled Drapes",
+"quality": 2,
+"ilvl": 35,
+"reqlevel": 30,
+"slot": 3,
+"classs": 4,
+"subclass": 2,
+"armor": 76,
+"spell": 1301539,
+"status": "new"
+},
+{
+"id": 277715,
+"name": "Light Leather Reagent Bag",
+"quality": 1,
+"ilvl": 5,
+"slot": 18,
+"classs": 1,
+"subclass": 11,
+"spell": 1302604,
+"status": "new"
+},
+{
+"id": 279252,
+"name": "Elderwild Waistcord",
+"quality": 4,
+"ilvl": 65,
+"reqlevel": 60,
+"slot": 6,
+"classs": 4,
+"subclass": 2,
+"armor": 111,
+"spell": 1306526,
+"status": "new"
+},
+{
+"id": 279253,
+"name": "Outlaw's Collar",
+"quality": 4,
+"ilvl": 65,
+"reqlevel": 60,
+"slot": 1,
+"classs": 4,
+"subclass": 2,
+"armor": 160,
+"spell": 1306527,
+"status": "new"
+},
+{
+"id": 279254,
+"name": "Elderwild Pants",
+"quality": 4,
+"ilvl": 65,
+"reqlevel": 60,
+"slot": 7,
+"classs": 4,
+"subclass": 2,
+"armor": 173,
+"spell": 1306528,
+"status": "new"
+},
+{
+"id": 279255,
+"name": "Eternity Pauldrons",
+"quality": 4,
+"ilvl": 65,
+"reqlevel": 60,
+"slot": 3,
+"classs": 4,
+"subclass": 3,
+"armor": 312,
+"spell": 1306529,
+"status": "new"
+},
+{
+"id": 279256,
+"name": "Tranquil Wristguards",
+"quality": 4,
+"ilvl": 65,
+"reqlevel": 60,
+"slot": 9,
+"classs": 4,
+"subclass": 3,
+"armor": 182,
+"spell": 1306530,
+"status": "new"
+},
+{
+"id": 279257,
+"name": "Mourning Handguards",
+"quality": 4,
+"ilvl": 65,
+"reqlevel": 60,
+"slot": 10,
+"classs": 4,
+"subclass": 3,
+"armor": 260,
+"spell": 1306531,
+"status": "new"
+},
+{
+"id": 279258,
+"name": "Wild Leather Armor Kit",
+"quality": 3,
+"ilvl": 65,
+"reqlevel": 60,
+"slot": 0,
+"classs": 0,
+"subclass": 6,
+"spell": 1306532,
+"status": "new"
+},
+{
+"id": 279941,
+"name": "Tanning Rack",
+"quality": 1,
+"ilvl": 28,
+"slot": 0,
+"classs": 0,
+"subclass": 8,
+"spell": 1263031,
+"status": "new"
+},
+{
+"id": 279945,
+"name": "Sewing Machine",
+"quality": 1,
+"ilvl": 60,
+"slot": 0,
+"classs": 0,
+"subclass": 8,
+"spell": 1263079,
+"status": "new"
+},
+{
+"id": 279978,
+"name": "Camp Tent",
+"quality": 1,
+"ilvl": 4,
+"slot": 0,
+"classs": 0,
+"subclass": 8,
+"spell": 1229432,
+"status": "new"
+},
+{
+"id": 18258,
+"name": "Gordok Ogre Suit",
+"quality": 2,
+"ilvl": 55,
+"reqlevel": 55,
+"slot": 0,
+"classs": 12,
+"subclass": 0,
+"spell": null,
+"status": "unchanged"
+}
+]
+}

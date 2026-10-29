@@ -1,0 +1,1804 @@
+{
+"3567": {
+"name": "Dwarven Fishing Pole",
+"quality": 2,
+"tip": "Dwarven Fishing Pole | Item Level 19 | BoP RangedGun 9 - 19 Damage Speed 1.90 (7.37 damage per second) | +2 Strength | Durability 45 / 45\"Dwarves aren't known for their subtlety.\" |"
+},
+"2562": {
+"name": "Bouquet of Scarlet Begonias",
+"quality": 1,
+"tip": "Bouquet of Scarlet Begonias | Item Level 23 | BoP Held In Off-hand"
+},
+"6092": {
+"name": "Black Whelp Boots",
+"quality": 2,
+"tip": "Black Whelp Boots | Item Level 18 | BoP FeetLeather51 Armor | +4 Stamina | Durability 35 / 35"
+},
+"1302": {
+"name": "Black Whelp Gloves",
+"quality": 2,
+"tip": "Black Whelp Gloves | Item Level 18 | BoP HandsLeather46 Armor | +2 Strength | +3 Agility | Durability 20 / 20"
+},
+"1319": {
+"name": "Ring of Iron Will",
+"quality": 2,
+"tip": "Ring of Iron Will | Item Level 25 | BoP Finger+4 Stamina | +2 Spirit"
+},
+"2910": {
+"name": "Gold Militia Boots",
+"quality": 2,
+"tip": "Gold Militia Boots | Item Level 25 | BoP FeetMail126 Armor | +3 Strength | +5 Stamina | Durability 45 / 45"
+},
+"1970": {
+"name": "Restoring Balm",
+"quality": 1,
+"tip": "Restoring Balm | Item Level 24 | BoP Use: Heals the target for 180 damage over 12 sec. (2 Min Cooldown) | Max Stack: 10"
+},
+"3565": {
+"name": "Beerstained Gloves",
+"quality": 2,
+"tip": "Beerstained Gloves | Item Level 20 | BoP HandsCloth21 Armor | +3 Strength | +3 Stamina | Durability 20 / 20"
+},
+"2313": {
+"name": "Medium Armor Kit",
+"quality": 1,
+"tip": "Medium Armor Kit | Item Level 15 | 16 ArmorRequires Level 5 | | Use: Permanently increase the Stamina value by 2 and the armor value by 16 of an item worn on the chest, legs, hands or feet. | Max Stack: 10"
+},
+"3555": {
+"name": "Robe of Solomon",
+"quality": 2,
+"tip": "Robe of Solomon | Item Level 25 | BoP ChestCloth39 Armor | +7 Stamina | +3 Spirit | Durability 65 / 65"
+},
+"1275": {
+"name": "Deputy Chain Coat",
+"quality": 2,
+"tip": "Deputy Chain Coat | Item Level 25 | BoP ChestMail183 Armor | +4 Stamina | +7 Spirit | Durability 90 / 90"
+},
+"3431": {
+"name": "Bone-studded Leather",
+"quality": 2,
+"tip": "Bone-studded Leather | Item Level 25 | BoP ChestLeather86 Armor | +6 Strength | +1 Agility | +5 Stamina | Durability 80 / 80"
+},
+"1276": {
+"name": "Fire Hardened Buckler",
+"quality": 2,
+"tip": "Fire Hardened Buckler | Item Level 27 | BoP Off HandShield528 Armor | 10 Block | +5 Spirit | Durability 80 / 80"
+},
+"6093": {
+"name": "Orc Crusher",
+"quality": 2,
+"tip": "Orc Crusher | Item Level 27 | BoP Two-HandMace 52 - 79 Damage Speed 3.60 (18.19 damage per second) | +8 Strength | +4 Stamina | Durability 80 / 80"
+},
+"1310": {
+"name": "Smith's Trousers",
+"quality": 2,
+"tip": "Smith's Trousers | Item Level 20 | BoP LegsLeather68 Armor | +4 Strength | +4 Agility | Durability 55 / 55"
+},
+"1303": {
+"name": "Bridgeworker's Gloves",
+"quality": 2,
+"tip": "Bridgeworker's Gloves | Item Level 20 | BoP HandsMail105 Armor | +4 Strength | +2 Spirit | Durability 30 / 30"
+},
+"1304": {
+"name": "Riding Gloves",
+"quality": 2,
+"tip": "Riding Gloves | Item Level 20 | BoP HandsCloth21 Armor | +3 Agility | +3 Intellect | Durability 20 / 20"
+},
+"5274": {
+"name": "Rose Mantle",
+"quality": 2,
+"tip": "Rose Mantle | Item Level 27 | BoP ShoulderCloth30 Armor | +5 Intellect | Durability 40 / 40Equip: Increases damage and healing done by magical spells and effects by up to 5. |"
+},
+"270033": {
+"name": "Demonhide Bracers",
+"quality": 2,
+"tip": "Demonhide Bracers | Item Level 27 | BoP WristLeather39 Armor | +3 Strength | +4 Agility | Durability 30 / 30"
+},
+"270034": {
+"name": "Shadow Gauntlets",
+"quality": 2,
+"tip": "Shadow Gauntlets | Item Level 27 | BoP HandsMail118 Armor | +5 Strength | +4 Stamina | Durability 35 / 35"
+},
+"277218": {
+"name": "Incinerator's Boots",
+"quality": 2,
+"tip": "Incinerator's Boots | Item Level 28 | BoP FeetCloth29 Armor | +3 Stamina | +6 Intellect | Durability 35 / 35"
+},
+"277234": {
+"name": "Alacritous Treads",
+"quality": 2,
+"tip": "Alacritous Treads | Item Level 28 | BoP FeetMail132 Armor | +5 Strength | +5 Agility | Durability 50 / 50"
+},
+"277226": {
+"name": "Disjointed Shoes",
+"quality": 2,
+"tip": "Disjointed Shoes | Item Level 28 | BoP FeetLeather62 Armor | Durability 40 / 40Equip: Increases damage and healing done by magical spells and effects by up to 5. | Equip: +12 Attack Power. |"
+},
+"5814": {
+"name": "Snapbrook Armor",
+"quality": 2,
+"tip": "Snapbrook Armor | Item Level 30 | BoP ChestLeather94 Armor | +4 Strength | +9 Spirit | Durability 85 / 85"
+},
+"6722": {
+"name": "Beastial Manacles",
+"quality": 2,
+"tip": "Beastial Manacles | Item Level 30 | BoP WristMail87 Armor | +1 Strength | +6 Stamina | Durability 35 / 35"
+},
+"17047": {
+"name": "Luminescent Amice",
+"quality": 2,
+"tip": "Luminescent Amice | Item Level 30 | BoP ShoulderCloth32 Armor | +6 Stamina | +4 Intellect | +2 Spirit | Durability 45 / 45"
+},
+"5815": {
+"name": "Glacial Stone",
+"quality": 2,
+"tip": "Glacial Stone | Item Level 31 | BoP Two-HandMace 60 - 91 Damage Speed 3.60 (20.97 damage per second) | Durability 85 / 85Chance on hit: Blasts a target for 75 Frost damage. |"
+},
+"17046": {
+"name": "Gutterblade",
+"quality": 2,
+"tip": "Gutterblade | Item Level 31 | BoP One-HandAxe 25 - 46 Damage Speed 2.20 (16.14 damage per second) | +3 Strength | +3 Stamina | Durability 75 / 75"
+},
+"1116": {
+"name": "Ring of Pure Silver",
+"quality": 2,
+"tip": "Ring of Pure Silver | Item Level 31 | BoP Finger+1 Stamina | +6 Spirit"
+},
+"276242": {
+"name": "Replica Dartol's Rod of Transformation",
+"quality": 1,
+"tip": "Replica Dartol's Rod of Transformation | Item Level 1 | BoP  | UniqueUse: Transforms you into a Furbolg for 3 min. (1 Min Cooldown) |"
+},
+"5812": {
+"name": "Robes of Antiquity",
+"quality": 2,
+"tip": "Robes of Antiquity | Item Level 25 | BoP ChestCloth39 Armor | +2 Intellect | +8 Spirit | Durability 65 / 65"
+},
+"5816": {
+"name": "Light of Elune",
+"quality": 1,
+"tip": "Light of Elune | Item Level 25 | BoP  | UniqueUse: Grants immunity from all damage and spells for 10 sec. (2 Min Cooldown) |"
+},
+"4542": {
+"name": "Moist Cornbread",
+"quality": 1,
+"tip": "Moist Cornbread | Item Level 25Requires Level 15 | | Use: Restores 531 health over 24 sec.  Must remain seated while eating. | Max Stack: 20"
+},
+"1205": {
+"name": "Melon Juice",
+"quality": 1,
+"tip": "Melon Juice | Item Level 25Requires Level 15 | | Use: Restores 835 mana over 24 sec.  Must remain seated while drinking. | Max Stack: 20"
+},
+"281290": {
+"name": "Replica Crescent Necklace",
+"quality": 2,
+"tip": "Replica Crescent Necklace | Item Level 26 | BoP Neck+3 Agility | +3 Spirit\"A cheap imitation of a sentimental necklace. With the original returned, this gift has been given meaning of its own.\" |"
+},
+"5813": {
+"name": "Emil's Brand",
+"quality": 2,
+"tip": "Emil's Brand | Item Level 32 | BoP Two-HandSword 53 - 81 Damage Speed 3.10 (21.61 damage per second) | +11 Strength | +3 Stamina | Durability 85 / 85"
+},
+"270048": {
+"name": "Uthil's Cudgel",
+"quality": 2,
+"tip": "Uthil's Cudgel | Item Level 32 | BoP One-HandMace 33 - 63 Damage Speed 2.90 (16.55 damage per second) | +3 Stamina | +3 Spirit"
+},
+"270049": {
+"name": "Mavoris's Warstaff",
+"quality": 2,
+"tip": "Mavoris's Warstaff | Item Level 32 | BoP Two-HandStaff 38 - 57 Damage Speed 2.20 (21.59 damage per second) | +11 Strength | +3 Stamina"
+},
+"5820": {
+"name": "Faerie Mantle",
+"quality": 2,
+"tip": "Faerie Mantle | Item Level 32 | BoP ShoulderCloth33 Armor | +6 Intellect | +6 Spirit | Durability 45 / 45"
+},
+"11229": {
+"name": "Brightscale Girdle",
+"quality": 2,
+"tip": "Brightscale Girdle | Item Level 32 | BoP WaistMail115 Armor | +6 Strength | +6 Stamina | Durability 35 / 35"
+},
+"6998": {
+"name": "Nimbus Boots",
+"quality": 2,
+"tip": "Nimbus Boots | Item Level 27 | BoP FeetCloth28 Armor | +5 Agility | Durability 35 / 35Equip: Increases healing done by up to 10 and damage done by up to 3 for all magical spells and effects. |"
+},
+"7000": {
+"name": "Heartwood Girdle",
+"quality": 2,
+"tip": "Heartwood Girdle | Item Level 27 | BoP WaistLeather50 Armor | +5 Stamina | Durability 30 / 30Equip: Increases damage and healing done by magical spells and effects by up to 6. |"
+},
+"270025": {
+"name": "Silvered Gauntlets",
+"quality": 2,
+"tip": "Silvered Gauntlets | Item Level 27 | BoP HandsMail118 Armor | +5 Stamina | Durability 40 / 40Equip: Increases healing done by up to 9 and damage done by up to 3 for all magical spells and effects. |"
+},
+"7001": {
+"name": "Gravestone Scepter",
+"quality": 3,
+"tip": "Gravestone Scepter | Item Level 29 | BoP RangedWand 30 - 57 Shadow Damage Speed 1.50 (29.00 damage per second) | +3 Spirit | Durability 65 / 65Equip: Increases damage done by Shadow spells and effects by up to 6. |"
+},
+"7002": {
+"name": "Arctic Buckler",
+"quality": 3,
+"tip": "Arctic Buckler | Item Level 29 | BoP Off HandShield642 Armor | 13 Block | +8 Stamina | +3 Spirit | +5 Frost Resistance | Durability 100 / 100"
+},
+"270031": {
+"name": "Dark Ritual Leggings",
+"quality": 3,
+"tip": "Dark Ritual Leggings | Item Level 29 | BoP LegsLeather88 Armor | +9 Stamina | Durability 75 / 75Equip: Increases damage and healing done by magical spells and effects by up to 14. |"
+},
+"270032": {
+"name": "Cultist's Armguards",
+"quality": 3,
+"tip": "Cultist's Armguards | Item Level 29 | BoP WristLeather44 Armor | +7 Stamina | Durability 35 / 35Equip: +10 Attack Power. |"
+},
+"7003": {
+"name": "Beetle Clasps",
+"quality": 2,
+"tip": "Beetle Clasps | Item Level 26 | BoP WristMail81 Armor | +3 Stamina | Durability 35 / 35Equip: +6 Attack Power. |"
+},
+"7004": {
+"name": "Prelacy Cape",
+"quality": 2,
+"tip": "Prelacy Cape | Item Level 26 | BoP Back20 Armor | +3 SpiritEquip: Increases healing done by up to 7 and damage done by up to 2 for all magical spells and effects. |"
+},
+"270021": {
+"name": "Staghide Armguards",
+"quality": 2,
+"tip": "Staghide Armguards | Item Level 26 | BoP WristLeather38 Armor | +3 Agility | +3 Stamina | Durability 35 / 35"
+},
+"6743": {
+"name": "Sustaining Ring",
+"quality": 2,
+"tip": "Sustaining Ring | Item Level 25 | BoP Finger+4 Stamina | Restores +4 health per 5 sec."
+},
+"3559": {
+"name": "Night Watch Gauntlets",
+"quality": 2,
+"tip": "Night Watch Gauntlets | Item Level 21 | BoP HandsMail107 Armor | +4 Strength | +1 Agility | Durability 30 / 30"
+},
+"1131": {
+"name": "Totem of Infliction",
+"quality": 2,
+"tip": "Totem of Infliction | Item Level 25 | BoP Held In Off-handEquip: When struck in combat has a 1% chance of inflicting 75 to 125 Shadow damage to the attacker. (Proc chance: 1%) |"
+},
+"3683": {
+"name": "Recipe: Gooey Spider Cake",
+"quality": 1,
+"tip": "Recipe: Gooey Spider Cake | Item Level 25Requires Cooking (110) | \"Teaches you how to cook a Gooey Spider Cake.\" |"
+},
+"1127": {
+"name": "Flash Bundle",
+"quality": 1,
+"tip": "Flash Bundle | Item Level 20 | BoP Use: Call down a pillar of fire, burning all enemies within the area for 55 to 71 Fire damage and an additional 12 Fire damage every 2 for 8 sec. (2 Min Cooldown) | Max Stack: 10"
+},
+"1017": {
+"name": "Seasoned Wolf Kabob",
+"quality": 1,
+"tip": "Seasoned Wolf Kabob | Item Level 25Requires Level 15 | | Use: Restores 531 health over 24 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 5 Agility for 15 min. Additionally, experience gained from kills is increased by 5%. | Max Stack: 20"
+},
+"2701": {
+"name": "Recipe: Seasoned Wolf Kabob",
+"quality": 1,
+"tip": "Recipe: Seasoned Wolf Kabob | Item Level 25Requires Cooking (100) | \"Teaches you how to cook a Seasoned Wolf Kabob.\" |"
+},
+"281149": {
+"name": "Memories of Valor",
+"quality": 0,
+"tip": "Memories of Valor | Item Level 1 | BoP  | Unique<Right Click to Read> |"
+},
+"1322": {
+"name": "Fishliver Oil",
+"quality": 1,
+"tip": "Fishliver Oil | Item Level 21 | BoP Use: Increases your attack speed by 10% for 30 sec. (2 Min Cooldown) | Max Stack: 10"
+},
+"3663": {
+"name": "Murloc Fin Soup",
+"quality": 1,
+"tip": "Murloc Fin Soup | Item Level 10Use: Restores 59 health over 18 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 1 Stamina for 15 min. Additionally, experience gained from kills is increased by 5%. | Max Stack: 20"
+},
+"3680": {
+"name": "Recipe: Murloc Fin Soup",
+"quality": 1,
+"tip": "Recipe: Murloc Fin Soup | Item Level 25Requires Cooking (90) | \"Teaches you how to cook a Murloc Fin Soup.\" |"
+},
+"2902": {
+"name": "Cloak of the Faith",
+"quality": 2,
+"tip": "Cloak of the Faith | Item Level 30 | BoP Back21 Armor | +4 Stamina | +4 Spirit"
+},
+"1547": {
+"name": "Shield of the Faith",
+"quality": 2,
+"tip": "Shield of the Faith | Item Level 30 | BoP Off HandShield578 Armor | 11 Block | +6 Spirit | Durability 85 / 85"
+},
+"5244": {
+"name": "Consecrated Wand",
+"quality": 2,
+"tip": "Consecrated Wand | Item Level 30 | BoP RangedWand 20 - 38 Nature Damage Speed 1.20 (24.17 damage per second) | +2 Intellect | +2 Spirit | Durability 55 / 55"
+},
+"7106": {
+"name": "Zodiac Gloves",
+"quality": 2,
+"tip": "Zodiac Gloves | Item Level 33 | BoP HandsCloth28 Armor | +4 Intellect | +7 Spirit | Durability 25 / 25"
+},
+"7107": {
+"name": "Belt of the Stars",
+"quality": 2,
+"tip": "Belt of the Stars | Item Level 33 | BoP WaistMail117 Armor | +6 Strength | +6 Stamina | Durability 35 / 35"
+},
+"3560": {
+"name": "Mantle of Honor",
+"quality": 2,
+"tip": "Mantle of Honor | Item Level 35 | BoP ShoulderCloth35 Armor | +7 Intellect | +7 Spirit | Durability 45 / 45"
+},
+"270044": {
+"name": "Darkshire Shoulderguards",
+"quality": 2,
+"tip": "Darkshire Shoulderguards | Item Level 35 | BoP ShoulderLeather76 Armor | +7 Stamina | +7 Spirit | Durability 50 / 50"
+},
+"6223": {
+"name": "Crest of Darkshire",
+"quality": 2,
+"tip": "Crest of Darkshire | Item Level 35 | BoP Off HandShield661 Armor | 14 Block | +2 Strength | +7 Stamina | Durability 85 / 85"
+},
+"2954": {
+"name": "Night Watch Pantaloons",
+"quality": 2,
+"tip": "Night Watch Pantaloons | Item Level 33 | BoP LegsCloth39 Armor | +9 Stamina | +8 Intellect | Durability 55 / 55"
+},
+"2953": {
+"name": "Watch Master's Cloak",
+"quality": 2,
+"tip": "Watch Master's Cloak | Item Level 33 | BoP Back23 Armor | +7 Stamina"
+},
+"1282": {
+"name": "Sparkmetal Coif",
+"quality": 2,
+"tip": "Sparkmetal Coif | Item Level 33 | BoP HeadMail168 Armor | +9 Strength | +8 Spirit | Durability 60 / 60"
+},
+"7344": {
+"name": "Torch of Holy Flame",
+"quality": 2,
+"tip": "Torch of Holy Flame | Item Level 33 | BoP Held In Off-hand+5 SpiritUse: Decrease the armor of target by 50 for 1 min. (1 Min Cooldown) |"
+},
+"3604": {
+"name": "Bandolier of the Night Watch",
+"quality": 2,
+"tip": "Bandolier of the Night Watch | Item Level 25 | BoP  | Unique | 12 Slot Ammo PouchEquip: Increases ranged attack speed by 11%. |"
+},
+"3605": {
+"name": "Quiver of the Night Watch",
+"quality": 2,
+"tip": "Quiver of the Night Watch | Item Level 25 | BoP  | Unique | 12 Slot QuiverEquip: Increases ranged attack speed by 11%. |"
+},
+"1729": {
+"name": "Gunnysack of the Night Watch",
+"quality": 1,
+"tip": "Gunnysack of the Night Watch | Item Level 25 | BoP  | Unique | 10 Slot Bag"
+},
+"2044": {
+"name": "Crescent of Forlorn Spirits",
+"quality": 2,
+"tip": "Crescent of Forlorn Spirits | Item Level 35 | BoP Main HandAxe 20 - 38 Damage Speed 1.60 (18.13 damage per second) | +6 Spirit | Durability 75 / 75"
+},
+"2043": {
+"name": "Ring of Forlorn Spirits",
+"quality": 2,
+"tip": "Ring of Forlorn Spirits | Item Level 35 | BoP Finger+2 StaminaEquip: Increases damage and healing done by magical spells and effects by up to 8. |"
+},
+"270053": {
+"name": "Ring of Ruin",
+"quality": 2,
+"tip": "Ring of Ruin | Item Level 35 | BoP Finger+4 Strength | +6 Agility"
+},
+"271766": {
+"name": "Heavehammer",
+"quality": 3,
+"tip": "Heavehammer | Item Level 33 | BoP Two-HandMace 73 - 110 Damage Speed 3.30 (27.73 damage per second) | +60 Armor | Durability 100 / 100Equip: +32 Attack Power. |"
+},
+"271716": {
+"name": "Explorer's League Dustcover",
+"quality": 3,
+"tip": "Explorer's League Dustcover | Item Level 33 | BoP Back25 Armor | +5 Agility | +5 Intellect | +5 Spirit"
+},
+"273026": {
+"name": "Garb of Florid Feathers",
+"quality": 3,
+"tip": "Garb of Florid Feathers | Item Level 31 | BoP ChestLeather105 Armor | +9 Agility | +15 Intellect | Durability 100 / 100Requires Level 26 |"
+},
+"273029": {
+"name": "Golemsight Long Gun",
+"quality": 3,
+"tip": "Golemsight Long Gun | Item Level 33 | BoP RangedGun 29 - 54 Damage Speed 2.50 (16.60 damage per second) | +6 Agility | Durability 75 / 75Requires Level 28 |"
+},
+"273022": {
+"name": "Supple Bellyskin Leggings",
+"quality": 3,
+"tip": "Supple Bellyskin Leggings | Item Level 31 | BoP LegsLeather92 Armor | +6 Strength | +14 Stamina | Durability 75 / 75Requires Level 26 |"
+},
+"1975": {
+"name": "Pysan's Old Greatsword",
+"quality": 3,
+"tip": "Pysan's Old Greatsword | Item Level 28 | BoE Two-HandSword 60 - 91 Damage Speed 3.30 (22.88 damage per second) | +5 Strength | Durability 95 / 95Requires Level 23 | Equip: Increases healing done by up to 29 and damage done by up to 10 for all magical spells and effects. |"
+},
+"1976": {
+"name": "Slaghammer",
+"quality": 3,
+"tip": "Slaghammer | Item Level 29 | BoE Two-HandMace 53 - 80 Damage Speed 2.80 (23.75 damage per second) | +11 Strength | +10 Stamina | Durability 100 / 100Requires Level 24 |"
+},
+"2549": {
+"name": "Staff of the Shade",
+"quality": 3,
+"tip": "Staff of the Shade | Item Level 27 | BoE Two-HandStaff 34 - 52 Damage Speed 2.60 (16.54 damage per second) | +15 Stamina | Durability 95 / 95Requires Level 22 | Equip: Increases damage done by Shadow spells and effects by up to 37. |"
+},
+"6679": {
+"name": "Armor Piercer",
+"quality": 2,
+"tip": "Armor Piercer | Item Level 29 | BoP Two-HandPolearm 41 - 62 Damage Speed 2.60 (19.81 damage per second) | +11 Agility | Durability 85 / 85Requires Level 24 |"
+},
+"6687": {
+"name": "Corpsemaker",
+"quality": 3,
+"tip": "Corpsemaker | Item Level 34 | BoP Two-HandAxe 88 - 132 Damage Speed 3.80 (28.95 damage per second) | +15 Strength | +8 Stamina | Durability 100 / 100Requires Level 29 |"
+},
+"6689": {
+"name": "Wind Spirit Staff",
+"quality": 3,
+"tip": "Wind Spirit Staff | Item Level 34 | BoP Two-HandStaff 56 - 85 Damage Speed 3.30 (21.36 damage per second) | +6 Stamina | +16 Spirit | Durability 100 / 100Requires Level 29 | Equip: Increases healing done by up to 71 and damage done by up to 23 for all magical spells and effects. |"
+},
+"6696": {
+"name": "Nightstalker Bow",
+"quality": 3,
+"tip": "Nightstalker Bow | Item Level 34 | BoP RangedBow 20 - 38 Damage Speed 1.70 (17.06 damage per second) | +3 Agility | +5 Shadow Resistance | Durability 75 / 75Requires Level 29 |"
+},
+"274158": {
+"name": "Death Prophet Spine",
+"quality": 3,
+"tip": "Death Prophet Spine | Item Level 31 | BoP Two-HandStaff 42 - 64 Damage Speed 2.80 (18.93 damage per second) | +11 Stamina | Restores +5 mana per 5 sec. | Durability 100 / 100Requires Level 26 | Equip: Increases damage and healing done by magical spells and effects by up to 34. |"
+},
+"274160": {
+"name": "Quilrager Throwing Axe",
+"quality": 3,
+"tip": "Quilrager Throwing Axe | Item Level 36 | BoP ThrownThrown 27 - 51 Damage Speed 1.80 (21.67 damage per second) | +4 Strength | +40 Armor | Durability 240 / 240Requires Level 31 |"
+},
+"1808": {
+"name": "Tough Leather Pants",
+"quality": 0,
+"tip": "Tough Leather Pants | Item Level 30LegsLeather74 Armor | Durability 65 / 65Requires Level 25 |"
+},
+"1978": {
+"name": "Wolfclaw Gloves",
+"quality": 3,
+"tip": "Wolfclaw Gloves | Item Level 27 | BoE HandsLeather61 Armor | +5 Strength | +6 Agility | +6 Stamina | Durability 35 / 35Requires Level 22 |"
+},
+"2264": {
+"name": "Mantle of Thieves",
+"quality": 3,
+"tip": "Mantle of Thieves | Item Level 30 | BoE ShoulderLeather77 Armor | +10 Agility | +4 Stamina | +3 Spirit | Durability 60 / 60Requires Level 25 |"
+},
+"252455": {
+"name": "Defender's Leather Helm",
+"quality": 3,
+"tip": "Defender's Leather Helm | Item Level 30 | BoP HeadLeather84 Armor | +12 Strength | +13 Stamina | Durability 60 / 60Requires Level 25 |"
+},
+"252456": {
+"name": "Totemic Leather Helm",
+"quality": 3,
+"tip": "Totemic Leather Helm | Item Level 30 | BoP HeadLeather84 Armor | +13 Stamina | Durability 60 / 60Requires Level 25 | Equip: Increases damage and healing done by magical spells and effects by up to 12. |"
+},
+"252512": {
+"name": "Brawler's Leather Helm",
+"quality": 3,
+"tip": "Brawler's Leather Helm | Item Level 30 | BoP HeadLeather84 Armor | +10 Agility | +13 Stamina | Durability 60 / 60Requires Level 25 |"
+},
+"252514": {
+"name": "Stormrider's Leather Helm",
+"quality": 3,
+"tip": "Stormrider's Leather Helm | Item Level 30 | BoP HeadLeather84 Armor | +13 Stamina | +10 Spirit | Durability 60 / 60Requires Level 25 |"
+},
+"274155": {
+"name": "Geomancer Headdress",
+"quality": 3,
+"tip": "Geomancer Headdress | Item Level 30 | BoP HeadLeather84 Armor | +14 Spirit | Durability 60 / 60Requires Level 25 | Equip: Increases healing done by up to 13 and damage done by up to 4 for all magical spells and effects. |"
+},
+"6688": {
+"name": "Whisperwind Headdress",
+"quality": 3,
+"tip": "Whisperwind Headdress | Item Level 34 | BoP HeadLeather89 Armor | +11 Stamina | +11 Spirit | Durability 50 / 50Requires Level 29 | Equip: Increases damage and healing done by magical spells and effects by up to 7. |"
+},
+"6690": {
+"name": "Ferine Leggings",
+"quality": 3,
+"tip": "Ferine Leggings | Item Level 34 | BoP LegsLeather96 Armor | +12 Intellect | Durability 65 / 65Requires Level 29 | Equip: +26 Attack Power. |"
+},
+"274159": {
+"name": "Thorncursed Grips",
+"quality": 3,
+"tip": "Thorncursed Grips | Item Level 33 | BoP HandsLeather68 Armor | Durability 35 / 35Requires Level 27 | Equip: +18 Attack Power. | | Equip: Your melee weapon attacks deal 2 Nature damage to both you and your target. |"
+},
+"2039": {
+"name": "Plains Ring",
+"quality": 3,
+"tip": "Plains Ring | Item Level 29 | BoE  | Unique-EquippedFinger+8 Stamina | +3 IntellectRequires Level 24 |"
+},
+"6693": {
+"name": "Agamaggan's Clutch",
+"quality": 3,
+"tip": "Agamaggan's Clutch | Item Level 35 | BoP  | Unique-EquippedFinger+5 Stamina | +6 SpiritRequires Level 30 | Equip: Increases movement speed by 3% in The Barrens, Thousand Needles, Razorfen Kraul, and Razorfen Downs. |"
+},
+"6695": {
+"name": "Stygian Bone Amulet",
+"quality": 3,
+"tip": "Stygian Bone Amulet | Item Level 34 | BoP Neck+4 StaminaRequires Level 29 | Equip: Increases damage and healing done by magical spells and effects by up to 5. | Equip: Increases damage done to Undead by magical spells and effects by up to 12. |"
+},
+"274152": {
+"name": "Roogug's Severed Head",
+"quality": 3,
+"tip": "Roogug's Severed Head | Item Level 30 | BoP  | Unique-EquippedTrinket+6 SpiritRequires Level 25 | Use: Raise the severed head of Roogug, Horrifying and Silencing all Swine within 15 yds for 5 sec. (5 Min Cooldown) |"
+},
+"6748": {
+"name": "Monkey Ring",
+"quality": 2,
+"tip": "Monkey Ring | Item Level 32 | BoP Finger+5 Agility | +5 Spirit"
+},
+"6749": {
+"name": "Tiger Band",
+"quality": 2,
+"tip": "Tiger Band | Item Level 32 | BoP Finger+5 Strength | +5 Spirit"
+},
+"6750": {
+"name": "Snake Hoop",
+"quality": 2,
+"tip": "Snake Hoop | Item Level 32 | BoP Finger+5 IntellectEquip: Increases damage and healing done by magical spells and effects by up to 6. |"
+},
+"274078": {
+"name": "Boar Signet",
+"quality": 2,
+"tip": "Boar Signet | Item Level 32 | BoP Finger+5 StaminaEquip: Increases your chance to Block attacks with a shield by 1.0%. |"
+},
+"6751": {
+"name": "Mourning Shawl",
+"quality": 2,
+"tip": "Mourning Shawl | Item Level 32 | BoP Back22 Armor | +8 Stamina | -4 Spirit"
+},
+"6752": {
+"name": "Lancer Boots",
+"quality": 2,
+"tip": "Lancer Boots | Item Level 32 | BoP FeetLeather67 Armor | +5 Agility | +6 Stamina | +4 Spirit | Durability 45 / 45"
+},
+"270047": {
+"name": "Sentinel's Boots",
+"quality": 2,
+"tip": "Sentinel's Boots | Item Level 32 | BoP FeetMail140 Armor | +4 Strength | +4 Stamina | +6 Spirit | Durability 50 / 50"
+},
+"6755": {
+"name": "A Small Container of Gems",
+"quality": 1,
+"tip": "A Small Container of Gems | Item Level 25 | BoP <Right Click to Open> |"
+},
+"6742": {
+"name": "Stonefist Girdle",
+"quality": 3,
+"tip": "Stonefist Girdle | Item Level 36 | BoP WaistMail134 Armor | +6 Strength | +5 Stamina | +100 Armor | Durability 40 / 40"
+},
+"3041": {
+"name": "\"Mage-Eye\" Blunderbuss",
+"quality": 2,
+"tip": "\"Mage-Eye\" Blunderbuss | Item Level 31 | BoE RangedGun 24 - 46 Damage Speed 2.80 (12.50 damage per second) | +4 Agility | Durability 65 / 65Requires Level 26 |"
+},
+"252824": {
+"name": "Pattern: Stormrider's Leather Kilt",
+"quality": 3,
+"tip": "Pattern: Stormrider's Leather Kilt | Item Level 30 | BoP Requires Leatherworking (125) | \"Teaches you how to craft Stormrider's Leather Kilt.\" |"
+},
+"270019": {
+"name": "Loch Walkers",
+"quality": 2,
+"tip": "Loch Walkers | Item Level 24 | BoP FeetLeather58 Armor | +4 Agility | +3 Spirit | Durability 40 / 40"
+},
+"6189": {
+"name": "Durable Chain Shoulders",
+"quality": 2,
+"tip": "Durable Chain Shoulders | Item Level 24 | BoP ShoulderMail135 Armor | +6 Stamina | Durability 55 / 55"
+},
+"6191": {
+"name": "Kimbra Boots",
+"quality": 2,
+"tip": "Kimbra Boots | Item Level 24 | BoP FeetCloth26 Armor | +4 Intellect | +3 Spirit | Durability 30 / 30"
+},
+"1449": {
+"name": "Minor Channeling Ring",
+"quality": 2,
+"tip": "Minor Channeling Ring | Item Level 24 | BoP Finger+2 IntellectEquip: Increases damage and healing done by magical spells and effects by up to 5. |"
+},
+"270017": {
+"name": "Hunting Satchel",
+"quality": 2,
+"tip": "Hunting Satchel | Item Level 20 | BoP  | Unique | 10 Slot Bag"
+},
+"3574": {
+"name": "Hunting Ammo Sack",
+"quality": 1,
+"tip": "Hunting Ammo Sack | Item Level 15 | BoP  | 10 Slot Ammo PouchEquip: Increases ranged attack speed by 10%. |"
+},
+"3573": {
+"name": "Hunting Quiver",
+"quality": 1,
+"tip": "Hunting Quiver | Item Level 15 | BoP  | Unique | 10 Slot QuiverEquip: Increases ranged attack speed by 10%. |"
+},
+"1436": {
+"name": "Frontier Britches",
+"quality": 2,
+"tip": "Frontier Britches | Item Level 17 | BoP LegsLeather64 Armor | +3 Strength | +3 Agility | Durability 50 / 50"
+},
+"6187": {
+"name": "Dwarven Defender",
+"quality": 2,
+"tip": "Dwarven Defender | Item Level 17 | BoP Off HandShield361 Armor | 6 Block | +3 Stamina | Durability 60 / 60"
+},
+"1832": {
+"name": "Lucky Trousers",
+"quality": 2,
+"tip": "Lucky Trousers | Item Level 17 | BoP LegsCloth27 Armor | +2 Agility | +2 Stamina | +3 Spirit | Durability 40 / 40"
+},
+"2907": {
+"name": "Dwarven Tree Chopper",
+"quality": 2,
+"tip": "Dwarven Tree Chopper | Item Level 20 | BoP Two-HandAxe 34 - 52 Damage Speed 3.30 (13.03 damage per second) | Durability 65 / 65Equip: Reduces chance to be Dodged or Parried by 0.6%. |"
+},
+"2908": {
+"name": "Thornblade",
+"quality": 2,
+"tip": "Thornblade | Item Level 20 | BoP One-HandDagger 11 - 21 Damage Speed 1.60 (10.00 damage per second) | +3 Agility | Durability 40 / 40"
+},
+"2950": {
+"name": "Icicle Rod",
+"quality": 2,
+"tip": "Icicle Rod | Item Level 25 | BoP Two-HandStaff 38 - 57 Damage Speed 3.80 (12.50 damage per second) | +4 Intellect | Durability 75 / 75Equip: Increases damage and healing done by magical spells and effects by up to 18. | Equip: Increases damage done by Frost spells and effects by up to 10. |"
+},
+"2949": {
+"name": "Mariner Boots",
+"quality": 2,
+"tip": "Mariner Boots | Item Level 25 | BoP FeetLeather59 Armor | +1 Agility | +6 Stamina | Durability 40 / 40"
+},
+"2545": {
+"name": "Malleable Chain Leggings",
+"quality": 2,
+"tip": "Malleable Chain Leggings | Item Level 26 | BoP LegsMail163 Armor | +7 Strength | +3 Agility | +3 Stamina | Durability 70 / 70"
+},
+"3561": {
+"name": "Resilient Poncho",
+"quality": 2,
+"tip": "Resilient Poncho | Item Level 26 | BoP Back20 Armor | +5 Stamina"
+},
+"6453": {
+"name": "Strong Anti-Venom",
+"quality": 1,
+"tip": "Strong Anti-Venom | Item Level 26Use: Target is cured of poisons up to level 35. (1 Min Cooldown) | Max Stack: 20"
+},
+"2841": {
+"name": "Bronze Bar",
+"quality": 1,
+"tip": "Bronze Bar | Item Level 20Crafting Reagent | Max Stack: 20"
+},
+"888": {
+"name": "Naga Battle Gloves",
+"quality": 3,
+"tip": "Naga Battle Gloves | Item Level 27 | BoP HandsLeather61 Armor | +4 Strength | +4 Stamina | Durability 35 / 35Requires Level 22 | Equip: Increases healing done by up to 15 and damage done by up to 5 for all magical spells and effects. |"
+},
+"3078": {
+"name": "Naga Heartpiercer",
+"quality": 3,
+"tip": "Naga Heartpiercer | Item Level 27 | BoP RangedBow 22 - 42 Damage Speed 2.40 (13.33 damage per second) | Durability 60 / 60Requires Level 22 | Chance on hit: Wounds the target for 42 damage. Naga are Stunned for 2 sec. |"
+},
+"6905": {
+"name": "Reef Axe",
+"quality": 3,
+"tip": "Reef Axe | Item Level 27 | BoP Two-HandAxe 59 - 89 Damage Speed 3.30 (22.42 damage per second) | +8 Strength | Durability 80 / 80Requires Level 22 | Equip: Increases healing done by up to 24 and damage done by up to 8 for all magical spells and effects. |"
+},
+"273839": {
+"name": "Spiked Shell Band",
+"quality": 3,
+"tip": "Spiked Shell Band | Item Level 27 | BoP  | Unique-EquippedFinger+5 StaminaRequires Level 22 | Equip: When struck in combat, inflicts 2 Nature damage to the attacker. |"
+},
+"273840": {
+"name": "Cursed Murloc Eye",
+"quality": 3,
+"tip": "Cursed Murloc Eye | Item Level 29 | BoP  | Unique-EquippedTrinketRequires Level 24 | Equip: Spells and attacks deal 2 Shadow damage. Deals 4 times as much damage to Murlocs. |"
+},
+"252515": {
+"name": "Wisdom's Leather Helm",
+"quality": 3,
+"tip": "Wisdom's Leather Helm | Item Level 30 | BoP HeadLeather84 Armor | +13 Stamina | Durability 60 / 60Requires Level 25 | Equip: Increases healing done by up to 21 and damage done by up to 7 for all magical spells and effects. |"
+},
+"273841": {
+"name": "Twilight Maul",
+"quality": 3,
+"tip": "Twilight Maul | Item Level 28 | BoP Two-HandMace 60 - 91 Damage Speed 3.30 (22.88 damage per second) | Durability 95 / 95Requires Level 23 | Equip: Increases damage and healing done by magical spells and effects by up to 12. | | Chance on hit: Blasts a target for 70 Nature damage. |"
+},
+"273843": {
+"name": "Fallenroot Longbow",
+"quality": 3,
+"tip": "Fallenroot Longbow | Item Level 28 | BoP RangedBow 21 - 40 Damage Speed 2.20 (13.86 damage per second) | +2 Agility | +4 Stamina | Durability 70 / 70Requires Level 23 |"
+},
+"6901": {
+"name": "Glowing Thresher Cape",
+"quality": 3,
+"tip": "Glowing Thresher Cape | Item Level 29 | BoP Back23 Armor | +8 SpiritRequires Level 24 | Equip: Increases healing done by up to 7 and damage done by up to 3 for all magical spells and effects. |"
+},
+"6902": {
+"name": "Bands of Serra'kis",
+"quality": 3,
+"tip": "Bands of Serra'kis | Item Level 27 | BoP WristLeather43 Armor | +6 Strength | +3 Stamina | Durability 30 / 30Requires Level 22 |"
+},
+"1155": {
+"name": "Rod of the Sleepwalker",
+"quality": 3,
+"tip": "Rod of the Sleepwalker | Item Level 29 | BoP Two-HandStaff 39 - 60 Damage Speed 2.80 (17.68 damage per second) | +11 Spirit | Durability 100 / 100Requires Level 24 | Equip: Increases damage and healing done by magical spells and effects by up to 32. | | Equip: Reduces the hit chance of Sleep effects against you by 5%. |"
+},
+"273846": {
+"name": "Twilight Lord Girdle",
+"quality": 3,
+"tip": "Twilight Lord Girdle | Item Level 30 | BoP WaistMail123 Armor | +8 Strength | +6 Block Value | +5 Shadow Resistance | Durability 40 / 40Requires Level 25 |"
+},
+"6909": {
+"name": "Strike of the Hydra",
+"quality": 3,
+"tip": "Strike of the Hydra | Item Level 31 | BoP Two-HandSword 67 - 102 Damage Speed 3.30 (25.61 damage per second) | Durability 100 / 100Requires Level 26 | Chance on hit: Inflict 42 Fire and 14 Frost damage, slow the target by 50% for 5 sec, reduce armor by 50, and inflict 7 Nature damage every 3 sec for 12 sec. |"
+},
+"6911": {
+"name": "Moss Cinch",
+"quality": 3,
+"tip": "Moss Cinch | Item Level 30 | BoP WaistLeather58 Armor | +5 Stamina | Durability 35 / 35Requires Level 25 | Equip: Increases damage done by magical spells and effects by up to 12. |"
+},
+"1486": {
+"name": "Tree Bark Jacket",
+"quality": 3,
+"tip": "Tree Bark Jacket | Item Level 26 | BoE ChestCloth44 Armor | +60 Armor | Durability 75 / 75Requires Level 21 | Equip: Increases damage and healing done by magical spells and effects by up to 13. |"
+},
+"1491": {
+"name": "Ring of Precision",
+"quality": 3,
+"tip": "Ring of Precision | Item Level 27 | BoE  | Unique-EquippedFinger+6 Agility | +3 SpiritRequires Level 22 |"
+},
+"3417": {
+"name": "Onyx Claymore",
+"quality": 3,
+"tip": "Onyx Claymore | Item Level 28 | BoE Two-HandSword 51 - 78 Damage Speed 2.80 (23.04 damage per second) | +10 Strength | +5 Stamina | +6 Spirit | Durability 95 / 95Requires Level 23 |"
+},
+"2271": {
+"name": "Staff of the Blessed Seer",
+"quality": 3,
+"tip": "Staff of the Blessed Seer | Item Level 25 | BoE Two-HandStaff 37 - 57 Damage Speed 3.00 (15.67 damage per second) | +9 Stamina | +10 Spirit | Durability 80 / 80Requires Level 20 | Equip: Increases damage and healing done by magical spells and effects by up to 28. |"
+},
+"3415": {
+"name": "Staff of the Friar",
+"quality": 3,
+"tip": "Staff of the Friar | Item Level 26 | BoE Two-HandStaff 33 - 50 Damage Speed 2.60 (15.96 damage per second) | +4 Stamina | +3 Intellect | +12 Spirit | Durability 90 / 90Requires Level 21 | Equip: Increases healing done by up to 52 and damage done by up to 17 for all magical spells and effects. |"
+},
+"273842": {
+"name": "Treacherous Treads",
+"quality": 3,
+"tip": "Treacherous Treads | Item Level 28 | BoP FeetMail145 Armor | +5 Strength | +7 Stamina | Durability 60 / 60Requires Level 23 | Equip: Increases all threat generated by 1%. |"
+},
+"211449": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"211450": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"211451": {
+"name": null,
+"tip": "ERROR HTTP Error 404: Not Found"
+},
+"5323": {
+"name": "Everglow Lantern",
+"quality": 2,
+"tip": "Everglow Lantern | Item Level 25 | BoP Held In Off-hand+3 SpiritUse: Heal your target for 135 to 165. (30 Min Cooldown) |"
+},
+"6721": {
+"name": "Chestplate of Kor",
+"quality": 2,
+"tip": "Chestplate of Kor | Item Level 24 | BoP ChestMail180 Armor | +4 Strength | +4 Stamina | +4 Spirit | Durability 90 / 90"
+},
+"5622": {
+"name": "Clergy Ring",
+"quality": 2,
+"tip": "Clergy Ring | Item Level 22 | BoP Finger+1 Stamina | +3 Spirit"
+},
+"5613": {
+"name": "Staff of the Purifier",
+"quality": 2,
+"tip": "Staff of the Purifier | Item Level 23 | BoP Two-HandStaff 33 - 50 Damage Speed 3.70 (11.22 damage per second) | +8 Spirit | Durability 70 / 70Equip: Increases damage and healing done by magical spells and effects by up to 16. | | Use: Purifies the friendly target, removing 1 disease effect and 1 poison effect. (5 Min Cooldown) | 3 Charges |"
+},
+"7738": {
+"name": "Evergreen Gloves",
+"quality": 2,
+"tip": "Evergreen Gloves | Item Level 18 | BoP HandsCloth20 Armor | +3 Intellect | +2 Spirit | Durability 20 / 20"
+},
+"7739": {
+"name": "Timberland Cape",
+"quality": 2,
+"tip": "Timberland Cape | Item Level 18 | BoP Back16 Armor | +3 Spirit"
+},
+"5315": {
+"name": "Timberland Armguards",
+"quality": 2,
+"tip": "Timberland Armguards | Item Level 18 | BoP WristCloth14 Armor | +2 Stamina | +2 Spirit | Durability 20 / 20"
+},
+"15403": {
+"name": "Ridgeback Bracers",
+"quality": 2,
+"tip": "Ridgeback Bracers | Item Level 18 | BoP WristLeather33 Armor | +2 Stamina | +2 Spirit | Durability 20 / 20"
+},
+"15404": {
+"name": "Breakwater Girdle",
+"quality": 2,
+"tip": "Breakwater Girdle | Item Level 18 | BoP WaistMail91 Armor | +2 Agility | +3 Stamina | Durability 25 / 25"
+},
+"15204": {
+"name": "Moonstone Wand",
+"quality": 2,
+"tip": "Moonstone Wand | Item Level 18 | BoP RangedWand 17 - 32 Arcane Damage Speed 1.80 (13.61 damage per second) | +2 Intellect | Durability 40 / 40"
+},
+"15202": {
+"name": "Wildkeeper Leggings",
+"quality": 2,
+"tip": "Wildkeeper Leggings | Item Level 18 | BoP LegsLeather65 Armor | +4 Agility | +1 Stamina | +2 Spirit | Durability 50 / 50"
+},
+"15203": {
+"name": "Guststorm Legguards",
+"quality": 2,
+"tip": "Guststorm Legguards | Item Level 18 | BoP LegsMail141 Armor | +3 Strength | +3 Stamina | +1 Spirit | Durability 60 / 60"
+},
+"5610": {
+"name": "Gustweald Cloak",
+"quality": 2,
+"tip": "Gustweald Cloak | Item Level 15 | BoP Back14 Armor | +2 Stamina"
+},
+"5757": {
+"name": "Hardwood Cudgel",
+"quality": 2,
+"tip": "Hardwood Cudgel | Item Level 20 | BoP Main HandMace 18 - 34 Damage Speed 2.60 (10.00 damage per second) | +2 Strength | +2 Stamina | Durability 55 / 55"
+},
+"5615": {
+"name": "Woodsman Sword",
+"quality": 2,
+"tip": "Woodsman Sword | Item Level 20 | BoP Two-HandSword 34 - 52 Damage Speed 3.30 (13.03 damage per second) | +2 Agility | +5 Stamina | Durability 65 / 65"
+},
+"281291": {
+"name": "Mathystra Channeling Orb",
+"quality": 3,
+"tip": "Mathystra Channeling Orb | Item Level 21 | BoP Held In Off-hand+3 Stamina | +5 Intellect"
+},
+"281292": {
+"name": "Onu's Patience",
+"quality": 3,
+"tip": "Onu's Patience | Item Level 21 | BoP Held In Off-hand+3 Stamina | +5 Spirit"
+},
+"15205": {
+"name": "Owlsight Rifle",
+"quality": 2,
+"tip": "Owlsight Rifle | Item Level 20 | BoP RangedGun 14 - 27 Damage Speed 2.60 (7.88 damage per second) | +2 Agility | Durability 50 / 50"
+},
+"15206": {
+"name": "Jadefinger Baton",
+"quality": 2,
+"tip": "Jadefinger Baton | Item Level 20 | BoP Held In Off-hand+2 Stamina | +2 Spirit"
+},
+"15207": {
+"name": "Steelcap Shield",
+"quality": 2,
+"tip": "Steelcap Shield | Item Level 20 | BoP Off HandShield411 Armor | 7 Block | +2 Strength | +2 Stamina | Durability 65 / 65"
+},
+"270014": {
+"name": "Deerhide Pants",
+"quality": 2,
+"tip": "Deerhide Pants | Item Level 20 | BoP LegsLeather68 Armor | +5 Strength | +3 Stamina | Durability 55 / 55"
+},
+"15401": {
+"name": "Welldrip Gloves",
+"quality": 2,
+"tip": "Welldrip Gloves | Item Level 14 | BoP HandsCloth16 Armor | +2 Intellect | Durability 18 / 18"
+},
+"15402": {
+"name": "Noosegrip Gauntlets",
+"quality": 2,
+"tip": "Noosegrip Gauntlets | Item Level 14 | BoP HandsMail85 Armor | +2 Strength | Durability 20 / 20"
+},
+"270004": {
+"name": "Murloc-hide Gloves",
+"quality": 2,
+"tip": "Murloc-hide Gloves | Item Level 14 | BoP HandsLeather43 Armor | +2 Agility | Durability 20 / 20"
+},
+"15405": {
+"name": "Shucking Gloves",
+"quality": 2,
+"tip": "Shucking Gloves | Item Level 17 | BoP HandsLeather45 Armor | +2 Stamina | +2 Intellect | Durability 20 / 20"
+},
+"15406": {
+"name": "Crustacean Boots",
+"quality": 2,
+"tip": "Crustacean Boots | Item Level 17 | BoP FeetMail109 Armor | +3 Stamina | Durability 40 / 40"
+},
+"5609": {
+"name": "Steadfast Cinch",
+"quality": 2,
+"tip": "Steadfast Cinch | Item Level 22 | BoP WaistLeather45 Armor | +4 Strength | +3 Stamina | Durability 25 / 25"
+},
+"6659": {
+"name": "Scarab Trousers",
+"quality": 2,
+"tip": "Scarab Trousers | Item Level 20 | BoP LegsCloth29 Armor | +4 Stamina | +4 Spirit | Durability 45 / 45"
+},
+"15398": {
+"name": "Sandcomber Boots",
+"quality": 1,
+"tip": "Sandcomber Boots | Item Level 14 | BoP FeetCloth17 Armor | Durability 25 / 25"
+},
+"15399": {
+"name": "Dryweed Belt",
+"quality": 2,
+"tip": "Dryweed Belt | Item Level 14 | BoP WaistLeather38 Armor | +2 Intellect | Durability 20 / 20"
+},
+"15400": {
+"name": "Clamshell Bracers",
+"quality": 1,
+"tip": "Clamshell Bracers | Item Level 14 | BoP WristMail57 Armor | Durability 20 / 20"
+},
+"282286": {
+"name": "Shipwright's Satchel",
+"quality": 1,
+"tip": "Shipwright's Satchel | Item Level 5 | BoP  | 6 Slot Reagent Bag"
+},
+"273804": {
+"name": "Executioner Mantle",
+"quality": 3,
+"tip": "Executioner Mantle | Item Level 26 | BoP ShoulderLeather72 Armor | +9 Spirit | Durability 60 / 60Requires Level 21 | Equip: +10 Attack Power. |"
+},
+"273805": {
+"name": "Blackrock Harness",
+"quality": 3,
+"tip": "Blackrock Harness | Item Level 26 | BoP ChestLeather96 Armor | +8 Stamina | Durability 95 / 95Requires Level 21 | Equip: Increased Defense +4. | Equip: +14 Attack Power. |"
+},
+"273806": {
+"name": "Dark Horde Band",
+"quality": 3,
+"tip": "Dark Horde Band | Item Level 26 | BoP  | Unique-EquippedFinger+6 StaminaRequires Level 21 | Equip: Increases damage and healing done by magical spells and effects by up to 6. |"
+},
+"273807": {
+"name": "Demolition Girdle",
+"quality": 3,
+"tip": "Demolition Girdle | Item Level 29 | BoP WaistLeather57 Armor | +8 Strength | Durability 35 / 35Requires Level 24 | Equip: Increases damage done by magical spells and effects by up to 9. |"
+},
+"273808": {
+"name": "Bridgebreaker Bindings",
+"quality": 3,
+"tip": "Bridgebreaker Bindings | Item Level 29 | BoP WristCloth20 Armor | +7 Fire Resistance | Durability 30 / 30Requires Level 24 | Equip: Increases healing done by up to 9 and damage done by up to 3 for all magical spells and effects. |"
+},
+"273809": {
+"name": "Hamhock's Cleaver",
+"quality": 3,
+"tip": "Hamhock's Cleaver | Item Level 30 | BoP Main HandAxe 29 - 54 Damage Speed 2.20 (18.86 damage per second) | +4 Strength | Durability 90 / 90Requires Level 25 | Equip: +8 Attack Power. | Equip: +9 Attack Power against Humanoids. |"
+},
+"273810": {
+"name": "Ogre Grips",
+"quality": 3,
+"tip": "Ogre Grips | Item Level 30 | BoP HandsMail136 Armor | +4 Strength | +10 Stamina | Durability 40 / 40Requires Level 25 |"
+},
+"273811": {
+"name": "Repurposed Rack",
+"quality": 3,
+"tip": "Repurposed Rack | Item Level 30 | BoP Off HandShield661 Armor | 14 Block | +6 Strength | Durability 100 / 100Requires Level 25 | Equip: Increases damage and healing done by magical spells and effects by up to 7. |"
+},
+"273817": {
+"name": "Graverobber's Shovel",
+"quality": 3,
+"tip": "Graverobber's Shovel | Item Level 28 | BoP  | UniqueTwo-HandMace 68 - 102 Damage Speed 3.70 (22.97 damage per second) | +10 Stamina | Durability 95 / 95Requires Level 23 | Equip: +12 Attack Power, doubled against Undead targets. | | Use: Dig up a grave. Usable at Raven Hill Cemetery and Scarlet Monastery Graveyard. (2 Min Cooldown) | 20 Charges |"
+},
+"273819": {
+"name": "Boneslicer",
+"quality": 3,
+"tip": "Boneslicer | Item Level 28 | BoP Two-HandPolearm 36 - 55 Damage Speed 2.00 (22.75 damage per second) | Durability 95 / 95Requires Level 23 | Chance on hit: Wounds the target for 70 Physical damage. |"
+},
+"273820": {
+"name": "Nightskulker Ring",
+"quality": 3,
+"tip": "Nightskulker Ring | Item Level 28 | BoP  | Unique-EquippedFingerRequires Level 23 | Equip: Reduces the hit chance of Fear effects against you by 4%. | | Equip: Increases movement speed by 2% in Duskwood. |"
+},
+"273824": {
+"name": "Defias Jailbreakers",
+"quality": 3,
+"tip": "Defias Jailbreakers | Item Level 31 | BoP HandsLeather65 Armor | +6 Agility | +7 Stamina | Durability 35 / 35Requires Level 26 | Equip: Lockpicking +4. |"
+},
+"273825": {
+"name": "Red Wool Cloak",
+"quality": 3,
+"tip": "Red Wool Cloak | Item Level 31 | BoP Back24 Armor | Restores +3 mana per 5 sec.Requires Level 26 | Equip: Increases healing done by up to 9 and damage done by up to 3 for all magical spells and effects. |"
+},
+"273827": {
+"name": "Debt Collector",
+"quality": 3,
+"tip": "Debt Collector | Item Level 31 | BoP Main HandSword 21 - 39 Damage Speed 2.30 (13.04 damage per second) | Durability 90 / 90Requires Level 26 | Equip: Increases damage and healing done by magical spells and effects by up to 34. | | Equip: Grants 6 health and 2 mana every 5 sec for 15 sec when one of your spells is resisted. |"
+},
+"273829": {
+"name": "Concealed Hand Crossbow",
+"quality": 3,
+"tip": "Concealed Hand Crossbow | Item Level 31 | BoP RangedCrossbow 24 - 37 Damage Speed 2.00 (15.25 damage per second) | +12 Ranged Attack Power | Durability 75 / 75Requires Level 26 |"
+},
+"2280": {
+"name": "Kam's Walking Stick",
+"quality": 3,
+"tip": "Kam's Walking Stick | Item Level 29 | BoP Two-HandStaff 39 - 60 Damage Speed 2.80 (17.68 damage per second) | +10 Agility | +3 Intellect | Durability 100 / 100Requires Level 24 | Equip: Increases damage and healing done by magical spells and effects by up to 32. | | Equip: Reduces the duration of all movement impairing effects on you by 10%. |"
+},
+"9802": {
+"name": "Superior Boots",
+"quality": 2,
+"tip": "Superior Boots | Item Level 26 | BoE FeetLeather60 Armor | <Random enchantment> | Durability 40 / 40Requires Level 21 |"
+},
+"4716": {
+"name": "Combat Cloak",
+"quality": 2,
+"tip": "Combat Cloak | Item Level 32 | BoE Back22 Armor | +6 Stamina | +2 SpiritRequires Level 27 |"
+},
+"2941": {
+"name": "Prison Shank",
+"quality": 3,
+"tip": "Prison Shank | Item Level 28 | BoP One-HandDagger 22 - 42 Damage Speed 1.80 (17.78 damage per second) | +6 Agility | +2 Stamina | Durability 60 / 60Requires Level 23 |"
+},
+"2942": {
+"name": "Iron Knuckles",
+"quality": 3,
+"tip": "Iron Knuckles | Item Level 28 | BoP One-HandFist Weapon 21 - 39 Damage Speed 1.70 (17.65 damage per second) | Durability 60 / 60Requires Level 23 | Chance on hit: Pummel the target for 25 damage and interrupt the spell being cast for 5 sec. |"
+},
+"1076": {
+"name": "Defias Renegade Ring",
+"quality": 3,
+"tip": "Defias Renegade Ring | Item Level 26 | BoP  | Unique-EquippedFinger+4 Agility | +6 StaminaRequires Level 21 |"
+},
+"2033": {
+"name": "Ambassador's Boots",
+"quality": 2,
+"tip": "Ambassador's Boots | Item Level 28 | BoP FeetLeather62 Armor | +3 Agility | +5 Stamina | +4 Spirit | Durability 40 / 40"
+},
+"2906": {
+"name": "Darkshire Mail Leggings",
+"quality": 2,
+"tip": "Darkshire Mail Leggings | Item Level 28 | BoP LegsMail168 Armor | +7 Strength | +7 Spirit | Durability 70 / 70"
+},
+"270029": {
+"name": "Town Clerk's Mittens",
+"quality": 2,
+"tip": "Town Clerk's Mittens | Item Level 28 | BoP HandsCloth26 Armor | +7 Intellect | Durability 25 / 25Equip: Increases damage and healing done by magical spells and effects by up to 3. |"
+},
+"3400": {
+"name": "Lucine Longsword",
+"quality": 2,
+"tip": "Lucine Longsword | Item Level 27 | BoP Main HandSword 24 - 46 Damage Speed 2.50 (14.00 damage per second) | +3 Stamina | +3 Spirit | Durability 65 / 65"
+},
+"1317": {
+"name": "Hardened Root Staff",
+"quality": 2,
+"tip": "Hardened Root Staff | Item Level 27 | BoP Two-HandStaff 36 - 54 Damage Speed 3.30 (13.64 damage per second) | +1 Strength | +9 Spirit | Durability 75 / 75Equip: Increases damage and healing done by magical spells and effects by up to 20. |"
+},
+"270027": {
+"name": "Ursine Hammer",
+"quality": 2,
+"tip": "Ursine Hammer | Item Level 27 | BoP Two-HandMace 47 - 71 Damage Speed 3.20 (18.44 damage per second) | +5 Agility | +5 Intellect | +5 Spirit | Durability 95 / 95"
+},
+"281296": {
+"name": "Knight's Lance",
+"quality": 2,
+"tip": "Knight's Lance | Item Level 25 | BoP Two-HandPolearm 44 - 67 Damage Speed 3.30 (16.82 damage per second) | +7 Agility | +5 Stamina | Durability 75 / 75"
+},
+"281297": {
+"name": "Royal Dagger",
+"quality": 2,
+"tip": "Royal Dagger | Item Level 25 | BoP Main HandDagger 10 - 19 Damage Speed 1.70 (8.53 damage per second) | +4 Intellect | Durability 45 / 45Equip: Increases damage and healing done by magical spells and effects by up to 18. |"
+},
+"2933": {
+"name": "Seal of Wrynn",
+"quality": 3,
+"tip": "Seal of Wrynn | Item Level 31 | BoP  | Unique-EquippedFinger+3 Strength | +3 Agility | +4 Stamina | +4 Intellect | +3 Spirit"
+},
+"6095": {
+"name": "Wandering Boots",
+"quality": 2,
+"tip": "Wandering Boots | Item Level 24 | BoP FeetCloth26 Armor | +4 Stamina | +4 Intellect | Durability 30 / 30"
+},
+"3248": {
+"name": "Translated Letter from The Embalmer",
+"quality": 1,
+"tip": "Translated Letter from The Embalmer | Item Level 1 | Quest Item | Unique<Right Click to Read> |"
+},
+"3033": {
+"name": "Solid Shot",
+"quality": 1,
+"tip": "Solid Shot | Item Level 30AmmoBulletAdds 7.5 damage per second Requires Level 25 | Max Stack: 200"
+},
+"3030": {
+"name": "Razor Arrow",
+"quality": 1,
+"tip": "Razor Arrow | Item Level 30AmmoArrowAdds 7.5 damage per second Requires Level 25 | Max Stack: 200"
+},
+"2794": {
+"name": "An Old History Book",
+"quality": 1,
+"tip": "An Old History Book | Item Level 20 | BoP  | Unique | This Item Begins a QuestRequires Level 20 |"
+},
+"11304": {
+"name": "Fine Longbow",
+"quality": 2,
+"tip": "Fine Longbow | Item Level 19 | BoE RangedBow 14 - 26 Damage Speed 2.70 (7.41 damage per second) | Durability 45 / 45Requires Level 14 | Equip: +4 Attack Power. |"
+},
+"3027": {
+"name": "Heavy Recurve Bow",
+"quality": 1,
+"tip": "Heavy Recurve Bow | Item Level 25RangedBow 15 - 29 Damage Speed 2.40 (9.17 damage per second) | Durability 55 / 55Requires Level 20 |"
+},
+"3026": {
+"name": "Reinforced Bow",
+"quality": 1,
+"tip": "Reinforced Bow | Item Level 21RangedBow 11 - 22 Damage Speed 2.20 (7.50 damage per second) | Durability 50 / 50Requires Level 16 |"
+},
+"11285": {
+"name": "Jagged Arrow",
+"quality": 1,
+"tip": "Jagged Arrow | Item Level 45AmmoArrowAdds 13 damage per second Requires Level 40 | Max Stack: 200"
+},
+"11362": {
+"name": "Medium Quiver",
+"quality": 1,
+"tip": "Medium Quiver | Item Level 15 | 10 Slot QuiverRequires Level 10 | Equip: Increases ranged attack speed by 10%. |"
+},
+"5439": {
+"name": "Small Quiver",
+"quality": 1,
+"tip": "Small Quiver | Item Level 5 | 8 Slot QuiverEquip: Increases ranged attack speed by 10%. |"
+},
+"2943": {
+"name": "Eye of Paleth",
+"quality": 2,
+"tip": "Eye of Paleth | Item Level 31 | BoP Held In Off-handEquip: Increases healing done by up to 13 and damage done by up to 4 for all magical spells and effects. |"
+},
+"2519": {
+"name": "Heavy Shot",
+"quality": 1,
+"tip": "Heavy Shot | Item Level 15AmmoBulletAdds 3.5 damage per second Requires Level 10 | Max Stack: 200"
+},
+"10043": {
+"name": "Pious Legwraps",
+"quality": 2,
+"tip": "Pious Legwraps | Item Level 31 | BoP LegsCloth38 Armor | +8 Stamina | +7 Spirit | Durability 55 / 55"
+},
+"5614": {
+"name": "Seraph's Strike",
+"quality": 2,
+"tip": "Seraph's Strike | Item Level 31 | BoP Two-HandSword 54 - 81 Damage Speed 3.20 (21.09 damage per second) | +3 Strength | +10 Spirit | Durability 85 / 85"
+},
+"5462": {
+"name": "Dartol's Rod of Transformation",
+"quality": 1,
+"tip": "Dartol's Rod of Transformation | Item Level 1 | BoP  | Unique | ToyUse: Transforms you into a Furbolg for 3 min. (1 Min Cooldown) |"
+},
+"3558": {
+"name": "Fen Keeper Robe",
+"quality": 2,
+"tip": "Fen Keeper Robe | Item Level 25 | BoP ChestCloth39 Armor | +9 Spirit | Durability 65 / 65"
+},
+"1273": {
+"name": "Forest Chain",
+"quality": 2,
+"tip": "Forest Chain | Item Level 25 | BoP ChestMail183 Armor | +2 Stamina | +8 Spirit | Durability 90 / 90"
+},
+"2263": {
+"name": "Phytoblade",
+"quality": 2,
+"tip": "Phytoblade | Item Level 25 | BoP Main HandSword 25 - 47 Damage Speed 2.80 (12.86 damage per second) | Durability 65 / 65Requires Herbalism (100) | Chance on hit: Blasts a target for 35 Nature damage. |"
+},
+"281309": {
+"name": "Razormaw Shorts",
+"quality": 2,
+"tip": "Razormaw Shorts | Item Level 30 | BoP LegsLeather82 Armor | +8 Agility | +6 Stamina | Durability 65 / 65"
+},
+"281310": {
+"name": "Carnage Trousers",
+"quality": 2,
+"tip": "Carnage Trousers | Item Level 30 | BoP LegsLeather82 Armor | +6 Stamina | +8 Intellect | Durability 65 / 65"
+},
+"281312": {
+"name": "Fallen Dragon's Scepter",
+"quality": 3,
+"tip": "Fallen Dragon's Scepter | Item Level 32 | BoP Two-HandStaff 54 - 81 Damage Speed 3.40 (19.85 damage per second) | +11 Intellect | +13 Spirit | Durability 100 / 100Equip: Increases damage and healing done by magical spells and effects by up to 36. |"
+},
+"281313": {
+"name": "Trusty Sword",
+"quality": 3,
+"tip": "Trusty Sword | Item Level 32 | BoP Two-HandSword 70 - 106 Damage Speed 3.30 (26.67 damage per second) | +12 Stamina | +12 Spirit | Durability 100 / 100"
+},
+"281314": {
+"name": "Subdued Dragon's Fang",
+"quality": 3,
+"tip": "Subdued Dragon's Fang | Item Level 32 | BoP One-HandDagger 24 - 46 Damage Speed 1.70 (20.59 damage per second) | +7 Agility | +2 Stamina | Durability 65 / 65"
+},
+"281306": {
+"name": "Flamescarred Spellbook",
+"quality": 2,
+"tip": "Flamescarred Spellbook | Item Level 31 | BoP Held In Off-hand+2 Stamina | +5 Spirit\"Stoutfist insists this book should be destroyed, but maybe you can get some use out of it first.\" |"
+},
+"281307": {
+"name": "Dragonmaw Buckler",
+"quality": 2,
+"tip": "Dragonmaw Buckler | Item Level 31 | BoP Off HandShield595 Armor | 12 Block | +3 Strength | +5 Stamina | Durability 85 / 85"
+},
+"3209": {
+"name": "Ancient War Sword",
+"quality": 2,
+"tip": "Ancient War Sword | Item Level 32 | BoP Two-HandSword 57 - 86 Damage Speed 3.30 (21.67 damage per second) | +9 Strength | +6 Stamina | Durability 85 / 85"
+},
+"6194": {
+"name": "Barreling Reaper",
+"quality": 2,
+"tip": "Barreling Reaper | Item Level 32 | BoP Main HandAxe 22 - 41 Damage Speed 1.90 (16.58 damage per second) | +5 Stamina | Durability 75 / 75"
+},
+"2916": {
+"name": "Gold Lion Shield",
+"quality": 2,
+"tip": "Gold Lion Shield | Item Level 34 | BoP Off HandShield645 Armor | 13 Block | +2 Strength | +5 Stamina | +3 Spirit | Durability 85 / 85"
+},
+"2917": {
+"name": "Tranquil Ring",
+"quality": 2,
+"tip": "Tranquil Ring | Item Level 34 | BoP Finger+1 Intellect | +7 Spirit"
+},
+"270050": {
+"name": "Fury Ring",
+"quality": 2,
+"tip": "Fury Ring | Item Level 34 | BoP Finger+6 Strength | +2 Spirit"
+},
+"4504": {
+"name": "Dwarven Guard Cloak",
+"quality": 2,
+"tip": "Dwarven Guard Cloak | Item Level 31 | BoP Back22 Armor | +1 Agility | +6 Stamina"
+},
+"4505": {
+"name": "Swampland Trousers",
+"quality": 2,
+"tip": "Swampland Trousers | Item Level 31 | BoP LegsCloth38 Armor | +11 Stamina | +4 Intellect | Durability 55 / 55"
+},
+"281258": {
+"name": "Essene's Hope",
+"quality": 2,
+"tip": "Essene's Hope | Item Level 33 | BoP Neck+7 Spirit"
+},
+"6714": {
+"name": "Ez-Thro Dynamite",
+"quality": 1,
+"tip": "Ez-Thro Dynamite | Item Level 25Requires Level 10 | | Use: The dynamite for Non-Engineers that nearly always gets to the target! Inflicts 51 to 69 Fire damage in a 5 yard radius. (1 Min Cooldown) | \"So E-Z, even your cat could throw it.\" | Max Stack: 20"
+},
+"5629": {
+"name": "Hammerfist Gloves",
+"quality": 2,
+"tip": "Hammerfist Gloves | Item Level 20 | BoP HandsLeather48 Armor | +3 Strength | +3 Agility | Durability 25 / 25"
+},
+"5630": {
+"name": "Windfelt Gloves",
+"quality": 2,
+"tip": "Windfelt Gloves | Item Level 20 | BoP HandsLeather48 Armor | +3 Intellect | Durability 25 / 25Equip: Increases damage and healing done by magical spells and effects by up to 4. |"
+},
+"11936": {
+"name": "Relic Hunter Belt",
+"quality": 2,
+"tip": "Relic Hunter Belt | Item Level 20 | BoP WaistCloth19 Armor | +2 Strength | +4 Intellect | +2 Spirit | Durability 20 / 20"
+},
+"281318": {
+"name": "Bouquet of Auberdine Flowers",
+"quality": 2,
+"tip": "Bouquet of Auberdine Flowers | Item Level 29 | BoP Held In Off-hand+4 Stamina | +4 Intellect"
+},
+"3493": {
+"name": "Raptor's End",
+"quality": 2,
+"tip": "Raptor's End | Item Level 30 | BoP RangedBow 24 - 46 Damage Speed 2.90 (12.07 damage per second) | +2 Agility | +2 Stamina | Durability 65 / 65"
+},
+"3566": {
+"name": "Raptorbane Armor",
+"quality": 2,
+"tip": "Raptorbane Armor | Item Level 29 | BoP ChestLeather92 Armor | +3 Stamina | Durability 85 / 85Equip: +16 Attack Power. | Equip: +15 Attack Power against Beasts. |"
+},
+"5246": {
+"name": "Excavation Rod",
+"quality": 2,
+"tip": "Excavation Rod | Item Level 30 | BoP RangedWand 32 - 60 Fire Damage Speed 1.90 (24.21 damage per second) | +2 Stamina | Durability 55 / 55Equip: Increases damage and healing done by magical spells and effects by up to 2. |"
+},
+"270039": {
+"name": "Raptorclaw Shoulders",
+"quality": 2,
+"tip": "Raptorclaw Shoulders | Item Level 29 | BoP ShoulderLeather69 Armor | +3 Intellect | Durability 50 / 50Equip: Increases damage and healing done by magical spells and effects by up to 7. |"
+},
+"2913": {
+"name": "Silk Mantle of Gamn",
+"quality": 2,
+"tip": "Silk Mantle of Gamn | Item Level 28 | BoP ShoulderCloth31 Armor | +6 Intellect | +4 Spirit | Durability 40 / 40"
+},
+"281304": {
+"name": "Prospector's Signet",
+"quality": 2,
+"tip": "Prospector's Signet | Item Level 31 | BoP Finger+4 Stamina | +4 Intellect"
+},
+"281305": {
+"name": "Excavation Cloak",
+"quality": 2,
+"tip": "Excavation Cloak | Item Level 31 | BoP Back22 Armor | +4 Strength | +4 Stamina"
+},
+"281319": {
+"name": "Golem War Cloak",
+"quality": 3,
+"tip": "Golem War Cloak | Item Level 32 | BoP Back24 Armor | +6 Strength | +72 Armor"
+},
+"281320": {
+"name": "Rune-Etched Ring",
+"quality": 3,
+"tip": "Rune-Etched Ring | Item Level 32 | BoP Finger+10 Stamina"
+},
+"281321": {
+"name": "Giantstone Medallion",
+"quality": 3,
+"tip": "Giantstone Medallion | Item Level 32 | BoP Neck+10 Spirit"
+},
+"3352": {
+"name": "Ooze-covered Bag",
+"quality": 1,
+"tip": "Ooze-covered Bag | Item Level 25 | BoP  | Unique | 10 Slot Bag"
+},
+"270865": {
+"name": "Titan Relic",
+"quality": 1,
+"tip": "Titan Relic | Item Level 1 | BoP  | Unique | This Item Begins a Quest\"Fragmented remnants of the construct, refracting light like a kaleidoscope.\" | Dropped by: Relic GuardianDrop Chance: 26.78%"
+},
+"287959": {
+"name": "Titan Relic",
+"quality": 1,
+"tip": "Titan Relic | Item Level 1 | BoP  | Unique\"Fragmented remnants of the construct, refracting light like a kaleidoscope.\" |"
+},
+"280403": {
+"name": "Whelgar Relic Package",
+"quality": 1,
+"tip": "Whelgar Relic Package | Item Level 1 | Quest Item | Unique"
+},
+"270901": {
+"name": "Reed-woven Heart",
+"quality": 1,
+"tip": "Reed-woven Heart | Item Level 25 | Quest Item | Unique\"Braided grass in the shape of a heart.\" | Max Stack: 20"
+},
+"270180": {
+"name": "Horrible Rootcore",
+"quality": 1,
+"tip": "Horrible Rootcore | Item Level 25 | Quest Item | UniqueMax Stack: 20Dropped by: Highland HorrorDrop Chance: 64.32%"
+},
+"274042": {
+"name": "Skullduggery Belt",
+"quality": 3,
+"tip": "Skullduggery Belt | Item Level 34 | BoP WaistLeather62 Armor | +7 Spirit | Durability 35 / 35Requires Level 29 | Equip: +16 Attack Power. | | Equip: Increases your effective stealth level by 1. |"
+},
+"12039": {
+"name": "Tundra Necklace",
+"quality": 2,
+"tip": "Tundra Necklace | Item Level 33 | BoE Neck<Random enchantment>Requires Level 28 |"
+},
+"9445": {
+"name": "Grubbis Paws",
+"quality": 3,
+"tip": "Grubbis Paws | Item Level 34 | BoP HandsMail144 Armor | +6 Strength | +5 Agility | +9 Spirit | Durability 40 / 40Requires Level 29 |"
+},
+"9452": {
+"name": "Hydrocane",
+"quality": 3,
+"tip": "Hydrocane | Item Level 32 | BoP Two-HandStaff 44 - 67 Damage Speed 2.80 (19.82 damage per second) | +15 Frost Resistance | Durability 100 / 100Requires Level 27 | Equip: Increases damage and healing done by magical spells and effects by up to 36. | | Equip: Underwater Breath lasts 50% longer than normal. |"
+},
+"9453": {
+"name": "Toxic Revenger",
+"quality": 3,
+"tip": "Toxic Revenger | Item Level 32 | BoP  | Unique-EquippedOne-HandDagger 27 - 51 Damage Speed 1.90 (20.53 damage per second) | Durability 65 / 65Requires Level 27 | Chance on hit: Deals 14 Nature damage every 3 sec to any enemy in an 8 yard radius around the caster for 12 sec. |"
+},
+"9454": {
+"name": "Acidic Walkers",
+"quality": 3,
+"tip": "Acidic Walkers | Item Level 32 | BoP FeetCloth34 Armor | +8 Intellect | +4 Spirit | +5 Nature Resistance | Durability 40 / 40Requires Level 27 | Equip: Increases damage and healing done by magical spells and effects by up to 5. |"
+},
+"9446": {
+"name": "Electrocutioner Leg",
+"quality": 3,
+"tip": "Electrocutioner Leg | Item Level 34 | BoP Main HandSword 26 - 49 Damage Speed 1.70 (22.06 damage per second) | Durability 90 / 90Requires Level 29 | Chance on hit: Blasts a target for 19 to 37 Nature damage. Mechanical targets take 2x damage. |"
+},
+"9447": {
+"name": "Electrocutioner Lagnut",
+"quality": 3,
+"tip": "Electrocutioner Lagnut | Item Level 34 | BoP  | Unique-EquippedFinger+4 Stamina | +7 SpiritRequires Level 29 | Equip: Increases healing done by up to 9 and damage done by up to 3 for all magical spells and effects. |"
+},
+"9448": {
+"name": "Spidertank Oilrag",
+"quality": 3,
+"tip": "Spidertank Oilrag | Item Level 34 | BoP WristCloth22 Armor | Restores +3 mana per 5 sec. | Durability 25 / 25Requires Level 29 | Equip: Increases damage and healing done by magical spells and effects by up to 9. |"
+},
+"9449": {
+"name": "Manual Crowd Pummeler",
+"quality": 3,
+"tip": "Manual Crowd Pummeler | Item Level 34 | BoP  | UniqueTwo-HandMace 46 - 70 Damage Speed 2.00 (29.00 damage per second) | +16 Strength | +5 Agility | Durability 100 / 100Requires Level 29 | Use: Increases your attack speed by 50% for 30 sec. (3 Min Cooldown) | 3 Charges |"
+},
+"9450": {
+"name": "Gnomebot Operating Boots",
+"quality": 3,
+"tip": "Gnomebot Operating Boots | Item Level 34 | BoP FeetLeather76 Armor | +12 Stamina | Durability 45 / 45Requires Level 29 | Equip: Increases healing done by up to 11 and damage done by up to 4 for all magical spells and effects. |"
+},
+"5007": {
+"name": "Band of Thorns",
+"quality": 2,
+"tip": "Band of Thorns | Item Level 31 | BoE Finger+6 SpiritRequires Level 26 |"
+},
+"274068": {
+"name": "Thermaplugg Medal of Honor",
+"quality": 3,
+"tip": "Thermaplugg Medal of Honor | Item Level 34 | BoP Neck+6 Stamina | +6 SpiritRequires Level 29 | Equip: +10 Attack Power. | \"Azeroth's Best Pummeler\" |"
+},
+"9455": {
+"name": "Emissary Cuffs",
+"quality": 3,
+"tip": "Emissary Cuffs | Item Level 35 | BoP WristLeather49 Armor | <Random enchantment> | +6 Arcane Resistance | Durability 35 / 35Requires Level 30 |"
+},
+"9456": {
+"name": "Glass Shooter",
+"quality": 3,
+"tip": "Glass Shooter | Item Level 35 | BoP RangedGun 36 - 68 Damage Speed 2.90 (17.93 damage per second) | Durability 75 / 75Requires Level 30 | Equip: +12 Attack Power. |"
+},
+"9457": {
+"name": "Royal Diplomatic Scepter",
+"quality": 3,
+"tip": "Royal Diplomatic Scepter | Item Level 35 | BoP Main HandMace 24 - 46 Damage Speed 2.30 (15.22 damage per second) | +3 Stamina | +7 Spirit | Durability 90 / 90Requires Level 30 | Equip: Increases healing done by up to 75 and damage done by up to 25 for all magical spells and effects. |"
+},
+"9458": {
+"name": "Thermaplugg's Central Core",
+"quality": 3,
+"tip": "Thermaplugg's Central Core | Item Level 36 | BoP Off HandShield776 Armor | 17 Block | +3 Spirit | Durability 100 / 100Requires Level 31 | Equip: When struck in combat has a 5% chance of inflicting 65 to 121 Nature damage to the attacker. (Proc chance: 5%) |"
+},
+"9459": {
+"name": "Thermaplugg's Left Arm",
+"quality": 3,
+"tip": "Thermaplugg's Left Arm | Item Level 36 | BoP Two-HandAxe 67 - 102 Damage Speed 2.70 (31.30 damage per second) | +17 Strength | +5 Stamina | +4 Intellect | Durability 100 / 100Requires Level 31 |"
+},
+"9461": {
+"name": "Charged Gear",
+"quality": 3,
+"tip": "Charged Gear | Item Level 36 | BoP Finger<Random enchantment> | +5 Arcane Resistance | +5 Nature ResistanceRequires Level 31 |"
+},
+"9492": {
+"name": "Electromagnetic Gigaflux Reactivator",
+"quality": 3,
+"tip": "Electromagnetic Gigaflux Reactivator | Item Level 36 | BoP HeadCloth43 Armor | +8 Intellect | +9 Spirit | Durability 50 / 50Requires Level 31 | Equip: Increases damage and healing done by magical spells and effects by up to 8. | | Use: Channels a bolt of lightning and hurls it towards all enemies in front of the caster causing 189 to 209 Nature damage. The caster is then surrounded by a barrier of electricity for 5 min. (5 Min Cooldown) |"
+},
+"9486": {
+"name": "Supercharger Battle Axe",
+"quality": 3,
+"tip": "Supercharger Battle Axe | Item Level 28 | BoE Two-HandAxe 51 - 78 Damage Speed 2.80 (23.04 damage per second) | Durability 95 / 95Requires Level 23 | Chance on hit: Blasts a target for 93 to 117 Nature damage. |"
+},
+"9488": {
+"name": "Oscillating Power Hammer",
+"quality": 3,
+"tip": "Oscillating Power Hammer | Item Level 28 | BoE One-HandMace 24 - 46 Damage Speed 2.00 (17.50 damage per second) | +5 Strength | +1 Stamina | Durability 80 / 80Requires Level 23 |"
+},
+"9490": {
+"name": "Gizmotron Megachopper",
+"quality": 3,
+"tip": "Gizmotron Megachopper | Item Level 29 | BoE Two-HandSword 61 - 92 Damage Speed 3.20 (23.91 damage per second) | +14 Strength | +5 Agility | Durability 100 / 100Requires Level 24 |"
+},
+"9487": {
+"name": "Hi-Tech Supergun",
+"quality": 3,
+"tip": "Hi-Tech Supergun | Item Level 29 | BoE RangedGun 23 - 43 Damage Speed 2.30 (14.35 damage per second) | Durability 75 / 75Requires Level 24 | Equip: Increased Defense +3. |"
+},
+"9491": {
+"name": "Hotshot Pilot's Gloves",
+"quality": 3,
+"tip": "Hotshot Pilot's Gloves | Item Level 32 | BoE HandsCloth31 Armor | +4 Agility | +5 Stamina | +8 Intellect | +5 Spirit | Durability 30 / 30Requires Level 27 |"
+},
+"9508": {
+"name": "Mechbuilder's Overalls",
+"quality": 3,
+"tip": "Mechbuilder's Overalls | Item Level 31 | BoE ChestCloth48 Armor | +5 Stamina | +12 Intellect | +5 Arcane Resistance | Durability 80 / 80Requires Level 26 | Requires Engineering (75) | Equip: Increases damage and healing done by magical spells and effects by up to 8. |"
+},
+"9509": {
+"name": "Petrolspill Leggings",
+"quality": 3,
+"tip": "Petrolspill Leggings | Item Level 30 | BoE LegsLeather90 Armor | +14 Agility | +6 Stamina | Durability 75 / 75Requires Level 25 | Equip: Fire damage taken increased by 10%. | \"Keep away from fire.\" |"
+},
+"9510": {
+"name": "Caverndeep Trudgers",
+"quality": 3,
+"tip": "Caverndeep Trudgers | Item Level 32 | BoE FeetMail154 Armor | +4 Strength | +10 Stamina | +40 Armor | Durability 60 / 60Requires Level 27 |"
+},
+"10299": {
+"name": "Gnomeregan Amulet",
+"quality": 2,
+"tip": "Gnomeregan Amulet | Item Level 31 | BoP Neck<Random enchantment>Requires Level 26 |"
+},
+"9605": {
+"name": "Repairman's Cape",
+"quality": 2,
+"tip": "Repairman's Cape | Item Level 32 | BoP Back22 Armor | +3 Intellect | +5 SpiritEquip: Increases healing done by up to 6 and damage done by up to 2 for all magical spells and effects. |"
+},
+"9604": {
+"name": "Mechanic's Pipehammer",
+"quality": 2,
+"tip": "Mechanic's Pipehammer | Item Level 32 | BoP Two-HandMace 48 - 73 Damage Speed 2.80 (21.61 damage per second) | +12 Intellect | Durability 85 / 85"
+},
+"9623": {
+"name": "Civinad Robes",
+"quality": 3,
+"tip": "Civinad Robes | Item Level 37 | BoP ChestCloth54 Armor | +7 Stamina | +12 Spirit | Durability 80 / 80Equip: Increases healing done by up to 26 and damage done by up to 9 for all magical spells and effects. |"
+},
+"9624": {
+"name": "Triprunner Dungarees",
+"quality": 3,
+"tip": "Triprunner Dungarees | Item Level 37 | BoP LegsLeather101 Armor | +3 Strength | +18 Agility | +6 Stamina | Durability 75 / 75"
+},
+"9625": {
+"name": "Dual Reinforced Leggings",
+"quality": 3,
+"tip": "Dual Reinforced Leggings | Item Level 37 | BoP LegsMail211 Armor | +12 Strength | +120 Armor | Durability 90 / 90Equip: Increased Defense +5. |"
+},
+"9608": {
+"name": "Shoni's Disarming Tool",
+"quality": 2,
+"tip": "Shoni's Disarming Tool | Item Level 32 | BoP Off HandAxe 22 - 41 Damage Speed 1.90 (16.58 damage per second) | +4 Spirit | Durability 75 / 75Chance on hit: Disarm target's weapon for 5 sec. |"
+},
+"9609": {
+"name": "Shilly Mitts",
+"quality": 2,
+"tip": "Shilly Mitts | Item Level 32 | BoP HandsCloth28 Armor | +6 Spirit | +40 Armor | Durability 25 / 25Equip: Increases damage and healing done by magical spells and effects by up to 5. |"
+},
+"270045": {
+"name": "Operator's Gloves",
+"quality": 2,
+"tip": "Operator's Gloves | Item Level 32 | BoP HandsLeather60 Armor | +6 Strength | +4 Stamina | +4 Spirit | Durability 30 / 30"
+},
+"271767": {
+"name": "Healer's Staff",
+"quality": 3,
+"tip": "Healer's Staff | Item Level 33 | BoP Two-HandStaff 43 - 65 Damage Speed 2.60 (20.77 damage per second) | +12 Stamina | Restores +5 mana per 5 sec. | Durability 100 / 100Equip: Increases healing done by up to 67 and damage done by up to 22 for all magical spells and effects. |"
+},
+"9538": {
+"name": "Talvash's Gold Ring",
+"quality": 3,
+"tip": "Talvash's Gold Ring | Item Level 37 | BoP  | Unique-EquippedFinger+10 StaminaEquip: Increased Defense +3. |"
+},
+"4535": {
+"name": "Ironforge Memorial Ring",
+"quality": 2,
+"tip": "Ironforge Memorial Ring | Item Level 31 | BoP Finger+5 Stamina | +4 Spirit"
+},
+"273023": {
+"name": "Saltscale Girdle",
+"quality": 3,
+"tip": "Saltscale Girdle | Item Level 31 | BoP WaistMail124 Armor | +9 Strength | +9 Intellect | Durability 40 / 40Requires Level 26 |"
+},
+"273024": {
+"name": "Glinteye Slippers",
+"quality": 3,
+"tip": "Glinteye Slippers | Item Level 31 | BoP FeetCloth33 Armor | +9 Stamina | +6 Spirit | Durability 40 / 40Requires Level 26 | Equip: Increases damage and healing done by magical spells and effects by up to 7. |"
+},
+"273025": {
+"name": "Raptorclaw Greaves",
+"quality": 3,
+"tip": "Raptorclaw Greaves | Item Level 31 | BoP FeetMail152 Armor | +7 Strength | +7 Stamina | +6 Intellect | Durability 60 / 60Requires Level 26 |"
+},
+"273027": {
+"name": "Raptor's Gaze",
+"quality": 3,
+"tip": "Raptor's Gaze | Item Level 31 | BoP Held In Off-hand+4 Stamina | +4 IntellectRequires Level 26 | Equip: Increases damage and healing done by magical spells and effects by up to 8. |"
+},
+"273028": {
+"name": "Reliquary Mantle",
+"quality": 3,
+"tip": "Reliquary Mantle | Item Level 33 | BoP ShoulderMail171 Armor | +12 Stamina | Durability 70 / 70Requires Level 28 | Equip: Improves your chance to hit by 0.4%. |"
+},
+"273030": {
+"name": "Ring of Power Regulation",
+"quality": 3,
+"tip": "Ring of Power Regulation | Item Level 33 | BoP  | Unique-EquippedFingerRestores +3 mana per 5 sec.Requires Level 28 | Equip: Increases damage and healing done by magical spells and effects by up to 6. |"
+},
+"271667": {
+"name": "Ironwood Destroyer",
+"quality": 2,
+"tip": "Ironwood Destroyer | Item Level 33 | BoP Two-HandMace 60 - 91 Damage Speed 3.40 (22.21 damage per second) | Durability 100 / 100Equip: Increases damage done by Nature spells and effects by up to 19. |"
+},
+"271670": {
+"name": "Curl of Life",
+"quality": 2,
+"tip": "Curl of Life | Item Level 33 | BoP  | Unique-EquippedFinger+5 StaminaEquip: Increases damage and healing done by magical spells and effects by up to 5. |"
+},
+"271664": {
+"name": "Hornbeam Heft",
+"quality": 2,
+"tip": "Hornbeam Heft | Item Level 33 | BoP One-HandAxe 19 - 36 Damage Speed 2.40 (11.46 damage per second) | +6 Strength | Durability 90 / 90Equip: Increases damage and healing done by magical spells and effects by up to 26. |"
+},
+"271769": {
+"name": "Daewyn's Girdle",
+"quality": 2,
+"tip": "Daewyn's Girdle | Item Level 33 | BoP WaistCloth25 Armor | +6 Spirit | Durability 25 / 25Equip: Increases damage and healing done by magical spells and effects by up to 7. |"
+},
+"271768": {
+"name": "Songblade Stabilizer",
+"quality": 2,
+"tip": "Songblade Stabilizer | Item Level 33 | BoP WaistMail117 Armor | +6 Stamina | Durability 35 / 35Equip: Increases your chance to Dodge an attack by 0.4%. |"
+},
+"5627": {
+"name": "Relic Blade",
+"quality": 2,
+"tip": "Relic Blade | Item Level 20 | BoP One-HandDagger 12 - 24 Damage Speed 1.80 (10.00 damage per second) | +3 Stamina | Durability 40 / 40"
+},
+"5626": {
+"name": "Skullchipper",
+"quality": 2,
+"tip": "Skullchipper | Item Level 20 | BoP Two-HandAxe 36 - 55 Damage Speed 3.50 (13.00 damage per second) | +6 Strength | +1 Stamina | Durability 65 / 65"
+},
+"270022": {
+"name": "Archaeologist's Gown",
+"quality": 2,
+"tip": "Archaeologist's Gown | Item Level 20 | BoP ChestCloth34 Armor | +5 Spirit | Durability 60 / 60Equip: Increases damage and healing done by magical spells and effects by up to 2. |"
+},
+"280766": {
+"name": "Satchel of Potions",
+"quality": 2,
+"tip": "Satchel of Potions | Item Level 33 | BoP TrinketUse: Reach into the bag and hope for the best. (10 Min Cooldown) | \"Not every potion is meant for consumption.\" |"
+},
+"284845": {
+"name": "Thicket Raptor Hide",
+"quality": 1,
+"tip": "Thicket Raptor Hide | Item Level 1 | Quest ItemMax Stack: 20"
+},
+"5233": {
+"name": "Stone of Relu",
+"quality": 1,
+"tip": "Stone of Relu | Item Level 1 | Quest Item"
+},
+"2000": {
+"name": "Archeus",
+"quality": 2,
+"tip": "Archeus | Item Level 35 | BoP Two-HandSword 63 - 95 Damage Speed 3.30 (23.94 damage per second) | Durability 85 / 85Chance on hit: Blasts a target for 85 Arcane damage. | \"Morgan Ladimore's sword.\" |"
+},
+"270051": {
+"name": "Ladimore Heirloom Ring",
+"quality": 2,
+"tip": "Ladimore Heirloom Ring | Item Level 35 | BoP Finger+6 IntellectEquip: Increases damage and healing done by magical spells and effects by up to 5. |"
+},
+"5178": {
+"name": "Air Totem",
+"quality": 1,
+"tip": "Air Totem | Item Level 30 | BoP  | Unique"
+},
+"280607": {
+"name": "Lightning's Grasp",
+"quality": 3,
+"tip": "Lightning's Grasp | Item Level 40 | BoP Main HandFist Weapon 28 - 52 Damage Speed 2.20 (18.18 damage per second) | +6 Intellect | Durability 65 / 65Equip: Increases damage and healing done by magical spells and effects by up to 46. | | Equip: Increases the critical strike chance of your Lightning Bolt spell by 1%. |"
+},
+"280605": {
+"name": "Tidebringer's Claw",
+"quality": 3,
+"tip": "Tidebringer's Claw | Item Level 40 | BoP Main HandFist Weapon 30 - 57 Damage Speed 2.40 (18.13 damage per second) | +5 Stamina | Durability 65 / 65Equip: Increases healing done by up to 86 and damage done by up to 28 for all magical spells and effects. | | Equip: Increases the critical strike chance of your Healing Wave and Lesser Healing Wave spells by 2%. |"
+},
+"280604": {
+"name": "Rage of the Storm",
+"quality": 3,
+"tip": "Rage of the Storm | Item Level 40 | BoP Two-HandMace 91 - 137 Damage Speed 3.20 (35.63 damage per second) | +15 Stamina | +12 Intellect | Durability 100 / 100Equip: Increases the damage dealt by your Stormstrike ability by 10%. |"
+},
+"280696": {
+"name": "Elementalist's Guard",
+"quality": 3,
+"tip": "Elementalist's Guard | Item Level 40 | BoP Off HandShield1078 Armor | 20 Block | +9 Stamina | +6 Intellect | Restores +2 mana per 5 sec. | Durability 100 / 100"
+},
+"3755": {
+"name": "Fish Gutter",
+"quality": 2,
+"tip": "Fish Gutter | Item Level 32 | BoP Main HandAxe 24 - 46 Damage Speed 2.10 (16.67 damage per second) | +5 Spirit | Durability 75 / 75"
+},
+"2805": {
+"name": "Yeti Fur Cloak",
+"quality": 2,
+"tip": "Yeti Fur Cloak | Item Level 34 | BoP Back23 Armor | +3 Strength | +6 Agility"
+},
+"279388": {
+"name": "Brewer's Bracers",
+"quality": 2,
+"tip": "Brewer's Bracers | Item Level 25 | BoP WristMail80 Armor | +4 Strength | +2 Stamina | Durability 30 / 30"
+},
+"3758": {
+"name": "Crusader Belt",
+"quality": 2,
+"tip": "Crusader Belt | Item Level 33 | BoP WaistMail117 Armor | +7 Strength | +6 Stamina | Durability 35 / 35"
+},
+"3759": {
+"name": "Insulated Sage Gloves",
+"quality": 2,
+"tip": "Insulated Sage Gloves | Item Level 33 | BoP HandsCloth28 Armor | +7 Stamina | +6 Intellect | Durability 25 / 25"
+},
+"6681": {
+"name": "Thornspike",
+"quality": 3,
+"tip": "Thornspike | Item Level 32 | BoP One-HandDagger 24 - 46 Damage Speed 1.70 (20.59 damage per second) | Durability 55 / 55Requires Level 27 | Chance on hit: Hurl spikes at the target, dealing 45 Physical damage and jumping to 1 additional nearby enemy. Each jump reduces the damage by 50%. |"
+},
+"6691": {
+"name": "Swinetusk Shank",
+"quality": 3,
+"tip": "Swinetusk Shank | Item Level 35 | BoP Main HandDagger 16 - 30 Damage Speed 1.50 (15.33 damage per second) | +6 Stamina | +4 Spirit | Durability 65 / 65Requires Level 30 | Equip: Increases damage and healing done by magical spells and effects by up to 40. |"
+},
+"6692": {
+"name": "Pronged Reaver",
+"quality": 3,
+"tip": "Pronged Reaver | Item Level 35 | BoP  | Unique-EquippedOne-HandAxe 38 - 72 Damage Speed 2.40 (22.92 damage per second) | +5 Strength | +5 Spirit | Durability 90 / 90Requires Level 30 |"
+},
+"6694": {
+"name": "Heart of Agamaggan",
+"quality": 3,
+"tip": "Heart of Agamaggan | Item Level 35 | BoP Off HandShield757 Armor | 17 Block | +7 Stamina | Durability 100 / 100Requires Level 30 | Equip: Increases healing done by up to 15 and damage done by up to 5 for all magical spells and effects. |"
+},
+"6697": {
+"name": "Batwing Mantle",
+"quality": 3,
+"tip": "Batwing Mantle | Item Level 34 | BoP ShoulderCloth38 Armor | +3 Agility | +11 Intellect | Durability 50 / 50Requires Level 29 | Equip: Increases damage and healing done by magical spells and effects by up to 6. |"
+},
+"6686": {
+"name": "Tusken Helm",
+"quality": 3,
+"tip": "Tusken Helm | Item Level 34 | BoP HeadMail188 Armor | +13 Strength | +120 Armor | Durability 60 / 60Requires Level 29 |"
+},
+"2816": {
+"name": "Death Speaker Scepter",
+"quality": 3,
+"tip": "Death Speaker Scepter | Item Level 33 | BoP Main HandMace 28 - 52 Damage Speed 2.80 (14.29 damage per second) | Restores +12 health per 5 sec. | Durability 90 / 90Requires Level 28 | Equip: Increases healing done by magical spells and effects by up to 68. | Equip: Increases damage done by Shadow spells and effects by up to 28. |"
+},
+"6685": {
+"name": "Death Speaker Mantle",
+"quality": 3,
+"tip": "Death Speaker Mantle | Item Level 32 | BoP ShoulderCloth37 Armor | +11 Intellect | Durability 45 / 45Requires Level 27 | Equip: Increases damage and healing done by magical spells and effects by up to 6. |"
+},
+"6682": {
+"name": "Death Speaker Robes",
+"quality": 3,
+"tip": "Death Speaker Robes | Item Level 31 | BoP ChestCloth48 Armor | +4 Stamina | +11 Intellect | Durability 70 / 70Requires Level 26 | Equip: Increases healing done by up to 20 and damage done by up to 7 for all magical spells and effects. |"
+},
+"274483": {
+"name": "The Walks of Shaman",
+"quality": 1,
+"tip": "The Walks of Shaman | Item Level 1 | BoP  | UniqueClasses: Shaman<Right Click to Read> |"
+},
+"6637": {
+"name": "Water Sapta",
+"quality": 1,
+"tip": "Water Sapta | Item Level 1 | BoP  | UniqueUse: Allows the shaman to see elemental spirits. |"
+},
+"7810": {
+"name": "Vial of Purest Water",
+"quality": 1,
+"tip": "Vial of Purest Water | Item Level 1 | Quest Item | Unique"
+},
+"7811": {
+"name": "Remaining Drops of Purest Water",
+"quality": 1,
+"tip": "Remaining Drops of Purest Water | Item Level 1 | Quest Item | Unique"
+},
+"7812": {
+"name": "Corrupt Manifestation's Bracers",
+"quality": 1,
+"tip": "Corrupt Manifestation's Bracers | Item Level 1 | Quest Item | Unique"
+},
+"7813": {
+"name": "Shard of Water",
+"quality": 1,
+"tip": "Shard of Water | Item Level 1 | Quest Item | Unique"
+}
+}

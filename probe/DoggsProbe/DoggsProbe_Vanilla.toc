@@ -1,0 +1,15 @@
+## Interface: 11509
+## Title: DoggsProbe
+## Notes: Data-logging probe for Braedyn's WoW Forever Dwarf Shaman: character-sheet snapshots, mana-regen probe, spell tooltip probe, item tooltip logger, best-effort combat sampling. Everything goes to SavedVariables (DoggsProbe.lua). /probe for commands. (Classic Era test build)
+## Author: Braedyn (with Claude)
+## Version: 2026.09.24
+## SavedVariables: DoggsProbeDB
+## X-Category: Development Tools
+
+Core.lua
+Snapshot.lua
+Regen.lua
+Spells.lua
+Items.lua
+Combat.lua
+Commands.lua

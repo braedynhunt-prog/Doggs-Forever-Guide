@@ -1,0 +1,70 @@
+
+==== zoneOrSort 1519 Stormwind City: 51 quests
+332 Wine Shop Advert | req1 L2 xp 130 unchanged | from [1432] Renato Gallina L45-45 @ Stormwind City 63.8,73.6 | to [1431] Suzetta Gallina L30-30 @ Stormwind City 60.3,76.8
+333 Harlan Needs a Resupply | req1 L2 xp 85 unchanged | from [1427] Harlan Bagley L12-12 @ Stormwind City 62.3,68.0 | to [1428] Rema Schneider L35-35 @ Stormwind City 58.1,67.5
+334 Package for Thurman | req1 L2 xp 130 unchanged | from [1428] Rema Schneider L35-35 @ Stormwind City 58.1,67.5 | to [1429] Thurman Schneider L2-2 @ Stormwind City 52.6,83.4
+335 A Noble Brew | req25 L30 xp 2450 unchanged | from [1435] Zardeth of the Black Claw L60-60 @ Stormwind City 40.1,85.3 | to [1435] Zardeth of the Black Claw L60-60 @ Stormwind City 40.1,85.3 | next 336
+336 A Noble Brew | req25 L30 xp 2450 unchanged | from [1435] Zardeth of the Black Claw L60-60 @ Stormwind City 40.1,85.3 | to [1439] Lord Baurles K. Wishock L10-10 @ Stormwind City 77.9,49.0 | pre [335] | next 397
+343 Speaking of Fortitude | req20 L24 xp 195 unchanged | from [1444] Brother Kristoff L40-40 @ Stormwind City 55.0,54.2 | to [1440] Milton Sheaf L15-15 @ Stormwind City 77.1,30.2 | next 344
+344 Brother Paxton | req20 L24 xp 485 unchanged | from [1440] Milton Sheaf L15-15 @ Stormwind City 77.1,30.2 | to [951] Brother Paxton L27-27 @ Elwynn Forest 49.6,40.4 | pre [343] | next 345
+345 Ink Supplies | req20 L24 xp 485 unchanged | from [951] Brother Paxton L27-27 @ Elwynn Forest 49.6,40.4 | to [341] Foreman Oslow L20-20 @ Redridge Mountains 27.1,48.6 | pre [344] | next 347
+346 Return to Kristoff | req20 L24 xp 1950 unchanged | from [951] Brother Paxton L27-27 @ Elwynn Forest 49.6,40.4 | to [1444] Brother Kristoff L40-40 @ Stormwind City 55.0,54.2 | pre [347]
+347 Rethban Ore | req20 L24 xp 970 unchanged | from [341] Foreman Oslow L20-20 @ Redridge Mountains 27.1,48.6 | to [951] Brother Paxton L27-27 @ Elwynn Forest 49.6,40.4 | pre [345] | next 346
+350 Look to an Old Friend | req16 L31 xp 250 unchanged | from [332] Master Mathias Shaw L62-62 @ Stormwind City 78.3,70.7 | to [482] Elling Trias L30-30 @ Stormwind City 66.0,74.1 | pre [393] | next 2745
+353 Stormpike's Delivery | req9 L15 xp 1050 updated | from [1416] Grimand Elmore L50-50 @ Stormwind City 59.7,33.8 | to [1343] Mountaineer Stormpike L30-30 @ Loch Modan 24.8,18.4
+DONE 373 The Unsent Letter | req16 L22 xp 870 unchanged | from item[2874] An Unsent Letter | to [1646] Baros Alexston L30-30 @ Stormwind City 57.7,47.9 | next 389
+389 Bazil Thredd | req16 L22 xp 435 unchanged | from [1646] Baros Alexston L30-30 @ Stormwind City 57.7,47.9 | to [1719] Warden Thelwater L30-30 @ Stormwind City 51.5,69.4 | pre [373] | next 391
+392 The Curious Visitor | req16 L29 xp 590 unchanged | from [1719] Warden Thelwater L30-30 @ Stormwind City 51.5,69.4 | to [1646] Baros Alexston L30-30 @ Stormwind City 57.7,47.9 | pre [391] | next 393
+393 Shadow of the Past | req16 L29 xp 590 unchanged | from [1646] Baros Alexston L30-30 @ Stormwind City 57.7,47.9 | to [332] Master Mathias Shaw L62-62 @ Stormwind City 78.3,70.7 | pre [392] | next 350
+394 The Head of the Beast | req16 L31 xp 250 unchanged | from [482] Elling Trias L30-30 @ Stormwind City 66.0,74.1 | to [332] Master Mathias Shaw L62-62 @ Stormwind City 78.3,70.7 | pre [434] | next 395
+395 Brotherhood's End | req16 L31 xp 630 unchanged | from [332] Master Mathias Shaw L62-62 @ Stormwind City 78.3,70.7 | to [1646] Baros Alexston L30-30 @ Stormwind City 57.7,47.9 | pre [394] | next 396
+396 An Audience with the King | req16 L31 xp 3750 unchanged | from [1646] Baros Alexston L30-30 @ Stormwind City 57.7,47.9 | to [1749] Lady Katrana Prestor L62-62 @ Stormwind City 80.1,38.2 | pre [395]
+399 Humble Beginnings | req10 L15 xp 1050 unchanged | from [1646] Baros Alexston L30-30 @ Stormwind City 57.7,47.9 | to [1646] Baros Alexston L30-30 @ Stormwind City 57.7,47.9
+434 The Attack! | req16 L31 xp 1900 unchanged | from [7766] Tyrion L37-37 @ Stormwind City 73.2,35.6 | to [482] Elling Trias L30-30 @ Stormwind City 66.0,74.1 | pre [2746] | next 394
+579 Stormwind Library | req1 L1 xp ? unchanged | from [2504] Donyal Tovald L15-15 @ Stormwind City 75.0,30.1 | to [2504] Donyal Tovald L15-15 @ Stormwind City 75.0,30.1
+690 Malin's Request | req30 L32 xp 1950 unchanged | from [2708] Archmage Malin L40-40 @ Stormwind City 50.5,87.5 | to [2789] Skuerto L36-36 @ Arathi Highlands 46.6,47.0 | next 691
+DONE 1097 Elmore's Task | req9 L15 xp 105 unchanged | from [415] Verner Osgood L25-25 @ Redridge Mountains 25.9,47.3 / [514] Smith Argus L24-24 @ Elwynn Forest 41.7,65.5 | to [1416] Grimand Elmore L50-50 @ Stormwind City 59.7,33.8 | next 353
+1241 The Missing Diplomat | req28 L28 xp 230 unchanged | from [4960] Bishop DeLavey L32-32 @ Stormwind City 80.2,44.1 | to [4959] Jorgen L15-15 @ Stormwind City 76.3,85.1 | pre [1274] | next 1242
+1242 The Missing Diplomat | req28 L28 xp 230 unchanged | from [4959] Jorgen L15-15 @ Stormwind City 76.3,85.1 | to [482] Elling Trias L30-30 @ Stormwind City 66.0,74.1 | pre [1241] | next 1243
+1243 The Missing Diplomat | req28 L28 xp 230 unchanged | from [482] Elling Trias L30-30 @ Stormwind City 66.0,74.1 | to [840] Watcher Backus L42-42 @ Duskwood 74.8,44.2 | pre [1242] | next 1244
+1244 The Missing Diplomat | req28 L30 xp 2450 unchanged | from [840] Watcher Backus L42-42 @ Duskwood 74.8,44.2 | to [840] Watcher Backus L42-42 @ Duskwood 74.8,44.2 | pre [1243] | next 1245
+1245 The Missing Diplomat | req28 L30 xp 245 unchanged | from [840] Watcher Backus L42-42 @ Duskwood 74.8,44.2 | to [482] Elling Trias L30-30 @ Stormwind City 66.0,74.1 | pre [1244] | next 1246
+1246 The Missing Diplomat | req28 L31 xp 250 unchanged | from [482] Elling Trias L30-30 @ Stormwind City 66.0,74.1 | to [4961] Dashel Stonefist L26-26 @ Stormwind City 74.3,59.2 | pre [1245] | next 1447
+1247 The Missing Diplomat | req28 L31 xp 250 unchanged | from [4961] Dashel Stonefist L26-26 @ Stormwind City 74.3,59.2 | to [482] Elling Trias L30-30 @ Stormwind City 66.0,74.1 | pre [1447] | next 1248
+1248 The Missing Diplomat | req28 L33 xp 660 unchanged | from [482] Elling Trias L30-30 @ Stormwind City 66.0,74.1 | to [4963] Mikhail L30-30 @ Wetlands 10.6,60.8 | pre [1247] | next 1249
+1249 The Missing Diplomat | req28 L33 xp 1300 unchanged | from [4963] Mikhail L30-30 @ Wetlands 10.6,60.8 | to [4963] Mikhail L30-30 @ Wetlands 10.6,60.8 | pre [1248] | next 1250
+1250 The Missing Diplomat | req28 L33 xp 265 updated | from [4962] Tapoke "Slim" Jahn L34-34 @ Wetlands 10.5,60.3 | to [4963] Mikhail L30-30 @ Wetlands 10.6,60.8 | pre [1249] | next 1264
+1264 The Missing Diplomat | req28 L33 xp 1300 unchanged | from [4963] Mikhail L30-30 @ Wetlands 10.6,60.8 | to [4964] Commander Samaul L40-40 @ Dustwallow 68.0,48.7 | pre [1250] | next 1265
+1265 The Missing Diplomat | req28 L35 xp 275 unchanged | from [4964] Commander Samaul L40-40 @ Dustwallow 68.0,48.7 | to [4967] Archmage Tervosh L38-38 @ Dustwallow 66.4,49.3 | pre [1264] | next 1266
+1274 The Missing Diplomat | req28 L28 xp 230 unchanged | from [4982] Thomas L1-1 @ Stormwind City 49.6,44.5 | to [4960] Bishop DeLavey L32-32 @ Stormwind City 80.2,44.1 | next 1241
+1301 James Hyal | req30 L35 xp 690 unchanged | from [5081] Connor Rivers L25-25 @ Stormwind City 51.1,95.5 | to [5082] Vincent Hyal L30-30 @ Wetlands 10.8,60.4 | next 1302
+1447 The Missing Diplomat | req28 L31 xp 1250 unchanged | from [4961] Dashel Stonefist L26-26 @ Stormwind City 74.3,59.2 | to [4961] Dashel Stonefist L26-26 @ Stormwind City 74.3,59.2 | pre [1246] | next 1247
+2745 Infiltrating the Castle | req16 L31 xp 250 unchanged | from [482] Elling Trias L30-30 @ Stormwind City 66.0,74.1 | to [7766] Tyrion L37-37 @ Stormwind City 73.2,35.6 | pre [350] | next 2746
+2746 Items of Some Consequence | req16 L31 xp 630 unchanged | from [7766] Tyrion L37-37 @ Stormwind City 73.2,35.6 | to [7766] Tyrion L37-37 @ Stormwind City 73.2,35.6 | pre [2745] | next 434
+3765 The Corruption Abroad | req18 L24 xp 1450 unchanged | from [4984] Argos Nightwhisper L20-20 @ Stormwind City 36.2,67.6 | to [8997] Gershala Nightwhisper L20-20 @ Darkshore 38.3,43.0 | next 1275
+DONE 95065 Fishin' Time | req7 L12 xp 910 new | from [267118] Gilbert Gray L10-10 @ Stormwind City 26.3,47.1 | to [267118] Gilbert Gray L10-10 @ Stormwind City 26.3,47.1
+DONE 97220 Philmor's Favor | req9 L15 xp 540 new | from [268511] Manifest Clerk Philmor L50-50 @ Stormwind City 30.4,28.8 | to [483] Elaine Trias L30-30 @ Stormwind City 66.6,73.4
+DONE 97222 Gatehouse Goods | req9 L15 xp 800 new | from [483] Elaine Trias L30-30 @ Stormwind City 66.6,73.4 | to [483] Elaine Trias L30-30 @ Stormwind City 66.6,73.4
+DONE 97234 Reading Room | req13 L18 xp 680 new | from [268568] Roy Lewells L40-40 @ Stormwind City 38.7,62.3 | to [2504] Donyal Tovald L15-15 @ Stormwind City 75.0,30.1
+DONE 97237 Shelf Picked | req13 L18 xp 1000 new | from [2504] Donyal Tovald L15-15 @ Stormwind City 75.0,30.1 | to [268568] Roy Lewells L40-40 @ Stormwind City 38.7,62.3
+97914 Expanding Horizons | req13 L17 xp 125 new | from [3649] Thundris Windweaver L15-15 @ Darkshore 37.4,40.1 | to [1646] Baros Alexston L30-30 @ Stormwind City 57.7,47.9
+98190 A Friend of the Family | req20 L25 xp ? new | from [2104] Captain Stoutfist L35-35 @ Wetlands 9.9,57.5 | to [1748] Highlord Bolvar Fordragon L63-63 @ Stormwind City 80.2,38.4
+98191 A Friend of the Family | req20 L25 xp 200 new | from [1748] Highlord Bolvar Fordragon L63-63 @ Stormwind City 80.2,38.4 | to [928] Lord Grayson Shadowbreaker L60-60 @ Stormwind City 48.4,50.2
+98219 The Shamed Lieutenant | req20 L30 xp 245 new | from [928] Lord Grayson Shadowbreaker L60-60 @ Stormwind City 48.4,50.2 | to [2228] Lieutenant Farren Orinelle L25-25 @ Hillsbrad Foothills 51.5,58.4
+
+==== zoneOrSort 16611 Ruins of Lordaeron: 4 quests
+92415 Remember That I Love You | req15 L22 xp 2600 new | from item[251270] Blood-Stained Parchment / item[251520] Last Scrawlings of Edward Heartweaver | to [14450] Orphan Matron Nightingale L10-10 @ Stormwind City 56.3,54.0
+95189 Crest of Lordaeron | req16 L22 xp 2600 new | from item[268579] Crest of Lordaeron | to [15991] Lady Dena Kennedy L60-60 ELITE @ instance/no spawn
+95195 Bloodied Insignia | req16 L22 xp 2600 new | from item[268535] Bloodied Insignia | to [466] General Marcus Jonathan L60-60 ELITE @ Stormwind City 69.2,82.7
+95250 Abominable Creatures | req16 L21 xp 1650 new | from ? | to ?
+
+==== zoneOrSort 16591 Ruins of Lordaeron(?): 1 quests
+95161 Remember That I Love You | req15 L22 xp 175 new | from [14450] Orphan Matron Nightingale L10-10 @ Stormwind City 56.3,54.0 | to [228] Avette Fellwood L24-24 @ Duskwood 73.0,44.4
+
+==== zoneOrSort 717 The Stockade: 6 quests
+377 Crime and Punishment | req22 L26 xp 2100 updated | from [270] Councilman Millstipe L28-28 @ Duskwood 71.9,47.8 | to [270] Councilman Millstipe L28-28 @ Duskwood 71.9,47.8
+378 The Fury Runs Deep | req22 L27 xp 2750 updated | from [1074] Motley Garmason L30-30 @ Wetlands 49.7,18.2 | to [1074] Motley Garmason L30-30 @ Wetlands 49.7,18.2 | pre [303]
+386 What Comes Around... | req22 L25 xp 2000 updated | from [859] Guard Berton L33-33 @ Redridge Mountains 21.2,46.6 | to [859] Guard Berton L33-33 @ Redridge Mountains 21.2,46.6
+387 Quell The Uprising | req22 L26 xp 2650 updated | from [1719] Warden Thelwater L30-30 @ Stormwind City 51.5,69.4 | to [1719] Warden Thelwater L30-30 @ Stormwind City 51.5,69.4
+388 The Color of Blood | req22 L26 xp 2650 unchanged | from [1721] Nikova Raskol L5-5 @ Stormwind City 76.4,63.7 | to [1721] Nikova Raskol L5-5 @ Stormwind City 76.4,63.7
+391 The Stockade Riots | req16 L29 xp 2350 unchanged | from [1719] Warden Thelwater L30-30 @ Stormwind City 51.5,69.4 | to [1719] Warden Thelwater L30-30 @ Stormwind City 51.5,69.4 | pre [389] | next 392

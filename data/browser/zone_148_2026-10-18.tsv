@@ -1,0 +1,102 @@
+ZONE	/forever/zone=148/darkshore
+729	20	15	1150	1	148	1		0	0	unchanged	0			The Absent Minded Prospector
+730	14	14	490	1	1657	1		0	0	unchanged	0			Trouble In Darkshore?
+731	20	15	1950	1	148	1		0	0	unchanged	0			The Absent Minded Prospector
+741	20	15	1150	1	148	1		0	0	unchanged	0	5629,5630,11936		The Absent Minded Prospector
+942	20	15	1550	1	148	1		0	0	unchanged	0			The Absent Minded Prospector
+943	24	15	2400	1	148	1		0	0	updated	0	5627,5626,270022		The Absent Minded Prospector
+944	17	12	630	1	148	1		0	0	unchanged	0			The Master's Glaive
+945	18	10	1350	1	148	1		0	0	unchanged	1000			Therylune's Escape
+947	17	12	1250	1	148	1		0	0	unchanged	900		5610,4605	Cave Mushrooms
+948	17	12	630	1	148	1		0	0	unchanged	0			Onu
+949	17	12	1250	1	148	1		0	0	unchanged	900			The Twilight Camp
+950	17	12	950	1	148	1		0	0	unchanged	700			Return to Onu
+951	20	12	1950	1	148	1		0	0	unchanged	0	5757,5615		Mathystra Relics
+952	17	6	1250	1	148	1		0	0	updated	0			Grove of the Ancients
+953	12	9	910	1	148	1		0	0	unchanged	500			The Fall of Ameth'Aran
+954	12	7	680	1	148	1		0	0	unchanged	0			Bashal'Aran
+955	12	7	910	1	148	1		0	0	unchanged	0			Bashal'Aran
+956	13	7	910	1	148	1		0	0	unchanged	0			Bashal'Aran
+957	13	7	680	1	148	1		0	0	unchanged	0	7229,5617,5604		Bashal'Aran
+958	12	9	910	1	148	1		0	0	unchanged	500		5612	Tools of the Highborne
+960	1	1		1	148	1		0	0	updated	0		5251	Onu is Meditating
+961	1	1		1	148	1		0	0	updated	0		5251	Onu is Meditating
+963	16	11	880	1	148	1		0	0	unchanged	0		5611	For Love Eternal
+965	18	13	680	1	148	1		0	0	unchanged	0			The Tower of Althalaxx
+966	18	13	1350	1	148	1		0	0	unchanged	1000			The Tower of Althalaxx
+967	18	13	1000	1	148	1		0	0	unchanged	0			The Tower of Althalaxx
+968	20	10	1950	1	148	1		0	0	unchanged	0			The Powers Below
+970	21	13	1650	1	148	1		0	0	unchanged	0			The Tower of Althalaxx
+973	24	13	1950	1	148	1		0	0	unchanged	0	5622,5613		The Tower of Althalaxx
+976	24	19	2900	1	331	1		0	0	unchanged	5000	5323,6721		Supplies to Auberdine
+981	31	13	2500	1	148	1		0	0	unchanged	0	10043,5614		The Tower of Althalaxx
+982	17	13	1250	1	148	1		0	0	updated	1800	15401,15402,270004		Deep Ocean, Vast Sea
+983	10	7	840	1	148	1		0	0	unchanged	350			Buzzbox 827
+984	14	10	740	1	148	1		0	0	unchanged	0			How Big a Threat?
+985	14	10	980	1	148	1		0	0	unchanged	0			How Big a Threat?
+986	20	10	1550	1	148	1		0	0	unchanged	0			A Lost Master
+990	19	15	365	1	331	1		0	0	unchanged	0			Trek to Ashenvale
+993	20	10	780	1	148	1		0	0	unchanged	0			A Lost Master
+994	22	10	1750	1	148	1		0	0	unchanged	1400		5609	Escape Through Force
+995	20	10	780	1	148	1		0	0	unchanged	600		6659	Escape Through Stealth
+1001	12	7	1150	1	148	1		0	0	unchanged	1000			Buzzbox 411
+1002	14	7	980	1	148	1		0	0	unchanged	600			Buzzbox 323
+1003	16	7	1150	1	148	1		0	0	unchanged	800		2082,11846	Buzzbox 525
+1138	17	15	1250	1	148	1		0	0	unchanged	0	15405,15406		Fruit of the Sea
+1140	28	13	2300	1	148	1		0	0	unchanged	0			The Tower of Althalaxx
+1141	14	10	980	1	148	1		0	0	unchanged	0		12225	The Family and the Fishing Pole
+1143	31	13	2500	1	148	1		0	0	unchanged	0			The Tower of Althalaxx
+1167	28	13	570	1	148	1		0	0	unchanged	0			The Tower of Althalaxx
+1275	24	18	2400	1	719	2	81	0	0	updated	3500	7003,7004,270021		Researching the Corruption
+1442	22	20	435	1	-141	4	81	2	5	unchanged	0		7083	Seeking the Kor Gem
+1579	12	10	455	1	-101	5		0	0	unchanged	250			Gaffer Jacks
+1580	12	10	910	1	-101	5		0	0	unchanged	500		6811	Electropellers
+2078	20	14	1150	1	148	1	1	0	0	updated	900		5996	Gyromast's Revenge
+2098	20	14	1550	1	148	1		0	0	unchanged	1200			Gyromast's Retrieval
+2118	14	10	980	1	148	1		0	0	unchanged	600			Plagued Lands
+2138	16	10	1150	1	148	1		0	0	unchanged	0			Cleansing of the Infected
+2139	18	10	1350	1	148	1		0	0	updated	0	7738,7739		Tharnariun's Hope
+2178	12	9	910	1	-304	5		0	0	unchanged	0		5486,5477	Easy Strider Living
+2399	10	4	85	1	141	1		0	0	unchanged	0		5205	The Sprouted Fronds
+3524	13	11	680	1	148	1		0	0	unchanged	400			Washed Ashore
+3765	24	18	1450	1	1519	0		0	0	unchanged	1300			The Corruption Abroad
+4681	14	11	980	1	148	1		0	0	unchanged	0	15398,15399,15400		Washed Ashore
+4722	13	11	455	1	148	1		0	0	unchanged	300			Beached Sea Turtle
+4723	13	11	455	1	148	1		0	0	unchanged	300			Beached Sea Creature
+4725	15	12	540	1	148	1		0	0	unchanged	350			Beached Sea Turtle
+4727	15	12	540	1	148	1		0	0	unchanged	350			Beached Sea Turtle
+4728	14	12	490	1	148	1		0	0	unchanged	300			Beached Sea Creature
+4730	16	12	580	1	148	1		0	0	unchanged	400			Beached Sea Creature
+4731	19	13	730	1	148	1		0	0	unchanged	500			Beached Sea Turtle
+4732	19	13	730	1	148	1		0	0	unchanged	500			Beached Sea Turtle
+4733	19	13	730	1	148	1		0	0	unchanged	500			Beached Sea Creature
+4740	18	15	1700	1	148	1		0	0	unchanged	0	5315,15403,15404		WANTED: Murkdeep!
+4761	15	11	105	1	148	1		0	0	unchanged	0			Thundris Windweaver
+4762	15	11	800	1	148	1		0	0	unchanged	0			The Cliffspring River
+4763	18	15	1700	1	148	1		0	0	unchanged	2000	15204,15202,15203		The Blackwood Corrupted
+4811	14	12	490	1	148	1		0	0	unchanged	600			The Red Crystal
+4812	14	12	490	1	148	1		0	0	unchanged	0			As Water Cascades
+4813	14	12	980	1	148	1		0	0	unchanged	0	15335,15396,15397		The Fragments Within
+5321	20	17	1550	1	148	1		0	0	updated	0	15205,15206,15207,270014		The Sleeper Has Awakened
+5713	15	10	1050	1	148	1		0	0	unchanged	1400			One Shot. One Kill.
+6122	14	14	740	1	-263	4		1024	4294967304	unchanged	0			The Principal Source
+6123	14	14	740	1	-263	4		1024	4294967304	unchanged	0			Gathering the Cure
+6124	14	14	740	1	-263	4		1024	4294967304	unchanged	0		15866	Curing the Sick
+6341	10	10	210	1	148	1		0	8	unchanged	0			The Bounty of Teldrassil
+6342	10	10	420	1	148	1		0	8	unchanged	0			Flight to Auberdine
+6343	10	10	1050	1	148	1		0	8	unchanged	250			Return to Nessa
+8721	60	1		3	-366	9		0	0	unchanged	0		21100	Starweave the Elder
+78088	30	22	2450	1	-141	4		2	0	updated	2500			A Strange Artifact
+87760	20	15		1	148	1		0	0	new	1200		5996,6372	Holy Diver
+97894	17	13		1	148	1		0	4294967372	new	0			Business in Auberdine
+97914	17	13	125	1	1519	0		0	4294967372	new	90			Expanding Horizons
+97926	17	13	125	1	148	1		0	0	new	90		282286	Making Do
+97939	6	4	270	1	-666	-2		0	0	new	0			Camping 101: Blacksmithing
+97941	6	4	270	1	-666	-2		0	0	new	0			Camping 101: Engineering
+97948	6	4	270	1	-666	-2		0	8	new	0			Camping 101: Mining
+98013	20	12	1550	1	148	1		0	4294967372	new	0			Swelling Forces
+98025	13	10	1150	1	148	1		0	4294967372	new	0		281289	WANTED: Jai'vhanel
+98028	21	17	1650	1	148	1		0	0	new	0	281291,281292		Baron Marinous
+98042	17	12	1250	1	148	1		0	0	new	900			It's All Fun and Games Until...
+98209	29	22	1200	1	11	0		0	4294967372	new	1300			Bloom of the Heavens
+98461	21	18	165	1	11	0		0	4294967372	new	125			Unrequited Love
