@@ -70,7 +70,7 @@ At the head of the trench, use the Crate with Holes, send the gopher out with th
 At [TAR4508 Willix the Importer], [QA1144 Willix the Importer] (3,050 XP; all of you, together)
 Walk Willix out of the Kraul [QC1144]
 [OC]Willix finishes at the exit; a Forever write-up says to turn it in just outside the portal, so step out and look for him there before you decide he has gone
-Hand in to Willix at the exit [QT1144] [G42.9,90.2 The Barrens]
+Hand in to [TAR4508 Willix the Importer] at the exit [QT1144] [G42.9,90.2 The Barrens]
 [OC][A Hunter] |cffffcc00Gear (Willix):|r |cff66ff66Monkey Ring|r (+5 Agi +5 Spi). Tiger Band (+5 Str +5 Spi) and the new Boar Signet (+5 Sta, block) are not for you
 [OC][A Shaman] |cffffcc00Gear (Willix):|r |cff66ff66Snake Hoop|r (+5 Int, +6 spell damage). Tiger Band (+5 Str +5 Spi) is a dead heat on this guide's stat weights - take whichever you prefer; Boar Signet is a shield ring - pass
 [OC]|cffffcc00Gear (Mortality Wanes, if it ever drops):|r |cff66ff66Lancer Boots|r (leather +5 Agi +6 Sta +4 Spi) for both of you. Mourning Shawl (cloak +8 Sta, -4 Spi) and the new Sentinel's Boots (mail) are not for you

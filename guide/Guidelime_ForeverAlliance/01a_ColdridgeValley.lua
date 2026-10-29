@@ -64,7 +64,7 @@ At [TAR786 Grelin Whitebeard], [QT218] [QA282 Senir's Observations] [G25.1,75.7 
 Run back up into Anvilmar; by the trainers at [TAR2756 Grund Drokda], [QA97277 Grund and Gozwin] (new Forever quest, requires level 4) [G28.7,67.5 Dun Morogh]
 [A Shaman] Inside Anvilmar at [TAR257446 Teo Hammerstorm], [QT94373] [QA94374 Call of Earth] [G28.8,66.2 Dun Morogh]
 [A Shaman] Out of Anvilmar to the start of the path up the snowy hill, south-west of Anvilmar and marked by rubble [G25.8,69.3 Dun Morogh]
-[A Shaman] Follow the path north up the hill, turn left at the small camp; the Spirit Stone is on top. Use [UI6635 Earth Sapta] at it, then talk to the Minor Manifestation of Earth, [QT94374] [QA94375 Call of Earth] [G25.0,62.4 Dun Morogh]
+[A Shaman] Follow the path north up the hill, turn left at the small camp; the Spirit Stone is on top. Use [UI6635 Earth Sapta] at it, then talk to the [TAR5891 Minor Manifestation of Earth], [QT94374] [QA94375 Call of Earth] [G25.0,62.4 Dun Morogh]
 [OC]Grund and Gozwin's camp is in the hills northwest of Anvilmar - from the Spirit Stone it is about 2 units east; a hunter goes straight there from Anvilmar
 At the camp, loot Gozwin's Mechanic's Log from the ground and kill the level-6 [TAR269075 Snow Leopard Prowler] next to it (pull it alone) [QC97277] |cffffcc00launch:|r group or defer [G27.3,62.9 Dun Morogh]
 Back inside Anvilmar at [TAR2756 Grund Drokda], [QT97277] [G28.7,67.5 Dun Morogh]
