@@ -69,6 +69,7 @@ At [TAR482 Elling Trias], [QT1247] [QA1248 The Missing Diplomat] (660 XP; goes t
 [OC][A Shaman] Storm, Earth, and Fire (79358) is also offered by Veyric: 20 twisted totems from four zones at level 36-41 (Badlands, Desolace, Swamp of Sorrows, Dustwallow). Not for this guide; its Horde copy (79361) starts at Bath'rah
 [OC][A Shaman] |cffffcc00Go'Shek Farm:|r if you took Hints of a New Plague? (659) in Southshore, Quae stands 26 units south of Veyric and 14 east of Refuge Pointe, on the way back to the flight master. Hammerfall Grunts (34-35) and Peons mill around the farm and hate Alliance: stay on the road in Ghost Wolf. Quae then offers 658 (2,800 XP: a Sealed Folder from the Forsaken Courier, then 657, 660 and 661, which ends at Phin Odelic in Southshore); that is 30+ content, leave it
 [O][A Shaman] At [TAR2712 Quae] at Go'Shek Farm, [QT659] (1,300 XP) [G60.2,53.9 Arathi Highlands]
+[A Shaman] Walk west past Refuge Pointe to Stromgarde Keep and at [TAR2805 Deneb Walker] in the Alliance-held quarter, [V] buy Expert First Aid - Under Wraps and read it (First Aid 125, cap 225 - verified); take the Manual: Heavy Silk Bandage too if you want it at 180. Stay in the north-west quarter: the rest of the keep is Syndicate and Boulderfist ogres (Classic, unverified) [G27.0,58.8 Arathi Highlands]
 [A Shaman] At [TAR2835 Cedrik Prose], |cFFfff8a3Fly to [F Stormwind]|r [G45.7,46.1 Arathi Highlands]
 
 [OC]|cffffffffBefore the harbour|r  -  both of you in Stormwind; the next chapter leaves from the harbour. Buy food and water for the Kraul, repair, empty your bags

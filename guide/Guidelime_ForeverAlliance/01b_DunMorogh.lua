@@ -25,6 +25,7 @@ At [TAR1692 Golorn Frostbeard] (trade goods, next to the inn), [V] buy 10 Mild S
 [A Hunter] At [TAR1231 Grif Wildheart] (hunter trainer, west side of Kharanos), [T] train (level 6: Arcane Shot, Hunter's Mark) [G45.8,53 Dun Morogh]
 At [TAR1226 Maxan Anvol], [QA99158 Dawn in the Mountains] (Father Gavin - deliver it later, around level 9) [G47.2,52.2 Dun Morogh]
 At [TAR2326 Thamner Pol], learn First Aid [G47.2,52.6 Dun Morogh]
+[OC]|cffffcc00First Aid thread (Forever):|r bandages open earlier than Classic - Linen at 1, |cff66ff66Heavy Linen at 20|r (Classic 40), |cff66ff66Wool at 50|r (Classic 80), Silk at 100 (Classic 150), Heavy Silk at 125; Journeyman caps at 150, Expert at 225 (tooltips, 28 Oct). Targets: First Aid 20 by the Camping 101 hand-in below, 50 by the Ironforge trip in the next chapter, 75 by Westfall, 100 after the Stockade, 125 before Arathi (chapter 25 buys the Expert book). Which trainer teaches which bandage is unverified - ask each one
 At [TAR1241 Tognus Flintfire], [QA98321 Flintfire's Shipment] [G45.2,52 Dun Morogh]
 Across the road at [TAR1872 Tharek Blackstone], [QA400 Tools for Steelgrill] [G46,51.7 Dun Morogh]
 
@@ -67,6 +68,7 @@ At [TAR1700 Paxton Ganter] on the frozen lake, learn Fishing [G35.4,40.2 Dun Mor
 Kill 6 [TAR1196 Ice Claw Bear], 8 [TAR1127 Elder Crag Boar], 8 [TAR1201 Snow Leopard] around the lake [QC319] [G38,42 Dun Morogh]
 [OC]Grind east up Shimmer Ridge
 Loot Shimmerweed Baskets / kill [TAR1397 Frostmane Seer] for 6 Shimmerweed [QC315] [G41.5,39 Dun Morogh]
+Bandage to 20: make Linen Bandages (1 Linen Cloth each) from the Frostmane cloth at every rest until First Aid 20 (about 20 bandages; colours unverified) [G41.5,39 Dun Morogh]
 
 [OC]Grind south into the Grizzled Den (the wendigo cave west of Kharanos)
 Kill [TAR1134 Young Wendigo] and [TAR1135 Wendigo] for 8 Wendigo Manes [QC313] [G41.5,53 Dun Morogh]
@@ -86,7 +88,7 @@ Outside the inn at [TAR1267 Ragnar Thunderbrew], [QT384] - learn the Recipe: Bee
 In the inn basement talk to [TAR1373 Jarven Thunderbrew], then loot the Unguarded Thunder Ale Barrel [QT310] [QA311 Return to Marleth] [G47.7,52.7 Dun Morogh]
 [A Shaman] At [TAR258113 Ingrid Dunwald], [T] train (level 8: Lightning Shield, Rockbiter 2) [G47.4,52 Dun Morogh]
 [A Hunter] At [TAR1231 Grif Wildheart], [T] train (level 8: Concussive Shot) [G45.8,53 Dun Morogh]
-[O]At [TAR2326 Thamner Pol], [QT96047 Camping 101: First Aid] once First Aid is 20 [G47.2,52.6 Dun Morogh]
+At [TAR2326 Thamner Pol], [QT96047 Camping 101: First Aid] once First Aid is 20, and learn Heavy Linen Bandage (2 Linen Cloth each; First Aid 20 on Forever, Classic 40 - whether Thamner teaches it is unverified) [G47.2,52.6 Dun Morogh]
 
 [OC]Grind west back to Brewnall
 At [TAR1375 Marleth Barleybrew], [QT311] [G30.2,45.5 Dun Morogh]

@@ -20,6 +20,7 @@ At [TAR270637 Howin Kindfeather], [QA98300 Word to Ironforge] (a missive for Kin
 
 [OC]|cffffffffAngerfang Encampment|r  -  the largest Dragonmaw orc camp (45.7,45.4 on warcraft.wiki.gg), 5 units south-west of Howin: level 26-30, non-elite except the rare Battlemaster
 Kill [TAR1034 Dragonmaw Raider] and the Swamprunners and Centurions for 8 Dragonmaw War Banners [QC464] [G45.6,45 Wetlands]
+Bandage to 125: Silk Bandages (1 Silk Cloth each) from the Dragonmaw and Dark Iron cloth until First Aid 125 - Heavy Silk (2 Silk) opens there on Forever, and 125 is what the Expert book needs in chapter 25 (whether a trainer or a manual teaches Silk and Heavy Silk is unverified) [G45.6,45 Wetlands]
 [OC]War Banners is |cff66ff66normal|r (TUGs takes them in one pass through the camp; the drop rate is not in the DB). The Dragonmaw Battlemaster (30 rare elite, ~1,000 HP in the Classic DB) walks the middle at 45.3,44.4 and drops banners too: pull him with both of you or leave him
 Click the four Attack Plans lying about the camp (Menethil Harbor, Thelsamar, Southshore, Ironforge) to burn them [QC98221] [G47.4,45.8 Wetlands]
 [OC]The DB has no spawn for the plans, so no coordinates: they lie inside the camp around the catapults (47.4,47.0). Leave the catapults alone for now - Nek'rosh's Gambit needs War Banners handed in at Menethil first (the last block of the chapter)
@@ -90,6 +91,7 @@ Walk back over the span. At [TAR1075 Rhag Garmason], [QT633] [QA634 Plea To The 
 [OC]|cffffcc00Gear (633):|r both of you take |cff66ff66Dwarven Guard Cloak|r (+1 Agi +6 Sta) if your cloak has no stats; Swampland Trousers are cloth: vendor
 Cross the span again and run north up Arathi (about 40 units). At [TAR2700 Captain Nials] in Refuge Pointe, [QT634] [G45.8,47.6 Arathi Highlands]
 At flight master [TAR2835 Cedrik Prose], get the [P Refuge Pointe] flight point (chapter 25 flies here) [G45.7,46.1 Arathi Highlands]
+[O]If you are passing Stromgarde anyway: [TAR2805 Deneb Walker] in Stromgarde Keep, about 22 units south-west of Refuge Pointe, sells Expert First Aid - Under Wraps (reads at First Aid 125) and the Manual: Heavy Silk Bandage (reads at 180). The route buys the book in chapter 25; the keep's other quarters are Syndicate and ogre territory (Classic, unverified) [G27.0,58.8 Arathi Highlands]
 |cFFfff8a3Fly to [F Menethil Harbor]|r at [TAR2835 Cedrik Prose] [G45.7,46.1 Arathi Highlands]
 
 [OC]|cffffffffMenethil hand-ins|r  -  level 29, past 30 if you took the groups
