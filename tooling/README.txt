@@ -81,3 +81,11 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                        By hand: python tooling\hook_check_guide.py --file guide\Guidelime_ForeverAlliance\02_LochModan.lua
   Python: none was installed on the PC before 28 Oct 2026 (the Microsoft Store stub only); Python 3.12.10 is now at
                        %LOCALAPPDATA%\Programs\Python\Python312\ and first on the user PATH.
+
+29 Oct 2026 - data-pool review (nothing built yet; plan and sources in docs\forever-db-plan-2026-10-29.md)
+  client\<build>\        Forever client DB2 tables as CSV from wago.tools (product "wowf"), pinned per build; see client\README.txt.
+                         QuestXP, SkillLineAbility (recipe yellow/grey), QuestInfo, TaxiNodes for 1.60.1.70685 (28 Oct 2026).
+  Facts checked 29 Oct:  nether tooltip endpoint carries "Drop Chance" only for single-dropper items; www.wowhead.com NPC pages
+                         return 403 from a shell (browser console only); QuestieDB Forever 1.0.9 (26 Oct) is three releases past
+                         our qdb\ 1.0.6; salty-max/wow-data publishes a daily forever.db (SQLite, same client build + QuestieDB +
+                         cmangos loot chances, no quest XP); XP-per-level is Classic's table (Wowhead's September datamine retracted).
