@@ -17,8 +17,9 @@ def target_path():
     if len(sys.argv) > 2 and sys.argv[1] == '--file': return sys.argv[2]
     try:
         data = json.load(sys.stdin)
-    except Exception:
-        return None
+    except Exception as e:
+        sys.stderr.write('hook_check_guide: could not parse the hook JSON on stdin (%s)\n' % e)
+        sys.exit(1)
     ti = data.get('tool_input') or {}
     return ti.get('file_path') or ti.get('path')
 
