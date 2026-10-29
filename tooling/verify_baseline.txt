@@ -8,12 +8,12 @@ questnpc  08_RuinsOfLordaeron.lua:39  [QA95250] Abominable Creatures: DB lists n
 questnpc  08_RuinsOfLordaeron.lua:51  [QT95250] Abominable Creatures: DB lists no finisher at all; line has [TAR265701 Captain Truman]
 questnpc  09_LochModanMenethil.lua:100  [QT290] Lifting the Curse: finisher in the DB is object 112948 Intrepid's Locked Strongbox; line has [TAR1160 Captain Halyndor] (fine if the TAR is just the nearby NPC)
 questnpc  09_LochModanMenethil.lua:100  [QA292] The Eye of Paleth: starter in the DB is object 112948 Intrepid's Locked Strongbox; line has [TAR1160 Captain Halyndor] (fine if the TAR is just the nearby NPC)
-questnpc  10_Redridge2.lua:59  [QA249] Morganth: no [TAR] on the line; DB starter: 313 Theocritus
+questnpc  10_Redridge2.lua:59  [QA249] Morganth: no [TAR] on the line; DB starter: 313 Theocritus; or object 31 Old Lion Statue
 questnpc  11_Darkshore.lua:77  [QA98042] It's All Fun and Games Until...: starter in the DB is object 12666 Twilight Tome; line has [TAR2338 Twilight Disciple] (fine if the TAR is just the nearby NPC)
 questnpc  11_Darkshore.lua:106  [QA98028] Baron Marinous: starter in the DB is item 279275; line has [TAR270294 Baron Marinous] (fine if the TAR is just the nearby NPC)
 questnpc  14_Duskwood.lua:76  [QA98447] The Valor Family: quest not in the Forever DB (not checkable)
 questnpc  16_RedridgeEastvale.lua:69  [QA178] Theocritus' Retrieval: starter in the DB is item 1962; line has [TAR313 Theocritus] (fine if the TAR is just the nearby NPC)
-questnpc  17_Duskwood2.lua:73  [QA96137] Ira's Dagger: no [TAR] on the line; DB starter: 6176 Bath'rah the Windwatcher
+questnpc  17_Duskwood2.lua:73  [QA96137] Ira's Dagger: no [TAR] on the line; DB starter: 6176 Bath'rah the Windwatcher; or item 281143
 questnpc  17_Duskwood2.lua:86  [QT98447] The Valor Family: quest not in the Forever DB (not checkable)
 questnpc  22_ExcavationSite.lua:45  [QT95647] Lost in the Thicket Things: DB lists no finisher at all; line has [TAR262681 Ardin Grassman]
 questnpc  22_ExcavationSite.lua:45  [QA95809] Heartwoven: DB lists no starter at all; line has [TAR262681 Ardin Grassman]

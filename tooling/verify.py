@@ -47,6 +47,7 @@ def check_questnpc(lines):
             if ends is None:
                 out.append((f, ln, f'[{code}{qid}] {gl.qname(qid)}: quest not in the Forever DB (not checkable)')); continue
             npcs = ends['npc']; objs = ends['object']; items = ends.get('item', [])
+            also = (f'; or object {fmt_ids(objs, gl.object_name)}' if objs else '') + (f'; or item {", ".join(map(str, items))}' if items else '')
             if tars:
                 if any(t in npcs for t, _ in tars): continue
                 if not npcs and (objs or items):
@@ -55,10 +56,10 @@ def check_questnpc(lines):
                 elif not npcs:
                     out.append((f, ln, f'[{code}{qid}] {gl.qname(qid)}: DB lists no {what} at all; line has [TAR{tars[0][0]} {tars[0][1]}]'))
                 else:
-                    out.append((f, ln, f'[{code}{qid}] {gl.qname(qid)}: line has {", ".join(f"[TAR{t} {n}]" for t, n in tars)}; DB {what}: {fmt_ids(npcs, gl.npc_name)}'))
+                    out.append((f, ln, f'[{code}{qid}] {gl.qname(qid)}: line has {", ".join(f"[TAR{t} {n}]" for t, n in tars)}; DB {what}: {fmt_ids(npcs, gl.npc_name)}{also}'))
             else:
                 if npcs:
-                    out.append((f, ln, f'[{code}{qid}] {gl.qname(qid)}: no [TAR] on the line; DB {what}: {fmt_ids(npcs, gl.npc_name)}'))
+                    out.append((f, ln, f'[{code}{qid}] {gl.qname(qid)}: no [TAR] on the line; DB {what}: {fmt_ids(npcs, gl.npc_name)}{also}'))
     return out
 
 # ---------------------------------------------------------------- tar
