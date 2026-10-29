@@ -1,8 +1,12 @@
-# Guidelime files must stay LF + ASCII (docs/RULES.md); never let Windows git convert them
-*.lua text eol=lf
-*.toc text eol=lf
-*.py  text eol=lf
+# The addon must stay LF + ASCII (docs/RULES.md); never let Windows git convert it.
+# Scoped to guide/ and archive/ only: compare/ (TUGs) and probe/ hold third-party CRLF files that are kept as-is.
+guide/**   text eol=lf
+archive/**/*.lua text eol=lf
+archive/**/*.toc text eol=lf
+tooling/*.py  text eol=lf
+weights/*.py  text eol=lf
 *.bat text eol=crlf
 *.cmd text eol=crlf
 *.zip binary
 *.gz  binary
+*.diff -text
