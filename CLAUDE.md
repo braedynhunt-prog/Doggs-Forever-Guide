@@ -20,7 +20,11 @@ Owner: Braedyn. He plays the guide and reports what breaks; you keep the files c
 - The guide is never edited casually. Audit or propose first, show Braedyn the proposed lines, edit after he approves. Large edits go to a subagent; the main session reviews them.
 - After every edit to a `.lua` under `guide/`: run `python tooling/check_guide.py` (expected: 0 flow problems, 7 known cosmetic "optional step without [G]" findings) and, if any `[G]` changed, `python tooling/tarcheck.py`. Then rebuild the zip and bump the TOC version/notes.
 - Verify every quest ID, NPC, vendor, coordinate and skill gate against `tooling/qdb/*.json` and `data/*.json`, never from memory or prose. Anything taken from Classic knowledge rather than Forever data is marked unverified.
+- Data freshness: `tooling/sources.json` is the data manifest. Run `python tooling/check_sources.py` at the start of any plan that relies on game data, and state its result in the plan.
 - Lua files: ASCII only, LF line endings. Don't invent Guidelime tags.
 - Commit after each coherent change with a message saying which chapters changed and why. Don't rewrite history.
 - Don't touch the WoW `Interface\AddOns` folder unless asked. Installing = copying `guide/Guidelime_ForeverAlliance/` there, nothing else.
 - When something can't be verified from the data, say so and put it on the in-game test list in the current audit doc rather than guessing.
+
+## Lessons
+@lessons.md

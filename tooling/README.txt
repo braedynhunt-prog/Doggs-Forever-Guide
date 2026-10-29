@@ -89,3 +89,14 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                          return 403 from a shell (browser console only); QuestieDB Forever 1.0.9 (26 Oct) is three releases past
                          our qdb\ 1.0.6; salty-max/wow-data publishes a daily forever.db (SQLite, same client build + QuestieDB +
                          cmangos loot chances, no quest XP); XP-per-level is Classic's table (Wowhead's September datamine retracted).
+
+29 Oct 2026 - data freshness check
+  sources.json         manifest of every game-data source the guide uses: path, upstream, how its version is checked, pull steps.
+                       It stores no versions or dates; the checker reads those live (qdb\META.json, client\<build>\ folder names,
+                       each data\zone_*.json "_browser_refresh"). Add a row when a new data source comes into use.
+  check_sources.py     read-only: polls GitHub (Questie, salty-max) and wago.tools for the latest versions and prints OK / STALE /
+                       INFO / ERROR per source with the pull steps.  Exit 0 fine, 1 stale, 2 a source unreachable (stop, don't use
+                       old data).  --quiet prints only non-OK rows.  Run it at the start of any plan that relies on game data.
+                       Wowhead XP has no upstream version (403 from a shell): a zone counts as stale once a wowf client build is
+                       newer than its browser pull, which is a proxy, since not every build changes quest XP.
+                       Python's ssl can't verify api.github.com on this PC; get_json() retries the same request with curl.

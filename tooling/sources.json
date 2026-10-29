@@ -1,0 +1,65 @@
+{
+ "_comment": "Manifest of the game-data sources the guide is built from. Read by check_sources.py. Holds NO local versions or pull dates: the script reads those live from the data files. Placeholders in pull steps: {version}, {zip}, {build}, {tables}.",
+ "sources": [
+  {
+   "id": "questiedb",
+   "path": "tooling/qdb/*.json",
+   "source": "QuestieDB Forever, decoded to JSON by tooling/questiedb_baked.py from the official Questie release bundle",
+   "local_read": "tooling/qdb/META.json key \"version\"",
+   "upstream": {"method": "GET", "url": "https://api.github.com/repos/Questie/Questie/releases?per_page=20", "read": "newest release tag starting \"bundle/\"; Forever DB version = the part after \"+v\" (bundle/v12.3.1+v1.0.9 -> 1.0.9)"},
+   "pull": [
+    "download {zip} from the GitHub release with tag bundle/..+v{version} (https://github.com/Questie/Questie/releases) and unzip it into a scratch folder",
+    "python tooling/questiedb_baked.py <unzipped>\\QuestieDB\\QuestieDB_Forever.toc tooling\\qdb",
+    "python tooling/check_guide.py and python tooling/verify.py --all, then review the diff before committing"
+   ],
+   "notes": "See tooling/README.txt, \"17 Oct 2026 additions\". Decoded rows have no XP field."
+  },
+  {
+   "id": "client",
+   "path": "tooling/client/<build>/*.csv",
+   "source": "Forever client DB2 tables as CSV from wago.tools, pinned per build",
+   "local_read": "highest build-named subfolder of tooling/client",
+   "upstream": {"method": "GET", "url": "https://wago.tools/api/builds", "read": "key \"wowf\": list of {version, created_at}; newest by created_at"},
+   "tables": ["QuestXP", "SkillLineAbility", "QuestInfo", "TaxiNodes"],
+   "pull": [
+    "mkdir tooling/client/{build}",
+    "for each T in {tables}: curl -A \"Mozilla/5.0\" -o tooling/client/{build}/<T>.csv \"https://wago.tools/db2/<T>/csv?build={build}\"",
+    "update tooling/client/README.txt for the new build"
+   ],
+   "notes": "Nothing reads these tables yet. wago.tools needs a browser-like User-Agent."
+  },
+  {
+   "id": "wowhead_xp",
+   "path": "data/zone_*.json",
+   "source": "Wowhead Forever quest XP per zone, pulled through a real browser",
+   "local_read": "each zone file key \"_browser_refresh\" (ISO date of its last browser pull; null or absent if never browser-pulled)",
+   "upstream": {"method": "none (shell fetches of wowhead.com return 403)", "read": "a zone is stale when the newest wowf build's created_at date (from the client source) is after its _browser_refresh date"},
+   "pull": [
+    "open https://www.wowhead.com/forever/zone=<id> in a real browser",
+    "run tooling/wh_zone_listview.js in the console to get a TSV block",
+    "python tooling/ingest_zone_tsv.py < block.tsv (raw copies land in data/browser/)",
+    "about 14 pages in a row trips a CloudFront 403; wait a few minutes"
+   ],
+   "notes": "See tooling/README.txt, \"17 Oct 2026 - quest XP via the browser\". Staleness here is a proxy: a new client build does not always change quest XP."
+  },
+  {
+   "id": "forever_db",
+   "path": "(not downloaded)",
+   "source": "salty-max/wow-data community SQLite of Forever data; third-party, treat as untrusted",
+   "local_read": "none, not used by any tool yet",
+   "upstream": {"method": "GET", "url": "https://api.github.com/repos/salty-max/wow-data/releases?per_page=5", "read": "newest release by published_at"},
+   "pull": [],
+   "notes": "Informational only. Plan: docs/forever-db-plan-2026-10-29.md."
+  },
+  {
+   "id": "probe",
+   "path": "probe/",
+   "source": "DoggsProbe in-game logs, converted by probe/probe2json.py",
+   "local_read": "none",
+   "upstream": {"method": "none"},
+   "converter": "probe/probe2json.py",
+   "pull": [],
+   "notes": "After launch (4 Nov): install DoggsProbe, /reload before quitting, convert SavedVariables with probe2json.py."
+  }
+ ]
+}
