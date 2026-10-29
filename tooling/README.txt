@@ -50,3 +50,34 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
   Not pulled: 406 Stonetalon (not on the route).  About 14 pages in a row trips a CloudFront 403; wait a few minutes.
   Quests Wowhead itself lists with blank XP: 98190 A Friend of the Family, 97894 Business in Auberdine, 87760 Holy Diver, 91736 Applejack Still.
   compare\forever_20-30_candidates.tsv = every Alliance class-free quest req 18-30 in the 20-30 zones ranked by XP (built 17 Oct).
+
+28 Oct 2026 - verification layer (first Claude Code session; the repo is a git repository from this day)
+  guidelib.py          shared parsing + data access for the checkers: paths (FOREVER_ATLAS, FOREVER_GUIDE = addon folder override),
+                       zone tables (ZONES for [G] names, ZID name -> Forever map id), tag regexes, quest/npc/object lookups
+                       (qstarts/qends/npc_spawns/npc_zones), per-line helpers (steps, race_of, tags, quest_tags, gotos, tars) and the
+                       race chains (Human = 00a/00b + shared, Dwarf = 01a/01b + shared). check_guide.py and verify.py import it.
+                       Line numbers are the file's own (check_guide.py reported one too high before this day).
+                       qdb row layout, 0-indexed as Python reads it: quest [0] name [1] startedBy [npcs, objects, items] [2] finishedBy
+                       [npcs, objects] [3] reqLevel [9] objectives [11] preQuestGroup [12] preQuestSingle; npc [0] name [6] spawns
+                       {zoneId: [[x, y], ...]}; object [0] name [3] spawns; item [0] name [1] npcDrops [5] questRewards [13] vendors
+                       (RULES.md quotes the same columns 1-indexed: "item row 14 = vendors, row 2 = npc drops").
+  verify.py            data checks on the Dwarf Shaman route (Human / Hunter lines skipped):
+                         questnpc  the [TAR] on every [QA]/[QT] line is the quest's starter/finisher in qdb/quest.json
+                         tar       every [TAR] exists with the written name; the line's [G] is within 3 units of a DB spawn
+                                   (first [TAR]; later ones on the line within 15); supersedes tarcheck.py, which still works
+                         gates     recipes / trainer ranks / Camping 101 / fishing gear come after the steps that learn the
+                                   profession, raise its cap or state a cook-to-N / fish-to-N target (skill_gates.json)
+                       python tooling\verify.py            -> only findings missing from verify_baseline.txt, exit 1 if any
+                       python tooling\verify.py --all      -> everything, grouped by module, NEW marks lines not in the baseline
+                       python tooling\verify.py --update-baseline   after Braedyn accepts a finding
+  skill_gates.json     every recipe, trainer and cook-to-N / fish-to-N string in the guide with its skill value and source.
+                       Recipe and fishing-item values are Forever tooltips (nether.wowhead.com/forever/tooltip/item/<id>, 28 Oct);
+                       trainer ranks (Journeyman 50 / level 10) and Camping 101 thresholds are Classic values, marked unverified.
+                       Add a row whenever a new recipe/trainer line goes into the guide.
+  check_guide_baseline.txt / verify_baseline.txt   the accepted findings (7 cosmetic "optional step without [G]"; 42 verify lines).
+  hook_check_guide.py  Claude Code PostToolUse hook (.claude\settings.json, matcher Edit|Write|MultiEdit): after a .lua under guide\
+                       is edited it runs check_guide.py and verify.py and returns only what is missing from the baselines on stderr
+                       with exit 2, so the finding lands back in the session. Hook settings load when Claude Code starts.
+                       By hand: python tooling\hook_check_guide.py --file guide\Guidelime_ForeverAlliance\02_LochModan.lua
+  Python: none was installed on the PC before 28 Oct 2026 (the Microsoft Store stub only); Python 3.12.10 is now at
+                       %LOCALAPPDATA%\Programs\Python\Python312\ and first on the user PATH.
