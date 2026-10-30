@@ -13,21 +13,25 @@ BASE = os.path.abspath(os.environ.get('FOREVER_ATLAS', os.path.join(os.path.dirn
 UA = 'Mozilla/5.0'
 
 
-def get_json(url):
-    """GET url -> parsed JSON; raises on failure. Python's ssl cannot verify api.github.com on this Windows box
+def get_text(url):
+    """GET url -> decoded text; raises on failure. Python's ssl cannot verify api.github.com on this Windows box
     (intermediate certificate missing), so on a certificate failure the same GET is retried with curl, which
     verifies through the OS store. Any other failure is raised as is."""
     try:
         req = urllib.request.Request(url, headers={'User-Agent': UA})
         with urllib.request.urlopen(req, timeout=20) as r:
-            return json.loads(r.read().decode('utf-8-sig'))
+            return r.read().decode('utf-8-sig')
     except urllib.error.URLError as e:
         if not isinstance(e.reason, ssl.SSLError) or not shutil.which('curl'):
             raise
     out = subprocess.run(['curl', '-s', '-f', '--max-time', '20', '-A', UA, url], capture_output=True, timeout=30)
     if out.returncode != 0:
         raise RuntimeError('curl exit %d (after a python SSL verify failure)' % out.returncode)
-    return json.loads(out.stdout.decode('utf-8-sig'))
+    return out.stdout.decode('utf-8-sig')
+
+
+def get_json(url):
+    return json.loads(get_text(url))
 
 
 def vtuple(s):
@@ -90,6 +94,40 @@ def check_wowhead(src, latest):
     return ('STALE' if stale else 'OK'), head, extra, (src['pull'] if stale else [])
 
 
+def check_item_tooltips(src, latest):
+    files = sorted(f for f in glob.glob(rel('weights', 'tooltips', '*.json')) if re.fullmatch(r'\d{4}-\d{2}-\d{2}\.json', os.path.basename(f)))
+    if files:
+        local, n = os.path.basename(files[-1])[:-5], len(json.load(open(files[-1], encoding='utf-8')))
+        what = 'weights/tooltips/%s.json (%d items)' % (local, n)
+    elif os.path.isfile(rel('weights', 'item_tooltips.json')):
+        local, what = src['fallback_date'], 'weights/item_tooltips.json (fallback, dated %s)' % src['fallback_date']
+    else:
+        raise RuntimeError('no tooltip cache found')
+    build_date = latest[1][:10]
+    head = '%s; client build %s of %s' % (what, latest[0], build_date)
+    if local < build_date:
+        return 'STALE', head, [], src['pull']
+    # a newer cache only counts once it covers every item of the 24 Sep scrape (a partial test pull must not read OK)
+    old = rel('weights', 'item_tooltips.json')
+    if files and os.path.isfile(old):
+        have = {r['id'] for r in json.load(open(files[-1], encoding='utf-8')).values()}
+        lack = sorted({r['id'] for r in json.load(open(old, encoding='utf-8')).values()} - have)
+        if lack:
+            return 'STALE', head + '; %d items of item_tooltips.json not re-pulled yet' % len(lack), [], src['pull']
+    return 'OK', head, [], []
+
+
+def check_pandaquest(src):
+    text = get_text(src['upstream']['url'])
+    code = '\n'.join(l for l in text.splitlines() if not l.lstrip().startswith('--'))
+    n = len(re.findall(r'\brewardXP\s*=', code))
+    if n:
+        return 'INFO', 'HAS DATA (%d rewardXP entries). %s' % (n, src['notes']), [], []
+    if re.search(r'\bquests\s*=\s*\{\s*\}', code):
+        return 'INFO', 'empty (quests = {}). %s' % src['notes'], [], []
+    return 'INFO', 'quests table is not empty but has no rewardXP entries. %s' % src['notes'], [], []
+
+
 def check_forever_db(src):
     r = max(get_json(src['upstream']['url']), key=lambda x: x['published_at'])
     return 'INFO', 'unused, third-party; newest release %s (%s). %s' % (r['tag_name'], r['published_at'][:10], src['notes']), [], []
@@ -120,7 +158,8 @@ def main():
         return run
 
     checks = [('questiedb', check_questiedb), ('client', with_wago(check_client)), ('wowhead_xp', with_wago(check_wowhead)),
-              ('forever_db', check_forever_db), ('probe', check_probe)]
+              ('item_tooltips', with_wago(check_item_tooltips)), ('forever_db', check_forever_db),
+              ('pandaquest_forever', check_pandaquest), ('probe', check_probe)]
     code = 0
     for sid, fn in checks:
         try:
@@ -133,11 +172,11 @@ def main():
             code = 1
         if args.quiet and status == 'OK':
             continue
-        print('%-6s %-11s %s' % (status, sid, line))
+        print('%-6s %-18s %s' % (status, sid, line))
         for e in extra:
-            print('       ' + ' ' * 12 + e)
+            print('       ' + ' ' * 19 + e)
         for s in steps:
-            print('       ' + ' ' * 12 + 'pull: ' + s)
+            print('       ' + ' ' * 19 + 'pull: ' + s)
     raise SystemExit(code)
 
 

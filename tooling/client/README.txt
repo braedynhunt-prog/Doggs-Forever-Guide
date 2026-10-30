@@ -10,5 +10,7 @@ Forever client tables (DB2 -> CSV) from wago.tools, pinned per build. Fetched wi
                          uses them is unverified; keep the colour checks on the in-game test list.
   QuestInfo.csv          quest type ids (1 Elite, 41 PvP, 62 Raid, 81 Dungeon)
   TaxiNodes.csv          flight masters (names, world positions)
+  Item.csv               every item id with ClassID / SubclassID / InventoryType (fetched 29 Oct 2026); dungeon_loot.py uses it to
+                         keep only gear a 2H Enhancement shaman can wear. ItemSparse is NOT pinned: it lacks many Classic items.
 
 Plan and sources: docs\forever-db-plan-2026-10-29.md. Nothing reads these yet (fetch_client.py / simulate_xp.py are planned, not built).

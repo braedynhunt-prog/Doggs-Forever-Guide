@@ -100,3 +100,23 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                        Wowhead XP has no upstream version (403 from a shell): a zone counts as stale once a wowf client build is
                        newer than its browser pull, which is a proxy, since not every build changes quest XP.
                        Python's ssl can't verify api.github.com on this PC; get_json() retries the same request with curl.
+
+29 Oct 2026 - dungeon loot check and item tooltips
+  qdb\                 refreshed to QuestieDB Forever 1.0.9 (bundle v12.3.1+v1.0.9, 26 Oct) with questiedb_baked.py; 1.0.6 is in git
+                       history. Spawn points 119,499 -> 77,962: Questie thinned dense clusters, almost all on Zephras Isle (16593);
+                       route mobs checked unchanged. 3,825 NPCs have no spawns at all, including Hall of Thanes bosses Magmatus
+                       (261316) and Faldrim Anvilmar (261306).
+  client\<build>\Item.csv   ClassID / SubclassID / InventoryType for every item (complete; ItemSparse is not, so it is not pinned).
+  fetch_tooltips.py    python tooling\fetch_tooltips.py <ids> | --from-file ids.txt  -> weights\tooltips\<today>.json (same shape as
+                       weights\item_tooltips.json; never writes that file). nether.wowhead.com tooltip endpoint, one request per
+                       second, plain UA; stops on any HTTP error other than 404. Keeps "Dropped by" / "Drop Chance" text.
+                       Forever item stats changed between the 24 Sep scrape and 29 Oct for most items spot-checked.
+  dungeon_loot.py      report only -> Claude outputs\dungeon-loot-<date>.md: per dungeon chapter (03 07 08 13 15 22 24 26), the gear
+                       a 2H Enhancement shaman can use that QuestieDB lists as dropping from creatures spawning in the dungeon,
+                       scored with weights\score_items.py, split into mentioned / not mentioned by the chapter, with a same-slot
+                       comparison against items named on Gear:/Loot: lines. Tooltips: newest dated cache wins per item, then
+                       item_tooltips.json. Ends with the ids that have no tooltip (feed them to fetch_tooltips.py).
+                       Blind spots: creatures with no spawns (bosses above), and Ruins of Lordaeron / Excavation Site, which have
+                       no creatures in QuestieDB.
+  check_sources.py     new rows: item_tooltips (stale until a cache newer than the client build covers every item of the
+                       24 Sep scrape) and pandaquest_forever (PandaQuest's Forever Wowhead overrides; empty on 29 Oct).

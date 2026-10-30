@@ -20,7 +20,7 @@
    "source": "Forever client DB2 tables as CSV from wago.tools, pinned per build",
    "local_read": "highest build-named subfolder of tooling/client",
    "upstream": {"method": "GET", "url": "https://wago.tools/api/builds", "read": "key \"wowf\": list of {version, created_at}; newest by created_at"},
-   "tables": ["QuestXP", "SkillLineAbility", "QuestInfo", "TaxiNodes"],
+   "tables": ["QuestXP", "SkillLineAbility", "QuestInfo", "TaxiNodes", "Item"],
    "pull": [
     "mkdir tooling/client/{build}",
     "for each T in {tables}: curl -A \"Mozilla/5.0\" -o tooling/client/{build}/<T>.csv \"https://wago.tools/db2/<T>/csv?build={build}\"",
@@ -41,6 +41,28 @@
     "about 14 pages in a row trips a CloudFront 403; wait a few minutes"
    ],
    "notes": "See tooling/README.txt, \"17 Oct 2026 - quest XP via the browser\". Staleness here is a proxy: a new client build does not always change quest XP."
+  },
+  {
+   "id": "item_tooltips",
+   "path": "weights/tooltips/*.json",
+   "source": "Forever item tooltips (stats, drop chance) from the nether Wowhead endpoint, cached as plain text by tooling/fetch_tooltips.py",
+   "local_read": "newest file's date in its name (weights/tooltips/YYYY-MM-DD.json); fallback weights/item_tooltips.json, the 24 Sep 2026 scrape, dated by \"fallback_date\"",
+   "fallback_date": "2026-09-24",
+   "upstream": {"method": "none (nether has no version)", "read": "stale when the newest wowf build's created_at date (from the client source) is after the local date"},
+   "pull": [
+    "python tooling/dungeon_loot.py lists the item ids that have no tooltip yet; save them to ids.txt",
+    "python tooling/fetch_tooltips.py --from-file ids.txt (one request per second; writes weights/tooltips/<today>.json, never weights/item_tooltips.json)"
+   ],
+   "notes": "Staleness is a proxy, as for wowhead_xp. Forever item stats changed between 24 Sep and 29 Oct for most items spot-checked (e.g. 270256, 271096), so item_tooltips.json is unreliable for scoring. A partial cache (a few test items) still counts as fresh by date; check its item count."
+  },
+  {
+   "id": "pandaquest_forever",
+   "path": "(not downloaded)",
+   "source": "PandaQuest community addon, Database/Forever/Overrides/Wowhead.lua: Forever quest/NPC data generated from Wowhead (GPL-3, third-party, treat as untrusted)",
+   "local_read": "none, not used by any tool yet",
+   "upstream": {"method": "GET", "url": "https://raw.githubusercontent.com/vem882/pandaquest/main/PandaQuest/Database/Forever/Overrides/Wowhead.lua", "read": "INFO \"empty\" if its quests = {} table is empty; INFO \"HAS DATA (N rewardXP entries)\" if it holds rewardXP entries (comment lines ignored)"},
+   "pull": [],
+   "notes": "Informational only. Empty on 29 Oct 2026. If it fills after launch it is a possible scriptable source of Forever quest XP (rewardXP) and NPC data."
   },
   {
    "id": "forever_db",
