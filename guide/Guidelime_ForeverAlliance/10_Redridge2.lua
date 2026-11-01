@@ -22,7 +22,7 @@ Run east along the road into Redridge: Three Corners [G10.2,72.0 Redridge Mounta
 
 [OC]|cffffffffLakeshire|r  -  pick everything up first; the loops below come back here
 At the stables at [TAR415 Verner Osgood], [QT119] [QA122 Underbelly Scales] [QA124 A Baying of Gnolls] [G25.9,47.3 Redridge Mountains]
-At [TAR341 Foreman Oslow], [QA98386 Alther's Mill] (12 Greater Tarantulas + 6 eggs at the mill east of the lake, 1,650 XP; if you took it in chapter 06 it is already in your log) [G27.1,48.6 Redridge Mountains]
+At [TAR341 Foreman Oslow], [QA98386 Alther's Mill] (12 Greater Tarantulas + 6 eggs at the mill east of the lake, 1,650 XP) [G27.1,48.6 Redridge Mountains]
 At [TAR381 Dockmaster Baren] on the dock, [QA150 Murloc Poachers] (8 Murloc Fins from the lake murlocs) [G22.6,47.4 Redridge Mountains]
 In the town hall at [TAR900 Bailiff Conacher], [QA91 Solomon's Law] (10 Shadowhide Pendants from the gnolls around the Tower of Ilgalar) [G24.6,44.3 Redridge Mountains]
 Next door at [TAR344 Magistrate Solomon], [QT121] [QA143 Messenger to Westfall] (you hand this in at Sentinel Hill when you hearth home) [G24.9,44.5 Redridge Mountains]

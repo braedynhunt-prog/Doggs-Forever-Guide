@@ -26,23 +26,29 @@ Find the four books in the library: Field Accounts of Horde Razings (scroll unde
 At [TAR268568 Roy Lewells], [QT97237] [G38.5,62.0 Stormwind City]
 [OC]Run north to the Dwarven District
 [O]At [TAR1416 Grimand Elmore], [QT1097] [QA353 Stormpike's Delivery] (1,050 XP at the Loch Modan dam, 20+ chapter) [G59.8,33.8 Stormwind City]
-At [TAR11026 Sprite Jumpsprocket], [QT92748] [QA92749 A Dynamite Plan] [G61.8,30.5 Stormwind City]
-At [TAR11026 Sprite Jumpsprocket], [QT92749] [QA92750 Detonation at a Distance] [G61.8,30.5 Stormwind City]
-[OC]Run southeast to Old Town (SI:7 building)
-At [TAR1325 Jasper Fel], [QT92750] [QA92751 Detonation at a Distance] [G80.3,70.1 Stormwind City]
-[OC]Run back to the Dwarven District
-At [TAR11026 Sprite Jumpsprocket], [QT92751] [QA92752 Explosive Consultation] [G61.8,30.5 Stormwind City]
 [OC]Run south to the gate
 At [TAR352 Dungar Longdrink], |cFFfff8a3Fly to [F Sentinel Hill]|r [G71.0,72.5 Stormwind City]
 
 [OC]|cffffffffWestfall - the Defias Brotherhood chain|r
 At [TAR234 Gryan Stoutmantle], [QT132] [QA135 The Defias Brotherhood] [G56.3,47.5 Westfall]
-At [TAR253092 Alba Fairmoon], [QT92752] [QA92753 Destruction in Deadmines] [G52.4,53 Westfall]
+[OC]Run south to Moonbrook (Defias town - level 15-18 humanoids, pull carefully)
+Go into the big building at the south end of Moonbrook (the Deadmines entrance) and down into the mine tunnels; loot 8 Suspicious Industrial Supplies crates in the first caves [QC92747] [G42.5,71.5 Westfall]
+[OC]|cFFFF0000Stop there:|r the undead miners and Foreman Thistlenettle deeper in are level 17-20 ELITE - that is the run itself, later today
+[OC]Run back to Sentinel Hill
+At [TAR253092 Alba Fairmoon], [QT92747] [QA92748 Explosive Consultation] [G52.4,53 Westfall]
 At [TAR523 Thor], |cFFfff8a3Fly to [F Stormwind]|r [G56.5,52.6 Westfall]
+[OC]Run north to the Dwarven District
+At [TAR11026 Sprite Jumpsprocket], [QT92748] [QA92749 A Dynamite Plan] [G61.8,30.5 Stormwind City]
+At [TAR11026 Sprite Jumpsprocket], [QT92749] [QA92750 Detonation at a Distance] [G61.8,30.5 Stormwind City]
+[OC]Run southeast to Old Town (SI:7 building)
+At [TAR1325 Jasper Fel], [QT92750] [QA92751 Detonation at a Distance] [G80.3,70.1 Stormwind City]
 In Old Town at [TAR332 Master Mathias Shaw] (SI:7), [QT135] [QA141 The Defias Brotherhood] [G78.3,70.7 Stormwind City]
 In the Old Town kitchen at [TAR340 Kendor Kabonka], [V] buy |cff66ff66Recipe: Succulent Pork Ribs|r (Cooking 110: 2 Boar Ribs + Hot Spices = +5 Str at level 15 - equal to Longjaw, and it uses the Boar Ribs you banked; learn it when you reach 110). He also sells every quest recipe on this route (Blood Sausage, Goretusk Liver Pie, Crocolisk Steak, Redridge Goulash, Gumbo, Omelet, Wolf Kabob) if you missed one [G77.5,52.7 Stormwind City]
+[OC]Run back to the Dwarven District
+At [TAR11026 Sprite Jumpsprocket], [QT92751] [QA92752 Explosive Consultation] [G61.8,30.5 Stormwind City]
 At [TAR352 Dungar Longdrink], |cFFfff8a3Fly to [F Sentinel Hill]|r [G71.0,72.5 Stormwind City]
 At [TAR234 Gryan Stoutmantle], [QT141] [QA142 The Defias Brotherhood] [G56.3,47.5 Westfall]
+At [TAR253092 Alba Fairmoon], [QT92752] [QA92753 Destruction in Deadmines] [G52.4,53 Westfall]
 Kill the [TAR550 Defias Messenger] - he walks the road between Sentinel Hill and Moonbrook, usually around 45,69 - and loot the message [QC142] [G45,69 Westfall]
 At [TAR234 Gryan Stoutmantle], [QT142] [G56.3,47.5 Westfall]
 At the [TAR467 The Defias Traitor] next to the tower, [QA155 The Defias Brotherhood] [G55.7,47.5 Westfall]

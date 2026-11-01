@@ -33,7 +33,7 @@ At [TAR3583 Barithras Moonshade], [QA947 Cave Mushrooms] (5 Scaber Stalks + 1 De
 At [TAR3657 Sentinel Elissa Starbreeze], [QA965 The Tower of Althalaxx] [G39,43.5 Darkshore]
 At [TAR2913 Archaeologist Hollee], [QA729 The Absent Minded Prospector] (check on Remtravel in the south) [G37.4,41.8 Darkshore]
 At the WANTED board by the inn, [QA4740 WANTED: Murkdeep!] (an event on the south beach, explained there) [G37.2,44.2 Darkshore]
-[O]At [TAR10219 Gwennyth Bly'Leggonde], [QA3524 Washed Ashore] [QA87760 Holy Diver] (3524 + 4681 are a 3-minute pair that unlocks three level-19 Beached quests, 2,190 XP; Holy Diver = a Rod of Deep Dominion from a Stormscale Beastmistress on the north coast, a drop with no stated rate - take it if it falls, do not farm) [G36.6,45.6 Darkshore]
+[O]At [TAR10219 Gwennyth Bly'Leggonde], [QA3524 Washed Ashore] (3524 + 4681 are a 3-minute pair that unlocks three level-19 Beached quests, 2,190 XP) [G36.6,45.6 Darkshore]
 [O]Click the Beached Sea Creature on the sand south of town [QC3524] [G36.4,50.9 Darkshore]
 [O]At [TAR10219 Gwennyth Bly'Leggonde], [QT3524] [QA4681 Washed Ashore] [G36.6,45.6 Darkshore]
 [O]Dive west of the town for the remains on the Skeletal Sea Turtle [QC4681] [G31.8,46.3 Darkshore]
@@ -104,7 +104,6 @@ At [TAR6667 Gelkak Gyromast], [QT2078] [G56.7,13.5 Darkshore]
 Click the Mathystra Relics lying on the Stormscale coast (6 needed, |cff66ff66normal|r) [QC951] [G59.7,21.9 Darkshore]
 Kill 12 [TAR2181 Stormscale Myrmidon], 8 [TAR2182 Stormscale Sorceress] and 6 [TAR2183 Stormscale Warrior] [QC98013] [G59.6,21 Darkshore]
 [O]Kill [TAR270294 Baron Marinous] (level 21, among the Stormscale) and right-click the Clouded Water Globe he drops [QA98028 Baron Marinous] (drop, no stated rate: take it if it falls, do not farm) [G59,22.8 Darkshore]
-[O]Kill [TAR271903 Stormscale Beastmistress] on the shipwreck coast west of Gelkak for the Rod of Deep Dominion [QC87760] [G48.5,13.5 Darkshore]
 |cFFfff8a3Run back to Auberdine|r
 
 [OC]|cffffffffAuberdine hand-ins (2)|r
@@ -112,7 +111,6 @@ At [TAR3649 Thundris Windweaver], [QT4763] [G37.4,40.1 Darkshore]
 [OC]|cffffcc00Gear (4763):|r Wildkeeper Leggings (leather legs +4 Agi +1 Sta +2 Spi) - hunter, take them unless you wear Duty Bound Leggings; shaman, only if your legs are worse than that. Moonstone Wand is a wand and Guststorm Legguards mail: pass
 At [TAR3701 Tharnariun Treetender], [QT2139] [G38.8,43.4 Darkshore]
 [OC][A Shaman] |cffffcc00Gear (2139):|r Timberland Cape (cloak +3 Spi) only if your cloak has no stats; Evergreen Gloves are cloth. Hunter: pass
-[O]At [TAR10219 Gwennyth Bly'Leggonde], [QT87760] (Elixir of Water Breathing + Swim Speed Potion) [G36.6,45.6 Darkshore]
 [O]At [TAR6301 Gorbold Steelhand], [QT982] (Welldrip, Noosegrip, Murloc-hide Gloves: all low - vendor) [G38.1,41.2 Darkshore]
 
 [OC]|cffffffffSouth and out into Ashenvale|r

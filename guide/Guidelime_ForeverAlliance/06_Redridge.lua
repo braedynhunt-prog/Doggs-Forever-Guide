@@ -14,9 +14,8 @@ At flightmaster [TAR931 Ariena Stormfeather], get the [P Lakeshire] flightpoint 
 
 [OC]|cffffffffLakeshire|r
 At [TAR382 Marshal Marris], [QA20 Blackrock Menace] [G28.4,49.0 Redridge Mountains]
-[O]At [TAR382 Marshal Marris], [QA98387 Blackrock Blockade] - 10 Stolen Supplies + 8 Stolen Weapons from the Blackrock camps south of Stonewatch Keep, 1,650 XP; same orcs as Blackrock Menace [G28.4,49.0 Redridge Mountains]
+At [TAR382 Marshal Marris], [QA98387 Blackrock Blockade] - 10 Stolen Supplies + 8 Stolen Weapons from the Blackrock camps south of Stonewatch Keep, 1,650 XP; same orcs as Blackrock Menace, and Shadow Magic and Tharil'zun (chapter 10) need it handed in [G28.4,49.0 Redridge Mountains]
 At [TAR341 Foreman Oslow], [QA125 The Lost Tools] [G27.0,48.6 Redridge Mountains]
-[O]At [TAR341 Foreman Oslow], [QA98386 Alther's Mill] - 12 Greater Tarantulas (level 19-20) + 6 eggs at Alther's Mill east of the lake, 1,650 XP; take it if you feel strong, otherwise it is in the 20+ chapter [G27.0,48.6 Redridge Mountains]
 At the stables at [TAR415 Verner Osgood], [QA118 The Price of Shoes] (goes to Smith Argus in Goldshire - hand in on the Deadmines trip) [G25.9,47.3 Redridge Mountains]
 On the dock at [TAR8965 Shawn], [QA3741 Hilary's Necklace] [G24.2,53.6 Redridge Mountains]
 In the town hall at [TAR344 Magistrate Solomon], [QA120 Messenger to Stormwind] (Deadmines trip) [G24.9,44.5 Redridge Mountains]
@@ -55,16 +54,13 @@ Kill 5 [TAR426 Redridge Brute] and [TAR430 Redridge Mystic] for 5 Iron Pikes and
 Kill [TAR428 Dire Condor] in the hills northeast of the lake for 5 Tough Condor Meat (they hit hard - shock them; ~35% drop, budget ~15 condors) [QC92,2] [G49.9,42.0 Redridge Mountains]
 Kill [TAR422 Murloc Flesheater] along the east shore for 10 Spotted Sunfish [QC127] (~45% drop - budget ~25 murlocs) [G46.9,61.0 Redridge Mountains]
 Kill [TAR485 Blackrock Outrunner] (level 20-21) east of the lake for 10 Battleworn Axes; [TAR440 Blackrock Grunt] north of them drop them too [QC20] [G59.9,60.0 Redridge Mountains]
-[O]Loot 10 Stolen Supplies and 8 Stolen Weapons from the Blackrock camps south of Stonewatch Keep [QC98387] [G56.9,52.0 Redridge Mountains]
-[O]Kill 12 [TAR505 Greater Tarantula] and click 6 Tarantula Eggs at Alther's Mill [QC98386] [G48.9,44.0 Redridge Mountains]
+Loot 10 Stolen Supplies and 8 Stolen Weapons from the Blackrock camps south of Stonewatch Keep [QC98387] [G56.9,52.0 Redridge Mountains]
 
 [OC]Run back to Lakeshire
 At [TAR341 Foreman Oslow], [QT89] [G27.0,48.6 Redridge Mountains]
 [OC][A Shaman] |cffffcc00Gear:|r Smith's Trousers (+4 Str +4 Agi) if you somehow skipped Deepgrave Trousers; otherwise Riding Gloves (cloth +3 Agi +3 Int) as a backup or vendor
 [OC][A Hunter] |cffffcc00Gear:|r Smith's Trousers (+4 Str +4 Agi) only if you have neither Direhammer Leggings nor Deepgrave Trousers; Riding Gloves (cloth +3 Agi +3 Int) only if you still wear the Driving Gloves
-[O]At [TAR341 Foreman Oslow], [QT98386] [G27.0,48.6 Redridge Mountains]
-At [TAR382 Marshal Marris], [QT20] [QA115 Shadow Magic] [QA19 Tharil'zun] (both level 23-25 - 20+ chapter) [G28.4,49.0 Redridge Mountains]
-[O]At [TAR382 Marshal Marris], [QT98387] [G28.4,49.0 Redridge Mountains]
+At [TAR382 Marshal Marris], [QT20] [QT98387] [QA115 Shadow Magic] [QA19 Tharil'zun] (both level 23-25 - 20+ chapter) [G28.4,49.0 Redridge Mountains]
 At [TAR381 Dockmaster Baren], [QT127] [G22.6,47.4 Redridge Mountains]
 West of the inn at [TAR343 Chef Breanna], [QT92] [G17.6,43.8 Redridge Mountains]
 [OC]At [TAR6727 Innkeeper Brianna], [V] [G21.9,44.8 Redridge Mountains]

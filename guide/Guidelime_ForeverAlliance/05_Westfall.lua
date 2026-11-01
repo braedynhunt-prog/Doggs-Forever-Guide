@@ -19,7 +19,7 @@ At flightmaster [TAR352 Dungar Longdrink] on the gate ramp, get the [P Stormwind
 [OC]Follow the road past the Jansen Stead and Saldean's farm straight to Sentinel Hill; pick everything up here, then loop north
 On the way, at [TAR233 Farmer Saldean] by the road, [QA109 Report to Gryan Stoutmantle] (breadcrumb, 630 XP at level 10) [G56,31.2 Westfall]
 At [TAR8931 Innkeeper Heather], bind your Hearthstone to [S Sentinel Hill] [G52.9,53.7 Westfall]
-At [TAR253092 Alba Fairmoon] by the inn, [QA92742 Testing the Wells] [QA92744 Murloc Gills] [QA92745 The State of the Mines] [QA92747 Moonbrook Espionage] [QA92748 Explosive Consultation] [G52.4,53 Westfall]
+At [TAR253092 Alba Fairmoon] by the inn, [QA92742 Testing the Wells] [QA92744 Murloc Gills] [G52.4,53 Westfall]
 At the lumber mill at [TAR878 Scout Galiaan], [QA153 Red Leather Bandanas] [G54,53 Westfall]
 In the tower at [TAR234 Gryan Stoutmantle], [QT109] [QA12 The People's Militia] [QA65 The Defias Brotherhood] [G56.3,47.5 Westfall]
 At [TAR821 Captain Danuvin], [QA102 Patrolling Westfall] [G56.4,47.6 Westfall]
@@ -39,7 +39,6 @@ Use the Well Water Sample Kit at the Jansen Stead well (next to the house) [QC92
 [O]|cff66ff66Ongoing:|r loot Sacks of Oats (small sacks on the ground all over the farms) for 8 Handfuls of Oats [QC151]
 [OC]Run west along the north edge to the Pumpkin Farm
 Inside the farmhouse loot Furlbrow's Wardrobe for the pocket watch [QC64] [G49.3,19.3 Westfall]
-Kill 4 [TAR1236 Kobold Digger] in the Jangolode Mine just north [QC92745,1] [G45.3,20 Westfall]
 Kill [TAR117 Riverpaw Gnoll] around the mine entrance for 8 Gnoll Paws [QC102] [G49,15 Westfall]
 [OC]Run north to the coast
 Kill [TAR126 Murloc Coastrunner] on the north beach for 7 Longshore Murloc Gills and 3 Murloc Eyes [QC92744] [G48,9.5 Westfall]
@@ -56,7 +55,7 @@ Inside at [TAR235 Salma Saldean], [QT36] [QA38 Westfall Stew] [QT22] - learn the
 Finish [QC38] (3 Stringy Vulture Meat, 3 Goretusk Snouts, 3 Murloc Eyes, 3 Okra) - you should have them all [G56.4,30.5 Westfall]
 Inside at [TAR235 Salma Saldean], [QT38] [G56.4,30.5 Westfall]
 [OC]|cffffcc00Gear:|r nothing (cloth mitts / dagger) - take the Westfall Stew for the run-speed buff
-[O]At [TAR253395 Ozwin Ironsprocket], [QT92909] if it completed, then [QA92911 Harvesting the Harvesters] only if you have 4 Copper Modulators + a Crude Scope from an engineer/AH, and [QT92911] once you do [G51.4,32.2 Westfall]
+[O]At [TAR253395 Ozwin Ironsprocket], [QT92909] if it completed. If a Precessive Autocognition Assembly dropped from the harvest golems (no stated rate - take it if it falls, do not farm), right-click it [QA92910 Harvesting the Harvesters] and [QT92910] here (800 XP); then [QA92911 Harvesting the Harvesters] only if you have 8 more Golem Isosprings, 4 Copper Modulators and a Crude Scope (engineer/AH), and [QT92911] once you do (1,050 XP) [G51.4,32.2 Westfall]
 [OC]Run northeast to the Jansen Stead
 At [TAR237 Farmer Furlbrow], [QT64] [G60,19.4 Westfall]
 At [TAR238 Verna Furlbrow], [QT151] [G59.9,19.4 Westfall]
@@ -66,7 +65,7 @@ At [TAR238 Verna Furlbrow], [QT151] [G59.9,19.4 Westfall]
 At [TAR234 Gryan Stoutmantle], [QT12] [QA13 The People's Militia] [G56.3,47.5 Westfall]
 At [TAR821 Captain Danuvin], [QT102] [G56.4,47.6 Westfall]
 [OC]|cffffcc00Gear:|r Belt of the People's Militia is mail, the bracers are cloth with no stats - vendor (both classes)
-At [TAR253092 Alba Fairmoon], [QT92742] [QT92744] [G52.4,53 Westfall]
+At [TAR253092 Alba Fairmoon], [QT92742] [QT92744] [QA92745 The State of the Mines] (4 Kobold Diggers at the Jangolode Mine and 6 Riverpaw Miners at the quarry - both on the south loop, 490 XP) [G52.4,53 Westfall]
 [OC]At [TAR8931 Innkeeper Heather], [V] - no repairer on the hill; the blacksmith at the base of the tower repairs [G52.9,53.7 Westfall]
 
 [OC]|cffffffffLevel 18 - South loop|r  -  one big clockwise circuit: Defias fields, Moonbrook, the lighthouse, up Longshore, the north beach, back east
@@ -75,8 +74,6 @@ Kill 15 [TAR589 Defias Pillager] and 15 [TAR590 Defias Looter] in the fields nor
 Bandage to 80: keep making Heavy Linen from the Defias cloth until First Aid 80 (green from 75, so the last few points are slow), and bank every Wool Cloth for the Wool Bandage at 80 (Goldshire, chapter 10; which cloth the Moonbrook and Deadmines Defias drop is unverified) [G38.5,60 Westfall]
 [O]|cff66ff66Ongoing:|r loot Red Leather Bandanas from every Defias for 15 [QC153]
 [OC]Moonbrook is Defias town - level 15-18 humanoids, pull carefully
-Go into the big building at the south end of Moonbrook (the Deadmines entrance) and down into the mine tunnels; loot 8 Suspicious Industrial Supplies crates in the first caves [QC92747] [G42.5,71.5 Westfall]
-[OC]|cFFFF0000Stop there:|r the undead miners and Foreman Thistlenettle deeper in are level 17-20 ELITE - that part is the Deadmines trip
 [O]In the barn on the south side of Moonbrook at the [TAR249713 Odd Child], [QA92109 My First Alchemy Set] - only if you can get 5 Empty Vials (any alchemy vendor), 5 Silverleaf and 5 Peacebloom; then [QT92109] [QA92110 My First Real Potion] (3 Murloc Eyes) and [QT92110] - 840 XP for a herbalist [G41.2,79 Westfall]
 [OC]Run southwest to the lighthouse on the coast
 At [TAR392 Captain Grayson], [QA103 Keeper of the Flame] [QA152 The Coast Isn't Clear] [QA104 The Coastal Menace] [G30,86 Westfall]
@@ -90,13 +87,14 @@ Kill 6 [TAR1426 Riverpaw Miner] in the quarry [QC92745,2] [G29.8,48 Westfall]
 Kill 7 [TAR171 Murloc Warrior] on the beach north of the quarry [QC152,2] [G28,38 Westfall]
 [OC]Follow the coast round to the north beach
 Kill 7 [TAR126 Murloc Coastrunner] on the north beach [QC152,1] [G48,9.5 Westfall]
+Kill 4 [TAR1236 Kobold Digger] in the Jangolode Mine, just inland on the way back [QC92745,1] [G45.3,20 Westfall]
 [OC]Run southeast back to Sentinel Hill (past Saldean's farm - hand in Ozwin's quest on the way if it completed)
 At [TAR234 Gryan Stoutmantle], [QT13] [QA14 The People's Militia] (the Highwaymen south of Moonbrook - you kill them on the Deadmines trip) [G56.3,47.5 Westfall]
 At [TAR878 Scout Galiaan], [QT153] [G54,53 Westfall]
 [OC][A Shaman] |cffffcc00Gear:|r take Cloak of the People's Militia (+2 Agi) only if you did not get Spiritwraith Drape; otherwise the Leggings (cloth +2 Str +2 Spi) to vendor
 [OC][A Hunter] |cffffcc00Gear:|r Cloak of the People's Militia (+2 Agi) only if you have no Spiritwraith Drape; Cape of the Brotherhood from VanCleef replaces either
-At [TAR253092 Alba Fairmoon], [QT92745] [QT92747] [G52.4,53 Westfall]
-[OC]|cffffcc00Alba's next step|r (Explosive Consultation) is in Stormwind - it is on the Deadmines trip. The Coast Isn't Clear and The Coastal Menace hand in at the lighthouse when you walk out of the Deadmines onto the coast.
+At [TAR253092 Alba Fairmoon], [QT92745] [QA92747 Moonbrook Espionage] [G52.4,53 Westfall]
+[OC]|cffffcc00Alba's next steps|r (the Moonbrook crates, then Explosive Consultation in Stormwind) are on the Deadmines trip. The Coast Isn't Clear and The Coastal Menace hand in at the lighthouse when you walk out of the Deadmines onto the coast.
 
 [OC]|cffffffffLevel 18 - leaving for Redridge|r
 [OC]The Defias Brotherhood (65) goes to Wiley in Lakeshire; the rest of that chain and the Deadmines come after Redridge

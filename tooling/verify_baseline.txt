@@ -2,6 +2,7 @@ questnpc  01b_DunMorogh.lua:88  [QT310] Bitter Rivals: finisher in the DB is obj
 questnpc  01b_DunMorogh.lua:88  [QA311] Return to Marleth: starter in the DB is object 270 Unguarded Thunder Ale Barrel; line has [TAR1373 Jarven Thunderbrew] (fine if the TAR is just the nearby NPC)
 questnpc  03_HallOfThanes.lua:32  [QA96395] An Ancient Grudge: DB lists no starter at all; line has [TAR265002 Ghostly Attendant]
 questnpc  03_HallOfThanes.lua:39  [QT96395] An Ancient Grudge: DB lists no finisher at all; line has [TAR265002 Ghostly Attendant]
+questnpc  05_Westfall.lua:58  [QA92910] Harvesting the Harvesters: starter in the DB is item 255155; line has [TAR253395 Ozwin Ironsprocket] (fine if the TAR is just the nearby NPC)
 questnpc  08_RuinsOfLordaeron.lua:39  [QA95250] Abominable Creatures: DB lists no starter at all; line has [TAR265701 Captain Truman]
 questnpc  08_RuinsOfLordaeron.lua:51  [QT95250] Abominable Creatures: DB lists no finisher at all; line has [TAR265701 Captain Truman]
 questnpc  09_LochModanMenethil.lua:100  [QT290] Lifting the Curse: finisher in the DB is object 112948 Intrepid's Locked Strongbox; line has [TAR1160 Captain Halyndor] (fine if the TAR is just the nearby NPC)
@@ -16,12 +17,12 @@ questnpc  17_Duskwood2.lua:86  [QT98447] The Valor Family: quest not in the Fore
 questnpc  22_ExcavationSite.lua:46  [QT95647] Lost in the Thicket Things: DB lists no finisher at all; line has [TAR262681 Ardin Grassman]
 questnpc  22_ExcavationSite.lua:46  [QA95809] Heartwoven: DB lists no starter at all; line has [TAR262681 Ardin Grassman]
 questnpc  22_ExcavationSite.lua:60  [QA95810] Lost Relic Carry: starter in the DB is item 270865; line has [TAR1077 Prospector Whelgar] (fine if the TAR is just the nearby NPC)
-tar  05_Westfall.lua:47  Defias Trapper [G44.0,33.0] is 4.6 from the nearest spawn 46.4,36.9
-tar  05_Westfall.lua:80  Odd Child (249713) has no spawn in Westfall (no spawn data in the DB at all)
-tar  05_Westfall.lua:87  Murloc Oracle [G28.0,65.0] is 3.8 from the nearest spawn 27.7,68.8
-tar  06_Redridge.lua:41  Redridge Mongrel [G24.9,76.0] is 5.2 from the nearest spawn 25.3,81.2
-tar  06_Redridge.lua:53  Redridge Brute [G23.9,33.0] is 4.9 from the nearest spawn 19.0,32.6
-tar  06_Redridge.lua:56  Murloc Flesheater [G46.9,61.0] is 3.4 from the nearest spawn 50.2,61.7
+tar  05_Westfall.lua:46  Defias Trapper [G44.0,33.0] is 4.6 from the nearest spawn 46.4,36.9
+tar  05_Westfall.lua:77  Odd Child [G41.2,79.0] is 6.4 from the nearest spawn 42.8,72.8
+tar  05_Westfall.lua:84  Murloc Oracle [G28.0,65.0] is 3.8 from the nearest spawn 27.7,68.8
+tar  06_Redridge.lua:40  Redridge Mongrel [G24.9,76.0] is 5.2 from the nearest spawn 25.3,81.2
+tar  06_Redridge.lua:52  Redridge Brute [G23.9,33.0] is 4.9 from the nearest spawn 19.0,32.6
+tar  06_Redridge.lua:55  Murloc Flesheater [G46.9,61.0] is 3.4 from the nearest spawn 50.2,61.7
 tar  08_RuinsOfLordaeron.lua:9  Maris Granger [G59.2,37.8] is 27.6 from the nearest spawn 72.1,62.2 (secondary TAR, 15-unit limit)
 tar  08_RuinsOfLordaeron.lua:56  Lady Dena Kennedy (15991) has no spawn in Stormwind City (no spawn data in the DB at all)
 tar  17_Duskwood2.lua:27  Rabid Dire Wolf [G27.7,31.1] is 5.7 from the nearest spawn 33.1,29.4
