@@ -127,7 +127,7 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                          python tooling\build_variant.py <variant.json> --out <dir> [--report <file>]             -> anywhere else
                          python tooling\build_variant.py <variant.json> --passthrough --out <dir>                 -> regression test: the
                                               source chapters must come out byte-identical (TOCs are the variant's)
-                       Per source chapter: overlay\<key>.txt (anchors QA<id> QT<id> QC<id> TAR<id> G<x>,<y> "N <title>", #n for the
+                       Per source chapter: overlay\<key>.txt (anchors QA<id> QT<id> QC<id> TAR<id> G<x>,<y> "N <title>" "T <text>", #n for the
                        nth match; @replace @after @before @delete @header @gear-dungeon; an unknown or ambiguous anchor aborts),
                        then lines whose [A ...] tags exclude the variant are dropped and untagged [OC] Gear/Loot lines stripped,
                        then the generated gear lines go after their [QT] lines, then the [D ...] prefix and the footer group

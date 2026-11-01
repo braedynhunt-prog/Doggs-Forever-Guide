@@ -37,6 +37,8 @@ Overlay files (overlay\<key>.txt):
       TAR<id>                 the line holding [TAR<id> ...]
       G<x>,<y>                the line holding [G<x>,<y> ...] (numbers exactly as written)
       N <title>               the line [N <title>]
+      T <text>                the line containing <text> literally (for untagged [OC] notes; pick a substring that
+                              occurs on exactly one line of the source chapter; the text may not contain '#')
   Directives:
       @replace <anchor>       the block replaces the anchored line (1+ lines)
       @after <anchor>         the block goes after the anchored line
@@ -165,18 +167,22 @@ def chapter_texts(v, filtered=True):
 
 
 # ---------------------------------------------------------------- overlay
-ANCHOR = re.compile(r'^(?:(QA|QT|QC|TAR)(\d+)|G(\d+(?:\.\d+)?),(\d+(?:\.\d+)?)|N (.+?))(?:#(\d+))?$')
+ANCHOR = re.compile(r'^(?:(QA|QT|QC|TAR)(\d+)|G(\d+(?:\.\d+)?),(\d+(?:\.\d+)?)|N (.+?)|T ([^#]+?))(?:#(\d+))?$')
 
 
 def anchor_regex(anchor):
     m = ANCHOR.match(anchor.strip())
     if not m:
-        raise BuildError('bad anchor "%s" (QA<id> QT<id> QC<id> TAR<id> G<x>,<y> N <title>, optional #n)' % anchor)
-    code, num, gx, gy, title, nth = m.groups()
+        raise BuildError('bad anchor "%s" (QA<id> QT<id> QC<id> TAR<id> G<x>,<y> N <title> T <text>, optional #n)' % anchor)
+    code, num, gx, gy, title, text, nth = m.groups()
     if code:
         rx = re.compile(r'\[' + code + num + r'(?!\d)')
     elif gx:
         rx = re.compile(r'\[G\s*' + re.escape(gx) + r'\s*,\s*' + re.escape(gy) + r'(?![\d.])')
+    elif text is not None:
+        if not text.strip():
+            raise BuildError('bad anchor "%s" (T needs text)' % anchor)
+        rx = re.compile(re.escape(text.strip()))   # literal substring, 1 Nov 2026 (untagged [OC] notes)
     else:
         rx = re.compile(r'^\[N ' + re.escape(title.strip()) + r'\]\s*$')
     return rx, (int(nth) if nth else None)

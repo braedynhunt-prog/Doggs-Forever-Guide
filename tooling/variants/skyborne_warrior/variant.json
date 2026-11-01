@@ -14,7 +14,9 @@
  "profile": "profile.json",
  "generated_gear": "generated_gear.json",
  "missing_tooltips": "missing_tooltips.txt",
- "gear_skip_quests": [],
+ "gear_skip_quests": [
+  275
+ ],
  "tag_words": {
   "classes": {
    "keep": [

@@ -11,6 +11,7 @@ Files
   profile.json          {"profile": "prot"} - the weights/profiles.py profile for gear calls
   chapters\             hand-written chapters, copied verbatim (00s, 00t, 00u; Phase 2)
   overlay\<key>.txt     anchored edits to the Alliance source chapters (Phase 3); syntax in tooling\build_variant.py
+                        anchors: QA/QT/QC/TAR<id>, G<x>,<y>, N <title>, T <literal text of an untagged line> (added 1 Nov evening), #n for the nth match
   generated_gear.json   gear_calls.py --emit output read by the builder (schema at the top of tooling\gear_calls.py)
   missing_tooltips.txt  item ids the last --emit had no tooltip for
   build_report.txt      the last build's report (drops, strips, overlay ops, gear placement, "needs overlay" lines)
