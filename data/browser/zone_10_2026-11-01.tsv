@@ -1,0 +1,125 @@
+ZONE	/forever/zone=10/duskwood
+5	20	17	390	1	10	0		0	0	unchanged	0			Jitters' Growling Gut
+55	32	20	3850	1	10	0	1	0	0	unchanged	0	2954,2953,1282	7344	Morbent Fel
+56	24	18	1450	1	10	0		0	0	unchanged	1700			The Night Watch
+57	26	18	2100	1	10	0		0	0	unchanged	2000			The Night Watch
+58	30	18	2450	1	10	0		0	0	unchanged	2500	3604,3605,1729		The Night Watch
+66	28	22	230	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+67	28	22	1150	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+68	28	22	1700	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+69	28	22	570	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+70	28	22	1700	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+72	28	22	230	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+74	28	22	1150	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+75	28	22	1150	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+78	28	22	570	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+79	28	22	230	1	10	0		0	0	unchanged	0		939	The Legend of Stalvan
+80	28	22	230	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+90	25	18	2000	1	10	0		0	0	updated	1800		1017,2701	Seasoned Wolf Kabobs
+93	20	17	780	1	10	0		0	0	unchanged	0		3683	Dusky Crab Cakes
+95	25	20	1000	1	10	0		0	0	unchanged	0			Sven's Revenge
+97	28	22	230	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+98	35	22	4100	1	10	0		0	0	updated	0	2044,2043,270053		The Legend of Stalvan
+101	25	18	2550	1	10	0		0	0	unchanged	0		1131	The Totem of Infliction
+133	27	20	1650	1	10	0		0	0	unchanged	2200			Ghoulish Effigy
+134	30	20	1200	1	10	0		0	0	unchanged	1400			Ogre Thieves
+145	18	18	1000	1	44	0		0	0	unchanged	0			Messenger to Darkshire
+146	18	18	340	1	44	0		0	0	unchanged	250			Messenger to Darkshire
+148	24	20	485	1	10	0		0	0	unchanged	0			Supplies from Darkshire
+149	24	20	485	1	10	0		0	0	unchanged	0			Ghost Hair Thread
+154	24	20	195	1	10	0		0	0	unchanged	175			Return the Comb
+156	24	20	970	1	10	0		0	0	unchanged	0			Gather Rot Blossoms
+157	24	20	1450	1	10	0		0	0	unchanged	1300			Deliver the Thread
+158	24	20	485	1	10	0		0	0	unchanged	0			Zombie Juice
+159	24	20	970	1	10	0		0	0	unchanged	1700			Juice Delivery
+160	30	20	610	1	10	0		0	0	unchanged	0			Note to the Mayor
+163	20	17	390	1	10	0		0	0	unchanged	0			Raven Hill
+164	23	17	920	1	10	0		0	0	unchanged	800			Deliveries to Sven
+165	25	17	1000	1	10	0		0	0	unchanged	0			The Hermit
+173	28	23	1150	1	10	0		0	0	unchanged	1800			Worgen in the Woods
+174	25	20	2000	1	10	0		0	0	updated	0			Look to the Stars
+175	25	20	1000	1	10	0		0	0	updated	0			Look to the Stars
+177	25	20	1500	1	10	0		0	0	updated	0			Look to the Stars
+181	30	20	2450	1	10	0		0	0	updated	0	7106,7107		Look to the Stars
+221	29	23	1750	1	10	0		0	0	unchanged	1900			Worgen in the Woods
+222	31	23	1900	1	10	0		0	0	unchanged	2200			Worgen in the Woods
+223	31	23	3150	1	10	0		0	0	unchanged	0	2902,1547	5244	Worgen in the Woods
+225	35	28	690	1	10	0		0	0	unchanged	0			The Weathered Grave
+226	21	19	1250	1	10	0		0	0	unchanged	0		1127	Wolves at Our Heels
+227	35	28	275	1	10	0		0	0	unchanged	0		2154	Morgan Ladimore
+228	35	28	2750	1	10	0	1	0	0	updated	3500			Mor'Ladim
+229	35	28	275	1	10	0		0	0	unchanged	0			The Daughter Who Lived
+230	25	20	1000	1	10	0		0	0	unchanged	0			Sven's Camp
+231	35	28	1350	1	10	0		0	0	updated	0		2000,270051	A Daughter's Love
+240	20	17	780	1	10	0		0	0	unchanged	1200			Return to Jitters
+245	21	17	1250	1	10	0		0	0	unchanged	0		3559	Eight-Legged Menaces
+251	30	20	245	1	10	0		0	0	unchanged	0			Translate Abercrombie's Note
+252	30	20	245	1	10	0		0	0	unchanged	0		3248	Translation to Ello
+253	30	20	3650	1	10	0	1	0	0	updated	0	3560,270044	6223	Bride of the Embalmer
+254	35	20		1	10	0		0	0	unchanged	0			Digging Through the Dirt
+262	25	20	510	1	10	0		0	0	unchanged	0			The Shadowy Figure
+265	25	20	200	1	10	0		0	0	unchanged	0			The Shadowy Search Continues
+266	25	20	200	1	10	0		0	0	unchanged	0			Inquire at the Inn
+268	25	20	510	1	10	0		0	0	unchanged	0			Return to Sven
+269	29	20	590	1	10	0		0	0	unchanged	0			Seeking Wisdom
+270	29	20	1200	1	10	0		0	0	unchanged	0			The Doomed Fleet
+321	29	20	590	1	10	0		0	0	unchanged	0		2702	Lightforge Iron
+322	29	20	1200	1	10	0		0	0	unchanged	0			Blessed Arm
+323	28	20	2300	1	10	0		0	0	unchanged	1800			Proving Your Worth
+324	29	20	1750	1	10	0		0	0	unchanged	0			The Lost Ingots
+325	29	20	590	1	10	0		0	0	unchanged	0			Armed and Ready
+337	25	20	1500	1	10	0		0	0	unchanged	1400			An Old History Book
+377	26	22	2100	1	717	2	81	0	0	updated	0	2033,2906,270029		Crime and Punishment
+401	30	20	1850	1	10	0		0	0	unchanged	0			Wait for Sirra to Finish
+453	25	20	1000	1	10	0		0	0	unchanged	0			Finding the Shadowy Figure
+526	29	20	1750	1	10	0		0	0	unchanged	0			Lightforge Ingots
+1041	30	25	1200	1	331	1		0	0	unchanged	0			The Caravan Road
+1042	30	25	245	1	331	1		0	0	unchanged	0			The Carevin Family
+1043	30	25	2450	1	331	1		0	0	unchanged	2500			The Scythe of Elune
+1044	30	25	3050	1	331	1		0	0	unchanged	0	5817,5818		Answered Questions
+1243	28	28	230	1	1519	0		0	0	unchanged	0			The Missing Diplomat
+1244	30	28	2450	1	1519	0		0	0	unchanged	0			The Missing Diplomat
+1245	30	28	245	1	1519	0		0	0	unchanged	0			The Missing Diplomat
+1372	42	37	345	2	10	0		0	0	unchanged	0			Nothing But The Truth
+1383	42	37	4300	2	10	0	1	0	0	unchanged	0	6832,11265		Nothing But The Truth
+1388	42	37	345	2	10	0		0	0	unchanged	0			Nothing But The Truth
+1391	42	37	2550	2	10	0		0	0	unchanged	0			Nothing But The Truth
+1395	45	40	2900	1	10	0		0	0	unchanged	5000			Supplies for Nethergarde
+1477	45	40	970	1	1519	0		0	0	unchanged	0			Vital Supplies
+3861	1	1	10	1	-284	-2		0	0	unchanged	0			CLUCK!
+8446	60	60	9950	3	-1	7		0	0	unchanged	0			Shrouded in Nightmare
+9295	60	45	3300	3	-368	7		0	0	unchanged	0			Letter from the Front
+79362	25	18	2000	3	10	0		64	162	updated	0			Grant's Shield
+79363	26	18	2100	3	10	0		64	162	updated	0			Silvia's Sword
+81730	27	23	2200	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission I: Defeat Worgen
+81731	27	23	2200	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission II: Defeat Ogres
+81732	27	23	2200	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission III: Defeat Dragonkin
+81733	27	23	1650	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission IV: Ogre Intelligence
+81734	27	23	1650	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission V: Worgen Intelligence
+81735	27	23	1650	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission VI: Dragon Intelligence
+81736	27	23	1650	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission VII: Recover Shadowscythe
+81737	27	23	1650	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission VIII: Recover Ogre Magi text
+81738	27	23	1650	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission IX: Recover Dragon Egg
+81739	27	23	2200	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission X: Nightmare Moss
+81740	27	23	2200	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission XI: Cold Iron Ore
+81741	27	23	2200	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission XII: Dream-Touched Dragonscale
+81742	27	23	2200	3	10	0	1	0	0	unchanged	3400		219526	Duskwood Mission XIII: Defeat Ylanthrius
+81743	27	23	2200	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission XIV: Defeat Vvarc'zul
+81744	27	23	2200	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission XV: Defeat Amokarok
+81745	27	23	1650	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission XVI: Rescue Kroll Mountainshade
+81746	27	23	1650	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission XVII: Rescue Alara Grovemender
+81747	27	23	1650	3	10	0	1	0	0	unchanged	1700		219526	Duskwood Mission XVIII: Rescue Elenora Marshwalker
+91740	11	7	880	1	12	0		0	0	new	400			Croaky's Head
+92910	15	8	800	1	40	0		0	0	new	350			Harvesting the Harvesters
+94214	60	1		3	16941	0		0	0	new	0		284584	Craftsman's Writ: Shadow Protection Potion
+94223	60	1		3	16941	0		0	0	new	0			Craftsman's Writ: Silver Skeleton Key
+94232	60	1		3	16941	0		0	0	new	0			Craftsman's Writ: Minor Recombobulator
+94241	60	1		3	16941	0		0	0	new	0		284584	Craftsman's Writ: Dark Leather Tunic
+94250	60	1		3	16941	0		0	0	new	0		284584	Craftsman's Writ: Small Silk Pack
+95161	22	15	175	1	16591	0		0	4294967372	new	0	279870		Remember That I Love You
+96137	25	18	2000	1	10	0		0	0	new	0			Ira's Dagger
+96138	28	18	2300	1	10	0		0	0	new	0			Merrick's Bow
+96139	23	18	1400	1	10	0		0	4294967372	new	0		281149	The Valor Family
+98372	60	1		3	0	-2		0	0	new	0		280612	An Unfortunate End
+98447	27	18	2200		10	0		0	0	new	0			The Valor Family
+99267	60	1		1	0	-2		0	0	new	0		280612	An Unfortunate End

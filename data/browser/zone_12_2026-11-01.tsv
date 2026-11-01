@@ -1,0 +1,182 @@
+ZONE	/forever/zone=12/elwynn-forest
+6	5	2	335	1	12	0		0	0	unchanged	0	6076,60,3070		Bounty on Garrick Padfoot
+7	2	1	170	1	12	0		0	0	unchanged	25			Kobold Camp Cleanup
+11	10	6	840	1	12	0		0	0	updated	0	2249,2238,287059		Riverpaw Gnoll Bounty
+15	3	1	250	1	12	0		0	0	unchanged	40			Investigate Echo Ridge
+16	1	1		1	12	0		0	0	unchanged	0		4536	Give Gerard a Drink
+18	4	2	355	1	12	0		0	0	unchanged	0	2224,5580,1161,5579,1159		Brotherhood of Thieves
+21	5	1	450	1	12	0		0	0	unchanged	0	2186,2691,11192		Skirmish at Echo Ridge
+33	2	1	170	1	12	0		0	0	unchanged	0	80,6070		Wolves Across the Border
+35	10	7	420	1	12	0		0	0	unchanged	0			Further Concerns
+37	10	7	210	1	12	0		0	0	unchanged	0			Find the Lost Guards
+39	10	7	1050	1	12	0		0	0	unchanged	700			Deliver Thomas' Report
+40	10	7	85	1	12	0		0	0	unchanged	0			A Fishy Peril
+45	10	7	420	1	12	0		0	0	unchanged	0			Discover Rolf's Fate
+46	10	7	840	1	12	0		0	0	updated	0	4840,1158,1008,276686		Bounty on Murlocs
+47	7	4	630	1	12	0		0	0	unchanged	175		1191	Gold Dust Exchange
+52	10	7	630	1	12	0		0	0	unchanged	250		858	Protect the Frontier
+54	5	1	225	1	12	0		0	0	unchanged	0		6078	Report to Goldshire
+59	10	7	210	1	12	0		0	0	unchanged	0	1171,2237		Cloth and Leather Armor
+60	7	3	475	1	12	0		0	0	unchanged	125		1434	Kobold Candles
+61	7	3	790	1	12	0		0	0	updated	350	1178,1177,2454		Shipment to Stormwind
+62	7	4	475	1	12	0		0	0	unchanged	125			The Fargodeep Mine
+69	28	22	570	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+70	28	22	1700	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+71	10	7	210	1	12	0		0	0	unchanged	0			Report to Thomas
+74	28	22	1150	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+75	28	22	1150	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+76	10	4	840	1	12	0		0	0	unchanged	350			The Jasperlode Mine
+78	28	22	570	1	10	0		0	0	unchanged	0			The Legend of Stalvan
+83	9	4	780	1	12	0		0	0	unchanged	0		2575,983	Red Linen Goods
+84	6	5	135	1	12	0		0	0	unchanged	0			Back to Billy
+85	6	5	135	1	12	0		0	0	unchanged	0			Lost Necklace
+86	6	5	405	1	12	0		0	0	unchanged	0			Pie for Billy
+87	8	5	880	1	12	0		0	0	unchanged	0		1359	Goldtooth
+88	9	6	780	1	12	0		0	0	unchanged	0	1173,1182,11191		Princess Must Die!
+94	21	20	1250	1	44	0		0	0	unchanged	0			A Watchful Eye
+106	6	5	135	1	12	0		0	0	unchanged	0			Young Lovers
+107	6	5	135	1	12	0		0	0	unchanged	0			Note to William
+109	10	9	630	1	12	0		0	0	unchanged	250			Report to Gryan Stoutmantle
+111	6	5	135	1	12	0		0	0	unchanged	0			Speak with Gramma
+112	7	5	315	1	12	0		0	0	unchanged	0			Collecting Kelp
+114	7	5	790	1	12	0		0	0	unchanged	0		118	The Escape
+118	18	14	340	1	44	0		0	0	unchanged	0			The Price of Shoes
+119	18	13	680	1	44	0		0	0	unchanged	500			Return to Verner
+123	10	7	210	1	12	0		0	0	unchanged	85			The Collector
+147	10	7	840	1	12	0		0	0	unchanged	0	1360,1183		Manhunt
+176	11	5	880	1	12	0	1	0	0	updated	0	6085,6084,6215,270000		WANTED: "Hogger"
+178	23	15	1400	1	44	0		0	0	unchanged	1200		1970	Theocritus' Retrieval
+239	10	6	210	1	12	0		0	0	unchanged	0			Westbrook Garrison Needs Help!
+249	27	20	2750	1	44	0	1	0	0	updated	0	5274,270033,270034		Morganth
+344	24	20	485	1	1519	0		0	0	unchanged	0			Brother Paxton
+345	24	20	485	1	1519	0		0	0	unchanged	0			Ink Supplies
+346	24	20	1950	1	1519	0		0	0	unchanged	0		6095	Return to Kristoff
+347	24	20	970	1	1519	0		0	0	unchanged	0			Rethban Ore
+783	1	1	40	1	12	0		0	0	unchanged	0			A Threat Within
+1097	15	9	105	1	1519	0		0	0	unchanged	0			Elmore's Task
+1598	4	1	355	1	-61	4		256	65	unchanged	0			The Stolen Tome
+1638	10	10	85	1	-81	4		1	0	unchanged	0			A Warrior's Training
+1666	10	10	420	1	-81	4		1	0	unchanged	0			Marshal Haggard
+1667	10	10	840	1	-81	4		1	0	unchanged	0	6979,6983,6980,6985		Dead-tooth Jack
+1685	10	10	420	1	-61	4		256	65	unchanged	0			Gakin's Summons
+1786	13	12	680	1	-141	4		2	1	unchanged	0			The Tome of Divinity
+1787	13	12	680	1	-141	4		2	1	unchanged	0			The Tome of Divinity
+1860	10	10	420	1	-161	4		128	4294967361	unchanged	0			Speak with Jennea
+1919	15	15	105	1	-161	4		128	4294967361	unchanged	0			Report to Jennea
+2158	5	1	110	1	12	0		0	0	unchanged	0	4656,159		Rest and Relaxation
+2205	10	10	210	1	-162	4		8	0	unchanged	85			Seek out SI: 7
+2300	16	16	115	1	-162	4		8	0	unchanged	0			SI:7
+2998	12	12	225	1	-141	4		2	1	unchanged	0			Tome of Divinity
+3100	1	1	40	1	-81	4		1	1	unchanged	0			Simple Letter
+3101	1	1	40	1	-141	4		2	1	unchanged	0			Consecrated Letter
+3102	1	1	40	1	-162	4		8	1	unchanged	0			Encrypted Letter
+3103	1	1	40	1	-262	4		16	1	unchanged	0			Hallowed Letter
+3104	1	1	40	1	-161	4		128	1	unchanged	0			Glyphic Letter
+3105	1	1	40	1	-61	4		256	65	unchanged	0			Tainted Letter
+3861	1	1	10	1	-284	-2		0	0	unchanged	0			CLUCK!
+3903	4	2	35	1	12	0		0	0	unchanged	0			Milly Osworth
+3904	4	2	180	1	12	0		0	0	unchanged	0			Milly's Harvest
+3905	4	2	355	1	12	0		0	0	unchanged	0	11475,2690		Grape Manifest
+5261	2	1	85	1	12	0		0	0	unchanged	0			Eagan Peltskinner
+5545	9	5	780	1	12	0		0	0	unchanged	300			A Bundle of Trouble
+5623	4	5	90	1	-262	4		16	1	unchanged	0			In Favor of the Light
+5624	4	5	270	1	-262	4		16	1	unchanged	0		16605	Garments of the Light
+5628	10	10	210	1	-262	4		16	8	unchanged	0			Returning Home
+5635	10	10	210	1	-262	4		16	5	updated	0			Desperate Prayer
+5805	1	1		1	12	0		0	0	unchanged	0	13584,13583,13582		Welcome!
+6402	60	50	660	1	1519	0	62	0	0	unchanged	0			Stormwind Rendezvous
+6403	60	50	9950	1	1519	0	62	0	0	unchanged	0			The Great Masquerade
+7881	60	1		3	-364	9		0	0	updated	0		19182	Carnival Boots
+7882	60	10		3	-364	9		0	0	updated	0		19182	Carnival Jerkins
+7883	60	20		3	-364	9		0	0	updated	0			The World's Largest Gnome!
+7884	60	30		3	-364	9		0	0	updated	0		19182	Crocolisk Boy and the Bearded Murloc
+7885	60	40		3	-364	9		0	0	updated	0		19182	Armor Kits
+7889	60	1		3	-364	9		0	0	updated	0		19182	Coarse Weightstone
+7890	60	10		3	-364	9		0	0	updated	0		19182	Heavy Grinding Stone
+7891	60	20		3	-364	9		0	0	updated	0		19182	Green Iron Bracers
+7892	60	30		3	-364	9		0	0	updated	0		19182	Big Black Mace
+7893	60	40		3	-364	9		0	0	updated	0		19182	Rituals of Strength
+7894	60	1		3	-364	9		0	0	updated	0		19182	Copper Modulator
+7895	60	10		3	-364	9		0	0	updated	0		19182	Whirring Bronze Gizmo
+7896	60	20		3	-364	9		0	0	updated	0		19182	Green Fireworks
+7897	60	30		3	-364	9		0	0	updated	0		19182	Mechanical Repair Kits
+7898	60	40		3	-364	9		0	0	updated	0		19182	Thorium Widget
+7899	60	1		3	-364	9		0	0	updated	0		19182	Small Furry Paws
+7900	60	10		3	-364	9		0	0	updated	0		19182	Torn Bear Pelts
+7901	60	20		3	-364	9		0	0	updated	0			Soft Bushy Tails
+7902	60	30		3	-364	9		0	0	updated	0		19182	Vibrant Plumes
+7903	60	40		3	-364	9		0	0	updated	0		19182	Evil Bat Eyes
+7905	60	6	660	1	1537	0		0	0	updated	0		19182	The Darkmoon Faire
+7907	55	1	560	3	-364	9		0	0	unchanged	0		19288	Darkmoon Beast Deck
+7926	60	6	660	2	1637	1		0	0	updated	0		19182	The Darkmoon Faire
+7927	55	1	560	3	-364	9		0	0	unchanged	0		19290	Darkmoon Portals Deck
+7928	55	1	560	3	-364	9		0	0	unchanged	0		19287	Darkmoon Warlords Deck
+7929	55	1	560	3	-364	9		0	0	unchanged	0		19289	Darkmoon Elementals Deck
+7930	60	6		3	-364	9		0	0	updated	0		19295	5 Tickets - Darkmoon Flower
+7931	60	15		3	-364	9		0	0	updated	0		19298	5 Tickets - Minor Darkmoon Prize
+7932	60	30		3	-364	9		0	0	updated	0		19297	12 Tickets - Lesser Darkmoon Prize
+7933	60	45		3	-364	9		0	0	updated	0		19296	40 Tickets - Greater Darkmoon Prize
+7934	60	6		3	-364	9		0	0	updated	0		19291	50 Tickets - Darkmoon Storage Box
+7935	60	25		3	-364	9		0	0	updated	0		19292	10 Tickets - Last Month's Mutton
+7936	60	45		3	-364	9		0	0	updated	0		19293	50 Tickets - Last Year's Mutton
+7937	60	10	660	3	-364	9		0	0	unchanged	0		19425	Your Fortune Awaits You...
+7939	60	40		3	-364	9		0	0	updated	0		19182	More Dense Grinding Stones
+7940	60	55		3	-364	9		0	0	updated	0		19426	1200 Tickets - Orb of the Darkmoon
+7941	60	40		3	-364	9		0	0	updated	0		19182	More Armor Kits
+7942	60	40		3	-364	9		0	0	updated	0		19182	More Thorium Widgets
+7943	60	40		3	-364	9		0	0	updated	0		19182	More Bat Eyes
+7946	1	1		3	-364	9		0	0	unchanged	0		19462	Spawn of Jubjub
+7961	1	1	20		12	0		0	0	unchanged	4		3300,8497	Waskily Wabbits!
+7962	1	1	100		12	0		0	0	unchanged	30		13913	Wabbit Pelts
+7981	60	55		3	-364	9		0	0	updated	0		19491	1200 Tickets - Amulet of the Darkmoon
+8222	60	40		3	-364	9		0	0	updated	0		19182	Glowing Scorpid Blood
+8223	60	40		3	-364	9		0	0	updated	0		19182	More Glowing Scorpid Blood
+8649	60	1		3	-366	9		0	0	unchanged	0		21100	Stormbrow the Elder
+91723	8	6	530	1	12	0		0	4294967372	new	0			Delicate Instruments
+91724	10	6	840	1	12	0		0	4294967372	new	175			Delicate Instruments
+91725	10	7	630	1	12	0		0	4294967372	new	85			Stolen Enchanting Supplies
+91732	7	6	315	1	12	0		0	4294967372	new	0			Good Steel
+91733	10	7	630	1	12	0		0	4294967372	new	0			Downstream
+91736				1	12	0		0	0	new	0		247824	Applejack Still
+91738	10	7	630	1	12	0		0	0	new	85			An Apple Treat
+91740	11	7	880	1	12	0		0	0	new	400			Croaky's Head
+91741	2	1	85	1	12	0		0	0	new	8			Nibbled-On Book
+91743	2	1	170	1	12	0		0	4294967372	new	17	247846,247841,247840		Rascally Rodents
+91745	3	1	25	1	12	0		0	4294967372	new	0			Mining Consultant
+91746	12	7	910	1	12	0		0	0	new	500			Elmpaw's Head
+91751	8	5	700	1	12	0		0	4294967372	new	110			Rough Wolf Pelts
+91752	3	1	315	1	12	0	1	0	4294967372	new	100			The Big Picture
+91753	7	5	475	1	12	0		0	4294967372	new	85			An Enchanting Lesson
+91758	4	1	35	1	12	0		0	4294967372	new	0			Follow That Kobold!
+91772	4	1	355	1	12	0		0	4294967372	new	55			Shhh! We're Hunting Kobolds
+91775	6	1	680	1	12	0	1	0	76	new	250		279936	Book Return
+91777	7	1	790	1	12	0	1	0	68	new	350	248008,248007,248006,248005,276685		Rare Books
+92124	2	1	15	1	12	0		0	4294967372	new	0			Book Inventory
+92479	1	1	40	1	-81	4		1	8	new	0			A Scribbled Letter
+94774	10	10	210	1	-262	4		16	1	new	0			Divine Grace
+94792	10	10	840	1	-261	4		4	12	new	0			Taming the Beast
+94793	10	10	420	1	-261	4		4	8	new	0			Training the Beast
+94822	10	10	210	1	-262	4		16	64	new	0			Confounding Flash
+94863	10	10	840	1	-261	4		4	12	new	0			Taming the Beast
+94864	10	10	840	1	-261	4		4	12	new	0			Taming the Beast
+95771	10	6	840		12	0		0	0	new	350		270298	A Taste of Darkness
+95998	6	4	405	1	-666	-2		0	72	new	0			The Great Outdoors
+96626	6	4	270	1	-666	-2		0	72	new	0			Camping 101: Cooking
+96627	6	4	405	1	-666	-2		0	64	new	0			The Adventurer
+97915	6	4	270	1	-666	-2		0	72	new	0			Camping 101: Alchemy
+97916	6	4	270	1	-666	-2		0	0	new	0			Camping 101: Blacksmithing
+97917	6	4	270	1	-666	-2		0	4294967368	new	0			Camping 101: Enchanting
+97918	6	4	270	1	-666	-2		0	0	new	0			Camping 101: Engineering
+97919	6	4	270	1	-666	-2		0	4294967372	new	0			Camping 101: First Aid
+97920	6	4	270	1	-666	-2		0	4294967372	new	0			Camping 101: Fishing
+97921	6	4	270	1	-666	-2		0	4294967368	new	0			Camping 101: Herbalism
+97922	6	4	270	1	-666	-2		0	76	new	0			Camping 101: Leatherworking
+97923	6	4	270	1	-666	-2		0	76	new	0			Camping 101: Mining
+97924	6	4	270	1	-666	-2		0	72	new	0			Camping 101: Skinning
+97925	6	4	270	1	-666	-2		0	72	new	0			Camping 101: Tailoring
+99127	7	4	630	1	12	0		0	4294967372	new	0			A Net Disaster
+99128	7	4	630	1	12	0		0	4294967372	new	0			Slimy Menace
+99129	7	4	65	1	12	0		0	4294967372	new	0			A Man About a Murloc
+99130	7	4	630	1	12	0		0	4294967372	new	0		286733	An Enticing Offer
+99131	7	4	630	1	12	0		0	4294967372	new	0			Baited for Success
+99143	7	4	630	1	12	0		0	4294967372	new	0		286732	Bottles and Baubles
