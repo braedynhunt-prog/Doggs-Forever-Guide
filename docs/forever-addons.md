@@ -36,6 +36,8 @@ Forever uses the modern client's rules: addons can display combat values (health
 10. **Shortest Path Forever**: directions in the objective tracker across walking, known flights, boats, tram, portals, for anywhere the guide does not route (the guide itself carries every flight, boat and tram step for 1-30). Days old as of 1 Nov 2026, unverified. Alternative: Mapzeroth (draws the route on the map). TomTom is only a straight-line arrow, no routing.
 11. **Plater Nameplates** (Plater-v662, 28 Oct 2026, Forever tagged on the project page): nameplates. Nothing on its page about Forever limits, but the "secret values" rule means any script that reads health or threat to recolour plates may not work; stock profile first.
 12. **What's Training? (Forever)** by Zerkaa (1.1.0, 22 Sep 2026): spellbook button listing trainable spells and prices, spell lists checked against Forever trainers; spells no trainer sells go in a "Not sold by the trainer" section. Beta quirk noted on its page: settings do not persist across logins. The older Fusionpit "What's Training?" also lists Forever support; take the Zerkaa one first.
+13. **GatherMate2** + **GatherMate2 Data Wowhead classic**, for Mining nodes from the start. Status 1 Nov 2026: the data addon has a Forever-tagged file (v2026-10-17; no fishing pools, "no data on wowhead for fishing nodes"). GatherMate2 itself has NO Forever-tagged file on either CurseForge project: the Retail project lists Forever as a flavor and its description mentions a "NodesVanilla" namespace "for the older names used in Forever and Classic", but its only file is Retail 1.52.3 (17 Aug); the Classic project (1.47.11, 29 Jul) does not list Forever at all. Install the Retail GatherMate2 with the data addon and test; GatherPath Forever (draws a loop through recorded nodes) says it works with GatherMate2 on Forever, which suggests the Retail build loads. Unverified.
+14. **Better Fishing** (file 66, 21 Oct 2026, Forever tagged): one keybind casts and then hooks the bobber via soft targeting, optional right-double-click cast, "Enhanced Sound" option. 9 KB, no dependencies. Worth it: the route has fishing stops to 130+ skill and this halves the clicking. Its page's range caveat names Classic Era/TBC/Mists, not Forever; if the keybind hook misses far bobbers, switch on double-click. Companion the author suggests: Speedy AutoLoot (the base game's auto-loot option should do).
 
 ## Not installing (redundant with the above)
 Details (built-in damage meter), MinimapButtonButton / Minimap Button: Forever (Leatrix bag), ForeverForge / ForeverPlusPlus / Auto Forever (Leatrix sells junk and repairs), GearQuest Forever (Pawn + our scale), TomTom (Guidelime arrow), paid route addons (RestedXP, Journey, Zygor), Baganator/Bagnon unless the default bags annoy him.
@@ -46,6 +48,7 @@ Details (built-in damage meter), MinimapButtonButton / Minimap Button: Forever (
 - Pawn's Weights tab shows hit, crit and expertise after importing the scale (stat names unverified).
 - Cooldown Manager works for Shaman spells.
 - DBM-Vanilla covers world bosses; DBM timers for Forever's new raids after 9 Dec.
+- GatherMate2 (Retail build) loads on Forever and shows the Wowhead data nodes; Better Fishing keybind hooks the bobber at full cast range.
 
 ## Pawn scale for 2H Enhancement (from `forever-enh-stat-weights.md`, recommended 15-20 set)
 
