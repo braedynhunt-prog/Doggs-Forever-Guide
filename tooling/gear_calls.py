@@ -10,6 +10,13 @@ Checks every gear call in the Dwarf chain of the guide against today's Forever i
 
     python tooling\\gear_calls.py            -> Claude outputs\\gear-calls-<today>.md
     python tooling\\gear_calls.py --stdout   -> print the report instead
+    python tooling\\gear_calls.py --profile prot [--variant <variant.json>] [--stdout]
+                                          -> the same report scored with another weights/profiles.py profile, over the
+                                             variant's chapters (file: gear-calls-<profile>-<today>.md); default enh
+                                             is the report above, unchanged
+    python tooling\\gear_calls.py --profile prot --variant tooling\\variants\\skyborne_warrior\\variant.json --emit <file>
+                                          -> generated gear calls for tooling/build_variant.py (schema below); also
+                                             writes the variant's missing_tooltips.txt (fetch_tooltips.py --from-file)
 
 Inputs (read only):
   guide/Guidelime_ForeverAlliance/*.lua     gl.chain_files('Dwarf'); lines with [A ...Hunter...] or [GA Human] skipped
@@ -28,6 +35,41 @@ heading text starts with nothing/none or the line says vendor/pass/nothing, else
 "Best" in Part 2 is the best usable non-1H choice by central score; 1H weapons (usable() note "1H (shield set only)")
 only count as best when no other usable choice exists - the build is 2H and a 1H is the shield set, as in
 dungeon_loot.py.
+
+--emit (1 Nov 2026): every [QT] with 1+ reward choices ("itemchoices") on the variant's lines (other classes' and
+races' lines dropped, untagged Gear/Loot lines stripped, as build_variant.py does before its overlay), and every
+dungeon chapter's loot (dungeon_loot.build() with the same profile), picked by the profile's central weights.
+Emitted JSON schema (ASCII, one object):
+  {
+    "generated": "YYYY-MM-DD", "variant": "<variant.json name>", "profile": "<profile name>", "class_tag": "Warrior",
+    "tooltips": ["weights/tooltips/<date>.json dated <date> - N items taken", ...],
+    "quests": [{                              one per [QT<id>] occurrence on a kept line
+        "chapter": "<variant chapter key, e.g. 06>", "file": "<chapter file>", "line": <line number in the chapter file>,
+        "qid": <quest id>, "quest": "<name>", "band": <weights band>,
+        "status": "pick" | "coin_flip" | "nothing" | "not_gear" | "unstated",
+        "pick": ["<item name>", ...],         [] for nothing/unstated; two names for coin_flip
+        "pick_ids": [<item id>, ...],
+        "conservative_best": "<item name>" | null,
+        "text": "<the guide line to insert after the [QT] line>" | null (unstated, not_gear),
+        "missing_tooltips": [<item id>, ...],
+        "choices": [{"id", "name", "tooltip": bool, "slot", "cls", "usable": bool|null, "note", "central": float|null,
+                     "conservative": float|null, "describe": "<wording>"|null}]
+    }],
+    "dungeons": [{                            one per dungeon chapter of the variant (dungeon_loot.DUNGEONS)
+        "chapter": "<key>", "file": "<file>", "zone": <QuestieDB zone id>, "band": <band>, "levels": [lo, hi],
+        "groups": [{"dropper": "<creature name>" | "trash", "npc_ids": [...],
+                    "items": [{"id", "name", "slottype", "req", "central", "conservative", "drop", "describe"}],
+                    "text": "<[OC] Loot line for @gear-dungeon>"}],
+        "missing_tooltips": [<item id>, ...]
+    }],
+    "missing_tooltip_ids": [<every item id above without a tooltip>],
+    "counts": {"quests": n, "picks": n, "coin_flips": n, "nothing": n, "not_gear": n, "unstated": n, "dungeon_groups": n,
+               "missing_tooltips": n, "qt_without_choices": n}
+  }
+Pick rule: usable choices scored with the central weights of the chapter's band; secondary items (profile.secondary:
+enh 1H shield set, prot ranged pull slot) only when nothing else is usable; best <= 0 or nothing usable -> "nothing";
+runner-up within 10% of the best -> "coin_flip"; any choice without a tooltip -> "unstated" (no text); no usable gear
+but a non-equipment choice (bag, potion, food) -> "not_gear" (no text: the overlay words it).
 """
 import argparse, datetime, glob, json, os, re, sys
 
@@ -40,6 +82,9 @@ sys.path.insert(0, WEIGHTS_DIR)
 from score_items import parse, score, usable  # noqa: E402
 from dungeon_loot import (band_weights, nearest_band, tooltip_sources, load_tooltips, client_item_table,  # noqa: E402
                           to_ascii, ascii, BANDS, W20_CENTRAL, W20_CONSERVATIVE)
+import dungeon_loot  # noqa: E402
+import profiles  # noqa: E402
+import build_variant as bv  # noqa: E402
 
 COLOR = re.compile(r'\|c[0-9a-fA-F]{8}|\|r')
 HEADING = re.compile(r'\|cffffcc00(.*?)\|r', re.I)
@@ -175,7 +220,21 @@ def diff(q, it):
     return bad
 
 
-def build():
+def chapter_iter(variant, chain):
+    """(file name, text) per chapter: the Dwarf chain of the addon folder, or the variant's chapters (filtered)."""
+    if variant is None:
+        for path in gl.chain_files(chain):
+            yield os.path.basename(path), gl.read(path), None
+        return
+    for ch in bv.chapter_texts(variant):
+        yield ch['file'], ch['text'], ch
+
+
+def build(profile=None, variant=None):
+    prof = profile or profiles.ENH
+    is_enh = prof is profiles.ENH
+    usable, score = prof.usable, prof.score   # noqa: F811 (the profile's rules; enh = score_items')
+    chain = 'Dwarf' if variant is None else variant['chain']
     tt_srcs = tooltip_sources()
     if not tt_srcs:
         sys.exit('no tooltip cache found under weights/')
@@ -183,7 +242,7 @@ def build():
     item = gl.db('item')
     cbuild, client = client_item_table()
     names = Names(tt_name, item, client)
-    bw = band_weights()
+    bw = prof.band_weights()
     wh = wh_rows()
 
     def tooltip_for(iid, name):
@@ -201,9 +260,8 @@ def build():
     quests_checked = 0
     flagged, no_data, single = [], [], 0
 
-    for path in gl.chain_files('Dwarf'):
-        fn = os.path.basename(path)[:-4]
-        txt = gl.read(path)
+    for fn, txt, _ch in chapter_iter(variant, chain):
+        fn = fn[:-4]
         ga = gl.chapter_ga(txt)
         if ga == 'Human':
             continue
@@ -214,7 +272,7 @@ def build():
 
         # ---------------- Part 1: gear lines and quoted stats
         for ln, line in st:
-            if skip_line(line) or not gl.on_chain(line, ga, 'Dwarf') or not is_gear_line(line):
+            if skip_line(line) or not gl.on_chain(line, ga, chain) or not is_gear_line(line):
                 continue
             n_gear += 1
             text = plain(line)
@@ -257,7 +315,7 @@ def build():
 
         # ---------------- Part 2: reward picks
         for idx, (ln, line) in enumerate(st):
-            if skip_line(line) or not gl.on_chain(line, ga, 'Dwarf'):
+            if skip_line(line) or not gl.on_chain(line, ga, chain):
                 continue
             for qm in QT_TAG.finditer(line):
                 qid = int(qm.group(1))
@@ -288,7 +346,7 @@ def build():
                 cnames = {r['name'].lower(): r for r in rows}
                 window = [st[j] for j in range(idx, min(idx + 4, len(st)))]
                 for wln, wl in window:
-                    if wln != ln and (skip_line(wl) or not gl.on_chain(wl, ga, 'Dwarf')):
+                    if wln != ln and (skip_line(wl) or not gl.on_chain(wl, ga, chain)):
                         continue
                     if wln != ln and QT_TAG.search(wl) and not any(n in wl.lower() for n in cnames):
                         break   # the next quest's turn-in: its gear line is not about this quest
@@ -316,7 +374,7 @@ def build():
                     break
 
                 scored = [r for r in rows if r['u']]
-                main_ = [r for r in scored if r['note'] != '1H (shield set only)'] or scored
+                main_ = [r for r in scored if r['note'] != prof.secondary] or scored
                 reasons = []
                 best = max(main_, key=lambda r: r['sc']) if main_ else None
                 bestk = max(main_, key=lambda r: r['sk']) if main_ else None
@@ -348,7 +406,12 @@ def build():
          '- Weights: level-20 central %s; conservative Spi %.1f SP %.1f Exp %.1f; no mace term (spec removed 17 Oct 2026); '
          'other bands take Int/Agi from enh_weights: %s' % (
              ' '.join('%s=%g' % kv for kv in W20_CENTRAL.items()), W20_CONSERVATIVE['spi'], W20_CONSERVATIVE['sp'],
-             W20_CONSERVATIVE['exp'], '; '.join('L%d int=%g agi=%g' % (b, bw[b][0]['int'], bw[b][0]['agi']) for b in BANDS if b != 20)),
+             W20_CONSERVATIVE['exp'], '; '.join('L%d int=%g agi=%g' % (b, bw[b][0]['int'], bw[b][0]['agi']) for b in BANDS if b != 20))
+         if is_enh else
+         '- Weights: profile %s (%s), every band: central %s; conservative differs in %s; chapters: %s' % (
+             prof.name, prof.label, ' '.join('%s=%g' % kv for kv in bw[20][0].items()),
+             ' '.join('%s=%g' % kv for kv in bw[20][1].items() if bw[20][0].get(kv[0]) != kv[1]),
+             'variant %s' % variant['name'] if variant else 'Dwarf chain of the addon folder'),
          '- Reward choices: data/zone_*.json "itemchoices" (Wowhead Forever atlas, as qinfo.py); item names: tooling/qdb/item.json; '
          'gear classes: tooling/client/%s/Item.csv' % cbuild,
          '- Counts: gear lines scanned %d; item names matched %d; stat mismatches %d; quests checked (2+ choices) %d; '
@@ -407,15 +470,173 @@ def build():
     return '\n'.join(to_ascii(l) for l in L) + '\n', counts
 
 
+# ---------------------------------------------------------------- --emit (1 Nov 2026)
+def gear_head(line, qid):
+    """'Gear:' or 'Gear (<qid>):' when the [QT] line hands in more than one quest (the guide's own convention)."""
+    return 'Gear (%d):' % qid if len(QT_TAG.findall(line)) > 1 else 'Gear:'
+
+
+def quest_text(prof, band, head, status, picks):
+    tag = '[OC][A %s] |cffffcc00%s|r ' % (prof.class_tag, head)
+    if status == 'nothing':
+        return tag + prof.nothing_text
+    d = ['|cff66ff66%s|r (%s)' % (to_ascii(r['name']), prof.describe(r['it'], band)) for r in picks]
+    if status == 'coin_flip':
+        return tag + '%s or %s, coin flip' % (d[0], d[1])
+    return tag + 'take ' + d[0]
+
+
+def emit(prof, variant, out_path):
+    tt_srcs = tooltip_sources()
+    if not tt_srcs:
+        sys.exit('no tooltip cache found under weights/')
+    tt_id, tt_name, tt_used = load_tooltips([p for p, _ in tt_srcs])
+    item = gl.db('item')
+    bw = prof.band_weights()
+    wh = wh_rows()
+
+    def tooltip_for(iid, name):
+        if iid in tt_id:
+            return tt_id[iid]
+        hit = tt_name.get(name.lower())
+        if hit and (hit[1].get('id') in (None, iid)):
+            return hit
+        return None
+
+    quests, missing = [], set()
+    no_choice = 0
+    for ch in bv.chapter_texts(variant):
+        txt = ch['text']
+        lo, hi = gl.chapter_band(txt)
+        band = nearest_band(lo)
+        wc, wk = bw[band]
+        for ln, line in gl.steps(txt):
+            for qm in QT_TAG.finditer(line):
+                qid = int(qm.group(1))
+                w = wh.get(qid)
+                cids = [c[0] for c in (w.get('itemchoices') or [])] if w else []
+                if not cids:
+                    no_choice += 1
+                    continue
+                rows, miss = [], []
+                for iid in cids:
+                    nm = (item.get(str(iid)) or ['?'])[0] or '?'
+                    t = tooltip_for(iid, nm)
+                    r = dict(id=iid, name=nm, tooltip=t is not None, slot=None, cls=None, usable=None, note='no tooltip',
+                             central=None, conservative=None, describe=None)
+                    if t:
+                        it = parse(t[0], t[1])
+                        u, note = prof.usable(it)
+                        r.update(it=it, slot=it['slot'], cls=it['cls'], usable=u, note=note, central=round(prof.score(it, wc), 2),
+                                 conservative=round(prof.score(it, wk), 2), describe=prof.describe(it, band))
+                    else:
+                        miss.append(iid)
+                    rows.append(r)
+                missing.update(miss)
+                src_ln = ch['line_map'][ln - 1] if ch['line_map'] else ln
+                q = dict(chapter=ch['key'], file=ch['file'], line=src_ln, qid=qid,
+                         quest=to_ascii((w.get('name') if w else None) or gl.qname(qid)), band=band,
+                         status=None, pick=[], pick_ids=[], conservative_best=None, text=None, missing_tooltips=miss)
+                if miss:
+                    q['status'] = 'unstated'
+                else:
+                    scored = [r for r in rows if r['usable']]
+                    main_ = [r for r in scored if r['note'] != prof.secondary] or scored
+                    ranked = sorted(main_, key=lambda r: -r['central'])
+                    nongear = [r for r in rows if r['note'] == 'not equipment']
+                    if (not ranked or ranked[0]['central'] <= 0) and nongear:
+                        q['status'] = 'not_gear'   # a bag / potion / food choice: no gear call, the overlay words it
+                        picks = []
+                    elif not ranked or ranked[0]['central'] <= 0:
+                        q['status'] = 'nothing'
+                        picks = []
+                    elif len(ranked) > 1 and ranked[1]['central'] > 0 and ranked[1]['central'] >= 0.9 * ranked[0]['central']:
+                        q['status'] = 'coin_flip'
+                        picks = ranked[:2]
+                    else:
+                        q['status'] = 'pick'
+                        picks = ranked[:1]
+                    if ranked:
+                        q['conservative_best'] = to_ascii(max(ranked, key=lambda r: r['conservative'])['name'])
+                    q['pick'] = [to_ascii(r['name']) for r in picks]
+                    q['pick_ids'] = [r['id'] for r in picks]
+                    if q['status'] != 'not_gear':
+                        q['text'] = quest_text(prof, band, gear_head(line, qid), q['status'], picks)
+                q['choices'] = [{k: (to_ascii(v) if isinstance(v, str) else v) for k, v in r.items() if k != 'it'} for r in rows]
+                quests.append(q)
+
+    # dungeons: dungeon_loot's rows for the same profile and chapters
+    sink = []
+    dungeon_loot.build(None, prof, variant, sink)
+    dungeons = []
+    for d in sink:
+        dmiss = sorted(r['id'] for r in d['rows'] if not r['tt'])
+        missing.update(dmiss)
+        wc = bw[d['band']][0]
+        groups = {}
+        for r in d['rows']:
+            if not r['tt'] or not r['usable'][0] or r['sc'] is None or r['sc'] <= 0:
+                continue
+            key = sorted(r['droppers'])[0] if len(r['droppers']) == 1 else 'trash'
+            groups.setdefault(key, []).append(r)
+        npc = gl.db('npc')
+        names = {}
+        for k, v in npc.items():
+            names.setdefault(v[0], []).append(int(k))
+        out_groups = []
+        for key in sorted(groups, key=lambda k: (k == 'trash', k)):
+            rs = sorted(groups[key], key=lambda r: (-r['sc'], r['name']))[:3]
+            items = [dict(id=r['id'], name=to_ascii(r['name']), slottype=r['slottype'], req=r['req'], central=round(r['sc'], 2),
+                          conservative=round(r['sk'], 2), drop=r['drop'], describe=prof.describe(r['it'], d['band'])) for r in rs]
+            label = 'trash' if key == 'trash' else to_ascii(key)
+            parts = ['|cff66ff66%s|r (%s%s)' % (i['name'], i['describe'], '' if i['drop'] == 'unknown' else ', %s drop' % i['drop'])
+                     for i in items]
+            text = '[OC][A %s] |cffffcc00Loot (%s):|r roll on %s' % (prof.class_tag, label, '; '.join(parts))
+            out_groups.append(dict(dropper=label, npc_ids=[] if key == 'trash' else sorted(names.get(key, [])),
+                                   items=items, text=text))
+        dungeons.append(dict(chapter=d['prefix'], file=d['file'], zone=d['zone'], band=d['band'], levels=[d['lo'], d['hi']],
+                             groups=out_groups, missing_tooltips=dmiss))
+
+    st = [q['status'] for q in quests]
+    counts = dict(quests=len(quests), picks=st.count('pick'), coin_flips=st.count('coin_flip'), nothing=st.count('nothing'),
+                  not_gear=st.count('not_gear'),
+                  unstated=st.count('unstated'), dungeon_groups=sum(len(d['groups']) for d in dungeons),
+                  missing_tooltips=len(missing), qt_without_choices=no_choice)
+    doc = dict(generated=datetime.date.today().isoformat(), variant=variant['name'], profile=prof.name, class_tag=prof.class_tag,
+               tooltips=['%s dated %s - %d items taken' % (os.path.relpath(p, gl.BASE).replace('\\', '/'), dd, tt_used[p])
+                         for p, dd in tt_srcs],
+               quests=quests, dungeons=dungeons, missing_tooltip_ids=sorted(missing), counts=counts)
+    with open(out_path, 'w', encoding='ascii', newline='\n') as f:
+        f.write(json.dumps(doc, indent=1, ensure_ascii=True) + '\n')
+    mt = os.path.join(variant['_dir'], variant.get('missing_tooltips', 'missing_tooltips.txt'))
+    with open(mt, 'w', encoding='ascii', newline='\n') as f:
+        f.write(' '.join(map(str, sorted(missing))) + ('\n' if missing else ''))
+    return counts, mt
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split('\n')[0])
     ap.add_argument('--stdout', action='store_true', help='print the report instead of writing it')
+    ap.add_argument('--profile', default='enh', help='weights profile from weights/profiles.py (enh, prot; default enh)')
+    ap.add_argument('--variant', help='tooling/variants/<v>/variant.json: score that variant\'s chapters')
+    ap.add_argument('--emit', help='write the generated gear JSON for build_variant.py here (needs --variant)')
     a = ap.parse_args()
-    rep, counts = build()
+    prof = profiles.get(a.profile)
+    variant = bv.load_variant(a.variant) if a.variant else None
+    if a.emit:
+        if variant is None:
+            ap.error('--emit needs --variant')
+        counts, mt = emit(prof, variant, os.path.abspath(a.emit))
+        print(os.path.abspath(a.emit))
+        print('missing tooltip ids -> %s' % mt)
+        print(' '.join('%s=%d' % kv for kv in counts.items()))
+        return
+    rep, counts = build(prof, variant)
     if a.stdout:
         sys.stdout.write(rep)
     else:
-        out = os.path.normpath(os.path.join(gl.BASE, 'Claude outputs', 'gear-calls-%s.md' % datetime.date.today().isoformat()))
+        out = os.path.normpath(os.path.join(gl.BASE, 'Claude outputs', 'gear-calls-%s%s.md' % (
+            '' if a.profile == 'enh' and variant is None else a.profile + '-', datetime.date.today().isoformat())))
         os.makedirs(os.path.dirname(out), exist_ok=True)
         with open(out, 'w', encoding='ascii', newline='\n') as f:
             f.write(rep)

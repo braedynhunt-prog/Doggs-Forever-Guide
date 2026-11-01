@@ -120,3 +120,38 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                        no creatures in QuestieDB.
   check_sources.py     new rows: item_tooltips (stale until a cache newer than the client build covers every item of the
                        24 Sep scrape) and pandaquest_forever (PandaQuest's Forever Wowhead overrides; empty on 29 Oct).
+
+1 Nov 2026 - generator-built variants (warrior plan Phase 0; plan in docs\warrior-build-plan-2026-11-01.md)
+  build_variant.py     builds a class/race variant addon from the Alliance chapters (never written):
+                         python tooling\build_variant.py tooling\variants\skyborne_warrior\variant.json            -> guide\<folder>\ + <folder>.zip
+                         python tooling\build_variant.py <variant.json> --out <dir> [--report <file>]             -> anywhere else
+                         python tooling\build_variant.py <variant.json> --passthrough --out <dir>                 -> regression test: the
+                                              source chapters must come out byte-identical (TOCs are the variant's)
+                       Per source chapter: overlay\<key>.txt (anchors QA<id> QT<id> QC<id> TAR<id> G<x>,<y> "N <title>", #n for the
+                       nth match; @replace @after @before @delete @header @gear-dungeon; an unknown or ambiguous anchor aborts),
+                       then lines whose [A ...] tags exclude the variant are dropped and untagged [OC] Gear/Loot lines stripped,
+                       then the generated gear lines go after their [QT] lines, then the [D ...] prefix and the footer group
+                       are rewritten. Hand-written chapters (variants\<v>\chapters\) are copied verbatim; a missing one is a
+                       warning. Writes both TOCs, the zip and a build report (drops, strips, overlay ops, gear placement,
+                       inline gear text and "needs overlay" lines with a flag word). Full syntax: the script's docstring.
+  variants\<v>\        variant.json (schema: variants\skyborne_warrior\README.txt), profile.json, chapters\, overlay\,
+                       generated_gear.json, missing_tooltips.txt, build_report.txt
+  gear_calls.py        --profile enh|prot (default enh: the report is unchanged), --variant <variant.json> (score the variant's
+                       chapters), --emit <file> (generated gear JSON for the builder; schema in the docstring; also writes the
+                       variant's missing_tooltips.txt for fetch_tooltips.py --from-file). "unstated" = a choice has no tooltip.
+  dungeon_loot.py      --profile / --variant as gear_calls.py; the default report is unchanged
+  ..\weights\profiles.py   PROFILES {'enh', 'prot'}: weights per band, usable(), score(), secondary slot, client Item.csv
+                       filter, gear-line wording. enh = the shaman behaviour exactly; prot = ..\weights\prot_weights.py
+                       (reasoning-only, docs\forever-prot-stat-weights.md). score_items.parse() now also reads armor, defense,
+                       block value, block / dodge / parry chance, hit and crit (extra keys; enh scores unchanged).
+  guidelib.py          FOREVER_GUIDE naming a variant's output folder (its basename is variant.json "folder", or the folder holds
+                       <folder>.toc) switches FOOTER, CHAINS (one chain, variant.json "chain"), DEFAULT_CHAIN, RACES and
+                       RACE_WORDS to the variant; Warrior and Skyborne are race/class words everywhere; Zephras Isle (16593,
+                       Guidelime map 2521) is a known zone (also in tarcheck.py). baseline_path(): Alliance keeps
+                       check_guide_baseline.txt / verify_baseline.txt, any other folder uses *_baseline_<folder>.txt.
+  verify.py            baseline and default --chain follow the folder (FOREVER_GUIDE=guide\Guidelime_ForeverWarrior -> Skyborne)
+  tarcheck.py, pool30.py   read guidelib.ADDON (FOREVER_GUIDE) instead of the hard-coded Alliance folder
+  hook_check_guide.py  checks the edited file's own addon folder with that folder's baselines; flags edits inside a generated
+                       folder; an edit under tooling\variants\<v>\ rebuilds that variant and checks it, but only once
+                       guide\<folder>\ exists (the first real build is run by hand)
+  ..\weights\hunter_score.py   pinned to guide\Guidelime_ForeverAlliance (was the first Guidelime_Forever* match)

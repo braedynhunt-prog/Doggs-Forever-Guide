@@ -4,7 +4,9 @@ python3 tooling\pool30.py 1519 38 11 ... > compare\pool_20-30.txt"""
 import json, sys, os, re, glob, statistics
 sys.argv += ['-s']
 exec(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'qinfo.py')).read().split("args = sys.argv[1:]")[0])
-GUIDE = os.path.join(BASE, 'guide', 'Guidelime_ForeverAlliance')
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import guidelib as gl
+GUIDE = gl.ADDON   # 1 Nov 2026: FOREVER_GUIDE can point at another addon folder
 done = set()
 for fn in glob.glob(os.path.join(GUIDE, '0*.lua')):
     if os.path.basename(fn).startswith('08'): continue

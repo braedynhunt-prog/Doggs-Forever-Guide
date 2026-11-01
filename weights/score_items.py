@@ -14,6 +14,20 @@ EXP_RE = re.compile(r"Increases your expertise by (\d+)")
 DPS_RE = re.compile(r"\(([\d.]+) damage per second\)")
 REQ_RE = re.compile(r"Requires Level (\d+)")
 ILVL_RE = re.compile(r"Item Level (\d+)")
+# 1 Nov 2026: tank stats for the prot profile (weights/prot_weights.py). Strings as the Forever tooltips write them
+# (weights/tooltips/2026-11-01.json): "184 Armor" base + "+30 Armor" bonus, "Equip: Increased Defense +4.", "13 Block"
+# (shield), "+6 Block Value", "Increases your chance to Block attacks with a shield by 1.0%.", "... to Dodge an attack
+# by 0.4%.", "Improves your chance to hit by 0.4%." The enh score() and fmt_stats() ignore these keys.
+ARMOR_RE = re.compile(r"(?<![+\d.])(\d+) Armor\b")
+ARMOR_BONUS_RE = re.compile(r"\+(\d+) Armor\b")
+DEF_RE = re.compile(r"(?:Increased Defense|Defense) \+(\d+)|\+(\d+) Defense\b")
+BLOCK_RE = re.compile(r"(?<![+\d.])(\d+) Block\b(?! Value)")
+BLOCK_BONUS_RE = re.compile(r"\+(\d+) Block Value|block value of your shield by (\d+)", re.I)
+BLOCKPCT_RE = re.compile(r"chance to block attacks with a shield by ([\d.]+)%", re.I)
+DODGE_RE = re.compile(r"chance to dodge an attack by ([\d.]+)%", re.I)
+PARRY_RE = re.compile(r"chance to parry an attack by ([\d.]+)%", re.I)
+HIT_RE = re.compile(r"Improves your chance to hit by ([\d.]+)%")
+CRIT_RE = re.compile(r"Improves your chance to get a critical strike by ([\d.]+)%")
 
 CRAFTED = {  # Forever Leatherworking sets from the README (level, slot, stats)
     "Totemic Leather Belt (LW, 12)":   dict(slot="Waist", cls="Leather", req=12, str=4, sta=3, sp=4),
@@ -55,6 +69,17 @@ def parse(name, rec):
     m = DPS_RE.search(tt);   it["wdps"] = float(m.group(1)) if m else 0.0
     m = REQ_RE.search(tt);   it["req"] = int(m.group(1)) if m else 0
     m = ILVL_RE.search(tt);  it["ilvl"] = int(m.group(1)) if m else 0
+    # tank stats (1 Nov 2026) - extra keys only, so the enh output is unchanged
+    it["armor"] = sum(int(v) for v in ARMOR_RE.findall(tt)) + sum(int(v) for v in ARMOR_BONUS_RE.findall(tt))
+    it["defense"] = sum(int(a or b) for a, b in DEF_RE.findall(tt))
+    it["block"] = sum(int(v) for v in BLOCK_RE.findall(tt)) + sum(int(a or b) for a, b in BLOCK_BONUS_RE.findall(tt))
+    it["blockpct"] = sum(float(v) for v in BLOCKPCT_RE.findall(tt))
+    it["dodge"] = sum(float(v) for v in DODGE_RE.findall(tt))
+    it["parry"] = sum(float(v) for v in PARRY_RE.findall(tt))
+    it["hit"] = sum(float(v) for v in HIT_RE.findall(tt))
+    it["crit"] = sum(float(v) for v in CRIT_RE.findall(tt))
+    head = tt.split("|")[2] if tt.count("|") >= 2 else tt
+    it["thrown"] = it["slot"] is None and "Thrown" in head
     return it
 
 def usable(it):

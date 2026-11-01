@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
 r"""For every line with a [TARid ...] and a [G x,y Zone], compare the [G] with the NPC's nearest Forever-DB spawn.
-python3 tooling\tarcheck.py [guide\Guidelime_ForeverAlliance\08_RuinsOfLordaeron.lua ...]   (no arguments = every chapter; prints lines off by > 3 units, or with no spawn)"""
+python3 tooling\tarcheck.py [guide\Guidelime_ForeverAlliance\08_RuinsOfLordaeron.lua ...]   (no arguments = every chapter; prints lines off by > 3 units, or with no spawn)
+No arguments: the chapters of guidelib.ADDON (the Alliance folder unless FOREVER_GUIDE names another addon folder)."""
 import json, re, sys, os, math
 BASE = os.environ.get('FOREVER_ATLAS', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 N = json.load(open(os.path.join(BASE, 'tooling', 'qdb', 'npc.json'), encoding='utf-8'))
 ZID = {'Dun Morogh': 1, 'Loch Modan': 38, 'Ironforge': 1537, 'Westfall': 40, 'Elwynn Forest': 12, 'Stormwind City': 1519, 'Redridge Mountains': 44,
        'Duskwood': 10, 'Wetlands': 11, 'Darkshore': 148, 'Teldrassil': 141, 'Darnassus': 1657, 'Hillsbrad Foothills': 267, 'Silverpine Forest': 130,
        'Ashenvale': 331, 'Alterac Mountains': 36, 'Arathi Highlands': 45, 'Stranglethorn Vale': 33, 'Stonetalon Mountains': 406, 'The Barrens': 17,
-       'Tirisfal Glades': 85, 'Dustwallow Marsh': 15, 'Badlands': 3}
+       'Tirisfal Glades': 85, 'Dustwallow Marsh': 15, 'Badlands': 3, 'Zephras Isle': 16593}
 import glob
 # 28 Oct 2026: with no arguments, check every chapter in the addon folder (CLAUDE.md says to run it bare after [G] edits)
-FILES = sys.argv[1:] or sorted(glob.glob(os.path.join(BASE, 'guide', 'Guidelime_ForeverAlliance', '[0-9]*.lua')))
+# 1 Nov 2026: the addon folder is guidelib.ADDON (FOREVER_GUIDE overrides it, e.g. a variant's output folder)
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import guidelib as gl
+FILES = sys.argv[1:] or sorted(glob.glob(os.path.join(gl.ADDON, '[0-9]*.lua')))
 for fn in FILES:
     for i, ln in enumerate(open(fn, encoding='utf-8'), 1):
         tars = re.findall(r'\[TAR(\d+) ([^\]]*)\]', ln)

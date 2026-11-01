@@ -61,7 +61,7 @@ def score(it):
 
 def main():
     import glob
-    guide_dir = glob.glob(os.path.join(BASE, 'guide', 'Guidelime_Forever*'))[0]
+    guide_dir = os.path.join(BASE, 'guide', 'Guidelime_ForeverAlliance')   # pinned 1 Nov 2026 (the Hunter lines live only there)
     qids = set()
     for f in glob.glob(os.path.join(guide_dir, '0*.lua')):
         for m in re.finditer(r'\[Q[ACT](\d+)', open(f, encoding='utf-8').read()): qids.add(int(m.group(1)))

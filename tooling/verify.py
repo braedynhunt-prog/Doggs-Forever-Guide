@@ -9,7 +9,8 @@ Modules (python tooling\verify.py [--all] [--module questnpc,tar,gates] [--updat
             (tooling/skill_gates.json: providers = learn / cook-to-N / fish-to-N / Journeyman; gates = min skill, mode)
 Lines on the Dwarf Shaman route only (the Human / Hunter lines are unmaintained since 27 Oct 2026).
 
-Findings are "module  file:line  message". tooling/verify_baseline.txt holds the accepted ones: the default run prints
+Findings are "module  file:line  message". tooling/verify_baseline.txt holds the accepted ones (another addon folder named by
+FOREVER_GUIDE uses tooling/verify_baseline_<folder>.txt, 1 Nov 2026): the default run prints
 only findings that are not in it and exits 1 when there are any; --all prints everything grouped by module;
 --update-baseline rewrites the baseline from the current run.
 """
@@ -18,11 +19,11 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import guidelib as gl
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-BASELINE = os.path.join(HERE, 'verify_baseline.txt')
+BASELINE = gl.baseline_path('verify')   # verify_baseline.txt for the Alliance folder, verify_baseline_<folder>.txt otherwise (1 Nov 2026)
 GATES = os.path.join(HERE, 'skill_gates.json')
 NEAR, NEAR_SECOND = 3.0, 15.0
 
-def route_lines(chain='Dwarf'):
+def route_lines(chain=gl.DEFAULT_CHAIN):
     """(file, ln, line, band) for every step on the chain, skipping other races' and Hunter-only lines."""
     for f in gl.chain_files(chain):
         txt = gl.read(f); ga = gl.chapter_ga(txt); band = gl.chapter_band(txt)
@@ -134,7 +135,7 @@ def main():
     ap.add_argument('--all', action='store_true', help='print every finding grouped by module, not just the new ones')
     ap.add_argument('--module', default=','.join(MODULES), help='comma list of modules to run')
     ap.add_argument('--update-baseline', action='store_true', help='write the current findings as the accepted baseline')
-    ap.add_argument('--chain', default='Dwarf')
+    ap.add_argument('--chain', default=gl.DEFAULT_CHAIN, help='race chain (default Dwarf; a variant folder: its chain)')
     a = ap.parse_args()
     lines = list(route_lines(a.chain))
     findings = []   # (module, file, ln, msg)

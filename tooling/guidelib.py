@@ -11,6 +11,8 @@ Data (all relative to the "WoW Forever Atlas" folder, override with FOREVER_ATLA
       npc row:   [0] name, [6] spawns {zoneId: [[x, y], ...]}
       object row:[0] name, [3] spawns {zoneId: [[x, y], ...]}
   data/quests.json (+ tooling/extra_quests.json)   Wowhead Forever atlas rows: name, g.reqlevel, g.xp, info.start/end, series
+Variants (1 Nov 2026): when FOREVER_GUIDE names a generator-built folder (tooling/variants/<v>/variant.json "folder"),
+FOOTER / CHAINS / DEFAULT_CHAIN / RACES / RACE_WORDS follow that variant; baseline_path() gives per-folder baselines.
 """
 import re, json, os, glob
 
@@ -21,15 +23,16 @@ QDB = os.path.join(BASE, 'tooling', 'qdb')
 # Guidelime zone keys as check_guide normalises them (lower case, no spaces/apostrophes, leading "The" dropped)
 ZONES = {'dunmorogh', 'lochmodan', 'ironforge', 'westfall', 'stormwindcity', 'elwynnforest', 'redridgemountains', 'wetlands', 'deadmines', 'stockade', 'duskwood',
          'darkshore', 'teldrassil', 'darnassus', 'hillsbradfoothills', 'silverpineforest', 'ashenvale', 'alteracmountains', 'arathihighlands',
-         'stranglethornvale', 'stonetalonmountains', 'barrens', 'tirisfalglades', 'dustwallowmarsh', 'badlands'}
+         'stranglethornvale', 'stonetalonmountains', 'barrens', 'tirisfalglades', 'dustwallowmarsh', 'badlands',
+         'zephrasisle'}   # Zephras Isle: Skyborne start, Guidelime map 2521 (Data/MapDB.lua Forever block), added 1 Nov 2026
 # zone display name (as written in [G x,y Zone]) -> Forever map id used by the DB spawn tables
 ZID = {'Dun Morogh': 1, 'Loch Modan': 38, 'Ironforge': 1537, 'Westfall': 40, 'Elwynn Forest': 12, 'Stormwind City': 1519, 'Redridge Mountains': 44,
        'Duskwood': 10, 'Wetlands': 11, 'Darkshore': 148, 'Teldrassil': 141, 'Darnassus': 1657, 'Hillsbrad Foothills': 267, 'Silverpine Forest': 130,
        'Ashenvale': 331, 'Alterac Mountains': 36, 'Arathi Highlands': 45, 'Stranglethorn Vale': 33, 'Stonetalon Mountains': 406, 'The Barrens': 17,
-       'Tirisfal Glades': 85, 'Dustwallow Marsh': 15, 'Badlands': 3}
+       'Tirisfal Glades': 85, 'Dustwallow Marsh': 15, 'Badlands': 3, 'Zephras Isle': 16593}
 CODES = {'N', 'NX', 'D', 'GA', 'A', 'O', 'OC', 'QA', 'QC', 'QT', 'QS', 'G', 'L', 'XP', 'H', 'F', 'T', 'S', 'P', 'V', 'R', 'CI', 'UI', 'TAR', 'LE', 'SK', 'GG', 'GL', 'GT', 'GI', 'REP', 'SP'}
-RACES = ('Dwarf', 'Human', 'Gnome', 'Night Elf')
-RACE_WORDS = ('Shaman', 'Hunter', 'Alliance', 'Dwarf', 'Gnome', 'Human', 'Night Elf')
+RACES = ('Dwarf', 'Human', 'Gnome', 'Night Elf', 'Skyborne')
+RACE_WORDS = ('Shaman', 'Hunter', 'Alliance', 'Dwarf', 'Gnome', 'Human', 'Night Elf', 'Warrior', 'Skyborne')
 
 TAG = re.compile(r'\[([A-Z]+)\s*([^\]]*)\]')
 QUEST_PAYLOAD = re.compile(r'(\d+)(?:,(\d+))?\s*(.*)$')
@@ -38,6 +41,42 @@ TAR_TAG = re.compile(r'\[TAR(\d+) ([^\]]*)\]')
 A_TAG = re.compile(r'\[A ([^\]]+)\]')
 HEADER = 'Guidelime.registerGuide([[\n'
 FOOTER = '"Forever Alliance 1-30")'
+ALLIANCE_FOLDER = 'Guidelime_ForeverAlliance'
+DEFAULT_CHAIN = 'Dwarf'   # verify.py's default chain
+
+# ---------------------------------------------------------------- variants (1 Nov 2026)
+# A generator-built addon (tooling/build_variant.py) is described by tooling/variants/<v>/variant.json. When
+# FOREVER_GUIDE names a variant's output folder (its basename is the variant's "folder", or the folder holds
+# "<folder>.toc"), FOOTER, CHAINS, DEFAULT_CHAIN, RACES and RACE_WORDS follow the variant.
+VARIANTS_DIR = os.path.join(BASE, 'tooling', 'variants')
+
+def variants():
+    """[(path to variant.json, parsed dict)] for every tooling/variants/*/variant.json."""
+    out = []
+    for p in sorted(glob.glob(os.path.join(VARIANTS_DIR, '*', 'variant.json'))):
+        try:
+            out.append((p, json.load(open(p, encoding='utf-8'))))
+        except (OSError, ValueError):
+            continue
+    return out
+
+def find_variant(addon=None):
+    """(path, dict) of the variant whose output folder is the addon folder, or None (the Alliance guide)."""
+    a = os.path.normpath(os.path.abspath(addon or ADDON))
+    for p, v in variants():
+        f = v.get('folder')
+        if f and (os.path.basename(a) == f or os.path.exists(os.path.join(a, f + '.toc'))):
+            return p, v
+    return None
+
+def baseline_path(kind, addon=None):
+    """tooling/<kind>_baseline.txt for the Alliance folder (names unchanged), tooling/<kind>_baseline_<folder>.txt
+    for any other addon folder (kind: 'check_guide' or 'verify')."""
+    folder = os.path.basename(os.path.normpath(os.path.abspath(addon or ADDON)))
+    v = find_variant(addon)
+    if v: folder = v[1]['folder']
+    name = '%s_baseline.txt' % kind if folder == ALLIANCE_FOLDER else '%s_baseline_%s.txt' % (kind, folder)
+    return os.path.join(BASE, 'tooling', name)
 
 # ---------------------------------------------------------------- data
 _cache = {}
@@ -210,6 +249,18 @@ def tars(line):
 # ---------------------------------------------------------------- chapter chains
 # Flow runs once per race chain: Human = 00a/00b + shared, Dwarf = 01a/01b + shared. Shaman lines are Dwarf.
 CHAINS = {'Human': lambda f: not os.path.basename(f).startswith('01'), 'Dwarf': lambda f: not os.path.basename(f).startswith('00')}
+
+VARIANT = find_variant()
+if VARIANT:
+    # a variant has one race chain over all of its chapters (variant.json "chain", e.g. Skyborne)
+    _v = VARIANT[1]
+    FOOTER = '"%s")' % _v['group']
+    DEFAULT_CHAIN = _v.get('chain') or _v.get('race')
+    CHAINS = {DEFAULT_CHAIN: lambda f: True}
+    _tw = [w for cat in (_v.get('tag_words') or {}).values() for side in ('keep', 'drop') for w in cat.get(side, [])]
+    RACE_WORDS = tuple(dict.fromkeys(RACE_WORDS + tuple(_tw)))
+    _races = [w for side in ('keep', 'drop') for w in (_v.get('tag_words') or {}).get('races', {}).get(side, [])]
+    RACES = tuple(dict.fromkeys(RACES + tuple(_races)))
 
 def chain_files(chain, addon=None):
     return [f for f in chapter_files(addon) if CHAINS[chain](f)]
