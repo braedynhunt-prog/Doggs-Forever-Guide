@@ -1,3 +1,28 @@
+# Dogg's Forever Guide
+
+A [Guidelime](https://github.com/max-ri/Guidelime) levelling guide for **WoW Forever, Alliance, levels 1-30**. Written for a Dwarf Shaman (2H Enhancement); Dwarf and Human Hunter lines are in the files but no longer maintained.
+
+## Install (players)
+
+1. Install the **Guidelime** addon if you don't have it.
+2. Download `Guidelime_ForeverAlliance.zip` from the [latest release](https://github.com/braedynhunt-prog/Doggs-Forever-Guide/releases/latest).
+3. Unzip it into `World of Warcraft\_classic_era_\Interface\AddOns\` so you end up with `Interface\AddOns\Guidelime_ForeverAlliance\`.
+4. Restart the game, open Guidelime and pick **Forever Alliance 1-30**.
+
+## What it covers
+
+- Every new-to-Forever Alliance zone, dungeon and hub reachable in the bracket: Northshire to Westfall, Hall of Thanes, Deadmines, Ruins of Lordaeron, Loch Modan, Redridge, Darkshore, Ashenvale + Blackfathom Deeps, Duskwood, the Stockade, Wetlands, Darnassus, Excavation Site, Hillsbrad, Gnomeregan, Razorfen Kraul.
+- Shaman class quests (Call of Earth / Fire / Water / Air) threaded in at level.
+- Cooking, Fishing and First Aid stops so the food buffs are ready when you need them.
+- Gear calls at every reward choice for a 2H Enhancement shaman.
+- Dungeon quests labelled normal / grind up front; no rare-drop farms.
+
+Found something wrong in game (missing NPC, bad coordinates, quest that won't take)? Open an issue with the chapter and step text.
+
+Everything below this line is the data and tooling the guide is built from. Players can ignore it.
+
+---
+
 # WoW Forever Alliance Quest Atlas — scraper
 
 Pulls every quest that Wowhead's Forever database flags as **new** or **updated** in the Alliance 1-30 zones and dungeons, then builds the atlas page from it. Built 23 Sep 2026 during the Forever beta (cap 20).
