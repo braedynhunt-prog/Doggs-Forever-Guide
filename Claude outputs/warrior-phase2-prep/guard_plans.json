@@ -1,0 +1,294 @@
+{
+ "251341": {
+  "plan": 251341,
+  "name": "Plans: Guard's Chain Shirt",
+  "spell": "1252238",
+  "vendors": null,
+  "drops": [
+   3864
+  ],
+  "reagents": [
+   [
+    2841,
+    "Bronze Bar",
+    1
+   ],
+   [
+    3470,
+    "Rough Grinding Stone",
+    1
+   ],
+   [
+    1210,
+    "Shadowgem",
+    1
+   ]
+  ],
+  "spell_tooltip_text": "     Guard's Chain Shirt   25 sec cast      Tools:   Blacksmith Hammer  Reagents:   Bronze Bar &nbsp;(4),  Rough Grinding Stone &nbsp;(2),  Shadowgem &nbsp;(2)    Guard's Chain Shirt   (2)    Item Level  20   Binds when picked up     Chest    Mail        184 Armor    +4 Strength    +7 Stamina       ",
+  "sla": {
+   "MinSkillLineRank": "1",
+   "TrivialSkillLineRankLow": "85",
+   "TrivialSkillLineRankHigh": "85",
+   "NumSkillUps": "1"
+  }
+ },
+ "251356": {
+  "plan": 251356,
+  "name": "Plans: Guard's Boots",
+  "spell": "1252253",
+  "vendors": [
+   248197,
+   256730
+  ],
+  "drops": null,
+  "reagents": [
+   [
+    2841,
+    "Bronze Bar",
+    1
+   ],
+   [
+    3478,
+    "Coarse Grinding Stone",
+    1
+   ],
+   [
+    249427,
+    "Pristine Leather",
+    1
+   ],
+   [
+    1210,
+    "Shadowgem",
+    1
+   ]
+  ],
+  "spell_tooltip_text": "     Guard's Boots   25 sec cast      Tools:   Blacksmith Hammer  Reagents:   Bronze Bar &nbsp;(12),  Coarse Grinding Stone &nbsp;(2),  Pristine Leather &nbsp;(4),  Shadowgem &nbsp;(5)    Guard's Boots   (2)    Item Level  22   Binds when picked up     Feet    Mail        131 Armor    +5 Strength   ",
+  "sla": {
+   "MinSkillLineRank": "1",
+   "TrivialSkillLineRankLow": "115",
+   "TrivialSkillLineRankHigh": "145",
+   "NumSkillUps": "1"
+  }
+ },
+ "251361": {
+  "plan": 251361,
+  "name": "Plans: Guard's Gloves",
+  "spell": "1252258",
+  "vendors": [
+   248197,
+   256730
+  ],
+  "drops": [
+   3653,
+   3864
+  ],
+  "reagents": [
+   [
+    2841,
+    "Bronze Bar",
+    1
+   ],
+   [
+    3470,
+    "Rough Grinding Stone",
+    1
+   ],
+   [
+    249410,
+    "Sulfuric Acid",
+    1
+   ],
+   [
+    1210,
+    "Shadowgem",
+    1
+   ]
+  ],
+  "spell_tooltip_text": "     Guard's Gloves   25 sec cast      Tools:   Blacksmith Hammer  Reagents:   Bronze Bar &nbsp;(10),  Rough Grinding Stone &nbsp;(4),  Sulfuric Acid &nbsp;(2),  Shadowgem &nbsp;(3)    Guard's Gloves   (2)    Item Level  20   Binds when picked up     Hands    Mail        115 Armor    +5 Strength    ",
+  "sla": {
+   "MinSkillLineRank": "1",
+   "TrivialSkillLineRankLow": "110",
+   "TrivialSkillLineRankHigh": "140",
+   "NumSkillUps": "1"
+  }
+ },
+ "251366": {
+  "plan": 251366,
+  "name": "Plans: Guard's Chain Belt",
+  "spell": "1252263",
+  "vendors": [
+   248197,
+   256730
+  ],
+  "drops": null,
+  "reagents": [
+   [
+    2840,
+    "Copper Bar",
+    1
+   ],
+   [
+    3470,
+    "Rough Grinding Stone",
+    1
+   ],
+   [
+    249427,
+    "Pristine Leather",
+    1
+   ],
+   [
+    1210,
+    "Shadowgem",
+    1
+   ]
+  ],
+  "spell_tooltip_text": "     Guard's Chain Belt   25 sec cast      Tools:   Blacksmith Hammer  Reagents:   Copper Bar &nbsp;(12),  Rough Grinding Stone &nbsp;(4),  Pristine Leather &nbsp;(2),  Shadowgem &nbsp;(2)    Guard's Chain Belt   (2)    Item Level  17   Binds when picked up     Waist    Mail        98 Armor    +4 St",
+  "sla": {
+   "MinSkillLineRank": "1",
+   "TrivialSkillLineRankLow": "85",
+   "TrivialSkillLineRankHigh": "125",
+   "NumSkillUps": "1"
+  }
+ },
+ "251371": {
+  "plan": 251371,
+  "name": "Plans: Guard's Silvered Chain Shirt",
+  "spell": "1252268",
+  "vendors": [
+   248197,
+   256730
+  ],
+  "drops": null,
+  "reagents": [
+   [
+    2841,
+    "Bronze Bar",
+    1
+   ],
+   [
+    3478,
+    "Coarse Grinding Stone",
+    1
+   ],
+   [
+    2842,
+    "Silver Bar",
+    1
+   ],
+   [
+    249427,
+    "Pristine Leather",
+    1
+   ],
+   [
+    1210,
+    "Shadowgem",
+    1
+   ]
+  ],
+  "spell_tooltip_text": "     Guard's Silvered Chain Shirt   25 sec cast      Tools:   Blacksmith Hammer  Reagents:   Bronze Bar &nbsp;(20),  Coarse Grinding Stone &nbsp;(6),  Silver Bar &nbsp;(5),  Pristine Leather &nbsp;(6),  Shadowgem &nbsp;(8)    Guard's Silvered Chain Shirt   (2)    Item Level  27   Binds when picked u",
+  "sla": {
+   "MinSkillLineRank": "1",
+   "TrivialSkillLineRankLow": "140",
+   "TrivialSkillLineRankHigh": "170",
+   "NumSkillUps": "1"
+  }
+ },
+ "251376": {
+  "plan": 251376,
+  "name": "Plans: Guard's Silvered Chain Leggings",
+  "spell": "1252273",
+  "vendors": [
+   248197,
+   256730
+  ],
+  "drops": [
+   4424,
+   12902
+  ],
+  "reagents": [
+   [
+    2841,
+    "Bronze Bar",
+    1
+   ],
+   [
+    3478,
+    "Coarse Grinding Stone",
+    1
+   ],
+   [
+    2842,
+    "Silver Bar",
+    1
+   ],
+   [
+    249427,
+    "Pristine Leather",
+    1
+   ],
+   [
+    1210,
+    "Shadowgem",
+    1
+   ]
+  ],
+  "spell_tooltip_text": "     Guard's Silvered Chain Leggings   25 sec cast      Tools:   Blacksmith Hammer  Reagents:   Bronze Bar &nbsp;(20),  Coarse Grinding Stone &nbsp;(8),  Silver Bar &nbsp;(6),  Pristine Leather &nbsp;(6),  Shadowgem &nbsp;(8)    Guard's Silvered Chain Leggings   (2)    Item Level  30   Binds when pi",
+  "sla": {
+   "MinSkillLineRank": "1",
+   "TrivialSkillLineRankLow": "155",
+   "TrivialSkillLineRankHigh": "185",
+   "NumSkillUps": "1"
+  }
+ },
+ "251381": {
+  "plan": 251381,
+  "name": "Plans: Guard's Silvered Chain Helm",
+  "spell": "1252278",
+  "vendors": [
+   248197,
+   256730
+  ],
+  "drops": [
+   3887,
+   4274,
+   4831
+  ],
+  "reagents": [
+   [
+    2841,
+    "Bronze Bar",
+    1
+   ],
+   [
+    3478,
+    "Coarse Grinding Stone",
+    1
+   ],
+   [
+    2842,
+    "Silver Bar",
+    1
+   ],
+   [
+    249427,
+    "Pristine Leather",
+    1
+   ],
+   [
+    1210,
+    "Shadowgem",
+    1
+   ]
+  ],
+  "spell_tooltip_text": "     Guard's Silvered Chain Helm   25 sec cast      Tools:   Blacksmith Hammer  Reagents:   Bronze Bar &nbsp;(15),  Coarse Grinding Stone &nbsp;(6),  Silver Bar &nbsp;(4),  Pristine Leather &nbsp;(4),  Shadowgem &nbsp;(6)    Guard's Silvered Chain Helm   (2)    Item Level  25   Binds when picked up ",
+  "sla": {
+   "MinSkillLineRank": "1",
+   "TrivialSkillLineRankLow": "125",
+   "TrivialSkillLineRankHigh": "155",
+   "NumSkillUps": "1"
+  }
+ }
+}

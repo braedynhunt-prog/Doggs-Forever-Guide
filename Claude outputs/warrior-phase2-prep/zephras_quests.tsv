@@ -1,0 +1,127 @@
+level	id	name	reqlevel	xp	reqrace	reqclass	category	starters	finishers	preQuestGroup	preQuestSingle	skyborne_warrior_ok
+1	92460	Coming of Age	1	40	4294967296	0	16593	251362:Ailee Farheart@[42.81, 23.37]	251361:Rorian the Dayseeker@[42.05, 23.49]	None	None	yes
+1	92461	Harmony in Balance	1	80	4294967296	0	16593	251361:Rorian the Dayseeker@[42.05, 23.49]	251361:Rorian the Dayseeker@[42.05, 23.49]	None	[92460]	yes
+2	92462	Infestation Investigation	1	170	4294967296	0	16593	251368:Elatrell Featherlight@[43.44, 24.79]	251368:Elatrell Featherlight@[43.44, 24.79]	None	[92460]	yes
+2	92474	Falling With Style	2	85	4294967296	0	16593	263113:Myriaal Mistwake@[43.68, 24.1]	251361:Rorian the Dayseeker@[42.05, 23.49]	None	None	yes
+2	94414	The Anchors of Zephras	2	85	4294967296	0	16593	257554:Halaan Hawk-Eye@[43.77, 24.09]	257554:Halaan Hawk-Eye@[43.77, 24.09]	None	None	yes
+3	92463	The Cirrusfly Queen	2	315	4294967296	0	16593	251368:Elatrell Featherlight@[43.44, 24.79]	251368:Elatrell Featherlight@[43.44, 24.79]	None	[92462]	yes
+3	92464	Elemental Unrest	2	25	4294967296	0	16593	251361:Rorian the Dayseeker@[42.05, 23.49]	249363:Yala Windwatcher@[47.25, 21.98]	None	None	yes
+3	92465	Agitators	2	250	4294967296	0	16593	249363:Yala Windwatcher@[47.25, 21.98]	249363:Yala Windwatcher@[47.25, 21.98]	None	None	yes
+4	92466	Call of Earth	3	270	0	0	16593	251374:Windshaper Boro@[42.79, 23.58]	251374:Windshaper Boro@[42.79, 23.58]	None	None	yes
+4	92467	Call of Earth	3	180	32	1088	16593	251374:Windshaper Boro@[42.79, 23.58]	251166:Minor Manifestation of Earth@[49.67, 23.8]	None	[1516, 1519, 92466]	no
+4	92468	Call of Earth	3	355	32	1088	16593	251166:Minor Manifestation of Earth@[49.67, 23.8]	251374:Windshaper Boro@[42.79, 23.58]	None	[92467]	no
+4	92469	Return to Rorian	3	35	4294967296	0	16593	249363:Yala Windwatcher@[47.25, 21.98]	251361:Rorian the Dayseeker@[42.05, 23.49]	None	[92465]	yes
+4	92471	Aetheen of the Gales	4	35	4294967296	0	16593	251361:Rorian the Dayseeker@[42.05, 23.49]	251366:Aetheen of the Gales@[42.76, 23.66]	None	None	yes
+4	92473	Aggressive Encroachment	3	355	4294967296	0	16593	257551:Valreaa Valewind@[42.41, 25.17]	257551:Valreaa Valewind@[42.41, 25.17]	None	[92471]	yes
+4	92597	Reading the Leylines	2	180	4294967296	0	16593	251371:Falorne Fallwind@[43.33, 24.92]	251371:Falorne Fallwind@[43.33, 24.92]	None	[92461]	yes
+4	92598	The Gift of Skysight	2	180	0	0	16593	251487:Ventaari Brightwish@[42.61, 24.38]	251487:Ventaari Brightwish@[42.61, 24.38]	None	None	yes
+4	93552	Harvesting Windstones	2	355	4294967296	0	16593	251363:Dalia the Collector@[43.37, 23.98]	251363:Dalia the Collector@[43.37, 23.98]	None	[92461]	yes
+5	92470	Foul Matriarch	2	560	4294967296	0	16593	251366:Aetheen of the Gales@[42.76, 23.66]	251366:Aetheen of the Gales@[42.76, 23.66]	None	[92471]	yes
+5	92472	The Next Step	3	225	4294967296	0	16593	251366:Aetheen of the Gales@[42.76, 23.66]	251523:Constable Aonda@[45.67, 45.5]	None	[92470]	yes
+5	92544	Al'Aketh Thugs	2	560	4294967296	0	16593	252095:Hanaa Nightwind@[38.31, 30.18]	252095:Hanaa Nightwind@[38.31, 30.18]	None	None	yes
+6	92514	Welcome to Shen'dar Village	4	135	0	0	16593	251523:Constable Aonda@[45.67, 45.5]	251523:Constable Aonda@[45.67, 45.5]	None	None	yes
+6	92515	The Problem With Prideclaws	4	540	4294967296	0	16593	251993:Indari Sunseam@[44.68, 44.52]	251993:Indari Sunseam@[44.68, 44.52]	None	[92514, 93461]	yes
+6	92553	Restocking the Larders	4	405	4294967296	0	16593	251905:Zerril Softbreeze@[43.85, 43.84]	251905:Zerril Softbreeze@[43.85, 43.84]	None	[92514, 93461]	yes
+6	92595	The Windshapers	4	135	32	0	16593	251902:Illaya Amberwind@[43.51, 44.77]	251902:Illaya Amberwind@[43.51, 44.77]	None	None	no
+6	92596	The High Order	4	135	4294967296	0	16593	251903:Rathiril Sunlance@[44.98, 46.36]	251903:Rathiril Sunlance@[44.98, 46.36]	None	None	yes
+6	93461	Welcome to Shen'dar Village	4	135	0	0	16593	251523:Constable Aonda@[45.67, 45.5]	251523:Constable Aonda@[45.67, 45.5]	None	None	yes
+6	94411	Meddlesome Mages	4	405	32	0	16593	251902:Illaya Amberwind@[43.51, 44.77]	251902:Illaya Amberwind@[43.51, 44.77]	None	[92595]	no
+6	94413	A Magical Affront	4	540	4294967296	0	16593	251903:Rathiril Sunlance@[44.98, 46.36]	251903:Rathiril Sunlance@[44.98, 46.36]	None	[92596]	yes
+6	96101	The Great Outdoors	4	405	4294967296	0	-666	263664:Raan Wildwind@[41.66, 44.8]	263664:Raan Wildwind@[41.66, 44.8]	None	None	yes
+6	96638	The Adventurer	4	405	4294967296	0	-666	251366:Aetheen of the Gales@[42.76, 23.66]	263664:Raan Wildwind@[41.66, 44.8]	None	[92470]	yes
+6	96646	Camping 101: Cooking	4	270	4294967296	0	-666	263664:Raan Wildwind@[41.66, 44.8]	251905:Zerril Softbreeze@[43.85, 43.84]	None	[95998, 96101, 96604, 96605, 96606, 96607, 96608]	yes
+6	97963	Camping 101: Alchemy	4	270	4294967296	0	-666	263664:Raan Wildwind@[41.66, 44.8]	257019:Nyassa Swiftdraught@[43.69, 43.42]	None	[95998, 96101, 96604, 96605, 96606, 96607, 96608]	yes
+6	97964	Camping 101: Blacksmithing	4	270	4294967328	0	-666	263664:Raan Wildwind@[41.66, 44.8]	251913:Aedi Thriceforged@[44.88, 44.37]	None	[95998, 96101, 96604, 96605, 96606, 96607, 96608]	yes
+6	97965	Camping 101: First Aid	4	270	4294967296	0	-666	263664:Raan Wildwind@[41.66, 44.8]	257018:Naleeia Tattermend@[43.08, 46.31]	None	[95998, 96101, 96604, 96605, 96606, 96607, 96608]	yes
+6	97967	Camping 101: Fishing	4	270	4294967296	0	-666	263664:Raan Wildwind@[41.66, 44.8]	251992:Fenn Fairweather@[45.02, 48.44]	None	[95998, 96101, 96604, 96605, 96606, 96607, 96608]	yes
+6	97968	Camping 101: Herbalism	4	270	4294967296	0	-666	263664:Raan Wildwind@[41.66, 44.8]	254345:Syriel Nightrain@[57.87, 75.54]	None	[95998, 96101, 96604, 96605, 96606, 96607, 96608]	yes
+6	97969	Camping 101: Leatherworking	4	270	4294967296	0	-666	263664:Raan Wildwind@[41.66, 44.8]	251993:Indari Sunseam@[44.68, 44.52]	None	[95998, 96101, 96604, 96605, 96606, 96607, 96608]	yes
+6	97970	Camping 101: Mining	4	270	4294967296	0	-666	263664:Raan Wildwind@[41.66, 44.8]	257022:Messana Crestwind@[44.77, 44.56]	None	[95998, 96101, 96604, 96605, 96606, 96607, 96608]	yes
+6	97971	Camping 101: Skinning	4	270	4294967296	0	-666	263664:Raan Wildwind@[41.66, 44.8]	257024:Mendalass Tattermend@[43.29, 43.37]	None	[95998, 96101, 96604, 96605, 96606, 96607, 96608]	yes
+6	97972	Camping 101: Tailoring	4	270	0	0	-666	263664:Raan Wildwind@[41.66, 44.8]	251991:Taleen Shimmerthread@[44.88, 44.18]	None	[95998, 96101, 96604, 96605, 96606, 96607, 96608]	yes
+6	97973	Camping 101: Tailoring	4	270	4294967296	0	-666	263664:Raan Wildwind@[41.66, 44.8]	251991:Taleen Shimmerthread@[44.88, 44.18]	None	[95998, 96101, 96604, 96605, 96606, 96607, 96608]	yes
+6	98284	Camping 101: Enchanting	4	270	0	0	-666	263664:Raan Wildwind@[41.66, 44.8]	257020:Nasalanna Windsinger@[43.24, 43.15]	None	[95998, 96101, 96604, 96605, 96606, 96607, 96608]	yes
+6	98285	Camping 101: Engineering	4	270	0	0	-666	251684:Strange Hermit@[53.96, 38.9]	251684:Strange Hermit@[53.96, 38.9]	None	[95998, 96101, 96604, 96605, 96606, 96607, 96608]	yes
+6	98286	Camping 101: Enchanting	4	270	4294967296	0	-666	263664:Raan Wildwind@[41.66, 44.8]	257020:Nasalanna Windsinger@[43.24, 43.15]	None	[95998, 96101, 96604, 96605, 96606, 96607, 96608]	yes
+7	92516	Hippogryph Harassment	4	630	4294967296	0	16593	251906:Teeri Wellwind@[44.46, 44.96]	251906:Teeri Wellwind@[44.46, 44.96]	None	[92514, 93461]	yes
+7	92517	The Criminal Element	4	475	4294967296	0	16593	251523:Constable Aonda@[45.67, 45.5]	251523:Constable Aonda@[45.67, 45.5]	None	[92514, 93461]	yes
+7	93319	Pilfered Windstones	4	475	4294967296	0	16593	251906:Teeri Wellwind@[44.46, 44.96]	251906:Teeri Wellwind@[44.46, 44.96]	None	[92514, 93461]	yes
+7	93951	A Little Beauty	4	475	4294967296	0	16593	251991:Taleen Shimmerthread@[44.88, 44.18]	251991:Taleen Shimmerthread@[44.88, 44.18]	None	[92514, 93461]	yes
+8	92528	Among the Faithful	5	350	4294967296	0	16593	257065:Missionary Jasaan@[46.89, 56.23]	251523:Constable Aonda@[45.67, 45.5]	None	[92529]	yes
+8	92529	Falaath Village	5	350	4294967296	0	16593	251904:Sania Silverstream@[44.88, 45.53]	257065:Missionary Jasaan@[46.89, 56.23]	None	[93036]	yes
+8	92550	Havoc in the Highlands	5	700	4294967296	0	16593	251523:Constable Aonda@[45.67, 45.5]	251523:Constable Aonda@[45.67, 45.5]	None	[92528]	yes
+8	92551	Stolen Supplies	5	530	4294967296	0	16593	252172:Danarii Bellowveil@[45.24, 45.18]	252172:Danarii Bellowveil@[45.24, 45.18]	None	[92528]	yes
+8	92579	To Valanaar	6	175	32	0	16593	251523:Constable Aonda@[45.67, 45.5]	252383:Valennia Stormfist@[66.14, 76.67]	[92550, 93927]	None	no
+8	93036	Infiltrating the Cult	5	70	4294967296	0	16593	251523:Constable Aonda@[45.67, 45.5]	251904:Sania Silverstream@[44.88, 45.53]	None	[92517]	yes
+8	93926	The Western Watch	5	350	4294967296	0	16593	251523:Constable Aonda@[45.67, 45.5]	252155:Peacekeeper Vaaniel@[42.35, 62.02]	None	[92528]	yes
+8	93927	A Last Request	5	530	4294967296	0	16593	252155:Peacekeeper Vaaniel@[42.35, 62.02]	251523:Constable Aonda@[45.67, 45.5]	None	[93926]	yes
+8	93949	Bugged	6	700	4294967296	0	16593	252383:Valennia Stormfist@[66.14, 76.67]	252383:Valennia Stormfist@[66.14, 76.67]	None	[93948]	yes
+9	92679	Blood Tithe	5	390	4294967296	0	16593	252448:Alvarion Windfield@[62.08, 73.17]	252800:Aamelia Windfield@[46.7, 81.95]	None	None	yes
+9	92682	Make Yourself Useful	5	780	4294967296	0	16593	252800:Aamelia Windfield@[46.7, 81.95]	252800:Aamelia Windfield@[46.7, 81.95]	None	[92679]	yes
+9	92683	Flutterfly Dust	5	590	4294967296	0	16593	252800:Aamelia Windfield@[46.7, 81.95]	252800:Aamelia Windfield@[46.7, 81.95]	None	[92679]	yes
+9	92684	Ornery Ornery Galestriders	5	590	4294967296	0	16593	252800:Aamelia Windfield@[46.7, 81.95]	252800:Aamelia Windfield@[46.7, 81.95]	None	[92679]	yes
+9	92685	The Hills Have Eyes	5	780	4294967296	0	16593	252800:Aamelia Windfield@[46.7, 81.95]	252800:Aamelia Windfield@[46.7, 81.95]	[92682, 92683, 92684]	None	yes
+9	92693	Standing Our Ground	5	195	4294967296	0	16593	252800:Aamelia Windfield@[46.7, 81.95]	252800:Aamelia Windfield@[46.7, 81.95]	None	[92685]	yes
+9	92698	What Is My Purpose?	5	195	4294967296	0	16593	250929:Malfunctioning Cyclone Construct@[48.87, 78.25]	252800:Aamelia Windfield@[46.7, 81.95]	None	[92679]	yes
+9	92699	The Supreme Magister	4	80	4294967296	0	16593	252383:Valennia Stormfist@[66.14, 76.67]	252475:Elaadrin Evengale@[66.63, 79.94]	None	[92701]	yes
+9	92700	The Grand Skyseer	4	80	32	0	16593	252383:Valennia Stormfist@[66.14, 76.67]	251968:Ayessa Dawnsinger@[59.15, 79.78]	None	[92579]	no
+9	92701	To Valanaar	6	80	4294967296	0	16593	251523:Constable Aonda@[45.67, 45.5]	252383:Valennia Stormfist@[66.14, 76.67]	[92550, 93927]	None	yes
+9	92703	Deliver the News	5	590	4294967296	0	16593	252800:Aamelia Windfield@[46.7, 81.95]	252448:Alvarion Windfield@[62.08, 73.17]	None	[92693]	yes
+9	93317	Crab Season	4	590	4294967296	0	16593	257006:Nyalah Brightfire@[60.64, 72.66]	257006:Nyalah Brightfire@[60.64, 72.66]	None	None	yes
+9	93318	WANTED: Vulgara the Insatiable	4	780	4294967296	0	16593		252172:Danarii Bellowveil@[45.24, 45.18]	None	[92514, 93461]	yes
+9	93735	The Broken Construct	4	590	0	0	16593	251968:Ayessa Dawnsinger@[59.15, 79.78]	256083:Riaani Nightwind@[59.06, 72.98]	None	[92700]	yes
+9	93736	Unwelcome Spirits	4	780	0	0	16593	254344:Endaria Mistgaze@[58.13, 78.32]	254344:Endaria Mistgaze@[58.13, 78.32]	None	[92700]	yes
+9	93737	The Broken Construct	4	780	0	0	16593	256083:Riaani Nightwind@[59.06, 72.98]	256083:Riaani Nightwind@[59.06, 72.98]	None	[93735]	yes
+9	93738	The Broken Construct	4	590	0	0	16593	256083:Riaani Nightwind@[59.06, 72.98]	251968:Ayessa Dawnsinger@[59.15, 79.78]	None	[93737]	yes
+9	93746	A Firm Response	4	590	0	0	16593	251968:Ayessa Dawnsinger@[59.15, 79.78]	251968:Ayessa Dawnsinger@[59.15, 79.78]	None	[93738]	yes
+9	93948	Deliver the Signet	6	390	4294967296	0	16593	251523:Constable Aonda@[45.67, 45.5]	252476:Talaanis Shadowsong@[66.17, 76.51]	[92550, 93927]	None	yes
+10	92727	The Missing Scholar	4	210	4294967296	0	16593	253204:Dondallion Whisperwind@[66.28, 79.84]		None	[92699]	yes
+10	92849	The Missing Scholar	4	840	4294967296	0	16593		253284:Fillion Flamebreeze@[52.09, 69.39]	None	[92727]	yes
+10	92850	The Missing Scholar	4	840	4294967296	0	16593	253284:Fillion Flamebreeze@[52.09, 69.39]	253285:Fillion Flamebreeze@[66.2, 79.88]	None	[92849]	yes
+10	99260	Fillion's Mission	5	85	4294967296	0	16593	253285:Fillion Flamebreeze@[66.2, 79.88]	252475:Elaadrin Evengale@[66.63, 79.94]	None	[92850]	yes
+11	92640	Desperate Times	6	660	4294967296	0	16593	252476:Talaanis Shadowsong@[66.17, 76.51]	252383:Valennia Stormfist@[66.14, 76.67]	None	[94568]	yes
+11	92642	Disrupting Logistics	6	440	4294967296	0	16593	252378:Yorana Windyreed@[69.65, 67.07]	252378:Yorana Windyreed@[69.65, 67.07]	None	[93320]	yes
+11	92643	The Turncoat	6	660	4294967296	0	16593	252476:Talaanis Shadowsong@[66.17, 76.51]	253372:Dead Cultist@[56.04, 58.77]	None	[92881]	yes
+11	92644	Unfortunate News	6	440	4294967296	0	16593	253372:Dead Cultist@[56.04, 58.77]	252476:Talaanis Shadowsong@[66.17, 76.51]	None	[92643]	yes
+11	92645	Breaking the Breaker	6	660	4294967296	0	16593	252378:Yorana Windyreed@[69.65, 67.07]	252378:Yorana Windyreed@[69.65, 67.07]	None	[93320]	yes
+11	92834	Avenged Tenfold	6	880	4294967296	0	16593	252475:Elaadrin Evengale@[66.63, 79.94]	252475:Elaadrin Evengale@[66.63, 79.94]	None	[92840]	yes
+11	92840	Catching Wind	5	880	4294967296	0	16593	252475:Elaadrin Evengale@[66.63, 79.94]	252475:Elaadrin Evengale@[66.63, 79.94]	None	[99260]	yes
+11	92871	In Service of Zephras	6	220	0	0	16593	251968:Ayessa Dawnsinger@[59.15, 79.78]	252383:Valennia Stormfist@[66.14, 76.67]	None	[93746]	yes
+11	92880	Return to Valanaar	6	440	4294967296	0	16593	252378:Yorana Windyreed@[69.65, 67.07]	252383:Valennia Stormfist@[66.14, 76.67]	[92642, 92645]	None	yes
+11	92881	The High Elder's Request	6	90	4294967296	0	16593	252383:Valennia Stormfist@[66.14, 76.67]	252476:Talaanis Shadowsong@[66.17, 76.51]	None	[92880]	yes
+11	93173	(UNUSED) The Rusty Gadget	6	220	0	0	16593			None	None	yes
+11	93320	Tower Defense	6	440	4294967296	0	16593	252383:Valennia Stormfist@[66.14, 76.67]	252378:Yorana Windyreed@[69.65, 67.07]	None	[92860, 92871]	yes
+11	93740	Blood for Blood	6	660	0	0	16593	251968:Ayessa Dawnsinger@[59.15, 79.78]	251968:Ayessa Dawnsinger@[59.15, 79.78]	None	[93746]	yes
+11	94484	Unnerving Silence	8	220	4294967296	0	16593	252359:Lotheluum Starbreeze@[63.99, 75.08]	257944:Elegael Thornpaw@[61.7, 39.22]	None	None	yes
+11	94486	Feathers for Binding	8	880	4294967296	0	16593	257944:Elegael Thornpaw@[61.7, 39.22]	257944:Elegael Thornpaw@[61.7, 39.22]	None	[94484, 94493]	yes
+11	94487	Unwanted and Unworthy	8	880	4294967296	0	16593	257944:Elegael Thornpaw@[61.7, 39.22]	257944:Elegael Thornpaw@[61.7, 39.22]	None	[94484, 94493]	yes
+11	94488	The Ties That Bind	8	880	4294967296	0	16593	257944:Elegael Thornpaw@[61.7, 39.22]	257944:Elegael Thornpaw@[61.7, 39.22]	[94485, 94486, 94487]	None	yes
+11	94493	A Sacrifice in Vain	8	220	0	0	16593	257944:Elegael Thornpaw@[61.7, 39.22]	257944:Elegael Thornpaw@[61.7, 39.22]	None	None	yes
+11	94568	The Cult's True Plans	6	440	4294967296	0	16593	252476:Talaanis Shadowsong@[66.17, 76.51]	252476:Talaanis Shadowsong@[66.17, 76.51]	None	[92644]	yes
+11	94896	Aid For The Refugees	8	880	4294967296	0	16593	259012:Ealaane Nimbuswalker@[66.04, 74.41]	259012:Ealaane Nimbuswalker@[66.04, 74.41]	None	None	yes
+11	94897	The Fate of a Loved One	8	880	4294967296	0	16593	259012:Ealaane Nimbuswalker@[66.04, 74.41]	259012:Ealaane Nimbuswalker@[66.04, 74.41]	None	None	yes
+11	98512	Al'Aketh Assassins	6	880	4294967296	0	16593	273017:Fendaal Windstone@[56.81, 61.11]	273017:Fendaal Windstone@[56.81, 61.11]	None	None	yes
+12	92646	Confront Lorthuna	7	455	0	0	16593	253590:Valennia Stormfist@[65.19, 50.35]	251968:Ayessa Dawnsinger@[59.15, 79.78]	None	[93958]	yes
+12	92708	A Grand Adventure	7	90	0	0	16593	251968:Ayessa Dawnsinger@[59.15, 79.78]	251968:Ayessa Dawnsinger@[59.15, 79.78]	None	[92700]	yes
+12	92709	A Grand Adventure	7	90	4294967296	0	16593	252475:Elaadrin Evengale@[66.63, 79.94]	252475:Elaadrin Evengale@[66.63, 79.94]	None	[92699]	yes
+12	92860	In Service of Zephras	6	225	4294967296	0	16593	252475:Elaadrin Evengale@[66.63, 79.94]	252383:Valennia Stormfist@[66.14, 76.67]	None	[92840]	yes
+12	92947	Making Our Move	7	910	4294967296	0	16593	253844:Valennia Stormfist@[61.16, 70.95]	253576:Hyusaa Quickbreeze@[63.77, 50.51]	None	[93065]	yes
+12	93065	Prepare for Battle	7	455	4294967296	0	16593	252383:Valennia Stormfist@[66.14, 76.67]	253844:Valennia Stormfist@[61.16, 70.95]	None	[92640]	yes
+12	93835	Confront Lorthuna	7	455	4294967296	0	16593	253590:Valennia Stormfist@[65.19, 50.35]	252475:Elaadrin Evengale@[66.63, 79.94]	None	[93958]	yes
+12	93836	The Fate of Zephras	7	455	0	0	16593	251968:Ayessa Dawnsinger@[59.15, 79.78]	252476:Talaanis Shadowsong@[66.17, 76.51]	None	[92646]	yes
+12	93958	The Inner Sanctum	7	910	4294967296	0	16593	253576:Hyusaa Quickbreeze@[63.77, 50.51]	253590:Valennia Stormfist@[65.19, 50.35]	None	[92947]	yes
+12	94369	The Fate of Zephras	7	90	4294967296	0	16593	252475:Elaadrin Evengale@[66.63, 79.94]	252476:Talaanis Shadowsong@[66.17, 76.51]	None	[93835]	yes
+12	94485	Tears of the Lady	8	225	4294967296	0	16593	257944:Elegael Thornpaw@[61.7, 39.22]	257944:Elegael Thornpaw@[61.7, 39.22]	None	[94484, 94493]	yes
+12	94489	The Wounds of Betrayal	8	910	4294967296	0	16593	257944:Elegael Thornpaw@[61.7, 39.22]	257944:Elegael Thornpaw@[61.7, 39.22]	[94485, 94486, 94487]	None	yes
+12	94490	Ripped Missive	9	910	0	0	16593		257944:Elegael Thornpaw@[61.7, 39.22]	[94485, 94486, 94487]	None	yes
+12	94491	The Fate of the Den	8	455	4294967296	0	16593	257944:Elegael Thornpaw@[61.7, 39.22]	252359:Lotheluum Starbreeze@[63.99, 75.08]	None	[94490]	yes
+13	92741	Unwelcome Visitors	8	910	4294967296	0	16593	253004:Iaadaria Bitterwind@[66.34, 79.5]	253004:Iaadaria Bitterwind@[66.34, 79.5]	None	[92699]	yes
+13	93089	What Comes Next	7	90	4294967296	0	16593	252476:Talaanis Shadowsong@[66.17, 76.51]	252475:Elaadrin Evengale@[66.63, 79.94]	None	[94369]	yes
+13	93090	What Comes Next	7	455	0	0	16593	252476:Talaanis Shadowsong@[66.17, 76.51]	251968:Ayessa Dawnsinger@[59.15, 79.78]	None	[93836]	yes
+13	93159	The Strange Hermit	8	230	4294967328	0	16593	251684:Strange Hermit@[53.96, 38.9]	251684:Strange Hermit@[53.96, 38.9]	None	None	yes
+13	93160	The Forest's Bounty	8	680	4294967296	0	16593	251684:Strange Hermit@[53.96, 38.9]	251684:Strange Hermit@[53.96, 38.9]	None	[93159]	yes
+13	93165	Mercy Falls on Deaf Ears	8	910	4294967332	0	16593	254151:Vayn Moongaze@[63.81, 36.01]	254151:Vayn Moongaze@[63.81, 36.01]	None	[94484, 94493]	yes
+13	93172	Free the Hollows	8	680	4294967296	0	16593	251684:Strange Hermit@[53.96, 38.9]	251684:Strange Hermit@[53.96, 38.9]	None	[93159]	yes
+13	93459	More Al'Aketh Ears	8	None	0	0	16593	254151:Vayn Moongaze@[63.81, 36.01]	254151:Vayn Moongaze@[63.81, 36.01]	None	[93165]	yes
+13	94946	The Magical City of Dalaran	7	90	4294967296	0	16593	252475:Elaadrin Evengale@[66.63, 79.94]	259084:Denaaris Stargale@?	None	[93089]	yes
+13	95349	The Earthen Ring	7	90	0	0	16593	251968:Ayessa Dawnsinger@[59.15, 79.78]	259119:Alaana Stormwalker@?	None	[93090]	yes
