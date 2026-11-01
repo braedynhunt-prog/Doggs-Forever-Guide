@@ -8,7 +8,7 @@ Guidelime.registerGuide([[
 At [TAR2409 Felicia Maline], |cFFfff8a3Fly to [F Stormwind]|r [G77.5,44.3 Duskwood]
 [OC]|cffffffffStormwind round|r  -  you land on the gate ramp. The loop: Old Town, the Auction House, Cathedral Square, the Keep, the Dwarven District, the tram to Ironforge and back, then the Stockade door. Nothing on it needs a fight
 In Old Town at [TAR1721 Nikova Raskol], [QA388 The Color of Blood] (10 Red Wool Bandanas, dropped inside the Stockade: |cff66ff66normal|r, see the run notes) [G76.4,63.7 Stormwind City]
-At the Auction House buy 3 [CI4306,3 Silk Cloth] for Tyrion's Items of Some Consequence later in this chapter (the DB lists no mob drops for silk, so buying is quicker than hunting it) [G61.1,70.7 Stormwind City]
+At the Auction House buy 3 [CI4306,3 Silk Cloth] for Tyrion's Items of Some Consequence later in this chapter (the DB lists no mob drops for silk, so buying is quicker than hunting it), and search "Totemic Leather" again for the Armor / Pants patterns (chapter 07 has the switch) [G61.1,70.7 Stormwind City]
 [O]At [TAR1444 Brother Kristoff] in Cathedral Square, [QA343 Speaking of Fortitude] (195 XP: the first step of a 4-quest errand worth ~2,000 XP - Keep library, Northshire, Lakeshire, back to Northshire, ending here in chapter 18; skip the whole thing if you like) [G55.0,54.2 Stormwind City]
 At [TAR7917 Brother Sarno], [QA2923 Tinkmaster Overspark] (210 XP, the door to the Gnomeregan quests: Overspark stands in Ironforge) [G51.0,48.4 Stormwind City]
 [O]At [TAR1284 Archbishop Benedictus], [QT293] (only if you did the Third Fleet in chapter 09, 2,450 XP; the Eye of Paleth is a healer's off-hand, +13 healing: vendor it unless you will heal) [G50.3,45.5 Stormwind City]

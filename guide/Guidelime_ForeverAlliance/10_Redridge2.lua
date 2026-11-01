@@ -17,7 +17,7 @@ At [TAR514 Smith Argus] at the Goldshire blacksmith, [QT118] [QA119 Return to Ve
 At [TAR2329 Michelle Belle] in the Lion's Pride Inn, learn Wool Bandage (First Aid 80, 1 Wool Cloth each) and Journeyman First Aid if you still lack it [G43.4,65.6 Elwynn Forest]
 At the Tower of Azora at [TAR313 Theocritus], [QA94 A Watchful Eye] (take the Glyph of Azora to the Old Lion Statue in eastern Redridge - chapter 16 hands Morganth in here) [G65.2,69.7 Elwynn Forest]
 Run east along the road into Redridge: Three Corners [G10.2,72.0 Redridge Mountains]
-[OC]|cffffcc00Merchant camp|r is right here (10,72): sell, hand in any Waylaid Supplies to [TAR256389 Tamelyn Aldridge] (10.4,71.4), and only if you already have 4+ Pristine Leather and are switching to Leatherworking, buy the Totemic (shaman) / Brawler's (hunter) patterns from [TAR256734 Daniel Stitchsong] (10,72.4) - details in chapter 06
+[OC]|cffffcc00Merchant camp|r is right here (10,72): sell, hand in any Waylaid Supplies to [TAR256389 Tamelyn Aldridge] (10.4,71.4), search Auctioneer Quickcoin (9.4,71.8) for "Totemic Leather" (the Armor / Pants patterns need no Pristine Leather - chapter 06), and only if you already have 4+ Pristine Leather and are switching to Leatherworking, buy the Totemic (shaman) / Brawler's (hunter) patterns from [TAR256734 Daniel Stitchsong] (10,72.4) - details in chapter 06
 [OC]Follow the road northeast from Three Corners to Lakeshire (~2 minutes) - it is the same road as chapter 06
 
 [OC]|cffffffffLakeshire|r  -  pick everything up first; the loops below come back here

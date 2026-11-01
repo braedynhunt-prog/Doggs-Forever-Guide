@@ -16,7 +16,7 @@ Built 24 Sep 2026 for the "our own Pawn" project. Braedyn's brief: tune for **ki
 | Spell damage | **1.5** (model 2.4) | **1.5** (model 1.6) | **1.5** (model 2.7) | Earth Shock + Lightning Shield scaling; Forever's coefficients are unknown (vanilla used) — range 0.3-3.9 |
 | Expertise (per point on the tooltip) | n/a | **3** (model 5.6) | **3** (model 5.2) | Forever item expertise is a *rating* (10 rating = 1% at 60). Model assumes the TBC below-60 curve (6 rating ≈ 2.6% at 20 → about 5% more swings landing from the front). If Forever doesn't scale ratings by level it's 0.8-1.2 instead |
 | +1% hit or +1% crit | 2.7 | 3.8 | 6.0 | |
-| mace (Dwarf Mace Specialization, +1% crit) | +3.4 | +4.3 | +7.5 | flat bonus per mace ≈ +0.25 / +0.3 / +0.5 weapon DPS. **17 Oct: the Oct 15 beta build removed weapon specializations (Dwarf Mace Spec is now Earth Fury, 2% crit damage) — this term is obsolete** |
+| mace (Dwarf Mace Specialization, +1% crit) | +3.4 | +4.3 | +7.5 | flat bonus per mace ≈ +0.25 / +0.3 / +0.5 weapon DPS. **17 Oct: the Oct 15 beta build removed weapon specializations (Dwarf Mace Spec is now Earth Fury, 2% crit damage) — this term is obsolete; 1 Nov: the 30 Oct hotfix cache replaces Earth Fury with Artisan's Precision (1% hit with spells and attacks; datamined, unverified in game)** |
 
 Recommended "central" set for the addon (15-20): `wdps 14, Str 2, AP 1, Int 1.05, Agi 0.85 (0.6 at 15), Spi 1.0, Sta 0 (or 0.25 floor), SP 1.5, Exp 3, Hit% 6, Crit% 6` (mace term dropped, see above). Every reward call below was also re-run with a conservative set (Spi 0.5, SP 0.5, Exp 1) and only one call flips (Chok'sul's reward, see Disagreements).
 
