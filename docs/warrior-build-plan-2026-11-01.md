@@ -64,3 +64,22 @@ Skyborne race filter and 2^32-only quest masks in Guidelime 6.014; `[G]` on the 
 
 ## Other combos later
 Race = a 1-10 start plus a join leg (Human and Dwarf exist, Gnome shares Dun Morogh, Night Elf and Skyborne need chapters). Class = a weights profile plus a class thread; classes sharing armour type and stat profile share most gear calls. Route fixes in the Alliance chapters flow to every variant through the builder.
+
+## Execution log
+### 1 Nov 2026 (evening): Phase 1 done, Phase 0 running, Phase 3 research raised a plan question
+- Phase 1 committed (b93a32c): Zephras Isle browser pull (147 quests, no XP change vs the Sep scrape, +2 rows 93173/99260, 2 name spellings); 104 tooltips fetched (607 cached); `polestar` row in `tooling/sources.json` with a line-for-line upstream check (identical, 586 lines); `compare/polestar-0.2.6/README.txt`.
+- Guard's set recipes, resolved from the plan tooltips to nether spell tooltips (spell ids 1252238 Chain Shirt, 1252253 Boots, 1252258 Gloves, 1252263 Belt, 1252268 Silvered Shirt, 1252273 Silvered Leggings, 1252278 Silvered Helm; raw in the session scratch `guard_plans.json`):
+
+| Piece | Plan req BS | Reagents |
+|---|---|---|
+| Chain Belt (L12) | 45 | 12 Copper Bar, 4 Rough Grinding Stone, 2 Pristine Leather, 2 Shadowgem |
+| Gloves (L15) | 80 | 10 Bronze Bar, 4 Rough Grinding Stone, 2 Sulfuric Acid, 3 Shadowgem |
+| Chain Shirt (L15, plan = Fel Steed drop only) | 80 | 4 Bronze Bar, 2 Rough Grinding Stone, 2 Shadowgem |
+| Boots (L17) | 85 | 12 Bronze Bar, 2 Coarse Grinding Stone, 4 Pristine Leather, 5 Shadowgem |
+| Silvered Chain Helm (L20, Agi/Sta, no Defense) | 95 | 15 Bronze Bar, 6 Coarse Grinding Stone, 4 Silver Bar, 4 Pristine Leather, 6 Shadowgem |
+| Silvered Chain Shirt (L22) | 110 | 20 Bronze Bar, 6 Coarse Grinding Stone, 5 Silver Bar, 6 Pristine Leather, 8 Shadowgem |
+| Silvered Chain Leggings (L25) | 125 | 20 Bronze Bar, 8 Coarse Grinding Stone, 6 Silver Bar, 6 Pristine Leather, 8 Shadowgem |
+
+  Guard's Chain Leggings (250494) and Guard's Chain Helm (250499) have no plan item in QuestieDB and no drop or vendor source. Chain Helm is Agi/Sta. Plan vendors: Stondry Darkhammer 256730 (Redridge camp, 6 spawns around 8-10,72-76) and Gor'mak 248197 (Barrens, Horde). Merchant's Favor is not an item row, so the plan cost is still unverified.
+  Reagent sources (QuestieDB): Shadowgem 1210 = 941 npc drops + 42 objects (Copper/Tin/Silver Veins, strongboxes), no vendor, rate unknown (nether shows none); Pristine Leather 249427 = 109 skinnable npc drops, tagged "Scarce", the same reagent the Alliance guide's level-25 Leatherworking decision hinges on; Sulfuric Acid 249410 = no npc, object or vendor source in the DB; Silver Bar from Silver Veins only.
+  **Plan question:** the full set to 25 needs 34 Shadowgem and 22 Pristine Leather plus 15 Silver Bars (Skinning is not in the Mining + Blacksmithing pair), which conflicts with RULES.md rule 3 (no rare-drop farms) and with the Mining + Blacksmithing rationale. Decision needed before Phase 3 (options below in the chat record): keep BS for the cheap pieces only (Belt, Gloves, Chain Shirt if the plan drops), switch to Skinning + Mining and buy nothing, or keep the full plan with the set marked optional.
