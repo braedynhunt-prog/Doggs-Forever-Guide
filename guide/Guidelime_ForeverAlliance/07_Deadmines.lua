@@ -81,9 +81,10 @@ Kill [TAR626 Foreman Thistlenettle] (level 20 elite, near the instance portal) f
 
 [OC]|cffffffffBoss 1 - Rhahk'Zor|r (19) at the first door
 [OC]Tank and spank; he hits hard but has nothing else. He opens the door on death
-[OC][A Shaman] |cffffcc00Loot:|r |cff66ff66Rockslicer|r (2H axe 19.7 dps +10 Str, req 18) - ROLL, it beats the Ironforge Greathammer. Rhahk'Zor's Hammer (2H mace 18.4 dps +8 Sta +7 spell) - roll only if Rockslicer goes elsewhere.
+[OC][A Shaman] |cffffcc00Loot:|r |cff66ff66Rockslicer|r (2H axe 19.7 dps +7 Str, req 18) - ROLL, it beats the Ironforge Greathammer. Rhahk'Zor's Hammer (2H mace 18.4 dps +8 Sta +7 spell) - roll only if Rockslicer goes elsewhere.
 [OC][A Hunter] |cffffcc00Loot:|r nothing for you here (Str axe / caster mace) - pass, or take Rockslicer as a stat stick only if nobody else wants it
 [O]|cff66ff66Ongoing:|r loot Red Silk Bandanas from the Defias trash [QC214]
+[OC][A Shaman] |cffffcc00Trash loot:|r Blackened Defias Leggings (leather +6 Str +6 Agi; Overseers and Taskmasters, rate unknown) - roll, they beat Smith's Trousers, 17.1 vs 11.4. Stonemason Trousers (+7 Agi +7 Spi; Blackguards, ~6%) are second. Neither is worth a second run.
 [OC]|cffffffffMiner Johnson|r (rare, 19) sometimes patrols the mine tunnels after the first boss
 [OC]|cffffcc00Loot:|r Miner's Cape (+5 Sta +4 AP) is a small upgrade if you have no Spiritwraith Drape; Gold-plated Buckler for the shield set
 [OC]|cffffffffBoss 2 - Sneed's Shredder, then Sneed|r (20) at the top of the wooden ramps
@@ -98,7 +99,7 @@ Plant the Extra-Destructive Explosives next to the big forge in Gilnid's foundry
 [OC]Loot Defias Gunpowder from the crates in the goblin workshop past Gilnid, then use it on the cannon to blow the door (or a rogue can pick it)
 [OC]|cffffffffBoss 4 - Mr. Smite|r (20) on the ship deck
 [OC]At 66% and 33% he stuns everyone and runs to his chest to swap weapons - stand where the stun is harmless, he hits hardest with the 2H
-[OC]|cffffcc00Loot:|r |cff66ff66Smite's Mighty Hammer|r (2H mace 19.7 dps +11 Str +4 Agi, req 18) - ROLL, best 2H mace until level 25 and a mace for the Dwarf crit. Smite's Reaver (1H axe 14 dps +3 Str) for the shield set.
+[OC]|cffffcc00Loot:|r |cff66ff66Smite's Mighty Hammer|r (2H mace 19.7 dps +11 Str +4 Agi, req 18) - ROLL, best 2H mace until level 25. Smite's Reaver (1H axe 14 dps +3 Str) for the shield set.
 [OC]|cffffffffBoss 5 - Captain Greenskin|r (20) on the ship
 [OC]Pirate adds; he comes with a small pack. Nothing special
 [OC][A Shaman] |cffffcc00Loot:|r |cff66ff66Blackened Defias Belt|r (leather +18 AP) - ROLL, better than the Dusty Belt. Emberstone Staff is caster, Impaling Harpoon is a polearm you cannot use.
@@ -110,7 +111,7 @@ Loot An Unsent Letter from VanCleef and read it, [QA373 The Unsent Letter]
 [OC][A Shaman] |cffffcc00Loot:|r |cff66ff66Blackened Defias Armor|r (leather chest +4 Str +3 Agi +10 Sta) - ROLL. Cape of the Brotherhood (+5 Agi +3 Sta) - roll if you have no Spiritwraith Drape. Cruel Barb is a sword, Corsair's Overshirt cloth caster - pass.
 [OC][A Hunter] |cffffcc00Loot:|r |cff66ff66Cape of the Brotherhood|r (+5 Agi +3 Sta) - ROLL, your best cloak. Blackened Defias Armor (+4 Str +3 Agi +10 Sta) only if you somehow lack the Tunic of Westfall, which beats it for you. Cruel Barb (+12 AP sword) only with Swords trained; Corsair's Overshirt - pass.
 [OC]|cffffffffCookie|r (20) pops out of his pot after VanCleef
-[OC][A Shaman] |cffffcc00Loot:|r Cookie's Tenderizer (1H mace 13.9 dps +4 Str) for the shield set; the Stirring Rod is a wand
+[OC][A Shaman] |cffffcc00Loot:|r Cookie's Tenderizer (1H mace 13.9 dps +4 Spi) for the shield set; the Stirring Rod is a wand
 [OC][A Hunter] |cffffcc00Loot:|r nothing (mace / wand) - pass
 [OC]Walk out through the door at the stern of the ship - it leads through a tunnel to the Westfall coast
 
@@ -123,9 +124,9 @@ At the lighthouse at [TAR392 Captain Grayson], [QT152] [QT104] [G30,86 Westfall]
 [OC]|cffffcc00Gear:|r nothing (shield / wand / held item) - vendor Grayson's Torch
 |cFFfff8a3Hearth to [H Sentinel Hill]|r
 At [TAR234 Gryan Stoutmantle], [QT14] [QT166] [G56.3,47.5 Westfall]
-[OC][A Shaman] |cffffcc00Gear (14):|r nothing for a 2H shaman - Fist of the People's Militia (1H mace +2 Str) for the shield set or vendor
+[OC][A Shaman] |cffffcc00Gear (14):|r Boots of the People's Militia (leather, +4 spell damage) if your boots still have no stats; Fist of the People's Militia (1H mace +2 Str) for the shield set or vendor
 [OC][A Hunter] |cffffcc00Gear:|r (14) nothing (mace / wand) - Boots of the People's Militia only if your boots still have no stats
-[OC][A Shaman] |cffffcc00Gear:|r take Tunic of Westfall (leather chest +11 Agi +5 Sta) if you did NOT get Blackened Defias Armor; Chausses of Westfall are mail, the staff is caster
+[OC][A Shaman] |cffffcc00Gear:|r if no Deadmines 2H dropped (Smite's, Rockslicer or Rhahk'Zor's Hammer), take Staff of Westfall (15.2 dps +5 Int +6 Spi +16 spell damage) - it beats the Ironforge Greathammer now that the hammer has no stats; otherwise Tunic of Westfall (leather chest +11 Agi +5 Sta) if you did NOT get Blackened Defias Armor; Chausses of Westfall are mail
 [OC][A Hunter] |cffffcc00Gear:|r take |cff66ff66Tunic of Westfall|r (leather chest +11 Agi +5 Sta) - your best chest until well past 20, even over the Blackened Defias Armor
 At [TAR820 Scout Riell], [QT214] [G56.7,47.4 Westfall]
 [OC][A Shaman] |cffffcc00Gear:|r nothing (Piercing Axe 12.6 dps is below your 2H; Monastic Hammer is caster) - Scrimshaw Dagger to vendor
@@ -136,7 +137,7 @@ At [TAR523 Thor], |cFFfff8a3Fly to [F Stormwind]|r [G56.5,52.6 Westfall]
 At [TAR656 Wilder Thistlenettle] in the Dwarven District, [QT168] [QT167] [G70.3,40.8 Stormwind City]
 [OC]|cffffcc00Gear:|r 168: Dusty Mining Gloves (+3 Str +2 Agi) if you have neither Flamefist Grips nor Gold-flecked Gloves. 167: Miner's Workboots (leather +5 Spi) only over Frosthowl's Footwarmers; Miner's Revenge is a worse 2H
 At [TAR6579 Shoni the Shilent], [QT2040] [G62.6,34.1 Stormwind City]
-[OC]|cffffcc00Gear:|r take |cff66ff66Bravo's Armbands|r (leather wrist +2 Str +4 Agi +4 Spi)
+[OC]|cffffcc00Gear:|r take |cff66ff66Bravo's Armbands|r (leather wrist +3 Str +3 Agi)
 In Cathedral Square at [TAR1646 Baros Alexston] (city architect), [QT373] [QA389 Bazil Thredd] [G57.7,47.9 Stormwind City]
 [OC]Bazil Thredd leads to the Stockade (Warden Thelwater outside the prison, 41,58) - that is 22+, it is in the 20+ chapter
 [OC]|cffffffffFinished: Deadmines|r  -  next: the Ruins of Lordaeron trip (20-21)

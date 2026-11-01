@@ -58,7 +58,7 @@ Loot 10 Stolen Supplies and 8 Stolen Weapons from the Blackrock camps south of S
 
 [OC]Run back to Lakeshire
 At [TAR341 Foreman Oslow], [QT89] [G27.0,48.6 Redridge Mountains]
-[OC][A Shaman] |cffffcc00Gear:|r Smith's Trousers (+4 Str +4 Agi) if you somehow skipped Deepgrave Trousers; otherwise Riding Gloves (cloth +3 Agi +3 Int) as a backup or vendor
+[OC][A Shaman] |cffffcc00Gear:|r take |cff66ff66Smith's Trousers|r (leather legs +4 Str +4 Agi) - they beat Frontier Britches and Deepgrave Trousers, 11.4 vs 8.6 / 5.5; Riding Gloves (cloth +3 Agi +3 Int) to vendor
 [OC][A Hunter] |cffffcc00Gear:|r Smith's Trousers (+4 Str +4 Agi) only if you have neither Direhammer Leggings nor Deepgrave Trousers; Riding Gloves (cloth +3 Agi +3 Int) only if you still wear the Driving Gloves
 At [TAR382 Marshal Marris], [QT20] [QT98387] [QA115 Shadow Magic] [QA19 Tharil'zun] (both level 23-25 - 20+ chapter) [G28.4,49.0 Redridge Mountains]
 At [TAR381 Dockmaster Baren], [QT127] [G22.6,47.4 Redridge Mountains]

@@ -35,16 +35,16 @@ Just inside, talk to the [TAR265002 Ghostly Attendant], [QA96395 An Ancient Grud
 [OC]|cffffffffBoss 1 - Faldrim Anvilmar|r (undead, Anvilmar's Rest, the big central room)
 [OC]Tank and spank. Mind Blast on random targets; Anvilmar's Curse petrifies and cuts attack speed 20% - stay near the tank so it only lands on him, and keep threat steady
 Kill [TAR261306 Faldrim Anvilmar] [QC96395]
-[OC]|cffffcc00Loot:|r Spiritwraith Drape (back +4 Agi +3 Spi) - roll. Ephemeral Choker (neck +4 Sta +2 Spi) - roll, it is the only neck for ten levels. Aetherwisp Bracers - cloth caster, pass.
+[OC]|cffffcc00Loot:|r Spiritwraith Drape (back +3 Agi +4 Spi) - roll. Ephemeral Choker (neck +5 Spi) - roll, it is the only neck for ten levels. Aetherwisp Bracers - cloth caster, pass.
 Back at the [TAR265002 Ghostly Attendant], [QT96395]
-[OC][A Shaman] |cffffcc00Gear:|r take Deepgrave Trousers (leather legs +7 Str +3 Agi +3 Spi) - Catacomb Cloak is only +6 AP
+[OC][A Shaman] |cffffcc00Gear:|r take Deepgrave Trousers (leather legs +3 Agi +3 Spi - they lost their Strength in the October builds); Catacomb Cloak (+2 Sta +3 AP, +4 more against humanoids) is still behind, 5.5 vs 3.0
 [OC][A Hunter] |cffffcc00Gear:|r Deepgrave Trousers here too (the Agi and Spirit carry it) - swap to Direhammer Leggings if Durgen drops them
 
 [OC]|cffffffffBoss 2 - Magmatus|r (fire elemental with a Dark Iron Summoner add)
 [OC]Trash on the way: Dark Iron Summoners (fireballs - kill first), Engineers (throw dynamite), Bloodhound Runts (their bite is a disease, +6% damage taken - Cure Disease comes at 18, so heal through it), Dark Iron Looters (fast dagger hits)
 [OC]Combust is a 360 degree AoE around the boss: tank faces him away, melee stand spread and step out when he winds up
 Kill [TAR261316 Magmatus]
-[OC]|cffffcc00Loot:|r Flamefist Grips (leather hands +2 Str +4 Agi +4 Spi) - roll, best gloves in the bracket. Kindlegem Girdle is mail, Fang of Magmatus is a caster dagger - pass.
+[OC]|cffffcc00Loot:|r Flamefist Grips (leather hands +5 Agi +5 Spi) - roll, best gloves in the bracket. Kindlegem Girdle is mail, Fang of Magmatus is a caster dagger - pass.
 
 [OC]|cffffffffBoss 3 - Plunder|r (stone golem)
 [OC]Knock Away knockback AoE and a charge that stuns a random player. Fight him in the tunnel you came through so the knockbacks push you into a wall, not into the next pack. Do not pull adds into him.
@@ -54,19 +54,19 @@ Kill [TAR261311 Plunder]
 [OC]|cffffffffBoss 4 - Durgen Dirgehammer|r (the Dark Iron commander, 2 Lesser Stone Golems + Looters)
 [OC]Kill the two golems first (they hit hard and move fast), then Durgen. He fears the group and Rends - nobody has a fear break at this level, so let the tank re-grab him after it and heal up afterwards.
 Kill [TAR261319 Durgen Dirgehammer] and loot his head [QC96393]
-[OC][A Shaman] |cffffcc00Loot:|r Durgen's Crescent Axe (1H axe 12.3 dps +2 Str) only for a shield set; Direhammer Leggings (+4 Agi +7 Sta) are worse than your Deepgrave Trousers; Robes of the Disgraced Thane is cloth - pass.
+[OC][A Shaman] |cffffcc00Loot:|r Durgen's Crescent Axe (1H axe 12.3 dps +4 Str) only for a shield set; Direhammer Leggings (+4 Agi +7 Sta) are worse than your Deepgrave Trousers; Robes of the Disgraced Thane is cloth - pass.
 [OC][A Hunter] |cffffcc00Loot:|r |cff66ff66Direhammer Leggings|r (leather +4 Agi +7 Sta) - ROLL, they beat Deepgrave Trousers for you. Durgen's Crescent Axe (1H axe 12.3 dps +2 Str +1 Agi) is a fine stat stick if your melee slot is still the starting weapon. Robes of the Disgraced Thane is cloth - pass.
 Behind one of the doors in the last room, click the stone tablet, [QA98423 The Treaty of Understanding]
 Finish the heirlooms and ghosts before you leave [QC96403] [QC96394]
 
 [OC]|cffffffffHand-ins|r
 At [TAR265003 Thom Filch], [QT96403] [G31.4,45.4 Ironforge]
-[OC][A Shaman] |cffffcc00Gear:|r take Tomb Robber's Gloves (+3 Sta +6 Int) only as a bag filler - Flamefist Grips are better; the Dwarven Tome is an off-hand you cannot use with a 2H
+[OC][A Shaman] |cffffcc00Gear:|r take Tomb Robber's Gloves (+1 Sta +2 Int) only as a bag filler - Flamefist Grips are better; the Dwarven Tome is an off-hand you cannot use with a 2H
 [OC][A Hunter] |cffffcc00Gear:|r nothing (cloth gloves / held item) - Tomb Robber's Gloves to vendor
 At [TAR264943 Afadra Dunwall], [QT96394] [G32.4,47.8 Ironforge]
-[OC]|cffffcc00Gear:|r take Dusty Belt (leather waist +5 Agi +4 Spi) - Cryptwalker Bracers are mail
+[OC]|cffffcc00Gear:|r take Dusty Belt (leather waist +2 Agi +2 Spi) - Cryptwalker Bracers are mail
 In the High Seat at [TAR2784 King Magni Bronzebeard], [QT96393] [QT98423] [G39.4,55.4 Ironforge]
-[OC][A Shaman] |cffffcc00Gear:|r take |cff66ff66Ironforge Greathammer|r (2H mace 16.0 dps +4 Str +7 Sta, no level requirement) and equip it - your weapon until Deadmines
+[OC][A Shaman] |cffffcc00Gear:|r take |cff66ff66Ironforge Greathammer|r (2H mace 16.0 dps with a fire proc - no stats, no level requirement) and equip it - your weapon until Deadmines
 [OC][A Hunter] |cffffcc00Gear:|r take |cff66ff66Calibrated Blunderbuss|r (gun 15.9 dps +3 Sta, no level requirement) and equip it - your gun until well past 20; Heavy Shot fits it
 [OC]|cffffffffLevel 16|r
 At [TAR1573 Gryth Thurden], |cFFfff8a3Fly to [F Thelsamar]|r for the Loch Modan leftovers [G55.5,47.7 Ironforge]

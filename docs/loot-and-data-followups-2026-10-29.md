@@ -1,6 +1,6 @@
 # Loot check and data refresh: follow-ups (29 Oct 2026, revised 1 Nov 2026)
 
-Status: **parked, not started.** Braedyn asked on 29 Oct to save this and run it later. Reviewed 1 Nov 2026 against the repo and the checkers; the review changed the order, shrank the browser step, corrected two factual errors (noted inline) and added a step 0. Each step needs his approval before it runs; guide edits are proposed first, as the working agreements require.
+Status: **done 1 Nov 2026** (all five steps; record in `docs/audit-2026-11-01.md`). Originally: Braedyn asked on 29 Oct to save this and run it later. Reviewed 1 Nov 2026 against the repo and the checkers; the review changed the order, shrank the browser step, corrected two factual errors (noted inline) and added a step 0. Each step needs his approval before it runs; guide edits are proposed first, as the working agreements require.
 
 ## Where things stand (1 Nov)
 - `tooling/qdb/` is QuestieDB Forever 1.0.9 (commit 6641516). `weights/tooltips/2026-10-29.json` holds 276 Forever tooltips.

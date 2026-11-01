@@ -46,7 +46,7 @@ Across from the entrance at [TAR1156 Vyrin Swiftwind], [QA271 Vyrin's Revenge] (
 [O]At [TAR1156 Vyrin Swiftwind], [QT531] - take the |cff66ff66Hunting Satchel|r (10 slot bag; hunters: the Hunting Ammo Sack is also +10% ranged speed, the same as the Small Shot Pouch you already own, so the bag is worth more) [G81.7,64.1 Loch Modan]
 [O]|cFFFF0000GROUP 2+|r Grawmug's cave: the western of the two caves at the south end of Stonesplinter Valley, take the right-hand path deep in. Kill [TAR1205 Grawmug], [TAR1206 Gnasher] (heals) and [TAR1207 Brawler] [QC217] [G34.8,90.5 Loch Modan]
 [O]At the bunker at [TAR1092 Captain Rugelfuss], [QT217] [G23.2,73.7 Loch Modan]
-[OC][A Shaman] |cffffcc00Gear:|r Frontier Britches (+3 Str +3 Agi) lose to Deepgrave Trousers; take Dwarven Defender (shield +3 Sta) for the shield set or vendor
+[OC][A Shaman] |cffffcc00Gear:|r take |cff66ff66Frontier Britches|r (leather legs +3 Str +3 Agi) - they beat Deepgrave Trousers now, 8.6 vs 5.5; Dwarven Defender (shield +3 Sta) for the shield set or vendor
 [OC][A Hunter] |cffffcc00Gear:|r Frontier Britches (+3 Str +3 Agi) only if you have neither Direhammer Leggings nor Deepgrave Trousers; the shield is unusable
 [O]|cFFFF0000GROUP 2+|r Mo'grosh ogre mound in the northeast: 4 [TAR1178 Mo'grosh Ogre], 4 [TAR1180 Mo'grosh Brute], 4 [TAR1179 Mo'grosh Enforcer] [QC255] [G71,24 Loch Modan]
 [O]At [TAR1139 Magistrate Bluntnose], [QT255] [G34.6,44.5 Loch Modan]

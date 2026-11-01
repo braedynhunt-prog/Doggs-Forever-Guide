@@ -91,7 +91,7 @@ Kill 4 [TAR1236 Kobold Digger] in the Jangolode Mine, just inland on the way bac
 [OC]Run southeast back to Sentinel Hill (past Saldean's farm - hand in Ozwin's quest on the way if it completed)
 At [TAR234 Gryan Stoutmantle], [QT13] [QA14 The People's Militia] (the Highwaymen south of Moonbrook - you kill them on the Deadmines trip) [G56.3,47.5 Westfall]
 At [TAR878 Scout Galiaan], [QT153] [G54,53 Westfall]
-[OC][A Shaman] |cffffcc00Gear:|r take Cloak of the People's Militia (+2 Agi) only if you did not get Spiritwraith Drape; otherwise the Leggings (cloth +2 Str +2 Spi) to vendor
+[OC][A Shaman] |cffffcc00Gear:|r take Cloak of the People's Militia (+2 Agi) only if you did not get Spiritwraith Drape; otherwise the Leggings (cloth +2 Str +2 spell damage) to vendor
 [OC][A Hunter] |cffffcc00Gear:|r Cloak of the People's Militia (+2 Agi) only if you have no Spiritwraith Drape; Cape of the Brotherhood from VanCleef replaces either
 At [TAR253092 Alba Fairmoon], [QT92745] [QA92747 Moonbrook Espionage] [G52.4,53 Westfall]
 [OC]|cffffcc00Alba's next steps|r (the Moonbrook crates, then Explosive Consultation in Stormwind) are on the Deadmines trip. The Coast Isn't Clear and The Coastal Menace hand in at the lighthouse when you walk out of the Deadmines onto the coast.
