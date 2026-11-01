@@ -8,7 +8,7 @@ Addons to install in the Forever client alongside Guidelime (Forever flavor, v6.
 - RareScanner
 - Pawn: has an official Forever build (2.14.0 Forever flavor on CurseForge, checked 1 Nov 2026; default scales are the Classic Era ones, so import the scale below). Weights come from `docs/forever-enh-stat-weights.md`
 - Auto-vendor junk
-- Something that tells you which item to drop when your bags are full
+- Something that tells you which item to drop when your bags are full: **LootOptimizer Forever** (recommended to Braedyn; CurseForge, made for Forever, one-click swap of the loot with the cheapest bag item by vendor value x stack, or AH value via Auctionator, keeps profession mats). Alternative: Loot Triage (display only, no swapping; Forever flavor)
 - Auction + vendor prices on item tooltips
 
 ## Pawn scale for 2H Enhancement (from `forever-enh-stat-weights.md`, recommended 15-20 set)
