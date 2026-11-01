@@ -1,23 +1,29 @@
 # Dogg's Forever Guide
 
-A [Guidelime](https://github.com/max-ri/Guidelime) levelling guide for **WoW Forever, Alliance, levels 1-30**. Written for a Dwarf Shaman (2H Enhancement); Dwarf and Human Hunter lines are in the files but no longer maintained.
+[Guidelime](https://github.com/max-ri/Guidelime) levelling guides for **WoW Forever, Alliance, levels 1-30**. Two addons, one route:
+
+- **Forever Shaman 1-30** (`Guidelime_ForeverShaman`): the original guide, written for a Dwarf Shaman (2H Enhancement). Dwarf and Human Hunter lines are in the files but no longer maintained.
+- **Forever Warrior 1-30** (`Guidelime_ForeverWarrior`): the same route rebuilt for a Skyborne Protection Warrior (1H + shield, Skinning + Mining). It starts on Zephras Isle, crosses to Stormwind and Ironforge, and joins the shaman's route at Loch Modan. Generated from the shaman chapters by `tooling/build_variant.py`; first build 1 Nov 2026, not yet played, and the lines the data could not settle say "(unverified)".
 
 ## Install (players)
 
 1. Install the **Guidelime** addon if you don't have it.
-2. Download `Guidelime_ForeverShaman.zip` from the [latest release](https://github.com/braedynhunt-prog/Doggs-Forever-Guide/releases/latest).
-3. Unzip it into `World of Warcraft\_classic_era_\Interface\AddOns\` so you end up with `Interface\AddOns\Guidelime_ForeverShaman\`.
-4. Restart the game, open Guidelime and pick **Forever Shaman 1-30**.
+2. Download the zip for your character from the [latest release](https://github.com/braedynhunt-prog/Doggs-Forever-Guide/releases/latest): `Guidelime_ForeverShaman.zip` or `Guidelime_ForeverWarrior.zip`.
+3. Unzip it into `World of Warcraft\_classic_era_\Interface\AddOns\` so you end up with `Interface\AddOns\Guidelime_ForeverShaman\` (or `...\Guidelime_ForeverWarrior\`).
+4. Restart the game, open Guidelime and pick **Forever Shaman 1-30** or **Forever Warrior 1-30**.
 
-**Skyborne Protection Warrior?** The same route rebuilt for a Skyborne warrior (1H + shield, Skinning + Mining) is `Guidelime_ForeverWarrior.zip` in the same release: it starts on Zephras Isle, joins the Alliance route at Loch Modan, and picks **Forever Warrior 1-30** in Guidelime. It is generated from the Alliance chapters by `tooling/build_variant.py` (see `docs/warrior-build-2026-11-01.md`); it has not been played yet, and its unverified lines say so.
+The shaman addon was called `Guidelime_ForeverAlliance` until 1 Nov 2026; if you installed that, delete the old folder.
 
-## What it covers
+## What the guides cover
 
-- Every new-to-Forever Alliance zone, dungeon and hub reachable in the bracket: Northshire to Westfall, Hall of Thanes, Deadmines, Ruins of Lordaeron, Loch Modan, Redridge, Darkshore, Ashenvale + Blackfathom Deeps, Duskwood, the Stockade, Wetlands, Darnassus, Excavation Site, Hillsbrad, Gnomeregan, Razorfen Kraul.
-- Shaman class quests (Call of Earth / Fire / Water / Air) threaded in at level.
+Both:
+- Every new-to-Forever Alliance zone, dungeon and hub reachable in the bracket: Loch Modan, Hall of Thanes, Westfall, Redridge, Deadmines, Ruins of Lordaeron, Darkshore, Ashenvale + Blackfathom Deeps, Duskwood, the Stockade, Wetlands, Darnassus, Excavation Site, Hillsbrad, Gnomeregan, Razorfen Kraul.
 - Cooking, Fishing and First Aid stops so the food buffs are ready when you need them.
-- Gear calls at every reward choice for a 2H Enhancement shaman.
 - Dungeon quests labelled normal / grind up front; no rare-drop farms.
+
+Shaman: Northshire or Coldridge Valley start, the shaman class quests (Call of Earth / Fire / Water / Air) threaded in at level, gear calls at every reward choice for a 2H Enhancement shaman.
+
+Warrior: Zephras Isle 1-14 in full, the Skyborne join leg, the warrior class thread (trainer stops in Stormwind, Ironforge and Darnassus, The Skybreaker Bulwark, Exploring the Alliance, the Fire Hardened chain to The Shieldsmith), gear calls for a 1H + shield tank, tank notes and per-boss loot calls in every dungeon.
 
 Found something wrong in game (missing NPC, bad coordinates, quest that won't take)? Open an issue with the chapter and step text.
 
