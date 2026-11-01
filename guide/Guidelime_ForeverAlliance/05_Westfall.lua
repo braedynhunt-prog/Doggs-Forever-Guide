@@ -41,7 +41,7 @@ Use the Well Water Sample Kit at the Jansen Stead well (next to the house) [QC92
 Inside the farmhouse loot Furlbrow's Wardrobe for the pocket watch [QC64] [G49.3,19.3 Westfall]
 Kill [TAR117 Riverpaw Gnoll] around the mine entrance for 8 Gnoll Paws [QC102] [G49,15 Westfall]
 [OC]Run north to the coast
-Kill [TAR126 Murloc Coastrunner] on the north beach for 7 Longshore Murloc Gills and 3 Murloc Eyes [QC92744] [G48,9.5 Westfall]
+Kill [TAR126 Murloc Coastrunner] on the north beach for 7 Longshore Murloc Gills and 3 Murloc Eyes [QC92744] (keep a Captain Sander's Treasure Map if one drops: it starts a treasure hunt you do on the south loop) [G48,9.5 Westfall]
 [OC]Grind south through the fields west of the road
 Kill [TAR504 Defias Trapper] (nets) and [TAR95 Defias Smuggler] - 15 each - around the Molsen farm and the fields [QC12] [G44,33 Westfall]
 Use the Well Water Sample Kit at the Molsen Farm well [QC92742,2] [G43,28 Westfall]
@@ -80,16 +80,21 @@ At [TAR392 Captain Grayson], [QA103 Keeper of the Flame] [QA152 The Coast Isn't 
 At [TAR392 Captain Grayson], [QT103] if you looted 5 Flasks of Oil from the harvest golems [G30,86 Westfall]
 [OC]|cffffcc00The Coast Isn't Clear|r needs 7 of each of four murloc types and they live in four different places along Longshore - the circuit below passes all of them
 Kill 7 [TAR127 Murloc Tidehunter] on the beach north of the lighthouse [QC152,3] [G30,77 Westfall]
+[O]If a Captain Sander's Treasure Map drops from any Longshore murloc (no stated rate - take it if it falls, do not farm), right-click it [QA136 Captain Sander's Hidden Treasure]: a four-clue hunt along this circuit, 2,890 XP, an 8-slot bag and a loot box at the end [G30,77 Westfall]
 [O]|cFFFF0000Level 20 mob:|r [TAR391 Old Murk-Eye] wanders the beach around 29,76 with a murloc escort - kill him for the scale if your friend is on, otherwise leave him for the Deadmines trip [QC104] [G29.3,76 Westfall]
 Kill 7 [TAR517 Murloc Oracle] as you grind north along Longshore [QC152,4] [G28,65 Westfall]
 [OC]Continue north to the Gold Coast Quarry
 Kill 6 [TAR1426 Riverpaw Miner] in the quarry [QC92745,2] [G29.8,48 Westfall]
+[O]Treasure hunt: the Captain's Footlocker is on the beach just west of the quarry - search it [QT136] [QA138 Captain Sander's Hidden Treasure] [G25.9,47.8 Westfall]
 Ride east from the quarry to Alexston Farmstead and click the Burned-Out Remains in the cart wreckage, [QA79008 ... and that note you found] (1,750 XP at its Barrens hand-in on the Razorfen Kraul trip, chapter 26; this starts the Cozy Sleeping Bag chain, a +3% XP buff finished in the 30-40 guide - one log slot until then) [G37.4,50.7 Westfall]
+[O]Treasure hunt: the Broken Barrel by the ruined chimney is 3 units east of the farmstead [QT138] [QA139 Captain Sander's Hidden Treasure] [G40.5,47.8 Westfall]
 [OC]Back west to the coast
 Kill 7 [TAR171 Murloc Warrior] on the beach north of the quarry [QC152,2] [G28,38 Westfall]
 [OC]Follow the coast round to the north beach
 Kill 7 [TAR126 Murloc Coastrunner] on the north beach [QC152,1] [G48,9.5 Westfall]
 Kill 4 [TAR1236 Kobold Digger] in the Jangolode Mine, just inland on the way back [QC92745,1] [G45.3,20 Westfall]
+[O]Treasure hunt: the Old Jug next to the windmill, just west of the mine [QT139] [QA140 Captain Sander's Hidden Treasure] [G40.6,17.0 Westfall]
+[O]Treasure hunt: the Locked Chest on the north-west coast, 15 units west and back - open it [QT140] (1,150 XP, 8 silver, Captain Sander's Booty Bag 8-slot, Captain Sander's Locker - open it - and a shirt and a cloth sash +2 Sta +2 Spi: wear the sash only if your belt has no stats) [G26,16.9 Westfall]
 [OC]Run southeast back to Sentinel Hill (past Saldean's farm - hand in Ozwin's quest on the way if it completed)
 At [TAR234 Gryan Stoutmantle], [QT13] [QA14 The People's Militia] (the Highwaymen south of Moonbrook - you kill them on the Deadmines trip) [G56.3,47.5 Westfall]
 At [TAR878 Scout Galiaan], [QT153] [G54,53 Westfall]

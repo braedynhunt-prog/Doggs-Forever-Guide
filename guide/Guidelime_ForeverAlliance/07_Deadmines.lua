@@ -69,7 +69,7 @@ At [TAR820 Scout Riell] in the tower, [QA214 Red Silk Bandanas] [G56.7,47.4 West
 [OC]|cffffcc00?|r Underground Assault (2040) - Gnoam Sprecklesprocket from Sneed's Shredder - |cff66ff66normal|r, 100%, everyone can loot it
 [OC]|cffffcc00?|r Destruction in Deadmines (92753) - plant the explosives at the forge (Gilnid's foundry) - |cff66ff66normal|r
 [OC]Starts inside: An Unsent Letter (VanCleef's drop, 870 XP in Stormwind)
-[OC]|cffffcc00Not for you:|r Captain Sanders' treasure hunt (Westfall) and My First Alchemy Set are optional side stuff
+[OC]|cffffcc00Not for you:|r My First Alchemy Set is optional side stuff (herbalists only; the Captain Sanders treasure hunt is an [O] chain on the Westfall south loop, chapter 05)
 
 [OC]Run to Moonbrook. While the group gathers:
 Kill 15 [TAR122 Defias Highwayman], 5 [TAR121 Defias Pathstalker], 5 [TAR449 Defias Knuckleduster] in and south of Moonbrook [QC14] [G45,76 Westfall]

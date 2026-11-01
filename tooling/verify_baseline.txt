@@ -19,7 +19,7 @@ questnpc  22_ExcavationSite.lua:46  [QA95809] Heartwoven: DB lists no starter at
 questnpc  22_ExcavationSite.lua:60  [QA95810] Lost Relic Carry: starter in the DB is item 270865; line has [TAR1077 Prospector Whelgar] (fine if the TAR is just the nearby NPC)
 tar  05_Westfall.lua:46  Defias Trapper [G44.0,33.0] is 4.6 from the nearest spawn 46.4,36.9
 tar  05_Westfall.lua:77  Odd Child [G41.2,79.0] is 6.4 from the nearest spawn 42.8,72.8
-tar  05_Westfall.lua:84  Murloc Oracle [G28.0,65.0] is 3.8 from the nearest spawn 27.7,68.8
+tar  05_Westfall.lua:85  Murloc Oracle [G28.0,65.0] is 3.8 from the nearest spawn 27.7,68.8
 tar  06_Redridge.lua:40  Redridge Mongrel [G24.9,76.0] is 5.2 from the nearest spawn 25.3,81.2
 tar  06_Redridge.lua:52  Redridge Brute [G23.9,33.0] is 4.9 from the nearest spawn 19.0,32.6
 tar  06_Redridge.lua:55  Murloc Flesheater [G46.9,61.0] is 3.4 from the nearest spawn 50.2,61.7
