@@ -1,0 +1,32 @@
+# Chapter 14 (Duskwood: Darkshire 25-26), warrior overlay. Block B, written 1 Nov 2026.
+# Dropped: the hunter ammo line (19).
+
+# The Leatherworking decision goes: the warrior keeps Skinning + Mining (plan decision 1 Nov 2026, option 1). Guard's set reagent
+# counts from docs/warrior-build-plan-2026-11-01.md (Execution log: 34 Shadowgem, 22 Pristine Leather for the set to 25).
+@replace TAR263384
+[OC]|cffffcc00Level 25 - professions:|r keep Skinning + Mining to 30. The Guard's mail set (Blacksmithing, bind on pickup; about 34 Shadowgem and 22 Pristine Leather for the set) is not worth switching for - check the Auction House for a cheap Guard's piece only out of curiosity
+
+# "Night Watch Gauntlets are mail: vendor them" is leather-wearer text; for a warrior they are the call (3559: mail hands 107 armor +4 Str +1 Agi, tooltip 2026-11-01; fixed reward, so no generated line).
+@replace QT245
+At [TAR888 Watcher Dodds], [QT245] (if you are short of spiders, finish them round Raven Hill first) [G45.1,67.0 Duskwood]
+[OC]|cffffcc00Gear (245):|r Night Watch Gauntlets (mail hands +4 Str +1 Agi) - wear them unless your gloves are better
+
+# Inline reward text goes: the generated warrior line (Belt of the Stars) follows.
+@replace QT181
+At [TAR276 Viktori Prism'Antras], [QT181] [G79.8,48.0 Duskwood]
+
+# "Useless with a two-hander" is shaman text (Totem of Infliction 1131 is a held-in-off-hand charm, tooltip 2026-10-29).
+@replace QT101
+At [TAR265 Madame Eva], [QT101] (Totem of Infliction: an off-hand charm with a 1% shadow proc, no use beside a shield - vendor) [G75.8,45.3 Duskwood]
+
+# Lines without a QA/QT/QC/TAR/G/N token, reached with the T (text) anchor added 1 Nov 2026.
+# source line 8: shaman/hunter/two-player wording reworded for the warrior.
+@replace T repair and empty your bags. Darkshire
+[OC]|cffffcc00Supplies:|r repair and empty your bags. Darkshire has a repair vendor (Avette Fellwood) and a general goods vendor, Mabel Solaj, with water; you reach both before the long loops, so Sentinel Hill needs no stop
+
+# source line 26: delete: the Human-hunter Valor Family note; a Skyborne has the Questie race bit
+@delete T Wowhead's race flag for The Valor
+
+# source line 79: shaman/hunter/two-player wording reworded for the warrior.
+@replace T no trainer in Darkshire; your level-26
+[OC]|cffffcc00Training:|r no trainer in Darkshire; your level-26 abilities wait for Wu Shen in Stormwind (chapter 15)

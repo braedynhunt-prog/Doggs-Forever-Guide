@@ -1,0 +1,44 @@
+# Chapter 03 (15-16 Hall of Thanes) - warrior overlay, block A, 1 Nov 2026.
+# The boss tactic notes 03:36/55 are group-wide and correct for a tank too; they stay, with a tank note before each kill line.
+
+# Warrior trainer in place of the shaman trainer line (03:10 dropped). The warrior trained 14 in Stormwind; 16 is next.
+@replace TAR258098
+[O]In the Military Ward at [TAR5113 Kelv Sternhammer] (warrior trainer), [T] train your level 16 abilities if you are 16 already (Classic even-level ranks, unverified on Forever) - otherwise the 16-17 chapter's Ironforge stop [G70.3,90.7 Ironforge]
+
+# Camping 101 hand-ins: every id in this note is a Dun Morogh one (96056/96031/96046/96608); the warrior did the island
+# versions (Skinning 97971, First Aid 97965) and skipped Mining. The Journeyman sentence repeats the next three steps.
+@delete TAR6291
+
+# Tank brief for the run (replaces the totem advice of 03:6 in spirit).
+@before TAR265002#1
+[OC]|cffffcc00You tank this:|r Defensive Stance and the shield for the whole run. Open each pack with Thunder Clap (usable in Defensive Stance on Forever - unverified), keep the kill target Sundered, Revenge whenever it lights up, and Taunt anything that runs to the healer. Casters (Dark Iron Summoners) die first: mark them
+
+@before TAR261306
+[OC]|cffffcc00Tank:|r face Faldrim away from the group and keep threat high from the first second so Anvilmar's Curse only lands on you; Shield Block when he swings if you have it (16)
+@gear-dungeon TAR261306 => Faldrim Anvilmar
+
+@before TAR261316
+[OC]|cffffcc00Tank:|r Taunt the Dark Iron Summoner add off whoever it hits and keep it next to Magmatus so the dps can burn it; turn Magmatus away from the group before Combust
+@gear-dungeon TAR261316 => Magmatus
+
+@before TAR261311
+[OC]|cffffcc00Tank:|r pull Plunder back into the tunnel and stand with your back to the wall; after his charge stuns someone, Taunt him back at once
+@gear-dungeon TAR261311 => Plunder
+
+@before TAR261319
+[OC]|cffffcc00Tank:|r Thunder Clap as the golems and Durgen arrive to hold all three, Taunt each golem as it is focused, and after Durgen's fear Taunt him straight back
+@gear-dungeon TAR261319 => Durgen Dirgehammer
+
+# Header: no shaman wording - left as is.
+
+# Bring: totems were the shaman's contribution.
+@replace T Bring:|r your friend + 3 more
+[OC]|cffffcc00Bring:|r your friend + 3 more (level 15-17 is comfortable) - you tank, so a healer is the one to find. Food, water and bandages for between pulls.
+
+# Camp: the warrior has the Camp Chair (Camping 101: Skinning on the island) but no Lodestone (Mining camping not taken).
+@replace T profession object (your Lodestone or Camp Chair, your friend's)
+[OC]|cffffcc00Camp before you zone in:|r at the portal, one of you drops a Basic Campfire (Cooking), then everyone adds one profession object (your Camp Chair, your friend's) and sits 1 minute - the buffs last an hour, about one run
+
+# Trash note: "Cure Disease comes at 18" was the shaman's.
+@replace T Bloodhound Runts (their bite is a disease
+[OC]Trash on the way: Dark Iron Summoners (fireballs - kill first), Engineers (throw dynamite), Bloodhound Runts (their bite is a disease, +6% damage taken - heal or bandage through it), Dark Iron Looters (fast dagger hits)

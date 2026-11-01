@@ -1,0 +1,20 @@
+# Chapter 16 (Redridge and Eastvale 26-27), warrior overlay. Block B, written 1 Nov 2026.
+# Dropped: the shaman/hunter gear lines for 386, 95999 and 249 (generated lines instead), the hunter ammo line.
+
+# The Human-hunter caveat goes; the race listing matters for a Skyborne too (qdb race mask 4294967373 includes the Skyborne bit,
+# Wowhead lists Dwarf, Night Elf and Gnome only) - test-list item.
+@replace TAR956
+At [TAR956 Dorin Songblade], [QA95772 Songblade Search] (requires level 24; his brother Daewyn is in the Excavation Site, chapter 22. Wowhead lists this quest for Dwarf, Night Elf and Gnome only while the DB allows a Skyborne: if Dorin does not offer it, skip it - unverified) [G25.8,46.4 Redridge Mountains]
+
+# Merchant camp: the Totemic/Brawler's/Leatherworking text goes.
+@replace TAR256389
+[OC]|cffffcc00Merchant camp|r is right here (10,72): sell, hand in any Waylaid Supplies to [TAR256389 Tamelyn Aldridge] (10.4,71.4) and glance at Auctioneer Quickcoin (9.4,71.8) for a cheap mail or shield upgrade
+
+# Lines without a QA/QT/QC/TAR/G/N token, reached with the T (text) anchor added 1 Nov 2026.
+# source line 36: shaman/hunter/two-player wording reworded for the warrior.
+@replace T (x 60-66, y 52-60): the DB
+[OC]|cFFFF0000Stonewatch Keep|r (x 60-66, y 52-60): the DB puts Gath'Ilzogg (26 elite) at 64.5,55.8 with Singe (24 elite) 0.4 units from him, Blackrock Gladiators (24-25 elite) at 64.3,56.3 and 64.9,57.1, and Hunters, Sentries and Shadowcasters (21-24, elite) 2 units north. That is four elites on one spot, so Gath'Ilzogg is |cFFFF0000GROUP 3+|r - tank it with a healer and a damage dealer, or skip quest 169 (its lines are optional) and move on
+
+# source line 74: shaman/hunter/two-player wording reworded for the warrior.
+@replace T new in the log: Messenger to
+[OC]|cffffcc00Check:|r new in the log: Messenger to Darkshire (145), The Legend of Stalvan (78), Songblade Search (95772) and, if you took the detour, Return to Kristoff (346). Next: Darkshire

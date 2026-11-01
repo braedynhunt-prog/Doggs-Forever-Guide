@@ -1,0 +1,70 @@
+# Chapter 02 (11-15 Loch Modan) - warrior overlay, block A, 1 Nov 2026.
+
+# Mining starts in Loch Modan for the warrior (no ore on Zephras Isle); one clause, before the first quest step.
+@before QA224
+[OC]|cffffcc00Mining:|r your Mining starts here - Zephras Isle had no ore, so mine every Copper Vein you pass from now on (no Lodestone: Camping 101: Mining was not taken on the island)
+
+# Kadrell: the Dwarf line came back untagged without Stout to Kadrell (414 is not taken by the warrior); 02:35 [A Human] drops.
+@replace QT414
+At the road patroller [TAR1340 Mountaineer Kadrell], [QA416 Rat Catching] [QA1339 Mountaineer Stormpike's Task] [G34.2,47.8 Loch Modan]
+
+# Honor Students (6387/6391/6388/6392) are Dwarf + Gnome only: no pickup, the warrior flies Thelsamar <-> Ironforge (both flight points).
+@delete QA6387
+
+@replace QT6387
+At flightmaster [TAR1572 Thorgrum Borrelson], get the [P Thelsamar] flightpoint and fly to Ironforge (you have its flight point from the join leg) [G33.9,51 Loch Modan]
+
+@delete QT6391
+
+# The warrior already has the Strong Fishing Pole and the Longjaw recipe from Valanaar (00t).
+@replace TAR1684#1
+At [TAR1684 Khara Deepwater] by the lake, [V] restock Shiny Baubles (Silver of the Waves turns in here later); if you missed them in Valanaar she also sells the |cff66ff66Strong Fishing Pole|r (+45 Fishing, needs Fishing 10) and |cff66ff66Recipe: Longjaw Mud Snapper|r (Cooking 50: +10 attack power for 15 min at level 5+ - learn it the moment Cooking hits 50) [G40.3,39.3 Loch Modan]
+
+# Warrior trainer in place of the shaman trainer line (02:48 dropped); placed in Tinker Town, the Military Ward is just south.
+@after QA95041
+[O]South of Tinker Town in the Military Ward at [TAR5113 Kelv Sternhammer] (warrior trainer), [T] train your level 16 abilities if you are 16 already (new ranks come at even levels - Classic, unverified on Forever); otherwise the 15-16 chapter stops here again [G70.3,90.7 Ironforge]
+
+# Gryth: no Honor Students hand-in; the step stays as the flight back.
+@replace QT6388
+Back in the Great Forge at flightmaster [TAR1573 Gryth Thurden], fly back to Thelsamar [G55.5,47.7 Ironforge]
+
+@delete QT6392
+
+# Snowbound jar run: the Alliance route came back from the Call of Fire finale in Dun Morogh; the warrior runs there from Thelsamar.
+@replace QC86667
+Run south down the west road and through South Gate Pass to South Gate Outpost; use the Ceramic Jar on the snow there (the last snow before the tunnel into Loch Modan) - the 10 minute timer starts now [QC86667] [G86,49 Dun Morogh]
+
+# Stonesplinter Shaman heal: warrior interrupt.
+@replace TAR1197
+Kill 10 [TAR1197 Stonesplinter Shaman] (they heal - interrupt with Shield Bash, or kill them first) and 10 [TAR1164 Stonesplinter Bonesnapper] [QC263] [G36,92 Loch Modan]
+
+# Header: the Alliance one names the Honor Students ride and the Call of Fire finale.
+@header
+Loch Modan first pass: Valley of Kings, Thelsamar, a flight to Ironforge for the Hall of Thanes pickups and the Journeyman trainers, the north loop, the Snowbound jar run and the south caves.
+
+# Stripped untagged gear lines on fixed rewards (02:94, 02:124): reworded for a warrior (no Driving Gloves on this character).
+@after QT2038
+[OC]|cffffcc00Gear:|r Bingles' Flying Gloves (leather hands +2 Agi +2 Int) - wear them if your hands are empty or statless, otherwise vendor
+
+@after QT86614
+[OC]|cffffcc00Gear:|r Repurposed Hair Band is cloth caster wrist (+2 Int +2 Spi) - vendor it, keep Burnt Hide Bracers
+
+# Carry-over log (spec): what the warrior brings from 00u. No Camping 101 is carried (island versions done on Zephras).
+@replace T Carry-over log:|r Stout to Kadrell
+[OC]|cffffcc00Carry-over log:|r Old Ironforge Incursion (96393, Hall of Thanes), Exploring the Alliance (93963: Tyrande in Darnassus, then Bolvar), Journey to Sentinel Hill (98021: Gryan in Westfall).
+
+# Call of Fire is the shaman's class quest.
+@delete T Call of Fire:|r Fire Tar drops
+
+# Honor Students ride is Dwarf/Gnome only: the warrior pays for the flights.
+@replace T Ironforge (free gryphon from the quest)
+[OC]|cffffffffIronforge (flight from Thelsamar)|r
+
+@replace T Take the free ride: 
+[OC]|cFFfff8a3Fly to [F Ironforge]|r
+
+@replace T Take the free ride back:
+[OC]|cFFfff8a3Fly to [F Thelsamar]|r
+
+# Searing Totem note: shaman only.
+@delete T Searing Totem|r is your best dps totem

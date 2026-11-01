@@ -1,0 +1,35 @@
+# Chapter 04 (16-17 Loch Modan) - warrior overlay, block A, 1 Nov 2026.
+# Escort: "drop Stoneskin" was the shaman's.
+@replace T Escort Miran east to the excavation
+[OC]Escort Miran east to the excavation. Two ambushes of 2-3 Dark Iron dwarves each; Miran dies fast - stay in Defensive Stance, Thunder Clap each ambush as it lands and Taunt anything that turns to him
+
+# Geomancers: warrior interrupt instead of Earth Shock.
+@replace TAR1165
+Kill [TAR1165 Stonesplinter Geomancer] and [TAR1167 Stonesplinter Digger] in the dig (level 17-19, geomancers cast Fire Blast - Shield Bash them) for 8 Carved Stone Idols [QC297] [G70,64 Loch Modan]
+
+# A Hunter's Challenge: fixed rewards (Daryl's Shortsword + Fine Cloth Shirt, data/zone_38.json); the class gear lines dropped.
+@after QT258
+[OC]|cffffcc00Gear:|r Daryl's Shortsword (1H sword 8.7 dps +2 Agi) is just behind the Thelsamar Axe (9.1 dps +2 Agi) - vendor it; wear the Fine Cloth Shirt if you have no shirt
+
+# Crocolisk Hunting / Twisting the Knife: fixed rewards Rugged Cape and Daggerfang's Daggerfang (data/zone_38.json).
+@after QT385
+[OC]|cffffcc00Gear:|r Rugged Cape (13 armor, no stats) only if you still have no cloak; Daggerfang's Daggerfang (dagger 7.9 dps +2 Agi) is below the Thelsamar Axe - vendor
+
+# Vyrin's Revenge: non-gear choice (Hunting Ammo Sack / Hunting Quiver) plus the fixed Hunting Satchel.
+@replace QT531
+[O]At [TAR1156 Vyrin Swiftwind], [QT531] - the |cff66ff66Hunting Satchel|r (10 slot bag) comes with it either way; of the choice take the Hunting Ammo Sack only if you carry shot for your gun (it holds ammo only), otherwise vendor it - the Hunting Quiver is for arrows [G81.7,64.1 Loch Modan]
+
+# Warrior trainer in place of the shaman trainer (04:59 dropped). Order: Forlorn Cavern (Grimnur) first, then the Military
+# Ward on the way to the Tinker Town tram. Grimnur's "two steps away" referred to the shaman trainer.
+@replace TAR5161
+[O]In the Forlorn Cavern at [TAR5161 Grimnur Stonebrand], Journeyman Fishing if you have not got it yet (Fishing 50) [G48.1,6.9 Ironforge]
+@after TAR5161
+In the Military Ward at [TAR5113 Kelv Sternhammer] (warrior trainer), [T] train your level 16 abilities (Shield Block is the level-16 tank tool on Forever - web sources, unverified); Stormwind's trainer is next, on the 17-18 Westfall trip [G70.3,90.7 Ironforge]
+
+# Professions note: the Camping 101: Skinning hand-in clause is the Dun Morogh quest 96056; the warrior did 97971 on the island.
+@replace TAR6291
+[OC]|cffffcc00Professions:|r Nissa Firestone (First Aid, 55.1,58.3) and Daryl Riknussun (Cooking, 60.1,36.4) teach Journeyman once the skill is 50, and so do [TAR6291 Balthus Stoneflayer] (Skinning, 39.9,32.5) and [TAR4254 Geofram Bouldertoe] (Mining, 50.0,26.3 in the Deep Mountain Mining Guild)
+
+# Bank/AH: the warrior never took the Robe of the Keeper and wears mail or leather, whichever scores higher.
+@replace T Bank/AH stop:|r you go through Ironforge anyway
+[OC]|cffffcc00Bank/AH stop:|r you go through Ironforge anyway - bank the recipes, check the AH for 10 Coarse Dynamite (Alba Fairmoon's Westfall chain needs them, ~2,900 XP) and a mail or leather chest with Str/Sta if your chest slot is still empty or statless

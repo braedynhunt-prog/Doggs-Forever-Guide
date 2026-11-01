@@ -1,0 +1,92 @@
+# Chapter 15 (The Stockade 26-27), warrior overlay. Block B, written 1 Nov 2026.
+# Class thread here: Wu Shen trains 24/26; Bolvar takes 93963 Exploring the Alliance (1,150 XP, Tyrande done in chapter 11);
+# Furen Longbeard takes 1702 The Shieldsmith (435 XP) - the Fire Hardened chain ends here in this guide.
+# Dropped without replacement: the hunter ammo lines, the shaman trainer and Knowledge in the Deeps (971 never in the warrior's log).
+
+# Warrior trainer on the Old Town stop (Wu Shen 5479 @80.55,59.87), next to Nikova.
+@after QA388
+At [TAR5479 Wu Shen] in Old Town, [T] train your level 24 (if you skipped it) and level 26 abilities [G80.6,59.9 Stormwind City]
+
+# The Totemic Leather search goes (no Leatherworking for the warrior); the silk purchase stays.
+@replace G61.1,70.7
+At the Auction House buy 3 [CI4306,3 Silk Cloth] for Tyrion's Items of Some Consequence later in this chapter (the DB lists no mob drops for silk, so buying is quicker than hunting it) [G61.1,70.7 Stormwind City]
+
+# Bolvar (1748 @80.21,38.35) is the 93963 finisher (qdb [2]); the Human-hunter caveat goes. Cloak of the Honored Guest 286427 is the
+# fixed reward (tooltip 2026-11-01: cloak 14 armor +1 Sta +1 AP; no generated line for fixed rewards).
+@replace TAR1748
+At [TAR1748 Highlord Bolvar Fordragon] in the Keep, [QT98190] [QT93963 Exploring the Alliance] [QA98191 A Friend of the Family] (Exploring the Alliance: 1,150 XP) [G80.2,38.4 Stormwind City]
+[OC]|cffffcc00Gear (93963):|r Cloak of the Honored Guest (cloak 14 armor +1 Sta +1 AP) - equip it if your cloak is weaker
+
+# The hunter trainer stop in the Dwarven District becomes Furen Longbeard (5413 @64.62,37.23), the 1702 finisher (qdb [2]).
+# 1701 Fire Hardened Mail is not taken and not mentioned (RULES 4: skipped quests are silent).
+@replace TAR5515
+In the Dwarven District at [TAR5413 Furen Longbeard], [QT1702] (435 XP: Yorus' Cask of Scalder) [G64.6,37.2 Stormwind City]
+
+# The tram hop stays optional for the warrior (Overspark's 210-XP breadcrumb and The Powers Below; chapter 24 takes Overspark if skipped).
+@replace G73.8,49.2#1
+[O]Take the Deeprun Tram to Ironforge - optional: only Overspark (below) and The Powers Below if the book dropped; chapter 24 takes Overspark if you skip it [G73.8,49.2 Stormwind City]
+
+# The way back from the optional hop.
+@replace G76.5,51.5#1
+[O]Tram back to Stormwind [G76.5,51.5 Ironforge]
+
+# The hunter aside goes.
+@replace QT968
+[O]At [TAR2786 Gerrig Bonegrip], [QT968] (only if the Book: The Powers Below dropped in Darkshore, 1,700 XP) [G50.8,5.6 Ironforge]
+
+# Inline gear text (polearm / caster dagger, shaman and hunter wording) and the Human-hunter caveat go; the generated line follows.
+@replace QT98191
+At [TAR928 Lord Grayson Shadowbreaker] in the Cathedral, [QT98191] (his follow-up, The Shamed Lieutenant 98219, is taken on the chapter-18 Stormwind pass) [G48.4,50.2 Stormwind City]
+
+# Tank brief at the door (the source run header still says "bring the tank friend"; it has no anchor).
+@after G52.4,70.0
+[OC]|cffffcc00You tank this run|r: Defensive Stance, a healer and three damage dealers. Pull each cell's Defias out into the corridor so the next cell stays put, Thunder Clap the packs, Taunt whatever runs to the healer, and Shield Block through every boss's heavy swings
+
+# Targorr's loot after his kill line.
+@gear-dungeon TAR1696 => Targorr the Dread
+
+# Dextren's fear: the source note's Tremor Totem advice cannot be removed (no anchor), so the tank plan is added.
+@before TAR1663
+[OC]|cffffcc00Tank (Dextren):|r pull him back into a cleared cell or corridor so his fear carries nobody into a pack, and Taunt him back the moment it ends
+
+# Bruegal (left wing, before Dextren) has no step line: his loot goes after the left wing's kill line. Dextren has no generated group.
+@gear-dungeon TAR1663 => Bruegal Ironknuckle
+
+# Kam and Hamhock (right wing): the source notes name shaman Purge/Earth Shock; the tank plan is added before the last kill line.
+@before TAR1716
+[OC]|cffffcc00Tank (Kam, Hamhock):|r Shield Block through Kam's Shield Slam stun and hold him until the healer is ready again; for Hamhock, kill his two Defias first and turn him away from the group so his Chain Lightning jumps less
+
+# Kam, Hamhock and Bazil loot after the right wing's kill line (Kam and Hamhock have no step lines of their own).
+@gear-dungeon TAR1716 => Kam Deepfury
+@gear-dungeon TAR1716 => Hamhock
+@gear-dungeon TAR1716 => Bazil Thredd
+
+# Inline gear text goes; Seal of Wrynn (2933, fixed reward: ring +3 Str +3 Agi +4 Sta +4 Int +3 Spi, tooltip 2026-11-01) for a warrior.
+@replace QT396
+In the Keep at [TAR1749 Lady Katrana Prestor], [QT396] (3,750 XP) [G80.1,38.2 Stormwind City]
+[OC]|cffffcc00Gear (396):|r Seal of Wrynn (ring +3 Str +3 Agi +4 Sta, unique) - a ring upgrade, wear it
+
+# Lines without a QA/QT/QC/TAR/G/N token, reached with the T (text) anchor added 1 Nov 2026.
+# source line 5: shaman/hunter/two-player wording reworded for the warrior.
+@replace T -  you are in Darkshire
+[OC]|cffffffffLevel 26|r  -  you are in Darkshire with the Darkshire flight path learned; hearth = Sentinel Hill and it stays there. The chapter is one dungeon, the Stockade behind Warden Thelwater's gate in Stormwind (a full clear of 23-29 elites), wrapped in two rounds of Stormwind errands: about 19,200 quest XP on the core route, up to ~26,000 with every optional hand-in, plus 1,585 for Exploring the Alliance and The Shieldsmith. Two Stockade bounties are completed here but paid later: Targorr's head (386) in Lakeshire (chapter 16) and Dextren Ward's hand (377) in Darkshire (chapter 17)
+
+# source line 6: shaman/hunter/two-player wording reworded for the warrior.
+@replace T (377), The Legend of Stalvan (69,
+[OC]|cffffcc00Log check:|r What Comes Around... (386), Crime and Punishment (377), The Legend of Stalvan (69, from Clerk Daltry), A Friend of the Family (98190, from Menethil), Exploring the Alliance (93963, complete), The Shieldsmith (1702, the Cask of Scalder) and, only if you have them, Cleansing the Eye (293, Third Fleet), An Old History Book (337) and The Powers Below (968). Without 377 or 386 you only skip that boss's head; the loot is the same
+
+# source line 21: shaman/hunter/two-player wording reworded for the warrior.
+@replace T -  shaman: needed (level-26
+[OC]|cffffffffIronforge hop|r  -  optional for the warrior: only for Overspark's breadcrumb and The Powers Below if the book dropped; chapter 24 takes Overspark anyway if you skip the hop
+
+# source line 35: shaman/hunter/two-player wording reworded for the warrior.
+@replace T dungeon range 24-32 (Icy Veins, Method),
+[OC]|cffffffffThe Stockade|r  -  |cFFFF0000GROUP 5|r, dungeon range 24-32 (Icy Veins, Method), mobs 23-29 in the DB, ~25-30 min (Method says 15-25 for a geared group). Bosses, all elite: Targorr the Dread 24, Dextren Ward 26, Kam Deepfury 27, Hamhock 28, Bazil Thredd 29, plus the rare Bruegal Ironknuckle 26. You are the tank: bring a healer and three damage dealers. Everything is picked up outside and nothing hands in inside; the door is in the city, so a food or repair run mid-dungeon is a one-minute walk
+
+# source line 52: shaman/hunter/two-player wording reworded for the warrior.
+@replace T (26 elite, end of the left
+[OC]|cffffcc00Dextren Ward|r (26 elite, end of the left wing): Intimidating Shout is an area fear. Clear every cell near his room first and pull him where a fear cannot carry anyone into another room (Method)
+
+# source line 55: shaman/hunter/two-player wording reworded for the warrior.
+@replace T (28 elite ogre mage, at the
+[OC]|cffffcc00Hamhock|r (28 elite ogre mage, at the end of the wing with 2 Defias): Chain Lightning is interruptible and he Bloodlusts himself and his adds (+30% speed, purgeable). Kill the two Defias, then interrupt him and purge the Bloodlust if anyone can, and stay spread so the chain jumps less

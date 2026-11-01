@@ -1,0 +1,29 @@
+# Chapter 05 (17-18 Westfall) - warrior overlay, block A, 1 Nov 2026.
+
+# Warrior trainer on the Stormwind pass (spec: 05, level 17). Old Town is a short detour east before the Trade District.
+@after QA2040
+In Old Town at [TAR5479 Wu Shen] (warrior trainer, by the Command Center), [T] train every new rank up to your level (even levels - Classic, unverified on Forever) [G80.6,59.9 Stormwind City]
+
+# The warrior has the Stormwind flight point from the join leg (00u).
+@delete TAR352
+
+# Journey to Sentinel Hill (98021, 455 XP, carried from 00u) hands in at Gryan on the first Sentinel Hill stop.
+@replace QT109
+In the tower at [TAR234 Gryan Stoutmantle], [QT109] [QT98021 Journey to Sentinel Hill] [QA12 The People's Militia] [QA65 The Defias Brotherhood] [G56.3,47.5 Westfall]
+
+# Westfall Stew (38): fixed rewards (cloth mitts, dagger, stew); the untagged gear line was stripped - same call for a warrior.
+@after QT38
+[OC]|cffffcc00Gear:|r nothing (cloth mitts / 5 dps dagger) - eat the Westfall Stew for the run-speed buff
+
+# Poor Old Blanchy (151): fixed reward bag; the untagged gear line was stripped.
+@after QT151
+[OC]|cffffcc00Gear:|r take Old Blanchy's Feed Pouch (8 slot bag)
+
+# Keeper of the Flame (103): non-gear choice Minor Mana Potion / Minor Healing Potion.
+@after QT103
+[OC]|cffffcc00Reward:|r take the Minor Healing Potion - a warrior has no mana
+
+# The Alliance note says 98021 / 93963 are Skyborne-only - this character is a Skyborne and hands 98021 in above. The
+# Harvesting the Harvesters sentence stays.
+@replace T Skip:|r Journey to Sentinel Hill
+[OC]Harvesting the Harvesters (Ozwin, Saldean's farm) has the worst drop rate in the zone - it is listed as optional.

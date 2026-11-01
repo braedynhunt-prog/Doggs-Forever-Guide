@@ -1,0 +1,59 @@
+# Chapter 24 (30-31 Gnomeregan) - Skyborne Protection Warrior overlay (block C, 1 Nov 2026)
+# "T <text>" anchors reach untagged [OC] lines that carry no other anchor token.
+# Loot calls: @gear-dungeon per boss the Alliance chapter had a loot call for (Grubbis, Viscous Fallout,
+# Electrocutioner 6000, Crowd Pummeler 9-60, Dark Iron Ambassador, Thermaplugg), placed where the Alliance loot
+# lines sat (after the nearest anchored step); no trash group (RULES 3), no Techbot (the Alliance had no call for him).
+
+@replace T |cffffffffLevel 30|r  -  you land in Ironforge from Southshore
+[OC]|cffffffffLevel 30|r  -  you land in Ironforge from Southshore; hearth = Sentinel Hill and it stays there. This chapter is one dungeon, Gnomeregan (a full clear of 25-34 mobs, about 2 hours), wrapped in an Ironforge errand round and a trogg pass outside the door: about 19,900 quest XP on the core route, ~25,500 with the Prism and the Sparklematic and up to ~43,700 with every optional chain (For Further Study has no XP in the DB), nearly all of it handed in here (Gyrodrillmatic's 2,450 waits for Shoni, chapter 25). Group content: you tank; bring a healer and three damage dealers
+@replace T |cffffcc00Supplies:|r the gnome station just inside the door
+[OC]|cffffcc00Supplies:|r the gnome station just inside the door has vendors and a mailbox (Almar's), but arrive stocked: food and water for two hours, repair, empty bags, 3 silver per Sparklematic run (9 for tiers 1, 2 and the ring) and 30 silver if you go for Talvash's ring
+@replace T |cffffffffIronforge round|r  -  about 15 minutes on foot
+[OC]|cffffffffIronforge round|r  -  about 15 minutes on foot: the warrior trainer, the optional Balloo/King chain, the Explorers, then Tinkertown last for the pickups
+
+# Warrior trainer stop at 30 (spec: Ironforge in 24) on the dropped hunter trainer line; Military Ward, first stop.
+@replace TAR5116
+At [TAR5113 Kelv Sternhammer] (warrior trainer, Military Ward), [T] train your level 30 abilities (skip if you trained them in Darnassus in chapter 20) [G70.3,90.7 Ironforge]
+
+@replace T |cffffffffThe run|r  -  Classic-era layout (Icy Veins
+[OC]|cffffffffThe run|r  -  Classic-era layout (Icy Veins, Warcraft Tavern): narrow corridors joining multi-level rooms with jump-down points; mobs on a lower level can be pulled from above and run round to you with friends, so pull to a corner and fight in Defensive Stance. Icy Veins wants a mage's crowd control on the humanoids: mark a kill order, hold the rest with Thunder Clap and Taunt whatever peels off to the healer. Elites throughout, one pack at a time
+
+# Grubbis and Viscous Fallout: the first two bosses; the Alliance loot call for Grubbis sat after this Sparklematic step.
+@gear-dungeon QA2952 => Grubbis
+@gear-dungeon QA2952 => Viscous Fallout
+
+@replace T |cffffcc00Viscous Fallout|r (level 30 elite elemental)
+[OC]|cffffcc00Viscous Fallout|r (level 30 elite elemental) in the big room below the jump-down (Hall of Gears): clear its trash first. Sources differ: one says tank and spank and immune to frost, another reports Toxic Volley (poison on everyone near him) and small oozes that split off: hold him in Defensive Stance with Shield Block up, Thunder Clap the small oozes onto you and let the group kill them fast
+@replace T |cffffcc00Electrocutioner 6000|r (level 32 elite mechanical)
+[OC]|cffffcc00Electrocutioner 6000|r (level 32 elite mechanical) on the Launch Bay platform up the western tunnel: Chain Bolt chains to everyone standing together and Megavolt hits hard; sources disagree on interrupting them (Shield Bash if you have it). Hold him at max melee range, facing away, everyone else spreads out and the healer tops up after each bolt. He drops the Workshop Key (back-door key, not needed)
+@replace T |cffffcc00Crowd Pummeler 9-60|r (level 32 elite mechanical)
+[OC]|cffffcc00Crowd Pummeler 9-60|r (level 32 elite mechanical) in the Engineering Labs, down the narrow south tunnel off the main one (groups miss it by walking past): Arcing Smash, Trample and Crowd Pummel. Keep your back to a wall so you are not thrown off the edge, casters and healer stay at range, and you hold him facing away with Shield Block on cooldown. Matrix Punchograph 3005-D stands on the lower floor of his room
+
+# Electrocutioner, Crowd Pummeler and the Ambassador: the Alliance loot calls followed this step (the Pummeler's room).
+@gear-dungeon QC2930 => Electrocutioner 6000
+@gear-dungeon QC2930 => Crowd Pummeler 9-60
+@gear-dungeon QC2930 => Dark Iron Ambassador
+
+@replace T |cffffcc00Dark Iron Ambassador|r (level 33 rare elite
+[OC]|cffffcc00Dark Iron Ambassador|r (level 33 rare elite, optional) spawns in the tunnel between Electrocutioner and the final boss (Icy Veins). Pull him away from the group and Taunt or Thunder Clap each Burning Servant he summons onto you; the group kills the servants and interrupts his Fireball, healers stay at range (he also has Fire Shield and Fireball Volley)
+@replace T |cffffcc00Mekgineer Thermaplugg|r (level 34 elite mechanical
+[OC]|cffffcc00Mekgineer Thermaplugg|r (level 34 elite mechanical, last boss) in the Tinkers' Court (Icy Veins: double back along the main tunnel, Almar's mentions a lift down): he opens chutes round the room that send Walking Bombs at the group, and they explode on contact. Hold him mid-room with Shield Block on cooldown, ranged kill each bomb before it arrives and one player runs to the red buttons at the foot of the chutes to close them. Knock Away resets threat: Taunt at once; more bombs at 50% and 20%. Hamstring or Thunder Clap slows the bombs that reach you
+
+# Thermaplugg: the Alliance loot call followed his kill step.
+@gear-dungeon QC2929 => Mekgineer Thermaplugg
+
+@replace T |cffffcc00Trash loot (both):|r |cff66ff66Petrolspill Leggings|r
+[OC]|cffffcc00Trash loot:|r |cff66ff66Caverndeep Trudgers|r (mail feet +4 Str +10 Sta +40 armor, req 27, bind on equip) are worth a roll; Petrolspill Leggings (leather legs +14 Agi +6 Sta, +10% fire damage taken) only until the Grand Betrayal legs. Mechbuilder's Overalls and Hotshot Pilot's Gloves (cloth): pass
+
+# Castpipe 2930: both rewards are fixed (Wowhead zone 1537); the dropped shaman/hunter lines covered them.
+# Tooltips 1 Nov: Repairman's Cape +3 Int +5 Spi, Mechanic's Pipehammer two-hand mace +12 Int.
+@after QT2930
+[OC]|cffffcc00Gear (Data Rescue):|r the fixed Repairman's Cape (+3 Int +5 Spi) only if your cloak has no stats; the Mechanic's Pipehammer is a caster two-hander: vendor
+
+# Mekkatorque 2929: the step named the Triprunner Dungarees (the shaman's pick); the generated warrior line follows.
+@replace QT2929
+At [TAR7937 High Tinker Mekkatorque], [QT2929] (2,750 XP) [G68.8,49.0 Ironforge]
+
+# Talvash 2948: +10 Sta +3 Defense (Alliance text; no tooltip cached) is a tank ring, not just an empty-slot filler.
+@replace QT2948
+[O]At [TAR6826 Talvash del Kissel], [QT2948] (Talvash's Gold Ring: +10 Sta +3 Defense, a tank ring - wear it over your weaker ring) [G36.4,3.6 Ironforge]

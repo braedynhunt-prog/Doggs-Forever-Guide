@@ -1,0 +1,36 @@
+# Chapter 25 (30-31 Loose Ends: Stormwind, Duskwood and Arathi) - Skyborne Protection Warrior overlay (block C, 1 Nov 2026)
+# "T <text>" anchors reach untagged [OC] lines that carry no other anchor token.
+# The Arathi leg (Call of Air, Go'Shek, Stromgarde book) was all [A Shaman] and drops. Its one route item for every
+# class, the Expert First Aid book at Deneb Walker, is moved to chapter 19's Stromgarde line (overlay 19.txt), where
+# the warrior already stands at Refuge Pointe with First Aid 125 - no Arathi flight is needed here.
+
+# Header: no Call of Air; the chapter title keeps "Arathi" (the [N] line is the chain key), the header does not.
+@header
+Hand-ins for chains started in chapters 18-23, the Missing Diplomat across Stormwind and Duskwood, Morbent Fel and Mor'Ladim at Raven Hill and an optional Lakeshire stop, ending at the Stormwind harbour.
+
+@replace T |cffffffffLevel 30|r  -  you are in Ironforge with Gnomeregan done
+[OC]|cffffffffLevel 30|r  -  you are in Ironforge with Gnomeregan done; hearth = Sentinel Hill and it stays there. This chapter closes loops: about 25,000 quest XP with everything (28,000 with Lakeshire) from hand-ins, the Missing Diplomat chain and two Duskwood elites that need a healer and a third (about 8,500 of it). Level-30 abilities were trained last chapter and level 32 is not due yet; the Old Town stop below is only a check.
+@replace T |cffffffffDuskwood|r  -  Darkshire, the Defias camp
+[OC]|cffffffffDuskwood|r  -  Darkshire, the Defias camp in the south-west, then Sven's camp and Raven Hill in the north-west, then Darkshire and Raven Hill again: the Mor'Ladim chain bounces three times because Sirra, Althea and Sarah Ladimore are in Darkshire while the kill and the grave are at Raven Hill (about 55 units each way). The |cFFFF0000GROUP 3+|r lines are optional; without a healer and a third do Armed and Ready and the Docket only and skip about 8,500 XP.
+
+# Sven 55: the generated line covers the choice; the fixed Torch of Holy Flame (tooltip: held in off-hand, +5 Spi)
+# was only on the dropped shaman/hunter lines.
+@after QT55
+[OC]|cffffcc00Gear (55):|r the fixed Torch of Holy Flame is a held-in-off-hand item (+5 Spi): your off-hand is the shield, vendor it
+
+@replace T |cFFFF0000GROUP 3+|r |cffffcc00Mor'Ladim|r is a level 35 elite
+[OC]|cFFFF0000GROUP 3+|r |cffffcc00Mor'Ladim|r is a level 35 elite skeleton (~3,660 HP in the Classic DB) who patrols the cemetery with a wide aggro radius. Classic sources: Enraging Memories (a frenzy: double attack speed for 8 seconds, he moves 25% slower and hits 10 points softer) and Holy Shock; unverified on Forever. The cemetery is packed with 26-29 undead, so pull him away from the others and tank him alone in Defensive Stance, Shield Block through the frenzy
+
+# Grave 231: both rewards are fixed (Wowhead zone 10: items 2000 Archeus, 270051 Ladimore Heirloom Ring); the
+# stripped Gear line was shaman/hunter prose. Ring tooltip: +6 Int, spell damage. Archeus stats from the Alliance text.
+@after QT231
+[OC]|cffffcc00Gear (231):|r both fixed rewards are yours: the Ladimore Heirloom Ring (+6 Int, +5 spell damage) only for an empty ring slot; Archeus is a two-handed sword (23.9 dps, an Arcane proc, no stats): vendor it, you fight with a shield
+
+# Old Town warrior trainer check at 30-31 (spec: Stormwind pass in 25); Wu Shen is a few steps east of Dashel.
+@after QT1447
+[O]At [TAR5479 Wu Shen] (warrior trainer, Old Town, a few steps east of Dashel), [T] train anything new - the next ranks come at 32 (Classic timing, unverified), so this is only a check [G80.6,59.9 Stormwind City]
+
+@replace T |cffffffffBefore the harbour|r  -  both of you in Stormwind
+[OC]|cffffffffBefore the harbour|r  -  you are in Stormwind; the next chapter leaves from the harbour. Buy food and water for the Kraul, repair, empty your bags
+@replace T |cffffcc00Check:|r still open on purpose: The Missing Diplomat 1248
+[OC]|cffffcc00Check:|r still open on purpose: The Missing Diplomat 1248 (Mikhail at Menethil Harbor, 10.6,60.8: 660 XP, then Tapoke Jahn 1249 for 1,300 XP and 1250 for 265 XP; after that the chain leaves for Dustwallow Marsh by the Theramore boat, a trip for level 30+. Hand it in whenever you pass Menethil, otherwise abandon it [QS1248]); the three City of Dalaran lead-ins (92456, 92489, 92432), carried into the 30-40 guide. Next: the Stormwind harbour boat for Razorfen Kraul

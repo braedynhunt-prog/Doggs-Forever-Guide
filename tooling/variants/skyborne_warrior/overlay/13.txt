@@ -1,0 +1,100 @@
+# Chapter 13 (Blackfathom Deeps 25-26), warrior overlay. Block B, written 1 Nov 2026.
+# The warrior is the group's tank here. Dropped: every shaman/hunter loot line, Knowledge in the Deeps (971: a shaman-only pickup in
+# chapter 08, never in the warrior's log), the Tremor Totem note. Loot: one @gear-dungeon per boss the Alliance chapter had a Loot line
+# for (Ghamoo-ra, Sarevess, Gelihast, Lorgus Jett, Serra'kis, Kelris, Aku'mai); trash and the Twilight Shadowmage group are left out (RULES 3).
+
+# Header named the shaman's Knowledge in the Deeps.
+@header
+The Blackfathom Deeps run from the Zoram Strand, with you as the tank: Researching the Corruption, Twilight Falls, In Search of Thaelrid and Blackfathom Villainy, with tank notes, loot calls and the hearth home.
+
+# Tank brief at the door (the source intro still says "bring the tank friend"; that line has no anchor).
+@after G14.5,14.2
+[OC]|cffffcc00You tank this run|r: Defensive Stance from the first pull, bring a healer and three damage dealers. Pull packs back round a corner so the casters come to you, Thunder Clap when three or more are on you, Taunt anything that turns to the healer, and keep Shield Block for the boss hits. Mark the healers and casters (Tide Priestess, Oracle, Sea Witch) as the first kills
+
+# Ghamoo-ra tank note (the source note still credits the shaman's shocks; no anchor).
+@before QT1198
+[OC]|cffffcc00Tank (Ghamoo-ra):|r face him away from the group and hold him still; his armour halves physical damage, so the fight is long - Shield Block on cooldown and let the casters do the work
+
+# Ghamoo-ra's loot after the first step that follows his fight (his own notes carry no step line).
+@gear-dungeon QT1198 => Ghamoo-ra
+
+# Sarevess: the hunter Freezing Trap plan is gone, so the tank holds her and one guard.
+@before QC1275
+[OC]|cffffcc00Tank (Sarevess):|r pick up Sarevess and both guards, Taunt the guard the damage dealers are not killing back to you, and turn her so Forked Lightning (frontal cone) points at nobody but you
+
+# Sarevess, then Gelihast, Lorgus Jett and Old Serra'kis: their notes sit between this step and the next, so their loot goes here.
+@gear-dungeon QC1275 => Lady Sarevess
+@gear-dungeon QC1275 => Gelihast
+@gear-dungeon QC1275 => Lorgus Jett
+@gear-dungeon QC1275 => Old Serra'kis
+
+# Kelris: the Tremor Totem line is gone; the tank answer to Sleep. The Aku'mai tank note rides along (the source Aku'mai note names
+# a shaman totem and has no anchor; an @after block would land above the generated loot lines, so it sits before the kill line).
+@before QC1200
+[OC]|cffffcc00Tank (Kelris):|r clear the room, then pull him to you. If Sleep lands on you, the damage dealers stop for a few seconds and the healer holds him; Taunt him back the moment you wake
+[OC]|cffffcc00Tank (Aku'mai, after the braziers):|r drag him out of every Poison Cloud at once, and use Shield Block through each Frenzied Rage - that is when he kills tanks
+
+# Kelris' loot after his kill line; Aku'mai's after it too (no step line of his own; his notes follow and show with the next step).
+@gear-dungeon QC1200 => Twilight Lord Kelris
+@gear-dungeon QC1200 => Aku'mai
+
+# Lines without a QA/QT/QC/TAR/G/N token, reached with the T (text) anchor added 1 Nov 2026.
+# source line 5: shaman/hunter/two-player wording reworded for the warrior.
+@replace T you stand on the Zoram
+[OC]|cffffffffLevel 25|r  -  you stand on the Zoram Strand in north-west Ashenvale; hearth = Sentinel Hill. This chapter is one dungeon, Blackfathom Deeps: a full clear of 22-28 mobs with bosses at 25-28. Only Thaelrid pays out inside (2,400 XP); the other quests are finished here and handed in later: about 10,650 quest XP in all. Group content: you are the tank - bring a healer and three damage dealers
+
+# source line 6: shaman/hunter/two-player wording reworded for the warrior.
+@replace T Researching the Corruption (1275, from Auberdine),
+[OC]|cffffcc00Log check:|r Researching the Corruption (1275, from Auberdine), In Search of Thaelrid (1198) and Twilight Falls (1199) (both from Darnassus). Blackfathom Villainy needs 1198 handed in first, so without 1198 you lose it too
+
+# source line 7: shaman/hunter/two-player wording reworded for the warrior.
+@replace T there is no vendor inside, so
+[OC]|cffffcc00Supplies:|r there is no vendor inside, so arrive stocked: food and water for an hour, repair, empty bags
+
+# source line 25: shaman/hunter/two-player wording reworded for the warrior.
+@replace T -  one long sweep: Ghamoo-ra's
+[OC]|cffffffffThe run|r  -  one long sweep: Ghamoo-ra's chamber, Lady Sarevess to the north-west, the south tunnel to Gelihast and Lorgus Jett, the water section with Old Serra'kis, the temple and Twilight Lord Kelris, the braziers, Aku'mai. Several trash mobs disarm the tank (Classic-era): hold threat with Taunt and Thunder Clap until the weapon is back, and the damage dealers ease off. Caster naga and murlocs (Sea Witch, Tide Priestess, Oracle) cast and heal: kill them first and pull them round corners to you
+
+# source line 26: shaman/hunter/two-player wording reworded for the warrior.
+@replace T (25 elite turtle) in the first
+[OC]|cffffcc00Ghamoo-ra|r (25 elite turtle) in the first big chamber: very high armour, so physical hits do about half damage and the casters do the real work. Face him away from the group; everyone steps out of Trample (random target)
+
+# source line 31: shaman/hunter/two-player wording reworded for the warrior.
+@replace T (25 elite naga) with two naga
+[OC]|cffffcc00Lady Sarevess|r (25 elite naga) with two naga guards in the cavern north-west of the chamber, a short swim away: you take all three, one guard dies first, then the other. Forked Lightning is a frontal cone that chains between targets: nobody stacks or stands in front of her. She also casts Slow and Frost Nova, and she drops Corrupted Brain Stems
+
+# source line 35: shaman/hunter/two-player wording reworded for the warrior.
+@replace T (26 elite murloc, skippable for quests
+[OC]|cffffcc00Gelihast|r (26 elite murloc, skippable for quests, worth it for the Algae Fists) at the end of the south tunnel past Ghamoo-ra. The murlocs round him are the real danger: pull one pack at a time, then pull him alone. His Net roots a random player. Click the stone behind him for Blessing of Blackfathom (Classic-era: +5 Int and +5 Spi, a long buff)
+
+# source line 40: shaman/hunter/two-player wording reworded for the warrior.
+@replace T (26 elite, optional): a Horde quest
+[OC]|cffffcc00Lorgus Jett|r (26 elite, optional): a Horde quest target in the northern tunnel after Gelihast (Classic-era: several possible spawns, so skip him if he is not on your path). Lightning Shield hurts melee - the damage dealers wait for it to drop - and Lightning Bolt on you. The Forever DB gives him Twilight Maul, Treacherous Treads and Fallenroot Longbow (one Forever guide lists only the longbow)
+
+# source line 44: shaman/hunter/two-player wording reworded for the warrior.
+@replace T (26 elite thresher, skippable for quests,
+[OC]|cffffcc00Old Serra'kis|r (26 elite thresher, skippable for quests, worth it for the loot): in the swim-only cave beside the Baron's stone under the ruins. The whole fight is underwater, so top up breath first (a Water Breathing potion or a caster's buff) and burn him fast; he heals himself every so often, so save a burst for it
+
+# source line 49: shaman/hunter/two-player wording reworded for the warrior.
+@replace T (27 elite warlock) in the ceremonial
+[OC]|cffffcc00Twilight Lord Kelris|r (27 elite warlock) in the ceremonial chamber before Aku'mai's door. He pulls the cultists round him into the fight, so clear the room first. Mind Blast hits hard and Sleep takes a player out: if you are slept, a big threat hit must hold him; dispel the Sleep if you can. Sources disagree on interrupting Mind Blast - try one interrupt and see
+
+# source line 55: shaman/hunter/two-player wording reworded for the warrior.
+@replace T (28 elite hydra) in the lair
+[OC]|cffffcc00Aku'mai|r (28 elite hydra) in the lair behind the statue: Poison Cloud on the ground - pull him out of it and everyone leaves it at once (it can be interrupted); Frenzied Rage (+75% attack speed for about 5 seconds) - Shield Block and defensive cooldowns then, he can kill a full-health tank quickly
+
+# source line 58: shaman/hunter/two-player wording reworded for the warrior.
+@replace T (+6 Agi +3 Spi, bind on
+[OC]|cffffcc00Trash loot:|r Axe of the Enforcer, Doomspike and Grimclaw (bind on equip, low drop) only if they fall - roll, never farm; Ring of Precision (+6 Agi +3 Spi, unique) for an empty ring slot; the caster staves, Onyx Claymore (2H) and Tree Bark Jacket (cloth) - pass
+
+# source line 62: shaman/hunter/two-player wording reworded for the warrior.
+@replace T -  1275 Researching the
+[OC]|cffffffffHand-ins that wait|r  -  1275 Researching the Corruption: Gershala on the Auberdine dock, at chapter 20's Auberdine pass (the boat is not on your way home). 1200 and 1199: Selgorm and Manados in Darnassus, also chapter 20. Keep all of them in the log
+
+# source line 63: shaman/hunter/two-player wording reworded for the warrior.
+@replace T no trainer on this route. If
+[OC]|cffffcc00Training:|r no trainer on this route. If you skipped your level-24 abilities, they wait for Wu Shen in Stormwind (chapter 15)
+
+# source line 64: shaman/hunter/two-player wording reworded for the warrior.
+@replace T log should hold Researching the Corruption
+[OC]|cffffcc00Check:|r log should hold Researching the Corruption (1275), Twilight Falls (1199) and Blackfathom Villainy (1200), all three completed and waiting for hand-ins, plus The Shieldsmith (1702), Exploring the Alliance (93963) and the carries from chapters 09-12 (1024, 4581, 1035, 1070 and 973 in the plan). Next: walk from Sentinel Hill into Duskwood
