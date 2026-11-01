@@ -40,7 +40,7 @@ At [TAR840 Watcher Backus], [QT1244] [QA1245 The Missing Diplomat] (the Docket g
 [O]At [TAR264 Commander Althea Ebonlocke], [QT227] [QA228 Mor'Ladim] [G73.5,46.8 Duskwood]
 [OC]|cFFFF0000GROUP 3+|r |cffffcc00Mor'Ladim|r is a level 35 elite skeleton (~3,660 HP in the Classic DB) who patrols the cemetery with a wide aggro radius. Classic sources: Enraging Memories (a frenzy: double attack speed for 8 seconds, he moves 25% slower and hits 10 points softer) and Holy Shock; unverified on Forever. The cemetery is packed with 26-29 undead, so pull him away from the others and let the tank take him alone
 [O]|cFFFF0000GROUP 3+|r Kill [TAR522 Mor'Ladim] on his patrol and loot Mor'Ladim's Skull [QC228] [G16.7,37.4 Duskwood]
-[O]At [TAR264 Commander Althea Ebonlocke], [QT228] [QA229 The Daughter Who Lived] (2,050 XP for the skull) [G73.5,46.8 Duskwood]
+[O]At [TAR264 Commander Althea Ebonlocke], [QT228] [QA229 The Daughter Who Lived] (2,750 XP for the skull) [G73.5,46.8 Duskwood]
 [O]At [TAR576 Watcher Ladimore], [QT229] [QA231 A Daughter's Love] [G74.0,47.8 Duskwood]
 [O]Back at the cemetery, give Sarah's Ring to A Weathered Grave [QT231] (1,350 XP) [G17.7,29.1 Duskwood]
 [OC]|cffffcc00Gear (231):|r both fixed rewards are yours. |cff66ff66Ladimore Heirloom Ring|r (+6 Int, +5 spell damage): wear it if your ring slot is empty or weaker (Int feeds the shaman's Mental Dexterity). Archeus is a 2H SWORD (23.9 dps, an Arcane proc, no stats): a hunter carries it as a melee stat stick only if he trained Two-Handed Swords; shamans do not use swords in Classic, so vendor it unless Forever's trainer offers them

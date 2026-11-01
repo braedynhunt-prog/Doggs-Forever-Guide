@@ -25,7 +25,7 @@ At [TAR1748 Highlord Bolvar Fordragon] in the Keep, [QT98190] [QA98191 A Friend 
 [OC]Gnoarn (The Day After, 2927) and High Tinker Mekkatorque (The Grand Betrayal, 2929) are chapter 24 pickups
 [A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 24 and 26 spells together here - nothing at 24 is urgent [G46.6,13.4 Ironforge]
 [A Shaman] Two steps away at [TAR2786 Gerrig Bonegrip], [QT971] - |cffffcc00Gear:|r Sustaining Ring (+4 Sta, 4 health per 5 sec) only for an empty ring slot [G50.8,5.6 Ironforge]
-[O]At [TAR2786 Gerrig Bonegrip], [QT968] (only if the Book: The Powers Below dropped in Darkshore, 1,950 XP; a hunter would walk to the Cavern for this alone, so skip it without the book) [G50.8,5.6 Ironforge]
+[O]At [TAR2786 Gerrig Bonegrip], [QT968] (only if the Book: The Powers Below dropped in Darkshore, 1,700 XP; a hunter would walk to the Cavern for this alone, so skip it without the book) [G50.8,5.6 Ironforge]
 [A Shaman] Tram back to Stormwind [G76.5,51.5 Ironforge]
 [O][A Hunter] Tram back to Stormwind [G76.5,51.5 Ironforge]
 At [TAR928 Lord Grayson Shadowbreaker] in the Cathedral, [QT98191] (his follow-up, The Shamed Lieutenant 98219, is taken on the chapter-18 Stormwind pass; Human hunters: skip if not offered) - |cffffcc00Gear (98191):|r Knight's Lance (polearm +7 Agi +5 Sta) or Royal Dagger (+18 spell damage): the shaman cannot use the polearm and the dagger is a caster's, so vendor; a hunter takes the Lance only as an Agility stick if Polearms are trained [G48.4,50.2 Stormwind City]

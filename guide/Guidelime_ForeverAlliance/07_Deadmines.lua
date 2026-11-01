@@ -11,7 +11,7 @@ At the Auction House, buy 10 [CI4365,10 Coarse Dynamite] if you have not [G61.1,
 At [TAR5494 Catherine Leland] on the canal (fishing supplies), buy 1 [CI6529,1 Shiny Bauble] and 3 [CI6530,3 Nightcrawlers] (Nightcrawlers need Fishing 50 to use - buy them anyway, the quest only wants them in your bags) [G55.1,69.8 Stormwind City]
 [O]Beside her, [TAR5493 Arnold Leland] trains Fishing (Journeyman at 50) if you still need it; the canal in front of you is low-level water for a quick skill top-up while you are here [G55.0,69.7 Stormwind City]
 [OC]Run west to the harbor
-At [TAR267118 Gilbert Gray] on the harbor, [QA95065 Fishin' Time] then [QT95065] (910 XP for the bait you just bought) [G26.3,47.0 Stormwind City]
+At [TAR267118 Gilbert Gray] on the harbor, [QA95065 Fishin' Time] then [QT95065] (680 XP for the bait you just bought) [G26.3,47.0 Stormwind City]
 At [TAR268511 Manifest Clerk Philmor] up the harbor steps, [QA97220 Philmor's Favor] [G30.4,29.0 Stormwind City]
 [OC]Run back east to the Trade District
 At [TAR483 Elaine Trias] in Trias' Cheese, [QT97220] [QA97222 Gatehouse Goods] [G66.6,73.3 Stormwind City]

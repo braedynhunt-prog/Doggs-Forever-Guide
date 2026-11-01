@@ -32,7 +32,7 @@ Kill [TAR4619 Geltharis] (32, one named non-elite satyr - |cff66ff66normal|r but
 Run south to the northern Rusty Chests and open them until one holds the Iron Pommel (about 40 possible chest spots across 68-79 x 64-85; no key in the DB) [QC1027] [G78.3,64.6 Ashenvale]
 Loot a Bottle of Disease from the pile at the druid camp (five spawns on one spot). The three druids stand 2-4 units away and give no credit yet: pull them carefully and kill any that engage [QC1011] [G75.3,72.0 Ashenvale]
 Kill [TAR3931 Shadethicket Oracle] (30, one named non-elite; a Horde patrol of 26-30 stands 3-6 units east of him) and take the Fallen Moonstone [QC1035] [G66.7,82.2 Ashenvale]
-Click the Gleaming Crescent Pendant lying on the ground [QA98027 Gleaming Crescent Necklace] (2,350 XP; the necklace goes to Maliynn in Astranaar) [G63.0,71.5 Ashenvale]
+Click the Gleaming Crescent Pendant lying on the ground [QA98027 Gleaming Crescent Necklace] (1,600 XP; the necklace goes to Maliynn in Astranaar) [G63.0,71.5 Ashenvale]
 Run back north-east to Forest Song [G85.2,44.7 Ashenvale]
 At [TAR3848 Kayneth Stillwind], [QT1011] [QA1012 Insane Druids] (2,350 XP now. 1012 = the three druids at the camp you just left, 3,200 XP: two more 30-unit legs, worth it) [G85.2,44.7 Ashenvale]
 At [TAR221269 Maseara Autumnmoon], [QT98418] [QT98417] (2,450 XP each; 98417 only if you found the scroll) [G86.3,45.8 Ashenvale]
@@ -54,7 +54,7 @@ At [TAR3691 Raene Wolfrunner], [QT1029] [QA1030 Raene's Cleansing] (230 XP now. 
 At [TAR3894 Pelturas Whitemoon], [QT1035] (3,050 XP) [G37.4,51.8 Ashenvale]
 [OC][A Shaman] |cffffcc00Gear (1035):|r |cff66ff66Snapbrook Armor|r (leather chest 94 armor +4 Str +9 Spi) is a small step up over Bone-studded Leather and level with Blackrock Harness: take it if you wear either. Luminescent Amice is cloth (+4 Int +6 Sta) and Beastial Manacles mail: pass
 [OC][A Hunter] |cffffcc00Gear (1035):|r Snapbrook Armor (+4 Str +9 Spi) only if your chest is under 94 armor with no Agility or AP; Luminescent Amice (cloth) and Beastial Manacles (mail) are no use - vendor
-At [TAR3961 Maliynn], [QT98027] (2,350 XP) [G36.6,50.0 Ashenvale]
+At [TAR3961 Maliynn], [QT98027] (1,600 XP) [G36.6,50.0 Ashenvale]
 [OC]|cffffcc00Gear (98027):|r both of you wear the |cff66ff66Replica Crescent Necklace|r (neck +3 Agi +3 Spi) unless your neck has more Agility
 [OC]|cffffffffThe south: Krolg and Ran Bloodtooth|r  -  Lake Mystral's furbolg camp, 25 units south-east of Astranaar
 Run south-east to Krolg on the north shore of Lake Mystral [G50.8,75.1 Ashenvale]

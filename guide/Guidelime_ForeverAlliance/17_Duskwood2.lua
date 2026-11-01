@@ -70,7 +70,7 @@ At [TAR289 Abercrombie], [QT133] [QA134 Ogre Thieves] [G28.1,31.5 Duskwood]
 [OC]Ogre Thieves (134): Abercrombie's Crate sits in the Vul'Gol ogre camp, 45 units south (Splinter Fist ogres: Fire Weavers 26-27 are casters, Taskmasters 27-28, Warriors 29-30). |cff66ff66normal|r, but it is a camp - pull singly and do not run through it
 Loot Abercrombie's Crate in the ogre camp [QC134] [G33.4,76.3 Duskwood]
 [O]If you hold Merrick's Bow, right-click it [QA96138 Merrick's Bow] and kill 8 Splinter Fist Warriors and 4 Splinter Fist Taskmasters right here [QC96138] [G35.3,79.3 Duskwood]
-[O]If you hold Ira's Dagger, right-click it [QA96137 Ira's Dagger] - 1,950 XP, but |cffffcc00extra farming|r: 10 Young Black Ravagers and 7 Black Ravagers, spiders (level 23-25) spread over the zone. The kills wait for town: the north-east group (64-70,25-35) has both kinds and is ~18 units from Darkshire [G33.4,76.3 Duskwood]
+[O]If you hold Ira's Dagger, right-click it [QA96137 Ira's Dagger] - 2,000 XP, but |cffffcc00extra farming|r: 10 Young Black Ravagers and 7 Black Ravagers, spiders (level 23-25) spread over the zone. The kills wait for town: the north-east group (64-70,25-35) has both kinds and is ~18 units from Darkshire [G33.4,76.3 Duskwood]
 At [TAR289 Abercrombie], [QT134] [QA160 Note to the Mayor] [G28.1,31.5 Duskwood]
 [OC]Run back to Darkshire (~46 units)
 
@@ -82,7 +82,7 @@ At [TAR263 Lord Ello Ebonlocke], [QT160] [QA251 Translate Abercrombie's Note] [G
 At [TAR268 Sirra Von'Indi], [QT251] [QA401 Wait for Sirra to Finish] [G72.6,47.6 Duskwood]
 [OC]|cffffcc00Timer:|r Sirra needs a moment to finish the translation and the DB gives no length. Use it: repair, restock, do the optional spider kills below if you hold the Dagger, hand in the optional Bow and Dagger, then speak to her again
 [O]If you hold Ira's Dagger, kill 10 Young Black Ravagers and 7 Black Ravagers in the north-east group [QC96137] [G66.1,28.7 Duskwood]
-[O]At [TAR268 Sirra Von'Indi], [QT96138] [QT96137] (only if you did them: 2,300 and 1,950 XP) [G72.6,47.6 Duskwood]
+[O]At [TAR268 Sirra Von'Indi], [QT96138] [QT96137] (only if you did them: 2,300 and 2,000 XP) [G72.6,47.6 Duskwood]
 [O]At [TAR268 Sirra Von'Indi], [QT98447] if you took The Valor Family part 2 in chapter 14 and it completed from the Lost weapons (2,200 XP) - the DB has no objective text for it; abandon it [QS98447] if it never completes [G72.6,47.6 Duskwood]
 At [TAR268 Sirra Von'Indi], [QT401] [QA252 Translation to Ello] [G72.6,47.6 Duskwood]
 At [TAR263 Lord Ello Ebonlocke], [QT252] [QA253 Bride of the Embalmer] [G71.9,46.4 Duskwood]
