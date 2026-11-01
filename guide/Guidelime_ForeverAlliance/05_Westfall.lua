@@ -1,6 +1,6 @@
 Guidelime.registerGuide([[
 [N 17-18 Westfall]
-[D Forever Alliance 1-30 (Braedyn)\\Tram to Stormwind, the Dwarven District pickups, then Westfall with Alba Fairmoon's new chain folded into the classic loops. 17 Oct 2026: added Report to Gryan Stoutmantle (109).]
+[D Forever Alliance 1-30 (Braedyn)\\Tram to Stormwind, the Dwarven District pickups, then Westfall with Alba Fairmoon's new chain folded into the classic loops. 17 Oct 2026: added Report to Gryan Stoutmantle (109). 1 Nov: Cozy Sleeping Bag chain start at Alexston Farmstead.]
 [GA Alliance]
 [OC]|cffffffffStormwind - Dwarven District|r
 [OC]The tram drops you in the Dwarven District. Everything here is within two minutes of the tram exit [G73.1,49.2 Stormwind City]
@@ -84,6 +84,8 @@ Kill 7 [TAR127 Murloc Tidehunter] on the beach north of the lighthouse [QC152,3]
 Kill 7 [TAR517 Murloc Oracle] as you grind north along Longshore [QC152,4] [G28,65 Westfall]
 [OC]Continue north to the Gold Coast Quarry
 Kill 6 [TAR1426 Riverpaw Miner] in the quarry [QC92745,2] [G29.8,48 Westfall]
+Ride east from the quarry to Alexston Farmstead and click the Burned-Out Remains in the cart wreckage, [QA79008 ... and that note you found] (1,750 XP at its Barrens hand-in on the Razorfen Kraul trip, chapter 26; this starts the Cozy Sleeping Bag chain, a +3% XP buff finished in the 30-40 guide - one log slot until then) [G37.4,50.7 Westfall]
+[OC]Back west to the coast
 Kill 7 [TAR171 Murloc Warrior] on the beach north of the quarry [QC152,2] [G28,38 Westfall]
 [OC]Follow the coast round to the north beach
 Kill 7 [TAR126 Murloc Coastrunner] on the north beach [QC152,1] [G48,9.5 Westfall]
