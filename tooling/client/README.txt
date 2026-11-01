@@ -2,6 +2,8 @@ Forever client tables (DB2 -> CSV) from wago.tools, pinned per build. Fetched wi
   curl -A "Mozilla/5.0" "https://wago.tools/db2/<Table>/csv?build=<build>"
 (works from a shell; https://wago.tools/api/builds lists the builds under product "wowf").
 
+1.60.1.70707/  (build of 30 Oct 2026, fetched 1 Nov 2026) - same five tables. Diff from 70685: Item.csv +106 ids, 1 changed
+               row; SkillLineAbility only enchanting rows at skill 360 and three removed rows; QuestXP, QuestInfo, TaxiNodes identical.
 1.60.1.70685/  (build of 28 Oct 2026, fetched 29 Oct 2026)
   QuestXP.csv            quest XP by quest level (ID) x difficulty tier (Difficulty_1..7); fallback for quests with no Wowhead XP
   SkillLineAbility.csv   per recipe spell: SkillLine (185 Cooking, 129 First Aid, 356 Fishing), TrivialSkillLineRankLow = yellow,
