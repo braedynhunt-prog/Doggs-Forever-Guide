@@ -9,6 +9,8 @@ A [Guidelime](https://github.com/max-ri/Guidelime) levelling guide for **WoW For
 3. Unzip it into `World of Warcraft\_classic_era_\Interface\AddOns\` so you end up with `Interface\AddOns\Guidelime_ForeverAlliance\`.
 4. Restart the game, open Guidelime and pick **Forever Alliance 1-30**.
 
+**Skyborne Protection Warrior?** The same route rebuilt for a Skyborne warrior (1H + shield, Skinning + Mining) is `Guidelime_ForeverWarrior.zip` in the same release: it starts on Zephras Isle, joins the Alliance route at Loch Modan, and picks **Forever Warrior 1-30** in Guidelime. It is generated from the Alliance chapters by `tooling/build_variant.py` (see `docs/warrior-build-2026-11-01.md`); it has not been played yet, and its unverified lines say so.
+
 ## What it covers
 
 - Every new-to-Forever Alliance zone, dungeon and hub reachable in the bracket: Northshire to Westfall, Hall of Thanes, Deadmines, Ruins of Lordaeron, Loch Modan, Redridge, Darkshore, Ashenvale + Blackfathom Deeps, Duskwood, the Stockade, Wetlands, Darnassus, Excavation Site, Hillsbrad, Gnomeregan, Razorfen Kraul.

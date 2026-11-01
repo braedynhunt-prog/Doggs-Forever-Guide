@@ -1,6 +1,6 @@
 # Forever Warrior 1-30 (Skyborne Protection Warrior): build record, 1 Nov 2026
 
-Status: **Phases 0-2 done, Phase 3 (overlay) in progress, Phase 4 (build) not run.** Plan: `docs/warrior-build-plan-2026-11-01.md`. Overlay spec: `docs/warrior-overlay-spec-2026-11-01.md`. The addon `guide/Guidelime_ForeverWarrior/` does not exist until Phase 4 builds it with `python tooling/build_variant.py tooling/variants/skyborne_warrior/variant.json`.
+Status: **built, 1 Nov 2026 (all four phases done).** The addon is `guide/Guidelime_ForeverWarrior/` with `Guidelime_ForeverWarrior.zip` beside it; rebuild after any change to `tooling/variants/skyborne_warrior/` with `python tooling/build_variant.py tooling/variants/skyborne_warrior/variant.json`. Plan: `docs/warrior-build-plan-2026-11-01.md`. Overlay spec: `docs/warrior-overlay-spec-2026-11-01.md`. The addon `guide/Guidelime_ForeverWarrior/` does not exist until Phase 4 builds it with `python tooling/build_variant.py tooling/variants/skyborne_warrior/variant.json`.
 
 ## Data used (all fresh on 1 Nov 2026, `python tooling/check_sources.py`: every row OK/INFO)
 - QuestieDB Forever 1.0.9 (26 Oct), decoded 29 Oct: `tooling/qdb/*.json`.
@@ -50,6 +50,16 @@ Mainland (overlay, Phase 3)
 19. Exploring the Alliance: Tyrande in Darnassus at 23-24, hand-in to Bolvar at 26 (Cloak of the Honored Guest: 14 armor +1 Sta +1 AP).
 20. The prot gear picks (reasoning-only weights): whether the 1H + shield picks feel right in play; Defense's real value at 20-30.
 
-## Phase 3 and 4 (to be filled in)
-- Overlay blocks A (02-09), B (10-17), C (18-26): reports and review notes.
-- Build, checks, zip, TOC notes, baselines `tooling/check_guide_baseline_Guidelime_ForeverWarrior.txt` / `verify_baseline_Guidelime_ForeverWarrior.txt`.
+## Phase 3: the overlay (chapters 02-26)
+Three Opus subagents (blocks 02-09, 10-17, 18-26) wrote `tooling/variants/skyborne_warrior/overlay/<key>.txt`, 291 operations in all, after the builder gained a literal-text anchor (`T <text>`) for untagged notes. What the overlay does: restores the route steps the builder dropped with the Dwarf/Human tags (Kadrell's Rat Catching and Stormpike's Task, the Thelsamar-Ironforge flights in place of Honor Students, Dungar's flights, the tram hop), rewrites every carry-over log and check line, adds the warrior class thread (Wu Shen in 05/07/10/15/18/25, Kelv Sternhammer in 02/03/04/24, Arias'ta Bladesinger in 11/20; `[QC93963,4]` at Tyrande in 11 and `[QT93963]` at Bolvar in 15; `[QT98021]` at Gryan in 05; 1698 at Wu Shen in 10, the Rethban Gauntlet and The Shieldsmith at Yorus in 10, `[QT1702]` at Furen in 15), replaces the Leatherworking decision (14) with the Skinning + Mining note, rewords every shaman / hunter / duo note into tank notes (Defensive Stance, Thunder Clap, Taunt, Shield Block, Shield Bash), places `@gear-dungeon` loot calls per boss in 03, 07, 08, 13, 15, 22, 24, 26 (no trash groups), and adds hand notes for fixed rewards and weak picks. Block C made one flow change: the Expert First Aid book is bought at Stromgarde on the chapter-19 Arathi hop (the shaman bought it on a chapter-25 trip that drops). The build report lists 29 remaining flagged lines, all mob or quest names (Stonesplinter Shaman, A Hunter's Boast, Totem of Infliction, Spirit Healer and the like).
+
+## Phase 4: the build
+- `python tooling/build_variant.py tooling/variants/skyborne_warrior/variant.json`: 28 chapters (00s, 00t, 00u, 02-26), 270 lines dropped, 48 stripped, 291 overlay operations, 83 generated gear lines placed (0 unplaced, 0 unstated), 9 non-gear rewards worded by hand, zip and report written.
+- Checks on the folder (`FOREVER_GUIDE=guide/Guidelime_ForeverWarrior`): `check_guide.py` 1468 quest events, 0 flow problems, the 7 cosmetic findings = `tooling/check_guide_baseline_Guidelime_ForeverWarrior.txt`; `verify.py --all` 31 findings = `tooling/verify_baseline_Guidelime_ForeverWarrior.txt`, every one the same message as an Alliance finding (the Alliance has six more, all on its Dun Morogh chapters); `tarcheck.py` 20 lines, a subset of the Alliance's 30. The hook checks each folder against its own baselines and flags edits inside the generated folder.
+- Main-session review: every built chapter read end to end; a residual sweep for class, race and duo wording found one leftover (Chok'sul "tank friend", fixed through the overlay).
+- Not done, by design: installing into the WoW AddOns folder (only when asked); playing it (the test list above).
+
+## Known cosmetic leftovers
+- Deleted lines leave their blank line behind, so a few chapters have two blank lines in a row (02 after the Call of Fire lines, 25 before the harbour note).
+- Chapter 25's `[N]` title still says "Arathi" although the warrior's Arathi leg moved to chapter 19 (24's `[NX]` points at the title).
+- The one inline gear line left (23, Yeti Fur Cloak) already reads right for a warrior.

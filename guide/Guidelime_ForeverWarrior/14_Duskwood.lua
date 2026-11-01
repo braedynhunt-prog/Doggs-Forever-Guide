@@ -1,0 +1,82 @@
+Guidelime.registerGuide([[
+[N 25-26 Duskwood: Darkshire]
+[D Forever Warrior 1-30 (Braedyn)\\Sentinel Hill to Duskwood on foot, Darkshire's pickups and flight path, the Look to the Stars, Night Watch and worgen loops, one sweep west through the ogre mound, Raven Hill and the cemetery, then the Moonbrook footlocker and every hand-in.]
+[GA Alliance]
+[OC]|cffffffffLevel 25|r  -  you stand at Sentinel Hill with Blackfathom behind you; hearth = Sentinel Hill, and it stays there. This is solo-able open-world questing in Duskwood: 19 quests worth about 25,000 XP (24,700 once you are 26, where three level-20 quests pay 80%) plus the kills between them. It should take you to level 26 by the last hand-in. Darkshire's flight path is not known yet, so you walk in; the chapter ends in Darkshire
+[OC]|cffffcc00Shape of the trip:|r (1) walk in via Sven's camp - the wolf quest is done on the spot; (2) Darkshire: pickups, flight path, shops; (3) east loops - Blind Mary's looking glass and the Night Watch skeletons in the south-east graveyard, then the worgen west of town; (4) one sweep west - Twilight Grove, the ogre mound, Raven Hill, the cemetery, back to Twilight Grove, then the Hearthstone; (5) the Moonbrook footlocker, a flight back, and every hand-in at once. Most hand-ins wait for step 5, so keep finished quests in the log
+[OC]|cffffcc00Sources:|r quests, levels, XP, drops and coordinates are from the Forever DB; where a drop rate is missing the line says so. The DB has no road data, so the walking lines name landmarks and coordinates rather than turns. Duskwood mobs: spiders and wolves 18-22, skeletons 21-27, ghouls 24-29, worgen 27-29, ogres 27-30; none of the quests below needs an elite
+[OC]|cffffcc00Supplies:|r repair and empty your bags. Darkshire has a repair vendor (Avette Fellwood) and a general goods vendor, Mabel Solaj, with water; you reach both before the long loops, so Sentinel Hill needs no stop
+[OC]|cffffcc00Level 25 - professions:|r keep Skinning + Mining to 30. The Guard's mail set (Blacksmithing, bind on pickup; about 34 Shadowgem and 22 Pristine Leather for the set) is not worth switching for - check the Auction House for a cheap Guard's piece only out of curiosity
+
+[OC]|cffffffffThe walk in|r  -  leave Westfall by the Duskwood road and enter at the west edge of the zone. Sven's camp (7.7,33.2) is where the wolf quest lives; your way east then passes Raven Hill (18,56) and Twilight Grove (45,67) before Darkshire. Nothing else starts out here yet (the Sven chain starts from Darkshire, chapter 17), so after the wolves run through
+At [TAR893 Lars] in Sven's camp, [QA226 Wolves at Our Heels] (12 Starving and 8 Rabid Dire Wolves, level 19-21: |cff66ff66normal|r - about 70 wolf spawn points, the north-west corner round the camp is thick with them) [G7.7,33.2 Duskwood]
+Kill 12 Starving Dire Wolves and 8 Rabid Dire Wolves in the corner north-east of the camp [QC226] [G12.5,28.5 Duskwood]
+At [TAR893 Lars], [QT226] (Flash Bundle: a use item, 55-71 fire damage plus 12 every 2 seconds for 8 seconds, 2 minute cooldown - keep it as an emergency AoE) [G7.7,33.2 Duskwood]
+[OC]Run east to Darkshire, past Raven Hill and Twilight Grove. Spiders in the strip west of Raven Hill and the cemetery mobs pay off later in the chapter; today they only slow you down, so run through unless something blocks the road
+
+[OC]|cffffffffDarkshire|r  -  inn, town hall, every quest giver, the flight master and the shops sit at the east end of the zone (71-80, 43-49). The pickups below walk one loop with no backtracking
+At [TAR228 Avette Fellwood] (the bowyer), [QT95161] (175 XP; the letter from the Ruins of Lordaeron) [G73.0,44.4 Duskwood]
+[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Tarnished Locket|r (neck +6 Sta)
+At [TAR265 Madame Eva], [QA66 The Legend of Stalvan] [QA101 The Totem of Infliction] (10 Ghoul Fangs, 10 Skeleton Fingers and 5 Vials of Spider Venom: |cff66ff66normal|r - fangs from the four ghoul types of the cemetery, fingers from every skeleton type, vials from every spider type; drop rates are not in the DB. You collect them on the loops and the sweep and hand in at the last stop) [G75.8,45.3 Duskwood]
+At the flight master [TAR2409 Felicia Maline], get the [P Darkshire] flight path [G77.5,44.3 Duskwood]
+[OC]|cffffcc00Duskwood Missions (optional world event):|r Field Captain Palandar (the DB puts him at about 46,49) hands out eighteen daily Duskwood Mission quests (81730-81747, level 27, requires level 23, 1,650-2,200 XP each) while the Nightmare Incursion is up; they are flagged Daily Elite, i.e. group content through the Emerald Dream Portal at Twilight Grove. Not scripted here and not confirmed live on Forever: if the event is running and the tank friend is online, a few of them out-pay most single quests on this page
+At [TAR267 Clerk Daltry], [QT66] [QA67 The Legend of Stalvan] (the trail leads to the Old Footlocker in Moonbrook, Westfall - the last stop of the trip) [G72.5,46.9 Duskwood]
+At [TAR264 Commander Althea Ebonlocke], [QA56 The Night Watch] (8 Skeletal Warriors and 6 Skeletal Mages in the south-east graveyard: |cff66ff66normal|r) [G73.5,46.8 Duskwood]
+At [TAR268 Sirra Von'Indi] (the town historian), [QA96139 The Valor Family] (a Raven Hill Tome from the Memory of Valor near Raven Hill: |cff66ff66normal|r, picked up on the sweep) [G72.6,47.6 Duskwood]
+At [TAR663 Calor], [QA173 Worgen in the Woods] (6 Nightbane Shadow Weavers, level 27-28: |cff66ff66normal|r, non-elite; part 3 and 4, 222 and 223, are chapter 17's) [G75.8,47.6 Duskwood]
+At [TAR633 Elaine Carevin], [QA163 Raven Hill] (Jitters in Raven Hill takes it on the sweep; her Deliveries to Sven and The Hermit are chapter 17's - leave them) [G75.3,48.8 Duskwood]
+At [TAR3133 Herble Baubbletump] (Engineering and Mining Supplies), buy a Bronze Tube if he has one [G78.0,48.3 Duskwood]
+[OC]Look to the Stars (174, 175, 177, 181) is worth 6,950 XP and starts with that tube. If Herble is out, the other sources in the DB are the Boxes of Assorted Parts (Westfall 35.9,46.8, the Barrens) and the Stormwind auction house; with no tube, skip every Look to the Stars line below and 181's Zzarc' Vul stop
+At [TAR276 Viktori Prism'Antras], [QA174 Look To The Stars] [QT174] [QA175 Look To The Stars] [G79.8,48.0 Duskwood]
+
+[OC]|cffffffffEast loops|r  -  the Look to the Stars chain and the Night Watch skeletons share one trip south: Blind Mary is 11 units south of Viktori and the graveyard another 12 beyond her
+At [TAR302 Blind Mary] in Brightwood Grove, [QT175] [QA177 Look To The Stars] [G82.0,59.1 Duskwood]
+[OC]|cffffcc00Labels:|r Night Watch skeletons (level 21-23, 27 spawn points) |cff66ff66normal|r. The Insane Ghoul (26) has ONE spawn point in the DB and Mary's Looking Glass is a drop with no rate in the DB: if he is already dead, kill skeletons while he respawns. Keep every Skeleton Finger that drops (10 for Madame Eva)
+Kill 8 Skeletal Warriors and 6 Skeletal Mages in the graveyard [QC56] [G79.3,70.5 Duskwood]
+Kill the Insane Ghoul and loot Mary's Looking Glass [QC177] [G80.9,72.0 Duskwood]
+Back in town at [TAR276 Viktori Prism'Antras], [QT177] [QA181 Look To The Stars] (the finale is Zzarc' Vul's monocle, on the sweep) [G79.8,48.0 Duskwood]
+At [TAR264 Commander Althea Ebonlocke], [QT56] [QA57 The Night Watch] (15 Skeletal Fiends and 15 Skeletal Horrors in the cemetery on the sweep: |cffffcc00slowish|r - only 13 Fiend spawn points for 15 kills, so expect a respawn wait; kill Horrors while you wait) [G73.5,46.8 Duskwood]
+[OC]|cffffcc00Worgen|r (level 27-29, two to four above you): non-elite but they come in twos and threes, so pull one at a time and fight with your back to open ground. Dark Runners you kill before you take part 2 do not count
+Kill 6 Nightbane Shadow Weavers in the woods west of town [QC173] [G63.2,54.9 Duskwood]
+At [TAR663 Calor], [QT173] [QA221 Worgen in the Woods] [G75.8,47.6 Duskwood]
+Kill 12 Nightbane Dark Runners (level 28-29, 57 spawn points: |cff66ff66normal|r) [QC221] [G63.8,61.3 Duskwood]
+At [TAR663 Calor], [QT221] (he offers part 3, 222 - leave it for chapter 17) [G75.8,47.6 Duskwood]
+
+[OC]|cffffffffThe west sweep|r  -  one run: Twilight Grove, the southern ogre mound, Raven Hill, the cemetery, and back to Twilight Grove for the Hearthstone. Everything that hands in at Darkshire (Eva, Sirra, Althea, Viktori, Chef Grual) waits for the last stop, so keep the finished quests. Top up water and ammo before you leave town
+At [TAR888 Watcher Dodds] at Twilight Grove, [QA245 Eight-Legged Menaces] (15 Pygmy Venom Web Spiders, level 18-19: |cff66ff66normal|r, but none live near Dodds - the nearest are the 17 spawn points in the strip west of Raven Hill, so you kill them on the Raven Hill leg and hand in here on the way back) [G45.1,67.0 Duskwood]
+[OC]|cffffcc00Look to the Stars finale - risky:|r Zzarc' Vul is a level-30 ogre (not elite) with three possible spots in the southern ogre mound (35,80 / 36.8,83.8 / 38,80), among Splinter Fist ogres of level 27-30 that come in groups; the monocle is a drop with no rate in the DB. Pull one ogre at a time from the edge of the mound, never into it. Too hard or he is missing? Skip him and abandon 181 later - the other three parts are already paid
+Kill Zzarc' Vul and loot his Ogre's Monocle [QC181] [TAR300 Zzarc' Vul] [G36.6,81.3 Duskwood]
+At [TAR288 Jitters] in Raven Hill, [QT163] [QA5 Jitters' Growling Gut] (Chef Grual's errand, handed in at the last stop) [G18.4,56.4 Duskwood]
+[OC]|cffffcc00Spiders:|r Pygmy Venom Web Spiders (18-19), Venom Web Spiders (19-20) and Green Recluses (21-22) all live in the strip west of Raven Hill (x 8-17, y 40-72). The same kills fill Eight-Legged Menaces, the 6 Gooey Spider Legs Chef Grual wants, and the 5 Vials of Spider Venom for Eva - keep every leg and vial
+Kill 15 Pygmy Venom Web Spiders west of Raven Hill [QC245] [G11.5,55.0 Duskwood]
+Click the Memory of Valor and take the Raven Hill Tome [QC96139] [G21.1,55.6 Duskwood]
+[OC]The follow-up quest's text says you 'put down the Valor family ghosts', so expect spirits to attack when you take the tome (not in the DB). The Valor family lives on as four mobs, the Lost Knight (25), Defender (no level in the DB), Watcher (24) and Stalker (24), scattered over the zone with spawns round the cemetery and Raven Hill: the weapons they drop start the follow-up quests of chapter 17 (Merrick's Bow from the Lost Watcher, Ira's Dagger from the Lost Stalker). Loot what drops and keep it. Questie lists Grant's Shield and Silvia's Sword with a Horde/Shaman mask that makes no sense here and the atlas has no row for them, so this guide does not track those two
+[OC]|cffffcc00The cemetery|r (x 14-27, y 26-47): skeletons in the south half (Fiends 24-25 at 15-24,40-47, Horrors 23-24, Healers 26-27 further north), ghouls above them (Flesh Eaters 24-25 at 22-26,33-39 first; Bone Chewers 26-27 and Plague Spreaders 27-28 behind them; Brain Eaters 28-29 deepest - leave those unless they path to you). Pull in ones and twos
+Kill 15 Skeletal Fiends and 15 Skeletal Horrors (|cffffcc00slowish|r, see the pickup) [QC57] [G19.9,44.2 Duskwood]
+Collect 10 Ghoul Fangs, 10 Skeleton Fingers and 5 Vials of Spider Venom: fangs from Flesh Eaters, Bone Chewers, Brain Eaters and Plague Spreaders, fingers from every skeleton (Fiends and Horrors included), vials from your spider kills [QC101] [G23.8,37.1 Duskwood]
+[O]An Old History Book drops from 33 mob types in the DB, most of them Duskwood undead, worgen and ogres (rate not in the DB). If you have it by now, right-click it and take [QA337 An Old History Book] (1,500 XP; hand in to Milton Sheaf in Stormwind, chapter 15) [G23.8,37.1 Duskwood]
+At [TAR888 Watcher Dodds], [QT245] (if you are short of spiders, finish them round Raven Hill first) [G45.1,67.0 Duskwood]
+[OC]|cffffcc00Gear (245):|r Night Watch Gauntlets (mail hands +4 Str +1 Agi) - wear them unless your gloves are better
+|cFFfff8a3Hearth to [H Sentinel Hill]|r
+[OC]If the Hearthstone is still cooling down from the Blackfathom ride, run out of Duskwood by the Westfall road to Sentinel Hill instead
+
+[OC]|cffffffffMoonbrook|r  -  the Old Footlocker is in the Moonbrook schoolhouse in south-west Westfall, about 20 units from Sentinel Hill; Westfall's mobs are low level now
+At the Moonbrook schoolhouse click the Old Footlocker: [QT67] [QA68 The Legend of Stalvan] (take the Dusty Unsent Letter back to Daltry) [G41.5,66.7 Westfall]
+At [TAR523 Thor] on Sentinel Hill, |cFFfff8a3Fly to [F Darkshire]|r [G56.5,52.6 Westfall]
+
+[OC]|cffffffffHand-ins in Darkshire|r  -  everything at once, in the shortest walk from the flight master
+At [TAR276 Viktori Prism'Antras], [QT181] [G79.8,48.0 Duskwood]
+[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Belt of the Stars|r (mail waist +6 Str +6 Sta)
+At [TAR265 Madame Eva], [QT101] (Totem of Infliction: an off-hand charm with a 1% shadow proc, no use beside a shield - vendor) [G75.8,45.3 Duskwood]
+At [TAR272 Chef Grual], [QT5] [QA93 Dusky Crab Cakes] [QC93] [QT93] (6 Gooey Spider Legs; the Recipe: Gooey Spider Cake needs Cooking 110) [G73.8,43.5 Duskwood]
+[O]At [TAR272 Chef Grual], [QA240 Return to Jitters] (780 XP, 624 at level 26: Jitters stands in Raven Hill, which chapter 17 passes - hand in there) [G73.8,43.5 Duskwood]
+At [TAR272 Chef Grual], [QA90 Seasoned Wolf Kabobs] (2,000 XP, requires 18: 10 Lean Wolf Flanks from the dire wolves around Abercrombie's shack in chapter 17 plus Stormwind Seasoning Herbs from Felicia Gump in chapter 15 - nothing extra to walk for; the recipe reward, Cooking 100, is a skill-up filler) [G73.8,43.5 Duskwood]
+At [TAR267 Clerk Daltry], [QT68] [QA69 The Legend of Stalvan] (goes to Innkeeper Farley in Goldshire, chapter 15) [G72.5,46.9 Duskwood]
+At [TAR264 Commander Althea Ebonlocke], [QT57] (part 3, 58, is chapter 17's) [G73.5,46.8 Duskwood]
+At [TAR268 Sirra Von'Indi], [QT96139] (keep the Memories of Valor she gives you: right-click to read, no stats) [G72.6,47.6 Duskwood]
+[O]At [TAR268 Sirra Von'Indi], if she offers The Valor Family part 2, [QA98447 The Valor Family] (2,200 XP at level 27; the DB has no giver or ender for it, its text sends you back to Raven Hill 'with their weapons', so it waits for chapter 17's weapon quests) [G72.6,47.6 Duskwood]
+At [TAR270 Councilman Millstipe], [QA377 Crime and Punishment] (bring back the Hand of Dextren Ward from The Stockade, chapter 15; hand in at Darkshire in chapter 17; requires level 22) [G71.9,47.8 Duskwood]
+[OC]|cffffcc00Training:|r no trainer in Darkshire; your level-26 abilities wait for Wu Shen in Stormwind (chapter 15)
+[OC]|cffffcc00Check:|r new in the log: The Legend of Stalvan (69), Crime and Punishment (377) and, if you took them, An Old History Book (337), Return to Jitters (240) and The Valor Family (98447), on top of the carry from chapters 09-13. Next: the flight master is a few steps east - fly to Stormwind for the Stockade run
+[NX 26-27 The Stockade]
+]], "Forever Warrior 1-30")
