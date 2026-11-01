@@ -6,7 +6,7 @@ Addons to install in the Forever client alongside Guidelime (Forever flavor, v6.
 - DBM plus its dungeons/events package
 - Auctionator
 - RareScanner
-- Pawn: only if its dev ships a Forever build before release; otherwise use the stat weights in `docs/forever-enh-stat-weights.md` (Pawn scale string below, unverified)
+- Pawn: has an official Forever build (2.14.0 Forever flavor on CurseForge, checked 1 Nov 2026; default scales are the Classic Era ones, so import the scale below). Weights come from `docs/forever-enh-stat-weights.md`
 - Auto-vendor junk
 - Something that tells you which item to drop when your bags are full
 - Auction + vendor prices on item tooltips
