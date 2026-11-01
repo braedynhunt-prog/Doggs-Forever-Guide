@@ -138,6 +138,15 @@ def check_probe(src):
     return 'INFO', 'no upstream; %s %s. %s' % (src['converter'], 'exists' if ok else 'MISSING', src['notes']), [], []
 
 
+def check_polestar(src):
+    up = get_text(src['upstream']['url']).splitlines()
+    with open(rel(src['path']), encoding='utf-8') as f:
+        loc = f.read().splitlines()
+    if up == loc:
+        return 'INFO', 'identical to upstream (%d lines). %s' % (len(loc), src['notes']), [], []
+    return 'INFO', 'upstream differs (local %d lines, upstream %d lines). %s' % (len(loc), len(up), src['notes']), [], src['pull']
+
+
 def main():
     ap = argparse.ArgumentParser(description='Read-only freshness check of the guide data sources.')
     ap.add_argument('--quiet', action='store_true', help='print only non-OK rows')
@@ -159,7 +168,7 @@ def main():
 
     checks = [('questiedb', check_questiedb), ('client', with_wago(check_client)), ('wowhead_xp', with_wago(check_wowhead)),
               ('item_tooltips', with_wago(check_item_tooltips)), ('forever_db', check_forever_db),
-              ('pandaquest_forever', check_pandaquest), ('probe', check_probe)]
+              ('pandaquest_forever', check_pandaquest), ('probe', check_probe), ('polestar', check_polestar)]
     code = 0
     for sid, fn in checks:
         try:

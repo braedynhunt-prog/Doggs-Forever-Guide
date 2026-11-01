@@ -82,6 +82,18 @@
    "converter": "probe/probe2json.py",
    "pull": [],
    "notes": "After launch (4 Nov): install DoggsProbe, /reload before quitting, convert SavedVariables with probe2json.py."
+  },
+  {
+   "id": "polestar",
+   "path": "compare/polestar-0.2.6/01-zephras-isle.guide",
+   "source": "Polestar Guides (fitzforge/polestar, GPL-3, third-party, treat as untrusted): the Alliance Skyborne Zephras Isle route, used only as an ORDER reference for the warrior guide's 00s/00t chapters, never as data",
+   "local_read": "compare/polestar-0.2.6/README.txt (version 0.2.6 of 2026-10-19, pulled 2026-11-01)",
+   "upstream": {"method": "GET", "url": "https://raw.githubusercontent.com/fitzforge/polestar/next/guides/forever/alliance/skyborne/01-zephras-isle.guide", "read": "INFO \"identical\" if the raw file equals the local copy line for line, else INFO \"upstream differs\" with the line counts"},
+   "pull": [
+    "curl -A \"Mozilla/5.0\" -o compare/polestar-0.2.6/01-zephras-isle.guide <url>",
+    "update compare/polestar-0.2.6/README.txt with the new version and pull date, then diff the step order against guide/Guidelime_ForeverWarrior/00s_*.lua and 00t_*.lua"
+   ],
+   "notes": "Informational only. Order reference for docs/warrior-build-plan-2026-11-01.md Phase 2; quest ids and coordinates in it are verified against tooling/qdb before use."
   }
  ]
 }
