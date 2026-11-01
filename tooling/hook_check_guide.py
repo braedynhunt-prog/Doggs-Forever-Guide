@@ -13,7 +13,7 @@ report anything that is not in their baselines (tooling/check_guide_baseline.txt
 
 Reads the hook JSON on stdin (tool_input.file_path). Exit 0 = nothing new (or not a guide/variant file); exit 2 = new
 findings, printed to stderr so Claude Code feeds them back into the session. Never blocks the edit itself (PostToolUse).
-Run by hand for the same report:  python tooling/hook_check_guide.py --file guide/Guidelime_ForeverAlliance/02_LochModan.lua
+Run by hand for the same report:  python tooling/hook_check_guide.py --file guide/Guidelime_ForeverShaman/02_LochModan.lua
 """
 import sys, os, json, subprocess
 

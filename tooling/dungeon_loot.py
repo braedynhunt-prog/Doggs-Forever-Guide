@@ -18,7 +18,7 @@ Inputs (read only):
   tooling/client/<highest build>/Item.csv        ClassID / SubclassID / InventoryType per item id (wago.tools, wowf)
   weights/tooltips/<newest YYYY-MM-DD>.json      Wowhead Forever tooltips {name: {"id", "tooltip"}}; falls back to
   or weights/item_tooltips.json                  the 24 Sep 2026 scrape when no dated cache exists
-  guide/Guidelime_ForeverAlliance/*.lua          chapter text (mentions, baseline gear)
+  guide/Guidelime_ForeverShaman/*.lua          chapter text (mentions, baseline gear)
 
 Scoring: score_items.parse() + score_items.score(). The level-20 central / conservative sets are copied from
 score_items.main() (they are locals there and can't be imported). Levels 10, 15, 25 and 30 take the same sets with

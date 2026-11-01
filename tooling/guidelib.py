@@ -17,7 +17,7 @@ FOOTER / CHAINS / DEFAULT_CHAIN / RACES / RACE_WORDS follow that variant; baseli
 import re, json, os, glob
 
 BASE = os.environ.get('FOREVER_ATLAS', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
-ADDON = os.environ.get('FOREVER_GUIDE', os.path.join(BASE, 'guide', 'Guidelime_ForeverAlliance'))
+ADDON = os.environ.get('FOREVER_GUIDE', os.path.join(BASE, 'guide', 'Guidelime_ForeverShaman'))
 QDB = os.path.join(BASE, 'tooling', 'qdb')
 
 # Guidelime zone keys as check_guide normalises them (lower case, no spaces/apostrophes, leading "The" dropped)
@@ -40,8 +40,8 @@ GOTO_PAYLOAD = re.compile(r'(\d+\.?\d*)\s*,\s*(\d+\.?\d*)\s*(.*)$')
 TAR_TAG = re.compile(r'\[TAR(\d+) ([^\]]*)\]')
 A_TAG = re.compile(r'\[A ([^\]]+)\]')
 HEADER = 'Guidelime.registerGuide([[\n'
-FOOTER = '"Forever Alliance 1-30")'
-ALLIANCE_FOLDER = 'Guidelime_ForeverAlliance'
+FOOTER = '"Forever Shaman 1-30")'
+ALLIANCE_FOLDER = 'Guidelime_ForeverShaman'
 DEFAULT_CHAIN = 'Dwarf'   # verify.py's default chain
 
 # ---------------------------------------------------------------- variants (1 Nov 2026)

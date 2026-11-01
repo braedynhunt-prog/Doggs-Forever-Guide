@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 r"""For every line with a [TARid ...] and a [G x,y Zone], compare the [G] with the NPC's nearest Forever-DB spawn.
-python3 tooling\tarcheck.py [guide\Guidelime_ForeverAlliance\08_RuinsOfLordaeron.lua ...]   (no arguments = every chapter; prints lines off by > 3 units, or with no spawn)
+python3 tooling\tarcheck.py [guide\Guidelime_ForeverShaman\08_RuinsOfLordaeron.lua ...]   (no arguments = every chapter; prints lines off by > 3 units, or with no spawn)
 No arguments: the chapters of guidelib.ADDON (the Alliance folder unless FOREVER_GUIDE names another addon folder)."""
 import json, re, sys, os, math
 BASE = os.environ.get('FOREVER_ATLAS', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))

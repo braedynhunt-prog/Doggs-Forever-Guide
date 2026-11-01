@@ -1,9 +1,9 @@
-# Forever Alliance guide — standing rules (read before editing `Guidelime_ForeverAlliance`)
+# Forever Alliance guide — standing rules (read before editing `Guidelime_ForeverShaman`)
 
 These are Braedyn's rules for the guide, collected 27 Oct 2026 from the README, the build notes, the audits and the conversations that set them. Dates mark when a rule was set. If a rule here conflicts with an older note elsewhere, this file wins. Braedyn: correct anything that is wrong or missing.
 
 ## What the guide is
-- A Guidelime addon (`C:\Users\Braedyn\Documents\WoW Forever Atlas\guide\Guidelime_ForeverAlliance\`, zip beside it) for **Braedyn's Dwarf Shaman (2H Enhancement) on WoW Forever, Alliance**, levels 1-30 today, 30-40 later (built after launch from live data, not the datamined DB).
+- A Guidelime addon (`C:\Users\Braedyn\Documents\WoW Forever Atlas\guide\Guidelime_ForeverShaman\`, zip beside it) for **Braedyn's Dwarf Shaman (2H Enhancement) on WoW Forever, Alliance**, levels 1-30 today, 30-40 later (built after launch from live data, not the datamined DB).
 - **Efficient, not a speedrun** (27 Oct). A 10-minute detour that pays back over the next levels (a lasting food buff, a profession gate) is worth it. XP per hour still matters: no quest goes in without knowing its XP ("how do we know what quests are worth it otherwise?", 17 Oct).
 - **Human and Hunter lines are no longer maintained** (27 Oct, brother not playing). They stay in the files, hidden by `[GA Human]` / `[A Hunter]`; don't spend effort on them, don't delete them without asking.
 - Project docs hold notes only; code, data and the addon live on his PC under `WoW Forever Atlas\` (24 Sep).

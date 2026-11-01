@@ -5,9 +5,9 @@ A [Guidelime](https://github.com/max-ri/Guidelime) levelling guide for **WoW For
 ## Install (players)
 
 1. Install the **Guidelime** addon if you don't have it.
-2. Download `Guidelime_ForeverAlliance.zip` from the [latest release](https://github.com/braedynhunt-prog/Doggs-Forever-Guide/releases/latest).
-3. Unzip it into `World of Warcraft\_classic_era_\Interface\AddOns\` so you end up with `Interface\AddOns\Guidelime_ForeverAlliance\`.
-4. Restart the game, open Guidelime and pick **Forever Alliance 1-30**.
+2. Download `Guidelime_ForeverShaman.zip` from the [latest release](https://github.com/braedynhunt-prog/Doggs-Forever-Guide/releases/latest).
+3. Unzip it into `World of Warcraft\_classic_era_\Interface\AddOns\` so you end up with `Interface\AddOns\Guidelime_ForeverShaman\`.
+4. Restart the game, open Guidelime and pick **Forever Shaman 1-30**.
 
 **Skyborne Protection Warrior?** The same route rebuilt for a Skyborne warrior (1H + shield, Skinning + Mining) is `Guidelime_ForeverWarrior.zip` in the same release: it starts on Zephras Isle, joins the Alliance route at Loch Modan, and picks **Forever Warrior 1-30** in Guidelime. It is generated from the Alliance chapters by `tooling/build_variant.py` (see `docs/warrior-build-2026-11-01.md`); it has not been played yet, and its unverified lines say so.
 

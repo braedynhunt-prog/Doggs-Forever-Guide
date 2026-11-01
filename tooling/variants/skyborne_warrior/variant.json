@@ -4,9 +4,9 @@
  "folder": "Guidelime_ForeverWarrior",
  "group": "Forever Warrior 1-30",
  "d_prefix": "Forever Warrior 1-30 (Braedyn)",
- "source_folder": "guide/Guidelime_ForeverAlliance",
- "source_group": "Forever Alliance 1-30",
- "source_d_prefix": "Forever Alliance 1-30 (Braedyn)",
+ "source_folder": "guide/Guidelime_ForeverShaman",
+ "source_group": "Forever Shaman 1-30",
+ "source_d_prefix": "Forever Shaman 1-30 (Braedyn)",
  "class": "Warrior",
  "race": "Skyborne",
  "faction": "Alliance",
@@ -223,7 +223,7 @@
    ],
    [
     "X-Website",
-    "generated from Guidelime_ForeverAlliance; route references: sageguide.net, TUGs Forever, Polestar Guides 0.2.6"
+    "generated from Guidelime_ForeverShaman; route references: sageguide.net, TUGs Forever, Polestar Guides 0.2.6"
    ]
   ]
  },

@@ -21,8 +21,8 @@ variant.json schema (all keys required unless marked optional)
   folder               output addon folder name under guide\ (Guidelime_ForeverWarrior)
   group                Guidelime group string, the second argument of registerGuide ("Forever Warrior 1-30")
   d_prefix             the [D ...] header prefix written before the "\\" ("Forever Warrior 1-30 (Braedyn)")
-  source_folder        the route source, relative to the atlas folder (guide/Guidelime_ForeverAlliance)
-  source_group         the source's group string, replaced in every footer ("Forever Alliance 1-30")
+  source_folder        the route source, relative to the atlas folder (guide/Guidelime_ForeverShaman)
+  source_group         the source's group string, replaced in every footer ("Forever Shaman 1-30")
   source_d_prefix      the source's [D ...] prefix, replaced in every header
   class, race, faction the character (Warrior, Skyborne, Alliance)
   chain                the race-chain name guidelib uses for this folder (check_guide / verify --chain): Skyborne

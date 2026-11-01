@@ -4,7 +4,7 @@
 ## Author: Braedyn (with Claude)
 ## Version: 2026.11.01
 ## Dependencies: Guidelime
-## X-Website: generated from Guidelime_ForeverAlliance; route references: sageguide.net, TUGs Forever, Polestar Guides 0.2.6
+## X-Website: generated from Guidelime_ForeverShaman; route references: sageguide.net, TUGs Forever, Polestar Guides 0.2.6
 00s_ZephrasIsle1.lua
 00t_ZephrasIsle2.lua
 00u_DalaranToLochModan.lua

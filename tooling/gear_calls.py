@@ -19,7 +19,7 @@ Checks every gear call in the Dwarf chain of the guide against today's Forever i
                                              writes the variant's missing_tooltips.txt (fetch_tooltips.py --from-file)
 
 Inputs (read only):
-  guide/Guidelime_ForeverAlliance/*.lua     gl.chain_files('Dwarf'); lines with [A ...Hunter...] or [GA Human] skipped
+  guide/Guidelime_ForeverShaman/*.lua     gl.chain_files('Dwarf'); lines with [A ...Hunter...] or [GA Human] skipped
   weights/tooltips/<newest>.json (+ older)  dungeon_loot.tooltip_sources() / load_tooltips()
   data/zone_*.json                          Wowhead Forever quest rows: "itemchoices" [[itemId, count], ...] - the same
                                             source and field qinfo.py prints as "rewards: choice [...]"

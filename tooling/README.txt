@@ -6,7 +6,7 @@ environment variable to point elsewhere):
   ..\data\                     = atlas quests.json, entities.json, zone_*.json (from run.bat)
   tooling\qdb\*.json           = Questie's Classic DB converted with luatab.py (quest/npc/object/item.json; from Questie
                                  v11.38.0's Database\Classic\classic*DB.lua - rerun luatab.py on a newer Questie to refresh)
-  ..\guide\Guidelime_ForeverAlliance      = the addon folder check_guide.py reads (shared Shaman + Hunter guide since 25 Sep)
+  ..\guide\Guidelime_ForeverShaman      = the addon folder check_guide.py reads (shared Shaman + Hunter guide since 25 Sep)
   tooling\extra_quests.json     = optional hand-added atlas rows for quests the scrape missed ({"<questId>": {...atlas row...}})
 Run from anywhere, e.g.  python tooling\check_guide.py   (pool.py still expects to be run from inside tooling\ for qdb\).
 
@@ -78,7 +78,7 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
   hook_check_guide.py  Claude Code PostToolUse hook (.claude\settings.json, matcher Edit|Write|MultiEdit): after a .lua under guide\
                        is edited it runs check_guide.py and verify.py and returns only what is missing from the baselines on stderr
                        with exit 2, so the finding lands back in the session. Hook settings load when Claude Code starts.
-                       By hand: python tooling\hook_check_guide.py --file guide\Guidelime_ForeverAlliance\02_LochModan.lua
+                       By hand: python tooling\hook_check_guide.py --file guide\Guidelime_ForeverShaman\02_LochModan.lua
   Python: none was installed on the PC before 28 Oct 2026 (the Microsoft Store stub only); Python 3.12.10 is now at
                        %LOCALAPPDATA%\Programs\Python\Python312\ and first on the user PATH.
 
@@ -154,4 +154,4 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
   hook_check_guide.py  checks the edited file's own addon folder with that folder's baselines; flags edits inside a generated
                        folder; an edit under tooling\variants\<v>\ rebuilds that variant and checks it, but only once
                        guide\<folder>\ exists (the first real build is run by hand)
-  ..\weights\hunter_score.py   pinned to guide\Guidelime_ForeverAlliance (was the first Guidelime_Forever* match)
+  ..\weights\hunter_score.py   pinned to guide\Guidelime_ForeverShaman (was the first Guidelime_Forever* match)

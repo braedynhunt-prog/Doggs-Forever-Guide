@@ -5,7 +5,7 @@ Braedyn's levelling guide for his Dwarf Shaman (2H Enhancement) on WoW Forever, 
 Owner: Braedyn. He plays the guide and reports what breaks; you keep the files correct.
 
 ## Layout
-- `guide/Guidelime_ForeverAlliance/` — the addon: one `.lua` per chapter (`00a`…`26`), TOCs. `Guidelime_ForeverAlliance.zip` beside it is the installable copy; rebuild it after any guide edit.
+- `guide/Guidelime_ForeverShaman/` — the addon: one `.lua` per chapter (`00a`…`26`), TOCs. `Guidelime_ForeverShaman.zip` beside it is the installable copy; rebuild it after any guide edit.
 - `tooling/` — Python scripts and the data they read. `tooling/qdb/{quest,npc,object,item}.json` is the decoded QuestieDB **Forever** database (`qdb_classic/` is the old Classic one). `check_guide.py` is the static flow check; `tarcheck.py` checks `[TAR]` positions against DB spawns. Read `tooling/README` before using any of them.
 - `data/` — Wowhead quest-atlas scrape (`quests.json`, `entities.json`, `zone_*.json`). Source of quest XP. Wowhead now blocks the scraper; treat this as a frozen snapshot.
 - `weights/` — stat-weight model for a 2H Enhancement shaman (`enh_weights.py`, `score_items.py`).
@@ -23,7 +23,7 @@ Owner: Braedyn. He plays the guide and reports what breaks; you keep the files c
 - Data freshness: `tooling/sources.json` is the data manifest. Run `python tooling/check_sources.py` at the start of any plan that relies on game data, and state its result in the plan.
 - Lua files: ASCII only, LF line endings. Don't invent Guidelime tags.
 - Commit after each coherent change with a message saying which chapters changed and why. Don't rewrite history.
-- Don't touch the WoW `Interface\AddOns` folder unless asked. Installing = copying `guide/Guidelime_ForeverAlliance/` there, nothing else.
+- Don't touch the WoW `Interface\AddOns` folder unless asked. Installing = copying `guide/Guidelime_ForeverShaman/` there, nothing else.
 - When something can't be verified from the data, say so and put it on the in-game test list in the current audit doc rather than guessing.
 
 ## Lessons

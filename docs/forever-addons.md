@@ -20,7 +20,7 @@ Forever uses the modern client's rules: addons can display combat values (health
 - Leatrix Maps: player and cursor coordinates, unexplored areas, dungeon/flight point icons. Nothing to do with vendors, tooltips or other addons' minimap buttons.
 
 ## Install list
-1. **Guidelime** (Forever flavor, v6.008+) + `Guidelime_ForeverAlliance` + the **Questie** Forever bundle. The guide assumes all three.
+1. **Guidelime** (Forever flavor, v6.008+) + `Guidelime_ForeverShaman` + the **Questie** Forever bundle. The guide assumes all three.
 2. **Leatrix Plus** and **Leatrix Maps** (above).
 3. **DBM**, three packages, all with Forever files dated 26 Oct 2026:
    - DBM - Deadly Boss Mods (core, 12.1.18)

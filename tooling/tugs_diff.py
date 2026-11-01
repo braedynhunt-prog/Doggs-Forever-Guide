@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-r"""Compare TUGs' Forever Alliance Guidelime route with our Guidelime_ForeverAlliance guide.
+r"""Compare TUGs' Forever Alliance Guidelime route with our Guidelime_ForeverShaman guide.
 
 Usage:  python3 tooling\tugs_diff.py <GuideLime_TUGs_Forever folder> [outdir]
 Reads the atlas (data\quests.json + zone_*.json), Questie's Classic DB (tooling\qdb\quest.json) and
@@ -10,7 +10,7 @@ import re, json, os, sys, glob, csv
 from collections import OrderedDict, defaultdict
 
 BASE = os.environ.get('FOREVER_ATLAS', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
-OURS = os.path.join(BASE, 'guide', 'Guidelime_ForeverAlliance')
+OURS = os.path.join(BASE, 'guide', 'Guidelime_ForeverShaman')
 TUGS = sys.argv[1]
 OUT = sys.argv[2] if len(sys.argv) > 2 else os.path.join(BASE, 'compare')
 os.makedirs(OUT, exist_ok=True)
@@ -239,7 +239,7 @@ with open(os.path.join(OUT, 'tugs_20-35.tsv'), 'w', encoding='utf-8', newline=''
 
 # ---- summary markdown ---------------------------------------------------------------
 L = []
-L.append('# TUGs Forever 1.12 (file of 14 Oct 2026) vs Guidelime_ForeverAlliance (25 Sep 2026)\n')
+L.append('# TUGs Forever 1.12 (file of 14 Oct 2026) vs Guidelime_ForeverShaman (25 Sep 2026)\n')
 L.append('## Chapter chains\n')
 L.append('TUGs Dwarf: ' + ' -> '.join(TUGS_DWARF) + '\n')
 L.append('TUGs Human: ' + ' -> '.join(TUGS_HUMAN) + '\n')

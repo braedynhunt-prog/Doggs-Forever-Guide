@@ -1,5 +1,5 @@
 import re, glob, os, json, sys
-G = "/mnt/user-data/uploads/WoW Forever Atlas/guide/Guidelime_ForeverAlliance"
+G = "/mnt/user-data/uploads/WoW Forever Atlas/guide/Guidelime_ForeverShaman"
 BEAST = re.compile(r"wolf|boar|bear|leopard|crocolisk|raptor|razormaw|scytheclaw|screecher|plainstrider|kodo|worg|hyena|whelp|buzzard|condor|fleshripper|goretusk|wendigo|yeti|snapjaw|mangeclaw|vagash|frosthowl|daggerfang|den mother|sarltooth|bellygrub|nightbane|carnage|prowler|panther|tiger|gorilla|stag|lion|stalker|threshadon|lurker|turtle|dragonkin|drake", re.I)
 NOT = re.compile(r"cave stalker|leech stalker|ursa|foulweald|tarantula|stalvan|pathstalker|redridge thrasher", re.I)
 files = sorted(f for f in glob.glob(G + "/*.lua") if not os.path.basename(f).startswith("00"))
