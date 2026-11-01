@@ -18,10 +18,19 @@ Inputs (read only):
   guide/Guidelime_ForeverAlliance/*.lua          chapter text (mentions, baseline gear)
 
 Scoring: score_items.parse() + score_items.score(). The level-20 central / conservative sets are copied from
-score_items.main() (they are locals there and can't be imported). Levels 10 and 15 take the same sets with Int, Agi
-and the mace term replaced by enh_weights.weights() for that band (Spirit / SP / Expertise are held at the
-recommended values in every band, as docs/forever-enh-stat-weights.md does). Each chapter uses the band nearest
-its starting level.
+score_items.main() (they are locals there and can't be imported). Levels 10, 15, 25 and 30 take the same sets with
+Int and Agi replaced by enh_weights.weights() for that band (Spirit / SP / Expertise are held at the recommended
+values in every band, as docs/forever-enh-stat-weights.md does). Each chapter uses the band nearest its starting
+level. No mace term since 1 Nov 2026 (Dwarf Mace Specialization was removed from Forever on 17 Oct).
+
+Creatures per dungeon (1 Nov 2026): QuestieDB creatures spawned in the dungeon zone, plus every [TAR] id in the
+chapter, plus a hand list of bosses whose npc row has no spawn (Hall of Thanes, Ruins of Lordaeron, Excavation
+Site). Their drops are in item.json even when the spawn is missing. Trash in the two Forever dungeons without zone
+spawns is still unlisted.
+
+"Beats guide gear" compares with the items the guide calls out in green (|cff66ff66Name|r) on Shaman/Dwarf lines in
+this chapter or any earlier one - the guide's own "the call" convention. Drops whose required level is more than
+LEVEL_SLACK above the chapter's top level are left out.
 """
 import argparse, csv, datetime, glob, json, os, re, sys, unicodedata
 
@@ -37,17 +46,21 @@ from score_items import parse, score, usable  # noqa: E402
 from enh_weights import band_scenarios, weights as model_weights  # noqa: E402
 
 # ---------------------------------------------------------------- dungeon chapters
-# chapter file prefix -> QuestieDB zone id of the dungeon
+# chapter file prefix -> (QuestieDB zone id of the dungeon, creature ids to add by hand: bosses whose npc row has
+# no spawn in QuestieDB Forever 1.0.9, verified by name in npc.json on 1 Nov 2026)
 DUNGEONS = {
-    '03': 16919,   # Hall of Thanes
-    '07': 1581,    # The Deadmines
-    '08': 16611,   # Ruins of Lordaeron
-    '13': 719,     # Blackfathom Deeps
-    '15': 717,     # The Stockade
-    '22': 16732,   # Excavation Site
-    '24': 721,     # Gnomeregan
-    '26': 491,     # Razorfen Kraul
+    '03': (16919, [261306, 261311, 261316]),                     # Hall of Thanes: Faldrim Anvilmar, Plunder, Magmatus
+    '07': (1581, []),                                            # The Deadmines
+    '08': (16611, [256097, 250657, 250631, 250660, 256035, 250483]),  # Ruins of Lordaeron: Bjork, Rath'mael, The Abandoned,
+                                                                 #   The Baron, Viktor the Vile, Witherfang
+    '13': (719, []),                                             # Blackfathom Deeps
+    '15': (717, []),                                             # The Stockade
+    '22': (16732, [260326, 260322, 260325, 260808]),             # Excavation Site: Relic Guardian, Saltspine, Shadetooth,
+                                                                 #   Highland Horror
+    '24': (721, []),                                             # Gnomeregan
+    '26': (491, []),                                             # Razorfen Kraul
 }
+LEVEL_SLACK = 5   # hide drops whose required level is more than this above the chapter's top level
 
 # ---------------------------------------------------------------- what a Dwarf 2H Enhancement shaman can use (1-30)
 # Item.csv ClassID / SubclassID -> label. A tuple value restricts the row to those InventoryTypes
@@ -68,23 +81,27 @@ USABLE = {
 INVTYPE = {1: 'head', 2: 'neck', 3: 'shoulder', 5: 'chest', 20: 'chest', 6: 'waist', 7: 'legs', 8: 'feet', 9: 'wrist',
            10: 'hands', 11: 'finger', 12: 'trinket', 13: '1H', 16: 'back', 17: '2H', 21: 'main hand', 22: 'off hand'}
 
-# score_items.py slot names -> comparison group for the baseline (1H weapon slots compare with each other)
-SLOT_GROUP = {'Main Hand': '1H weapon', 'One-Hand': '1H weapon'}
+# score_items.py slot names -> comparison group for the baseline. 1H weapons compare with each other only: the build
+# is 2H, a 1H is the shield set (secondary), never a replacement for the 2H.
+SLOT_GROUP = {'Main Hand': '1H weapon (shield set)', 'One-Hand': '1H weapon (shield set)'}
+ONE_HANDED = ('1H axe', '1H mace', 'dagger', 'fist weapon')
 
 # ---------------------------------------------------------------- weights
-# Copied verbatim from score_items.main() (level-20 band).
-W20_CENTRAL = dict(wdps=14.0, str=2.0, ap=1.0, int=1.05, agi=0.85, spi=1.0, sta=0.0, sp=1.5, exp=3.0, mace_bonus=7.0)
-W20_CONSERVATIVE = dict(wdps=14.0, str=2.0, ap=1.0, int=1.05, agi=0.85, spi=0.5, sta=0.0, sp=0.5, exp=1.0, mace_bonus=7.0)
-BANDS = (10, 15, 20)
+# Copied verbatim from score_items.main() (level-20 band; no mace term since 1 Nov 2026).
+W20_CENTRAL = dict(wdps=14.0, str=2.0, ap=1.0, int=1.05, agi=0.85, spi=1.0, sta=0.0, sp=1.5, exp=3.0)
+W20_CONSERVATIVE = dict(wdps=14.0, str=2.0, ap=1.0, int=1.05, agi=0.85, spi=0.5, sta=0.0, sp=0.5, exp=1.0)
+BANDS = (10, 15, 20, 25, 30)
 
 
 def band_weights():
-    """{band: (central, conservative)}. 20 = score_items' sets; 10/15 = those with model Int/Agi/mace for the band."""
+    """{band: (central, conservative)}. 20 = score_items' sets; the other bands = those with model Int/Agi for the band."""
     out = {20: (W20_CENTRAL, W20_CONSERVATIVE)}
     scen = band_scenarios()
-    for b in (10, 15):
+    for b in BANDS:
+        if b == 20:
+            continue
         m, _ = model_weights(scen[b])
-        over = {k: round(m[k], 2) for k in ('int', 'agi', 'mace_bonus')}
+        over = {k: round(m[k], 2) for k in ('int', 'agi')}
         out[b] = (dict(W20_CENTRAL, **over), dict(W20_CONSERVATIVE, **over))
     return out
 
@@ -124,8 +141,17 @@ def tooltip_sources():
     out = [(p, os.path.splitext(os.path.basename(p))[0]) for p in dated]
     p = os.path.join(WEIGHTS_DIR, 'item_tooltips.json')
     if os.path.exists(p):
-        out.append((p, datetime.date.fromtimestamp(os.path.getmtime(p)).isoformat() + ' (file date)'))
+        out.append((p, fallback_date() + ' (sources.json fallback_date)'))
     return out
+
+
+def fallback_date():
+    """The 24 Sep scrape's date as recorded in tooling/sources.json (item_tooltips.fallback_date)."""
+    try:
+        srcs = json.load(open(os.path.join(HERE, 'sources.json'), encoding='utf-8'))['sources']
+        return next(s['fallback_date'] for s in srcs if s.get('id') == 'item_tooltips')
+    except (OSError, KeyError, StopIteration, ValueError):
+        return 'unknown'
 
 
 def load_tooltips(paths):
@@ -209,32 +235,43 @@ def build(only=None):
             return hit
         return None
 
-    # baseline candidates: tooltip items named on Gear:/Loot: lines (Dwarf shaman lines only), per chapter
-    gear_lines = {}
+    # baseline candidates: items the guide calls out in green (|cff66ff66Name|r) on Shaman/Dwarf lines, per chapter
+    green = {}
     for pre, fn, txt, lo, hi, title, ga in chs:
-        if ga == 'Human':
-            gear_lines[pre] = []
-            continue
-        ls = [l for _, l in gl.steps(txt) if ('Gear:' in l or 'Loot:' in l) and '[A Hunter]' not in l and '[GA Human]' not in l]
-        gear_lines[pre] = [l.lower() for l in ls]
+        names = set()
+        if ga != 'Human':
+            for _, l in gl.steps(txt):
+                if '[A Hunter]' in l or '[GA Human]' in l:
+                    continue
+                for m in re.finditer(r'\|cff66ff66([^|]+)\|r', l, re.I):
+                    names.add(m.group(1).strip().lower())
+        green[pre] = names
 
     lines = ['# Dungeon loot check - %s' % datetime.date.today().isoformat(), '',
              'Report only (tooling/dungeon_loot.py). Gear a Dwarf 2H Enhancement shaman can use at 1-30 that QuestieDB lists as '
-             'dropping from creatures inside each dungeon, scored with weights/score_items.py (AP-equivalent; central and '
-             'conservative weight sets, band nearest the chapter\'s starting level). "Beats guide gear" compares the central '
-             'score with the best item in the same slot named on a Gear:/Loot: line (Shaman/Dwarf lines) in this chapter or '
-             'any earlier one. Mail, plate, shields, swords, polearms, ranged and cloth other than cloaks are left out.', '']
+             'dropping from creatures inside each dungeon (zone spawns, the chapter\'s [TAR] ids and a hand list of spawnless '
+             'bosses), scored with weights/score_items.py (AP-equivalent; central and conservative weight sets, band nearest '
+             'the chapter\'s starting level; no mace term). "Beats guide gear" compares the central score with the best item '
+             'in the same slot that the guide calls out in green on a Shaman/Dwarf line in this chapter or any earlier one. '
+             '1H weapons are the shield set (secondary) and compare only with each other. Drops more than %d levels above '
+             'the chapter\'s top level are left out. "Mentioned" = the full name, or the first word followed by "(" (the '
+             'helm lines\' short form), appears in the chapter. Mail, plate, shields, swords, polearms, ranged and cloth '
+             'other than cloaks are left out.' % LEVEL_SLACK, '']
     no_tt_lines = []
     order = [c for c in chs if c[0] in DUNGEONS and (only is None or c[0] == only)]
     if only is not None and not order:
         sys.exit('chapter %s is not a dungeon chapter (%s)' % (only, ', '.join(sorted(DUNGEONS))))
 
     for pre, fn, txt, lo, hi, title, ga in order:
-        zid = str(DUNGEONS[pre])
+        zid, extra = DUNGEONS[pre]
+        zid = str(zid)
         band = nearest_band(lo)
         wc, wk = bw[band]
         low_txt = txt.lower()
-        npcs = {int(k): r for k, r in npc.items() if isinstance(r[6], dict) and zid in r[6]}
+        tar_ids = {int(x) for x in re.findall(r'\[TAR(\d+)', txt)}
+        ids = {int(k) for k, r in npc.items() if isinstance(r[6], dict) and zid in r[6]} | set(extra) | tar_ids
+        npcs = {i: npc[str(i)] for i in ids if str(i) in npc}
+        n_zone = sum(1 for i in npcs if zid in (npcs[i][6] or {}) if isinstance(npcs[i][6], dict))
 
         # drops kept by the usability filter
         kept = {}
@@ -253,22 +290,26 @@ def build(only=None):
         base = {}
         for p2, *_ in [c for c in chs if c[0] <= pre]:
             for lname, (name, rec) in tt_name.items():
-                if any(lname in l for l in gear_lines.get(p2, [])):
+                if lname in green.get(p2, set()):
                     it = parse(name, rec)
                     if not usable(it)[0]:
                         continue
                     base.setdefault(SLOT_GROUP.get(it['slot'], it['slot']), {})[name] = score(it, wc)
 
         rows = []
+        capped = 0
         for k in kept.values():
             c = k['cls']
             req = item[str(k['id'])][9] if len(item[str(k['id'])]) > 9 else None
             slot = INVTYPE.get(c[2], 'inv%d' % c[2])
             k['slottype'] = slot if k['typ'] in ('misc',) else ('%s %s' % (slot, k['typ']) if k['typ'] in ('leather', 'cloth') else k['typ'])
+            if k['typ'] in ONE_HANDED:
+                k['slottype'] += ' (shield set)'
             t = tooltip_for(k['id'], k['name'])
             k['tt'] = t is not None
-            k['mentioned'] = k['name'].lower() in low_txt
-            k['elsewhere'] = [p for p, _, t2, *_ in chs if p != pre and k['name'].lower() in t2.lower()]
+            nm_low = k['name'].lower()
+            k['mentioned'] = nm_low in low_txt or (nm_low.count(' ') >= 2 and (nm_low.split(' ')[0] + ' (') in low_txt)
+            k['elsewhere'] = [p for p, _, t2, *_ in chs if p != pre and nm_low in t2.lower()]
             if t:
                 it = parse(t[0], t[1])
                 k['req'] = it['req'] or req
@@ -287,14 +328,19 @@ def build(only=None):
                 k['sc'] = k['sk'] = None
                 k['beats'] = 'no tooltip'
                 k['drop'] = 'unknown'
+            if k['req'] and k['req'] > hi + LEVEL_SLACK:
+                capped += 1
+                continue
             rows.append(k)
 
         lines += ['## %s - %s (levels %d-%d)' % (fn[:-4], ascii(title), lo, hi), '',
-                  '- Dungeon zone id %s; creatures in QuestieDB: %d; usable gear drops: %d (%d not mentioned in the chapter); '
-                  'weights: level-%d band' % (zid, len(npcs), len(rows), sum(1 for r in rows if not r['mentioned']), band), '']
+                  '- Dungeon zone id %s; creatures: %d (%d spawned in the zone, %d from the chapter\'s [TAR] ids and the hand list); '
+                  'usable gear drops: %d (%d not mentioned in the chapter; %d more hidden as req > %d); weights: level-%d band'
+                  % (zid, len(npcs), n_zone, len(npcs) - n_zone, len(rows), sum(1 for r in rows if not r['mentioned']),
+                     capped, hi + LEVEL_SLACK, band), '']
         if not npcs:
-            lines += ['QuestieDB has no creatures for this dungeon - browser pull needed', '']
-            no_tt_lines.append('%s: (no creatures in QuestieDB)' % fn[:-4])
+            lines += ['No creatures found for this dungeon (no zone spawns, no [TAR] ids, no hand list)', '']
+            no_tt_lines.append('%s: (no creatures)' % fn[:-4])
             continue
 
         def drs(r):
@@ -335,9 +381,12 @@ def build(only=None):
               '- Client Item table: build %s - tooling/client/%s/Item.csv' % (cbuild, cbuild),
               '- Tooltips (newest file wins per item): ' + '; '.join('%s dated %s - %d items taken' % (
                   os.path.relpath(p, gl.BASE).replace('\\', '/'), d, tt_used[p]) for p, d in tt_srcs),
-              '- Weights: level-20 central %s; conservative Spi %.1f SP %.1f Exp %.1f; bands 10/15 Int/Agi/mace from enh_weights: %s' % (
+              '- Weights: level-20 central %s; conservative Spi %.1f SP %.1f Exp %.1f; no mace term (spec removed 17 Oct 2026); '
+              'other bands take Int/Agi from enh_weights: %s' % (
                   ' '.join('%s=%g' % kv for kv in W20_CENTRAL.items()), W20_CONSERVATIVE['spi'], W20_CONSERVATIVE['sp'], W20_CONSERVATIVE['exp'],
-                  '; '.join('L%d int=%g agi=%g mace=%g' % (b, bw[b][0]['int'], bw[b][0]['agi'], bw[b][0]['mace_bonus']) for b in (10, 15))),
+                  '; '.join('L%d int=%g agi=%g' % (b, bw[b][0]['int'], bw[b][0]['agi']) for b in BANDS if b != 20)),
+              '- Creatures: QuestieDB zone spawns + the chapter\'s [TAR] ids + the DUNGEONS hand list of spawnless bosses. Trash in '
+              'Ruins of Lordaeron and Excavation Site has no zone spawn in QuestieDB and is not listed.',
               '- Drop chances come only from tooltip text ("Drop Chance"); Wowhead shows them only for single-dropper items.', '']
     return '\n'.join(to_ascii(l) for l in lines)
 

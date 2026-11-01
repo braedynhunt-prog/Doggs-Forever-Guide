@@ -120,7 +120,8 @@ class Scenario:
     weapon_speed: float
     gear: dict = field(default_factory=dict)      # str agi sta int spi ap sp exp hitpct critpct
     talents: dict = field(default_factory=dict)   # ts (0-5), md (0-3), sf (0/1), ew (0-3)
-    mace: bool = True
+    mace: bool = False                             # 17 Oct 2026: Dwarf Mace Specialization removed from Forever (Earth Fury);
+                                                   # True only in sensitivity.py's "mace spec restored" case
     from_behind: bool = False
     mob_level_delta: int = 0                       # mob level minus player level
     # environment
@@ -264,9 +265,13 @@ def weights(s: Scenario, h=2.0, optimise_policy=True):
     # weapon dps
     s2 = copy.deepcopy(s); s2.weapon_dps += 0.5
     out["wdps"] = (kills_per_hour(s2) - base) / 0.5
-    # mace vs not
-    s2 = copy.deepcopy(s); s2.mace = not s.mace
-    out["mace_bonus"] = (base - kills_per_hour(s2)) * (1 if s.mace else -1)
+    # mace spec bonus: 0 since 17 Oct 2026 (Dwarf Mace Specialization removed); only computed when a scenario
+    # restores the spec (sensitivity.py "mace spec restored")
+    if s.mace:
+        s2 = copy.deepcopy(s); s2.mace = False
+        out["mace_bonus"] = base - kills_per_hour(s2)
+    else:
+        out["mace_bonus"] = 0.0
     ap = out["ap"]
     res = {k: v / ap for k, v in out.items()}
     res["_policy"] = (s.policy_shocks, s.policy_ls)
@@ -278,15 +283,24 @@ def weights(s: Scenario, h=2.0, optimise_policy=True):
 # ---------------------------------------------------------------------------------------
 def band_scenarios():
     return {
-        10: Scenario(level=10, weapon_dps=8.33, weapon_speed=2.7, mace=True,
+        10: Scenario(level=10, weapon_dps=8.33, weapon_speed=2.7,
                      gear=dict(str=1, spi=1),                                   # Coldridge Hammer, rest statless
                      talents=dict(md=1)),                                        # first point: Mental Dexterity
-        15: Scenario(level=15, weapon_dps=11.21, weapon_speed=3.3, mace=False,
+        15: Scenario(level=15, weapon_dps=11.21, weapon_speed=3.3,
                      gear=dict(str=3, agi=2, sta=8, int=2),                      # Mountaineer's Greataxe, Bingles' gloves, Robe of the Keeper
                      talents=dict(md=3, ts=3)),
-        20: Scenario(level=20, weapon_dps=19.71, weapon_speed=3.5, mace=True,
+        20: Scenario(level=20, weapon_dps=19.71, weapon_speed=3.5,
                      gear=dict(str=26, agi=24, sta=14, int=6, spi=16, ap=18),    # Smite's Hammer + the Deadmines/HoT set in the guide
                      talents=dict(md=3, ts=5, sf=1)),
+        # 1 Nov 2026: bands 25 and 30 added for the 23-31 chapters (Blackfathom, Stockade, Gnomeregan, Razorfen Kraul).
+        # Gear sums from weights/tooltips/2026-11-01.json. Flurry (21-25) is not modelled (no haste term); the 30 band
+        # adds Elemental Weapons 3/3 (26-28).
+        25: Scenario(level=25, weapon_dps=19.71, weapon_speed=3.5,
+                     gear=dict(str=25, agi=22, sta=10, int=8, spi=15, ap=18, sp=5),  # Smite's, Defias Armor/Belt, Gold-flecked, Deepgrave,
+                     talents=dict(md=3, ts=5, sf=1)),                                 # Loch Walkers, Bravo's, Spiritwraith, both rings, Choker
+        30: Scenario(level=30, weapon_dps=22.88, weapon_speed=3.3,
+                     gear=dict(str=26, agi=12, sta=30, int=8, spi=19, ap=18, sp=25),  # Twilight Maul, Defender's Helm, Naga Gloves, Bands of
+                     talents=dict(md=3, ts=5, sf=1, ew=3)),                           # Serra'kis, Thresher Cape + the rest of the 25 set
     }
 
 if __name__ == "__main__":

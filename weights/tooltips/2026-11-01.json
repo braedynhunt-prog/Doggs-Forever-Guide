@@ -99,6 +99,10 @@
   "id": 273805,
   "tooltip": "Blackrock Harness | Item Level 26 | Binds when picked upChestLeather96 Armor | +8 Stamina | Durability 95 / 95Requires Level 21 | Equip: Increased Defense +4. | Equip: +14 Attack Power. | Sell Price: 19 | Dropped by: Targorr the Dread | Drop Chance: 1.70%"
  },
+ "Bloodied Chestwraps": {
+  "id": 271212,
+  "tooltip": "Bloodied Chestwraps | Item Level 22 | Binds when picked upChestLeather89 Armor | +7 Agility | +9 Spirit | Durability 90 / 90Requires Level 17 | Sell Price: 10 77 | Dropped by: Viktor the Vile | Drop Chance: 33.01%"
+ },
  "Boar Handler Gloves": {
   "id": 2547,
   "tooltip": "Boar Handler Gloves | Item Level 5 | Binds when picked upHandsMail42 Armor | Durability 18 / 18Sell Price: 7"
@@ -183,6 +187,10 @@
   "id": 3103,
   "tooltip": "Coldridge Hammer | Item Level 12 | Binds when picked upTwo-HandMace |     18 - 27 Damage |     Speed 2.70 | (8.33 damage per second) | +1 Strength | +1 Spirit | Durability 50 / 50Sell Price: 4 66"
  },
+ "Coldspire Staff": {
+  "id": 271215,
+  "tooltip": "Coldspire Staff | Item Level 24 | Binds when picked upTwo-HandStaff |     43 - 66 Damage |     Speed 3.60 | (15.14 damage per second) | +13 Frost Resistance | Durability 90 / 90Requires Level 19 | Equip: Increases damage done by Frost spells and effects by up to 32. | Sell Price: 34 79 | Dropped by: Rath'mael | Drop Chance: 32.72%"
+ },
  "Combat Cloak": {
   "id": 4716,
   "tooltip": "Combat Cloak | Item Level 32 | Binds when equippedBack22 Armor | +6 Stamina | +2 SpiritRequires Level 27 | Sell Price: 16 58"
@@ -198,6 +206,10 @@
  "Cookie's Tenderizer": {
   "id": 5197,
   "tooltip": "Cookie's Tenderizer | Item Level 21 | Binds when picked upOne-HandMace |     27 - 51 Damage |     Speed 2.80 | (13.93 damage per second) | +4 Spirit | Durability 60 / 60Requires Level 16 | Chance on hit: Tenderize the target, increasing physical damage taken by 1 for 1 min. | Sell Price: 19 63 | Dropped by: Cookie | Drop Chance: 54.07%"
+ },
+ "Corpse Chopper": {
+  "id": 271217,
+  "tooltip": "Corpse Chopper | Item Level 21 | Binds when picked upTwo-HandAxe |     52 - 79 Damage |     Speed 3.60 | (18.19 damage per second) | Durability 75 / 75Requires Level 16 | Use: Chop nearby Humanoid or Undead corpse in two, restoring 150 Health, 150 Mana, and 15 Rage. | Sell Price: 23 87 | Dropped by: Bjork | Drop Chance: 33.28%"
  },
  "Corpsemaker": {
   "id": 6687,
@@ -435,6 +447,10 @@
   "id": 281322,
   "tooltip": "Frosthowl's Footwarmers | Item Level 9 | Binds when picked upFeetLeather34 Armor | Durability 25 / 25Sell Price: 42"
  },
+ "Garb of Florid Feathers": {
+  "id": 273026,
+  "tooltip": "Garb of Florid Feathers | Item Level 31 | Binds when picked upChestLeather105 Armor | +9 Agility | +15 Intellect | Durability 100 / 100Requires Level 26 | Sell Price: 28 94 | Dropped by: Shadetooth | Drop Chance: 32.06%"
+ },
  "Geomancer Headdress": {
   "id": 274155,
   "tooltip": "Geomancer Headdress | Item Level 30 | Binds when picked upHeadLeather84 Armor | +14 Spirit | Durability 60 / 60Requires Level 25 | Equip: Increases healing done by up to 13 and damage done by up to 4 for all magical spells and effects. | Sell Price: 20 25 | Dropped by: Roogug | Drop Chance: 3.26%"
@@ -627,6 +643,10 @@
   "id": 9449,
   "tooltip": "Manual Crowd Pummeler | Item Level 34 | Binds when picked up | UniqueTwo-HandMace |     46 - 70 Damage |     Speed 2.00 | (29.00 damage per second) | +16 Strength | +5 Agility | Durability 100 / 100Requires Level 29 | Use: Increases your attack speed by 50% for 30 sec. (3 Min Cooldown) | 3 Charges | Sell Price: 98 65 | Dropped by: Crowd Pummeler 9-60 | Drop Chance: 33.03%"
  },
+ "Meathook Slicer": {
+  "id": 271204,
+  "tooltip": "Meathook Slicer | Item Level 20 | Binds when picked upOne-HandDagger |     17 - 32 Damage |     Speed 1.80 | (13.61 damage per second) | +5 Stamina | Durability 45 / 45Requires Level 15 | Sell Price: 17 5 | Dropped by: The Baron | Drop Chance: 30.41%"
+ },
  "Metalworking Gloves": {
   "id": 1944,
   "tooltip": "Metalworking Gloves | Item Level 18 | Binds when equippedHandsLeather46 Armor | +3 Strength | +1 Stamina | Durability 20 / 20Requires Level 13 | Sell Price: 2 59 | Dropped by: Goblin Craftsman | Drop Chance: 5.41%"
@@ -783,6 +803,10 @@
   "id": 1319,
   "tooltip": "Ring of Iron Will | Item Level 25 | Binds when picked upFinger+4 Stamina | +2 SpiritSell Price: 4 62"
  },
+ "Ring of Power Regulation": {
+  "id": 273030,
+  "tooltip": "Ring of Power Regulation | Item Level 33 | Binds when picked up | Unique-EquippedFingerRestores +3 mana per 5 sec.Requires Level 28 | Equip: Increases damage and healing done by magical spells and effects by up to 6. | Sell Price: 29 20 | Dropped by: Relic Guardian | Drop Chance: 29.67%"
+ },
  "Ring of Precision": {
   "id": 1491,
   "tooltip": "Ring of Precision | Item Level 27 | Binds when equipped | Unique-EquippedFinger+6 Agility | +3 SpiritRequires Level 22 | Sell Price: 16 20"
@@ -831,6 +855,10 @@
   "id": 1479,
   "tooltip": "Salma's Oven Mitts | Item Level 12 | Binds when picked upHandsCloth13 Armor | Durability 16 / 16Sell Price: 47"
  },
+ "Scepter of the Abandoned": {
+  "id": 271216,
+  "tooltip": "Scepter of the Abandoned | Item Level 22 | Binds when picked upMain HandMace |     17 - 33 Damage |     Speed 2.60 | (9.62 damage per second) | +5 Shadow Resistance | Durability 70 / 70Requires Level 17 | Equip: Increases damage and healing done by magical spells and effects by up to 24. | Sell Price: 21 88 | Dropped by: The Abandoned | Drop Chance: 33.65%"
+ },
  "Scouting Belt": {
   "id": 6581,
   "tooltip": "Scouting Belt | Item Level 21 | Binds when equippedWaistLeather45 Armor | <Random enchantment> | Durability 25 / 25Requires Level 16 | Sell Price: 4 22"
@@ -838,6 +866,10 @@
  "Scrimshaw Dagger": {
   "id": 2089,
   "tooltip": "Scrimshaw Dagger | Item Level 19 | Binds when picked upOne-HandDagger |     12 - 23 Damage |     Speed 1.80 | (9.72 damage per second) | +2 Stamina | Durability 40 / 40Sell Price: 12 37"
+ },
+ "Segmented Spider Leg": {
+  "id": 271203,
+  "tooltip": "Segmented Spider Leg | Item Level 20 | Binds when picked upTwo-HandStaff |     50 - 76 Damage |     Speed 3.60 | (17.50 damage per second) | +9 Agility | +5 Spirit | Durability 75 / 75Requires Level 15 | Sell Price: 21 23 | Dropped by: Witherfang | Drop Chance: 31.42%"
  },
  "Sharp Axe": {
   "id": 1011,
@@ -954,6 +986,10 @@
  "Superior Boots": {
   "id": 9802,
   "tooltip": "Superior Boots | Item Level 26 | Binds when equippedFeetLeather60 Armor | <Random enchantment> | Durability 40 / 40Requires Level 21 | Sell Price: 12 4"
+ },
+ "Supple Bellyskin Leggings": {
+  "id": 273022,
+  "tooltip": "Supple Bellyskin Leggings | Item Level 31 | Binds when picked upLegsLeather92 Armor | +6 Strength | +14 Stamina | Durability 75 / 75Requires Level 26 | Sell Price: 28 51 | Dropped by: Saltspine | Drop Chance: 34.53%"
  },
  "Swinetusk Shank": {
   "id": 6691,
@@ -1082,6 +1118,10 @@
  "Wisdom's Leather Helm": {
   "id": 252515,
   "tooltip": "Wisdom's Leather Helm | Item Level 30 | Binds when picked upHeadLeather84 Armor | +13 Stamina | Durability 60 / 60Requires Level 25 | Equip: Increases healing done by up to 21 and damage done by up to 7 for all magical spells and effects. | Sell Price: 20 78"
+ },
+ "Witherbite Bracers": {
+  "id": 271202,
+  "tooltip": "Witherbite Bracers | Item Level 20 | Binds when picked upWristLeather37 Armor | +4 Agility | Durability 30 / 30Requires Level 15 | Equip: Increases damage and healing done by magical spells and effects by up to 5. | Sell Price: 4 26 | Dropped by: Witherfang | Drop Chance: 28.87%"
  },
  "Wolf Handler Gloves": {
   "id": 6171,

@@ -32,7 +32,7 @@ for lvl in (15, 20):
         ("shock SP coefficient x0", dict(shock_coef_scale=0.0)),
         ("expertise: flat 0.1%/rating (no level scaling)", dict(expertise_model="flat60")),
         ("expertise: 0.25%/point (TBC points)", dict(expertise_model="point")),
-        ("no mace (axe) baseline", dict(mace=False)),
+        ("mace spec restored (pre-17 Oct build)", dict(mace=True)),
     ]:
         sc = copy.deepcopy(base)
         for k, v in mod.items(): setattr(sc, k, v)

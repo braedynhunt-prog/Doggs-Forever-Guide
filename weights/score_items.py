@@ -77,14 +77,9 @@ def usable(it):
 def score(it, w):
     s = (w["str"] * it["str"] + w["agi"] * it["agi"] + w["sta"] * it["sta"] + w["int"] * it["int"] + w["spi"] * it["spi"]
          + w["ap"] * it["ap"] + w["sp"] * it["sp"] + w["exp"] * it["exp"])
-    if it["slot"] in ("Two-Hand",):
+    if it["slot"] in ("Two-Hand", "Main Hand", "One-Hand"):
         s += w["wdps"] * it["wdps"]
-        if it["cls"] == "Mace":
-            s += w["mace_bonus"]
-    elif it["slot"] in ("Main Hand", "One-Hand"):
-        s += w["wdps"] * it["wdps"]
-        if it["cls"] == "Mace":
-            s += w["mace_bonus"]
+    # no mace term since 1 Nov 2026: Dwarf Mace Specialization was removed from Forever on 17 Oct (Earth Fury)
     return s
 
 def fmt_stats(it):
@@ -103,13 +98,13 @@ def main():
         items.append(it)
 
     # Central weights (level-20 band) and a conservative set with Spirit/SP/Expertise at the low end of their ranges.
-    w_eff = dict(wdps=14.0, str=2.0, ap=1.0, int=1.05, agi=0.85, spi=1.0, sta=0.0, sp=1.5, exp=3.0, mace_bonus=7.0)
-    w_spam = dict(wdps=14.0, str=2.0, ap=1.0, int=1.05, agi=0.85, spi=0.5, sta=0.0, sp=0.5, exp=1.0, mace_bonus=7.0)
+    w_eff = dict(wdps=14.0, str=2.0, ap=1.0, int=1.05, agi=0.85, spi=1.0, sta=0.0, sp=1.5, exp=3.0)
+    w_spam = dict(wdps=14.0, str=2.0, ap=1.0, int=1.05, agi=0.85, spi=0.5, sta=0.0, sp=0.5, exp=1.0)
     wsets = {"central": w_eff, "conservative": w_spam}
 
-    print("WEIGHTS (level 20, AP = 1):")
+    print("WEIGHTS (level 20, AP = 1; mace term dropped 1 Nov 2026):")
     for nm, w in wsets.items():
-        print(f"  {nm:12s} " + "  ".join(f"{k}={w[k]:.2f}" for k in ["wdps", "str", "ap", "int", "agi", "spi", "sta", "sp", "exp", "mace_bonus"]))
+        print(f"  {nm:12s} " + "  ".join(f"{k}={w[k]:.2f}" for k in ["wdps", "str", "ap", "int", "agi", "spi", "sta", "sp", "exp"]))
 
     # ---- per-quest comparison
     guide = {  # quest id -> guide's pick (None = nothing usable / vendor)
