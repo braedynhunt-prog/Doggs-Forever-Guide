@@ -8,7 +8,7 @@ Guidelime.registerGuide([[
 [OC]|cffffffffAuberdine dock|r
 At [TAR8997 Gershala Nightwhisper], [QT1275] (2,400 XP, the 8 brain stems from Blackfathom) [G38.3,43.0 Darkshore]
 [OC]|cffffcc00Gear (1275):|r |cff66ff66Staghide Armguards|r (leather bracers +3 Agi +3 Sta) for both of you; a shaman who already wears Bands of Serra'kis (+6 Str +3 Sta) keeps them. Beetle Clasps are mail and the Prelacy Cape is a healer's cloak - pass
-At [TAR3649 Thundris Windweaver], [QT98209] (1,200 XP, the Nord'el you carried from Sylessa in Menethil; no reward is listed in the DB. Wowhead lists this quest without Human, so a Human hunter will not hold it - skip the line) [G37.4,40.1 Darkshore]
+At [TAR3649 Thundris Windweaver], [QT98209] [QT97926 Making Do] (1,200 XP, the Nord'el you carried from Sylessa in Menethil; no reward is listed in the DB. Wowhead lists this quest without Human, so a Human hunter will not hold it - skip the line. Making Do pays the Shipwright's Satchel, a 6-slot reagent bag: equip it for your cooking and fishing mats) [G37.4,40.1 Darkshore]
 |cFFfff8a3Board the boat to Rut'theran Village|r (about 5 minutes; if it has just left, flight master Caylais Moonfeather also flies there - you took that flight path in chapter 11) [G38.3,43 Darkshore]
 [OC]On arrival walk into the portal in the village: it leads up to Darnassus
 

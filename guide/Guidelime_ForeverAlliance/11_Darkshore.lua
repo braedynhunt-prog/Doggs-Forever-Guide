@@ -45,7 +45,7 @@ At the WANTED board by the inn, [QA4740 WANTED: Murkdeep!] (an event on the sout
 Walk into the Blackwood furbolg camp south-east of Auberdine [QC984] [G39,54.1 Darkshore]
 Use Tharnariun's Hope on a [TAR2164 Rabid Thistle Bear] (it turns docile and follows you) and lead it back to Tharnariun [QC2118] [G38.3,53 Darkshore]
 At [TAR3693 Terenthis], [QT984] [QA4761 Thundris Windweaver] [G39.4,43.5 Darkshore]
-At [TAR3649 Thundris Windweaver], [QT4761] [QA4762 The Cliffspring River] (an empty tube: you fill it at the waterfall pool north-east of here) [G37.4,40.1 Darkshore]
+At [TAR3649 Thundris Windweaver], [QT4761] [QA4762 The Cliffspring River] [QA97914 Expanding Horizons] (an empty tube: you fill it at the waterfall pool north-east of here. Expanding Horizons is a letter for Baros Alexston in Stormwind, who you see on the Stockade trip; its follow-up pays a 6-slot reagent bag) [G37.4,40.1 Darkshore]
 At [TAR3701 Tharnariun Treetender], [QT2118] [QA2138 Cleansing of the Infected] (20 Rabid Thistle Bears: they are everywhere, kill every one you meet from here on) [G38.8,43.4 Darkshore]
 [O]At [TAR3693 Terenthis], [QA985 How Big a Threat?] (an |cffffcc00optional 5,100 XP chain|r (985, 986, 993, 994, 990): 13 furbolgs, then Fine Moonstalker Pelts, then an escort out of the south) [G39.4,43.5 Darkshore]
 [O]Kill 8 [TAR2167 Blackwood Pathfinder] and 5 [TAR2324 Blackwood Windtalker] in the camp again [QC985] [G39.6,54.4 Darkshore]

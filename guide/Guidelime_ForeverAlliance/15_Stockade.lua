@@ -62,7 +62,7 @@ Check the tallies: kill whatever Defias you still need before you leave [QC387] 
 
 [OC]|cffffffffHand-ins and the Defias chain|r  -  you leave by the door in Stormwind. One loop through the city (Trade District, Cathedral Square, Old Town, Keep) with one trip to Elwynn in the middle
 At [TAR1719 Warden Thelwater], [QT391] [QT387] [QA392 The Curious Visitor] (391 and 387 pay 25 and 40 silver) [G51.5,69.4 Stormwind City]
-In Cathedral Square at [TAR1646 Baros Alexston], [QT392] [QA393 Shadow of the Past] [G57.7,47.9 Stormwind City]
+In Cathedral Square at [TAR1646 Baros Alexston], [QT392] [QA393 Shadow of the Past] [QT97914 Expanding Horizons] [QA97926 Making Do] (Making Do is Alexston's reply for Thundris in Auberdine: handed in on the Darnassus trip) [G57.7,47.9 Stormwind City]
 In Old Town at [TAR332 Master Mathias Shaw], [QT393] [QA350 Look to an Old Friend] [G78.3,70.7 Stormwind City]
 Round the corner at [TAR1721 Nikova Raskol], [QT388] (2,650 XP and 40 silver) [G76.4,63.7 Stormwind City]
 In the Trade District at [TAR482 Elling Trias], [QT350] [QA2745 Infiltrating the Castle] [G66.0,74.1 Stormwind City]
