@@ -43,7 +43,7 @@ At [TAR251368 Elatrell Featherlight], [QT92463] [G43.4,24.8 Zephras Isle]
 [OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Watcher's Mail Chest|r (mail chest) - 67 armor; the vest is leather, the pants cloth
 At [TAR251371 Falorne Fallwind], [QT92597] [G43.3,24.9 Zephras Isle]
 At [TAR251363 Dalia the Collector], [QT93552] [G43.4,24.0 Zephras Isle]
-[OC]|cffffcc00Reward:|r 93552 offers profession books (Mining for Dummies / Pelt Collecting for Beginners / Wild Harvest) - each teaches that profession if you lack it and adds +2 skill per read up to 15; take |cff66ff66Pelt Collecting for Beginners|r (Skinning - Mining is learned in Shen'dar). The Windstones it also gives restore health and mana on the island: use them instead of eating
+[OC]|cffffcc00Reward:|r 93552 offers profession books (Mining for Dummies / Pelt Collecting for Beginners / Wild Harvest) - each teaches that profession if you lack it and adds +2 skill per read up to 15; take |cff66ff66Pelt Collecting for Beginners|r and read it to learn Skinning (Skinning - Mining is learned in Shen'dar). The Windstones it also gives restore health and mana on the island: use them instead of eating
 [O][A Warrior] Next to Dalia at [TAR251965 Fevrath Skyhammer] (Armorer & Shieldcrafter), [V] if you started without a shield, buy the Large Round Shield (55 armor, 1 block) - or the Small Shield (29 armor) if you are short; prices and the starting kit unverified [G43.4,23.4 Zephras Isle]
 At [TAR251537 Uualia Suncrest] (General Goods), [V] buy a Skinning Knife - skin every Ursera and Vuldren from here on [G42.8,24.5 Zephras Isle]
 At [TAR251361 Rorian the Dayseeker], [QT92469] [QA92471 Aetheen of the Gales] (requires level 4 - kill a few Vuldren in the meadow if you are short) [G42.0,23.5 Zephras Isle]
