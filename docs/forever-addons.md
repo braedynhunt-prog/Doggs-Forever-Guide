@@ -34,6 +34,7 @@ Forever uses the modern client's rules: addons can display combat values (health
 8. **Pawn** (2.14.0 Forever flavor): default scales are the Classic Era ones, so import the scale below.
 9. Optional, dungeons only: a threat meter. Forever Threat (looks like the built-in damage meter) or ForeverThreat (Omen-style). Addons cannot read a mob's full threat list on Forever.
 10. Optional, travel routing: **Shortest Path Forever** (directions in the objective tracker across walking, known flights, boats, tram, portals) or **Mapzeroth** (draws the route on the map, learns flight points from flight masters). Both are days old as of 1 Nov 2026 and unverified. TomTom is only a straight-line arrow, no routing. Mostly useful for the cross-continent legs in 30-40.
+11. **Plater Nameplates** (Plater-v662, 28 Oct 2026, Forever tagged on the project page): nameplates. Nothing on its page about Forever limits, but the "secret values" rule means any script that reads health or threat to recolour plates may not work; stock profile first.
 
 ## Not installing (redundant with the above)
 Details (built-in damage meter), MinimapButtonButton / Minimap Button: Forever (Leatrix bag), ForeverForge / ForeverPlusPlus / Auto Forever (Leatrix sells junk and repairs), GearQuest Forever (Pawn + our scale), TomTom (Guidelime arrow), paid route addons (RestedXP, Journey, Zygor), Baganator/Bagnon unless the default bags annoy him.
