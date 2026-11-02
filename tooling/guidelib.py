@@ -32,7 +32,7 @@ ZID = {'Dun Morogh': 1, 'Loch Modan': 38, 'Ironforge': 1537, 'Westfall': 40, 'El
        'Tirisfal Glades': 85, 'Dustwallow Marsh': 15, 'Badlands': 3, 'Zephras Isle': 16593}
 CODES = {'N', 'NX', 'D', 'GA', 'A', 'O', 'OC', 'QA', 'QC', 'QT', 'QS', 'G', 'L', 'XP', 'H', 'F', 'T', 'S', 'P', 'V', 'R', 'CI', 'UI', 'TAR', 'LE', 'SK', 'GG', 'GL', 'GT', 'GI', 'REP', 'SP'}
 RACES = ('Dwarf', 'Human', 'Gnome', 'Night Elf', 'Skyborne')
-RACE_WORDS = ('Shaman', 'Hunter', 'Alliance', 'Dwarf', 'Gnome', 'Human', 'Night Elf', 'Warrior', 'Skyborne')
+RACE_WORDS = ('Shaman', 'Hunter', 'Alliance', 'Dwarf', 'Gnome', 'Human', 'Night Elf', 'Warrior', 'Skyborne', 'Druid')
 
 TAG = re.compile(r'\[([A-Z]+)\s*([^\]]*)\]')
 QUEST_PAYLOAD = re.compile(r'(\d+)(?:,(\d+))?\s*(.*)$')

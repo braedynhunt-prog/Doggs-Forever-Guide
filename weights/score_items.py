@@ -4,9 +4,17 @@ from enh_weights import band_scenarios, weights, kills_per_hour
 
 TOOLTIPS = "item_tooltips.json"
 
-SLOT_RE = re.compile(r"(Head|Neck|Shoulder|Back|Chest|Wrist|Hands|Waist|Legs|Feet|Finger|Trinket|Main Hand|One-Hand|Two-Hand|Off Hand|Held In Off-hand|Ranged|Shirt|Tabard)"
-                     r"(Cloth|Leather|Mail|Plate|Shield|Axe|Mace|Sword|Dagger|Staff|Polearm|Bow|Gun|Wand|Fist Weapon|Crossbow)?")
-STAT_RE = re.compile(r"\+(\d+) (Strength|Agility|Stamina|Intellect|Spirit|Attack Power)")
+# 2 Nov 2026: "Relic" counts as a slot only when "Idol" follows it (druid idols: "RelicIdol" on the Forever tooltip);
+# totems and librams keep parsing with no slot, as before.
+SLOT_RE = re.compile(r"(Head|Neck|Shoulder|Back|Chest|Wrist|Hands|Waist|Legs|Feet|Finger|Trinket|Main Hand|One-Hand|Two-Hand|Off Hand|Held In Off-hand|Ranged|Shirt|Tabard|Relic(?=Idol))"
+                     r"(Cloth|Leather|Mail|Plate|Shield|Axe|Mace|Sword|Dagger|Staff|Polearm|Bow|Gun|Wand|Fist Weapon|Crossbow|Idol)?")
+# the lookahead keeps form-only attack power ("+N Attack Power in Cat, Bear, ...") out of "ap"; it goes to feral_ap
+STAT_RE = re.compile(r"\+(\d+) (Strength|Agility|Stamina|Intellect|Spirit|Attack Power)(?! in (?:Cat|Bear|Dire Bear|Moonkin))")
+# 2 Nov 2026: feral attack power for the feral profile (weights/feral_weights.py), in its own key "feral_ap" so the enh
+# and prot scorers never see it. The 1 Nov 2026 Forever tooltip cache has no such item, so both Classic wordings are
+# matched: "+N Attack Power in Cat, Bear, and Dire Bear forms only." and "Increases attack power by N in Cat, Bear,
+# Dire Bear, and Moonkin forms only." (unverified on Forever).
+FERAL_AP_RE = re.compile(r"(?:\+(\d+) Attack Power|Increases attack power by (\d+)) in (?:Cat|Bear|Dire Bear|Moonkin)\b", re.I)
 SP_RE = re.compile(r"Increases damage and healing done by magical spells and effects by up to (\d+)")
 SP2_RE = re.compile(r"Increases healing done by up to (\d+) and damage done by up to (\d+)")
 SPDMG_RE = re.compile(r"Increases damage done by magical spells and effects by up to (\d+)")
@@ -78,6 +86,7 @@ def parse(name, rec):
     it["parry"] = sum(float(v) for v in PARRY_RE.findall(tt))
     it["hit"] = sum(float(v) for v in HIT_RE.findall(tt))
     it["crit"] = sum(float(v) for v in CRIT_RE.findall(tt))
+    it["feral_ap"] = sum(int(a or b) for a, b in FERAL_AP_RE.findall(tt))
     head = tt.split("|")[2] if tt.count("|") >= 2 else tt
     it["thrown"] = it["slot"] is None and "Thrown" in head
     return it
@@ -85,7 +94,7 @@ def parse(name, rec):
 def usable(it):
     """Returns (usable_now, note) for a 2H Enhancement shaman below 40."""
     slot, cls = it["slot"], it["cls"]
-    if slot is None:
+    if slot is None or slot == "Relic":   # Relic (druid idol, 2 Nov 2026) parsed as no slot before
         return False, "not equipment"
     if slot in ("Shirt", "Tabard", "Trinket"):
         return False, "cosmetic"

@@ -1,0 +1,42 @@
+# Chapter 09 (21-22 Loch Modan and Menethil) - warrior overlay, block A, 1 Nov 2026.
+
+# Inline gear text on step lines (the generated line after each [QT] carries the warrior pick).
+@replace QT217
+[O]At the bunker at [TAR1092 Captain Rugelfuss], [QT217] [G23.2,73.7 Loch Modan]
+
+# Vyrin's Revenge: non-gear choice (Hunting Ammo Sack / Hunting Quiver) plus the fixed Hunting Satchel; class asides reworded.
+@replace QT531
+[O]At [TAR1156 Vyrin Swiftwind], [QT531] - the |cff66ff66Hunting Satchel|r (10-slot bag) is yours either way; of the choice take the Hunting Ammo Sack only if you carry shot for your gun (it holds ammo only), otherwise vendor it [G81.7,64.1 Loch Modan]
+
+# Mo'grosh: the ogre shamans heal - warrior interrupt.
+@replace TAR1178
+[O]|cFFFF0000GROUP 2+|r Mo'grosh ogre mound in the north-east: 4 [TAR1178 Mo'grosh Ogre], 4 [TAR1180 Mo'grosh Brute] and 4 [TAR1179 Mo'grosh Enforcer] (ELITE, level 18-20: pull one at a time, Shield Bash the shamans' heals) [QC255] [G72.5,23.5 Loch Modan]
+
+# Chok'sul / Mercenaries hand-in: the Minor Channeling Ring is a fixed caster reward.
+@replace QT256
+[O]Back in Thelsamar at [TAR1139 Magistrate Bluntnose], [QT255] [QT256] - the free Minor Channeling Ring (+2 Int, +5 spell damage) is caster: vendor it, or wear it only in an empty ring slot [G34.6,44.5 Loch Modan]
+
+@replace QT283
+[O]At [TAR1093 Chief Engineer Hinderweir VII], [QT283] [G46.0,13.6 Loch Modan]
+
+@replace QT286
+At [TAR1242 Karl Boran], [QT286] [QA98189 Return the Statuette] [G8.3,58.6 Wetlands]
+
+@replace QT471
+[O]At [TAR2094 James Halloran], [QT471] - the reward Recipe: Crocolisk Gumbo (Cooking 120) is a skill-up filler for your Tender Crocolisk Meat + Hot Spices [G8.6,55.7 Wetlands]
+
+# Level note: the shaman's Call of Water XP is not in this guide.
+@replace T and the shaman's Call of Water adds 2,085
+[OC]|cffffffffLevel 21|r  -  you are in Stormwind with the Ruins hand-ins done; hearth = Sentinel Hill and it stays there. Loch Modan is ~3,200 quest XP on the solo road plus ~13,000 in the |cFFFF0000GROUP|r blocks (+2,450 if you have Bronze Bars); the Wetlands road and Menethil add ~17,000 (+6,500 for the optional Third Fleet and croc skins). You reach 22 on the Menethil coast.
+
+# Menethil: the warrior trains 22 at Wu Shen on the chapter 10 Stormwind pass; the Human-hunter aside goes.
+@replace T No class trainers here (level-22 spells
+[OC]|cffffffffMenethil Harbor|r  -  west along the road. No class trainers here (your level-22 ranks: Wu Shen in Stormwind, next chapter); repair vendors are around the harbor.
+
+# Log check: shaman Call of Water / Knowledge in the Deeps removed.
+@replace T shaman Call of Water (94499)
+[OC]|cffffcc00Check:|r log should hold A Friend of the Family (98190), Cleansing the Eye (293) if you did the Third Fleet, Apprentice's Duties (471) if you skipped the bay (its skins are only in the north bay), plus Researching the Corruption (1275), Remember That I Love You (95161), Messenger to Stormwind (121), The Price of Shoes (118), Shadow Magic (115) and Tharil'zun (19). Next: at Thor on Sentinel Hill fly to Stormwind
+
+# main session, 1 Nov: Chok'sul note said "bring your tank friend" - the warrior is the tank
+@replace T bring your tank friend
+[O]|cFFFF0000GROUP 3+|r At the WANTED poster, [QA256 WANTED: Chok'sul] - Chok'sul is a level 22 ELITE (1,686 HP) at the top of the ogre mound: you tank him, bring two more (a healer and a damage dealer) [G37.3,47 Loch Modan]

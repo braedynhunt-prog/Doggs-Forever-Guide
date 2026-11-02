@@ -1,6 +1,6 @@
 """Gear-weight profiles for the guide tooling (registry; added 1 Nov 2026 for the generator-built warrior variant).
 
-PROFILES = {'enh': ENH, 'prot': PROT}. Each profile gives:
+PROFILES = {'enh': ENH, 'prot': PROT, 'feral': FERAL}. Each profile gives:
   weights(band)     -> (central, conservative) weight dicts for a level band (BANDS 10/15/20/25/30)
   usable(item)      -> (bool, note) on a score_items.parse() item dict
   score(item, w)    -> AP-equivalent score
@@ -16,13 +16,16 @@ PROFILES = {'enh': ENH, 'prot': PROT}. Each profile gives:
 
 'enh' wraps the 2H Enhancement shaman behaviour exactly as score_items.py / dungeon_loot.py / gear_calls.py had it
 (level-20 sets copied from score_items.main(), other bands take Int/Agi from enh_weights; no mace term since 1 Nov
-2026). 'prot' is weights/prot_weights.py (reasoning-only weights, docs/forever-prot-stat-weights.md).
+2026). 'prot' is weights/prot_weights.py (reasoning-only weights, docs/forever-prot-stat-weights.md). 'feral' (added
+2 Nov 2026 for the druid variant) is weights/feral_weights.py: bear weights for bands 10/15, cat for 20/25/30
+(reasoning-only, docs/forever-feral-stat-weights.md).
 """
 import os, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import score_items  # noqa: E402
 import prot_weights  # noqa: E402
+import feral_weights  # noqa: E402
 
 BANDS = (10, 15, 20, 25, 30)
 
@@ -85,6 +88,19 @@ PROT_USABLE = {
     (4, 1):  ('cloth', (16,)),            # cloth only as a cloak
     (4, 0):  ('misc', (2, 11, 12)),       # neck, ring, trinket
 }
+# 2 Nov 2026: feral druid - cloth and leather in every slot, staves, 1H/2H maces, daggers, fist weapons, held-in-off-hand
+# items (misc, InventoryType 23) and idols (armor subclass 8, InventoryType 28). No mail, shields or ranged weapons.
+FERAL_USABLE = {
+    (2, 4):  ('1H mace', None),
+    (2, 5):  ('2H mace', None),
+    (2, 10): ('staff', None),
+    (2, 13): ('fist weapon', None),
+    (2, 15): ('dagger', None),
+    (4, 2):  ('leather', None),
+    (4, 1):  ('cloth', None),
+    (4, 0):  ('misc', (2, 11, 12, 23)),   # neck, ring, trinket, held in off-hand
+    (4, 8):  ('idol', (28,)),
+}
 
 SLOT_WORD = {'Head': 'head', 'Neck': 'neck', 'Shoulder': 'shoulders', 'Back': 'cloak', 'Chest': 'chest', 'Wrist': 'wrist',
              'Hands': 'hands', 'Waist': 'waist', 'Legs': 'legs', 'Feet': 'feet', 'Finger': 'ring', 'Trinket': 'trinket'}
@@ -97,9 +113,10 @@ def _num(v):
     return ('%g' % v) if isinstance(v, float) else str(v)
 
 
-def describe(it, w):
+def describe(it, w, feral=False):
     """'mail hands +5 Str +5 Sta, Def +3' / '1H mace 14.0 dps +3 Str' / 'shield 642 armor 13 block +8 Sta'.
-    Stats with zero weight in w are left out (a warrior's line does not quote Intellect)."""
+    Stats with zero weight in w are left out (a warrior's line does not quote Intellect). feral=True (the feral
+    profile) also quotes the form-only attack power ('+N AP in forms')."""
     slot, cls = it.get('slot'), it.get('cls')
     if it.get('thrown'):
         head = ['thrown', '%.1f dps' % it.get('wdps', 0.0)]
@@ -111,10 +128,14 @@ def describe(it, w):
         if kind in ('dagger', 'fist weapon', 'staff', 'polearm', 'bow', 'gun', 'crossbow', 'wand'):
             pre = 'off-hand ' if slot == 'Off Hand' else ''
         head = [pre + kind] + (['%.1f dps' % it['wdps']] if it.get('wdps') else [])
+    elif slot == 'Relic':
+        head = [(cls or 'relic').lower()]
     else:
         word = SLOT_WORD.get(slot, (slot or 'item').lower())
         head = [('%s %s' % (cls.lower(), word)) if cls else word]
     prim = ['+%d %s' % (it[k], lab) for k, lab in PRIMARY if it.get(k) and w.get(k, 0) > 0]
+    if feral and it.get('feral_ap') and w.get('ap', 0) > 0:
+        prim.append('+%d AP in forms' % it['feral_ap'])
     if it.get('exp') and w.get('exp', 0) > 0:
         prim.append('+%d Exp' % it['exp'])
     tank = []
@@ -144,6 +165,8 @@ class Profile:
         return self._weights()
 
     def describe(self, it, band=20):
+        if self.name == 'feral':
+            return describe(it, self.weights(band)[0], feral=True)
         return describe(it, self.weights(band)[0])
 
 
@@ -158,7 +181,11 @@ PROT = Profile('prot', 'Protection warrior (1H + shield)', 'warrior', 'Warrior',
                {k: ' (pull slot)' for k in ('bow', 'gun', 'crossbow', 'thrown')},
                {'Main Hand': '1H weapon', 'One-Hand': '1H weapon'})
 
-PROFILES = {'enh': ENH, 'prot': PROT}
+FERAL = Profile('feral', 'Feral druid (bear to 20, cat from 20)', 'druid', 'Druid', feral_weights.usable,
+                feral_weights.score, feral_weights.band_weights, feral_weights.SECONDARY, FERAL_USABLE, {},
+                {'Main Hand': '1H weapon', 'One-Hand': '1H weapon', 'Two-Hand': '2H weapon'})
+
+PROFILES = {'enh': ENH, 'prot': PROT, 'feral': FERAL}
 
 
 def get(name):

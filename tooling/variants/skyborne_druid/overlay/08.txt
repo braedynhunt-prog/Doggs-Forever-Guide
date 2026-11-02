@@ -1,0 +1,41 @@
+# Chapter 08 (20-21 Ruins of Lordaeron) - warrior overlay, block A, 1 Nov 2026.
+# Knowledge in the Deeps (971) is a shaman-only thread in the Alliance guide (08 pickup on the tram trip, 13 chest, 15
+# hand-in): not taken by the warrior (silent).
+
+# Journeyman Skinning/Mining: drop the shaman (Ironforge) and Human (Camping 101: Mining) asides.
+@replace TAR5513
+[O]Journeyman Skinning/Mining if you did not get it at 17 (needs skill 50; most people are past 50 by now): [TAR5513 Gelman Stonehand] teaches Mining here in the Dwarven District and [TAR1292 Maris Granger] teaches Skinning in Old Town (72.1,62.2) [G59.2,37.8 Stormwind City]
+
+# Tank brief for the run (the boss notes below are written for the whole group).
+@after QA95189
+[OC]|cffffcc00You tank:|r Defensive Stance throughout; pull spider and ghoul packs back round a corner and Thunder Clap them, one pack at a time. Witherfang: Taunt his two spiders off the healer first, bandage the Leech Poison between pulls. The Baron: his Knockout drops your threat - Taunt straight after each one. Viktor's waves and The Abandoned's waves: Thunder Clap each wave as it lands. Flesh Golems: back to a wall so Knock Away cannot throw you into a pack. Rath'mael: Shield Bash the Flamestrike, then step out of the fire
+
+# Witherfang: the Poison Cleansing Totem aside was the shaman's. No boss in 08 has a step line, so each boss's loot
+# goes after its own tactic note.
+@replace T Leech Poison on the tank - shaman, Poison Cleansing Totem
+[OC]|cffffffffThe run|r  -  spider wing first: Venom Lurkers / Spiders / Tarantulas in patrolling packs - pull them back to you, do not fight next to a second pack. |cffffcc00Witherfang|r (patrols King's Alley) comes with two spiders: kill those first; Leech Poison on the tank - heal and bandage through it.
+@gear-dungeon T Leech Poison on the tank - shaman, Poison Cleansing Totem => Witherfang
+@gear-dungeon T Knockout = a big hit plus a threat drop => The Baron
+@gear-dungeon T light the chimney fire in the south-west building => Viktor the Vile
+@gear-dungeon T (Market Street statue event) => The Abandoned
+
+# Rath'mael: the interrupt was Earth Shock.
+@replace T interrupt it (Earth Shock) when you can
+[OC]|cffffcc00Bjork|r: a short Anti-Magic Shield, otherwise tank and spank. |cffffcc00Rath'mael|r (last): Flamestrike lands where the tank stood when the cast began - everyone steps out of the fire; interrupt it (Shield Bash) when you can.
+@gear-dungeon T interrupt it (Earth Shock) when you can => Bjork
+@gear-dungeon T interrupt it (Earth Shock) when you can => Rath'mael
+
+# Inline gear text on step lines: the generated line after each [QT] carries the warrior pick.
+@replace QT95250
+Hand in to [TAR265701 Captain Truman] at the entrance on the way out [QT95250]
+
+@replace QT95195
+At the Stockade gate at [TAR466 General Marcus Jonathan], [QT95195] [G69.2,82.7 Stormwind City]
+
+# Level 20 trainer if the warrior did not train after the Deadmines (07 has the same [O] step).
+@after QT95195
+[O]If you have not trained 20 yet: east in Old Town at [TAR5479 Wu Shen] (warrior trainer), [T] train your level 20 abilities [G80.6,59.9 Stormwind City]
+
+# Log check: the shaman's Call of Water and Knowledge in the Deeps are not in this guide.
+@replace T Stormpike's Delivery (353) and, shaman, Call of Water
+[OC]|cffffcc00Check:|r log should hold Messenger to Stormwind (121), The Price of Shoes (118), Shadow Magic (115), Tharil'zun (19), Researching the Corruption (1275), Remember That I Love You (95161) and Stormpike's Delivery (353). Next: fly to Loch Modan

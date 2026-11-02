@@ -1,0 +1,34 @@
+# Chapter 19 (28-29 Wetlands: Dun Modr and the Dragonmaw) - Skyborne Protection Warrior overlay (block C, 1 Nov 2026)
+# "T <text>" anchors reach untagged [OC] lines that carry no other anchor token.
+
+@replace T |cffffcc00Log:|r you arrive with War Banners
+[OC]|cffffcc00Log:|r you arrive with War Banners (464), From the Ashes (98221), This Land Was Their Land (98230), Crimson Crate Delivery (98240), Crocs of the Sky (98072), Fall of Dun Modr (472), In Search of The Excavation Team (306), Sida's bag (470) if you took it, and the carried ones (98209, 98815, Gleaning Our Future 98310 if you took it).
+@delete T |cffffcc00Human hunters:|r the digest also flags
+
+# Greenwarden 275: inline gear text removed. The generator picked Phytoblade, which needs Herbalism 100 (tooltip 2263);
+# 275 is in gear_skip_quests (variant.json), so the warrior call is written by hand here.
+@replace QT275
+At [TAR1244 Rethiel the Greenwarden], [QT275] [G56.4,40.4 Wetlands]
+@after QT275
+[OC]|cffffcc00Gear (275):|r take |cff66ff66Forest Chain|r (mail chest +2 Sta) only if your chest is weaker; Phytoblade needs Herbalism 100 and the Fen Keeper Robe is cloth - otherwise vendor
+
+# Comar 88758: the fixed Essene's Hope neck (+7 Spi) was "shaman wear it"; a warrior has no use for Spirit.
+@replace QT88758
+[O]|cFFFF0000GROUP 3+|r At [TAR5683 Comar Villard], [QT88758] - the fixed Essene's Hope neck (+7 Spi) is no warrior stat: wear it only for an empty neck slot [G49.9,12.6 Wetlands]
+
+@replace T |cffffcc00Check:|r the log now carries Word to Ironforge
+[OC]|cffffcc00Check:|r the log now carries Word to Ironforge (98300), Sully Balloo's Letter (637, if you took it), Horrors in the Highland (95646), Bloom of the Heavens (98209, for Thundris in Auberdine), Highland Hides (98815) and, if you took it, Gleaning Our Future (98310: Golm's heart by Hervdana's cave is still missing, chapter 22). If you will not run the Stockade a second time, abandon The Fury Runs Deep [QS378]. Level 30 abilities: the Darnassus warrior trainer, next chapter
+
+# Stromgarde: the Expert First Aid book was bought on the shaman's Arathi trip in chapter 25 (dropped for the warrior).
+# The warrior stands at Refuge Pointe here with First Aid 125 (the "Bandage to 125" step above), so the optional
+# Stromgarde line becomes the book step. Deneb Walker 2805 DB spawn Arathi 26.97,58.83.
+@replace TAR2805
+Walk about 22 units south-west to Stromgarde Keep and at [TAR2805 Deneb Walker] in the Alliance-held quarter, [V] buy Expert First Aid - Under Wraps and read it (First Aid 125, cap 225); take the Manual: Heavy Silk Bandage too if you want it at 180. Stay in the north-west quarter: the rest of the keep is Syndicate and Boulderfist ogres (Classic, unverified). Then walk back to Refuge Pointe for the flight [G27.0,58.8 Arathi Highlands]
+
+# Refuge Pointe flight point: "(chapter 25 flies here)" was the shaman's Call of Air trip; the warrior does not.
+@replace TAR2835#1
+At flight master [TAR2835 Cedrik Prose], get the [P Refuge Pointe] flight point (for the 30-40 guide) [G45.7,46.1 Arathi Highlands]
+
+# Howin 98297: the generated pick is a dagger (Subdued Dragon's Fang 20.6 dps +7 Agi); keep the better main hand.
+@after QT98297
+[OC]|cffffcc00Gear (98297):|r the Fang is a dagger: wield it only if it beats the one-hander you carry, else keep yours and vendor the reward

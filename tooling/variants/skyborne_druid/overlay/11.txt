@@ -1,0 +1,34 @@
+# Chapter 11 (Darkshore 23-24), warrior overlay. Block B, written 1 Nov 2026.
+# The shaman tram hop (lines 10-12) and the hunter ammo line drop without replacement: the warrior trained 22 at Wu Shen in chapter 10.
+
+# The hunter trainer line becomes the Darnassus warrior trainer (Arias'ta Bladesinger 4087 @58.71,34.9), plus Tyrande for 93963.
+# 93963 Exploring the Alliance objectives (qdb [9]): 275491 Randal, 7937 Mekkatorque, 2784 Magni (all done in 00u), 7999 Tyrande = objective 4.
+# Tyrande Whisperwind 7999 @39.1,81.59 Darnassus.
+@replace TAR4146
+[O]On the Warrior's Terrace at [TAR4087 Arias'ta Bladesinger], [T] train your level 24 abilities if you are already 24 (otherwise they wait for Wu Shen on the chapter-15 Stormwind pass) [G58.7,34.9 Darnassus]
+In the Temple of the Moon at [TAR7999 Tyrande Whisperwind], speak with her for Exploring the Alliance [QC93963,4] (the last name on Bolvar's list; he takes the quest back on the chapter-15 Stormwind pass) [G39.1,81.6 Darnassus]
+
+# Inline reward text goes: the generated warrior gear line follows this [QT].
+@replace QT4681
+[O]At [TAR10219 Gwennyth Bly'Leggonde], [QT4681] [G36.6,45.6 Darkshore]
+
+# The dropped shaman gear line for 994 was the only call on this fixed reward (Steadfast Cinch 5609: leather waist 45 armor +4 Str +3 Sta, tooltip 2026-11-01).
+@after QT994
+[OC]|cffffcc00Gear (994):|r Steadfast Cinch (leather belt +4 Str +3 Sta) - wear it over the Breakwater Girdle unless your belt is better
+
+# Inline reward text (Shucking Gloves leather Int, Crustacean Boots mail) goes: the generated warrior gear line follows.
+@replace QT1138
+[O]At [TAR10216 Gubber Blump], [QT1138] [G36.1,44.9 Darkshore]
+
+# Inline reward text goes: the generated warrior gear line follows.
+@replace QT982
+[O]At [TAR6301 Gorbold Steelhand], [QT982] [G38.1,41.2 Darkshore]
+
+# "No use with a two-hander" is shaman text: the generated line says vendor.
+@replace QT98028
+[O]At [TAR3616 Onu], [QT98028] [G43.5,76.3 Darkshore]
+
+# Lines without a QA/QT/QC/TAR/G/N token, reached with the T (text) anchor added 1 Nov 2026.
+# source line 129: shaman/hunter/two-player wording reworded for the warrior.
+@replace T the log should still hold Researching
+[OC]|cffffcc00Check:|r the log should still hold Researching the Corruption (1275), In Search of Thaelrid (1198), Twilight Falls (1199), The Absent Minded Prospector (741), The Tower of Althalaxx (973), The Shieldsmith (1702), Exploring the Alliance (93963, complete), The Powers Below (968) if it dropped. Level 24 is close: train 24 at Wu Shen on the chapter-15 Stormwind pass

@@ -25,7 +25,7 @@ def usable(it):
     slot, cls = it.get('slot'), it.get('cls')
     if it.get('thrown'):
         return True, SECONDARY
-    if slot is None:
+    if slot is None or slot == 'Relic':   # Relic (druid idol, 2 Nov 2026) parsed as no slot before
         return False, 'not equipment'
     if slot in ('Shirt', 'Tabard'):
         return False, 'cosmetic'

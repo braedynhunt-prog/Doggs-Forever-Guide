@@ -1,0 +1,254 @@
+{
+ "_schema": "tooling/variants/skyborne_warrior/README.txt; builder: tooling/build_variant.py",
+ "name": "skyborne_druid",
+ "folder": "Guidelime_ForeverDruid",
+ "group": "Forever Druid 1-30",
+ "d_prefix": "Forever Druid 1-30 (Braedyn)",
+ "source_folder": "guide/Guidelime_ForeverShaman",
+ "source_group": "Forever Shaman 1-30",
+ "source_d_prefix": "Forever Shaman 1-30 (Braedyn)",
+ "class": "Druid",
+ "race": "Skyborne",
+ "faction": "Alliance",
+ "chain": "Skyborne",
+ "profile": "profile.json",
+ "generated_gear": "generated_gear.json",
+ "missing_tooltips": "missing_tooltips.txt",
+ "gear_skip_quests": [],
+ "tag_words": {
+  "classes": {
+   "keep": [
+    "Druid"
+   ],
+   "drop": [
+    "Shaman",
+    "Hunter",
+    "Paladin",
+    "Rogue",
+    "Priest",
+    "Mage",
+    "Warlock",
+    "Warrior"
+   ]
+  },
+  "races": {
+   "keep": [
+    "Skyborne"
+   ],
+   "drop": [
+    "Dwarf",
+    "Human",
+    "Gnome",
+    "Night Elf"
+   ]
+  },
+  "factions": {
+   "keep": [
+    "Alliance"
+   ],
+   "drop": [
+    "Horde"
+   ]
+  }
+ },
+ "chapters": [
+  {
+   "key": "00s",
+   "file": "00s_ZephrasIsle1.lua",
+   "source": null
+  },
+  {
+   "key": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "source": null
+  },
+  {
+   "key": "00u",
+   "file": "00u_DalaranToLochModan.lua",
+   "source": null
+  },
+  {
+   "key": "02",
+   "file": "02_LochModan.lua",
+   "source": "02_LochModan.lua"
+  },
+  {
+   "key": "03",
+   "file": "03_HallOfThanes.lua",
+   "source": "03_HallOfThanes.lua"
+  },
+  {
+   "key": "04",
+   "file": "04_LochModan2.lua",
+   "source": "04_LochModan2.lua"
+  },
+  {
+   "key": "05",
+   "file": "05_Westfall.lua",
+   "source": "05_Westfall.lua"
+  },
+  {
+   "key": "06",
+   "file": "06_Redridge.lua",
+   "source": "06_Redridge.lua"
+  },
+  {
+   "key": "07",
+   "file": "07_Deadmines.lua",
+   "source": "07_Deadmines.lua"
+  },
+  {
+   "key": "08",
+   "file": "08_RuinsOfLordaeron.lua",
+   "source": "08_RuinsOfLordaeron.lua"
+  },
+  {
+   "key": "09",
+   "file": "09_LochModanMenethil.lua",
+   "source": "09_LochModanMenethil.lua"
+  },
+  {
+   "key": "10",
+   "file": "10_Redridge2.lua",
+   "source": "10_Redridge2.lua"
+  },
+  {
+   "key": "11",
+   "file": "11_Darkshore.lua",
+   "source": "11_Darkshore.lua"
+  },
+  {
+   "key": "12",
+   "file": "12_Ashenvale.lua",
+   "source": "12_Ashenvale.lua"
+  },
+  {
+   "key": "13",
+   "file": "13_Blackfathom.lua",
+   "source": "13_Blackfathom.lua"
+  },
+  {
+   "key": "14",
+   "file": "14_Duskwood.lua",
+   "source": "14_Duskwood.lua"
+  },
+  {
+   "key": "15",
+   "file": "15_Stockade.lua",
+   "source": "15_Stockade.lua"
+  },
+  {
+   "key": "16",
+   "file": "16_RedridgeEastvale.lua",
+   "source": "16_RedridgeEastvale.lua"
+  },
+  {
+   "key": "17",
+   "file": "17_Duskwood2.lua",
+   "source": "17_Duskwood2.lua"
+  },
+  {
+   "key": "18",
+   "file": "18_Wetlands1.lua",
+   "source": "18_Wetlands1.lua"
+  },
+  {
+   "key": "19",
+   "file": "19_Wetlands2.lua",
+   "source": "19_Wetlands2.lua"
+  },
+  {
+   "key": "20",
+   "file": "20_Darnassus.lua",
+   "source": "20_Darnassus.lua"
+  },
+  {
+   "key": "21",
+   "file": "21_AshenvaleEast.lua",
+   "source": "21_AshenvaleEast.lua"
+  },
+  {
+   "key": "22",
+   "file": "22_ExcavationSite.lua",
+   "source": "22_ExcavationSite.lua"
+  },
+  {
+   "key": "23",
+   "file": "23_Hillsbrad.lua",
+   "source": "23_Hillsbrad.lua"
+  },
+  {
+   "key": "24",
+   "file": "24_Gnomeregan.lua",
+   "source": "24_Gnomeregan.lua"
+  },
+  {
+   "key": "25",
+   "file": "25_LooseEnds30.lua",
+   "source": "25_LooseEnds30.lua"
+  },
+  {
+   "key": "26",
+   "file": "26_RazorfenKraul.lua",
+   "source": "26_RazorfenKraul.lua"
+  }
+ ],
+ "toc": {
+  "headers": [
+   [
+    "Interface",
+    "16001"
+   ],
+   [
+    "Title",
+    "Guidelime |cff66ff66Forever Druid 1-30|r"
+   ],
+   [
+    "Notes",
+    "Skyborne Druid (feral) 1-30, generated from the Alliance chapters; see docs/druid-build-2026-11-02.md"
+   ],
+   [
+    "Author",
+    "Braedyn (with Claude)"
+   ],
+   [
+    "Version",
+    "2026.11.02"
+   ],
+   [
+    "Dependencies",
+    "Guidelime"
+   ],
+   [
+    "X-Website",
+    "generated from Guidelime_ForeverShaman; route references: sageguide.net, TUGs Forever, Polestar Guides 0.2.6"
+   ]
+  ]
+ },
+ "toc_files": [
+  "Guidelime_ForeverDruid.toc",
+  "Guidelime_ForeverDruid_Forever.toc"
+ ],
+ "flag_words": [
+  "shaman",
+  "totem",
+  "Totemic",
+  "Brawler",
+  "Leatherworking",
+  "leather",
+  "hunter",
+  "pet",
+  "Rockbiter",
+  "Flametongue",
+  "Ghost Wolf",
+  "2H",
+  "Int",
+  "Spirit",
+  "warrior",
+  "shield",
+  "Taunt",
+  "Defensive",
+  "Sunder",
+  "Charge"
+ ]
+}

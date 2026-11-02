@@ -11,6 +11,8 @@ weights/score_items.py parser and weights, and checked against what the guide al
     python tooling\\dungeon_loot.py --profile prot [--variant tooling\\variants\\skyborne_warrior\\variant.json] [--stdout]
                                                   -> the same report for another weights/profiles.py profile
                                                      (file: dungeon-loot-prot-<today>.md); default enh is unchanged
+    python tooling\\dungeon_loot.py --profile feral --variant tooling\\variants\\skyborne_druid\\variant.json [--stdout]
+                                                  -> the feral druid profile (added 2 Nov 2026; file dungeon-loot-feral-<today>.md)
 
 Inputs (read only):
   tooling/qdb/npc.json, item.json, META.json     via guidelib.db()  (npc [0] name, [6] spawns {zoneId: ...};
@@ -75,7 +77,8 @@ import profiles  # noqa: E402
 USABLE = profiles.ENH_USABLE
 INVTYPE = {1: 'head', 2: 'neck', 3: 'shoulder', 5: 'chest', 20: 'chest', 6: 'waist', 7: 'legs', 8: 'feet', 9: 'wrist',
            10: 'hands', 11: 'finger', 12: 'trinket', 13: '1H', 16: 'back', 17: '2H', 21: 'main hand', 22: 'off hand',
-           14: 'shield', 15: 'ranged', 25: 'thrown', 26: 'ranged'}   # 14-26 only reachable by the prot profile
+           14: 'shield', 15: 'ranged', 25: 'thrown', 26: 'ranged',   # 14-26 only reachable by the prot profile
+           23: 'held in off-hand', 28: 'idol'}                        # 23 and 28 only by the feral profile (2 Nov 2026)
 
 # score_items.py slot names -> comparison group for the baseline. 1H weapons compare with each other only: the build
 # is 2H, a 1H is the shield set (secondary), never a replacement for the 2H.
@@ -96,6 +99,30 @@ def band_weights():
 
 def nearest_band(level):
     return profiles.nearest_band(level)
+
+
+def band_group_lines(bw, head, con_word, tail=''):
+    """Report header for a profile whose bands use different weight sets (feral: bear 10/15, cat 20/25/30): one line per
+    group of bands with the same sets. None when every band uses one set (the caller keeps its 'every band' line)."""
+    groups = []
+    for b in BANDS:
+        for g in groups:
+            if bw[g[0]] == bw[b]:
+                g.append(b)
+                break
+        else:
+            groups.append([b])
+    if len(groups) < 2:
+        return None
+    out = []
+    for i, g in enumerate(groups):
+        c, k = bw[g[0]]
+        out.append('%s, %s %s: central %s; %s %s%s' % (
+            head if i == 0 else '- Weights', 'band' if len(g) == 1 else 'bands', '/'.join(map(str, g)),
+            ' '.join('%s=%g' % kv for kv in c.items()),
+            con_word, ' '.join('%s=%g' % kv for kv in k.items() if c.get(kv[0]) != kv[1]),
+            tail if i == len(groups) - 1 else ''))
+    return '\n'.join(out)
 
 
 # ---------------------------------------------------------------- inputs
@@ -410,7 +437,8 @@ def build(only=None, profile=None, variant=None, sink=None):
               'other bands take Int/Agi from enh_weights: %s' % (
                   ' '.join('%s=%g' % kv for kv in W20_CENTRAL.items()), W20_CONSERVATIVE['spi'], W20_CONSERVATIVE['sp'], W20_CONSERVATIVE['exp'],
                   '; '.join('L%d int=%g agi=%g' % (b, bw[b][0]['int'], bw[b][0]['agi']) for b in BANDS if b != 20))) if is_enh else
-              ('- Weights: profile %s, every band: central %s; conservative %s' % (
+              (band_group_lines(bw, '- Weights: profile %s' % prof.name, 'conservative') or
+               '- Weights: profile %s, every band: central %s; conservative %s' % (
                   prof.name, ' '.join('%s=%g' % kv for kv in bw[20][0].items()),
                   ' '.join('%s=%g' % kv for kv in bw[20][1].items() if bw[20][0].get(kv[0]) != kv[1]))),
               '- Creatures: QuestieDB zone spawns + the chapter\'s [TAR] ids + the DUNGEONS hand list of spawnless bosses. Trash in '
@@ -423,7 +451,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__.split('\n')[0])
     ap.add_argument('--stdout', action='store_true', help='print the report instead of writing it')
     ap.add_argument('--chapter', help='limit to one dungeon chapter, e.g. 07')
-    ap.add_argument('--profile', default='enh', help='weights profile from weights/profiles.py (enh, prot; default enh)')
+    ap.add_argument('--profile', default='enh', help='weights profile from weights/profiles.py (enh, prot, feral; default enh)')
     ap.add_argument('--variant', help='tooling/variants/<v>/variant.json: read that variant\'s chapters instead of the addon folder')
     a = ap.parse_args()
     variant = None

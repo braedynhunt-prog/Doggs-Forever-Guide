@@ -141,17 +141,21 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                        inline gear text and "needs overlay" lines with a flag word). Full syntax: the script's docstring.
   variants\<v>\        variant.json (schema: variants\skyborne_warrior\README.txt), profile.json, chapters\, overlay\,
                        generated_gear.json, missing_tooltips.txt, build_report.txt
-  gear_calls.py        --profile enh|prot (default enh: the report is unchanged), --variant <variant.json> (score the variant's
+  gear_calls.py        --profile enh|prot|feral (default enh: the report is unchanged), --variant <variant.json> (score the variant's
                        chapters), --emit <file> (generated gear JSON for the builder; schema in the docstring; also writes the
                        variant's missing_tooltips.txt for fetch_tooltips.py --from-file). "unstated" = a choice has no tooltip.
   dungeon_loot.py      --profile / --variant as gear_calls.py; the default report is unchanged
-  ..\weights\profiles.py   PROFILES {'enh', 'prot'}: weights per band, usable(), score(), secondary slot, client Item.csv
+  ..\weights\profiles.py   PROFILES {'enh', 'prot', 'feral'}: weights per band, usable(), score(), secondary slot, client Item.csv
                        filter, gear-line wording. enh = the shaman behaviour exactly; prot = ..\weights\prot_weights.py
                        (reasoning-only, docs\forever-prot-stat-weights.md). score_items.parse() now also reads armor, defense,
                        block value, block / dodge / parry chance, hit and crit (extra keys; enh scores unchanged).
+                       2 Nov 2026: feral = ..\weights\feral_weights.py (bear sets for bands 10/15, cat sets for 20/25/30;
+                       reasoning-only, docs\forever-feral-stat-weights.md); parse() also reads feral_ap and idols (Relic/Idol).
+  variants\skyborne_druid\   Skyborne Feral Druid variant (2 Nov 2026, druid plan Phase 0): profile feral, folder Guidelime_ForeverDruid;
+                       chapters\ and overlay\ are byte-identical copies of the warrior's until Phases 2-3; no generated_gear.json yet
   guidelib.py          FOREVER_GUIDE naming a variant's output folder (its basename is variant.json "folder", or the folder holds
                        <folder>.toc) switches FOOTER, CHAINS (one chain, variant.json "chain"), DEFAULT_CHAIN, RACES and
-                       RACE_WORDS to the variant; Warrior and Skyborne are race/class words everywhere; Zephras Isle (16593,
+                       RACE_WORDS to the variant; Warrior, Skyborne and Druid (2 Nov) are race/class words everywhere; Zephras Isle (16593,
                        Guidelime map 2521) is a known zone (also in tarcheck.py). baseline_path(): Alliance keeps
                        check_guide_baseline.txt / verify_baseline.txt, any other folder uses *_baseline_<folder>.txt.
   verify.py            baseline and default --chain follow the folder (FOREVER_GUIDE=guide\Guidelime_ForeverWarrior -> Skyborne)

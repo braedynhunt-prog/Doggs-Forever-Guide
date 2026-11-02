@@ -17,6 +17,9 @@ Checks every gear call in the Dwarf chain of the guide against today's Forever i
     python tooling\\gear_calls.py --profile prot --variant tooling\\variants\\skyborne_warrior\\variant.json --emit <file>
                                           -> generated gear calls for tooling/build_variant.py (schema below); also
                                              writes the variant's missing_tooltips.txt (fetch_tooltips.py --from-file)
+    python tooling\\gear_calls.py --profile feral --variant tooling\\variants\\skyborne_druid\\variant.json [--stdout | --emit <file>]
+                                          -> the feral druid profile (added 2 Nov 2026; bear weights at bands 10/15, cat
+                                             at 20/25/30; no secondary slot)
 
 Inputs (read only):
   guide/Guidelime_ForeverShaman/*.lua     gl.chain_files('Dwarf'); lines with [A ...Hunter...] or [GA Human] skipped
@@ -408,6 +411,9 @@ def build(profile=None, variant=None):
              ' '.join('%s=%g' % kv for kv in W20_CENTRAL.items()), W20_CONSERVATIVE['spi'], W20_CONSERVATIVE['sp'],
              W20_CONSERVATIVE['exp'], '; '.join('L%d int=%g agi=%g' % (b, bw[b][0]['int'], bw[b][0]['agi']) for b in BANDS if b != 20))
          if is_enh else
+         dungeon_loot.band_group_lines(bw, '- Weights: profile %s (%s)' % (prof.name, prof.label), 'conservative differs in',
+                                       '; chapters: %s' % ('variant %s' % variant['name'] if variant else
+                                                           'Dwarf chain of the addon folder')) or
          '- Weights: profile %s (%s), every band: central %s; conservative differs in %s; chapters: %s' % (
              prof.name, prof.label, ' '.join('%s=%g' % kv for kv in bw[20][0].items()),
              ' '.join('%s=%g' % kv for kv in bw[20][1].items() if bw[20][0].get(kv[0]) != kv[1]),
@@ -617,7 +623,7 @@ def emit(prof, variant, out_path):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split('\n')[0])
     ap.add_argument('--stdout', action='store_true', help='print the report instead of writing it')
-    ap.add_argument('--profile', default='enh', help='weights profile from weights/profiles.py (enh, prot; default enh)')
+    ap.add_argument('--profile', default='enh', help='weights profile from weights/profiles.py (enh, prot, feral; default enh)')
     ap.add_argument('--variant', help='tooling/variants/<v>/variant.json: score that variant\'s chapters')
     ap.add_argument('--emit', help='write the generated gear JSON for build_variant.py here (needs --variant)')
     a = ap.parse_args()

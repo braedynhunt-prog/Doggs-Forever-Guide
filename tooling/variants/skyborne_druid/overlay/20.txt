@@ -1,0 +1,19 @@
+# Chapter 20 (29-30 Darnassus and Astranaar) - Skyborne Protection Warrior overlay (block C, 1 Nov 2026)
+# "T <text>" anchors reach untagged [OC] lines that carry no other anchor token.
+
+# Thundris: drop the Human-hunter sentence (98209 carries the Skyborne race bit; Making Do 97926 too).
+@replace QT98209
+At [TAR3649 Thundris Windweaver], [QT98209] [QT97926 Making Do] (1,200 XP, the Nord'el you carried from Sylessa in Menethil; no reward is listed in the DB. Making Do pays the Shipwright's Satchel, a 6-slot reagent bag: equip it for your cooking and fishing mats) [G37.4,40.1 Darkshore]
+
+# Manados 1199: the stripped Gear line was leather/cloth prose for the shaman; fixed rewards get no generated line,
+# so the warrior call is written here (tooltips 1 Nov: Heartwood Girdle leather waist +5 Sta; Nimbus Boots cloth).
+@after QT1199
+[OC]|cffffcc00Gear (1199):|r Heartwood Girdle (leather belt, 50 armor, +5 Sta) only if your belt is weaker; Nimbus Boots are cloth: vendor
+
+# Warrior trainer stop at 29-30 (spec: Darnassus in 20) on the dropped hunter trainer line; Warrior's Terrace lies on
+# the walk south from Manados to Mathiel. Ranks come at even levels (Wowhead Forever trainer list), so only at 30.
+@replace TAR4146
+[O]Level 30 already? At [TAR4087 Arias'ta Bladesinger] (warrior trainer, Warrior's Terrace, on the way south to Mathiel), [T] train your level 30 abilities - otherwise they wait for Ironforge in chapter 24 [G58.7,34.9 Darnassus]
+
+@replace T |cffffcc00Check:|r new in the log: The Absent Minded Prospector (942)
+[OC]|cffffcc00Check:|r new in the log: The Absent Minded Prospector (942), Klockmort's Essentials (2925), Seeking Caitlin (95737), Vile Satyr! Dryads in Danger! (1021) and, if you took them, The Howling Vale (1022) and Castpipe's Task (2931). Still carried from chapter 12: Raene's Cleansing (1024), Kayneth Stillwind (4581), Fallen Sky Lake (1035) and, if you took it, The Tower of Althalaxx (1140). Next: the east of Ashenvale

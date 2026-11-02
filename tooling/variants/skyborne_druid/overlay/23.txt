@@ -1,0 +1,25 @@
+# Chapter 23 (30-31 Hillsbrad) - Skyborne Protection Warrior overlay (block C, 1 Nov 2026)
+# "T <text>" anchors reach untagged [OC] lines that carry no other anchor token.
+
+@replace T |cffffcc00Training:|r nothing in Southshore trains you
+[OC]|cffffcc00Training:|r nothing in Southshore trains you; if you did not train level 30 in Darnassus, it waits for the Ironforge warrior trainer (chapter 24).
+
+# Farren 562: fixed Fish Gutter is a main-hand axe (tooltip 1 Nov: 16.67 dps, +5 Spi) - a warrior weapon, not vendor fodder.
+@replace QT562
+At [TAR2228 Lieutenant Farren Orinelle], [QT562] [QA563 Reassignment] (3,200 XP: Farren's Report goes to Major Samuelson in Stormwind Keep, chapter 25) - |cffffcc00Gear (562):|r the fixed Fish Gutter (main-hand axe 16.7 dps, +5 Spi) - wield it if your one-hander is slower, else vendor [G51.5,58.4 Hillsbrad Foothills]
+
+# Bilger 98071: fixed Brewer's Bracers are mail +4 Str +2 Sta (tooltip) - a warrior wears them.
+@replace QT98071
+At [TAR2705 Brewmeister Bilger], [QT98071] - |cffffcc00Gear:|r Brewer's Bracers (mail wrist +4 Str +2 Sta, fixed reward): wear them unless your bracers are better [G52.1,58.7 Hillsbrad Foothills]
+
+@replace T |cffffffffExtras|r  -  the core quests are done
+[OC]|cffffffffExtras|r  -  the core quests are done (~14,000 XP). Everything from here to the flight is optional and each block takes its own pickup, so take one and skip the rest
+
+# Maleb 505: inline shaman/hunter gear text removed; the generated warrior line (Crusader Belt) follows the [QT].
+@replace QT505
+[O]At [TAR2276 Magistrate Henry Maleb], [QT505] [G48.1,59.1 Hillsbrad Foothills]
+
+@replace T |cFFFF0000GROUP 3+|r |cffffcc00Preserving Knowledge:|r
+[OC]|cFFFF0000GROUP 3+|r |cffffcc00Preserving Knowledge:|r the biggest XP in town (3,550 now, 3,550 more at Milton Sheaf in chapter 25) and the hardest. |cffffcc00Needs Southshore (538) from chapter 18:|r Dibbs offers it only after you hand 538 in. 5 Recovered Tomes from the Crushridge ogres (Ogres 34-35, Brutes 35-36, plus ELITE Maulers 36-37 and Mages 37-38) and the Worn Leather Book from the Weathered Bookcase in Crushridge Hold, Alterac. No drop rate and no route in the DB, and everything is 4-8 levels above you: you tank it with a healer and a third, or skip it
+@replace T |cffffcc00Check:|r handed in here: Down the Coast
+[OC]|cffffcc00Check:|r handed in here: Down the Coast to Stormwind Ho! (536, 559, 560, 561, 562), Brewer's Trade (98071), Hillsbrad's Hoard (98059), The Shamed Lieutenant (98219) and the bisque (555) if the meat dropped. Still open for Stormwind in chapter 25: Reassignment (563) and, if you took the group block, Return to Milton (542). Next: Ironforge, the warrior trainer and the Gnomeregan quests
