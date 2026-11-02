@@ -1,9 +1,9 @@
 {
  "source": "QuestieDB_Forever.toc",
  "flavor": "Forever",
- "version": "1.0.9",
+ "version": "1.0.10",
  "contract": "4",
- "build_commit": "7901fee2753cecb577a72c2e4b7126198e05baec",
+ "build_commit": "a37877c1490027ee48e5722bf602adf34f95a6dc",
  "build_time": "2023-11-14T22:13:20Z",
  "counts": {
   "Quest": [
