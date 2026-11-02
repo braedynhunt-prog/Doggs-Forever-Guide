@@ -207,7 +207,7 @@
    ],
    [
     "Notes",
-    "Skyborne Protection Warrior levelling route for WoW Forever (Alliance, 1H + shield, Skinning + Mining), generated from the Forever Alliance guide by tooling/build_variant.py. 2026.11.01: first full build - Zephras Isle 1-14 (two hand-written chapters), the Dalaran-Stormwind-Ironforge join leg, then chapters 02-26 with the warrior class thread (Wu Shen / Kelv / Arias'ta trainer stops, Exploring the Alliance, Journey to Sentinel Hill, the Fire Hardened chain to The Shieldsmith), prot gear calls after every reward, tank notes and per-boss loot calls in every dungeon. Unverified items are marked in the text; the test list is docs/warrior-build-2026-11-01.md. 2026.11.01 (second pass): the optional Classic warrior weapon chain (Bartleby in Stormwind, Tormus Deepforge in Ironforge, Umbral weapons in 11-15 Loch Modan, Marshal Haggard and Dead-tooth Jack in 26-27 Redridge and Eastvale); the Guard's-set AH remarks cut (bind on pickup). Research pass (Wowhead Forever, nether tooltips, Blizzard's Skyborne post): the Bulwark hand-in moved to right after the Zaal kill (it teaches Defensive Stance), the Feathers for Binding budget set from its 27.5% drop rate (~73 kills; it gates the Nightfang Den chain), drop rates and recipe skills written in, racials corrected (1% haste), Dead-Tooth Jack and the Dark Iron Map rates, trainer-rank caveats dropped. 2026.11.01 (release check): the Mor'Ladim chain total in 25-26 corrected to 5,340 XP; Darnassus, Razorfen Kraul and Gnomeregan XP refreshed from Wowhead; a quoted-XP check added to the tooling."
+    "Skyborne Protection Warrior levelling route for WoW Forever (Alliance, 1H + shield, Skinning + Mining), generated from the Forever Alliance guide by tooling/build_variant.py. 2026.11.01: first full build - Zephras Isle 1-14 (two hand-written chapters), the Dalaran-Stormwind-Ironforge join leg, then chapters 02-26 with the warrior class thread (Wu Shen / Kelv / Arias'ta trainer stops, Exploring the Alliance, Journey to Sentinel Hill, the Fire Hardened chain to The Shieldsmith), prot gear calls after every reward, tank notes and per-boss loot calls in every dungeon. Unverified items are marked in the text; the test list is docs/warrior-build-2026-11-01.md. 2026.11.01 (second pass): the optional Classic warrior weapon chain (Bartleby in Stormwind, Tormus Deepforge in Ironforge, Umbral weapons in 11-15 Loch Modan, Marshal Haggard and Dead-tooth Jack in 26-27 Redridge and Eastvale); the Guard's-set AH remarks cut (bind on pickup). Research pass (Wowhead Forever, nether tooltips, Blizzard's Skyborne post): the Bulwark hand-in moved to right after the Zaal kill (it teaches Defensive Stance), the Feathers for Binding budget set from its 27.5% drop rate (~73 kills; it gates the Nightfang Den chain), drop rates and recipe skills written in, racials corrected (1% haste), Dead-Tooth Jack and the Dark Iron Map rates, trainer-rank caveats dropped. 2026.11.01 (release check): the Mor'Ladim chain total in 25-26 corrected to 5,340 XP; Darnassus, Razorfen Kraul and Gnomeregan XP refreshed from Wowhead; a quoted-XP check added to the tooling. 2 Nov: QuestieDB 1.0.10 + client 1.60.1.70753: Incinerator Gar'im and Baron Marinous (GROUP 2+) noted as elite, crocolisk spawn count 19, Wowhead XP re-pulled for every route zone (no change), tooltips refreshed."
    ],
    [
     "Author",
@@ -215,7 +215,7 @@
    ],
    [
     "Version",
-    "2026.11.01"
+    "2026.11.02"
    ],
    [
     "Dependencies",

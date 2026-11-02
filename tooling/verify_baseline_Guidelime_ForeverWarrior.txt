@@ -32,4 +32,4 @@ gates  09_LochModanMenethil.lua:100  Recipe: Crocolisk Gumbo needs Cooking 120; 
 xp  05_Westfall.lua:82  "2,890 XP" matches no quest on the line (136 Captain Sander's Hidden Treasure = 580)
 xp  12_Ashenvale.lua:64  "3,050 XP" matches no quest on the line (1034 The Ruins of Stardust = 1,850)
 xp  15_Stockade.lua:15  "2,000 XP" matches no quest on the line (343 Speaking of Fortitude = 195)
-xp  20_Darnassus.lua:21  "3,050 XP" matches no quest on the line (2925 Klockmort's Essentials = 245)
+xp  20_Darnassus.lua:22  "3,050 XP" matches no quest on the line (2925 Klockmort's Essentials = 245)

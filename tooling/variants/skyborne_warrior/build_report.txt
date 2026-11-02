@@ -626,7 +626,7 @@ profile: prot; generated gear: tooling\variants\skyborne_warrior\generated_gear.
   26: tooling\variants\skyborne_warrior\overlay\26.txt:54 @replace T |cffffcc00Check:|r log should hold nothing from this chapter except -> source line 88
   26: tooling\variants\skyborne_warrior\overlay\26.txt:58 @replace T neutral and safe for both of you -> source line 29
 
-== Generated gear lines placed: 83 ==
+== Generated gear lines placed: 84 ==
   02 QT307 Filthy Paws after source line 81
   02 QT257 A Hunter's Boast after source line 106
   02 QT416 Rat Catching after source line 121
@@ -693,6 +693,7 @@ profile: prot; generated gear: tooling\variants\skyborne_warrior\generated_gear.
   19 QT98223 Old Habits after source line 110
   20 QT1275 Researching the Corruption after source line 9
   20 QT1200 Blackfathom Villainy after source line 16
+  20 QT1199 Twilight Falls after source line 18
   20 QT741 The Absent Minded Prospector after source line 24
   21 QT1012 Insane Druids after source line 42
   21 QT1035 Fallen Sky Lake after source line 54

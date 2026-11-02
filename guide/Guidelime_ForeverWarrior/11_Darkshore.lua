@@ -102,7 +102,7 @@ At [TAR6667 Gelkak Gyromast], [QT2098] [QA2078 Gyromast's Revenge] [G56.7,13.5 D
 At [TAR6667 Gelkak Gyromast], [QT2078] [G56.7,13.5 Darkshore]
 Click the Mathystra Relics lying on the Stormscale coast (6 needed, |cff66ff66normal|r) [QC951] [G59.7,21.9 Darkshore]
 Kill 12 [TAR2181 Stormscale Myrmidon], 8 [TAR2182 Stormscale Sorceress] and 6 [TAR2183 Stormscale Warrior] [QC98013] [G59.6,21 Darkshore]
-[O]Kill [TAR270294 Baron Marinous] (level 21, among the Stormscale) and right-click the Clouded Water Globe he drops [QA98028 Baron Marinous] (drop, no stated rate: take it if it falls, do not farm) [G59,22.8 Darkshore]
+[O]|cFFFF0000GROUP 2+|r Kill [TAR270294 Baron Marinous] (level 21 elite in QuestieDB 1.0.10, among the Stormscale) and right-click the Clouded Water Globe he drops [QA98028 Baron Marinous] (drop, no stated rate: take it if it falls, do not farm) [G59,22.8 Darkshore]
 |cFFfff8a3Run back to Auberdine|r
 
 [OC]|cffffffffAuberdine hand-ins (2)|r

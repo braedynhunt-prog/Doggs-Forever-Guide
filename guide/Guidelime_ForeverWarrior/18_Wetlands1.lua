@@ -37,7 +37,7 @@ At [TAR270844 Sylessa Duskwhisper], [QT98208] [QA98209 Bloom of the Heavens] (1,
 At [TAR2096 Tarrel Rockweaver] on the road in, [QA305 In Search of The Excavation Team] (970 XP) [G11.5,52.2 Wetlands]
 
 [OC]|cffffffffNorth bay (optional, 2,100 XP)|r  -  Apprentice's Duties (471) from chapter 09, if it is still in your log: ~30 units up the shore and the same back, with 13 level 25-26 crocs standing in the bay. If you skip it, abandon the quest [QS471]
-[O]Walk north along the shore to the bay and kill [TAR2089 Giant Wetlands Crocolisk] (level 25-26, non-elite) for 6 Giant Crocolisk Skins - the DB gives no rate, 13 spawns, |cffffcc00budget ~15 kills|r [QC471] [G19.0,24.8 Wetlands]
+[O]Walk north along the shore to the bay and kill [TAR2089 Giant Wetlands Crocolisk] (level 25-26, non-elite) for 6 Giant Crocolisk Skins - the DB gives no rate, 19 spawns, |cffffcc00budget ~15 kills|r [QC471] [G19.0,24.8 Wetlands]
 [O]Back in Menethil at [TAR2094 James Halloran], [QT471] [G8.6,55.7 Wetlands]
 [OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Malleable Chain Leggings|r (mail legs +7 Str +3 Agi +3 Sta)
 

@@ -16,6 +16,7 @@ At [TAR3649 Thundris Windweaver], [QT98209] [QT97926 Making Do] (1,200 XP, the N
 At [TAR4783 Dawnwatcher Selgorm], [QT1200] (3,300 XP, the Head of Kelris) [G56.2,24.4 Darnassus]
 [OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Arctic Buckler|r (shield 642 armor 13 block +8 Sta)
 At [TAR4784 Argent Guard Manados], [QT1199] (2,550 XP, the 10 Twilight Pendants; both rewards are fixed) [G55.2,24.0 Darnassus]
+[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Silvered Gauntlets|r (mail hands +5 Sta)
 [OC]|cffffcc00Gear (1199):|r Heartwood Girdle (leather belt, 50 armor, +5 Sta) only if your belt is weaker; Nimbus Boots are cloth: vendor
 [O]Level 30 already? At [TAR4087 Arias'ta Bladesinger] (warrior trainer, Warrior's Terrace, on the way south to Mathiel), [T] train your level 30 abilities - otherwise they wait for Ironforge in chapter 24 [G58.7,34.9 Darnassus]
 At [TAR6142 Mathiel], [QA2925 Klockmort's Essentials] (a 245-XP breadcrumb to Klockmort Spannerspan in Ironforge; it opens Essential Artificials, 3,050 XP, which is a Gnomeregan quest - chapter 24) [G59.5,45.4 Darnassus]

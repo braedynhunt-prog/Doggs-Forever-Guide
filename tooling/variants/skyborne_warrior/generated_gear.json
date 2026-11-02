@@ -1,14 +1,1197 @@
 {
- "generated": "2026-11-01",
+ "generated": "2026-11-02",
  "variant": "skyborne_warrior",
  "profile": "prot",
  "class_tag": "Warrior",
  "tooltips": [
-  "weights/tooltips/2026-11-01.json dated 2026-11-01 - 639 items taken",
+  "weights/tooltips/2026-11-02.json dated 2026-11-02 - 678 items taken",
+  "weights/tooltips/2026-11-01.json dated 2026-11-01 - 0 items taken",
   "weights/tooltips/2026-10-29.json dated 2026-10-29 - 0 items taken",
   "weights/item_tooltips.json dated 2026-09-24 (sources.json fallback_date) - 0 items taken"
  ],
  "quests": [
+  {
+   "chapter": "00s",
+   "file": "00s_ZephrasIsle1.lua",
+   "line": 26,
+   "qid": 92461,
+   "quest": "Harmony in Balance",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Vuldren Hide Bracers"
+   ],
+   "pick_ids": [
+    257280
+   ],
+   "conservative_best": "Vuldren Hide Bracers",
+   "text": "[OC][A Warrior] |cffffcc00Gear (92461):|r take |cff66ff66Vuldren Hide Bracers|r (leather wrist)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257281,
+     "name": "Fur-Lined Shoes",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Cloth",
+     "usable": false,
+     "note": "cloth",
+     "central": 0.21,
+     "conservative": 0.14,
+     "describe": "cloth feet"
+    },
+    {
+     "id": 257280,
+     "name": "Vuldren Hide Bracers",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 0.45,
+     "conservative": 0.3,
+     "describe": "leather wrist"
+    }
+   ]
+  },
+  {
+   "chapter": "00s",
+   "file": "00s_ZephrasIsle1.lua",
+   "line": 42,
+   "qid": 92463,
+   "quest": "The Cirrusfly Queen",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Watcher's Mail Chest"
+   ],
+   "pick_ids": [
+    263410
+   ],
+   "conservative_best": "Watcher's Mail Chest",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Watcher's Mail Chest|r (mail chest)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263408,
+     "name": "Exterminator's Vest",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 0.99,
+     "conservative": 0.66,
+     "describe": "leather chest"
+    },
+    {
+     "id": 263409,
+     "name": "Gardening Pants",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Cloth",
+     "usable": false,
+     "note": "cloth",
+     "central": 0.27,
+     "conservative": 0.18,
+     "describe": "cloth legs"
+    },
+    {
+     "id": 263410,
+     "name": "Watcher's Mail Chest",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Mail",
+     "usable": true,
+     "note": "",
+     "central": 2.01,
+     "conservative": 1.34,
+     "describe": "mail chest"
+    }
+   ]
+  },
+  {
+   "chapter": "00s",
+   "file": "00s_ZephrasIsle1.lua",
+   "line": 45,
+   "qid": 93552,
+   "quest": "Harvesting Windstones",
+   "band": 10,
+   "status": "not_gear",
+   "pick": [],
+   "pick_ids": [],
+   "conservative_best": null,
+   "text": null,
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 247840,
+     "name": "Mining for Dummies",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    },
+    {
+     "id": 247841,
+     "name": "Wild Harvest",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    },
+    {
+     "id": 247846,
+     "name": "Pelt Collecting for Beginners",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    }
+   ]
+  },
+  {
+   "chapter": "00s",
+   "file": "00s_ZephrasIsle1.lua",
+   "line": 49,
+   "qid": 92469,
+   "quest": "Return to Rorian",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Skychain Belt"
+   ],
+   "pick_ids": [
+    257272
+   ],
+   "conservative_best": "Skychain Belt",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Skychain Belt|r (mail waist)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257277,
+     "name": "Windblown Short Cloak",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "cloak"
+    },
+    {
+     "id": 257272,
+     "name": "Skychain Belt",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Mail",
+     "usable": true,
+     "note": "",
+     "central": 1.14,
+     "conservative": 0.76,
+     "describe": "mail waist"
+    }
+   ]
+  },
+  {
+   "chapter": "00s",
+   "file": "00s_ZephrasIsle1.lua",
+   "line": 65,
+   "qid": 92473,
+   "quest": "Aggressive Encroachment",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Thendal Ranger's Shoes"
+   ],
+   "pick_ids": [
+    257257
+   ],
+   "conservative_best": "Thendal Ranger's Shoes",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Thendal Ranger's Shoes|r (mail feet)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257257,
+     "name": "Thendal Ranger's Shoes",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Mail",
+     "usable": true,
+     "note": "",
+     "central": 1.38,
+     "conservative": 0.92,
+     "describe": "mail feet"
+    },
+    {
+     "id": 257264,
+     "name": "Thendal Ranger's Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Cloth",
+     "usable": false,
+     "note": "cloth",
+     "central": 0.18,
+     "conservative": 0.12,
+     "describe": "cloth hands"
+    },
+    {
+     "id": 257263,
+     "name": "Thendal Ranger's Belt",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 0.57,
+     "conservative": 0.38,
+     "describe": "leather waist"
+    }
+   ]
+  },
+  {
+   "chapter": "00s",
+   "file": "00s_ZephrasIsle1.lua",
+   "line": 67,
+   "qid": 92470,
+   "quest": "Foul Matriarch",
+   "band": 10,
+   "status": "coin_flip",
+   "pick": [
+    "Scout Ranger's Dagger",
+    "Peacekeeper's Pickhammer"
+   ],
+   "pick_ids": [
+    257283,
+    257276
+   ],
+   "conservative_best": "Scout Ranger's Dagger",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r |cff66ff66Scout Ranger's Dagger|r (dagger 2.0 dps) or |cff66ff66Peacekeeper's Pickhammer|r (1H mace 2.0 dps), coin flip",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 258882,
+     "name": "Worn Greatsword",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "2H (1H + shield build)",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "2H sword 2.7 dps"
+    },
+    {
+     "id": 257282,
+     "name": "Novice's Quarterstaff",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Staff",
+     "usable": false,
+     "note": "2H (1H + shield build)",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "staff 2.7 dps"
+    },
+    {
+     "id": 257283,
+     "name": "Scout Ranger's Dagger",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Dagger",
+     "usable": true,
+     "note": "1H",
+     "central": 12.0,
+     "conservative": 12.0,
+     "describe": "dagger 2.0 dps"
+    },
+    {
+     "id": 257276,
+     "name": "Peacekeeper's Pickhammer",
+     "tooltip": true,
+     "slot": "Main Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "1H",
+     "central": 11.76,
+     "conservative": 11.76,
+     "describe": "1H mace 2.0 dps"
+    },
+    {
+     "id": 273879,
+     "name": "Refined Shortbow",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Bow",
+     "usable": true,
+     "note": "ranged (pull slot)",
+     "central": 2.08,
+     "conservative": 2.08,
+     "describe": "bow 2.1 dps"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 58,
+   "qid": 92517,
+   "quest": "The Criminal Element",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Highlands Mail Legguards"
+   ],
+   "pick_ids": [
+    263423
+   ],
+   "conservative_best": "Highlands Mail Legguards",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Highlands Mail Legguards|r (mail legs)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263421,
+     "name": "Bandit's Jerkin",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 1.23,
+     "conservative": 0.82,
+     "describe": "leather chest"
+    },
+    {
+     "id": 263422,
+     "name": "Patchwork Leggings",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Cloth",
+     "usable": false,
+     "note": "cloth",
+     "central": 0.36,
+     "conservative": 0.24,
+     "describe": "cloth legs"
+    },
+    {
+     "id": 263423,
+     "name": "Highlands Mail Legguards",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Mail",
+     "usable": true,
+     "note": "",
+     "central": 2.13,
+     "conservative": 1.42,
+     "describe": "mail legs"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 68,
+   "qid": 92528,
+   "quest": "Among the Faithful",
+   "band": 10,
+   "status": "coin_flip",
+   "pick": [
+    "Stained Ritual Dagger",
+    "Curved Scimitar"
+   ],
+   "pick_ids": [
+    257332,
+    257333
+   ],
+   "conservative_best": "Stained Ritual Dagger",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r |cff66ff66Stained Ritual Dagger|r (dagger 4.4 dps) or |cff66ff66Curved Scimitar|r (1H sword 4.3 dps), coin flip",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257332,
+     "name": "Stained Ritual Dagger",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Dagger",
+     "usable": true,
+     "note": "1H",
+     "central": 26.46,
+     "conservative": 26.46,
+     "describe": "dagger 4.4 dps"
+    },
+    {
+     "id": 257333,
+     "name": "Curved Scimitar",
+     "tooltip": true,
+     "slot": "Main Hand",
+     "cls": "Sword",
+     "usable": true,
+     "note": "1H",
+     "central": 25.74,
+     "conservative": 25.74,
+     "describe": "1H sword 4.3 dps"
+    },
+    {
+     "id": 273877,
+     "name": "Windswept Shortbow",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Bow",
+     "usable": true,
+     "note": "ranged (pull slot)",
+     "central": 3.41,
+     "conservative": 3.41,
+     "describe": "bow 3.4 dps"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 97,
+   "qid": 93318,
+   "quest": "WANTED: Vulgara the Insatiable",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Highlands Defender's Shield"
+   ],
+   "pick_ids": [
+    257255
+   ],
+   "conservative_best": "Highlands Defender's Shield",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Highlands Defender's Shield|r (shield 126 armor 3 block +1 Str)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257943,
+     "name": "Hunter's Simple Cloak",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 1.74,
+     "conservative": 1.16,
+     "describe": "cloak +1 Sta"
+    },
+    {
+     "id": 257255,
+     "name": "Highlands Defender's Shield",
+     "tooltip": true,
+     "slot": "Off Hand",
+     "cls": "Shield",
+     "usable": true,
+     "note": "shield",
+     "central": 7.28,
+     "conservative": 6.02,
+     "describe": "shield 126 armor 3 block +1 Str"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 99,
+   "qid": 92550,
+   "quest": "Havoc in the Highlands",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Ex-Commander's Gauntlets"
+   ],
+   "pick_ids": [
+    263426
+   ],
+   "conservative_best": "Ex-Commander's Gauntlets",
+   "text": "[OC][A Warrior] |cffffcc00Gear (92550):|r take |cff66ff66Ex-Commander's Gauntlets|r (mail hands)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263424,
+     "name": "Wolfhide Belt",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 0.87,
+     "conservative": 0.58,
+     "describe": "leather waist"
+    },
+    {
+     "id": 263425,
+     "name": "Elegant Cuffs",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Cloth",
+     "usable": false,
+     "note": "cloth",
+     "central": 0.24,
+     "conservative": 0.16,
+     "describe": "cloth wrist"
+    },
+    {
+     "id": 263426,
+     "name": "Ex-Commander's Gauntlets",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Mail",
+     "usable": true,
+     "note": "",
+     "central": 1.92,
+     "conservative": 1.28,
+     "describe": "mail hands"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 136,
+   "qid": 92684,
+   "quest": "Ornery Ornery Galestriders",
+   "band": 10,
+   "status": "coin_flip",
+   "pick": [
+    "Well-Worn Pants",
+    "Brass-Banded Bracers"
+   ],
+   "pick_ids": [
+    257334,
+    257331
+   ],
+   "conservative_best": "Well-Worn Pants",
+   "text": "[OC][A Warrior] |cffffcc00Gear (92684):|r |cff66ff66Well-Worn Pants|r (leather legs) or |cff66ff66Brass-Banded Bracers|r (mail wrist), coin flip",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257340,
+     "name": "Farmer's Field Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Cloth",
+     "usable": false,
+     "note": "cloth",
+     "central": 0.39,
+     "conservative": 0.26,
+     "describe": "cloth feet"
+    },
+    {
+     "id": 257331,
+     "name": "Brass-Banded Bracers",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Mail",
+     "usable": true,
+     "note": "",
+     "central": 1.35,
+     "conservative": 0.9,
+     "describe": "mail wrist"
+    },
+    {
+     "id": 257334,
+     "name": "Well-Worn Pants",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 1.38,
+     "conservative": 0.92,
+     "describe": "leather legs"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 147,
+   "qid": 92703,
+   "quest": "Deliver the News",
+   "band": 10,
+   "status": "coin_flip",
+   "pick": [
+    "Trusty Wrench",
+    "Roofing Hammer"
+   ],
+   "pick_ids": [
+    263313,
+    263314
+   ],
+   "conservative_best": "Trusty Wrench",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r |cff66ff66Trusty Wrench|r (1H mace 5.3 dps +1 Agi) or |cff66ff66Roofing Hammer|r (1H mace 5.4 dps), coin flip",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263312,
+     "name": "Planting Shovel",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Mace",
+     "usable": false,
+     "note": "2H (1H + shield build)",
+     "central": 2.0,
+     "conservative": 2.0,
+     "describe": "2H mace 7.0 dps +1 Str"
+    },
+    {
+     "id": 263314,
+     "name": "Roofing Hammer",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "1H",
+     "central": 32.52,
+     "conservative": 32.52,
+     "describe": "1H mace 5.4 dps"
+    },
+    {
+     "id": 263313,
+     "name": "Trusty Wrench",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "1H",
+     "central": 32.58,
+     "conservative": 32.58,
+     "describe": "1H mace 5.3 dps +1 Agi"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 162,
+   "qid": 93320,
+   "quest": "Tower Defense",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Peacekeeper's Legguards"
+   ],
+   "pick_ids": [
+    263340
+   ],
+   "conservative_best": "Peacekeeper's Legguards",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Peacekeeper's Legguards|r (mail legs +3 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263338,
+     "name": "Defender's Bracers",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 2.34,
+     "conservative": 1.56,
+     "describe": "leather wrist +1 Sta"
+    },
+    {
+     "id": 263339,
+     "name": "Windswept Slippers",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Cloth",
+     "usable": false,
+     "note": "cloth",
+     "central": 0.51,
+     "conservative": 0.34,
+     "describe": "cloth feet"
+    },
+    {
+     "id": 263340,
+     "name": "Peacekeeper's Legguards",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Mail",
+     "usable": true,
+     "note": "",
+     "central": 6.09,
+     "conservative": 4.96,
+     "describe": "mail legs +3 Agi"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 167,
+   "qid": 92645,
+   "quest": "Breaking the Breaker",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Breaker's Gauntlets"
+   ],
+   "pick_ids": [
+    263337
+   ],
+   "conservative_best": "Breaker's Gauntlets",
+   "text": "[OC][A Warrior] |cffffcc00Gear (92645):|r take |cff66ff66Breaker's Gauntlets|r (mail hands +2 Str)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263335,
+     "name": "Hunter's Cord",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 4.08,
+     "conservative": 2.72,
+     "describe": "leather waist +2 Sta"
+    },
+    {
+     "id": 263336,
+     "name": "Windsong Bangles",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Cloth",
+     "usable": false,
+     "note": "cloth",
+     "central": 0.33,
+     "conservative": 0.22,
+     "describe": "cloth wrist"
+    },
+    {
+     "id": 263337,
+     "name": "Breaker's Gauntlets",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Mail",
+     "usable": true,
+     "note": "",
+     "central": 6.43,
+     "conservative": 5.62,
+     "describe": "mail hands +2 Str"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 171,
+   "qid": 92834,
+   "quest": "Avenged Tenfold",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Cilice of Regret"
+   ],
+   "pick_ids": [
+    263403
+   ],
+   "conservative_best": "Cilice of Regret",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Cilice of Regret|r (mail waist +1 Str)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263401,
+     "name": "Martyr's Armor",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 3.54,
+     "conservative": 2.96,
+     "describe": "leather chest +2 Agi"
+    },
+    {
+     "id": 263402,
+     "name": "Sash of Sorrow",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Cloth",
+     "usable": false,
+     "note": "cloth",
+     "central": 0.36,
+     "conservative": 0.24,
+     "describe": "cloth waist"
+    },
+    {
+     "id": 263403,
+     "name": "Cilice of Regret",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Mail",
+     "usable": true,
+     "note": "",
+     "central": 3.95,
+     "conservative": 3.3,
+     "describe": "mail waist +1 Str"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 176,
+   "qid": 92880,
+   "quest": "Return to Valanaar",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Quickblade's Dagger"
+   ],
+   "pick_ids": [
+    257346
+   ],
+   "conservative_best": "Quickblade's Dagger",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Quickblade's Dagger|r (dagger 6.8 dps +1 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257345,
+     "name": "Honed Greathammer",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Mace",
+     "usable": false,
+     "note": "2H (1H + shield build)",
+     "central": 4.0,
+     "conservative": 4.0,
+     "describe": "2H mace 9.1 dps +2 Str"
+    },
+    {
+     "id": 257346,
+     "name": "Quickblade's Dagger",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Dagger",
+     "usable": true,
+     "note": "1H",
+     "central": 41.46,
+     "conservative": 41.46,
+     "describe": "dagger 6.8 dps +1 Agi"
+    },
+    {
+     "id": 257343,
+     "name": "Balanced Quarterstaff",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Staff",
+     "usable": false,
+     "note": "2H (1H + shield build)",
+     "central": 3.0,
+     "conservative": 2.0,
+     "describe": "staff 8.9 dps +2 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 186,
+   "qid": 92644,
+   "quest": "Unfortunate News",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Peacekeeper's Mail"
+   ],
+   "pick_ids": [
+    263333
+   ],
+   "conservative_best": "Peacekeeper's Mail",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Peacekeeper's Mail|r (mail chest +3 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263330,
+     "name": "Tracker's Pants",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 4.41,
+     "conservative": 3.84,
+     "describe": "leather legs +3 Agi"
+    },
+    {
+     "id": 263332,
+     "name": "Elder's Tunic",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Cloth",
+     "usable": false,
+     "note": "cloth",
+     "central": 0.75,
+     "conservative": 0.5,
+     "describe": "cloth chest"
+    },
+    {
+     "id": 263333,
+     "name": "Peacekeeper's Mail",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Mail",
+     "usable": true,
+     "note": "",
+     "central": 8.37,
+     "conservative": 5.58,
+     "describe": "mail chest +3 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 193,
+   "qid": 92640,
+   "quest": "Desperate Times",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Elite Peacekeeper's Leggings"
+   ],
+   "pick_ids": [
+    257342
+   ],
+   "conservative_best": "Elite Peacekeeper's Leggings",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Elite Peacekeeper's Leggings|r (mail legs +3 Str)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257344,
+     "name": "Skywatcher's Vestments",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 5.85,
+     "conservative": 4.2,
+     "describe": "leather chest +1 Agi +2 Sta"
+    },
+    {
+     "id": 257342,
+     "name": "Elite Peacekeeper's Leggings",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Mail",
+     "usable": true,
+     "note": "",
+     "central": 9.39,
+     "conservative": 8.26,
+     "describe": "mail legs +3 Str"
+    },
+    {
+     "id": 273876,
+     "name": "Broken Cultist Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Cloth",
+     "usable": false,
+     "note": "cloth",
+     "central": 0.45,
+     "conservative": 0.3,
+     "describe": "cloth hands"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 219,
+   "qid": 93165,
+   "quest": "Mercy Falls on Deaf Ears",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Cult Hunter's Boots"
+   ],
+   "pick_ids": [
+    263308
+   ],
+   "conservative_best": "Cult Hunter's Boots",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Cult Hunter's Boots|r (mail feet +1 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263306,
+     "name": "Nightclaw Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 1.98,
+     "conservative": 1.62,
+     "describe": "leather hands +1 Agi"
+    },
+    {
+     "id": 263307,
+     "name": "Shadowgale Pants",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Cloth",
+     "usable": false,
+     "note": "cloth",
+     "central": 0.54,
+     "conservative": 0.36,
+     "describe": "cloth legs"
+    },
+    {
+     "id": 263308,
+     "name": "Cult Hunter's Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Mail",
+     "usable": true,
+     "note": "",
+     "central": 3.87,
+     "conservative": 2.58,
+     "describe": "mail feet +1 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 231,
+   "qid": 93172,
+   "quest": "Free the Hollows",
+   "band": 10,
+   "status": "coin_flip",
+   "pick": [
+    "Scuffed Cuffs",
+    "Freedom Walkers"
+   ],
+   "pick_ids": [
+    263311,
+    263309
+   ],
+   "conservative_best": "Scuffed Cuffs",
+   "text": "[OC][A Warrior] |cffffcc00Gear (93172):|r |cff66ff66Scuffed Cuffs|r (mail wrist +1 Str) or |cff66ff66Freedom Walkers|r (leather feet +1 Str), coin flip",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263309,
+     "name": "Freedom Walkers",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 3.2,
+     "conservative": 2.8,
+     "describe": "leather feet +1 Str"
+    },
+    {
+     "id": 263310,
+     "name": "Sorrowsong Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Cloth",
+     "usable": false,
+     "note": "cloth",
+     "central": 0.39,
+     "conservative": 0.26,
+     "describe": "cloth hands"
+    },
+    {
+     "id": 263311,
+     "name": "Scuffed Cuffs",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Mail",
+     "usable": true,
+     "note": "",
+     "central": 3.5,
+     "conservative": 3.0,
+     "describe": "mail wrist +1 Str"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 241,
+   "qid": 93835,
+   "quest": "Confront Lorthuna",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Belt of Blades"
+   ],
+   "pick_ids": [
+    263405
+   ],
+   "conservative_best": "Belt of Blades",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Belt of Blades|r (leather waist +2 Str +2 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263405,
+     "name": "Belt of Blades",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 6.97,
+     "conservative": 6.58,
+     "describe": "leather waist +2 Str +2 Agi"
+    },
+    {
+     "id": 263406,
+     "name": "Empyrean Shoes",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Cloth",
+     "usable": false,
+     "note": "cloth",
+     "central": 0.57,
+     "conservative": 0.38,
+     "describe": "cloth feet"
+    },
+    {
+     "id": 263407,
+     "name": "Empyrean Greatsword",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "2H (1H + shield build)",
+     "central": 8.0,
+     "conservative": 8.0,
+     "describe": "2H sword 10.2 dps +4 Str"
+    },
+    {
+     "id": 273875,
+     "name": "Empyrean Treads",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 1.44,
+     "conservative": 0.96,
+     "describe": "leather feet"
+    }
+   ]
+  },
   {
    "chapter": "02",
    "file": "02_LochModan.lua",
@@ -3726,6 +4909,86 @@
      "central": 37.76,
      "conservative": 27.34,
      "describe": "shield 642 armor 13 block +8 Sta"
+    },
+    {
+     "id": 270031,
+     "name": "Dark Ritual Leggings",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 16.14,
+     "conservative": 10.76,
+     "describe": "leather legs +9 Sta"
+    },
+    {
+     "id": 270032,
+     "name": "Cultist's Armguards",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 21.82,
+     "conservative": 17.88,
+     "describe": "leather wrist +7 Sta +10 AP"
+    }
+   ]
+  },
+  {
+   "chapter": "20",
+   "file": "20_Darnassus.lua",
+   "line": 18,
+   "qid": 1199,
+   "quest": "Twilight Falls",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Silvered Gauntlets"
+   ],
+   "pick_ids": [
+    270025
+   ],
+   "conservative_best": "Silvered Gauntlets",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Silvered Gauntlets|r (mail hands +5 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 6998,
+     "name": "Nimbus Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Cloth",
+     "usable": false,
+     "note": "cloth",
+     "central": 5.34,
+     "conservative": 5.06,
+     "describe": "cloth feet +5 Agi"
+    },
+    {
+     "id": 7000,
+     "name": "Heartwood Girdle",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 9.0,
+     "conservative": 6.0,
+     "describe": "leather waist +5 Sta"
+    },
+    {
+     "id": 270025,
+     "name": "Silvered Gauntlets",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Mail",
+     "usable": true,
+     "note": "",
+     "central": 11.04,
+     "conservative": 7.36,
+     "describe": "mail hands +5 Sta"
     }
    ]
   },
@@ -4552,15 +5815,17 @@
    "qid": 1144,
    "quest": "Willix the Importer",
    "band": 30,
-   "status": "pick",
+   "status": "coin_flip",
    "pick": [
+    "Boar Signet",
     "Tiger Band"
    ],
    "pick_ids": [
+    274078,
     6749
    ],
    "conservative_best": "Tiger Band",
-   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Tiger Band|r (ring +5 Str)",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r |cff66ff66Boar Signet|r (ring +5 Sta, +1% block) or |cff66ff66Tiger Band|r (ring +5 Str), coin flip",
    "missing_tooltips": [],
    "choices": [
     {
@@ -4598,6 +5863,18 @@
      "central": 10.0,
      "conservative": 10.0,
      "describe": "ring +5 Str"
+    },
+    {
+     "id": 274078,
+     "name": "Boar Signet",
+     "tooltip": true,
+     "slot": "Finger",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 10.5,
+     "conservative": 8.0,
+     "describe": "ring +5 Sta, +1% block"
     }
    ]
   },
@@ -4610,13 +5887,13 @@
    "band": 30,
    "status": "pick",
    "pick": [
-    "Lancer Boots"
+    "Sentinel's Boots"
    ],
    "pick_ids": [
-    6752
+    270047
    ],
-   "conservative_best": "Lancer Boots",
-   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Lancer Boots|r (leather feet +5 Agi +6 Sta)",
+   "conservative_best": "Sentinel's Boots",
+   "text": "[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Sentinel's Boots|r (mail feet +4 Str +4 Sta)",
    "missing_tooltips": [],
    "choices": [
     {
@@ -4642,6 +5919,18 @@
      "central": 15.51,
      "conservative": 11.84,
      "describe": "leather feet +5 Agi +6 Sta"
+    },
+    {
+     "id": 270047,
+     "name": "Sentinel's Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Mail",
+     "usable": true,
+     "note": "",
+     "central": 18.2,
+     "conservative": 14.8,
+     "describe": "mail feet +4 Str +4 Sta"
     }
    ]
   }
@@ -6667,14 +7956,14 @@
  ],
  "missing_tooltip_ids": [],
  "counts": {
-  "quests": 93,
-  "picks": 79,
-  "coin_flips": 2,
+  "quests": 115,
+  "picks": 94,
+  "coin_flips": 8,
   "nothing": 3,
-  "not_gear": 9,
+  "not_gear": 10,
   "unstated": 0,
   "dungeon_groups": 66,
   "missing_tooltips": 0,
-  "qt_without_choices": 374
+  "qt_without_choices": 454
  }
 }

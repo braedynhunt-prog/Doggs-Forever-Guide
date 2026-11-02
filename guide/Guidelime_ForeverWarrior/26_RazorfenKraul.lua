@@ -61,14 +61,14 @@ At [TAR4508 Willix the Importer], [QA1144 Willix the Importer] (3,050 XP; all of
 Walk Willix out of the Kraul [QC1144]
 [OC]Willix finishes at the exit; a Forever write-up says to turn it in just outside the portal, so step out and look for him there before you decide he has gone
 Hand in to [TAR4508 Willix the Importer] at the exit [QT1144] [G42.9,90.2 The Barrens]
-[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Tiger Band|r (ring +5 Str)
+[OC][A Warrior] |cffffcc00Gear:|r |cff66ff66Boar Signet|r (ring +5 Sta, +1% block) or |cff66ff66Tiger Band|r (ring +5 Str), coin flip
 
 [OC]|cffffffffHome|r  -  Mebok first, then the hearth
 Ride back north to Ratchet: the road past Camp Taurajo and the Crossroads, the same way you came [G62.4,37.6 The Barrens]
 At [TAR3446 Mebok Mizzyrix], [QT1221] (give back the Crate with Holes and the Command Stick with the 6 tubers) [G62.4,37.6 The Barrens]
 |cFFfff8a3Hearth to [H Sentinel Hill]|r
 [O]At [TAR4521 Treshala Fallowbrook] on the Tradesmen's Terrace, [QT1142] (3,050 XP + Lancer Boots; only if the Pendant dropped - Darnassus is the Auberdine boat, the Rut'theran boat and the portal, as in chapter 20, so do it on a later visit) [G69.5,67.8 Darnassus]
-[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Lancer Boots|r (leather feet +5 Agi +6 Sta)
+[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Sentinel's Boots|r (mail feet +4 Str +4 Sta)
 [OC]|cffffcc00Check:|r log should hold nothing from this chapter except, if the Pendant dropped, Mortality Wanes (1142) for a later Darnassus visit; if no Pendant dropped you may abandon it. Still open from chapter 25 on purpose: The Missing Diplomat 1248 (Menethil); Stepping Stones 79192 is carried to 30-40 (Cozy Sleeping Bag chain).
 [OC]|cffffffffEnd of the 1-30 guide|r  -  that was the last chapter. From here the open pointers are the ones chapter 25 listed (the Refuge Pointe hub, the City of Dalaran dungeon, Scarlet Monastery), the three Dalaran lead-ins and Stepping Stones (79192, the Cozy Sleeping Bag chain: Stonetalon 40.8,52.6 and 39.6,49.9, the Loch Modan dam 49.4,12.9, then Thoradin's Wall 22.5,24.2 in Arathi) you carry into the 30-40 guide (A Green Sample 92456, Power Overwhelming 92489, An Alarming Request 92432 - Modera on the Silverpine shore 68.6,45.2 takes 92432 and gives Starving Arcane and Heart of Disruption), plus the Dustwallow end of the Missing Diplomat chain and Ratchet's boat to Booty Bay, which now has its flight path. Level 31-32 is the turn into the next guide
 ]], "Forever Warrior 1-30")
