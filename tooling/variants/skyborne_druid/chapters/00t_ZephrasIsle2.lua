@@ -1,8 +1,8 @@
 Guidelime.registerGuide([[
 [N 6-14 Zephras Isle]
-[D Forever Warrior 1-30 (Braedyn)\\Zephras Isle full clear: Shen'dar Village, Falaath and the Western Watch, Windfield, Valanaar and the Gustberry Lowlands, the Shrine of Akir, Shadowgale Forest, Lorthuna and the skycutter to Dalaran.]
+[D Forever Druid 1-30 (Braedyn)\\Zephras Isle full clear: Shen'dar Village, Falaath and the Western Watch, Windfield, Valanaar and the Gustberry Lowlands, the Shrine of Akir, Shadowgale Forest, Lorthuna and the skycutter to Dalaran.]
 [GA Alliance]
-[OC]|cffffffffZephras Isle 6-14|r  -  full clear of the isle (about 14 at the skycutter). Quest order from QuestieDB Forever 1.0.9 prerequisites, checked against Polestar 0.2.6 and TUGs.
+[OC]|cffffffffZephras Isle 6-14|r  -  full clear of the isle (about 14 at the skycutter). Quest order from QuestieDB Forever 1.0.10 prerequisites, checked against Polestar 0.2.6 and TUGs.
 [OC]|cffffcc00Carry-over log:|r The Next Step (92472) and The Adventurer (96638) from Thendal Grove.
 [OC]|cffffcc00Launch rule (6-14):|r no shared tags in Forever - on a camped named mob or object INVITE the people standing there (kill credit shares in a party; most drop items don't). If no group forms in ~2 min, tick the step and keep moving; the catch-up line before the skycutter says what is still reachable.
 [OC]|cffffcc00Travel:|r no flight master on the isle; tornadoes on the roads give +40% run speed for 5 min. The DB lists innkeepers in Shen'dar (Coriella Calmbreeze) and Valanaar (Donaal Downbreeze) and TUGs binds the hearth at both, while Polestar says the isle has no inn: the route never uses the hearth here (unverified - test list)
@@ -12,9 +12,9 @@ Guidelime.registerGuide([[
 At [TAR251523 Constable Aonda] in the middle of the village, [QT92472] [QA93461 Welcome to Shen'dar Village] [G45.7,45.5 Zephras Isle]
 At [TAR251903 Rathiril Sunlance], [QA92596 The High Order] - sit down and talk to him [QC92596] [QC93461,1] [G45,46.4 Zephras Isle]
 At [TAR251903 Rathiril Sunlance], [QT92596] [QA94413 A Magical Affront] [G45,46.4 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r nothing for a warrior - vendor the Dowsing Rod (wand); drink the Elixir of Minor Strength before a hard pull
+[OC][A Druid] |cffffcc00Gear (94413):|r nothing to wear - the Dowsing Rod is a wand a druid cannot use, vendor it; drink the Elixir of Lion's Strength before a hard pull
 At [TAR254089 Coriella Calmbreeze] (innkeeper, northwest corner of the village), talk to her [QC93461,2] [G43,43.2 Zephras Isle]
-[A Warrior] At [TAR254088 Corsan Earthrazer] (warrior trainer, middle of the village), [T] train [G45,45.1 Zephras Isle]
+[A Druid] At [TAR254081 Naeluna Swiftmend] (druid trainer, middle of the village), [T] train (level 6: Thorns) [G45.2,44.2 Zephras Isle]
 
 [OC]|cffffcc00Professions (Skinning + Mining, plus First Aid, Cooking, Fishing):|r Skinning came from Thendal Grove. The Shen'dar NPCs below carry profession subnames ("Cook", "Medic", "Fisherman", "Miner"); that they teach is unverified - if one does not, the Valanaar NPCs are the fallback (Nyalah Brightfire cook, Baelann Swiftcurrent fisher, Halavuul Cragwind Mining Trainer)
 At [TAR251905 Zerril Softbreeze] (Cook), learn Cooking (unverified that he teaches); buy Simple Wood and Flint and Tinder for your campfires [G43.9,43.8 Zephras Isle]
@@ -56,7 +56,7 @@ Kill [TAR255534 "Badwind" Bennic] at the far north end of the camp [QC92517,2] |
 Bandage to 20: make Linen Bandages from the bandits' Linen Cloth at every rest until First Aid 20 (about 20 bandages; Classic values, unverified) [G48.9,37 Zephras Isle]
 [OC]Run back southwest to the village
 At [TAR251523 Constable Aonda], [QT92517] [QA93036 Infiltrating the Cult] [G45.7,45.5 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Highlands Mail Legguards|r (mail legs)
+[OC][A Druid] |cffffcc00Gear (92517):|r take |cff66ff66Bandit's Jerkin|r (leather chest) - the leggings are cloth, the legguards mail
 At [TAR251904 Sania Silverstream], [QT93036] [QA92529 Falaath Village] - she gives you the Mark of Akir (if you lose it, she gives it again) [G44.9,45.5 Zephras Isle]
 At [TAR251906 Teeri Wellwind], [QT93319] [G44.5,45 Zephras Isle]
 
@@ -66,9 +66,9 @@ At [TAR257065 Missionary Jasaan] at the village entrance, [QT92529] [QA92528 Amo
 Walk in among the faithful (the Mark of Akir keeps them friendly) and search the [TAR254128 Wardrobe] [QC92528] [G48.8,53.9 Zephras Isle]
 [OC]Run back north to Shen'dar
 At [TAR251523 Constable Aonda], [QT92528] [QA92550 Havoc in the Highlands] [QA93926 The Western Watch] [G45.7,45.5 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r |cff66ff66Stained Ritual Dagger|r (dagger 4.4 dps) or |cff66ff66Curved Scimitar|r (1H sword 4.3 dps), coin flip - take the one your weapon skill covers
+[OC][A Druid] |cffffcc00Gear (92528):|r take |cff66ff66Stained Ritual Dagger|r (dagger 4.4 dps) if your weapon skill covers daggers, else keep the staff - the scimitar is a sword, the shortbow a bow
 At [TAR252172 Danarii Bellowveil], [QA92551 Stolen Supplies] [G45.2,45.2 Zephras Isle]
-[A Warrior] At [TAR254088 Corsan Earthrazer], [T] train (level 8) [G45,45.1 Zephras Isle]
+[A Druid] At [TAR254081 Naeluna Swiftmend], [T] train (level 8: Entangling Roots) [G45.2,44.2 Zephras Isle]
 
 [OC]Run back south to Falaath Village (it is hostile now)
 Kill 6 [TAR252068 Al'Aketh Stormcaller] and 4 [TAR251662 Living Lightning] in the village [QC92550,1] [QC92550,2] [G49.1,56 Zephras Isle]
@@ -95,14 +95,14 @@ At [TAR251906 Teeri Wellwind], [QT92516] [G44.5,45 Zephras Isle]
 At [TAR251991 Taleen Shimmerthread], [QT93951] [G44.9,44.2 Zephras Isle]
 At [TAR252172 Danarii Bellowveil], [QT92551] [G45.2,45.2 Zephras Isle]
 [O]At [TAR252172 Danarii Bellowveil], [QT93318] if you killed Vulgara [G45.2,45.2 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Highlands Defender's Shield|r (shield 126 armor 3 block +1 Str)
+[OC][A Druid] |cffffcc00Gear (93318):|r take |cff66ff66Hunter's Simple Cloak|r (back +1 Sta) - the other is an off-hand a druid cannot use
 At [TAR251523 Constable Aonda], [QT92550] [QT93927] [QA92701 To Valanaar] [QA93948 Deliver the Signet] [G45.7,45.5 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear (92550):|r take |cff66ff66Ex-Commander's Gauntlets|r (mail hands)
+[OC][A Druid] |cffffcc00Gear (92550):|r take |cff66ff66Wolfhide Belt|r (leather waist) - the cuffs are cloth, the gauntlets mail
 At [TAR251903 Rathiril Sunlance], [QT94413] [G45,46.4 Zephras Isle]
 At [TAR257018 Naleeia Tattermend], [QT97965 Camping 101: First Aid] once First Aid is 20 [G43.1,46.3 Zephras Isle]
 [O]At [TAR251992 Fenn Fairweather], [QT97967 Camping 101: Fishing] once Fishing is 20 [G45,48.4 Zephras Isle]
 [O]At [TAR257024 Mendalass Tattermend], [QT97971 Camping 101: Skinning] once Skinning is 20 [G43.3,43.4 Zephras Isle]
-[A Warrior] At [TAR254088 Corsan Earthrazer], [T] train if you hit a new rank [G45,45.1 Zephras Isle]
+[A Druid] At [TAR254081 Naeluna Swiftmend], [T] train only if you are already 10 (Maul, Growl, Demoralizing Roar) - level 9 has no new rank, and Lotheluum in Valanaar trains you at 10 [G45.2,44.2 Zephras Isle]
 
 [OC]|cffffffffLevel 9-10 - the road to Valanaar|r  -  7 hand-ins, 2,390 XP
 [OC]Take the road southeast; Nyalah Brightfire and Alvarion Windfield stand by the road on the west side of Valanaar
@@ -134,20 +134,20 @@ Loot 10 Ripe Stormapples in the orchard and kill 5 [TAR252802 Hungry Bandit] [QC
 Loot 5 Flutterfly Dust in the fields northeast of the farm [QC92683] [G50.3,78.7 Zephras Isle]
 Kill [TAR251707 Ornery Galestrider] around the farm for 7 Lowlands Galestrider Tenderloins [QC92684] (27% drop - budget ~30 kills) [G49,78 Zephras Isle]
 At [TAR252800 Aamelia Windfield], [QT92682] [QT92683] [QT92684] [QT92698] [QA92685 The Hills Have Eyes] [G46.7,82 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear (92683):|r take |cff66ff66Flutterfly Swatter|r (1H mace 4.8 dps)
-[OC][A Warrior] |cffffcc00Gear (92684):|r |cff66ff66Well-Worn Pants|r (leather legs) or |cff66ff66Brass-Banded Bracers|r (mail wrist), coin flip - the bracers if you wear the Highlands Mail Legguards
+[OC][A Druid] |cffffcc00Gear (92683):|r |cff66ff66Flutterfly Swatter|r (1H mace 4.8 dps, fixed reward) - beats the Stained Ritual Dagger if your weapon skill covers maces
+[OC][A Druid] |cffffcc00Gear (92684):|r take |cff66ff66Well-Worn Pants|r (leather legs) - the boots are cloth, the bracers mail
 Kill [TAR252820 Bandit Highwayman] in the hills north of the farm for 7 Blood-Stained Bandit Masks [QC92685] (37% drop - budget ~22 kills) [G48.7,75 Zephras Isle]
 At [TAR252800 Aamelia Windfield], [QT92685] [QA92693 Standing Our Ground] - tell her you are ready [QC92693,1] [G46.7,82 Zephras Isle]
 Kill [TAR252863 Ferauu the Bludgeon] when he comes for the farm [QC92693,2] |cffffcc00launch:|r group or defer [G47.5,77.9 Zephras Isle]
 At [TAR252800 Aamelia Windfield], [QT92693] [QA92703 Deliver the News] [G46.7,82 Zephras Isle]
 [OC]Genn Fairweather (Stablemaster and Riding Trainer) on the road southwest of Valanaar sells the Galestrider mounts - nothing to buy until level 40
 
-[OC]|cffffffffLevel 10-12 - Valanaar and the Gustberry Lowlands|r  -  18 hand-ins, 9,695 XP
+[OC]|cffffffffLevel 10-12 - Valanaar and the Gustberry Lowlands|r  -  19 hand-ins, 10,535 XP
 [OC]Run back northeast to Valanaar
 At [TAR252448 Alvarion Windfield], [QT92703] [G62.1,73.2 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r |cff66ff66Trusty Wrench|r (1H mace 5.3 dps +1 Agi) or |cff66ff66Roofing Hammer|r (1H mace 5.4 dps), coin flip
-[A Warrior] At [TAR252377 Seena Skybreaker] (warrior trainer), [T] train (level 10) and [QA94003 The Skybreaker Bulwark] (needs level 10 - the Bulwark is at the Shrine of Akir later) [G59.9,72.9 Zephras Isle]
-[OC][A Warrior] |cffffcc00Defensive Stance:|r the quest teaches it (Wowhead Forever: 'You will learn: Defensive Stance'), and Taunt and Sunder Armor rank 1 are on no warrior trainer's list, so they most likely come with it (unverified) - hand the Bulwark in at Valanaar right after the Zaal kill in the next section, not at 14
+[OC][A Druid] |cffffcc00Gear (92703):|r take |cff66ff66Planting Shovel|r (2H mace 7.0 dps +1 Str) if Two-Handed Maces are on your skill list; else |cff66ff66Roofing Hammer|r (1H mace 5.4 dps +1 Spi) or |cff66ff66Trusty Wrench|r (1H mace 5.3 dps +1 Agi), coin flip - only if it beats the weapon you wear
+[A Druid] At [TAR252359 Lotheluum Starbreeze] (druid trainer), [T] train (level 10: Maul, Growl, Demoralizing Roar - and Teleport: Moonglade if it is on the list, unverified), take [QA94006 The Great Ursera Spirit] (needs level 10) and [QA94484 Unnerving Silence] (for Shadowgale Forest later) [G64,75.1 Zephras Isle]
+[OC][A Druid] |cffffcc00Bear Form:|r Maul, Growl and Demoralizing Roar need Bear Form, which Strength and Mercy (94638) teaches (Wowhead) - the pair is threaded through this section: Urs'endris by Yorana's tower, Ur'endra on the Fendaal trip, the hand-in on the way north to the shrine
 At [TAR257006 Nyalah Brightfire], [QT93317] - learn the Recipe: Pincer Bites it gives (Cooking 35; +1 Int and +5% kill XP) [G60.6,72.7 Zephras Isle]
 At [TAR253285 Fillion Flamebreeze], [QT92850] [QA99260 Fillion's Mission] [G66.2,79.9 Zephras Isle]
 At [TAR252475 Elaadrin Evengale], [QT99260] [QA92840 Catching Wind] [G66.6,79.9 Zephras Isle]
@@ -155,26 +155,26 @@ At [TAR252475 Elaadrin Evengale], [QT99260] [QA92840 Catching Wind] [G66.6,79.9 
 Use the Index Esoteria on the Windstone Formations [QC92840] [G47.6,68.8 Zephras Isle]
 [OC]Run back east to Valanaar
 At [TAR252475 Elaadrin Evengale], [QT92840] [QA92834 Avenged Tenfold] [QA92860 In Service of Zephras] [G66.6,79.9 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Bow of Hours|r (bow 5.2 dps +1 Agi) for pulling (bow skill for a Skyborne warrior unverified)
+[OC][A Druid] |cffffcc00Gear (92840):|r the |cff66ff66Bow of Hours|r is a fixed reward a druid cannot use - vendor it
 At [TAR252383 Valennia Stormfist], [QT92860] [QA93320 Tower Defense] [G66.1,76.7 Zephras Isle]
 
 [OC]Run north to the eastern watchtower in the Gustberry Lowlands
 At [TAR252378 Yorana Windyreed], [QT93320] [QA92642 Disrupting Logistics] [QA92645 Breaking the Breaker] [G69.7,67.1 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Peacekeeper's Legguards|r (mail legs +3 Agi)
+[OC][A Druid] |cffffcc00Gear (93320):|r take |cff66ff66Defender's Bracers|r (leather wrist +1 Sta) - the slippers are cloth, the legguards mail
+[A Druid] Run a few steps north to the falls: at [TAR255853 Urs'endris], [QT94006 The Great Ursera Spirit] [QA94638 Strength and Mercy] [G69.8,61.7 Zephras Isle]
 Kill 4 [TAR254596 Al'Aketh Healer] and 8 [TAR270201 Al'Aketh Brawler] in the camp west of the tower [QC92642] [G65.7,67.6 Zephras Isle]
 Kill [TAR252666 Commander Belguilos] at the north end of the camp [QC92645] |cffffcc00launch:|r group or defer [G65.6,65.6 Zephras Isle]
 Loot 10 Al'Aketh Windstone Charms from the Brawlers and the [TAR253195 Al'Aketh Preacher] / [TAR253511 Al'Aketh Pillager] camp at Gustberry Fields [QC92834] (rate unknown - budget ~25 kills; the Shrine of Akir cultists drop them too) [G65.7,67.4 Zephras Isle]
 At [TAR252378 Yorana Windyreed], [QT92642] [QT92645] [QA92880 Return to Valanaar] [G69.7,67.1 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear (92645):|r take |cff66ff66Breaker's Gauntlets|r (mail hands +2 Str)
+[OC][A Druid] |cffffcc00Gear (92645):|r take |cff66ff66Hunter's Cord|r (leather waist +2 Sta) - replaces the Wolfhide Belt; the bangles are cloth, the gauntlets mail
 
 [OC]Run back south to Valanaar
 At [TAR252475 Elaadrin Evengale], [QT92834] [G66.6,79.9 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Cilice of Regret|r (mail waist +1 Str)
+[OC][A Druid] |cffffcc00Gear (92834):|r take |cff66ff66Martyr's Armor|r (leather chest +2 Agi) - replaces the Bandit's Jerkin; the sash is cloth, the cilice mail
 At [TAR253004 Iaadaria Bitterwind], [QA92741 Unwelcome Visitors] [G66.3,79.5 Zephras Isle]
 At [TAR259012 Ealaane Nimbuswalker], [QA94896 Aid For The Refugees] [QA94897 The Fate of a Loved One] [G66,74.4 Zephras Isle]
-At [TAR252359 Lotheluum Starbreeze], [QA94484 Unnerving Silence] [G64,75.1 Zephras Isle]
 At [TAR252383 Valennia Stormfist], [QT92880] [QA92881 The High Elder's Request] [G66.1,76.7 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Quickblade's Dagger|r (dagger 6.8 dps +1 Agi) - your weapon until the mainland (the Trusty Wrench if you have no dagger skill)
+[OC][A Druid] |cffffcc00Gear (92880):|r take |cff66ff66Honed Greathammer|r (2H mace 9.1 dps +2 Str +2 Spi) if Two-Handed Maces are on your skill list, else |cff66ff66Balanced Quarterstaff|r (staff 8.9 dps +2 Sta +2 Spi) - your weapon until the mainland; Quickblade's Dagger (6.8 dps) is far behind
 At [TAR252476 Talaanis Shadowsong], [QT92881] [QA92643 The Turncoat] [G66.2,76.5 Zephras Isle]
 
 [OC]Run northwest along the road into the highlands
@@ -182,27 +182,27 @@ At [TAR273017 Fendaal Windstone], [QA98512 Al'Aketh Assassins] [G56.8,61.1 Zephr
 Kill 10 [TAR254626 Al'Aketh Assassin] around the house [QC98512] [G56.2,60.5 Zephras Isle]
 Search the [TAR253372 Dead Cultist] in the house just north of Fendaal, [QT92643] [QA92644 Unfortunate News] [G56,58.8 Zephras Isle]
 At [TAR273017 Fendaal Windstone], [QT98512] [G56.8,61.1 Zephras Isle]
+[A Druid] Run south-west past the Shriekling Den: kill [TAR258443 Ur'endra] [QC94638] |cffffcc00launch:|r group or defer [G53.8,65.3 Zephras Isle]
 [OC]Run back southeast to Valanaar
 At [TAR252476 Talaanis Shadowsong], [QT92644] [QA94568 The Cult's True Plans] [G66.2,76.5 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Peacekeeper's Mail|r (mail chest +3 Sta)
+[OC][A Druid] |cffffcc00Gear (92644):|r take |cff66ff66Tracker's Pants|r (leather legs +3 Agi) - replaces the Well-Worn Pants; the tunic is cloth, the other mail
 Talk to [TAR252476 Talaanis Shadowsong] and watch the conversation [QC94568] [G66.2,76.5 Zephras Isle]
 At [TAR252476 Talaanis Shadowsong], [QT94568] [QA92640 Desperate Times] [G66.2,76.5 Zephras Isle]
 Rally [TAR252383 Valennia Stormfist] [QC92640,1] [G66.1,76.7 Zephras Isle]
 Rally [TAR252475 Elaadrin Evengale] [QC92640,3] [G66.6,79.9 Zephras Isle]
 Rally [TAR251968 Ayessa Dawnsinger] on the west side of town [QC92640,2] [G59.1,79.8 Zephras Isle]
 At [TAR252383 Valennia Stormfist], [QT92640] [QA93065 Prepare for Battle] [G66.1,76.7 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Elite Peacekeeper's Leggings|r (mail legs +3 Str)
-[A Warrior] At [TAR252377 Seena Skybreaker], [T] train (level 12) [G59.9,72.9 Zephras Isle]
+[OC][A Druid] |cffffcc00Gear (92640):|r take |cff66ff66Skywatcher's Vestments|r (leather chest +1 Agi +2 Sta) - replaces Martyr's Armor; the leggings are mail, the gloves cloth
+[A Druid] At [TAR252359 Lotheluum Starbreeze], [T] train (level 12: Enrage, Regrowth, Revive) [G64,75.1 Zephras Isle]
 At [TAR253844 Valennia Stormfist] at the northwest gate, [QT93065] [QA92947 Making Our Move] [G61.2,71 Zephras Isle]
 
-[OC]|cffffffffLevel 12-13 - Shrine of Akir and Shadowgale Forest|r  -  13 hand-ins, 9,225 XP, plus the warrior's Bulwark hand-in (840)
-[OC]Fight north to the Shrine of Akir
+[OC]|cffffffffLevel 12-13 - Shrine of Akir and Shadowgale Forest|r  -  14 hand-ins, 10,065 XP
+[A Druid] Detour north-east from the gate to the falls: at [TAR255853 Urs'endris], [QT94638 Strength and Mercy] - it teaches Bear Form (Wowhead; unverified whether the trainer also sells it at 10) [G69.8,61.7 Zephras Isle]
+[OC][A Druid] |cffffcc00Bear Form from here (10-19, Classic reasoning, unverified on Forever):|r pull in Bear Form, Maul as rage allows, Demoralizing Roar on 2+, Enrage at 12 for rage, Bash at 14 on casters, Swipe at 16 for packs; shift out to heal between pulls. Feral tree: Ferocity first (beta consensus, unverified)
+[OC]Fight north-west to the Shrine of Akir
 Kill 7 [TAR252762 Al'Aketh Guardian], 7 [TAR252763 Al'Aketh Spiritcaller] and 7 [TAR252765 Al'Aketh Blademaster] on the approach [QC92947] - finish the Windstone Charms here if you are short [G62.3,50.5 Zephras Isle]
-[A Warrior] Kill [TAR257196 Zaal Stormshield] west of the shrine's approach for the Skybreaker Bulwark [QC94003] (72.9% drop - budget 2 kills; Polestar's data placed him by Hanaa's camp in Thendal Grove instead - unverified) |cffffcc00launch:|r group or defer [G56.6,50.4 Zephras Isle]
 At [TAR253576 Hyusaa Quickbreeze] at the shrine's door, [QT92947] [QA93958 The Inner Sanctum] [G63.8,50.5 Zephras Isle]
 At [TAR253590 Valennia Stormfist] inside the inner sanctum, [QT93958] [QA93835 Confront Lorthuna] (the Lorthuna fight waits until Shadowgale is done) [G65.2,50.4 Zephras Isle]
-[A Warrior] Run south to Valanaar: at [TAR252377 Seena Skybreaker], [QT94003 The Skybreaker Bulwark] (840 XP; teaches Defensive Stance. If the Bulwark has not dropped, skip this and hand in at the level-14 stop) [G59.9,72.9 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r equip |cff66ff66Stormforged Protector|r (shield 311 armor 5 block +1 Str +1 Sta) and tank elites in Defensive Stance from here on
 
 [OC]Run back north past the shrine into Shadowgale Forest
 At [TAR257944 Elegael Thornpaw] in the east of the forest, [QT94484] [QA94485 Tears of the Lady] [QA94486 Feathers for Binding] [QA94487 Unwanted and Unworthy] [G61.7,39.2 Zephras Isle]
@@ -217,7 +217,7 @@ Enter the Nightfang Den, heal 7 injured druids and find [TAR258130 Jorel Windsin
 Kill [TAR253622 Commander Haalien] east of Vayn for his head [QC94488] |cffffcc00launch:|r group or defer [G65.5,36.3 Zephras Isle]
 Loot the Ripped Missive from Commander Haalien, use it to start [QA94490 Ripped Missive] [G65.5,36.3 Zephras Isle]
 At [TAR254151 Vayn Moongaze], [QT93165] [G63.8,36 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Cult Hunter's Boots|r (mail feet +1 Sta)
+[OC][A Druid] |cffffcc00Gear (93165):|r take |cff66ff66Nightclaw Gloves|r (leather hands +1 Agi) - the pants are cloth, the boots mail
 At [TAR257944 Elegael Thornpaw], [QT94488] [QT94489] [QT94490] [QA94491 The Fate of the Den] [G61.7,39.2 Zephras Isle]
 
 [OC]Run west to the Strange Hermit's hut
@@ -229,9 +229,9 @@ Kill 10 [TAR251676 Wind Hollow] around the camp [QC93172] [G58.2,32.2 Zephras Is
 Loot 8 Abandoned Belongings between the tents [QC94896] [G58,31.9 Zephras Isle]
 Find [TAR259013 Resaan Nimbuswalker] at the north end of the camp and take his heirloom [QC94897] |cffffcc00launch:|r group or defer [G57,29.4 Zephras Isle]
 At the [TAR251684 Strange Hermit], [QT93160] [QT93172] [G54,38.9 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear (93172):|r |cff66ff66Scuffed Cuffs|r (mail wrist +1 Str) or |cff66ff66Freedom Walkers|r (leather feet +1 Str), coin flip - the cuffs if you kept the Cult Hunter's Boots
+[OC][A Druid] |cffffcc00Gear (93172):|r take |cff66ff66Freedom Walkers|r (leather feet +1 Str) - the gloves are cloth, the cuffs mail
 
-[OC]|cffffffffLevel 13-14 - Lorthuna and the way out|r  -  8 hand-ins, 4,600 XP (exit at about level 14; Polestar 14.6)
+[OC]|cffffffffLevel 13-14 - Lorthuna and the way out|r  -  7 hand-ins, 3,760 XP (exit at about level 14; Polestar 14.6)
 [OC]Run back south to the Shrine of Akir
 Take the Portal To Rohashi Spires in the inner sanctum, join Elaadrin and Ayessa and confront [TAR252957 High Priestess Lorthuna] [QC93835] |cffffcc00launch:|r group or defer [G74.6,53.8 Zephras Isle]
 [OC]Take the Portal to Valanaar next to Lorthuna back to town
@@ -239,14 +239,15 @@ At [TAR259012 Ealaane Nimbuswalker], [QT94896] [QT94897] [G66,74.4 Zephras Isle]
 At [TAR252359 Lotheluum Starbreeze], [QT94491] [G64,75.1 Zephras Isle]
 At [TAR253004 Iaadaria Bitterwind], [QT92741] [G66.3,79.5 Zephras Isle]
 At [TAR252475 Elaadrin Evengale], [QT93835] [QA94369 The Fate of Zephras] [G66.6,79.9 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Belt of Blades|r (leather waist +2 Str +2 Agi)
+[OC][A Druid] |cffffcc00Gear (93835):|r take |cff66ff66Belt of Blades|r (leather waist +2 Str +2 Agi) - replaces the Hunter's Cord; the greatsword is a sword, the shoes cloth
 Talk to [TAR252476 Talaanis Shadowsong] [QC94369] [G66.2,76.5 Zephras Isle]
 At [TAR252476 Talaanis Shadowsong], [QT94369] [QA93089 What Comes Next] [G66.2,76.5 Zephras Isle]
 At [TAR252475 Elaadrin Evengale], [QT93089] [QA94946 The Magical City of Dalaran] (hand-in at Denaaris Stargale in Dalaran, next chapter) [G66.6,79.9 Zephras Isle]
-[A Warrior] At [TAR252377 Seena Skybreaker], [T] train (level 14) - and hand in The Skybreaker Bulwark now if you skipped it after the shrine [G59.9,72.9 Zephras Isle]
-[OC]|cffffcc00Catch-up:|r anything you deferred for crowds - the Shriekling Matriarch, Ferauu, Commander Belguilos, Zaal Stormshield (warrior Bulwark), Commander Haalien, Resaan - is all within a few minutes' run of Valanaar or the shrine portal; finish it now, nothing on the isle can be reached after the skycutter. Vulgara (optional) is back west near Shen'dar - abandon it if you never killed her
+[A Druid] At [TAR252359 Lotheluum Starbreeze], [T] train (level 14: Bash) [G64,75.1 Zephras Isle]
+[OC]|cffffcc00Catch-up:|r anything you deferred for crowds - the Shriekling Matriarch, Ur'endra (then Strength and Mercy at Urs'endris by the falls), Ferauu, Commander Belguilos, Commander Haalien, Resaan - is all within a few minutes' run of Valanaar or the shrine portal; finish it now, nothing on the isle can be reached after the skycutter. Vulgara (optional) is back west near Shen'dar - abandon it if you never killed her
+[OC]|cffffcc00Level check:|r the next chapter's Lessons Anew (6121) at the Dalaran landing needs level 14 - if you are 13, finish the catch-up list or grind a few cultists before boarding (Polestar exits at 14.6)
 [OC]Run south out of Valanaar to the skycutter dock
 At the dock, talk to the [TAR275269 High Order Dockmaster] and take the skycutter to Dalaran (boarding details unverified) [G65.7,83.2 Zephras Isle]
 [OC]|cffffffffFinished: Zephras Isle|r  -  continue with 14 Dalaran to Loch Modan
 [NX 14 Dalaran to Loch Modan]
-]], "Forever Warrior 1-30")
+]], "Forever Druid 1-30")
