@@ -1,16 +1,17 @@
-# Chapter 09 (21-22 Loch Modan and Menethil) - warrior overlay, block A, 1 Nov 2026.
+# Chapter 09 (21-22 Loch Modan and Menethil) - druid overlay, block A, 2 Nov 2026 (from the warrior overlay of 1 Nov).
+# Cat band (Cat Form from the chapter-08 loop).
 
-# Inline gear text on step lines (the generated line after each [QT] carries the warrior pick).
+# Inline gear text on step lines (the generated line after each [QT] carries the druid pick).
 @replace QT217
 [O]At the bunker at [TAR1092 Captain Rugelfuss], [QT217] [G23.2,73.7 Loch Modan]
 
 # Vyrin's Revenge: non-gear choice (Hunting Ammo Sack / Hunting Quiver) plus the fixed Hunting Satchel; class asides reworded.
 @replace QT531
-[O]At [TAR1156 Vyrin Swiftwind], [QT531] - the |cff66ff66Hunting Satchel|r (10-slot bag) is yours either way; of the choice take the Hunting Ammo Sack only if you carry shot for your gun (it holds ammo only), otherwise vendor it [G81.7,64.1 Loch Modan]
+[O]At [TAR1156 Vyrin Swiftwind], [QT531] - the |cff66ff66Hunting Satchel|r (10-slot bag) is yours either way; the choice is two ammo bags (Hunting Ammo Sack, Hunting Quiver) a druid has no use for - take either and vendor it [G81.7,64.1 Loch Modan]
 
-# Mo'grosh: the ogre shamans heal - warrior interrupt.
+# Mo'grosh: the warrior wrote "Shield Bash the shamans' heals"; Bash is the druid's bear stun.
 @replace TAR1178
-[O]|cFFFF0000GROUP 2+|r Mo'grosh ogre mound in the north-east: 4 [TAR1178 Mo'grosh Ogre], 4 [TAR1180 Mo'grosh Brute] and 4 [TAR1179 Mo'grosh Enforcer] (ELITE, level 18-20: pull one at a time, Shield Bash the shamans' heals) [QC255] [G72.5,23.5 Loch Modan]
+[O]|cFFFF0000GROUP 2+|r Mo'grosh ogre mound in the north-east: 4 [TAR1178 Mo'grosh Ogre], 4 [TAR1180 Mo'grosh Brute] and 4 [TAR1179 Mo'grosh Enforcer] (ELITE, level 18-20: pull one at a time; a Bash from Bear Form stops a heal) [QC255] [G72.5,23.5 Loch Modan]
 
 # Chok'sul / Mercenaries hand-in: the Minor Channeling Ring is a fixed caster reward.
 @replace QT256
@@ -29,14 +30,14 @@ At [TAR1242 Karl Boran], [QT286] [QA98189 Return the Statuette] [G8.3,58.6 Wetla
 @replace T and the shaman's Call of Water adds 2,085
 [OC]|cffffffffLevel 21|r  -  you are in Stormwind with the Ruins hand-ins done; hearth = Sentinel Hill and it stays there. Loch Modan is ~3,200 quest XP on the solo road plus ~13,000 in the |cFFFF0000GROUP|r blocks (+2,450 if you have Bronze Bars); the Wetlands road and Menethil add ~17,000 (+6,500 for the optional Third Fleet and croc skins). You reach 22 on the Menethil coast.
 
-# Menethil: the warrior trains 22 at Wu Shen on the chapter 10 Stormwind pass; the Human-hunter aside goes.
+# Menethil: the druid's only level-22 rank is Soothe Animal (spec: no stop for it); the Human-hunter aside goes.
 @replace T No class trainers here (level-22 spells
-[OC]|cffffffffMenethil Harbor|r  -  west along the road. No class trainers here (your level-22 ranks: Wu Shen in Stormwind, next chapter); repair vendors are around the harbor.
+[OC]|cffffffffMenethil Harbor|r  -  west along the road. No class trainers here (a druid's only level-22 rank is Soothe Animal - not worth a trip; the next ranks come at 24); repair vendors are around the harbor.
 
 # Log check: shaman Call of Water / Knowledge in the Deeps removed.
 @replace T shaman Call of Water (94499)
 [OC]|cffffcc00Check:|r log should hold A Friend of the Family (98190), Cleansing the Eye (293) if you did the Third Fleet, Apprentice's Duties (471) if you skipped the bay (its skins are only in the north bay), plus Researching the Corruption (1275), Remember That I Love You (95161), Messenger to Stormwind (121), The Price of Shoes (118), Shadow Magic (115) and Tharil'zun (19). Next: at Thor on Sentinel Hill fly to Stormwind
 
-# main session, 1 Nov: Chok'sul note said "bring your tank friend" - the warrior is the tank
+# Chok'sul: the Alliance note says "bring your tank friend"; the druid is cat dps (spec: "find a tank and a healer").
 @replace T bring your tank friend
-[O]|cFFFF0000GROUP 3+|r At the WANTED poster, [QA256 WANTED: Chok'sul] - Chok'sul is a level 22 ELITE (1,686 HP) at the top of the ogre mound: you tank him, bring two more (a healer and a damage dealer) [G37.3,47 Loch Modan]
+[O]|cFFFF0000GROUP 3+|r At the WANTED poster, [QA256 WANTED: Chok'sul] - Chok'sul is a level 22 ELITE (1,686 HP) at the top of the ogre mound: find a tank and a healer and fight him in Cat Form; shift to Bear Form and Growl if the tank dies [G37.3,47 Loch Modan]

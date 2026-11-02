@@ -1,11 +1,19 @@
-# Chapter 12 (Ashenvale 24-25), warrior overlay. Block B, written 1 Nov 2026.
+# Chapter 12 (Ashenvale 24-25), druid overlay. Block B, rewritten from the warrior overlay 2 Nov 2026.
 # Dropped: the shaman level-24 note (line 8), the hunter ammo note (68), both Supplies to Auberdine gear lines (79-80, generated line instead).
 
 # The stripped untagged Gear line (41) was not a gear call but a free healing item (Restoring Balm 1970, reward of 1054 per qdb item [5]).
 @after QT1054
 [OC]|cffffcc00Gear:|r Culling the Threat gives Restoring Balm (180 HP over 12 s, 2 min cooldown) - a free healing potion, keep it for a bad pull
 
-# Lines without a QA/QT/QC/TAR/G/N token, reached with the T (text) anchor added 1 Nov 2026.
-# source line 93: shaman/hunter/two-player wording reworded for the warrior.
+# Alonso: the shield clause goes (druid spec, chapter-20 rule: data/zone_331.json lists no itemchoices/itemrewards for 78132,
+# 78133 or 78134, so nothing feral comes of them; the Helm and Lance stay as the Alliance wrote them, block C keeps the Lance in 19/20).
+@replace T the Knight Errant (43,70) offers three Dragonslayer
+[OC]|cffffcc00Alonso|r the Knight Errant (43,70) offers Dragonslayer quests (78132 Helm, 78134 Lance, 2,550 XP each). They are not Ashenvale work and the DB has no objective text. From Season of Discovery sources, unverified on Forever: the Helm lies behind Commander Springvale in Shadowfang Keep and the Lance is bought from a Dark Iron Entrepreneur in Dun Modr (Wetlands, 75 silver). Skip them now
+
+# source line 93: the shaman Knowledge in the Deeps carry goes.
 @replace T log should hold Researching the Corruption
-[OC]|cffffcc00Check:|r log should hold Researching the Corruption (1275), In Search of Thaelrid (1198), Twilight Falls (1199), The Shieldsmith (1702) and Exploring the Alliance (93963), plus carry for later chapters: Raene's Cleansing (1024), Kayneth Stillwind (4581), Fallen Sky Lake (1035) and the optional On Guard in Stonetalon (1070) and The Tower of Althalaxx (1140). Next: Blackfathom Deeps
+[OC]|cffffcc00Check:|r log should hold Researching the Corruption (1275), In Search of Thaelrid (1198) and Twilight Falls (1199), plus carry for later chapters: Raene's Cleansing (1024), Kayneth Stillwind (4581), Fallen Sky Lake (1035) and the optional On Guard in Stonetalon (1070) and The Tower of Althalaxx (1140). Next: Blackfathom Deeps
+
+# source line 7: the druid trainer and ranks.
+@replace T nothing in Ashenvale trains you
+[OC]|cffffcc00Training:|r nothing in Ashenvale trains you. If you skipped your level-24 ranks (Rake, Tiger's Fury, Ferocious Bite) in Darnassus, Sheldras Moontree in the Stormwind Park trains them with 25 and 26 (chapter 15)

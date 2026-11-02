@@ -1,32 +1,30 @@
-# Chapter 14 (Duskwood: Darkshire 25-26), warrior overlay. Block B, written 1 Nov 2026.
-# Dropped: the hunter ammo line (19).
+# Chapter 14 (Duskwood: Darkshire 25-26), druid overlay. Block B, rewritten from the warrior overlay 2 Nov 2026.
+# Dropped: the hunter ammo line (19). The QT245 line passes through as the Alliance wrote it (Night Watch Gauntlets are mail: vendor).
 
-# The Leatherworking decision goes: the warrior keeps Skinning + Mining (plan decision 1 Nov 2026, option 1). The Guard's set
-# sentence was cut 1 Nov 2026 (second pass) (its pieces are bind on pickup, so the AH remark was wrong; the reason for no Blacksmithing is in 00s).
+# The Leatherworking decision goes: the druid keeps Skinning + Mining to 30 (Braedyn's decision 2 Nov 2026, docs/druid-build-2026-11-02.md).
 @replace TAR263384
-[OC]|cffffcc00Level 25 - professions:|r keep Skinning + Mining to 30
+[OC]|cffffcc00Level 25 - professions:|r keep Skinning + Mining to 30. Leatherworking can be added at 30+ on the Skinning base, but its Forever Totemic patterns hinge on scarce Pristine Leather, so nothing changes in this guide
 
-# "Night Watch Gauntlets are mail: vendor them" is leather-wearer text; for a warrior they are the call (3559: mail hands 107 armor +4 Str +1 Agi, tooltip 2026-11-01; fixed reward, so no generated line).
-@replace QT245
-At [TAR888 Watcher Dodds], [QT245] (if you are short of spiders, finish them round Raven Hill first) [G45.1,67.0 Duskwood]
-[OC]|cffffcc00Gear (245):|r Night Watch Gauntlets (mail hands +4 Str +1 Agi) - wear them unless your gloves are better
-
-# Inline reward text goes: the generated warrior line (Belt of the Stars) follows.
+# Inline reward text goes: the generated druid line follows.
 @replace QT181
 At [TAR276 Viktori Prism'Antras], [QT181] [G79.8,48.0 Duskwood]
 
-# "Useless with a two-hander" is shaman text (Totem of Infliction 1131 is a held-in-off-hand charm, tooltip 2026-10-29).
+# Totem of Infliction 1131 (fixed reward): held in off-hand, no stats, 1% shadow proc when struck (tooltip 2026-11-02); feral cat-25 score 0.0.
 @replace QT101
-At [TAR265 Madame Eva], [QT101] (Totem of Infliction: an off-hand charm with a 1% shadow proc, no use beside a shield - vendor) [G75.8,45.3 Duskwood]
+At [TAR265 Madame Eva], [QT101] (Totem of Infliction: an off-hand charm with no stats and a 1% shadow proc - vendor it, your weapon is two-handed) [G75.8,45.3 Duskwood]
 
-# Lines without a QA/QT/QC/TAR/G/N token, reached with the T (text) anchor added 1 Nov 2026.
-# source line 8: shaman/hunter/two-player wording reworded for the warrior.
+# Lines without a QA/QT/QC/TAR/G/N token, reached with the T (text) anchor.
+# source line 8: the hunter ammo goes.
 @replace T repair and empty your bags. Darkshire
 [OC]|cffffcc00Supplies:|r repair and empty your bags. Darkshire has a repair vendor (Avette Fellwood) and a general goods vendor, Mabel Solaj, with water; you reach both before the long loops, so Sentinel Hill needs no stop
 
 # source line 26: delete: the Human-hunter Valor Family note; a Skyborne has the Questie race bit
 @delete T Wowhead's race flag for The Valor
 
-# source line 79: shaman/hunter/two-player wording reworded for the warrior.
+# source line 46: the ammo goes.
+@replace T Top up water and ammo before you leave town
+[OC]|cffffffffThe west sweep|r  -  one run: Twilight Grove, the southern ogre mound, Raven Hill, the cemetery, and back to Twilight Grove for the Hearthstone. Everything that hands in at Darkshire (Eva, Sirra, Althea, Viktori, Chef Grual) waits for the last stop, so keep the finished quests. Top up food and water before you leave town
+
+# source line 79: the druid trainer and ranks.
 @replace T no trainer in Darkshire; your level-26
-[OC]|cffffcc00Training:|r no trainer in Darkshire; your level-26 abilities wait for Wu Shen in Stormwind (chapter 15)
+[OC]|cffffcc00Training:|r no trainer in Darkshire; Lacerate (25), Dash and Abolish Poison (26) wait for Sheldras Moontree in the Stormwind Park (chapter 15)

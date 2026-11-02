@@ -1,54 +1,55 @@
-# Chapter 26 (30-31 Razorfen Kraul) - Skyborne Protection Warrior overlay (block C, 1 Nov 2026)
+# Chapter 26 (30-31 Razorfen Kraul) - Skyborne Feral Druid overlay (block C, 2 Nov 2026; from the warrior overlay of 1 Nov)
 # "T <text>" anchors reach untagged [OC] lines that carry no other anchor token.
 # Every boss note and loot call in the run sits on an unanchorable [OC] line; the only anchored step inside is the
-# shaman's Charlga line (QC96264, dropped). It becomes the warrior's "clear the top level and kill Charlga" step and
-# the loot calls follow it in run order, for each boss the Alliance chapter had a loot call for (Roogug: no loot call,
-# all drops ~3%; Quilguard Champion: none; no trash group, RULES 3).
+# shaman's Charlga line (QC96264, dropped). It becomes the druid's "clear the top level and kill Charlga" step and
+# the loot calls follow it in run order, for each boss the feral emit has a group for (Roogug: no loot call, all drops
+# ~3%; Overlord Ramtusk: no feral group - his Tusken Helm is mail; Quilguard Champion: none; no trash group, RULES 3).
+# Tactics: Cat Form melee damage, "shift to Bear Form and Growl if the tank dies" (Classic feral reasoning, unverified).
 
 @header
-The optional last trip: Razorfen Kraul in the far south of the Barrens (Blueleaf Tubers, Willix the Importer and Mortality Wanes) with you as the tank, the way there by boat, bird and the Barrens road, boss notes, loot calls and the hearth home. 1 Nov: the Sleeping Bag chain's Barrens hand-in and Stepping Stones pickup on the ride south.
+The optional last trip: Razorfen Kraul in the far south of the Barrens (Blueleaf Tubers, Willix the Importer and Mortality Wanes) with you as Cat Form damage, the way there by boat, bird and the Barrens road, boss notes, loot calls and the hearth home. 1 Nov: the Sleeping Bag chain's Barrens hand-in and Stepping Stones pickup on the ride south.
 
 @replace T |cffffffffLevel 30|r  -  you start in Stormwind with chapter 25's loose ends done
-[OC]|cffffffffLevel 30|r  -  you start in Stormwind with chapter 25's loose ends done; hearth = Sentinel Hill and it stays there. This is the last chapter of the 1-30 guide and it is optional: one dungeon, Razorfen Kraul (mobs 24-33, bosses 28-33) in the far south of the Barrens, about 8,200 quest XP plus a full clear and the Tusken Helm and Defender's Leather Helm on the loot tables. 5,150 of that XP is certain; the other 3,050 (Mortality Wanes) hangs on a drop. The trip is long (boat, bird, then a ride through Horde country): do it when you have an hour and a half free
+[OC]|cffffffffLevel 30|r  -  you start in Stormwind with chapter 25's loose ends done; hearth = Sentinel Hill and it stays there. This is the last chapter of the 1-30 guide and it is optional: one dungeon, Razorfen Kraul (mobs 24-33, bosses 28-33) in the far south of the Barrens, about 8,200 quest XP plus a full clear and the Defender's Leather Helm on the loot tables. 5,150 of that XP is certain; the other 3,050 (Mortality Wanes) hangs on a drop. The trip is long (boat, bird, then a ride through Horde country): do it when you have an hour and a half free
 @replace T |cffffcc00Group content:|r Forever caps the instance at 5 players
-[OC]|cffffcc00Group content:|r Forever caps the instance at 5 players. You tank: bring a healer and three damage dealers. Entry level is 25 (a Forever write-up says the Group Finder lists it from 24)
+[OC]|cffffcc00Group content:|r Forever caps the instance at 5 players. Find a tank and a healer plus two more damage dealers; you are Cat Form damage. Entry level is 25 (a Forever write-up says the Group Finder lists it from 24)
 @replace T |cffffcc00Supplies:|r nothing inside sells anything
 [OC]|cffffcc00Supplies:|r nothing inside sells anything: food and water for 90 minutes, repair and empty bags before the boat - Astranaar and the rest of the way (Horde country) sell nothing you need
 @replace T |cffffffffRazorfen Kraul|r  -  |cFFFF0000GROUP 5|r, entry level 25
 [OC]|cffffffffRazorfen Kraul|r  -  |cFFFF0000GROUP 5|r, entry level 25, mobs 24-33, bosses 28-33 plus two rares, ~60 min. Blueleaf Tubers starts in Ratchet on the way, Willix and Mortality Wanes inside:
 @replace T |cffffcc00Not for you:|r The Crone of the Kraul (1101
-[OC]|cffffcc00Not for you:|r The Crone of the Kraul (1101: Lonebrow's Journal at the Great Lift in Thousand Needles, then Falfindel Waywarder in Feralas, far off this route) and the Horde quests off Charlga and the Kraul Bats. Roogug's Vial of Phlogiston is for Fire Hardened Mail (1701), which needs Stonetalon items too and belongs to the 30-40 guide
+[OC]|cffffcc00Not for you:|r The Crone of the Kraul (1101: Lonebrow's Journal at the Great Lift in Thousand Needles, then Falfindel Waywarder in Feralas, far off this route), the Horde quests off Charlga and the Kraul Bats, and the other classes' quests for Roogug's Vial of Phlogiston
 @replace T Razorfen Dustweavers (28-29) cast Enveloping Winds
-[OC]Razorfen Dustweavers (28-29) cast Enveloping Winds, a crowd control that snowballs into a wipe: pull them first and Shield Bash their casts; if it lands on the healer, stop pulling and fight where you stand. The Kraul Bats past Ramtusk (30-32) silence. Packs: Defensive Stance, Thunder Clap, Taunt whatever runs to the healer
+[OC]Razorfen Dustweavers (28-29) cast Enveloping Winds, a crowd control that snowballs into a wipe: kill them first; if it lands on the healer, the tank stops pulling and the group fights where it stands. The Kraul Bats past Ramtusk (30-32) silence. Packs: hit the tank's target in Cat Form, and shift to Bear Form and Growl anything that runs to the healer if the tank cannot
 @replace T |cffffcc00Roogug|r (28 elite, optional
-[OC]|cffffcc00Roogug|r (28 elite, optional - only Fire Hardened Mail (1701, 30-40 guide) wants his Vial of Phlogiston): Lightning Bolt and a summoned Earth Rumbler, no mechanics. He is the first boss and a short detour; his drops (~3%) are not worth it on their own
+[OC]|cffffcc00Roogug|r (28 elite, optional - nothing on this route wants his Vial of Phlogiston): Lightning Bolt and a summoned Earth Rumbler, no mechanics. He is the first boss and a short detour; his drops (~3%) are not worth it on their own
 @replace T |cffffcc00Death Speaker Jargba|r (30 elite) and his cultists
-[OC]|cffffcc00Death Speaker Jargba|r (30 elite) and his cultists: Shadow Bolt and Dominate Mind. Pulling one pulls the pack, so let a mage or hunter crowd-control a caster and kill them one at a time. A Dominated player turns on the group for a few seconds: back off, do not hit them, hold Jargba on you (a mage would Polymorph them)
+[OC]|cffffcc00Death Speaker Jargba|r (30 elite) and his cultists: Shadow Bolt and Dominate Mind. Pulling one pulls the pack, so let a mage or hunter crowd-control a caster and kill them one at a time. A Dominated player turns on the group for a few seconds: back off, do not hit them, the tank holds Jargba (a mage would Polymorph them)
 @replace T |cffffcc00Agathelos the Raging|r (33 elite beast)
-[OC]|cffffcc00Agathelos the Raging|r (33 elite beast): Enrage, Rampage, Left for Dead and a Rushing Charge; no mechanics beyond that: Shield Block through the enrage and let the healer keep up
+[OC]|cffffcc00Agathelos the Raging|r (33 elite beast): Enrage, Rampage, Left for Dead and a Rushing Charge; no mechanics beyond that: the tank and healer ride out the enrage, you keep up damage from behind
 @replace T |cffffcc00Blind Hunter|r (32 rare elite beast
-[OC]|cffffcc00Blind Hunter|r (32 rare elite beast, may not spawn; Icy Veins: after Agathelos): Sonic Burst is an AoE silence, so casters and the healer stand at range; Ravage on you
+[OC]|cffffcc00Blind Hunter|r (32 rare elite beast, may not spawn; Icy Veins: after Agathelos): Sonic Burst is an AoE silence, so casters and the healer stand at range; Ravage on the tank
 @replace T |cffffcc00Charlga Razorflank|r (33 elite, last boss)
-[OC]|cffffcc00Charlga Razorflank|r (33 elite, last boss): Chain Bolt, Mana Spike, Purity and Renew (Classic-era). Shield Bash her heals as often as you can and keep her facing away; the healer's mana and a spread-out group are what decide it
+[OC]|cffffcc00Charlga Razorflank|r (33 elite, last boss): Chain Bolt, Mana Spike, Purity and Renew (Classic-era). Interrupt her heals as often as the group can and burn her down from behind; the healer's mana and a spread-out group are what decide it
 
-# The shaman's Charlga kill step (Elemental Aid 96264, a shaman quest) becomes the warrior's clear-and-kill step.
+# The shaman's Charlga kill step (Elemental Aid 96264, a shaman quest) becomes the druid's clear-and-kill step.
 @replace QC96264
 |cFFFF0000GROUP 5|r Clear the top level in the order above and kill Charlga Razorflank, the last boss, before you drop into the trench
 @gear-dungeon QC96264 => Aggem Thorncurse
 @gear-dungeon QC96264 => Death Speaker Jargba
-@gear-dungeon QC96264 => Overlord Ramtusk
 @gear-dungeon QC96264 => Earthcaller Halmgar
 @gear-dungeon QC96264 => Agathelos the Raging
 @gear-dungeon QC96264 => Blind Hunter
 @gear-dungeon QC96264 => Charlga Razorflank
 
-# Defender's Leather Helm (tooltip: leather head +12 Str +13 Sta, req 25, BoP) drops from Charlga, Agathelos, Aggem and
-# Halmgar (item.json npc drops) - the generator files it under "trash" because it has several droppers.
+# Defender's Leather Helm 252455 (tooltip: leather head +12 Str +13 Sta, req 25, BoP; feral 31.8, the best head on the
+# feral loot tables here) drops from Charlga, Agathelos, Aggem and Halmgar (item.json npc drops) - the generator files
+# it under "trash" because it has several droppers. Ramtusk's Tusken Helm is mail.
 @after QC96264
-[OC]|cffffcc00Loot (several bosses):|r |cff66ff66Defender's Leather Helm|r (leather head +12 Str +13 Sta, req 25, bind on pickup) can drop from Charlga, Agathelos, Aggem and Halmgar: roll if Ramtusk's Tusken Helm did not come your way
+[OC]|cffffcc00Loot (several bosses):|r |cff66ff66Defender's Leather Helm|r (leather head +12 Str +13 Sta, req 25, bind on pickup) can drop from Charlga, Agathelos, Aggem and Halmgar: roll on it
 
 @replace T |cffffcc00Tubers first:|r summon the gopher at the head of the trench
-[OC]|cffffcc00Tubers first:|r summon the gopher at the head of the trench, before you wake Willix, and let it work while the group holds the ground; keep the pack on you and away from it
+[OC]|cffffcc00Tubers first:|r summon the gopher at the head of the trench, before you wake Willix, and let it work while the group holds the ground; the tank keeps the pack away from it
 @replace T |cffffffffHome|r  -  Mebok first, then the hearth
 [OC]|cffffffffHome|r  -  Mebok first, then the hearth
 @replace T |cffffcc00Check:|r log should hold nothing from this chapter except

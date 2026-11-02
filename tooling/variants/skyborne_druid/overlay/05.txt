@@ -1,17 +1,49 @@
-# Chapter 05 (17-18 Westfall) - warrior overlay, block A, 1 Nov 2026.
+# Chapter 05 (17-18 Westfall) - druid overlay, block A, 2 Nov 2026 (from the warrior overlay of 1 Nov).
+# Class thread here: 93963 at Bolvar, the Aquatic Form quests 26 -> 29 -> 272 -> 5061 (3,025 XP; zone_493.json) in two parts.
+# Part 1 runs from the Stormwind pass and comes back on the Auberdine -> Stormwind boat (no hearth): the spec's version
+# (after the Sentinel Hill bind, back by hearth) would hearth about an hour after the Thelsamar hearth at 04:50 - too close.
+# Part 2 replaces the chapter's closing "hearth to Sentinel Hill if you are away" line; its hearth is the first since 04:50.
+# Coordinates: tooling/qdb npc.json [6] / object.json [3] spawns (Mathrengyl 4217 35.37,8.4; Dendrite 11802 56.21,30.64;
+# Tajarri 11799 36.52,40.1; Silva 11800 44.15,45.23; Sindrayl 10897 48.1,67.34; Bauble Containers 177785 x14 48-60.5,46.4-58.5;
+# Shrine of Remulos 15885 36,41.42; Strange Lockbox 177790 Westfall 17.94,33.18 / 177792 Darkshore 48.87,11.32; Bolvar 1748 80.21,38.35).
 
-# Warrior trainer on the Stormwind pass (spec: 05, level 17). Old Town is a short detour east before the Trade District.
+@header
+Tram to Stormwind, the Dwarven District pickups and Bolvar (Exploring the Alliance), the first half of the Aquatic Form quests (Darnassus, Moonglade, Darkshore, back by boat), then Westfall with Alba Fairmoon's new chain folded into the classic loops, and the second half of the Aquatic Form quests before Redridge.
+
+# 93963 Exploring the Alliance (all four objectives done in 00u) at Bolvar, after Shoni (spec). No Park stop on this pass:
+# Swipe (16) is trained by Mathrengyl on the loop below, half an hour later.
 @after QA2040
-In Old Town at [TAR5479 Wu Shen] (warrior trainer, by the Command Center), [T] train every new rank up to your level (even levels) [G80.6,59.9 Stormwind City]
+At [TAR1748 Highlord Bolvar Fordragon] in Stormwind Keep (a short walk east of the Dwarven District), [QT93963 Exploring the Alliance] (1,150 XP - all four names were done on the join leg) [G80.2,38.4 Stormwind City]
+[OC]|cffffcc00Gear (93963):|r Cloak of the Honored Guest (cloak +1 Sta +1 attack power +1 spell damage) - the Catacomb Cloak from the Hall of Thanes is better; equip it only if your cloak is worse, otherwise vendor it
 
-# The warrior has the Stormwind flight point from the join leg (00u).
+# Aquatic Form part 1 (level 17), before the walk out of the city.
+@before T Run south through the Trade District to the main gate
+[OC]|cffffffffAquatic Form, part 1: Darnassus, Moonglade, Darkshore|r  -  2 hand-ins, 995 XP (A Lesson to Learn 115 + Trial of the Lake 880); Trial of the Sea Lion 880 and Aquatic Form 1,150 finish at the end of this chapter, 3,025 XP in all. No hearth on this loop: you come back on the Auberdine boat, and the hearth is next used at the end of Westfall
+[OC]Cast Teleport: Moonglade (10 s cast); you arrive in Nighthaven
+At [TAR11800 Silva Fil'naveth], take the free druid flight to Rut'theran Village, then walk into the portal in the village up to Darnassus [G44.2,45.2 Moonglade]
+In the Cenarion Enclave at [TAR4217 Mathrengyl Bearwalker], [QA26 A Lesson to Learn] and [T] train (level 16: Swipe) [G35.4,8.4 Darnassus]
+[OC]Cast Teleport: Moonglade
+In Nighthaven at [TAR11802 Dendrite Starblaze], [QT26 A Lesson to Learn] [QA29 Trial of the Lake] [G56.2,30.6 Moonglade]
+Swim out into Lake Elune'ara and loot a Shrine Bauble from one of the Bauble Containers on the lake bed (14 spawns between 48,47 and 60,58) [G54.1,50.1 Moonglade]
+Run west to the Shrine of Remulos in the north-west of Moonglade and use the Shrine Bauble there [QC29] [G36,41.4 Moonglade]
+Beside the shrine at [TAR11799 Tajarri], [QT29 Trial of the Lake] [QA272 Trial of the Sea Lion] [G36.5,40.1 Moonglade]
+[OC]|cffffcc00Trial of the Sea Lion:|r the two pendant halves sit in Strange Lockboxes - Aquatic Agility on the far north coast of Darkshore (now), Aquatic Endurance in the sea off the Westfall coast (this chapter's south loop). In Classic they open only with the quest in your log (unverified on Forever). You join them at this shrine at the end of the chapter
+Run south-east to [TAR10897 Sindrayl], |cFFfff8a3Fly to [F Auberdine]|r [G48.1,67.3 Moonglade]
+Run north up the Darkshore coast to the far north; open the Strange Lockbox and take the Half Pendant of Aquatic Agility (shore or sea floor - unverified) [G48.9,11.3 Darkshore]
+Run back south to Auberdine and take the Stormwind boat from the dock (the sign names the destination; the Menethil boat leaves from the other pier) - about 5 minutes to Stormwind Harbor [G38.3,43 Darkshore]
+
+# The druid has the Stormwind flight point from the join leg (00u:20).
 @delete TAR352
+
+# Westfall lockbox (spec: on the Longshore pass). The Murloc Warrior beach at 28,38 is the nearest route point to 17.9,33.2.
+@after TAR171
+Swim west from this beach, about 10 map units, to the Strange Lockbox in the sea and take the Half Pendant of Aquatic Endurance (sea floor in Classic; depth and guards unverified) [G17.9,33.2 Westfall]
 
 # Journey to Sentinel Hill (98021, 455 XP, carried from 00u) hands in at Gryan on the first Sentinel Hill stop.
 @replace QT109
 In the tower at [TAR234 Gryan Stoutmantle], [QT109] [QT98021 Journey to Sentinel Hill] [QA12 The People's Militia] [QA65 The Defias Brotherhood] [G56.3,47.5 Westfall]
 
-# Westfall Stew (38): fixed rewards (cloth mitts, dagger, stew); the untagged gear line was stripped - same call for a warrior.
+# Westfall Stew (38): fixed rewards (cloth mitts, dagger, stew); the untagged gear line was stripped.
 @after QT38
 [OC]|cffffcc00Gear:|r nothing (cloth mitts / 5 dps dagger) - eat the Westfall Stew for the run-speed buff
 
@@ -21,9 +53,20 @@ In the tower at [TAR234 Gryan Stoutmantle], [QT109] [QT98021 Journey to Sentinel
 
 # Keeper of the Flame (103): non-gear choice Minor Mana Potion / Minor Healing Potion.
 @after QT103
-[OC]|cffffcc00Reward:|r take the Minor Healing Potion - a warrior has no mana
+[OC]|cffffcc00Reward:|r take the Minor Healing Potion - in Bear Form you live on health; mana only pays for shifting and heals
 
-# The Alliance note says 98021 / 93963 are Skyborne-only - this character is a Skyborne and hands 98021 in above. The
+# The Alliance note says 98021 / 93963 are Skyborne-only - this character is a Skyborne and hands both in above. The
 # Harvesting the Harvesters sentence stays.
 @replace T Skip:|r Journey to Sentinel Hill
 [OC]Harvesting the Harvesters (Ozwin, Saldean's farm) has the worst drop rate in the zone - it is listed as optional.
+
+# Aquatic Form part 2 (level 18), in place of the closing hearth/flight line; the flight to Stormwind follows the hearth.
+@replace T if you are away, then at
+[OC]|cffffffffAquatic Form, part 2|r  -  2 hand-ins, 2,030 XP (Trial of the Sea Lion 880 + Aquatic Form 1,150); it ends with the hearth to Sentinel Hill - the last one was Thelsamar at the end of 16-17, all of Westfall ago, so it is ready
+[OC]Cast Teleport: Moonglade
+Run west to the Shrine of Remulos and join the two halves into the Pendant of the Sea Lion there [QC272] [G36,41.4 Moonglade]
+In Nighthaven at [TAR11802 Dendrite Starblaze], [QT272 Trial of the Sea Lion] [QA5061 Aquatic Form] [G56.2,30.6 Moonglade]
+At [TAR11800 Silva Fil'naveth], fly to Rut'theran Village and take the portal up to Darnassus [G44.2,45.2 Moonglade]
+In the Cenarion Enclave at [TAR4217 Mathrengyl Bearwalker], [QT5061 Aquatic Form] - it teaches Aquatic Form - and [T] train (level 18: Faerie Fire, Hibernate) [G35.4,8.4 Darnassus]
+[OC]|cffffcc00Gear (5061):|r |cff66ff66Aquarius Belt|r (leather waist, 40 armor, +2 Sta +2 Int) - wear it over the Foreman Belt or the treasure-hunt sash: the same Stamina with far more armor for Bear Form; |cff66ff66Idol of Shifting Tides|r (idol: shapeshifting costs 40 less mana) - equip it, your idol slot is empty
+|cFFfff8a3Hearth to [H Sentinel Hill]|r, then at [TAR523 Thor] |cFFfff8a3Fly to [F Stormwind]|r [G56.5,52.6 Westfall]

@@ -1,19 +1,27 @@
-# Chapter 20 (29-30 Darnassus and Astranaar) - Skyborne Protection Warrior overlay (block C, 1 Nov 2026)
+# Chapter 20 (29-30 Darnassus and Astranaar) - Skyborne Feral Druid overlay (block C, 2 Nov 2026; from the warrior overlay of 1 Nov)
 # "T <text>" anchors reach untagged [OC] lines that carry no other anchor token.
 
 # Thundris: drop the Human-hunter sentence (98209 carries the Skyborne race bit; Making Do 97926 too).
 @replace QT98209
 At [TAR3649 Thundris Windweaver], [QT98209] [QT97926 Making Do] (1,200 XP, the Nord'el you carried from Sylessa in Menethil; no reward is listed in the DB. Making Do pays the Shipwright's Satchel, a 6-slot reagent bag: equip it for your cooking and fishing mats) [G37.4,40.1 Darkshore]
 
-# Manados 1199: the stripped Gear line was leather/cloth prose for the shaman; fixed rewards get no generated line,
-# so the warrior call is written here (tooltips 1 Nov: Heartwood Girdle leather waist +5 Sta; Nimbus Boots cloth).
-@after QT1199
-[OC]|cffffcc00Gear (1199):|r Heartwood Girdle (leather belt, 50 armor, +5 Sta) only if your belt is weaker; Nimbus Boots are cloth: vendor
+# Manados 1199: the step said "both rewards are fixed"; data/zone_1657.json (pulled 2 Nov) lists three choices.
+@replace QT1199
+At [TAR4784 Argent Guard Manados], [QT1199] (2,550 XP, the 10 Twilight Pendants) [G55.2,24.0 Darnassus]
 
-# Warrior trainer stop at 29-30 (spec: Darnassus in 20) on the dropped hunter trainer line; Warrior's Terrace lies on
-# the walk south from Manados to Mathiel. Ranks come at even levels (Wowhead Forever trainer list), so only at 30.
+# Manados 1199: no hand-written gear line. data/zone_1657.json lists Nimbus Boots / Heartwood Girdle / Silvered Gauntlets
+# as choices and the generated druid line covers them (feral: Nimbus Boots 8.0, Heartwood Girdle 3.0, gauntlets mail).
+
+# Druid trainer stop at 29-30 (spec: Darnassus in 20) on the dropped hunter trainer line. Mathrengyl Bearwalker 4217:
+# qdb npc spawn Darnassus 35.37,8.4 (Cenarion Enclave). Ranks at 30 (build 70753): Travel Form, Shred rank 2.
 @replace TAR4146
-[O]Level 30 already? At [TAR4087 Arias'ta Bladesinger] (warrior trainer, Warrior's Terrace, on the way south to Mathiel), [T] train your level 30 abilities - otherwise they wait for Ironforge in chapter 24 [G58.7,34.9 Darnassus]
+[O]Level 30 already? Walk north-west to the Cenarion Enclave: at [TAR4217 Mathrengyl Bearwalker] (druid trainer), [T] train level 30: Travel Form, Shred rank 2 - otherwise they wait for the Stormwind Park in chapter 25 (no druid trainer in Ironforge) [G35.4,8.4 Darnassus]
+
+# Alonso: the Shield quest (78133) is useless to a druid and goes (spec); the Lance (78134, 2,550 XP for a 75-silver
+# purchase in chapter 19) stays as the Alliance [O] step (coordinator, 2 Nov). The note loses its Shield sentence only.
+@replace T |cffffcc00Alonso|r the Knight Errant
+[OC]|cffffcc00Alonso|r the Knight Errant (43,70) stands a few steps from the cave mouth (42.3,71.0) and offers Dragonslayer quests (2,550 XP each, no objective text in the DB). Chapter 12 skipped them. Take the Lance one only if you already hold the Lance (bought from a Dark Iron Entrepreneur in Dun Modr, chapter 19). Season of Discovery mechanics, unverified on Forever: accept and hand in on the same visit. The Helm is behind Commander Springvale in Shadowfang Keep - skip it
+@delete QA78133
 
 @replace T |cffffcc00Check:|r new in the log: The Absent Minded Prospector (942)
 [OC]|cffffcc00Check:|r new in the log: The Absent Minded Prospector (942), Klockmort's Essentials (2925), Seeking Caitlin (95737), Vile Satyr! Dryads in Danger! (1021) and, if you took them, The Howling Vale (1022) and Castpipe's Task (2931). Still carried from chapter 12: Raene's Cleansing (1024), Kayneth Stillwind (4581), Fallen Sky Lake (1035) and, if you took it, The Tower of Althalaxx (1140). Next: the east of Ashenvale

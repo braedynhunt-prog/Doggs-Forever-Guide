@@ -1,32 +1,16 @@
-# Chapter 10 (Redridge 22-23), warrior overlay. Block B, written 1 Nov 2026.
-# Fire Hardened Mail chain: 1698 Yorus Barleybrew (155 XP, starters 5113/5479/7315) -> 1699 The Rethban Gauntlet (1,300 XP)
-# -> 1702 The Shieldsmith (435 XP, hand-in Furen Longbeard in chapter 15). XP from data/zone_1519.json and zone_44.json.
+# Chapter 10 (Redridge 22-23), druid overlay. Block B, rewritten from the warrior overlay 2 Nov 2026.
+# The dropped shaman "no trainer in Stormwind" line (G73.8,49.2) stays dropped: level 22 brings only Soothe Animal, so no Park stop here
+# (druid spec: Park stops at rank milestones only). The warrior Fire Hardened chain (1698/1699/1702) is not in the druid guide.
 
-# The dropped shaman "no trainer in Stormwind" line becomes the Stormwind warrior trainer, who also starts 1698 (Wu Shen 5479 @80.55,59.87).
-@replace G73.8,49.2
-At [TAR5479 Wu Shen] in Old Town, [T] train your level 22 abilities and take [QA1698 Yorus Barleybrew] (155 XP: the warrior's errand to Yorus Barleybrew in Lakeshire - it opens The Rethban Gauntlet) [G80.6,59.9 Stormwind City]
-
-# Merchant camp: the Totemic/Brawler's/Leatherworking text goes (the warrior keeps Skinning + Mining, see chapter 14).
+# Merchant camp: the Totemic/Brawler's/Leatherworking text goes (the druid keeps Skinning + Mining, see chapter 14).
 @replace TAR256389
-[OC]|cffffcc00Merchant camp|r is right here (10,72): sell, hand in any Waylaid Supplies to [TAR256389 Tamelyn Aldridge] (10.4,71.4) and glance at Auctioneer Quickcoin (9.4,71.8) for a cheap mail or shield upgrade
+[OC]|cffffcc00Merchant camp|r is right here (10,72): sell, hand in any Waylaid Supplies to [TAR256389 Tamelyn Aldridge] (10.4,71.4) and glance at Auctioneer Quickcoin (9.4,71.8) for a cheap leather upgrade
 
-# Yorus Barleybrew (6166 @21.49,44.72, Forever map space) takes 1698 and gives 1699; the gauntlet is timed, so it is run at once from town.
-# 1699 objective (qdb [8]): enter the Rethban Caverns (trigger @14.05,24.71), reach the first fork, return within the time allowed, do not die and release.
-@after QT121
-At [TAR6166 Yorus Barleybrew] in Lakeshire, [QT1698] [QA1699 The Rethban Gauntlet] (1,300 XP: a timed run, done now before the loops) [G21.5,44.7 Redridge Mountains]
-[OC]|cffffcc00The Rethban Gauntlet|r is a run, not a fight: the cave mouth is about 20 units north-west of town (14,25); the Redridge Drudgers (20-21, not elite) inside are no threat at 22, so run past them, reach the first fork and run straight back to Yorus. The quest fails if you die and release; the DB gives no time limit (Classic-era quest, unverified on Forever)
-Run north-west to the Rethban Caverns and in to the first fork [QC1699] [G14.1,24.7 Redridge Mountains]
-At [TAR6166 Yorus Barleybrew], [QT1699] [QA1702 The Shieldsmith] (435 XP on hand-in: carry his Cask of Scalder to Furen Longbeard in Stormwind, chapter 15) [G21.5,44.7 Redridge Mountains]
-
-# Carry note for the warrior's own quests (the source Check line 77 cannot be anchored; it still names the shaman Waterskin).
-@after TAR523#2
-[OC]|cffffcc00Warrior carry:|r The Shieldsmith (1702, Cask of Scalder for Furen Longbeard, chapter 15) and Exploring the Alliance (93963, Tyrande in Darnassus next chapter, then Bolvar in chapter 15)
-
-# Lines without a QA/QT/QC/TAR/G/N token, reached with the T (text) anchor added 1 Nov 2026.
-# source line 6: shaman/hunter/two-player wording reworded for the warrior.
+# Lines without a QA/QT/QC/TAR/G/N token, reached with the T (text) anchor.
+# source line 6: the shaman Red Waterskin carry goes.
 @replace T Messenger to Westfall (144, chapter 16),
-[OC]|cffffcc00Open when you leave:|r Messenger to Westfall (144, chapter 16), Morganth (249, the elite is killed in chapter 16), What Comes Around... (386, the Stockade is chapter 15), The Shieldsmith (1702, Furen Longbeard in chapter 15) and Exploring the Alliance (93963, Tyrande in chapter 11).
+[OC]|cffffcc00Open when you leave:|r Messenger to Westfall (144, chapter 16), Morganth (249, the elite is killed in chapter 16) and What Comes Around... (386, the Stockade is chapter 15).
 
-# source line 77: shaman/hunter/two-player wording reworded for the warrior.
+# source line 77: the shaman Call of Water carry goes.
 @replace T new in the log: Messenger to
-[OC]|cffffcc00Check:|r new in the log: Messenger to Westfall (144), Morganth (249), What Comes Around... (386) and The Shieldsmith (1702, the Cask of Scalder). Next: the harbour for the Auberdine boat
+[OC]|cffffcc00Check:|r new in the log: Messenger to Westfall (144), Morganth (249) and What Comes Around... (386). Next: the harbour for the Auberdine boat

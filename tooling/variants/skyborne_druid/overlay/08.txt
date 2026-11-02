@@ -1,40 +1,74 @@
-# Chapter 08 (20-21 Ruins of Lordaeron) - warrior overlay, block A, 1 Nov 2026.
+# Chapter 08 (20-21 Ruins of Lordaeron) - druid overlay, block A, 2 Nov 2026 (from the warrior overlay of 1 Nov).
 # Knowledge in the Deeps (971) is a shaman-only thread in the Alliance guide (08 pickup on the tram trip, 13 chest, 15
-# hand-in): not taken by the warrior (silent).
+# hand-in): not taken by the druid (silent).
+# Class thread: the Windborne Cat Spirit loop 98393 -> 98341 -> 98404 -> 98738 -> 98397 (2,885 XP; zone_493.json), Cat Form
+# from 98397. It starts from the Park (after Argos) and ends on the Rut'theran -> Auberdine boat, which replaces the
+# Alliance Stormwind Harbor -> Auberdine boat: no hearth inside the loop (spec merge rule - the trip goes to Auberdine anyway).
+# Coordinates: npc.json [6] / object.json [3] (Avatar of Saeyleenan 272054 43.92,73.44; Relic of the Fang 672821 72.4,66 /
+# 72.6,66.1; Relic of the Claw 673093 75.2,67.2; Relic of the Silent Shadow 673094 74.4-74.5,65.1-65.5; Mathrengyl,
+# Dendrite, Silva as in 05; Vesprystus 3838 58.4,94.02 Teldrassil; Gershala 8997 38.33,43.04 Darkshore).
+# 98404 objective order (quest.json [10] items): 280502 Fang = 1, 280679 Claw = 2, 280680 Silent Shadow = 3.
+
+@header
+Level-20 errands in Stormwind, the Windborne Cat Spirit quests in Darnassus and Moonglade (Cat Form), the boats from Rut'theran to Auberdine and on to Southshore, the trek to the Ruins of Lordaeron (Forever's new 16-22 dungeon above the Undercity, 4 Alliance quests all picked up inside) and the hand-ins back home.
 
 # Journeyman Skinning/Mining: drop the shaman (Ironforge) and Human (Camping 101: Mining) asides.
 @replace TAR5513
 [O]Journeyman Skinning/Mining if you did not get it at 17 (needs skill 50; most people are past 50 by now): [TAR5513 Gelman Stonehand] teaches Mining here in the Dwarven District and [TAR1292 Maris Granger] teaches Skinning in Old Town (72.1,62.2) [G59.2,37.8 Stormwind City]
 
-# Tank brief for the run (the boss notes below are written for the whole group).
-@after QA95189
-[OC]|cffffcc00You tank:|r Defensive Stance throughout; pull spider and ghoul packs back round a corner and Thunder Clap them, one pack at a time. Witherfang: Taunt his two spiders off the healer first, bandage the Leech Poison between pulls. The Baron: his Knockout drops your threat - Taunt straight after each one. Viktor's waves and The Abandoned's waves: Thunder Clap each wave as it lands. Flesh Golems: back to a wall so Knock Away cannot throw you into a pack. Rath'mael: Shield Bash the Flamestrike, then step out of the fire
+# The Cat Spirit loop and the new way north, in place of the Alliance "way north" note.
+@replace T The way north|r
+[OC]|cffffffffWindborne Cat Spirit: Darnassus and Moonglade|r  -  5 hand-ins, 2,885 XP (The Great Cat Spirit 390 + The Great Windborne Cat Spirit 780 + 780 + Blessings of the Great Windborne Cat Spirit 780 + To Darnassus 155); it teaches Cat Form. No hearth: the loop ends on the Rut'theran boat to Auberdine, where this trip goes anyway
+[OC]Cast Teleport: Moonglade from the Park; you arrive in Nighthaven
+At [TAR11800 Silva Fil'naveth], take the free druid flight to Rut'theran Village, then walk into the portal in the village up to Darnassus [G44.2,45.2 Moonglade]
+In the Cenarion Enclave at [TAR4217 Mathrengyl Bearwalker], [QA98393 The Great Cat Spirit] (needs level 20) [G35.4,8.4 Darnassus]
+[OC]Cast Teleport: Moonglade
+In Nighthaven at [TAR11802 Dendrite Starblaze], [QT98393 The Great Cat Spirit] [QA98341 The Great Windborne Cat Spirit] [G56.2,30.6 Moonglade]
+Run south past the twin bridges to the [TAR272054 Avatar of Saeyleenan], [QT98341 The Great Windborne Cat Spirit] [QA98404 The Great Windborne Cat Spirit] [G43.9,73.4 Moonglade]
+[OC]The relics are in the Stormrage Barrow Dens east of the Avatar. Reported (not verified): a statue outside gives a 5-minute stealth buff, and the relics are party loot - invite anyone else on the quest
+Loot the Relic of the Fang [QC98404,1] [G72.4,66 Moonglade]
+Loot the Relic of the Silent Shadow [QC98404,3] [G74.4,65.4 Moonglade]
+Loot the Relic of the Claw [QC98404,2] [G75.2,67.2 Moonglade]
+Back at the [TAR272054 Avatar of Saeyleenan], [QT98404 The Great Windborne Cat Spirit] [QA98738 Blessings of the Great Windborne Cat Spirit] [G43.9,73.4 Moonglade]
+[OC]Cast Teleport: Moonglade - quicker than the run north
+In Nighthaven at [TAR11802 Dendrite Starblaze], [QT98738 Blessings of the Great Windborne Cat Spirit] [QA98397 To Darnassus] [G56.2,30.6 Moonglade]
+At [TAR11800 Silva Fil'naveth], fly to Rut'theran Village and take the portal up to Darnassus [G44.2,45.2 Moonglade]
+In the Cenarion Enclave at [TAR4217 Mathrengyl Bearwalker], [QT98397 To Darnassus] - it teaches Cat Form (Wowhead) - and [T] train (level 20: Claw, Shred, Rip, Prowl, Starfire, Rebirth; Cat Form too if the quest did not teach it - unverified) [G35.4,8.4 Darnassus]
+[OC]|cffffcc00Cat Form from here:|r Prowl up to the target, open with Shred from behind (Claw from the front), build combo points and finish with Rip; you are melee dps in Cat Form from now on, Bear Form is for emergencies (Classic reasoning, unverified on Forever)
+Take the portal back down to Rut'theran Village (the Darnassus end of the portal is unverified on Forever) and board the boat to Auberdine at the pier (about 5 minutes) [G58.4,94 Teldrassil]
+[OC]|cffffffffThe way north|r  -  the Rut'theran boat to Auberdine, then the Auberdine boat to Menethil Harbor, and in Forever that same boat carries on to |cff66ff66Southshore|r in Hillsbrad. Stay aboard at Menethil.
 
-# Witherfang: the Poison Cleansing Totem aside was the shaman's. No boss in 08 has a step line, so each boss's loot
-# goes after its own tactic note.
+# The Stormwind Harbor walk is replaced by the Rut'theran boat above.
+@delete G24.5,4
+
+@replace QT3765
+Off the Rut'theran boat in Auberdine, on the dock at [TAR8997 Gershala Nightwhisper], [QT3765] [QA1275 Researching the Corruption] (8 Corrupted Brain Stems from the Fallenroot satyrs in and around Blackfathom - chapter 13) [G38.3,43 Darkshore]
+
+# Cat brief for the run (the boss notes below are written for the whole group). Classic reasoning.
+@after QA95189
+[OC]|cffffcc00Cat Form for the run:|r find a tank and a healer; you are melee dps. Let the tank pull, Prowl in behind the kill target, Shred/Claw to 4-5 combo points and Rip; never open on a fresh pack. Shift to Bear Form and Growl if the tank dies. Flesh Golems: back to a wall so Knock Away cannot throw you into a pack (Classic reasoning, unverified on Forever)
+
+# Witherfang: the Poison Cleansing Totem aside was the shaman's; the druid has Cure Poison (00u). No boss in 08 has a
+# step line, so each boss's loot goes after its own tactic note.
 @replace T Leech Poison on the tank - shaman, Poison Cleansing Totem
-[OC]|cffffffffThe run|r  -  spider wing first: Venom Lurkers / Spiders / Tarantulas in patrolling packs - pull them back to you, do not fight next to a second pack. |cffffcc00Witherfang|r (patrols King's Alley) comes with two spiders: kill those first; Leech Poison on the tank - heal and bandage through it.
+[OC]|cffffffffThe run|r  -  spider wing first: Venom Lurkers / Spiders / Tarantulas in patrolling packs - pull them back to you, do not fight next to a second pack. |cffffcc00Witherfang|r (patrols King's Alley) comes with two spiders: kill those first; Leech Poison on the tank - Cure Poison it (shift out of Cat Form; learned at 14), otherwise heal and bandage through it.
 @gear-dungeon T Leech Poison on the tank - shaman, Poison Cleansing Totem => Witherfang
 @gear-dungeon T Knockout = a big hit plus a threat drop => The Baron
 @gear-dungeon T light the chimney fire in the south-west building => Viktor the Vile
 @gear-dungeon T (Market Street statue event) => The Abandoned
 
-# Rath'mael: the interrupt was Earth Shock.
+# Rath'mael: the interrupt was Earth Shock; a cat has none.
 @replace T interrupt it (Earth Shock) when you can
-[OC]|cffffcc00Bjork|r: a short Anti-Magic Shield, otherwise tank and spank. |cffffcc00Rath'mael|r (last): Flamestrike lands where the tank stood when the cast began - everyone steps out of the fire; interrupt it (Shield Bash) when you can.
+[OC]|cffffcc00Bjork|r: a short Anti-Magic Shield, otherwise tank and spank. |cffffcc00Rath'mael|r (last): Flamestrike lands where the tank stood when the cast began - everyone steps out of the fire; whoever has an interrupt uses it on the cast.
 @gear-dungeon T interrupt it (Earth Shock) when you can => Bjork
 @gear-dungeon T interrupt it (Earth Shock) when you can => Rath'mael
 
-# Inline gear text on step lines: the generated line after each [QT] carries the warrior pick.
+# Inline gear text on step lines: the generated line after each [QT] carries the druid pick.
 @replace QT95250
 Hand in to [TAR265701 Captain Truman] at the entrance on the way out [QT95250]
 
 @replace QT95195
 At the Stockade gate at [TAR466 General Marcus Jonathan], [QT95195] [G69.2,82.7 Stormwind City]
-
-# Level 20 trainer if the warrior did not train after the Deadmines (07 has the same [O] step).
-@after QT95195
-[O]If you have not trained 20 yet: east in Old Town at [TAR5479 Wu Shen] (warrior trainer), [T] train your level 20 abilities [G80.6,59.9 Stormwind City]
 
 # Log check: the shaman's Call of Water and Knowledge in the Deeps are not in this guide.
 @replace T Stormpike's Delivery (353) and, shaman, Call of Water

@@ -1,19 +1,21 @@
-# Chapter 21 (29-30 Ashenvale: the East) - Skyborne Protection Warrior overlay (block C, 1 Nov 2026)
+# Chapter 21 (29-30 Ashenvale: the East) - Skyborne Feral Druid overlay (block C, 2 Nov 2026; from the warrior overlay of 1 Nov)
 # "T <text>" anchors reach untagged [OC] lines that carry no other anchor token.
 
 @replace T |cffffcc00Training:|r nothing in Ashenvale trains you
-[OC]|cffffcc00Training:|r nothing in Ashenvale trains you; if you did not train level 30 in Darnassus, it waits for the Ironforge warrior trainer (chapter 24)
+[OC]|cffffcc00Training:|r nothing in Ashenvale trains you; if you did not train level 30 (Travel Form, Shred rank 2) in Darnassus, it waits for the Stormwind Park in chapter 25 - there is no druid trainer in Ironforge
 
-# Maliynn 98027: the stripped Gear line covered a fixed reward (no generated line); tooltip 1 Nov: neck +3 Agi +3 Spi.
+# Maliynn 98027: the stripped Gear line covered a fixed reward (no generated line); tooltip: neck +3 Agi +3 Spi (feral 5.4).
 @after QT98027
 [OC]|cffffcc00Gear (98027):|r wear the |cff66ff66Replica Crescent Necklace|r (neck +3 Agi +3 Spi, fixed reward) unless your neck is better
 
-# Raene 1046: the generated line covers the choice; the fixed Ring of Pure Silver (tooltip: +1 Sta +6 Spi) was on the
-# dropped shaman/hunter gear lines.
+# Raene 1046: the generated line covers the choice; the fixed Ring of Pure Silver (tooltip: +1 Sta +6 Spi, feral 1.8)
+# was on the dropped shaman/hunter gear lines.
 @after QT1046
 [OC]|cffffcc00Gear (1046):|r the fixed Ring of Pure Silver (+1 Sta +6 Spi) only for an empty ring slot
 
+# 981: choices Pious Legwraps (cloth legs +8 Sta +7 Spi, feral 6.2) and Seraph's Strike (2H sword, druid cannot use);
+# the reason to skip is the ~6-minute hand-in, which still holds.
 @replace T 981 pays 2,500 XP but its rewards are a 2H sword
-[OC]981 pays 2,500 XP but its rewards are a two-handed sword and cloth legs (nothing for a warrior with a shield), and the hand-in means two flights and a 10-unit run, ~6 minutes. Most players abandon it; the next line is for those who want the XP
+[OC]981 pays 2,500 XP but its rewards are a two-handed sword (no druid wields one) and cloth legs (+8 Sta +7 Spi), and the hand-in means two flights and a 10-unit run, ~6 minutes. Most players abandon it; the next line is for those who want the XP
 @replace T |cffffcc00Check:|r nothing new stays open from this chapter
 [OC]|cffffcc00Check:|r nothing new stays open from this chapter except, if you took the tail, 981. Still carried from chapter 20 for later chapters: Seeking Caitlin (95737) and The Absent Minded Prospector (942) for Menethil in chapter 22, Klockmort's Essentials (2925) and, if you took it, Castpipe's Task (2931) for Ironforge in chapter 24. Next: the Excavation Site

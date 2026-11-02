@@ -1,10 +1,10 @@
-# Chapter 06 (18-19 Redridge) - warrior overlay, block A, 1 Nov 2026.
+# Chapter 06 (18-19 Redridge) - druid overlay, block A, 2 Nov 2026 (from the warrior overlay of 1 Nov).
 
-# Merchant camp: the Alliance note is about Totemic / Brawler's Leather patterns (Leatherworking, not on the warrior's
-# route). Kept: Waylaid Supplies hand-in, Stondry's plans (Guard's set named once, not on the route), the auctioneer.
+# Merchant camp: the Alliance note is about Totemic / Brawler's Leather patterns (Leatherworking, not on the druid's
+# route). Kept: Waylaid Supplies hand-in, Stondry's vendors, the auctioneer. The Guard's-set sentence goes (spec).
 @replace TAR256389
-[OC]|cffffcc00Merchant camp (new in Forever):|r just inside the zone line at 10,72, the Azeroth Commerce Authority caravan - Supply Officer [TAR256389 Tamelyn Aldridge] (10.4,71.4) takes filled Waylaid Supplies crates for Merchant's Favor; [TAR256730 Stondry Darkhammer] (10.2,74.2) sells Blacksmithing plans (the Guard's mail tank pieces - Blacksmithing and Scarce reagents, not part of this route) with Alchemy/Enchanting/Engineering/Tailoring/Cooking vendors around him, and [TAR258878 Auctioneer Quickcoin] (9.4,71.8) is an auction house without the trip to Stormwind [G10.2,72.0 Redridge Mountains]
+[OC]|cffffcc00Merchant camp (new in Forever):|r just inside the zone line at 10,72, the Azeroth Commerce Authority caravan - Supply Officer [TAR256389 Tamelyn Aldridge] (10.4,71.4) takes filled Waylaid Supplies crates for Merchant's Favor; [TAR256730 Stondry Darkhammer] (10.2,74.2) sells Blacksmithing plans, with Alchemy/Enchanting/Engineering/Tailoring/Cooking vendors around him (nothing on this route), and [TAR258878 Auctioneer Quickcoin] (9.4,71.8) is an auction house without the trip to Stormwind - check it for a cheap leather upgrade [G10.2,72.0 Redridge Mountains]
 
-# Dire Condors: "shock them" was the shaman's Earth Shock.
+# Dire Condors: "shock them" was the shaman's Earth Shock. Bear band.
 @replace TAR428
-Kill [TAR428 Dire Condor] in the hills northeast of the lake for 5 Tough Condor Meat (they hit hard - one at a time, Shield Block when you have rage; ~35% drop, budget ~15 condors) [QC92,2] [G49.9,42.0 Redridge Mountains]
+Kill [TAR428 Dire Condor] in the hills northeast of the lake for 5 Tough Condor Meat (they hit hard - one at a time, Demoralizing Roar first; ~35% drop, budget ~15 condors) [QC92,2] [G49.9,42.0 Redridge Mountains]

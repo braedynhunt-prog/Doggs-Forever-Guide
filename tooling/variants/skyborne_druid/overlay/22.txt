@@ -1,26 +1,28 @@
-# Chapter 22 (29-30 Excavation Site: Wetlands) - Skyborne Protection Warrior overlay (block C, 1 Nov 2026)
+# Chapter 22 (29-30 Excavation Site: Wetlands) - Skyborne Feral Druid overlay (block C, 2 Nov 2026; from the warrior overlay of 1 Nov)
 # "T <text>" anchors reach untagged [OC] lines that carry no other anchor token.
+# Tactics: the druid is Cat Form melee damage from 20 (spec); Prowl/Claw/Shred/Rip/Tiger's Fury/Dash and "shift to Bear
+# Form and Growl if the tank dies" are Classic feral reasoning, nothing on Forever backs them.
 
 # Header: Call of Water and the shaman's errands are gone.
 @header
-Menethil pickups, the walk to Whelgar's dig site and a full run of the Excavation Site (Forever's new Wetlands five-man: Saltspine, Shadetooth, the Highland Horror and the Relic Guardian) with you as the tank, then the hand-ins at Rethiel, Whelgar and Menethil and the boat to Southshore.
+Menethil pickups, the walk to Whelgar's dig site and a full run of the Excavation Site (Forever's new Wetlands five-man: Saltspine, Shadetooth, the Highland Horror and the Relic Guardian) with you as Cat Form damage, then the hand-ins at Rethiel, Whelgar and Menethil and the boat to Southshore.
 
 @replace T |cffffffffLevel 29-30|r  -  you step off the Auberdine boat
 [OC]|cffffffffLevel 29-30|r  -  you step off the Auberdine boat at Menethil Harbor with chapters 20 and 21 behind you; hearth = Sentinel Hill and it STAYS there. This is the dungeon chapter for the Excavation Site, a NEW Forever five-man in the hills above Whelgar's dig site: about 17,700 quest XP handed in here at quest level (18,300 with the relic quest, 21,500 with the optional group quest Gleaning Our Future; the level-20 and level-24 quests pay less at your level), and 7,500 XP of quests picked up for chapters 24 and 25.
 @replace T |cffffcc00Carried in:|r Songblade Search (95772)
 [OC]|cffffcc00Carried in:|r Songblade Search (95772), Highland Hides (98815), Horrors in the Highland (95646), Gleaning Our Future (98310) if you took it.
 @replace T |cFFFF0000GROUP 5|r the run needs five: your tank friend
-[OC]|cFFFF0000GROUP 5|r the run needs five: you tank, so find a healer and three damage dealers (finder level 26; Method and the article also mention a meeting stone at the foot of the climb). The quests need 24, but the last boss is level 31 and Wowhead advises against entering at 24: you are well past that. Bring food, water and a repair.
+[OC]|cFFFF0000GROUP 5|r the run needs five: find a tank and a healer, plus two more damage dealers - you are melee damage in Cat Form (finder level 26; Method and the article also mention a meeting stone at the foot of the climb). The quests need 24, but the last boss is level 31 and Wowhead advises against entering at 24: you are well past that. Bring food, water and a repair.
 @replace T |cffffcc00?|r Lost Relic Carry (95810, 630 XP)
-[OC]|cffffcc00?|r Lost Relic Carry (95810, 630 XP) then Prehistoric Prism (98824, 3,150 XP) - |cffffcc00luck, 26.78%|r: the Titan Relic drops from the last boss only and the tooltip does not mark it a Quest Item, so expect a roll. Right-click it for 95810, hand it in at Whelgar and he offers the Prism, a carry to High Explorer Magellas in Ironforge (chapter 24). No relic on this run: skip both, the dungeon is not re-run for it (the Prism's warrior pick is a +5 Agi cloak, so it is only the XP)
+[OC]|cffffcc00?|r Lost Relic Carry (95810, 630 XP) then Prehistoric Prism (98824, 3,150 XP) - |cffffcc00luck, 26.78%|r: the Titan Relic drops from the last boss only and the tooltip does not mark it a Quest Item, so expect a roll. Right-click it for 95810, hand it in at Whelgar and he offers the Prism, a carry to High Explorer Magellas in Ironforge (chapter 24). No relic on this run: skip both, the dungeon is not re-run for it, even though the Prism's druid pick is the best weapon on the route (Heavehammer, 2H mace 27.7 dps)
 @replace T |cffffcc00Saltspine|r patrols the lake edge
-[OC]|cffffcc00Saltspine|r patrols the lake edge: Dust Storm (-25% hit chance for anyone in melee range per Icy Veins; Method reads it as a threat cut - either way casters and ranged stay out of melee, and you open with Sunder Armor and Shield Block to build a lead), Tendon Rip and Fatal Bite on you. Easy once the lake trash is dead; never pull him with a second pack
+[OC]|cffffcc00Saltspine|r patrols the lake edge: Dust Storm (-25% hit chance for anyone in melee range per Icy Veins; Method reads it as a threat cut - either way casters and ranged stay out of melee, and you, in melee, give the tank a few seconds before you open), Tendon Rip and Fatal Bite on the tank. Easy once the lake trash is dead; never pull him with a second pack
 @replace T |cffffcc00Stalker's Thicket|r: Thicket Lurkers
-[OC]|cffffcc00Stalker's Thicket|r: Thicket Lurkers and Stalkers come in threes and hide invisibly in the tall grass until you step close - walk the path, not the grass, and hold each three-pack in Defensive Stance with Thunder Clap, Taunting whichever runs to the healer. Thicket Hunters put Infected Wound (a disease) on you: ask for a cleanse. Matriarchs and Lurkers apply Rend Flesh, a strong bleed
+[OC]|cffffcc00Stalker's Thicket|r: Thicket Lurkers and Stalkers come in threes and hide invisibly in the tall grass until you step close - walk the path, not the grass. In Cat Form hit the tank's target from behind; if one of a three-pack runs to the healer and the tank cannot take it back, shift to Bear Form and Growl it. Thicket Hunters put Infected Wound (a disease) on the tank: cleanse it. Matriarchs and Lurkers apply Rend Flesh, a strong bleed
 @replace T |cffffcc00Shadetooth|r (the hardest fight here
-[OC]|cffffcc00Shadetooth|r (the hardest fight here per Icy Veins; patrols the raptor path with two Thicket Hunters): clear the raptors stealthed in the bushes and the crocodile den first, then kill the two Hunters before him (they can be crowd-controlled). His Terrifying Roar is an undispellable 5-second fear that runs you into the grass packs: tank him with your back to the cleared path and Taunt him back the moment the fear ends. Rend hurts you, so Shield Block on cooldown and let the healer know; he enrages at 20% (Method) or 30% (Icy Veins) - stuns and slows. The article: pull him to the cove on the left after clearing it, the Hunters cannot swim
+[OC]|cffffcc00Shadetooth|r (the hardest fight here per Icy Veins; patrols the raptor path with two Thicket Hunters): clear the raptors stealthed in the bushes and the crocodile den first, then kill the two Hunters before him (they can be crowd-controlled). His Terrifying Roar is an undispellable 5-second fear that runs you into the grass packs, so fight him with the group's backs to the cleared path. Rend hurts the tank; he enrages at 20% (Method) or 30% (Icy Veins) - stuns and slows. If the tank dies, shift to Bear Form and Growl. The article: pull him to the cove on the left after clearing it, the Hunters cannot swim
 @replace T |cffffcc00Relic Guardian|r (level 31, a construct
-[OC]|cffffcc00Relic Guardian|r (level 31, a construct that starts inactive): use the panel on his right (the Archival or Titan Control Panel) to start him. Thunderclap slows and cuts attack speed within ~10 yards, Arcing Smash cleaves the front (turn him away from the group), Knock Away drops your threat (Taunt him back at once), War Stomp and a stun on you come now and then. He can be stunned, slowed and crowd-controlled; Hamstring keeps him slow if he gets loose (Method, Icy Veins)
+[OC]|cffffcc00Relic Guardian|r (level 31, a construct that starts inactive): use the panel on his right (the Archival or Titan Control Panel) to start him. Thunderclap slows and cuts attack speed within ~10 yards, Arcing Smash cleaves the front (stay behind him - Shred wants it anyway), Knock Away drops the tank's threat (ease off until the tank has him back), War Stomp and a tank stun come now and then. He can be stunned, slowed and crowd-controlled (Method, Icy Veins)
 
 # Saltspine has no step line in the Alliance chapter; name him on the first kill step so his loot call sits there.
 @replace QC98815
@@ -28,10 +30,10 @@ Kill Saltspine on the Lost Marsh lake, then the Thicket packs and Shadetooth for
 @gear-dungeon QC98815 => Saltspine
 @gear-dungeon QC98815 => Shadetooth
 
-# Relic Guardian: no kill step in the Alliance chapter (only the Titan Relic note); add one so his loot call follows it.
+# Relic Guardian: no kill step in the Alliance chapter (only the Titan Relic note); add one. No loot call: the feral
+# emit has no Relic Guardian group (generated_gear.json dungeons, chapter 22: Saltspine and Shadetooth only).
 @after QT95647
 Start the Relic Guardian at the panel on his right and kill him (last boss)
-@gear-dungeon QT95647 => Relic Guardian
 
 @replace T |cffffffffAfter the run|r  -  the door is 20 units north
 [OC]|cffffffffAfter the run|r  -  the door is 20 units north of the Dun Algaz pass and 18 units south-west of Rethiel's clearing; everything below is one walk north-east to Rethiel, then west to Whelgar and Menethil
@@ -40,21 +42,19 @@ Start the Relic Guardian at the panel on his right and kill him (last boss)
 @replace G56.4,40.4#2
 Walk north-east up the valley to Rethiel's clearing at the road junction [G56.4,40.4 Wetlands]
 
-# Whelgar 98310: inline gear text removed; the generated warrior line follows the [QT].
+# Whelgar 98310: inline gear text removed; the generated druid line follows the [QT].
 @replace QT98310
 [O]At [TAR1077 Prospector Whelgar], [QT98310] [G38.8,52.4 Wetlands]
 
-# Caitlin 95809: non-gear reward (potions) and a fixed trinket; reworded for a warrior (no mana).
+# Caitlin 95809: non-gear reward (potions) and a fixed trinket (Satchel of Potions 280766, no stats); reworded for a druid.
 @replace QT95809
-At [TAR1480 Caitlin Grassman], [QT95809] - take the Greater Healing Potion (the Mana Potion is no use to a warrior); the fixed Satchel of Potions is a trinket that gives a random potion on a 10-minute cooldown: wear it only if your trinket slot is empty [G11.9,58.8 Wetlands]
+At [TAR1480 Caitlin Grassman], [QT95809] - take the Greater Healing Potion (in Cat Form your mana only pays for shifting and heals); the fixed Satchel of Potions is a trinket that gives a random potion on a 10-minute cooldown: wear it only if your trinket slot is empty [G11.9,58.8 Wetlands]
 
 @replace T |cffffcc00Check:|r handed in here: Seeking Caitlin (95737)
-[OC]|cffffcc00Check:|r handed in here: Seeking Caitlin (95737), The Absent Minded Prospector (942, 943), Lost in the Thicket Things (95647), Songblade Search (95772), Horrors in the Highland (95646), Highland Hides (98815), Heartwoven (95809) and, if they came your way, Lost Relic Carry (95810) and Gleaning Our Future (98310). Carried on: Blessed Arm (322) and Fallen in the Fen (95795) for Stormwind and Lakeshire in chapter 25, For Further Study (98313) and, with the relic, Prehistoric Prism (98824) for Ironforge in chapter 24. Hearth = Sentinel Hill. Level-30 abilities: Darnassus (chapter 20) if you were 30 there, otherwise the Ironforge warrior trainer in chapter 24. Next: Southshore
+[OC]|cffffcc00Check:|r handed in here: Seeking Caitlin (95737), The Absent Minded Prospector (942, 943), Lost in the Thicket Things (95647), Songblade Search (95772), Horrors in the Highland (95646), Highland Hides (98815), Heartwoven (95809) and, if they came your way, Lost Relic Carry (95810) and Gleaning Our Future (98310). Carried on: Blessed Arm (322) and Fallen in the Fen (95795) for Stormwind and Lakeshire in chapter 25, For Further Study (98313) and, with the relic, Prehistoric Prism (98824) for Ironforge in chapter 24. Hearth = Sentinel Hill. Level 30 (Travel Form): Darnassus (chapter 20) if you were 30 there, otherwise the Stormwind Park in chapter 25 - no druid trainer in Ironforge. Next: Southshore
 
-# Rethiel 95646: the generated pick (Hornbeam Heft, 1H axe 11.5 dps +6 Str) is far below a level-30 weapon.
-@after QT95646
-[OC]|cffffcc00Gear (95646):|r Hornbeam Heft (11.5 dps) is weaker than any one-hander you carry by now: keep yours and vendor the reward
+# Rethiel 95646: the generated druid pick is Ironwood Destroyer (2H mace 22.2 dps, feral 310.9); no hand note.
 
-# Flagongut 943: the generated pick (Relic Blade, dagger 10.0 dps +3 Sta) is an item-level-20 reward.
+# Flagongut 943: the generated pick (Relic Blade, dagger 10.0 dps +3 Sta, feral 141.8) is an item-level-20 reward.
 @after QT943
 [OC]|cffffcc00Gear (943):|r the Relic Blade (10 dps) is an item-level-20 dagger: keep your weapon and vendor the reward

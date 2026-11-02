@@ -1,56 +1,51 @@
-# Chapter 07 (19-20 Deadmines) - warrior overlay, block A, 1 Nov 2026.
+# Chapter 07 (19-20 Deadmines) - druid overlay, block A, 2 Nov 2026 (from the warrior overlay of 1 Nov).
 # Bosses with no step line (Miner Johnson, Mr. Smite, Captain Greenskin, Cookie): their generated loot lines go after
 # the boss's own header/tactic note (text anchors). Rhahk'Zor has no generated group; the trash group is not placed (RULES 3).
+# No trainer stop in this chapter: nothing new at 19, and the level-20 ranks are trained by Mathrengyl inside the
+# chapter-08 Cat Spirit loop (spec), so both Wu Shen lines are gone.
+# Bear band: no Cat Form until the chapter-08 loop.
 
 @header
-Two Stormwind errand loops (the new Stormwind quests + Alba's explosives) with a warrior trainer stop, the Defias Brotherhood chain, then the Deadmines with normal/grind labels, tank notes and warrior loot calls.
+Two Stormwind errand loops (the new Stormwind quests + Alba's explosives), the Defias Brotherhood chain, then the Deadmines with normal/grind labels, Bear Form notes (Cat Form comes at the start of the next chapter) and druid loot calls.
 
-# AH: the Totemic Leather pattern hunt and the Mining -> Leatherworking switch are the shaman's; the warrior keeps Skinning + Mining.
+# AH: the Totemic Leather pattern hunt and the Mining -> Leatherworking switch are the shaman's; the druid keeps Skinning + Mining.
 @replace G61.1,70.7
 At the Auction House, buy 10 [CI4365,10 Coarse Dynamite] if you have not - Alba's A Dynamite Plan needs them (~2,900 XP chain) [G61.1,70.7 Stormwind City]
 
-# Warrior trainer on the Stormwind pass (spec: 07, level 19-20), next door to Kendor in Old Town on loop 2.
-@after TAR340
-Up the street at [TAR5479 Wu Shen] (warrior trainer, Old Town), [T] train every new rank up to your level (even levels) [G80.6,59.9 Stormwind City]
-
 # Escort: "Searing Totem each pack" was the shaman's.
 @replace T Escort the Traitor southwest to Moonbrook
-[OC]Escort the Traitor southwest to Moonbrook. He walks through the Defias fields; four ambushes of 2-3 - stay next to him in Defensive Stance, Thunder Clap each pack and Taunt anything that turns to him
+[OC]Escort the Traitor southwest to Moonbrook. He walks through the Defias fields; four ambushes of 2-3 - stay next to him in Bear Form, Demoralizing Roar and Swipe each pack and Growl anything that turns to him
 
-# Tank brief before the first elites (the tunnel), standing in for the dropped hunter group note.
+# Hearth: the Alliance route binds Lakeshire in 06 (06:25) but hearths to Sentinel Hill at 07:125, 08:52, 09:104 and
+# 10:74 without a rebind. The druid rebinds here, before the run, so the hearth after the Deadmines lands on Gryan.
+@replace TAR8931
+At [TAR8931 Innkeeper Heather], bind your Hearthstone to [S Sentinel Hill] (Redridge had you bound in Lakeshire) [V], stock water and food; repair at the blacksmith below the tower [G52.9,53.7 Westfall]
+
+# Bear brief before the first elites (the tunnel), standing in for the dropped hunter group note. Classic reasoning.
 @before TAR623
-[OC]|cffffcc00You tank the run:|r Defensive Stance and the shield throughout. Thunder Clap to open packs (usable in Defensive Stance on Forever - unverified), Sunder the kill target, Revenge on cooldown, Taunt whatever peels; Shield Block on the hard hitters (Rhahk'Zor, Mr. Smite, VanCleef). Pull Defias casters around a corner so they come to you
+[OC]|cffffcc00Bear Form for the run:|r find a tank and a healer; you are melee dps who can off-tank. Enrage before a pull, Demoralizing Roar on every pack, Maul the kill target and Swipe when 2+ are on you, pick up whatever runs to the healer, and Growl the boss if the tank dies (Classic reasoning, unverified on Forever). Pull Defias casters around a corner so they come to you
 
-# Camp: the warrior has the Camp Chair but no Lodestone (Camping 101: Mining not taken).
+# Camp: the druid has the Camp Chair but no Lodestone (Camping 101: Mining not taken).
 @replace T Camp before you zone in:|r drop a Basic Campfire
 [OC]|cffffcc00Camp before you zone in:|r drop a Basic Campfire by the portal, everyone adds one profession object (your Camp Chair / your friend's), sit 1 minute for the hour-long buffs
 
 @gear-dungeon T sometimes patrols the mine tunnels => Miner Johnson
 
-@before TAR642
-[OC]|cffffcc00Tank:|r hold the Shredder where it stands, then Taunt Sneed the moment he jumps out
 @gear-dungeon TAR642 => Sneed's Shredder
 @gear-dungeon TAR642 => Sneed
 
 # Gilnid has no kill step: his loot follows the explosives step in his foundry.
 @after QC92753
-[OC]|cffffcc00Tank:|r Thunder Clap the fire elemental adds onto you while the group kills the goblins
+[OC]|cffffcc00Bear:|r Swipe the fire elemental adds that come to you while the group kills the goblins
 @gear-dungeon QC92753 => Gilnid
 
-# Mr. Smite: the Alliance note is written from the dps side; tank version, loot after it.
-@replace T he hits hardest with the 2H
-[OC]At 66% and 33% he stuns everyone and runs to his chest to swap weapons - Shield Block his swings, Taunt him back the moment he returns and keep him facing away from the group; he hits hardest with the 2H
+# Mr. Smite: the Alliance note stays as written; the loot goes after it.
 @gear-dungeon T he hits hardest with the 2H => Mr. Smite
 
 @gear-dungeon T Pirate adds; he comes with a small pack => Captain Greenskin
 
 @before TAR639
-[OC]|cffffcc00Tank:|r Taunt each pair of Blackguards as they appear (75% and 50%) and Thunder Clap to keep both; Shield Block on VanCleef in between
+[OC]|cffffcc00Bear:|r when the Blackguards come (75% and 50%), Growl one off the healer and hold it with Swipe and Demoralizing Roar until the group turns to it
 @gear-dungeon TAR639 => Edwin VanCleef
 
 @gear-dungeon T pops out of his pot after VanCleef => Cookie
-
-# Level 20 trainer for a warrior who dinged in the run (the class "Level 20" lines 07:134/135 dropped). Baros is in
-# Cathedral Square; Old Town is a short walk east.
-@after QT373
-[O]If you dinged 20 in the Deadmines: in Old Town at [TAR5479 Wu Shen] (warrior trainer), [T] train your level 20 abilities - otherwise on the Stormwind hand-ins after the Ruins of Lordaeron (next chapter) [G80.6,59.9 Stormwind City]

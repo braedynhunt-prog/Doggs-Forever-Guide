@@ -1,25 +1,32 @@
-# Chapter 23 (30-31 Hillsbrad) - Skyborne Protection Warrior overlay (block C, 1 Nov 2026)
+# Chapter 23 (30-31 Hillsbrad) - Skyborne Feral Druid overlay (block C, 2 Nov 2026; from the warrior overlay of 1 Nov)
 # "T <text>" anchors reach untagged [OC] lines that carry no other anchor token.
 
 @replace T |cffffcc00Training:|r nothing in Southshore trains you
-[OC]|cffffcc00Training:|r nothing in Southshore trains you; if you did not train level 30 in Darnassus, it waits for the Ironforge warrior trainer (chapter 24).
+[OC]|cffffcc00Training:|r nothing in Southshore trains you; if you did not train level 30 (Travel Form, Shred rank 2) in Darnassus, it waits for the Stormwind Park in chapter 25 - there is no druid trainer in Ironforge.
 
-# Farren 562: fixed Fish Gutter is a main-hand axe (tooltip 1 Nov: 16.67 dps, +5 Spi) - a warrior weapon, not vendor fodder.
+# Farren 562: fixed Fish Gutter is a main-hand axe (tooltip 3755: 16.7 dps, +5 Spi) - a druid cannot wield axes.
 @replace QT562
-At [TAR2228 Lieutenant Farren Orinelle], [QT562] [QA563 Reassignment] (3,200 XP: Farren's Report goes to Major Samuelson in Stormwind Keep, chapter 25) - |cffffcc00Gear (562):|r the fixed Fish Gutter (main-hand axe 16.7 dps, +5 Spi) - wield it if your one-hander is slower, else vendor [G51.5,58.4 Hillsbrad Foothills]
+At [TAR2228 Lieutenant Farren Orinelle], [QT562] [QA563 Reassignment] (3,200 XP: Farren's Report goes to Major Samuelson in Stormwind Keep, chapter 25) - |cffffcc00Gear (562):|r the fixed Fish Gutter is an axe, which a druid cannot wield: vendor [G51.5,58.4 Hillsbrad Foothills]
 
-# Bilger 98071: fixed Brewer's Bracers are mail +4 Str +2 Sta (tooltip) - a warrior wears them.
+# Bilger 98071: fixed Brewer's Bracers are mail +4 Str +2 Sta (tooltip 279388) - a druid cannot wear mail.
 @replace QT98071
-At [TAR2705 Brewmeister Bilger], [QT98071] - |cffffcc00Gear:|r Brewer's Bracers (mail wrist +4 Str +2 Sta, fixed reward): wear them unless your bracers are better [G52.1,58.7 Hillsbrad Foothills]
+At [TAR2705 Brewmeister Bilger], [QT98071] - |cffffcc00Gear:|r Brewer's Bracers are mail (fixed reward): vendor [G52.1,58.7 Hillsbrad Foothills]
 
 @replace T |cffffffffExtras|r  -  the core quests are done
 [OC]|cffffffffExtras|r  -  the core quests are done (~14,000 XP). Everything from here to the flight is optional and each block takes its own pickup, so take one and skip the rest
 
-# Maleb 505: inline shaman/hunter gear text removed; the generated warrior line (Crusader Belt) follows the [QT].
+# Yeti Fur Cloak 2805 (fixed reward of 565): cloak +3 Str +6 Agi, feral score 15.6 at band 30 - above the Golem War
+# Cloak (+6 Str, 12.0) and every other cloak pick on the route.
+@replace T |cffffcc00Yeti Fur cloak:|r 2,700 XP and a good cloak
+[OC]|cffffcc00Yeti Fur cloak:|r 2,700 XP and the best cat cloak on the route (+3 Str +6 Agi), but |cffffcc00you must supply two crafted items|r. Skip it unless you can buy both
+@replace QT565
+[O]At [TAR2438 Bartolo Ginsetti], [QT565] - |cffffcc00Gear:|r the fixed Yeti Fur Cloak (+3 Str +6 Agi) is a real cat upgrade: wear it [G49.4,55.5 Hillsbrad Foothills]
+
+# Maleb 505: inline shaman/hunter gear text removed; the generated druid line (Insulated Sage Gloves) follows the [QT].
 @replace QT505
 [O]At [TAR2276 Magistrate Henry Maleb], [QT505] [G48.1,59.1 Hillsbrad Foothills]
 
 @replace T |cFFFF0000GROUP 3+|r |cffffcc00Preserving Knowledge:|r
-[OC]|cFFFF0000GROUP 3+|r |cffffcc00Preserving Knowledge:|r the biggest XP in town (3,550 now, 3,550 more at Milton Sheaf in chapter 25) and the hardest. |cffffcc00Needs Southshore (538) from chapter 18:|r Dibbs offers it only after you hand 538 in. 5 Recovered Tomes from the Crushridge ogres (Ogres 34-35, Brutes 35-36, plus ELITE Maulers 36-37 and Mages 37-38) and the Worn Leather Book from the Weathered Bookcase in Crushridge Hold, Alterac. No drop rate and no route in the DB, and everything is 4-8 levels above you: you tank it with a healer and a third, or skip it
+[OC]|cFFFF0000GROUP 3+|r |cffffcc00Preserving Knowledge:|r the biggest XP in town (3,550 now, 3,550 more at Milton Sheaf in chapter 25) and the hardest. |cffffcc00Needs Southshore (538) from chapter 18:|r Dibbs offers it only after you hand 538 in. 5 Recovered Tomes from the Crushridge ogres (Ogres 34-35, Brutes 35-36, plus ELITE Maulers 36-37 and Mages 37-38) and the Worn Leather Book from the Weathered Bookcase in Crushridge Hold, Alterac. No drop rate and no route in the DB, and everything is 4-8 levels above you: find a tank and a healer, or skip it
 @replace T |cffffcc00Check:|r handed in here: Down the Coast
-[OC]|cffffcc00Check:|r handed in here: Down the Coast to Stormwind Ho! (536, 559, 560, 561, 562), Brewer's Trade (98071), Hillsbrad's Hoard (98059), The Shamed Lieutenant (98219) and the bisque (555) if the meat dropped. Still open for Stormwind in chapter 25: Reassignment (563) and, if you took the group block, Return to Milton (542). Next: Ironforge, the warrior trainer and the Gnomeregan quests
+[OC]|cffffcc00Check:|r handed in here: Down the Coast to Stormwind Ho! (536, 559, 560, 561, 562), Brewer's Trade (98071), Hillsbrad's Hoard (98059), The Shamed Lieutenant (98219) and the bisque (555) if the meat dropped. Still open for Stormwind in chapter 25: Reassignment (563) and, if you took the group block, Return to Milton (542). Next: Ironforge and the Gnomeregan quests

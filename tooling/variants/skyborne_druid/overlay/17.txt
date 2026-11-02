@@ -1,20 +1,20 @@
-# Chapter 17 (Duskwood: Sven and the Hermit 27-28), warrior overlay. Block B, written 1 Nov 2026.
-# Dropped: both 377 gear lines, both 58 lines and both 253 lines (generated warrior lines for 377 and 253; 58 is a bag, worded below).
+# Chapter 17 (Duskwood: Sven and the Hermit 27-28), druid overlay. Block B, rewritten from the warrior overlay 2 Nov 2026.
+# Dropped: both 377 gear lines, both 58 lines and both 253 lines (generated druid lines for 377 and 253; 58 is a bag, worded below).
 
-# The Night Watch (58) rewards only bags/ammo pouches (build report "non-gear"): the Alliance shaman wording, for a warrior.
+# The Night Watch (58) rewards only bags/ammo pouches (build report "non-gear"): the Alliance wording, for a druid.
 @after QT58
-[OC]|cffffcc00Gear (58):|r take the |cff66ff66Gunnysack of the Night Watch|r (10-slot bag) if your biggest bag is smaller; the quiver and bandolier are ammo pouches a warrior cannot use
+[OC]|cffffcc00Gear (58):|r take the |cff66ff66Gunnysack of the Night Watch|r (10-slot bag) if your biggest bag is smaller; the quiver and bandolier are ammo pouches a druid cannot use
 
-# Crest of Darkshire (6223) is the fixed reward of 253 next to the choice: a shield, so the warrior wants it (shield 661 armor 14 block
-# +2 Str +7 Sta, tooltip 2026-11-01; Shield of the Faith from 223 is 578 armor 11 block). The generated choice line follows this one.
+# Crest of Darkshire (6223) is the fixed reward of 253 next to the choice: a shield (661 armor 14 block +2 Str +7 Sta, tooltip
+# 2026-11-02); weights/feral_weights.usable: "shield (druid cannot use)". The generated choice line follows the [QT].
 @after QT253
-[OC]|cffffcc00Gear (253):|r the fixed reward |cff66ff66Crest of Darkshire|r (shield 661 armor 14 block +2 Str +7 Sta) beats the Shield of the Faith - equip it
+[OC]|cffffcc00Gear (253):|r the fixed reward Crest of Darkshire is a shield - a druid cannot use it (and your weapon is two-handed): vendor it
 
-# Lines without a QA/QT/QC/TAR/G/N token, reached with the T (text) anchor added 1 Nov 2026.
-# source line 91: shaman/hunter/two-player wording reworded for the warrior.
+# Lines without a QA/QT/QC/TAR/G/N token, reached with the T (text) anchor.
+# source line 91: the hunter pet wording reworded for the druid.
 @replace T is a level 31 elite, ~2,310
-[OC]|cFFFF0000GROUP 2+|r |cffffcc00Eliza|r is a level 31 elite, ~2,310 HP in the Classic DB. Classic sources: she is raised by clicking Eliza's Grave Dirt behind Abercrombie's shack (the repeatable sub-quest Digging Through the Dirt, 254, no XP listed), throws burning lanterns that leave fire on the ground and calls a guard for 20 seconds - unverified on Forever. With a healer it is easy: Defensive Stance, Shield Block, Taunt the guard off the healer, and drag her out of the fire. Not worth dying for: skip it and abandon the quest if it goes badly
+[OC]|cFFFF0000GROUP 2+|r |cffffcc00Eliza|r is a level 31 elite, ~2,310 HP in the Classic DB. Classic sources: she is raised by clicking Eliza's Grave Dirt behind Abercrombie's shack (the repeatable sub-quest Digging Through the Dirt, 254, no XP listed), throws burning lanterns that leave fire on the ground and calls a guard for 20 seconds - unverified on Forever. With a tank and a healer it is easy: Cat Form at her back, step out of the fire, and Bear Form + Growl on the guard if it turns on the healer. Not worth dying for: skip it and abandon the quest if it goes badly
 
-# source line 98: shaman/hunter/two-player wording reworded for the warrior.
+# source line 98: the druid trainer and ranks for 28 (chapter 18 has the Stormwind Park stop).
 @replace T the log should hold Seeking Wisdom
-[OC]|cffffcc00Check:|r the log should hold Seeking Wisdom (269, for Bishop Farthing in Stormwind), the optional Messenger to Darkshire (146) if you took it, and what you carried in; every other Duskwood quest is turned in. Level 28 abilities wait for Wu Shen on the next Stormwind pass - Darkshire has no trainers. Next: fly to Stormwind for Bishop Farthing, then the tram to Ironforge
+[OC]|cffffcc00Check:|r the log should hold Seeking Wisdom (269, for Bishop Farthing in Stormwind), the optional Messenger to Darkshire (146) if you took it, and what you carried in; every other Duskwood quest is turned in. Level 28 (Claw and Rip rank 2, Cower, Challenging Roar) waits for Sheldras Moontree in the Stormwind Park on the next pass - Darkshire has no trainers. Next: fly to Stormwind for Bishop Farthing, then the tram to Ironforge

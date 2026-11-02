@@ -1,34 +1,49 @@
-# Chapter 19 (28-29 Wetlands: Dun Modr and the Dragonmaw) - Skyborne Protection Warrior overlay (block C, 1 Nov 2026)
+# Chapter 19 (28-29 Wetlands: Dun Modr and the Dragonmaw) - Skyborne Feral Druid overlay (block C, 2 Nov 2026; from the warrior overlay of 1 Nov)
 # "T <text>" anchors reach untagged [OC] lines that carry no other anchor token.
 
 @replace T |cffffcc00Log:|r you arrive with War Banners
 [OC]|cffffcc00Log:|r you arrive with War Banners (464), From the Ashes (98221), This Land Was Their Land (98230), Crimson Crate Delivery (98240), Crocs of the Sky (98072), Fall of Dun Modr (472), In Search of The Excavation Team (306), Sida's bag (470) if you took it, and the carried ones (98209, 98815, Gleaning Our Future 98310 if you took it).
 @delete T |cffffcc00Human hunters:|r the digest also flags
 
-# Greenwarden 275: inline gear text removed. The generator picked Phytoblade, which needs Herbalism 100 (tooltip 2263);
-# 275 is in gear_skip_quests (variant.json), so the warrior call is written by hand here.
+# First Aid: the Expert book moved from the shaman's chapter-25 Arathi trip to this chapter's Stromgarde line (below).
+@replace T Bandage to 125: Heavy Wool Bandages
+Bandage to 125: Heavy Wool Bandages from the Dragonmaw and Dark Iron wool until First Aid 125, which is what the Expert book at Stromgarde (Arathi, later in this chapter) needs [G45.6,45 Wetlands]
+
+# Carnage: "bring the tank" was the shaman's tank friend; the druid is cat damage.
+@replace T treat him as an elite and bring the tank
+[OC]Carnage: the DB gives him no level or elite flag (a new Forever boss, standing where it also puts the Razormaw Matriarch): treat him as an elite and bring a tank and a healer. The quest also wants Malignant Rotclaw Flesh from the level-25 Maddened Rotclaws that cover the highland between the Greenwarden and the nests (|cff66ff66normal|r: kill the ones in your way)
+
+# Battlemaster: "pull him with both of you" was the shaman+hunter duo wording.
+@replace T walks the middle at 45.3,44.4
+[OC]War Banners is |cff66ff66normal|r (TUGs takes them in one pass through the camp; the drop rate is not in the DB). The Dragonmaw Battlemaster (30 rare elite, ~1,000 HP in the Classic DB) walks the middle at 45.3,44.4 and drops banners too: pull him only with a second player, or leave him
+
+# Greenwarden 275: inline gear text removed; the generated druid line (Fen Keeper Robe, the only usable choice: Forest
+# Chain is mail, Phytoblade a sword that needs Herbalism 100) follows the [QT].
 @replace QT275
 At [TAR1244 Rethiel the Greenwarden], [QT275] [G56.4,40.4 Wetlands]
-@after QT275
-[OC]|cffffcc00Gear (275):|r take |cff66ff66Forest Chain|r (mail chest +2 Sta) only if your chest is weaker; Phytoblade needs Herbalism 100 and the Fen Keeper Robe is cloth - otherwise vendor
 
-# Comar 88758: the fixed Essene's Hope neck (+7 Spi) was "shaman wear it"; a warrior has no use for Spirit.
+# Comar 88758: the fixed Essene's Hope (neck +7 Spi, nether tooltip 281258, 2 Nov) scores 1.4 for a cat (Spi 0.2).
 @replace QT88758
-[O]|cFFFF0000GROUP 3+|r At [TAR5683 Comar Villard], [QT88758] - the fixed Essene's Hope neck (+7 Spi) is no warrior stat: wear it only for an empty neck slot [G49.9,12.6 Wetlands]
+[O]|cFFFF0000GROUP 3+|r At [TAR5683 Comar Villard], [QT88758] - the fixed Essene's Hope (neck +7 Spi) is near worthless to a feral: wear it only for an empty neck slot, else vendor [G49.9,12.6 Wetlands]
 
 @replace T |cffffcc00Check:|r the log now carries Word to Ironforge
-[OC]|cffffcc00Check:|r the log now carries Word to Ironforge (98300), Sully Balloo's Letter (637, if you took it), Horrors in the Highland (95646), Bloom of the Heavens (98209, for Thundris in Auberdine), Highland Hides (98815) and, if you took it, Gleaning Our Future (98310: Golm's heart by Hervdana's cave is still missing, chapter 22). If you will not run the Stockade a second time, abandon The Fury Runs Deep [QS378]. Level 30 abilities: the Darnassus warrior trainer, next chapter
+[OC]|cffffcc00Check:|r the log now carries Word to Ironforge (98300), Sully Balloo's Letter (637, if you took it), Horrors in the Highland (95646), Bloom of the Heavens (98209, for Thundris in Auberdine), Highland Hides (98815) and, if you took it, Gleaning Our Future (98310: Golm's heart by Hervdana's cave is still missing, chapter 22). If you will not run the Stockade a second time, abandon The Fury Runs Deep [QS378]. Level 30 (Travel Form, Shred rank 2): Mathrengyl in Darnassus next chapter, if you are 30 by then
 
-# Stromgarde: the Expert First Aid book was bought on the shaman's Arathi trip in chapter 25 (dropped for the warrior).
-# The warrior stands at Refuge Pointe here with First Aid 125 (the "Bandage to 125" step above), so the optional
+# Stromgarde: the Expert First Aid book was bought on the shaman's Arathi trip in chapter 25 (dropped here).
+# The druid stands at Refuge Pointe here with First Aid 125 (the "Bandage to 125" step above), so the optional
 # Stromgarde line becomes the book step. Deneb Walker 2805 DB spawn Arathi 26.97,58.83.
 @replace TAR2805
 Walk about 22 units south-west to Stromgarde Keep and at [TAR2805 Deneb Walker] in the Alliance-held quarter, [V] buy Expert First Aid - Under Wraps and read it (First Aid 125, cap 225); take the Manual: Heavy Silk Bandage too if you want it at 180. Stay in the north-west quarter: the rest of the keep is Syndicate and Boulderfist ogres (Classic, unverified). Then walk back to Refuge Pointe for the flight [G27.0,58.8 Arathi Highlands]
 
-# Refuge Pointe flight point: "(chapter 25 flies here)" was the shaman's Call of Air trip; the warrior does not.
+# Refuge Pointe flight point: "(chapter 25 flies here)" was the shaman's Call of Air trip; the druid does not.
 @replace TAR2835#1
 At flight master [TAR2835 Cedrik Prose], get the [P Refuge Pointe] flight point (for the 30-40 guide) [G45.7,46.1 Arathi Highlands]
 
-# Howin 98297: the generated pick is a dagger (Subdued Dragon's Fang 20.6 dps +7 Agi); keep the better main hand.
+# Howin 98297: generated coin flip, feral scores Subdued Dragon's Fang 300.7 / Fallen Dragon's Scepter 282.7 (central).
 @after QT98297
-[OC]|cffffcc00Gear (98297):|r the Fang is a dagger: wield it only if it beats the one-hander you carry, else keep yours and vendor the reward
+[OC]|cffffcc00Gear (98297):|r form attacks use your weapon's dps, so take whichever of the two beats the weapon you wield (the Fang is a 20.6-dps dagger, the Scepter a 19.9-dps staff); if neither does, vendor the reward
+
+# Stoutfist 98223: the generated pick is the Flamescarred Spellbook (held in off-hand +2 Sta +5 Spi, feral score 2.2;
+# the other choice is a shield) - an off-hand needs a one-hand weapon.
+@after QT98223
+[OC]|cffffcc00Gear (98223):|r the Spellbook is an off-hand: hold it only with a one-hand weapon; with a two-hander, vendor it
