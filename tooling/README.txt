@@ -108,6 +108,8 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
 
 29 Oct 2026 - dungeon loot check and item tooltips
   qdb\                 refreshed to QuestieDB Forever 1.0.9 (bundle v12.3.1+v1.0.9, 26 Oct) with questiedb_baked.py; 1.0.6 is in git
+                       2 Nov 2026: refreshed to 1.0.10 (bundle v12.4.0+v1.0.10, 2 Nov): same ids, 52 quest rows (reputation rounding,
+                       273 objective) and 99 npc rows (rank field now filled: 1 elite, 4 rare) changed; no check changed. 1.0.9 is in git.
                        history. Spawn points 119,499 -> 77,962: Questie thinned dense clusters, almost all on Zephras Isle (16593);
                        route mobs checked unchanged. 3,825 NPCs have no spawns at all, including Hall of Thanes bosses Magmatus
                        (261316) and Faldrim Anvilmar (261306).
