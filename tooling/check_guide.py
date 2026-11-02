@@ -104,6 +104,24 @@ for chain, keep in gl.CHAINS.items():
       if qid not in turned and qid not in skipped and qid not in CARRIED:
           warn(f, ln, f'[QA{qid}] {qname(qid)} is never turned in or skipped' + (' (optional)' if opt else ''))
 
+# hearth binds (2 Nov 2026, after the Lakeshire bind in 06 was followed by "Hearth to Sentinel Hill" in 07-10 without a
+# rebind): on each chain, every [H X] must match the latest [S X]; the first [H] before any [S] is taken as the starting
+# inn (a new character is bound there) and the chain's bind is set to it
+for chain, keep in gl.CHAINS.items():
+    bound = None
+    for f in files:
+        if not keep(f): continue
+        for ln, line in gl.steps(TXT[f]):
+            if RACE.get((f, ln), '') not in ('', chain): continue
+            for code, payload in gl.tags(line):
+                if code == 'S':
+                    bound = (payload.strip(), os.path.basename(f), ln)
+                elif code == 'H':
+                    h = payload.strip()
+                    if bound is None: bound = (h, os.path.basename(f), ln)
+                    elif h != bound[0]:
+                        warn(f, ln, f'[H {h}] but the hearth is bound to {bound[0]} ([S] at {bound[1]}:{bound[2]}) on the {chain} chain')
+
 # level requirement vs chapter band
 # band = the [N min-max ...] header of each file (a pickup may need up to the chapter's top level)
 bands = {f: gl.chapter_band(TXT[f]) for f in files}

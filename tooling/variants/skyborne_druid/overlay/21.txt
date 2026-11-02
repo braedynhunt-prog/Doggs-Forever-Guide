@@ -19,3 +19,7 @@
 [OC]981 pays 2,500 XP but its rewards are a two-handed sword (no druid wields one) and cloth legs (+8 Sta +7 Spi), and the hand-in means two flights and a 10-unit run, ~6 minutes. Most players abandon it; the next line is for those who want the XP
 @replace T |cffffcc00Check:|r nothing new stays open from this chapter
 [OC]|cffffcc00Check:|r nothing new stays open from this chapter except, if you took the tail, 981. Still carried from chapter 20 for later chapters: Seeking Caitlin (95737) and The Absent Minded Prospector (942) for Menethil in chapter 22, Klockmort's Essentials (2925) and, if you took it, Castpipe's Task (2931) for Ironforge in chapter 24. Next: the Excavation Site
+
+# 1046 is in gear_skip_quests (variant.json): the generated pick was a weapon or off-hand that loses to the weapon the druid carries (Phase 4 review, 2 Nov 2026); the call is written by hand here.
+@after QT1046
+[OC][A Druid] |cffffcc00Gear (1046):|r |cff66ff66Glacial Stone|r (2H mace 21.0 dps, no stats) loses to Mavoris's Warstaff (21.6 dps +11 Str +3 Sta) from earlier this chapter - take it for the vendor; the Gutterblade is an axe

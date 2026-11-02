@@ -23,3 +23,7 @@ At [TAR956 Dorin Songblade], [QA95772 Songblade Search] (requires level 24; his 
 # source line 74: the shaman Red Waterskin goes.
 @replace T new in the log: Messenger to
 [OC]|cffffcc00Check:|r new in the log: Messenger to Darkshire (145), The Legend of Stalvan (78), Songblade Search (95772) and, if you took the detour, Return to Kristoff (346). Next: Darkshire
+
+# 386 is in gear_skip_quests (variant.json): the generated pick was a weapon or off-hand that loses to the weapon the druid carries (Phase 4 review, 2 Nov 2026); the call is written by hand here.
+@after QT386
+[OC][A Druid] |cffffcc00Gear (386):|r |cff66ff66Ursine Hammer|r (2H mace 18.4 dps +5 Agi +5 Int +5 Spi) scores just below the Orc Crusher from Tharil'zun (18.2 dps +8 Str +4 Sta: 268 vs 273) - keep the Crusher and take the Hammer only if you never got it; the Hardened Root Staff is caster stats, the Lucine Longsword a sword

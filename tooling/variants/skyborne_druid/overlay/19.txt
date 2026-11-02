@@ -47,3 +47,7 @@ At flight master [TAR2835 Cedrik Prose], get the [P Refuge Pointe] flight point 
 # the other choice is a shield) - an off-hand needs a one-hand weapon.
 @after QT98223
 [OC]|cffffcc00Gear (98223):|r the Spellbook is an off-hand: hold it only with a one-hand weapon; with a two-hander, vendor it
+
+# 275 is in gear_skip_quests (variant.json): the generated pick was a weapon or off-hand that loses to the weapon the druid carries (Phase 4 review, 2 Nov 2026); the call is written by hand here.
+@after QT275
+[OC][A Druid] |cffffcc00Gear (275):|r nothing to wear - the Forest Chain is mail, Phytoblade needs Herbalism 100 and the Fen Keeper Robe is cloth with Spirit: take whichever vendors best

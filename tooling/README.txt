@@ -153,8 +153,12 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                        block value, block / dodge / parry chance, hit and crit (extra keys; enh scores unchanged).
                        2 Nov 2026: feral = ..\weights\feral_weights.py (bear sets for bands 10/15, cat sets for 20/25/30;
                        reasoning-only, docs\forever-feral-stat-weights.md); parse() also reads feral_ap and idols (Relic/Idol).
-  variants\skyborne_druid\   Skyborne Feral Druid variant (2 Nov 2026, druid plan Phase 0): profile feral, folder Guidelime_ForeverDruid;
-                       chapters\ and overlay\ are byte-identical copies of the warrior's until Phases 2-3; no generated_gear.json yet
+  variants\skyborne_druid\   Skyborne Feral Druid variant (2 Nov 2026): profile feral, folder Guidelime_ForeverDruid; hand-written
+                       chapters 00s/00t/00u (Phase 2), overlay 02-26 (Phase 3, spec docs\druid-overlay-spec-2026-11-02.md), generated_gear.json
+                       (feral emit, 97 picks; gear_skip_quests lists seven weapon/off-hand picks worded by hand in the overlay), built 2 Nov
+                       (28 chapters, 305 overlay ops, 78 generated gear lines); record docs\druid-build-2026-11-02.md
+  check_guide.py       2 Nov 2026: hearth-bind check - on each chain every [H X] must match the latest [S X] (the first [H] before any
+                       [S] counts as the starting inn); found the Lakeshire bind (06) followed by "Hearth to Sentinel Hill" (07-10)
   guidelib.py          FOREVER_GUIDE naming a variant's output folder (its basename is variant.json "folder", or the folder holds
                        <folder>.toc) switches FOOTER, CHAINS (one chain, variant.json "chain"), DEFAULT_CHAIN, RACES and
                        RACE_WORDS to the variant; Warrior, Skyborne and Druid (2 Nov) are race/class words everywhere; Zephras Isle (16593,

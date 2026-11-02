@@ -94,3 +94,7 @@ In the Keep at [TAR1749 Lady Katrana Prestor], [QT396] (3,750 XP) [G80.1,38.2 St
 # source line 61: "(both)" was the shaman/hunter pair (Defias Renegade Ring feral cat-25 score 10.0, Ring of Precision 10.2).
 @replace T drops from the five Defias types
 [OC]|cffffcc00Trash loot:|r |cff66ff66Defias Renegade Ring|r (+4 Agi +6 Sta, req 21, unique) drops from the five Defias types: take it for an empty or weak ring slot, the Ring of Precision from Blackfathom is the same tier. Superior Boots (Targorr, Kam, Bruegal) are leather boots with a random enchantment: read the suffix before you roll
+
+# 98191 is in gear_skip_quests (variant.json): the generated pick was a weapon or off-hand that loses to the weapon the druid carries (Phase 4 review, 2 Nov 2026); the call is written by hand here.
+@after QT98191
+[OC][A Druid] |cffffcc00Gear (98191):|r nothing to wield - the Knight's Lance is a polearm (no druid skill) and the Royal Dagger (8.5 dps, caster stats) is far below your two-hander: take the dagger and vendor it

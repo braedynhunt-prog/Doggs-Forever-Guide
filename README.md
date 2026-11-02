@@ -1,16 +1,17 @@
 # Dogg's Forever Guide
 
-[Guidelime](https://github.com/max-ri/Guidelime) levelling guides for **WoW Forever, Alliance, levels 1-30**. Two addons, one route:
+[Guidelime](https://github.com/max-ri/Guidelime) levelling guides for **WoW Forever, Alliance, levels 1-30**. Three addons, one route:
 
 - **Forever Shaman 1-30** (`Guidelime_ForeverShaman`): the original guide, written for a Dwarf Shaman (2H Enhancement). Dwarf and Human Hunter lines are in the files but no longer maintained.
 - **Forever Warrior 1-30** (`Guidelime_ForeverWarrior`): the same route rebuilt for a Skyborne Protection Warrior (1H + shield, Skinning + Mining). It starts on Zephras Isle, crosses to Stormwind and Ironforge, and joins the shaman's route at Loch Modan. Generated from the shaman chapters by `tooling/build_variant.py`; first build 1 Nov 2026, not yet played, and the lines the data could not settle say "(unverified)".
+- **Forever Druid 1-30** (`Guidelime_ForeverDruid`): the same route rebuilt for a Skyborne Feral Druid (bear 10-20, cat from 20, Skinning + Mining). Zephras Isle, then the Skyborne join leg with the Cure Poison chain through Moonglade, Auberdine and Darnassus at 14, the shaman's route from Loch Modan with the Aquatic Form and Windborne Cat Spirit quests threaded in at 17-18 and 20. Generated from the shaman chapters by `tooling/build_variant.py`; first build 2 Nov 2026, not yet played; the test list is in `docs/druid-build-2026-11-02.md`.
 
 ## Install (players)
 
 1. Install the **Guidelime** addon, the Forever build (6.014 or later) - older Classic Era copies do not know Zephras Isle or the Skyborne.
-2. Download the zip for your character from the [latest release](https://github.com/braedynhunt-prog/Doggs-Forever-Guide/releases/latest): `Guidelime_ForeverShaman.zip` or `Guidelime_ForeverWarrior.zip`.
-3. Unzip it into `World of Warcraft\_forever_\Interface\AddOns\` (the Forever client's own folder, not `_classic_era_`) so you end up with `Interface\AddOns\Guidelime_ForeverShaman\` (or `...\Guidelime_ForeverWarrior\`).
-4. Restart the game, open Guidelime and pick **Forever Shaman 1-30** or **Forever Warrior 1-30**.
+2. Download the zip for your character from the [latest release](https://github.com/braedynhunt-prog/Doggs-Forever-Guide/releases/latest): `Guidelime_ForeverShaman.zip`, `Guidelime_ForeverWarrior.zip` or `Guidelime_ForeverDruid.zip`.
+3. Unzip it into `World of Warcraft\_forever_\Interface\AddOns\` (the Forever client's own folder, not `_classic_era_`) so you end up with `Interface\AddOns\Guidelime_ForeverShaman\` (or `...\Guidelime_ForeverWarrior\`, `...\Guidelime_ForeverDruid\`).
+4. Restart the game, open Guidelime and pick **Forever Shaman 1-30**, **Forever Warrior 1-30** or **Forever Druid 1-30**.
 
 The shaman addon was called `Guidelime_ForeverAlliance` until 1 Nov 2026; if you installed that, delete the old folder.
 
@@ -24,6 +25,8 @@ Both:
 Shaman: Northshire or Coldridge Valley start, the shaman class quests (Call of Earth / Fire / Water / Air) threaded in at level, gear calls at every reward choice for a 2H Enhancement shaman.
 
 Warrior: Zephras Isle 1-14 in full, the Skyborne join leg, the warrior class thread (trainer stops in Stormwind, Ironforge and Darnassus, The Skybreaker Bulwark, Exploring the Alliance, the Fire Hardened chain to The Shieldsmith), gear calls for a 1H + shield tank, tank notes and per-boss loot calls in every dungeon.
+
+Druid: Zephras Isle 1-14 in full with the Bear Form quests at 10, the Skyborne join leg with the Cure Poison chain (Moonglade, Auberdine, Darnassus) at 14, Aquatic Form at 17-18, the Windborne Cat Spirit quests and Cat Form at 20, trainer stops in the Stormwind Park, Darnassus and Moonglade, feral gear calls at every reward choice, bear/cat notes and per-boss loot calls in every dungeon.
 
 Found something wrong in game (missing NPC, bad coordinates, quest that won't take)? Open an issue with the chapter and step text.
 

@@ -1,0 +1,7 @@
+03_HallOfThanes.lua:31: optional quest step without [G]: [O]|cff66ff66Ongoing:|r kill 15 [TAR263389 Enraged Apparition] and 10 
+03_HallOfThanes.lua:32: optional quest step without [G]: [O]|cff66ff66Ongoing:|r click 8 Dwarven Heirlooms (relics on the floor
+05_Westfall.lua:52: optional quest step without [G]: [O]|cff66ff66Ongoing:|r loot Sacks of Oats (small sacks on the ground 
+05_Westfall.lua:87: optional quest step without [G]: [O]|cff66ff66Ongoing:|r loot Red Leather Bandanas from every Defias fo
+07_Deadmines.lua:82: optional quest step without [G]: [O]|cff66ff66Ongoing:|r loot Red Silk Bandanas from the Defias trash [
+08_RuinsOfLordaeron.lua:46: optional quest step without [G]: [O]Loot a Bloodied Insignia from the first undead you kill and right-c
+08_RuinsOfLordaeron.lua:47: optional quest step without [G]: [O]Click the Crest of Lordaeron when you see it lying along the route 

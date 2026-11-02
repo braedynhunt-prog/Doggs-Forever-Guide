@@ -63,6 +63,10 @@
   "id": 270000,
   "tooltip": "Apprentice Wizard's Gown | Item Level 13 | Binds when picked upChestCloth25 Armor | +2 Intellect | Durability 50 / 50Equip: Increases damage and healing done by magical spells and effects by up to 2. | Sell Price: 2 5"
  },
+ "Aquarius Belt": {
+  "id": 16608,
+  "tooltip": "Aquarius Belt | Item Level 16 | Binds when picked upWaistLeather40 Armor | +2 Stamina | +2 Intellect | Durability 20 / 20Classes: DruidSell Price: 1 93"
+ },
  "Archaeologist's Gown": {
   "id": 270022,
   "tooltip": "Archaeologist's Gown | Item Level 20 | Binds when picked upChestCloth34 Armor | +5 Spirit | Durability 60 / 60Equip: Increases damage and healing done by magical spells and effects by up to 2. | Sell Price: 8 47"
@@ -766,6 +770,10 @@
  "Ephemeral Choker": {
   "id": 270227,
   "tooltip": "Ephemeral Choker | Item Level 18 | Binds when picked upNeck+5 SpiritRequires Level 13 | Sell Price: 5 15 | Dropped by: Faldrim Anvilmar | Drop Chance: 32.85%"
+ },
+ "Essene's Hope": {
+  "id": 281258,
+  "tooltip": "Essene's Hope | Item Level 33 | Binds when picked upNeck+7 SpiritSell Price: 23 12"
  },
  "Everglow Lantern": {
   "id": 5323,
@@ -2338,6 +2346,10 @@
  "Sword of Decay": {
   "id": 1727,
   "tooltip": "Sword of Decay | Item Level 28 | Binds when equippedMain HandSword |     33 - 62 Damage |     Speed 2.70 | (17.59 damage per second) | Durability 80 / 80Requires Level 23 | Chance on hit: Reduces target enemy's attack power by 84 for 30 sec. | Sell Price: 44 55"
+ },
+ "Talvash's Gold Ring": {
+  "id": 9538,
+  "tooltip": "Talvash's Gold Ring | Item Level 37 | Binds when picked up | Unique-EquippedFinger+10 StaminaEquip: Increased Defense +3. | Sell Price: 42 2"
  },
  "Tarnished Locket": {
   "id": 279870,

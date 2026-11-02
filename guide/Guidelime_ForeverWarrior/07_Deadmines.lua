@@ -56,7 +56,7 @@ Follow him until he points out the Deadmines entrance [QC155] [G42.5,71.5 Westfa
 [OC]Run back to Sentinel Hill
 At [TAR234 Gryan Stoutmantle], [QT155] [QA166 The Defias Brotherhood] [G56.3,47.5 Westfall]
 At [TAR820 Scout Riell] in the tower, [QA214 Red Silk Bandanas] [G56.7,47.4 Westfall]
-[OC]At [TAR8931 Innkeeper Heather], [V], stock water and food; repair at the blacksmith below the tower [G52.9,53.7 Westfall]
+At [TAR8931 Innkeeper Heather], bind your Hearthstone to [S Sentinel Hill] (Redridge bound you in Lakeshire) [V], stock water and food; repair at the blacksmith below the tower [G52.9,53.7 Westfall]
 
 [OC]|cffffffffThe Deadmines|r  -  group of 5, finder level 16, bosses 19-21
 [OC]|cffffcc00Pre-dungeon quest log:|r

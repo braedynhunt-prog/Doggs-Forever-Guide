@@ -49,3 +49,11 @@ At [TAR8931 Innkeeper Heather], bind your Hearthstone to [S Sentinel Hill] (Redr
 @gear-dungeon TAR639 => Edwin VanCleef
 
 @gear-dungeon T pops out of his pot after VanCleef => Cookie
+
+# 104 is in gear_skip_quests (variant.json): the generated pick was a weapon or off-hand that loses to the weapon the druid carries (Phase 4 review, 2 Nov 2026); the call is written by hand here.
+@after QT104
+[OC][A Druid] |cffffcc00Gear (104):|r nothing to wear - Grayson's Torch is a held-off-hand item (+4 Spi, no use with a two-handed weapon), the Buckler a shield, the Torchlight a wand: take whichever vendors best
+
+# 166 is in gear_skip_quests (variant.json): the generated pick was a weapon or off-hand that loses to the weapon the druid carries (Phase 4 review, 2 Nov 2026); the call is written by hand here.
+@after QT166
+[OC][A Druid] |cffffcc00Gear (166):|r take |cff66ff66Tunic of Westfall|r (leather chest +11 Agi +5 Sta) - the Staff of Westfall (15.2 dps, caster stats) is below the Ironforge Greathammer (16.0 dps) you carry, and the chausses are mail

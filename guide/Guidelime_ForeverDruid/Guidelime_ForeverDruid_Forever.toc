@@ -1,0 +1,35 @@
+## Interface: 16001
+## Title: Guidelime |cff66ff66Forever Druid 1-30|r
+## Notes: Skyborne Feral Druid levelling route for WoW Forever (Alliance, bear 10-20 and cat from 20, Skinning + Mining), generated from the Forever Alliance guide by tooling/build_variant.py. 2026.11.02: first full build - Zephras Isle 1-14 (two hand-written chapters with the Bear Form pair at 10), the Dalaran-Stormwind join leg with the Cure Poison chain through Moonglade, Auberdine and Darnassus at 14, then chapters 02-26 with the druid class thread (Aquatic Form at 17-18, the Windborne Cat Spirit quests and Cat Form at 20, trainer stops in the Stormwind Park, Darnassus and Moonglade, Exploring the Alliance), feral gear calls after every reward, bear/cat notes and per-boss loot calls in every dungeon. Unverified items are marked in the text; the test list is docs/druid-build-2026-11-02.md.
+## Author: Braedyn (with Claude)
+## Version: 2026.11.02
+## Dependencies: Guidelime
+## X-Website: generated from Guidelime_ForeverShaman; route references: sageguide.net, TUGs Forever, Polestar Guides 0.2.6
+00s_ZephrasIsle1.lua
+00t_ZephrasIsle2.lua
+00u_DalaranToLochModan.lua
+02_LochModan.lua
+03_HallOfThanes.lua
+04_LochModan2.lua
+05_Westfall.lua
+06_Redridge.lua
+07_Deadmines.lua
+08_RuinsOfLordaeron.lua
+09_LochModanMenethil.lua
+10_Redridge2.lua
+11_Darkshore.lua
+12_Ashenvale.lua
+13_Blackfathom.lua
+14_Duskwood.lua
+15_Stockade.lua
+16_RedridgeEastvale.lua
+17_Duskwood2.lua
+18_Wetlands1.lua
+19_Wetlands2.lua
+20_Darnassus.lua
+21_AshenvaleEast.lua
+22_ExcavationSite.lua
+23_Hillsbrad.lua
+24_Gnomeregan.lua
+25_LooseEnds30.lua
+26_RazorfenKraul.lua

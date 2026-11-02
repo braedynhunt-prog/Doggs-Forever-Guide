@@ -41,3 +41,7 @@ At [TAR1242 Karl Boran], [QT286] [QA98189 Return the Statuette] [G8.3,58.6 Wetla
 # Chok'sul: the Alliance note says "bring your tank friend"; the druid is cat dps (spec: "find a tank and a healer").
 @replace T bring your tank friend
 [O]|cFFFF0000GROUP 3+|r At the WANTED poster, [QA256 WANTED: Chok'sul] - Chok'sul is a level 22 ELITE (1,686 HP) at the top of the ogre mound: find a tank and a healer and fight him in Cat Form; shift to Bear Form and Growl if the tank dies [G37.3,47 Loch Modan]
+
+# 286 is in gear_skip_quests (variant.json): the generated pick was a weapon or off-hand that loses to the weapon the druid carries (Phase 4 review, 2 Nov 2026); the call is written by hand here.
+@after QT286
+[OC][A Druid] |cffffcc00Gear (286):|r take |cff66ff66Mariner Boots|r (leather feet +1 Agi +6 Sta) - the Icicle Rod (staff 12.5 dps, caster stats) is far below the Ironforge Greathammer

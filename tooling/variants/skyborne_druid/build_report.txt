@@ -1,0 +1,797 @@
+Build report - variant skyborne_druid
+out: C:\Users\Braedyn\Documents\WoW Forever Atlas\guide\Guidelime_ForeverDruid
+zip: C:\Users\Braedyn\Documents\WoW Forever Atlas\guide\Guidelime_ForeverDruid.zip
+chapters written: 28 (00s 00t 00u 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26)
+profile: feral; generated gear: tooling\variants\skyborne_druid\generated_gear.json
+
+== Warnings: 2 ==
+  tooling\variants\skyborne_druid\overlay\13.txt:28 @gear-dungeon QC1275 => Gelihast: no generated dungeon loot lines for chapter 13 dropper Gelihast
+  tooling\variants\skyborne_druid\overlay\15.txt:56 @gear-dungeon TAR1716 => Hamhock: no generated dungeon loot lines for chapter 15 dropper Hamhock
+
+== Dropped lines (tagged only for other classes/races): 273 ==
+  02_LochModan.lua:14  [A Shaman] Run northeast; the cliff trail to the Shrine of the Dormant Flame starts at 31.4,58.2 - follow the eyebrow ledge past the stone totems [G31
+  02_LochModan.lua:15  [A Shaman] At the shrine at [TAR257808 Braldir Ashmantle], [QT94465] [QA94466 Call of Fire] [G32,66 Loch Modan]
+  02_LochModan.lua:28  [A Shaman] Loot the Reagent Pouch from a [TAR1166 Stonesplinter Seer] while you are at it [QC94466,2] [G36.7,78 Loch Modan]
+  02_LochModan.lua:35  [A Human] At the road patroller [TAR1340 Mountaineer Kadrell], [QA416 Rat Catching] [QA1339 Mountaineer Stormpike's Task] [G34.2,47.8 Loch Modan]
+  02_LochModan.lua:41  [O][A Hunter] Across the road at [TAR1469 Vrok Blunderblast] (gunsmith): switch to Heavy Shot (level 10 ammo, noticeably harder hitting) and carry 600
+  02_LochModan.lua:48  [A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train (level 12: Purge, Fire Nova Totem) - Ironforge and Kharanos are the ONL
+  02_LochModan.lua:49  [A Dwarf,Hunter] In the Military Ward at [TAR10090 Belia Thundergranite] (pet trainer), [QT6086 Training the Beast] - you now have Tame Beast, Call/Di
+  02_LochModan.lua:50  [A Hunter] Next to her at [TAR5116 Olmin Burningbeard] (hunter trainer), [T] train (level 12: Wing Clip, Mend Pet, Distracting Shot) - there are hunte
+  02_LochModan.lua:51  [O][A Hunter] Optional, 10 silver each: the weapon masters [TAR11865 Buliwyf Stonehand] (Two-Handed Axes) and [TAR13084 Bixi Wobblebonk] (Daggers) sta
+  02_LochModan.lua:52  [O][A Hunter] At [TAR5123 Bretta Goldfury] (gun merchant, Military Ward) top up Heavy Shot before you fly back [G72.2,65.2 Ironforge]
+  02_LochModan.lua:53  [A Dwarf] At [TAR1274 Senator Barin Redstone] inside the High Seat (Magni's throne room), [QT291] [G39.5,57.5 Ironforge]
+  02_LochModan.lua:57  [O][A Dwarf] In the leather shop in the Great Forge, [TAR5127 Fimble Finespindle] teaches Leatherworking - skip it now: Leatherworking waits for the l
+  02_LochModan.lua:58  [O][A Human] In the leather shop in the Great Forge, [TAR5127 Fimble Finespindle] teaches Leatherworking - skip it now: Leatherworking waits for the l
+  02_LochModan.lua:59  [O][A Dwarf] At [TAR6291 Balthus Stoneflayer] in the Great Forge, learn Skinning if you have not, and [QT96056 Camping 101: Skinning] once Skinning is
+  02_LochModan.lua:63  [O][A Human] At [TAR6291 Balthus Stoneflayer] in the Great Forge, learn Skinning if you have not [G39.4,32.4 Ironforge]
+  02_LochModan.lua:80  [A Shaman] Kill [TAR1174 Tunnel Rat Geomancer] deeper in the mine for the Fire Tar [QC94466,1] [G35.8,23.8 Loch Modan]
+  02_LochModan.lua:107  [OC][A Shaman] Gear: Daryl's Hunting Bow/Rifle are useless to you - take the rifle to vendor
+  02_LochModan.lua:108  [OC][A Dwarf,Hunter] Gear: take Daryl's Hunting Rifle (10.6 dps) and equip it - it doubles your damage until the Calibrated Blunderbuss at 16
+  02_LochModan.lua:109  [OC][A Human,Hunter] Gear: Daryl's Hunting Rifle (10.6 dps) is barely ahead of your Militia Bow and would mean carrying shot too - take it to vendor a
+  02_LochModan.lua:128  [OC][A Shaman] Call of Fire finale
+  02_LochModan.lua:129  [A Shaman] Back up the cliff trail (starts 31.4,58.2) to [TAR257808 Braldir Ashmantle], [QT94466] [QA94467 Call of Fire] [G32,66 Loch Modan]
+  02_LochModan.lua:130  [A Shaman] Use [UI6636 Fire Sapta] at the shrine, then climb to the peak above it; the Minor Manifestation of Fire (level 12) waits for you to attack 
+  02_LochModan.lua:131  [A Shaman] Kill [TAR5893 Minor Manifestation of Fire] and loot the Glowing Ember [G32,65 Loch Modan]
+  02_LochModan.lua:132  [A Shaman] Place the ember in the Brazier of the Dormant Flame on the shrine and light the torch [QC94467], then [QT94467] [QA94468 Call of Fire] at t
+  02_LochModan.lua:133  [A Shaman] Run southwest through South Gate Pass, take the trail up to [TAR257597 Bruegs Kindleborn], [QT94468] - you now have the Fire Totem [G87.6,4
+  02_LochModan.lua:150  [OC][A Shaman] Gear: take Mountaineer's Greataxe (2H axe 11.2 dps +3 Str +4 Sta) and equip it - it beats the Coldridge Hammer until the Hall of Thanes
+  02_LochModan.lua:151  [OC][A Hunter] Gear: Mountaineer's Greataxe (+4 Sta) is a stat stick if you trained Two-Handed Axes in Ironforge, otherwise vendor it; Invader's Mace 
+  02_LochModan.lua:155  [O][A Hunter] Talents 15-16: 2/2 Pathfinding (run speed - you walk everywhere until 40)
+  03_HallOfThanes.lua:11  [A Hunter] In the Military Ward at [TAR5116 Olmin Burningbeard], [T] train (level 14: Eyes of the Beast, Eagle Eye, Scare Beast), then [TAR5123 Bretta
+  03_HallOfThanes.lua:12  [OC][A Hunter] In the dungeon: pet on passive until the tank has the pack, then send it at the tank's target; you have no threat drop yet, so if you p
+  03_HallOfThanes.lua:40  [OC][A Shaman] Gear: take Deepgrave Trousers (leather legs +3 Agi +3 Spi - they lost their Strength in the October builds); Catacomb Cloak (+2 Sta +3 
+  03_HallOfThanes.lua:41  [OC][A Hunter] Gear: Deepgrave Trousers here too (the Agi and Spirit carry it) - swap to Direhammer Leggings if Durgen drops them
+  03_HallOfThanes.lua:57  [OC][A Shaman] Loot: Durgen's Crescent Axe (1H axe 12.3 dps +4 Str) only for a shield set; Direhammer Leggings (+4 Agi +7 Sta) are worse than your Dee
+  03_HallOfThanes.lua:58  [OC][A Hunter] Loot: Direhammer Leggings (leather +4 Agi +7 Sta) - ROLL, they beat Deepgrave Trousers for you. Durgen's Crescent Axe (1H axe 12.3 dps 
+  03_HallOfThanes.lua:64  [OC][A Shaman] Gear: take Tomb Robber's Gloves (+1 Sta +2 Int) only as a bag filler - Flamefist Grips are better; the Dwarven Tome is an off-hand you 
+  03_HallOfThanes.lua:65  [OC][A Hunter] Gear: nothing (cloth gloves / held item) - Tomb Robber's Gloves to vendor
+  03_HallOfThanes.lua:69  [OC][A Shaman] Gear: take Ironforge Greathammer (2H mace 16.0 dps with a fire proc - no stats, no level requirement) and equip it - your weapon until 
+  03_HallOfThanes.lua:70  [OC][A Hunter] Gear: take Calibrated Blunderbuss (gun 15.9 dps +3 Sta, no level requirement) and equip it - your gun until well past 20; Heavy Shot fi
+  04_LochModan2.lua:23  [OC][A Shaman] Gear: nothing for you (2H sword, 1H axe, wand) - take Thelsamar Axe (1H axe 9 dps +2 Agi) if you want a shield set, otherwise the wand 
+  04_LochModan2.lua:24  [OC][A Hunter] Gear: take Thelsamar Axe (1H axe 9 dps +2 Agi) and equip it - the first stat stick with a real stat
+  04_LochModan2.lua:32  [OC][A Shaman] Gear: Daryl's Shortsword is a sword (shamans cannot use them) - take the Fine Cloth Shirt
+  04_LochModan2.lua:33  [OC][A Hunter] Gear: Daryl's Shortsword (+2 Agi) only if you trained Swords somewhere; otherwise the shirt
+  04_LochModan2.lua:35  [OC][A Shaman] Gear: Rugged Cape (13 armor, no stats) only if you still wear Goat Fur Cloak. Daggerfang's Daggerfang (1.7 speed dagger +2 Agi) is a ve
+  04_LochModan2.lua:36  [OC][A Hunter] Gear: Rugged Cape only if you still wear the Goat Fur Cloak. Daggerfang's Daggerfang (fast dagger +2 Agi) equals the Thelsamar Axe if y
+  04_LochModan2.lua:41  [A Hunter] Upstairs in the lodge at [TAR10930 Dargh Trueaim] (hunter trainer), [T] train (level 16: Mongoose Bite, Immolation Trap); [TAR1686 Irene Su
+  04_LochModan2.lua:49  [OC][A Shaman] Gear: take Frontier Britches (leather legs +3 Str +3 Agi) - they beat Deepgrave Trousers now, 8.6 vs 5.5; Dwarven Defender (shield +3 S
+  04_LochModan2.lua:50  [OC][A Hunter] Gear: Frontier Britches (+3 Str +3 Agi) only if you have neither Direhammer Leggings nor Deepgrave Trousers; the shield is unusable
+  04_LochModan2.lua:59  [A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 14 and 16 spells - the last shaman trainer on the route unti
+  04_LochModan2.lua:61  [A Hunter] In the Military Ward at [TAR5116 Olmin Burningbeard], [T] train anything you missed, then at [TAR5123 Bretta Goldfury] (72.2,65.2) top up H
+  04_LochModan2.lua:62  [O][A Hunter] Talents so far (beta Beast Mastery build): 5/5 Deadly Aspects (10-14), then 2/2 Pathfinding at 15-16; Focused Fire 2/2 comes at 17-18 an
+  05_Westfall.lua:10  [O][A Hunter] The Dwarven District is hunter country: [TAR5515 Einris Brightspear], Ulfir Ironbeard and Thorfin Stoneshield are hunter trainers (67.3,
+  05_Westfall.lua:52  [OC][A Shaman] Gear: Harvester's Pants (leather +2 Agi +3 Spi) only if you still wear Dwarven Leather Pants; otherwise the Pestslayer bow to vendor
+  05_Westfall.lua:53  [OC][A Hunter] Gear: Harvester's Pants (+2 Agi +3 Spi) only if you still wear the Dwarven Leather Pants. The Pestslayer is a 10 dps bow - your Calibra
+  05_Westfall.lua:101  [OC][A Shaman] Gear: take Cloak of the People's Militia (+2 Agi) only if you did not get Spiritwraith Drape; otherwise the Leggings (cloth +2 Str +2 s
+  05_Westfall.lua:102  [OC][A Hunter] Gear: Cloak of the People's Militia (+2 Agi) only if you have no Spiritwraith Drape; Cape of the Brotherhood from VanCleef replaces eit
+  06_Redridge.lua:26  [O][A Hunter] Across the bridge at [TAR3088 Henry Chapal] (gunsmith) restock Heavy Shot (Lindsay Ashlock by the bridge sells it too); talents 17-18: 2
+  06_Redridge.lua:61  [OC][A Shaman] Gear: take Smith's Trousers (leather legs +4 Str +4 Agi) - they beat Frontier Britches and Deepgrave Trousers, 11.4 vs 8.6 / 5.5; Ridin
+  06_Redridge.lua:62  [OC][A Hunter] Gear: Smith's Trousers (+4 Str +4 Agi) only if you have neither Direhammer Leggings nor Deepgrave Trousers; Riding Gloves (cloth +3 Agi
+  07_Deadmines.lua:9  [O][A Shaman] Worth 10 minutes: Deeprun Tram (Dwarven District) to Ironforge, train your level 18 spells at [TAR258098 Eldrun Stormbreaker] in the For
+  07_Deadmines.lua:10  [O][A Hunter] No tram needed: the loop passes the Dwarven District, where [TAR5515 Einris Brightspear] (67.3,36.3) teaches your level 18 spells (Multi
+  07_Deadmines.lua:63  [OC][A Hunter] In a group: pet on passive, Growl OFF (the tank holds threat), send it only at the tank's target and pull it back before the next pack;
+  07_Deadmines.lua:84  [OC][A Shaman] Loot: Rockslicer (2H axe 19.7 dps +7 Str, req 18) - ROLL, it beats the Ironforge Greathammer. Rhahk'Zor's Hammer (2H mace 18.4 dps +8 S
+  07_Deadmines.lua:85  [OC][A Hunter] Loot: nothing for you here (Str axe / caster mace) - pass, or take Rockslicer as a stat stick only if nobody else wants it
+  07_Deadmines.lua:87  [OC][A Shaman] Trash loot: Blackened Defias Leggings (leather +6 Str +6 Agi; Overseers and Taskmasters, rate unknown) - roll, they beat Smith's Trouse
+  07_Deadmines.lua:105  [OC][A Shaman] Loot: Blackened Defias Belt (leather +18 AP) - ROLL, better than the Dusty Belt. Emberstone Staff is caster, Impaling Harpoon is a pole
+  07_Deadmines.lua:106  [OC][A Hunter] Loot: Blackened Defias Belt (leather +18 AP) - ROLL, beats the Dusty Belt. Impaling Harpoon (polearm 19 dps +9 Agi +5 Int) - ROLL too, 
+  07_Deadmines.lua:111  [OC][A Shaman] Loot: Blackened Defias Armor (leather chest +4 Str +3 Agi +10 Sta) - ROLL. Cape of the Brotherhood (+5 Agi +3 Sta) - roll if you have n
+  07_Deadmines.lua:112  [OC][A Hunter] Loot: Cape of the Brotherhood (+5 Agi +3 Sta) - ROLL, your best cloak. Blackened Defias Armor (+4 Str +3 Agi +10 Sta) only if you someh
+  07_Deadmines.lua:114  [OC][A Shaman] Loot: Cookie's Tenderizer (1H mace 13.9 dps +4 Spi) for the shield set; the Stirring Rod is a wand
+  07_Deadmines.lua:115  [OC][A Hunter] Loot: nothing (mace / wand) - pass
+  07_Deadmines.lua:127  [OC][A Shaman] Gear (14): Boots of the People's Militia (leather, +4 spell damage) if your boots still have no stats; Fist of the People's Militia (1H
+  07_Deadmines.lua:128  [OC][A Hunter] Gear: (14) nothing (mace / wand) - Boots of the People's Militia only if your boots still have no stats
+  07_Deadmines.lua:129  [OC][A Shaman] Gear: if no Deadmines 2H dropped (Smite's, Rockslicer or Rhahk'Zor's Hammer), take Staff of Westfall (15.2 dps +5 Int +6 Spi +16 spell 
+  07_Deadmines.lua:130  [OC][A Hunter] Gear: take Tunic of Westfall (leather chest +11 Agi +5 Sta) - your best chest until well past 20, even over the Blackened Defias Armor
+  07_Deadmines.lua:132  [OC][A Shaman] Gear: nothing (Piercing Axe 12.6 dps is below your 2H; Monastic Hammer is caster) - Scrimshaw Dagger to vendor
+  07_Deadmines.lua:133  [OC][A Hunter] Gear: take Piercing Axe (2H axe 12.6 dps +6 Agi) - a stat stick you can swing once Two-Handed Axes is trained (Buliwyf Stonehand, Ironf
+  07_Deadmines.lua:134  [OC][A Shaman] Level 20  -  train Ghost Wolf and the level 20 spells at the next shaman trainer (Eldrun in Ironforge for sure; check the Stormwind tra
+  07_Deadmines.lua:135  [OC][A Hunter] Level 20  -  train Aspect of the Cheetah, Aimed Shot and Freezing Trap at the Dwarven District hunter trainers on the Stormwind loop yo
+  08_RuinsOfLordaeron.lua:7  [O][A Hunter] Train your level-20 spells now if you did not after the Deadmines: [TAR5515 Einris Brightspear] in the Dwarven District (Aspect of the C
+  08_RuinsOfLordaeron.lua:8  [O][A Hunter] [TAR5510 Thulman Flintcrag] by the Dwarven District smithy sells Heavy Shot - buy 600 [G62.0,36.6 Stormwind City]
+  08_RuinsOfLordaeron.lua:10  [O][A Hunter] Weapon skills while you are here: [TAR11867 Woo Ping] in the Trade District teaches Staves and Polearms (10 silver each) - the Ruins dro
+  08_RuinsOfLordaeron.lua:13  [OC][A Shaman] Call of Water (Water Totem) is a 9-part chain that bounces between Ironforge, Loch Modan, the Wetlands, Redridge, Ashenvale and Westfal
+  08_RuinsOfLordaeron.lua:14  [A Shaman] Deeprun Tram in the Dwarven District to Ironforge [G73.8,49.2 Stormwind City]
+  08_RuinsOfLordaeron.lua:15  [A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 20 spells (Ghost Wolf, Frost Shock, Healing Stream Totem, Le
+  08_RuinsOfLordaeron.lua:16  [A Shaman] Two steps away at [TAR2786 Gerrig Bonegrip], [QA971 Knowledge in the Deeps] (2,750 XP - the Lorgalis Manuscript sits in a chest in Blackfat
+  08_RuinsOfLordaeron.lua:17  [A Shaman] Tram back to Stormwind [G76.5,51.5 Ironforge]
+  08_RuinsOfLordaeron.lua:18  [O][A Hunter] Knowledge in the Deeps (971, 2,750 XP, a chest in Blackfathom) starts at Gerrig Bonegrip in Ironforge's Forlorn Cavern (50.8,5.6). If yo
+  08_RuinsOfLordaeron.lua:31  [OC][A Shaman] Ghost Wolf for the whole trek (outdoors only) - it is why you trained first
+  08_RuinsOfLordaeron.lua:32  [OC][A Hunter] Aspect of the Cheetah for the trek; swap to Hawk before the first pull
+  08_RuinsOfLordaeron.lua:49  [OC][A Shaman] Loot calls (rolls): Segmented Spider Leg (Witherfang - staff 17.5 dps +9 Agi +5 Spi: a straight upgrade over Smite's Hammer or Rockslic
+  08_RuinsOfLordaeron.lua:50  [OC][A Hunter] Loot calls (rolls): Segmented Spider Leg (Witherfang - staff +9 Agi +5 Spi) IF you trained Staves: your best stat stick over the Pierci
+  09_LochModanMenethil.lua:15  [O][A Hunter] At [TAR1469 Vrok Blunderblast], buy Heavy Shot for a long day (600+) [G35.8,43.5 Loch Modan]
+  09_LochModanMenethil.lua:23  [O][A Hunter] [TAR1686 Irene Sureshot] downstairs sells Heavy Shot [G83.2,63.4 Loch Modan]
+  09_LochModanMenethil.lua:31  [A Shaman] At [TAR258043 Norric Lochthane] at the north end of the loch, [QT94494] [QA94495 Call of Water] (to Hervdana's cave in the Wetlands, on you
+  09_LochModanMenethil.lua:45  [A Shaman] At [TAR258203 Hervdana Saegrund] in her cave under the southern falls, [QT94495] [QA94497 Call of Water] [G65.8,76.4 Wetlands]
+  09_LochModanMenethil.lua:46  [A Shaman] Fill the Unfilled Brown Waterskin in the water at the foot of the falls just below her cave (the DB has no object for it - use the skin sta
+  09_LochModanMenethil.lua:47  [A Shaman] Back at [TAR258203 Hervdana Saegrund], [QT94497] [QA94499 Call of Water] (the Red Waterskin is Stonewatch Falls in Redridge, chapter 10; sh
+  10_Redridge2.lua:10  [O][A Hunter] At [TAR5515 Einris Brightspear] in the Dwarven District, [T] train your level 22 spells [G67.3,36.3 Stormwind City]
+  10_Redridge2.lua:11  [O][A Hunter] Next door at [TAR5510 Thulman Flintcrag], buy 600 Heavy Shot for the long loops below [G62.0,36.6 Stormwind City]
+  10_Redridge2.lua:12  [O][A Shaman] There is no shaman trainer in Stormwind: if you are 22 and want the rank-ups now, take the tram to Ironforge (otherwise they wait for ch
+  10_Redridge2.lua:13  [O][A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 22 spells [G46.2,13.2 Ironforge]
+  10_Redridge2.lua:14  [O][A Shaman] Tram back to Stormwind [G76.5,51.5 Ironforge]
+  10_Redridge2.lua:29  [O][A Hunter] Across the bridge at [TAR3088 Henry Chapal], top up Heavy Shot before the loops [G18.8,41.3 Redridge Mountains]
+  10_Redridge2.lua:40  [OC][A Shaman] Gear: Bone-studded Leather (leather chest, 86 armor, +6 Str +1 Agi +5 Sta) unless your chest is already better. Robe of Solomon is clot
+  10_Redridge2.lua:41  [OC][A Hunter] Gear: Bone-studded Leather only if your chest is below 86 armor - its +6 Str does nothing for a hunter. Robe of Solomon is cloth and De
+  10_Redridge2.lua:52  [A Shaman] Walk south to the foot of Stonewatch Falls beside the Murloc Nightcrawlers (level 21-22) and use the Unfilled Red Waterskin there [QC94499]
+  10_Redridge2.lua:53  [OC][A Shaman] The DB has no object for the falls; the quest text puts it near the Nightcrawlers, whose only spawns are here (76.1,59.6). Rohh the Sil
+  10_Redridge2.lua:66  [OC][A Shaman] Gear: Orc Crusher (2H mace 18.2 dps +8 Str +4 Sta) unless you already carry the Deadmines 2H or the Ruins staff (Segmented Spider Leg, 
+  10_Redridge2.lua:67  [OC][A Hunter] Gear: nothing here is usable (no maces, no shields) - take the Orc Crusher and vendor it
+  11_Darkshore.lua:9  [O][A Hunter] At [TAR5510 Thulman Flintcrag] buy ammo for the whole chapter (600 Heavy Shot for a gun; arrows if you carry a bow) [G61.9,36.6 Stormwin
+  11_Darkshore.lua:10  [O][A Shaman] Deeprun Tram to Ironforge to train level 22: Darnassus has no shaman trainer, and level 24 waits for the next Ironforge visit [G73.8,49.
+  11_Darkshore.lua:11  [O][A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 22 spells [G46.2,13.2 Ironforge]
+  11_Darkshore.lua:12  [O][A Shaman] Tram back to Stormwind [G76.5,51.5 Ironforge]
+  11_Darkshore.lua:93  [OC][A Shaman] Gear (994): Steadfast Cinch (belt +4 Str +3 Sta) is a good belt unless yours has more Str
+  11_Darkshore.lua:113  [OC][A Shaman] Gear (2139): Timberland Cape (cloak +3 Spi) only if your cloak has no stats; Evergreen Gloves are cloth. Hunter: pass
+  12_Ashenvale.lua:8  [OC][A Shaman] Level 24 (shaman): no shaman trainer on this trip (Darnassus has none); your 24 spells wait for Eldrun in Ironforge in chapter 15, trai
+  12_Ashenvale.lua:68  [OC][A Hunter] Count your ammo: Blackfathom eats ~300 shots and the DB shows only the innkeeper as a vendor in Astranaar, so arrive stocked
+  12_Ashenvale.lua:79  [OC][A Shaman] Gear: Supplies to Auberdine: the Everglow Lantern is an off-hand and your two-hander leaves none - sell it. Chestplate of Kor is mail (
+  12_Ashenvale.lua:80  [OC][A Hunter] Gear: Supplies to Auberdine: take the Everglow Lantern (off-hand +3 Spi, use: heal 135-165, 30 min cooldown) - the slot is free for you
+  13_Blackfathom.lua:15  [OC][A Shaman] ? Knowledge in the Deeps (971) - the Lorgalis Manuscript from a Pitted Iron Chest - normal, but the chest is underwater; 2,750 XP at Ge
+  13_Blackfathom.lua:16  [OC][A Hunter] Knowledge in the Deeps (971) was optional in chapter 08 and is not tracked for hunters: if you picked it up, the chest notes under Gham
+  13_Blackfathom.lua:23  [OC][A Hunter] In a group: pet on passive, Growl OFF, send it only at the tank's target. Freezing Trap is your crowd control here (Lady Sarevess' guar
+  13_Blackfathom.lua:29  [OC][A Shaman] Knowledge in the Deeps: the Pitted Iron Chest is underwater on the north side of this chamber (Icy Veins; another guide says an alcove 
+  13_Blackfathom.lua:30  [A Shaman] Dive for the Pitted Iron Chest and loot the Lorgalis Manuscript [QC971]
+  13_Blackfathom.lua:33  [OC][A Shaman] Loot (Sarevess): Naga Battle Gloves (leather, +4 Str +4 Sta +5 spell damage, req 22) are a gloves upgrade for most. Darkwater Talwar is
+  13_Blackfathom.lua:34  [OC][A Hunter] Loot (Sarevess): Naga Heartpiercer (bow 13.3 dps, 42-damage proc that stuns naga, req 22) if it beats your current bow; the Fallenroot 
+  13_Blackfathom.lua:36  [OC][A Shaman] Loot (Gelihast): Reef Axe (2H axe 22.4 dps +8 Str, req 22) - ROLL, about 3 dps over Rockslicer or the Spider Leg staff. Cursed Murloc E
+  13_Blackfathom.lua:37  [OC][A Hunter] Loot (Gelihast): Cursed Murloc Eye (trinket, 2 Shadow damage on spells and attacks, 8 against murlocs) only for an empty trinket slot. 
+  13_Blackfathom.lua:38  [OC][A Shaman] Leather helms (req 25, bind on pickup): Gelihast, Lorgus Jett, Serra'kis, Kelris and Aku'mai each drop one of several. Defender's Leath
+  13_Blackfathom.lua:39  [OC][A Hunter] Leather helms (req 25, bind on pickup): Gelihast, Lorgus Jett, Kelris and Aku'mai drop them. Brawler's Leather Helm (+10 Agi +13 Sta) i
+  13_Blackfathom.lua:41  [OC][A Shaman] Loot (Lorgus): Twilight Maul (2H mace 22.9 dps, +12 spell damage, 70 Nature damage proc, req 23) is the same tier as Reef Axe: take whi
+  13_Blackfathom.lua:42  [OC][A Hunter] Loot (Lorgus): Fallenroot Longbow (bow 13.9 dps +2 Agi +4 Sta, req 23) if it beats your bow. Twilight Maul and the mail Treads are not 
+  13_Blackfathom.lua:45  [OC][A Shaman] Loot (Serra'kis): Bands of Serra'kis (leather bracers +6 Str +3 Sta, req 22) unless your bracers are better; Glowing Thresher Cape (+8 
+  13_Blackfathom.lua:46  [OC][A Hunter] Loot (Serra'kis): nothing for you (Str bracers, Spirit cloak, a dagger) - pass, or take the Bands only for an empty wrist slot
+  13_Blackfathom.lua:50  [OC][A Shaman] Drop a Tremor Totem before the pull, it stops the Sleep (Classic-era)
+  13_Blackfathom.lua:52  [OC][A Shaman] Loot (Kelris): Rod of the Sleepwalker (2H staff 17.7 dps +11 Spi, 32 spell damage) only if your 2H is weaker than Reef Axe or Maul; it 
+  13_Blackfathom.lua:53  [OC][A Hunter] Loot (Kelris): nothing for you (staff, cloth, mail belt) - pass; the Brawler's helm call above still applies
+  13_Blackfathom.lua:56  [OC][A Shaman] Loot (Aku'mai): Moss Cinch (leather belt +5 Sta +12 spell damage, req 25) beats the Heartwood Girdle that Twilight Falls gives. Strike 
+  13_Blackfathom.lua:57  [OC][A Hunter] Loot (Aku'mai): Strike of the Hydra (2H sword 25.6 dps, req 26, no stats) only if you trained 2H Swords and want a melee stick; Moss Ci
+  14_Duskwood.lua:19  [O][A Hunter] At [TAR227 Mabel Solaj] buy 600 or so Razor Arrows or Solid Shot (+7.5 damage per second, require level 25) for the sweep; Avette next d
+  15_Stockade.lua:19  [O][A Hunter] At [TAR5515 Einris Brightspear], [T] train your level 24 (if you skipped it) and level 26 spells; Thulman Flintcrag next door (62,36.6) 
+  15_Stockade.lua:23  [O][A Hunter] Take the Deeprun Tram to Ironforge [G73.8,49.2 Stormwind City]
+  15_Stockade.lua:26  [A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 24 and 26 spells together here - nothing at 24 is urgent [G4
+  15_Stockade.lua:27  [A Shaman] Two steps away at [TAR2786 Gerrig Bonegrip], [QT971] - Gear: Sustaining Ring (+4 Sta, 4 health per 5 sec) only for an empty ring slot [G50.
+  15_Stockade.lua:30  [O][A Hunter] Tram back to Stormwind [G76.5,51.5 Ironforge]
+  15_Stockade.lua:32  [O][A Hunter] At [TAR1297 Lina Stover] on the canal, buy 400+ ammo for the run (Razor Arrow and Solid Shot are the level-25 ammo) [G58.7,68.7 Stormwin
+  15_Stockade.lua:46  [OC][A Hunter] In a group: pet on passive, Growl OFF, send it at the tank's target only. Freezing Trap is your crowd control: the guides want the side
+  15_Stockade.lua:59  [OC][A Shaman] Loot calls (rolls): Graverobber's Shovel (Dextren: 2H mace 23.0 dps +12 AP +10 Sta, req 23, unique) - ROLL, the Reef Axe / Twilight Mau
+  15_Stockade.lua:60  [OC][A Hunter] Loot calls (rolls): Concealed Hand Crossbow (Bazil: 15.3 dps +12 ranged AP, req 26) beats the Naga Heartpiercer and the Fallenroot Long
+  16_RedridgeEastvale.lua:19  [OC][A Shaman] Gear: Ursine Hammer (2H mace 18.4 dps, +5 Agi +5 Int +5 Spi) - a straight upgrade over the Ruins staff and about level with the Orc Cru
+  16_RedridgeEastvale.lua:20  [OC][A Hunter] Gear: nothing worth wearing: no maces, and the staff's Spirit is wasted. Lucine Longsword (1H sword 14 dps, +3 Sta +3 Spi) only if you 
+  16_RedridgeEastvale.lua:23  [O][A Hunter] Across the bridge at [TAR3088 Henry Chapal], top up ammo before the loops [G18.8,41.3 Redridge Mountains]
+  16_RedridgeEastvale.lua:57  [OC][A Shaman] Gear (Gar'im): Disjointed Shoes - leather, +12 Attack Power and +5 spell damage: take them. Alacritous Treads are mail (+5 Str +5 Agi) 
+  16_RedridgeEastvale.lua:58  [OC][A Hunter] Gear (Gar'im): Disjointed Shoes - leather, +12 Attack Power and +5 spell damage: take them. Alacritous Treads are mail (+5 Str +5 Agi),
+  16_RedridgeEastvale.lua:68  [OC][A Shaman] Gear (Morganth): Rose Mantle (cloth shoulders, +5 Int +5 spell damage) scores a little above Demonhide Bracers (leather, +3 Str +4 Agi)
+  16_RedridgeEastvale.lua:69  [OC][A Hunter] Gear (Morganth): Demonhide Bracers (leather, +3 Str +4 Agi) unless Bravo's Armbands or your current bracers are better. Rose Mantle is 
+  17_Duskwood2.lua:17  [OC][A Hunter] Gear (377): take Ambassador's Boots (leather +3 Agi +5 Sta +4 Spi) unless your boots already carry Agility. Darkshire Mail Leggings are
+  17_Duskwood2.lua:18  [OC][A Shaman] Gear (377): take Ambassador's Boots (leather +3 Agi +5 Sta +4 Spi), or Town Clerk's Mittens (cloth, +7 Int +3 spell damage - Int feeds 
+  17_Duskwood2.lua:79  [OC][A Hunter] Gear (58): take the Quiver of the Night Watch (bow) or the Bandolier of the Night Watch (gun), whichever matches your ammo - 12 slots a
+  17_Duskwood2.lua:80  [OC][A Shaman] Gear (58): take the Gunnysack of the Night Watch (10-slot bag) if your biggest bag is smaller; the quiver and bandolier are ammo pouche
+  17_Duskwood2.lua:95  [OC][A Hunter] Gear (253): take Darkshire Shoulderguards (leather +7 Sta +7 Spi, item level 35); Mantle of Honor is cloth Int. The fixed Crest of Dark
+  17_Duskwood2.lua:96  [OC][A Shaman] Gear (253): take Mantle of Honor (cloth +7 Int +7 Spi, item level 35 - Int feeds Mental Dexterity) or the leather Darkshire Shouldergua
+  18_Wetlands1.lua:16  [O][A Hunter] At [TAR1297 Lina Stover] on the canal, buy 400+ ammo for the Wetlands (Razor Arrow or Solid Shot, the level-25 ammo) [G58.7,68.7 Stormwi
+  18_Wetlands1.lua:18  [OC][A Shaman] Ironforge  -  the level-28 spells are the only reason for the tram
+  18_Wetlands1.lua:19  [A Shaman] Take the Deeprun Tram in the Dwarven District to Ironforge [G73.8,49.2 Stormwind City]
+  18_Wetlands1.lua:20  [A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 28 spells [G46.6,13.4 Ironforge]
+  18_Wetlands1.lua:21  [OC][A Shaman] Klockmort's Essential Artificials (2924, 3,050 XP) has no prerequisite in the DB, but its items are Artificial Extrapolators inside Gno
+  18_Wetlands1.lua:22  [A Shaman] At the flight master [TAR1573 Gryth Thurden], Fly to [F Menethil Harbor] [G55.5,47.7 Ironforge]
+  18_Wetlands1.lua:66  [OC][A Shaman] Gear (296): take Raptorbane Armor (leather chest, 92 armor, +3 Sta, +16 Attack Power, +15 more against beasts - AP feeds Enhancement) u
+  18_Wetlands1.lua:67  [OC][A Hunter] Gear (296): take Raptorbane Armor (leather chest +16 Attack Power, +15 against beasts) unless your chest is better, or Raptor's End (bo
+  18_Wetlands1.lua:75  [OC][A Shaman] Shaman side trip: Hervdana's cave  -  Call of Water part 4 (1,300 XP before level decay) and part 5, which hands you the Unfilled Blue 
+  18_Wetlands1.lua:76  [A Shaman] Walk south past the Mosshide camps toward the cave [G60.4,70.9 Wetlands]
+  18_Wetlands1.lua:77  [A Shaman] At [TAR258203 Hervdana Saegrund] in her cave under the southern falls, [QT94499] [QA94500 Call of Water] (the Blue Waterskin is filled at A
+  18_Wetlands1.lua:78  [A Shaman] Walk back north to Howin Kindfeather's camp on the road [G49.4,42.1 Wetlands]
+  19_Wetlands2.lua:10  [OC][A Shaman] Ghost Wolf for the road legs (junction - Dun Modr, Menethil - camp), off before every pull
+  19_Wetlands2.lua:11  [OC][A Hunter] Aspect of the Cheetah for the road legs (junction - Dun Modr, Menethil - camp), swap back before every pull
+  19_Wetlands2.lua:47  [OC][A Hunter] Gear (98283): take Razormaw Shorts (leather legs +8 Agi +6 Sta)
+  19_Wetlands2.lua:48  [OC][A Shaman] Gear (98283): take Carnage Trousers (leather legs +6 Sta +8 Int, Int feeds Mental Dexterity) unless the legs you wear carry more Agilit
+  19_Wetlands2.lua:52  [OC][A Shaman] Gear (98297): take Fallen Dragon's Scepter (2H staff 19.9 dps, +11 Int +13 Spi, +36 spell damage) unless you carry a 2H above ~20 dps; 
+  19_Wetlands2.lua:53  [OC][A Hunter] Gear (98297): take Subdued Dragon's Fang (dagger 20.6 dps, +7 Agi) as the melee stat stick, or Trusty Sword (2H sword 26.7 dps, +12 Sta
+  19_Wetlands2.lua:103  [OC][A Hunter] Buy ammo from the harbor vendors before the boat: the Dragonmaw camps eat a lot of shots
+  19_Wetlands2.lua:111  [OC][A Hunter] Gear (474 / 98223): Ancient War Sword (2H sword 21.7 dps, +9 Str +6 Sta) only if you trained 2H Swords; Barreling Reaper (one-hand axe)
+  19_Wetlands2.lua:112  [OC][A Shaman] Gear (474 / 98223): Ancient War Sword is a sword (not for shamans); Barreling Reaper (1H axe 16.6 dps) and Dragonmaw Buckler (shield +3
+  20_Darnassus.lua:21  [OC][A Shaman] Darnassus has no shaman trainer: level 30 waits for Ironforge (chapter 24)
+  20_Darnassus.lua:23  [O][A Hunter] Bow users: [TAR4173 Landria], the Bow Merchant, is the Darnassus arrow stop on the way south (her stock is not in the DB, so check for t
+  20_Darnassus.lua:31  [A Shaman] Use the Unfilled Blue Waterskin on the lake at the north tip of town, beside the flight master [UI265772 Unfilled Blue Waterskin] [QC94500]
+  20_Darnassus.lua:32  [OC][A Shaman] Normal - one click. The quest says "the waters of Astranaar" and the skin's text says the body of water around the town; Classic-era so
+  20_Darnassus.lua:59  [OC][A Hunter] Count your ammo: the DB shows no ammo vendor in Astranaar, so chapters 20 and 21 run on what you carry (bow users: Landria in Darnassus
+  21_AshenvaleEast.lua:43  [OC][A Shaman] Gear (1012): take Mavoris's Warstaff (2H staff 21.6 dps +11 Str +3 Sta, new in Forever) unless you carry Graverobber's Shovel (23.0 dps
+  21_AshenvaleEast.lua:44  [OC][A Hunter] Gear (1012): all three are melee sticks with no Agility. Mavoris's Warstaff only if you trained Staves and have nothing better than Kam
+  21_AshenvaleEast.lua:55  [OC][A Shaman] Gear (1035): Snapbrook Armor (leather chest 94 armor +4 Str +9 Spi) is a small step up over Bone-studded Leather and level with Blackro
+  21_AshenvaleEast.lua:56  [OC][A Hunter] Gear (1035): Snapbrook Armor (+4 Str +9 Spi) only if your chest is under 94 armor with no Agility or AP; Luminescent Amice (cloth) and 
+  21_AshenvaleEast.lua:68  [OC][A Shaman] Gear (1046): take Glacial Stone (2H mace 21.0 dps, chance on hit 75 frost damage) unless you hold Graverobber's Shovel or Mavoris's War
+  21_AshenvaleEast.lua:69  [OC][A Hunter] Gear (1046): hunters cannot use maces, so Glacial Stone is vendor fodder; take Gutterblade (1H axe 16.1 dps +3 Str +3 Sta) only if your
+  21_AshenvaleEast.lua:74  [OC][A Shaman] Gear (1031): take Faerie Mantle (cloth shoulders +6 Int +6 Spi, Int feeds Mental Dexterity) unless your shoulders already carry 12+ of 
+  21_AshenvaleEast.lua:75  [OC][A Hunter] Gear (1031): pass: Faerie Mantle is cloth Int and Spirit, Brightscale Girdle (+6 Str +6 Sta) is mail - vendor both
+  22_ExcavationSite.lua:16  [A Hunter] At [TAR1462 Edwina Monzor] the fletcher, buy 600+ of your level-25 ammo for the run (the gunsmith [TAR1461 Murndan Derth] sells bullets) [G
+  22_ExcavationSite.lua:48  [OC][A Shaman] Loot calls (rolls): Supple Bellyskin Leggings (Saltspine, leather legs 92 armor +6 Str +14 Sta; Strength is two attack power for a sham
+  22_ExcavationSite.lua:49  [OC][A Hunter] Loot calls (rolls): Golemsight Long Gun (Relic Guardian, 16.6 dps +6 Agi, requires 28): roll Need if you use guns, it beats Raptor's En
+  22_ExcavationSite.lua:52  [A Shaman] Walk south-east across the valley toward the falls and Hervdana's cave; stay west of Golm's box (x64-69, y63-73) until you are level with t
+  22_ExcavationSite.lua:54  [A Shaman] At [TAR258203 Hervdana Saegrund], [QT94500] [QA94501 Call of Water] (the Vial of Purest Water goes to Norric Lochthane at the north end of 
+  22_ExcavationSite.lua:55  [A Shaman] Walk north-west up the valley to Rethiel's clearing at the road junction (about 37 units, 4 minutes) [G56.4,40.4 Wetlands]
+  22_ExcavationSite.lua:58  [OC][A Shaman] Gear (95646): take Ironwood Destroyer (2H mace 22.2 dps, +19 Nature damage): a small step up from Glacial Stone (21.0 dps with a frost 
+  22_ExcavationSite.lua:59  [OC][A Hunter] Gear (95646): hunters cannot use maces, so Ironwood Destroyer is vendor fodder; Curl of Life (ring +5 Sta +5 spell damage) only for an 
+  22_ExcavationSite.lua:67  [OC][A Shaman] Shaman: Norric, the Forgotten Shrine and the Water Totem  -  Call of Water finishes in Loch Modan and Westfall (94501 460 XP, 94502 1,4
+  22_ExcavationSite.lua:68  [A Shaman] At [TAR1571 Shellei Brondir], Fly to [F Ironforge] [G9.5,59.7 Wetlands]
+  22_ExcavationSite.lua:69  [O][A Shaman] At [TAR258098 Eldrun Stormbreaker] in the Forlorn Cavern, [T] train your level 30 spells if you are 30 [G46.6,13.4 Ironforge]
+  22_ExcavationSite.lua:70  [A Shaman] At [TAR1573 Gryth Thurden], Fly to [F Thelsamar] [G55.5,47.7 Ironforge]
+  22_ExcavationSite.lua:71  [A Shaman] Run up the west road to the north end of the loch (about 4 minutes) and at [TAR258043 Norric Lochthane], [QT94501] [QA94502 Call of Water] 
+  22_ExcavationSite.lua:72  [A Shaman] Hearth to [H Sentinel Hill]
+  22_ExcavationSite.lua:73  [A Shaman] Walk south-west to Stendel's Pond and the Forgotten Shrine on its shore, drink the [UI6637 Water Sapta] at the shrine and kill the Corrupt 
+  22_ExcavationSite.lua:74  [A Shaman] Hand the bracers in at the Forgotten Shrine, [QT94502] [QA94503 Call of Water] (the log text still says return to Norric; ignore it) - the 
+  22_ExcavationSite.lua:75  [A Shaman] Swim out to the [TAR5895 Minor Manifestation of Water] in the pond, [QT94503] [QA94505 Call of Water] (2,750 XP at quest level, ~1,650 at 3
+  22_ExcavationSite.lua:76  [OC][A Shaman] The whole finale is in Westfall (Warcraft Tavern, played through); the Silverpine spawns in the DB (38.6,44.6) are the Horde chain's
+  22_ExcavationSite.lua:77  [A Shaman] At [TAR523 Thor], Fly to [F Thelsamar] (the game routes it through Stormwind and Ironforge) [G56.5,52.6 Westfall]
+  22_ExcavationSite.lua:78  [A Shaman] Run up the west road to the north end of the loch (about 4 minutes) and at [TAR258043 Norric Lochthane], [QT94505] - the fixed reward is th
+  22_ExcavationSite.lua:79  [A Shaman] Back at [TAR1572 Thorgrum Borrelson], Fly to [F Menethil Harbor] [G33.9,51 Loch Modan]
+  23_Hillsbrad.lua:16  [O][A Hunter] At [TAR3541 Sarah Raycroft] next to her, restock ammo (Razor Arrow or Solid Shot, 400+) for the coast loops and Gnomeregan [G49.1,55.1 H
+  23_Hillsbrad.lua:59  [O][A Shaman] At [TAR2711 Phin Odelic], [QA659 Hints of a New Plague?] (1,300 XP, requires level 30: Quae at Go'Shek Farm in the Arathi Highlands (60.
+  24_Gnomeregan.lua:11  [A Hunter] At [TAR5123 Bretta Goldfury] in the Military Ward, top up your ammo for the run [G72.2,65.2 Ironforge]
+  24_Gnomeregan.lua:12  [A Hunter] At [TAR5116 Olmin Burningbeard], [T] train your level 30 spells [G70.9,83.6 Ironforge]
+  24_Gnomeregan.lua:20  [A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 30 spells (skip if chapter 22's stop already did; you are ba
+  24_Gnomeregan.lua:21  [OC][A Shaman] Gear (Prehistoric Prism, if you have it): take Heavehammer (2H mace 27.7 dps, +32 attack power, +60 armor): several dps over any 2H you
+  24_Gnomeregan.lua:22  [OC][A Hunter] Gear (Prehistoric Prism, if you have it): take Explorer's League Dustcover (cloak +5 Agi +5 Int +5 Spi). Heavehammer is a mace (hunters
+  24_Gnomeregan.lua:56  [OC][A Hunter] In a group: pet on passive, Growl OFF, send it only at the tank's target
+  24_Gnomeregan.lua:71  [OC][A Shaman] Loot (Crowd Pummeler): Manual Crowd Pummeler (2H mace 29.0 dps +16 Str +5 Agi, req 29, unique, Use: +50% attack speed for 30 seconds, 3
+  24_Gnomeregan.lua:72  [OC][A Hunter] Loot (Crowd Pummeler): Thermaplugg Medal of Honor (neck +10 attack power +6 Sta +6 Spi, req 29). The Manual Crowd Pummeler is a mace (h
+  24_Gnomeregan.lua:74  [OC][A Shaman] Loot (Ambassador): Emissary Cuffs (leather bracers, random suffix, req 30) only for a suffix that suits you; Glass Shooter is a gun and
+  24_Gnomeregan.lua:75  [OC][A Hunter] Loot (Ambassador): Glass Shooter (gun 17.9 dps, +12 attack power, req 30) if it beats your gun. Emissary Cuffs only for a Strength, Agi
+  24_Gnomeregan.lua:78  [OC][A Shaman] Loot (Thermaplugg): Thermaplugg's Left Arm (2H axe 31.3 dps +17 Str +5 Sta +4 Int, req 31) beats the Crowd Pummeler by about 2 dps but 
+  24_Gnomeregan.lua:79  [OC][A Hunter] Loot (Thermaplugg): nothing for you (Strength axe, shield, cloth helm, resist ring): pass; the schematics sell
+  24_Gnomeregan.lua:81  [OC][A Shaman] Trash loot: Supercharger Battle Axe (2H axe 23.0 dps, Nature proc, req 23) only while you carry nothing better
+  24_Gnomeregan.lua:82  [OC][A Hunter] Trash loot: Gizmotron Megachopper (2H sword 23.9 dps +14 Str +5 Agi) is a melee stick at best; Hi-Tech Supergun (14.4 dps) only for a p
+  24_Gnomeregan.lua:92  [OC][A Shaman] Gear (Data Rescue): Heavehammer or the Pummeler beat the Mechanic's Pipehammer (2H mace 21.6 dps +12 Int), so take Repairman's Cape (+3
+  24_Gnomeregan.lua:93  [OC][A Hunter] Gear (Data Rescue): Repairman's Cape (+3 Int +5 Spi) only if your cloak has no stats and you did not take the Dustcover; the Pipehammer
+  25_LooseEnds30.lua:7  [A Shaman] At [TAR258098 Eldrun Stormbreaker] in the Forlorn Cavern, [QA94789 Call of Air] (2,450 XP and the Air Totem; Veyric Thunderhame waits in Ar
+  25_LooseEnds30.lua:14  [OC][A Shaman] Gear (2928): take Operator's Gloves (leather +6 Str +4 Sta +4 Spi). Shilly Mitts (cloth +6 Spi, +5 spell damage) are worse for a two-ha
+  25_LooseEnds30.lua:15  [OC][A Hunter] Gear (2928): Operator's Gloves (leather +6 Str +4 Sta +4 Spi) only if your gloves have no stats; Shilly Mitts are cloth and the Disarmi
+  25_LooseEnds30.lua:25  [O][A Hunter] At [TAR227 Mabel Solaj] buy 300+ Razor Arrows or Solid Shot for the west legs [G74.2,44.8 Duskwood]
+  25_LooseEnds30.lua:34  [OC][A Shaman] Gear (55): the fixed Torch of Holy Flame is an off-hand (vendor it, you carry a two-hander). Choose the Watch Master's Cloak (+7 Sta) i
+  25_LooseEnds30.lua:35  [OC][A Hunter] Gear (55): choose the Watch Master's Cloak (+7 Sta) if your cloak is plainer; Pantaloons are cloth Int and the Sparkmetal Coif is mail:
+  25_LooseEnds30.lua:64  [OC][A Shaman]Arathi Highlands: Call of Air  -  fly to Refuge Pointe (the flight path from chapter 19) and walk about 24 map units north-east to Veyri
+  25_LooseEnds30.lua:65  [OC][A Hunter]While the shaman is in Arathi  -  Call of Air is a shaman errand: restock for the Kraul (see below) and wait at the harbour
+  25_LooseEnds30.lua:66  [A Shaman] At [TAR352 Dungar Longdrink] on the gate ramp, Fly to [F Refuge Pointe] (a multi-hop flight, the game routes it) [G71.0,72.5 Stormwind City
+  25_LooseEnds30.lua:67  [A Shaman] At [TAR259023 Veyric Thunderhame], [QT94789] [QA96264 Elemental Aid] (Elemental Aid is 2,650 XP and ends here, but Charlga Razorflank in Ra
+  25_LooseEnds30.lua:68  [OC][A Shaman] Two more at Veyric (not taken now): The Tempest's Weapons (96016) and Heed My Call (96135) are 3,150 XP each but level-40 quests built 
+  25_LooseEnds30.lua:69  [OC][A Shaman] Storm, Earth, and Fire (79358) is also offered by Veyric: 20 twisted totems from four zones at level 36-41 (Badlands, Desolace, Swamp o
+  25_LooseEnds30.lua:70  [OC][A Shaman] Go'Shek Farm: if you took Hints of a New Plague? (659) in Southshore, Quae stands 26 units south of Veyric and 14 east of Refuge Pointe
+  25_LooseEnds30.lua:71  [O][A Shaman] At [TAR2712 Quae] at Go'Shek Farm, [QT659] (1,300 XP) [G60.2,53.9 Arathi Highlands]
+  25_LooseEnds30.lua:72  [A Shaman] Walk west past Refuge Pointe to Stromgarde Keep and at [TAR2805 Deneb Walker] in the Alliance-held quarter, [V] buy Expert First Aid - Unde
+  25_LooseEnds30.lua:73  [A Shaman] At [TAR2835 Cedrik Prose], Fly to [F Stormwind] [G45.7,46.1 Arathi Highlands]
+  25_LooseEnds30.lua:76  [O][A Hunter] At [TAR1297 Lina Stover] on the canal, buy 400+ ammo for Razorfen Kraul (Razor Arrow or Solid Shot) [G58.7,68.7 Stormwind City]
+  26_RazorfenKraul.lua:9  [O][A Hunter] Train your level 30 spells if you have not: [TAR5515 Einris Brightspear] in the Dwarven District [T] [G67.3,36.2 Stormwind City]
+  26_RazorfenKraul.lua:10  [OC][A Shaman] No shaman trainer on this trip: your level 32 spells wait for Ironforge's Forlorn Cavern
+  26_RazorfenKraul.lua:16  [OC][A Shaman] ? Elemental Aid (96264, level 30) - defeat Charlga Razorflank and take the information from her (the DB gives her a Tattered Note as th
+  26_RazorfenKraul.lua:20  [OC][A Shaman] Ghost Wolf for the whole ride (outdoors only); drop it before Ratchet's crowd so you can talk
+  26_RazorfenKraul.lua:21  [OC][A Hunter] Aspect of the Cheetah for the ride; swap to Hawk at the entrance
+  26_RazorfenKraul.lua:38  [OC][A Hunter] In a group: pet on passive, Growl OFF, send it only at the tank's target. Freezing Trap is your one crowd control
+  26_RazorfenKraul.lua:48  [OC][A Shaman] Loot (Ramtusk): Corpsemaker (2H axe 28.95 dps +15 Str +8 Sta, req 29) - ROLL, the best two-hander on the route, 5 to 6 dps over Slagham
+  26_RazorfenKraul.lua:49  [OC][A Hunter] Loot (Ramtusk): nothing for you (a Str two-hander and a mail helm) - pass. Armor Piercer from a Spearhide (2H polearm 19.81 dps +11 Agi
+  26_RazorfenKraul.lua:51  [OC][A Shaman] Loot (Halmgar): Wind Spirit Staff (21.4 dps +16 Spi, +23 spell damage, req 29) only if you have no better two-hander; Whisperwind Headd
+  26_RazorfenKraul.lua:55  [OC][A Hunter] Loot (Blind Hunter): Nightstalker Bow (bow 17.06 dps +3 Agi, +5 Shadow resistance, req 29) - ROLL, it beats Blackfathom's Naga Heartpie
+  26_RazorfenKraul.lua:56  [OC][A Shaman] Loot (Blind Hunter): nothing for you: Stygian Bone Amulet (neck +4 Sta, +5 spell damage) only for an empty neck slot; Nightstalker Bow 
+  26_RazorfenKraul.lua:60  [OC][A Shaman] Leather helms (req 25, bind on pickup): Charlga, Agathelos, Aggem and Halmgar drop Defender's Leather Helm (+12 Str +13 Sta) - the call
+  26_RazorfenKraul.lua:61  [OC][A Hunter] Leather helms (req 25, bind on pickup): Roogug, Aggem, Jargba, Agathelos and Charlga can drop Brawler's Leather Helm (+10 Agi +13 Sta) 
+  26_RazorfenKraul.lua:62  [OC][A Shaman] Trash loot: Slaghammer (2H mace 23.75 dps +11 Str +10 Sta, req 24, bind on equip; 20 quilboar types drop it) is the stop-gap until Corp
+  26_RazorfenKraul.lua:63  [OC][A Hunter] Trash loot: Mantle of Thieves (shoulders +10 Agi +4 Sta +3 Spi, req 25, bind on equip; 19 quilboar types drop it) is your shoulder call
+  26_RazorfenKraul.lua:75  [OC][A Hunter] Gear (Willix): Monkey Ring (+5 Agi +5 Spi). Tiger Band (+5 Str +5 Spi) and the new Boar Signet (+5 Sta, block) are not for you
+  26_RazorfenKraul.lua:76  [OC][A Shaman] Gear (Willix): Snake Hoop (+5 Int, +6 spell damage). Tiger Band (+5 Str +5 Spi) is a dead heat on this guide's stat weights - take whic
+  26_RazorfenKraul.lua:83  [A Shaman] At [TAR523 Thor], Fly to [F Refuge Pointe] (a multi-hop flight through Stormwind, Ironforge and Menethil; the game routes it) [G56.5,52.6 W
+  26_RazorfenKraul.lua:84  [OC][A Shaman] Run about 24 map units north-east from Refuge Pointe and approach Veyric from the WEST: Highland Striders and Plains Creepers (30-33) o
+  26_RazorfenKraul.lua:85  [A Shaman] At [TAR259023 Veyric Thunderhame], [QT96264] (2,650 XP) [G59.8,27.6 Arathi Highlands]
+  26_RazorfenKraul.lua:86  [OC][A Shaman] Veyric's other quests: The Tempest's Weapons (96016) and Heed My Call (96135) are level-40 content built around the Eye of the Tempest 
+
+== Stripped untagged [OC] Gear/Loot lines: 48 ==
+  02_LochModan.lua:82  [OC]Gear: take Robe of the Keeper (cloth chest +4 Sta) - Ironheart Chain is mail. Ironplate Buckler only if you want a shield set.
+  02_LochModan.lua:94  [OC]Gear: Bingles' Flying Gloves (leather +2 Agi +2 Int) replace Driving Gloves
+  02_LochModan.lua:122  [OC]Gear: take Burnt Hide Bracers (leather wrist) - Cavalier's Boots are worse than Frosthowl's
+  02_LochModan.lua:124  [OC]Gear: Repurposed Hair Band is cloth caster wrist - vendor it, keep Burnt Hide Bracers
+  03_HallOfThanes.lua:38  [OC]Loot: Spiritwraith Drape (back +3 Agi +4 Spi) - roll. Ephemeral Choker (neck +5 Spi) - roll, it is the only neck for ten levels. Aetherwisp Bracer
+  03_HallOfThanes.lua:47  [OC]Loot: Flamefist Grips (leather hands +5 Agi +5 Spi) - roll, best gloves in the bracket. Kindlegem Girdle is mail, Fang of Magmatus is a caster dag
+  03_HallOfThanes.lua:52  [OC]Loot: Golemheart Stave (2H staff, spell power) only if you plan to level Elemental; Golemguard Chest and Treads are mail - pass.
+  03_HallOfThanes.lua:67  [OC]Gear: take Dusty Belt (leather waist +2 Agi +2 Spi) - Cryptwalker Bracers are mail
+  04_LochModan2.lua:19  [OC]Gear: Foreman Belt (cloth) and Mud Stompers (mail) are both worse than what you have - take the belt to vendor
+  05_Westfall.lua:57  [OC]Gear: nothing (cloth mitts / dagger) - take the Westfall Stew for the run-speed buff
+  05_Westfall.lua:62  [OC]Gear: take Old Blanchy's Feed Pouch (8 slot bag)
+  05_Westfall.lua:67  [OC]Gear: Belt of the People's Militia is mail, the bracers are cloth with no stats - vendor (both classes)
+  07_Deadmines.lua:89  [OC]Loot: Miner's Cape (+5 Sta +4 AP) is a small upgrade if you have no Spiritwraith Drape; Gold-plated Buckler for the shield set
+  07_Deadmines.lua:93  [OC]Loot: Gold-flecked Gloves (cloth, +7 Str = 14 AP) - roll, they beat Flamefist Grips for damage. Taskmaster Axe is a caster 2H, Buzzer Blade a cast
+  07_Deadmines.lua:97  [OC]Loot: Lavishly Jeweled Ring (+2 Agi +6 Int) - roll, your first ring. Smelting Pants (leather +7 Sta +5 Spi) - only if nobody else needs them.
+  07_Deadmines.lua:102  [OC]Loot: Smite's Mighty Hammer (2H mace 19.7 dps +11 Str +4 Agi, req 18) - ROLL, best 2H mace until level 25. Smite's Reaver (1H axe 14 dps +3 Str) f
+  07_Deadmines.lua:124  [OC]Gear: nothing (shield / wand / held item) - vendor Grayson's Torch
+  07_Deadmines.lua:138  [OC]Gear: 168: Dusty Mining Gloves (+3 Str +2 Agi) if you have neither Flamefist Grips nor Gold-flecked Gloves. 167: Miner's Workboots (leather +5 Spi
+  07_Deadmines.lua:140  [OC]Gear: take Bravo's Armbands (leather wrist +3 Str +3 Agi)
+  10_Redridge2.lua:43  [OC]Gear: Ring of Iron Will (+4 Sta +2 Spi) for both of you; Gold Militia Boots are mail - pass
+  10_Redridge2.lua:72  [OC]Gear: Black Whelp Gloves (leather +2 Str +3 Agi) for both of you unless your gloves are better; Black Whelp Boots are +4 Sta only - take them only
+  11_Darkshore.lua:89  [OC]Gear: Ridgeback Bracers (leather +2 Sta +2 Spi) only if your wrists carry no stats; Breakwater Girdle is mail, Timberland Armguards cloth - pass
+  11_Darkshore.lua:111  [OC]Gear (4763): Wildkeeper Leggings (leather legs +4 Agi +1 Sta +2 Spi) - hunter, take them unless you wear Duty Bound Leggings; shaman, only if your
+  11_Darkshore.lua:118  [OC]Gear (951): Hardwood Cudgel (1H mace 10 dps) and Woodsman Sword (2H sword 13 dps, +2 Agi +5 Sta) are both weak (shamans cannot use swords): vendor
+  11_Darkshore.lua:125  [OC]Gear (5321): shaman - Deerhide Pants (leather legs +5 Str +3 Sta), better than Wildkeeper Leggings and about equal to Duty Bound Leggings; hunter 
+  12_Ashenvale.lua:41  [OC]Gear: Culling the Threat gives Restoring Balm (180 HP over 12 s, 2 min cooldown) - a free healing potion for both of you, keep it for a bad pull
+  12_Ashenvale.lua:73  [OC]Gear: Clergy Ring (+1 Sta +3 Spi) only if a ring slot is empty. Staff of the Purifier is an 11 dps healer staff (+8 Spi, +16 spell damage) - pass
+  13_Blackfathom.lua:27  [OC]Loot (both): Spiked Shell Band (ring +5 Sta, thorns, unique) only for an empty ring slot. Tortoise Armor is mail and Ghamoo-ra's Bind is cloth - p
+  14_Duskwood.lua:78  [OC]Gear: nothing in this chapter's rewards is an upgrade for a leather wearer: Night Watch Gauntlets and the Belt of the Stars are mail (pass until 4
+  17_Duskwood2.lua:23  [OC]Gear (98): both of you take Ring of Ruin (+4 Str +6 Agi; item level 35 - if the tooltip asks for more than your level, carry it until you can wear
+  17_Duskwood2.lua:54  [OC]Gear (223): both of you take Cloak of the Faith (+4 Sta +4 Spi) if your cloak has no stats. Shield of the Faith is a shield (hunters cannot use on
+  18_Wetlands1.lua:43  [OC]Gear (98208): Bouquet of Auberdine Flowers (held in off-hand, +4 Sta +4 Int, fixed reward): a two-hander cannot use it, a hunter only with a one-h
+  19_Wetlands2.lua:81  [OC]Gear (304): both of you take Fury Ring (+6 Str +2 Spi). Tranquil Ring is Spirit and the Gold Lion Shield is for a shield set only
+  19_Wetlands2.lua:91  [OC]Gear (633): both of you take Dwarven Guard Cloak (+1 Agi +6 Sta) if your cloak has no stats; Swampland Trousers are cloth: vendor
+  20_Darnassus.lua:10  [OC]Gear (1275): Staghide Armguards (leather bracers +3 Agi +3 Sta) for both of you; a shaman who already wears Bands of Serra'kis (+6 Str +3 Sta) kee
+  20_Darnassus.lua:17  [OC]Gear (1200): Gravestone Scepter is a wand and Arctic Buckler a shield - neither of you can use either: vendor whichever you pick
+  20_Darnassus.lua:19  [OC]Gear (1199): Heartwood Girdle (leather belt +5 Sta, +6 spell damage) is worth wearing only if your belt is bare - Moss Cinch from Aku'mai beats it
+  20_Darnassus.lua:25  [OC]Gear (741): Hammerfist Gloves (leather +3 Str +3 Agi) for both of you, unless you wear the Naga Battle Gloves from Blackfathom. Windfelt Gloves ar
+  21_AshenvaleEast.lua:58  [OC]Gear (98027): both of you wear the Replica Crescent Necklace (neck +3 Agi +3 Spi) unless your neck has more Agility
+  24_Gnomeregan.lua:61  [OC]Loot (Grubbis, both): Skullduggery Belt (leather belt +16 attack power +7 Spi, req 29) is a belt upgrade for you both, roll. Tundra Necklace has a
+  24_Gnomeregan.lua:94  [OC]Gear (The Grand Betrayal): take Triprunner Dungarees (leather legs +3 Str +18 Agi +6 Sta), the legs for both of you; Civinad Robes are cloth, Dual
+  25_LooseEnds30.lua:46  [OC]Gear (231): both fixed rewards are yours. Ladimore Heirloom Ring (+6 Int, +5 spell damage): wear it if your ring slot is empty or weaker (Int feed
+  25_LooseEnds30.lua:53  [OC]Gear (95795): Daewyn's Girdle (cloth waist, +6 Spi, +7 spell damage) is the only one either of you can wear and only if your belt is plainer; Song
+  26_RazorfenKraul.lua:44  [OC]Loot (Aggem, both): Thorncursed Grips (leather gloves +18 attack power, req 27; each melee hit also deals 2 Nature damage to you and the target, h
+  26_RazorfenKraul.lua:46  [OC]Loot (Jargba): Death Speaker Mantle, Robes and Scepter are cloth and a healing mace - pass; Stormrider's Leather Helm (Spirit) is not for you
+  26_RazorfenKraul.lua:53  [OC]Loot (Agathelos, both): Ferine Leggings (leather legs +12 Int, +26 attack power, req 29) - ROLL: the biggest upgrade of the run over Duty Bound Le
+  26_RazorfenKraul.lua:59  [OC]Loot (Charlga): Heart of Agamaggan is a shield and Pronged Reaver a one-hand axe (22.9 dps +5 Str +5 Spi, unique) - pass both (the plan is a two-h
+  26_RazorfenKraul.lua:77  [OC]Gear (Mortality Wanes, if it ever drops): Lancer Boots (leather +5 Agi +6 Sta +4 Spi) for both of you. Mourning Shawl (cloak +8 Sta, -4 Spi) and t
+
+== Overlay operations: 305 ==
+  02: tooling\variants\skyborne_druid\overlay\02.txt:4 @before QA224 -> source line 10
+  02: tooling\variants\skyborne_druid\overlay\02.txt:8 @replace QT414 -> source line 34
+  02: tooling\variants\skyborne_druid\overlay\02.txt:12 @delete QA6387 -> source line 38
+  02: tooling\variants\skyborne_druid\overlay\02.txt:14 @replace QT6387 -> source line 42
+  02: tooling\variants\skyborne_druid\overlay\02.txt:17 @delete QT6391 -> source line 47
+  02: tooling\variants\skyborne_druid\overlay\02.txt:20 @replace TAR1684#1 -> source line 74
+  02: tooling\variants\skyborne_druid\overlay\02.txt:24 @after QA95041 -> source line 66
+  02: tooling\variants\skyborne_druid\overlay\02.txt:28 @replace QT6388 -> source line 68
+  02: tooling\variants\skyborne_druid\overlay\02.txt:31 @delete QT6392 -> source line 70
+  02: tooling\variants\skyborne_druid\overlay\02.txt:34 @replace QC86667 -> source line 135
+  02: tooling\variants\skyborne_druid\overlay\02.txt:38 @replace TAR1197 -> source line 142
+  02: tooling\variants\skyborne_druid\overlay\02.txt:42 @header 
+  02: tooling\variants\skyborne_druid\overlay\02.txt:46 @after QT2038 -> source line 93
+  02: tooling\variants\skyborne_druid\overlay\02.txt:49 @after QT86614 -> source line 123
+  02: tooling\variants\skyborne_druid\overlay\02.txt:53 @replace T Carry-over log:|r Stout to Kadrell -> source line 6
+  02: tooling\variants\skyborne_druid\overlay\02.txt:57 @delete T Call of Fire:|r Fire Tar drops -> source line 16
+  02: tooling\variants\skyborne_druid\overlay\02.txt:60 @replace T Ironforge (free gryphon from the quest) -> source line 44
+  02: tooling\variants\skyborne_druid\overlay\02.txt:63 @replace T Take the free ride: -> source line 45
+  02: tooling\variants\skyborne_druid\overlay\02.txt:66 @replace T Take the free ride back: -> source line 69
+  02: tooling\variants\skyborne_druid\overlay\02.txt:70 @delete T Searing Totem|r is your best dps totem -> source line 134
+  03: tooling\variants\skyborne_druid\overlay\03.txt:6 @replace TAR258098 -> source line 10
+  03: tooling\variants\skyborne_druid\overlay\03.txt:11 @delete TAR6291 -> source line 14
+  03: tooling\variants\skyborne_druid\overlay\03.txt:14 @before TAR265002#1 -> source line 32
+  03: tooling\variants\skyborne_druid\overlay\03.txt:17 @gear-dungeon TAR261306 => Faldrim Anvilmar -> source line 37
+  03: tooling\variants\skyborne_druid\overlay\03.txt:19 @before TAR261316 -> source line 46
+  03: tooling\variants\skyborne_druid\overlay\03.txt:21 @gear-dungeon TAR261316 => Magmatus -> source line 46
+  03: tooling\variants\skyborne_druid\overlay\03.txt:23 @gear-dungeon TAR261311 => Plunder -> source line 51
+  03: tooling\variants\skyborne_druid\overlay\03.txt:25 @before TAR261319 -> source line 56
+  03: tooling\variants\skyborne_druid\overlay\03.txt:27 @gear-dungeon TAR261319 => Durgen Dirgehammer -> source line 56
+  03: tooling\variants\skyborne_druid\overlay\03.txt:32 @replace T Bring:|r your friend + 3 more -> source line 6
+  03: tooling\variants\skyborne_druid\overlay\03.txt:36 @replace T profession object (your Lodestone or Camp Chair, your friend's) -> source line 28
+  03: tooling\variants\skyborne_druid\overlay\03.txt:40 @replace T Bloodhound Runts (their bite is a disease -> source line 44
+  04: tooling\variants\skyborne_druid\overlay\04.txt:4 @replace T Carry-over log:|r Powder to Ironband -> source line 6
+  04: tooling\variants\skyborne_druid\overlay\04.txt:8 @replace T Escort Miran east to the excavation -> source line 17
+  04: tooling\variants\skyborne_druid\overlay\04.txt:12 @replace TAR1165 -> source line 21
+  04: tooling\variants\skyborne_druid\overlay\04.txt:16 @after QT258 -> source line 31
+  04: tooling\variants\skyborne_druid\overlay\04.txt:20 @after QT385 -> source line 34
+  04: tooling\variants\skyborne_druid\overlay\04.txt:24 @replace QT531 -> source line 46
+  04: tooling\variants\skyborne_druid\overlay\04.txt:28 @replace TAR5161 -> source line 60
+  04: tooling\variants\skyborne_druid\overlay\04.txt:30 @after TAR5161 -> source line 60
+  04: tooling\variants\skyborne_druid\overlay\04.txt:34 @replace TAR6291 -> source line 63
+  04: tooling\variants\skyborne_druid\overlay\04.txt:38 @replace T Bank/AH stop:|r you go through Ironforge anyway -> source line 57
+  05: tooling\variants\skyborne_druid\overlay\05.txt:10 @header 
+  05: tooling\variants\skyborne_druid\overlay\05.txt:15 @after QA2040 -> source line 9
+  05: tooling\variants\skyborne_druid\overlay\05.txt:20 @before T Run south through the Trade District to the main gate -> source line 12
+  05: tooling\variants\skyborne_druid\overlay\05.txt:36 @delete TAR352 -> source line 14
+  05: tooling\variants\skyborne_druid\overlay\05.txt:39 @after TAR171 -> source line 92
+  05: tooling\variants\skyborne_druid\overlay\05.txt:43 @replace QT109 -> source line 24
+  05: tooling\variants\skyborne_druid\overlay\05.txt:47 @after QT38 -> source line 56
+  05: tooling\variants\skyborne_druid\overlay\05.txt:51 @after QT151 -> source line 61
+  05: tooling\variants\skyborne_druid\overlay\05.txt:55 @after QT103 -> source line 80
+  05: tooling\variants\skyborne_druid\overlay\05.txt:60 @replace T Skip:|r Journey to Sentinel Hill -> source line 28
+  05: tooling\variants\skyborne_druid\overlay\05.txt:64 @replace T if you are away, then at -> source line 108
+  06: tooling\variants\skyborne_druid\overlay\06.txt:5 @replace TAR256389 -> source line 9
+  06: tooling\variants\skyborne_druid\overlay\06.txt:9 @replace TAR428 -> source line 54
+  07: tooling\variants\skyborne_druid\overlay\07.txt:8 @header 
+  07: tooling\variants\skyborne_druid\overlay\07.txt:12 @replace G61.1,70.7 -> source line 8
+  07: tooling\variants\skyborne_druid\overlay\07.txt:16 @replace T Escort the Traitor southwest to Moonbrook -> source line 55
+  07: tooling\variants\skyborne_druid\overlay\07.txt:21 @replace TAR8931 -> source line 60
+  07: tooling\variants\skyborne_druid\overlay\07.txt:25 @before TAR623 -> source line 77
+  07: tooling\variants\skyborne_druid\overlay\07.txt:29 @replace T Camp before you zone in:|r drop a Basic Campfire -> source line 79
+  07: tooling\variants\skyborne_druid\overlay\07.txt:32 @gear-dungeon T sometimes patrols the mine tunnels => Miner Johnson -> source line 88
+  07: tooling\variants\skyborne_druid\overlay\07.txt:34 @gear-dungeon TAR642 => Sneed's Shredder -> source line 92
+  07: tooling\variants\skyborne_druid\overlay\07.txt:35 @gear-dungeon TAR642 => Sneed -> source line 92
+  07: tooling\variants\skyborne_druid\overlay\07.txt:38 @after QC92753 -> source line 96
+  07: tooling\variants\skyborne_druid\overlay\07.txt:40 @gear-dungeon QC92753 => Gilnid -> source line 96
+  07: tooling\variants\skyborne_druid\overlay\07.txt:43 @gear-dungeon T he hits hardest with the 2H => Mr. Smite -> source line 101
+  07: tooling\variants\skyborne_druid\overlay\07.txt:45 @gear-dungeon T Pirate adds; he comes with a small pack => Captain Greenskin -> source line 104
+  07: tooling\variants\skyborne_druid\overlay\07.txt:47 @before TAR639 -> source line 109
+  07: tooling\variants\skyborne_druid\overlay\07.txt:49 @gear-dungeon TAR639 => Edwin VanCleef -> source line 109
+  07: tooling\variants\skyborne_druid\overlay\07.txt:51 @gear-dungeon T pops out of his pot after VanCleef => Cookie -> source line 113
+  07: tooling\variants\skyborne_druid\overlay\07.txt:54 @after QT104 -> source line 123
+  07: tooling\variants\skyborne_druid\overlay\07.txt:58 @after QT166 -> source line 126
+  08: tooling\variants\skyborne_druid\overlay\08.txt:12 @header 
+  08: tooling\variants\skyborne_druid\overlay\08.txt:16 @replace TAR5513 -> source line 9
+  08: tooling\variants\skyborne_druid\overlay\08.txt:20 @replace T The way north|r -> source line 20
+  08: tooling\variants\skyborne_druid\overlay\08.txt:42 @delete G24.5,4 -> source line 21
+  08: tooling\variants\skyborne_druid\overlay\08.txt:44 @replace QT3765 -> source line 22
+  08: tooling\variants\skyborne_druid\overlay\08.txt:48 @after QA95189 -> source line 41
+  08: tooling\variants\skyborne_druid\overlay\08.txt:53 @replace T Leech Poison on the tank - shaman, Poison Cleansing Totem -> source line 42
+  08: tooling\variants\skyborne_druid\overlay\08.txt:55 @gear-dungeon T Leech Poison on the tank - shaman, Poison Cleansing Totem => Witherfang -> source line 42
+  08: tooling\variants\skyborne_druid\overlay\08.txt:56 @gear-dungeon T Knockout = a big hit plus a threat drop => The Baron -> source line 43
+  08: tooling\variants\skyborne_druid\overlay\08.txt:57 @gear-dungeon T light the chimney fire in the south-west building => Viktor the Vile -> source line 44
+  08: tooling\variants\skyborne_druid\overlay\08.txt:58 @gear-dungeon T (Market Street statue event) => The Abandoned -> source line 46
+  08: tooling\variants\skyborne_druid\overlay\08.txt:61 @replace T interrupt it (Earth Shock) when you can -> source line 47
+  08: tooling\variants\skyborne_druid\overlay\08.txt:63 @gear-dungeon T interrupt it (Earth Shock) when you can => Bjork -> source line 47
+  08: tooling\variants\skyborne_druid\overlay\08.txt:64 @gear-dungeon T interrupt it (Earth Shock) when you can => Rath'mael -> source line 47
+  08: tooling\variants\skyborne_druid\overlay\08.txt:67 @replace QT95250 -> source line 51
+  08: tooling\variants\skyborne_druid\overlay\08.txt:70 @replace QT95195 -> source line 54
+  08: tooling\variants\skyborne_druid\overlay\08.txt:74 @replace T Stormpike's Delivery (353) and, shaman, Call of Water -> source line 57
+  09: tooling\variants\skyborne_druid\overlay\09.txt:5 @replace QT217 -> source line 19
+  09: tooling\variants\skyborne_druid\overlay\09.txt:9 @replace QT531 -> source line 22
+  09: tooling\variants\skyborne_druid\overlay\09.txt:13 @replace TAR1178 -> source line 34
+  09: tooling\variants\skyborne_druid\overlay\09.txt:17 @replace QT256 -> source line 36
+  09: tooling\variants\skyborne_druid\overlay\09.txt:20 @replace QT283 -> source line 56
+  09: tooling\variants\skyborne_druid\overlay\09.txt:23 @replace QT286 -> source line 83
+  09: tooling\variants\skyborne_druid\overlay\09.txt:26 @replace QT471 -> source line 102
+  09: tooling\variants\skyborne_druid\overlay\09.txt:30 @replace T and the shaman's Call of Water adds 2,085 -> source line 5
+  09: tooling\variants\skyborne_druid\overlay\09.txt:34 @replace T No class trainers here (level-22 spells -> source line 59
+  09: tooling\variants\skyborne_druid\overlay\09.txt:38 @replace T shaman Call of Water (94499) -> source line 105
+  09: tooling\variants\skyborne_druid\overlay\09.txt:42 @replace T bring your tank friend -> source line 14
+  09: tooling\variants\skyborne_druid\overlay\09.txt:46 @after QT286 -> source line 83
+  10: tooling\variants\skyborne_druid\overlay\10.txt:6 @replace TAR256389 -> source line 20
+  10: tooling\variants\skyborne_druid\overlay\10.txt:11 @replace T Messenger to Westfall (144, chapter 16), -> source line 6
+  10: tooling\variants\skyborne_druid\overlay\10.txt:15 @replace T new in the log: Messenger to -> source line 77
+  11: tooling\variants\skyborne_druid\overlay\11.txt:7 @replace TAR4146 -> source line 25
+  11: tooling\variants\skyborne_druid\overlay\11.txt:11 @replace QT4681 -> source line 40
+  11: tooling\variants\skyborne_druid\overlay\11.txt:16 @after QT994 -> source line 92
+  11: tooling\variants\skyborne_druid\overlay\11.txt:20 @replace QT1138 -> source line 94
+  11: tooling\variants\skyborne_druid\overlay\11.txt:24 @replace QT982 -> source line 114
+  11: tooling\variants\skyborne_druid\overlay\11.txt:28 @replace QT98028 -> source line 120
+  11: tooling\variants\skyborne_druid\overlay\11.txt:32 @replace T the log should still hold Researching -> source line 129
+  12: tooling\variants\skyborne_druid\overlay\12.txt:5 @after QT1054 -> source line 40
+  12: tooling\variants\skyborne_druid\overlay\12.txt:10 @replace T the Knight Errant (43,70) offers three Dragonslayer -> source line 49
+  12: tooling\variants\skyborne_druid\overlay\12.txt:14 @replace T log should hold Researching the Corruption -> source line 93
+  12: tooling\variants\skyborne_druid\overlay\12.txt:18 @replace T nothing in Ashenvale trains you -> source line 7
+  13: tooling\variants\skyborne_druid\overlay\13.txt:8 @header 
+  13: tooling\variants\skyborne_druid\overlay\13.txt:12 @after G14.5,14.2 -> source line 20
+  13: tooling\variants\skyborne_druid\overlay\13.txt:16 @before QT1198 -> source line 28
+  13: tooling\variants\skyborne_druid\overlay\13.txt:20 @gear-dungeon QT1198 => Ghamoo-ra -> source line 28
+  13: tooling\variants\skyborne_druid\overlay\13.txt:23 @before QC1275 -> source line 32
+  13: tooling\variants\skyborne_druid\overlay\13.txt:27 @gear-dungeon QC1275 => Lady Sarevess -> source line 32
+  13: tooling\variants\skyborne_druid\overlay\13.txt:28 @gear-dungeon QC1275 => Gelihast -> source line 32
+  13: tooling\variants\skyborne_druid\overlay\13.txt:29 @gear-dungeon QC1275 => Lorgus Jett -> source line 32
+  13: tooling\variants\skyborne_druid\overlay\13.txt:30 @gear-dungeon QC1275 => Old Serra'kis -> source line 32
+  13: tooling\variants\skyborne_druid\overlay\13.txt:34 @before QC1200 -> source line 51
+  13: tooling\variants\skyborne_druid\overlay\13.txt:39 @gear-dungeon QC1200 => Twilight Lord Kelris -> source line 51
+  13: tooling\variants\skyborne_druid\overlay\13.txt:40 @gear-dungeon QC1200 => Aku'mai -> source line 51
+  13: tooling\variants\skyborne_druid\overlay\13.txt:44 @replace T you stand on the Zoram -> source line 5
+  13: tooling\variants\skyborne_druid\overlay\13.txt:48 @replace T Researching the Corruption (1275, from Auberdine), -> source line 6
+  13: tooling\variants\skyborne_druid\overlay\13.txt:52 @replace T there is no vendor inside, so -> source line 7
+  13: tooling\variants\skyborne_druid\overlay\13.txt:56 @replace T -  one long sweep: Ghamoo-ra's -> source line 25
+  13: tooling\variants\skyborne_druid\overlay\13.txt:60 @replace T (25 elite turtle) in the first -> source line 26
+  13: tooling\variants\skyborne_druid\overlay\13.txt:64 @replace T (25 elite naga) with two naga -> source line 31
+  13: tooling\variants\skyborne_druid\overlay\13.txt:68 @replace T (26 elite murloc, skippable for quests -> source line 35
+  13: tooling\variants\skyborne_druid\overlay\13.txt:72 @replace T (26 elite, optional): a Horde quest -> source line 40
+  13: tooling\variants\skyborne_druid\overlay\13.txt:76 @replace T (26 elite thresher, skippable for quests, -> source line 44
+  13: tooling\variants\skyborne_druid\overlay\13.txt:80 @replace T (27 elite warlock) in the ceremonial -> source line 49
+  13: tooling\variants\skyborne_druid\overlay\13.txt:84 @replace T (28 elite hydra) in the lair -> source line 55
+  13: tooling\variants\skyborne_druid\overlay\13.txt:90 @replace T (+6 Agi +3 Spi, bind on -> source line 58
+  13: tooling\variants\skyborne_druid\overlay\13.txt:94 @replace T -  1275 Researching the -> source line 62
+  13: tooling\variants\skyborne_druid\overlay\13.txt:98 @replace T no trainer on this route. If -> source line 63
+  13: tooling\variants\skyborne_druid\overlay\13.txt:102 @replace T log should hold Researching the Corruption -> source line 64
+  14: tooling\variants\skyborne_druid\overlay\14.txt:5 @replace TAR263384 -> source line 9
+  14: tooling\variants\skyborne_druid\overlay\14.txt:9 @replace QT181 -> source line 68
+  14: tooling\variants\skyborne_druid\overlay\14.txt:13 @replace QT101 -> source line 69
+  14: tooling\variants\skyborne_druid\overlay\14.txt:18 @replace T repair and empty your bags. Darkshire -> source line 8
+  14: tooling\variants\skyborne_druid\overlay\14.txt:22 @delete T Wowhead's race flag for The Valor -> source line 26
+  14: tooling\variants\skyborne_druid\overlay\14.txt:25 @replace T Top up water and ammo before you leave town -> source line 46
+  14: tooling\variants\skyborne_druid\overlay\14.txt:29 @replace T no trainer in Darkshire; your level-26 -> source line 79
+  15: tooling\variants\skyborne_druid\overlay\15.txt:9 @replace G61.1,70.7 -> source line 11
+  15: tooling\variants\skyborne_druid\overlay\15.txt:13 @replace TAR1748 -> source line 15
+  15: tooling\variants\skyborne_druid\overlay\15.txt:17 @replace G73.8,49.2#1 -> source line 22
+  15: tooling\variants\skyborne_druid\overlay\15.txt:21 @replace G76.5,51.5#1 -> source line 29
+  15: tooling\variants\skyborne_druid\overlay\15.txt:25 @replace QT968 -> source line 28
+  15: tooling\variants\skyborne_druid\overlay\15.txt:29 @replace QT98191 -> source line 31
+  15: tooling\variants\skyborne_druid\overlay\15.txt:33 @before QA391 -> source line 33
+  15: tooling\variants\skyborne_druid\overlay\15.txt:37 @after G52.4,70.0 -> source line 45
+  15: tooling\variants\skyborne_druid\overlay\15.txt:41 @gear-dungeon TAR1696 => Targorr the Dread -> source line 50
+  15: tooling\variants\skyborne_druid\overlay\15.txt:44 @before TAR1663 -> source line 53
+  15: tooling\variants\skyborne_druid\overlay\15.txt:48 @gear-dungeon TAR1663 => Bruegal Ironknuckle -> source line 53
+  15: tooling\variants\skyborne_druid\overlay\15.txt:51 @before TAR1716 -> source line 57
+  15: tooling\variants\skyborne_druid\overlay\15.txt:55 @gear-dungeon TAR1716 => Kam Deepfury -> source line 57
+  15: tooling\variants\skyborne_druid\overlay\15.txt:56 @gear-dungeon TAR1716 => Hamhock -> source line 57
+  15: tooling\variants\skyborne_druid\overlay\15.txt:57 @gear-dungeon TAR1716 => Bazil Thredd -> source line 57
+  15: tooling\variants\skyborne_druid\overlay\15.txt:61 @replace QT396 -> source line 89
+  15: tooling\variants\skyborne_druid\overlay\15.txt:67 @replace T -  you are in Darkshire -> source line 5
+  15: tooling\variants\skyborne_druid\overlay\15.txt:71 @replace T (377), The Legend of Stalvan (69, -> source line 6
+  15: tooling\variants\skyborne_druid\overlay\15.txt:75 @replace T -  shaman: needed (level-26 -> source line 21
+  15: tooling\variants\skyborne_druid\overlay\15.txt:79 @replace T dungeon range 24-32 (Icy Veins, Method), -> source line 35
+  15: tooling\variants\skyborne_druid\overlay\15.txt:83 @replace T (26 elite, end of the left -> source line 52
+  15: tooling\variants\skyborne_druid\overlay\15.txt:87 @replace T (28 elite ogre mage, at the -> source line 55
+  15: tooling\variants\skyborne_druid\overlay\15.txt:91 @replace T you land on the gate ramp. The loop: -> source line 9
+  15: tooling\variants\skyborne_druid\overlay\15.txt:95 @replace T drops from the five Defias types -> source line 61
+  15: tooling\variants\skyborne_druid\overlay\15.txt:99 @after QT98191 -> source line 31
+  16: tooling\variants\skyborne_druid\overlay\16.txt:7 @replace TAR956 -> source line 14
+  16: tooling\variants\skyborne_druid\overlay\16.txt:11 @replace TAR256389 -> source line 63
+  16: tooling\variants\skyborne_druid\overlay\16.txt:16 @replace T (x 60-66, y 52-60): the DB -> source line 36
+  16: tooling\variants\skyborne_druid\overlay\16.txt:21 @delete T Alonso in Ashenvale (43,70) offers Dragonslayer's Shield -> source line 40
+  16: tooling\variants\skyborne_druid\overlay\16.txt:24 @replace T new in the log: Messenger to -> source line 74
+  16: tooling\variants\skyborne_druid\overlay\16.txt:28 @after QT386 -> source line 18
+  17: tooling\variants\skyborne_druid\overlay\17.txt:5 @after QT58 -> source line 78
+  17: tooling\variants\skyborne_druid\overlay\17.txt:10 @after QT253 -> source line 94
+  17: tooling\variants\skyborne_druid\overlay\17.txt:15 @replace T is a level 31 elite, ~2,310 -> source line 91
+  17: tooling\variants\skyborne_druid\overlay\17.txt:19 @replace T the log should hold Seeking Wisdom -> source line 98
+  18: tooling\variants\skyborne_druid\overlay\18.txt:5 @header 
+  18: tooling\variants\skyborne_druid\overlay\18.txt:8 @replace T |cffffffffLevel 28|r  -  you are in Darkshire -> source line 5
+  18: tooling\variants\skyborne_druid\overlay\18.txt:10 @replace T |cffffcc00Carry in:|r Seeking Wisdom (269) -> source line 6
+  18: tooling\variants\skyborne_druid\overlay\18.txt:12 @replace T |cffffffffStormwind|r  -  Cathedral Square first -> source line 9
+  18: tooling\variants\skyborne_druid\overlay\18.txt:16 @replace QA98219 -> source line 11
+  18: tooling\variants\skyborne_druid\overlay\18.txt:20 @replace QT346 -> source line 14
+  18: tooling\variants\skyborne_druid\overlay\18.txt:26 @replace TAR5515 -> source line 15
+  18: tooling\variants\skyborne_druid\overlay\18.txt:30 @replace TAR352 -> source line 17
+  18: tooling\variants\skyborne_druid\overlay\18.txt:33 @replace T |cffffffffMenethil Harbor|r  -  you land by the harbor -> source line 24
+  18: tooling\variants\skyborne_druid\overlay\18.txt:37 @replace QT471 -> source line 48
+  18: tooling\variants\skyborne_druid\overlay\18.txt:41 @replace QT299 -> source line 68
+  18: tooling\variants\skyborne_druid\overlay\18.txt:45 @replace QT98216 -> source line 70
+  18: tooling\variants\skyborne_druid\overlay\18.txt:48 @replace T |cffffffffLeaving Whelgar|r -> source line 72
+  18: tooling\variants\skyborne_druid\overlay\18.txt:50 @replace T |cffffcc00Check:|r the log should now hold, to finish in chapter 19 -> source line 79
+  18: tooling\variants\skyborne_druid\overlay\18.txt:54 @replace QA98216 -> source line 55
+  19: tooling\variants\skyborne_druid\overlay\19.txt:4 @replace T |cffffcc00Log:|r you arrive with War Banners -> source line 6
+  19: tooling\variants\skyborne_druid\overlay\19.txt:6 @delete T |cffffcc00Human hunters:|r the digest also flags -> source line 7
+  19: tooling\variants\skyborne_druid\overlay\19.txt:9 @replace T Bandage to 125: Heavy Wool Bandages -> source line 23
+  19: tooling\variants\skyborne_druid\overlay\19.txt:13 @replace T treat him as an elite and bring the tank -> source line 43
+  19: tooling\variants\skyborne_druid\overlay\19.txt:17 @replace T walks the middle at 45.3,44.4 -> source line 24
+  19: tooling\variants\skyborne_druid\overlay\19.txt:22 @replace QT275 -> source line 49
+  19: tooling\variants\skyborne_druid\overlay\19.txt:26 @replace QT88758 -> source line 85
+  19: tooling\variants\skyborne_druid\overlay\19.txt:29 @replace T |cffffcc00Check:|r the log now carries Word to Ironforge -> source line 114
+  19: tooling\variants\skyborne_druid\overlay\19.txt:35 @replace TAR2805 -> source line 94
+  19: tooling\variants\skyborne_druid\overlay\19.txt:39 @replace TAR2835#1 -> source line 93
+  19: tooling\variants\skyborne_druid\overlay\19.txt:43 @after QT98297 -> source line 51
+  19: tooling\variants\skyborne_druid\overlay\19.txt:48 @after QT98223 -> source line 110
+  19: tooling\variants\skyborne_druid\overlay\19.txt:52 @after QT275 -> source line 49
+  20: tooling\variants\skyborne_druid\overlay\20.txt:5 @replace QT98209 -> source line 11
+  20: tooling\variants\skyborne_druid\overlay\20.txt:9 @replace QT1199 -> source line 18
+  20: tooling\variants\skyborne_druid\overlay\20.txt:17 @replace TAR4146 -> source line 20
+  20: tooling\variants\skyborne_druid\overlay\20.txt:22 @replace T |cffffcc00Alonso|r the Knight Errant -> source line 46
+  20: tooling\variants\skyborne_druid\overlay\20.txt:24 @delete QA78133 -> source line 48
+  20: tooling\variants\skyborne_druid\overlay\20.txt:26 @replace T |cffffcc00Check:|r new in the log: The Absent Minded Prospector (942) -> source line 60
+  21: tooling\variants\skyborne_druid\overlay\21.txt:4 @replace T |cffffcc00Training:|r nothing in Ashenvale trains you -> source line 7
+  21: tooling\variants\skyborne_druid\overlay\21.txt:8 @after QT98027 -> source line 57
+  21: tooling\variants\skyborne_druid\overlay\21.txt:13 @after QT1046 -> source line 67
+  21: tooling\variants\skyborne_druid\overlay\21.txt:18 @replace T 981 pays 2,500 XP but its rewards are a 2H sword -> source line 85
+  21: tooling\variants\skyborne_druid\overlay\21.txt:20 @replace T |cffffcc00Check:|r nothing new stays open from this chapter -> source line 88
+  21: tooling\variants\skyborne_druid\overlay\21.txt:24 @after QT1046 -> source line 67
+  22: tooling\variants\skyborne_druid\overlay\22.txt:7 @header 
+  22: tooling\variants\skyborne_druid\overlay\22.txt:10 @replace T |cffffffffLevel 29-30|r  -  you step off the Auberdine boat -> source line 5
+  22: tooling\variants\skyborne_druid\overlay\22.txt:12 @replace T |cffffcc00Carried in:|r Songblade Search (95772) -> source line 7
+  22: tooling\variants\skyborne_druid\overlay\22.txt:14 @replace T |cFFFF0000GROUP 5|r the run needs five: your tank friend -> source line 8
+  22: tooling\variants\skyborne_druid\overlay\22.txt:16 @replace T |cffffcc00?|r Lost Relic Carry (95810, 630 XP) -> source line 33
+  22: tooling\variants\skyborne_druid\overlay\22.txt:18 @replace T |cffffcc00Saltspine|r patrols the lake edge -> source line 36
+  22: tooling\variants\skyborne_druid\overlay\22.txt:20 @replace T |cffffcc00Stalker's Thicket|r: Thicket Lurkers -> source line 37
+  22: tooling\variants\skyborne_druid\overlay\22.txt:22 @replace T |cffffcc00Shadetooth|r (the hardest fight here -> source line 38
+  22: tooling\variants\skyborne_druid\overlay\22.txt:24 @replace T |cffffcc00Relic Guardian|r (level 31, a construct -> source line 41
+  22: tooling\variants\skyborne_druid\overlay\22.txt:28 @replace QC98815 -> source line 43
+  22: tooling\variants\skyborne_druid\overlay\22.txt:30 @gear-dungeon QC98815 => Saltspine -> source line 43
+  22: tooling\variants\skyborne_druid\overlay\22.txt:31 @gear-dungeon QC98815 => Shadetooth -> source line 43
+  22: tooling\variants\skyborne_druid\overlay\22.txt:35 @after QT95647 -> source line 46
+  22: tooling\variants\skyborne_druid\overlay\22.txt:38 @replace T |cffffffffAfter the run|r  -  the door is 20 units north -> source line 51
+  22: tooling\variants\skyborne_druid\overlay\22.txt:42 @replace G56.4,40.4#2 -> source line 56
+  22: tooling\variants\skyborne_druid\overlay\22.txt:46 @replace QT98310 -> source line 61
+  22: tooling\variants\skyborne_druid\overlay\22.txt:50 @replace QT95809 -> source line 64
+  22: tooling\variants\skyborne_druid\overlay\22.txt:53 @replace T |cffffcc00Check:|r handed in here: Seeking Caitlin (95737) -> source line 83
+  22: tooling\variants\skyborne_druid\overlay\22.txt:59 @after QT943 -> source line 65
+  23: tooling\variants\skyborne_druid\overlay\23.txt:4 @replace T |cffffcc00Training:|r nothing in Southshore trains you -> source line 8
+  23: tooling\variants\skyborne_druid\overlay\23.txt:8 @replace QT562 -> source line 35
+  23: tooling\variants\skyborne_druid\overlay\23.txt:12 @replace QT98071 -> source line 36
+  23: tooling\variants\skyborne_druid\overlay\23.txt:15 @replace T |cffffffffExtras|r  -  the core quests are done -> source line 44
+  23: tooling\variants\skyborne_druid\overlay\23.txt:20 @replace T |cffffcc00Yeti Fur cloak:|r 2,700 XP and a good cloak -> source line 46
+  23: tooling\variants\skyborne_druid\overlay\23.txt:22 @replace QT565 -> source line 50
+  23: tooling\variants\skyborne_druid\overlay\23.txt:26 @replace QT505 -> source line 54
+  23: tooling\variants\skyborne_druid\overlay\23.txt:29 @replace T |cFFFF0000GROUP 3+|r |cffffcc00Preserving Knowledge:|r -> source line 55
+  23: tooling\variants\skyborne_druid\overlay\23.txt:31 @replace T |cffffcc00Check:|r handed in here: Down the Coast -> source line 63
+  24: tooling\variants\skyborne_druid\overlay\24.txt:8 @replace T |cffffffffLevel 30|r  -  you land in Ironforge from Southshore -> source line 5
+  24: tooling\variants\skyborne_druid\overlay\24.txt:10 @replace T |cffffcc00Supplies:|r the gnome station just inside the door -> source line 8
+  24: tooling\variants\skyborne_druid\overlay\24.txt:16 @replace T |cffffffffIronforge round|r  -  about 15 minutes on foot -> source line 10
+  24: tooling\variants\skyborne_druid\overlay\24.txt:19 @replace T |cffffffffThe run|r  -  Classic-era layout (Icy Veins -> source line 55
+  24: tooling\variants\skyborne_druid\overlay\24.txt:23 @gear-dungeon QA2952 => Grubbis -> source line 59
+  24: tooling\variants\skyborne_druid\overlay\24.txt:24 @gear-dungeon QA2952 => Viscous Fallout -> source line 59
+  24: tooling\variants\skyborne_druid\overlay\24.txt:27 @replace T |cffffcc00Viscous Fallout|r (level 30 elite elemental) -> source line 62
+  24: tooling\variants\skyborne_druid\overlay\24.txt:29 @replace T |cffffcc00Electrocutioner 6000|r (level 32 elite mechanical) -> source line 67
+  24: tooling\variants\skyborne_druid\overlay\24.txt:31 @replace T |cffffcc00Crowd Pummeler 9-60|r (level 32 elite mechanical) -> source line 69
+  24: tooling\variants\skyborne_druid\overlay\24.txt:35 @gear-dungeon QC2930 => Electrocutioner 6000 -> source line 70
+  24: tooling\variants\skyborne_druid\overlay\24.txt:36 @gear-dungeon QC2930 => Crowd Pummeler 9-60 -> source line 70
+  24: tooling\variants\skyborne_druid\overlay\24.txt:37 @gear-dungeon QC2930 => Dark Iron Ambassador -> source line 70
+  24: tooling\variants\skyborne_druid\overlay\24.txt:39 @replace T |cffffcc00Dark Iron Ambassador|r (level 33 rare elite -> source line 73
+  24: tooling\variants\skyborne_druid\overlay\24.txt:41 @replace T |cffffcc00Mekgineer Thermaplugg|r (level 34 elite mechanical -> source line 76
+  24: tooling\variants\skyborne_druid\overlay\24.txt:45 @gear-dungeon QC2929 => Mekgineer Thermaplugg -> source line 77
+  24: tooling\variants\skyborne_druid\overlay\24.txt:49 @replace T |cffffcc00Trash loot (both):|r |cff66ff66Petrolspill Leggings|r -> source line 80
+  24: tooling\variants\skyborne_druid\overlay\24.txt:55 @after QT2930 -> source line 98
+  24: tooling\variants\skyborne_druid\overlay\24.txt:59 @replace QT2929 -> source line 99
+  24: tooling\variants\skyborne_druid\overlay\24.txt:63 @replace QT2948 -> source line 101
+  25: tooling\variants\skyborne_druid\overlay\25.txt:8 @header 
+  25: tooling\variants\skyborne_druid\overlay\25.txt:11 @replace T |cffffffffLevel 30|r  -  you are in Ironforge with Gnomeregan done -> source line 5
+  25: tooling\variants\skyborne_druid\overlay\25.txt:13 @replace T |cffffffffDuskwood|r  -  Darkshire, the Defias camp -> source line 23
+  25: tooling\variants\skyborne_druid\overlay\25.txt:18 @after QT55 -> source line 33
+  25: tooling\variants\skyborne_druid\overlay\25.txt:21 @replace T |cFFFF0000GROUP 3+|r |cffffcc00Mor'Ladim|r is a level 35 elite -> source line 41
+  25: tooling\variants\skyborne_druid\overlay\25.txt:27 @after QT231 -> source line 45
+  25: tooling\variants\skyborne_druid\overlay\25.txt:33 @after QT1247 -> source line 62
+  25: tooling\variants\skyborne_druid\overlay\25.txt:36 @replace T |cffffffffBefore the harbour|r  -  both of you in Stormwind -> source line 75
+  25: tooling\variants\skyborne_druid\overlay\25.txt:38 @replace T |cffffcc00Check:|r still open on purpose: The Missing Diplomat 1248 -> source line 81
+  26: tooling\variants\skyborne_druid\overlay\26.txt:9 @header 
+  26: tooling\variants\skyborne_druid\overlay\26.txt:12 @replace T |cffffffffLevel 30|r  -  you start in Stormwind with chapter 25's loose ends done -> source line 5
+  26: tooling\variants\skyborne_druid\overlay\26.txt:14 @replace T |cffffcc00Group content:|r Forever caps the instance at 5 players -> source line 6
+  26: tooling\variants\skyborne_druid\overlay\26.txt:16 @replace T |cffffcc00Supplies:|r nothing inside sells anything -> source line 8
+  26: tooling\variants\skyborne_druid\overlay\26.txt:18 @replace T |cffffffffRazorfen Kraul|r  -  |cFFFF0000GROUP 5|r, entry level 25 -> source line 12
+  26: tooling\variants\skyborne_druid\overlay\26.txt:20 @replace T |cffffcc00Not for you:|r The Crone of the Kraul (1101 -> source line 17
+  26: tooling\variants\skyborne_druid\overlay\26.txt:22 @replace T Razorfen Dustweavers (28-29) cast Enveloping Winds -> source line 41
+  26: tooling\variants\skyborne_druid\overlay\26.txt:24 @replace T |cffffcc00Roogug|r (28 elite, optional -> source line 42
+  26: tooling\variants\skyborne_druid\overlay\26.txt:26 @replace T |cffffcc00Death Speaker Jargba|r (30 elite) and his cultists -> source line 45
+  26: tooling\variants\skyborne_druid\overlay\26.txt:28 @replace T |cffffcc00Agathelos the Raging|r (33 elite beast) -> source line 52
+  26: tooling\variants\skyborne_druid\overlay\26.txt:30 @replace T |cffffcc00Blind Hunter|r (32 rare elite beast -> source line 54
+  26: tooling\variants\skyborne_druid\overlay\26.txt:32 @replace T |cffffcc00Charlga Razorflank|r (33 elite, last boss) -> source line 57
+  26: tooling\variants\skyborne_druid\overlay\26.txt:36 @replace QC96264 -> source line 58
+  26: tooling\variants\skyborne_druid\overlay\26.txt:38 @gear-dungeon QC96264 => Aggem Thorncurse -> source line 58
+  26: tooling\variants\skyborne_druid\overlay\26.txt:39 @gear-dungeon QC96264 => Death Speaker Jargba -> source line 58
+  26: tooling\variants\skyborne_druid\overlay\26.txt:40 @gear-dungeon QC96264 => Earthcaller Halmgar -> source line 58
+  26: tooling\variants\skyborne_druid\overlay\26.txt:41 @gear-dungeon QC96264 => Agathelos the Raging -> source line 58
+  26: tooling\variants\skyborne_druid\overlay\26.txt:42 @gear-dungeon QC96264 => Blind Hunter -> source line 58
+  26: tooling\variants\skyborne_druid\overlay\26.txt:43 @gear-dungeon QC96264 => Charlga Razorflank -> source line 58
+  26: tooling\variants\skyborne_druid\overlay\26.txt:48 @after QC96264 -> source line 58
+  26: tooling\variants\skyborne_druid\overlay\26.txt:51 @replace T |cffffcc00Tubers first:|r summon the gopher at the head of the trench -> source line 68
+  26: tooling\variants\skyborne_druid\overlay\26.txt:53 @replace T |cffffffffHome|r  -  Mebok first, then the hearth -> source line 79
+  26: tooling\variants\skyborne_druid\overlay\26.txt:55 @replace T |cffffcc00Check:|r log should hold nothing from this chapter except -> source line 88
+  26: tooling\variants\skyborne_druid\overlay\26.txt:59 @replace T neutral and safe for both of you -> source line 29
+
+== Generated gear lines placed: 78 ==
+  02 QT307 Filthy Paws after source line 81
+  02 QT257 A Hunter's Boast after source line 106
+  02 QT416 Rat Catching after source line 121
+  02 QT86585 Banner of the Fallen after source line 149
+  03 QT96395 An Ancient Grudge after source line 39
+  03 QT96403 Important Heirlooms after source line 63
+  03 QT96394 The Restless Dead after source line 66
+  03 QT96393 Old Ironforge Incursion after source line 68
+  04 QT309 Protecting the Shipment after source line 18
+  04 QT297 Gathering Idols after source line 22
+  04 QT217 In Defense of the King's Lands after source line 48
+  05 QT9 The Killing Fields after source line 51
+  05 QT102 Patrolling Westfall after source line 66
+  05 QT153 Red Leather Bandanas after source line 100
+  06 QT89 The Everstill Bridge after source line 60
+  07 QT14 The People's Militia after source line 126
+  07 QT214 Red Silk Bandanas after source line 131
+  07 QT168 Collecting Memories after source line 137
+  07 QT167 Oh Brother... after source line 137
+  07 QT2040 Underground Assault after source line 139
+  08 QT95250 Abominable Creatures after source line None
+  08 QT95195 Bloodied Insignia after source line None
+  09 QT217 In Defense of the King's Lands after source line None
+  09 QT256 WANTED: Chok'sul after source line None
+  09 QT283 A Dark Threat Looms after source line None
+  09 QT471 Apprentice's Duties after source line None
+  10 QT219 Missing In Action after source line 39
+  10 QT126 Howling in the Hills after source line 42
+  10 QT19 Tharil'zun after source line 65
+  10 QT122 Underbelly Scales after source line 71
+  11 QT4681 Washed Ashore after source line None
+  11 QT4740 WANTED: Murkdeep! after source line 88
+  11 QT1138 Fruit of the Sea after source line None
+  11 QT4763 The Blackwood Corrupted after source line 110
+  11 QT2139 Tharnariun's Hope after source line 112
+  11 QT982 Deep Ocean, Vast Sea after source line None
+  11 QT951 Mathystra Relics after source line 117
+  11 QT98028 Baron Marinous after source line None
+  11 QT5321 The Sleeper Has Awakened after source line 124
+  12 QT973 The Tower of Althalaxx after source line 72
+  12 QT976 Supplies to Auberdine after source line 78
+  14 QT95161 Remember That I Love You after source line 18
+  14 QT181 Look to the Stars after source line None
+  16 QT19 Tharil'zun after source line 52
+  16 QT95999 WANTED: Incinerator Gar'im after source line 55
+  16 QT249 Morganth after source line 67
+  17 QT377 Crime and Punishment after source line 16
+  17 QT98 The Legend of Stalvan after source line 22
+  17 QT223 Worgen in the Woods after source line 53
+  17 QT253 Bride of the Embalmer after source line 94
+  18 QT471 Apprentice's Duties after source line None
+  18 QT296 Ormer's Revenge after source line 65
+  18 QT98216 Understanding Our Present after source line None
+  19 QT98283 Carnage after source line 46
+  19 QT98297 Stopping the Cycle after source line 51
+  19 QT304 A Grim Task after source line 80
+  19 QT633 The Thandol Span after source line 90
+  19 QT474 Defeat Nek'rosh after source line 110
+  19 QT98223 Old Habits after source line 110
+  20 QT1275 Researching the Corruption after source line 9
+  20 QT1200 Blackfathom Villainy after source line 16
+  20 QT1199 Twilight Falls after source line None
+  20 QT741 The Absent Minded Prospector after source line 24
+  21 QT1012 Insane Druids after source line 42
+  21 QT1035 Fallen Sky Lake after source line 54
+  21 QT1031 The Branch of Cenarius after source line 73
+  21 QT981 The Tower of Althalaxx after source line 86
+  22 QT95646 Horrors in the Highland after source line 57
+  22 QT98310 Gleaning Our Future after source line None
+  22 QT943 The Absent Minded Prospector after source line 65
+  23 QT505 Syndicate Assassins after source line None
+  24 QT98824 Prehistoric Prism after source line 23
+  24 QT2929 The Grand Betrayal after source line None
+  25 QT2928 Gyrodrillmatic Excavationators after source line 13
+  25 QT55 Morbent Fel after source line 33
+  25 QT95795 Fallen in the Fen after source line 52
+  26 QT1144 Willix the Importer after source line 74
+  26 QT1142 Mortality Wanes after source line 87
+
+== Generated gear lines NOT placed: 0 ==
+
+== Unstated picks (missing tooltips; no line written): 0 ==
+
+== Gear skipped by gear_skip_quests: 7 ==
+  07 QT104 The Coastal Menace (gear_skip_quests)
+  07 QT166 The Defias Brotherhood (gear_skip_quests)
+  09 QT286 Return the Statuette (gear_skip_quests)
+  15 QT98191 A Friend of the Family (gear_skip_quests)
+  16 QT386 What Comes Around... (gear_skip_quests)
+  19 QT275 Blisters on the Land (gear_skip_quests)
+  21 QT1046 Raene's Cleansing (gear_skip_quests)
+
+== Non-gear rewards only (bag/potion/food; no line written - word it in the overlay): 9 ==
+  04 QT531 Vyrin's Revenge (choices: Hunting Ammo Sack, Hunting Quiver)
+  05 QT92109 My First Alchemy Set (choices: Minor Healing Potion, Scribbled I.O.U.)
+  05 QT103 Keeper of the Flame (choices: Minor Mana Potion, Minor Healing Potion)
+  07 QT95065 Fishin' Time (choices: Brilliant Smallfish, Rainbow Fin Albacore)
+  07 QT97237 Shelf Picked (choices: Rumsey Rum Light, Ice Cold Milk)
+  08 QT95189 Crest of Lordaeron (choices: Small Sack of Gems)
+  09 QT531 Vyrin's Revenge (choices: Hunting Ammo Sack, Hunting Quiver)
+  17 QT58 The Night Watch (choices: Bandolier of the Night Watch, Quiver of the Night Watch, Gunnysack of the Night Watch)
+  22 QT95809 Heartwoven (choices: Greater Healing Potion, Mana Potion)
+
+== Inline gear text on step lines (needs overlay): 0 ==
+
+== Needs overlay (kept source lines with a flag word: shaman, totem, Totemic, Brawler, Leatherworking, leather, hunter, pet, Rockbiter, Flametongue, Ghost Wolf, 2H, Int, Spirit, warrior, shield, Taunt, Defensive, Sunder, Charge): 48 ==
+  02_LochModan.lua:104  [hunter]  Left of the entrance at [TAR1187 Daryl the Youngling], [QA257 A Hunter's Boast] (15 minute timer starts now) [G83.5,65.5 Loch Modan]
+  02_LochModan.lua:106  [hunter]  At [TAR1187 Daryl the Youngling], [QT257] [QA258 A Hunter's Challenge] (5 Elder Mountain Boars, level 16-17, 12 minute timer - do it in the 16-17 chapter) [G83.
+  02_LochModan.lua:141  [shaman]  [OC]The Shaman and Bonesnappers only live at the far south end of the valley, around the trogg caves
+  02_LochModan.lua:145  [Charge]  [OC]Waves of level 12-14 troggs come from both sides, 1-2 at a time, for about 30 seconds each; stay by the banner. Headsplitter (level 16) charges you at the e
+  03_HallOfThanes.lua:50  [Charge]  [OC]Knock Away knockback AoE and a charge that stuns a random player. Fight him in the tunnel you came through so the knockbacks push you into a wall, not into 
+  04_LochModan2.lua:28  [hunter]  [OC]Wait: A Hunter's Challenge has a 12 minute timer from when you accepted it; if it has expired, abandon it and re-take it from Daryl first
+  04_LochModan2.lua:47  [Brawler]  [O]GROUP 2+ Grawmug's cave: the western of the two caves at the south end of Stonesplinter Valley, take the right-hand path deep in. Kill [TAR1205 Grawmug], [TA
+  05_Westfall.lua:23  [leather]  At the lumber mill at [TAR878 Scout Galiaan], [QA153 Red Leather Bandanas] [G54,53 Westfall]
+  05_Westfall.lua:75  [leather]  [O]Ongoing: loot Red Leather Bandanas from every Defias for 15 [QC153]
+  05_Westfall.lua:92  [warrior]  Kill 7 [TAR171 Murloc Warrior] on the beach north of the quarry [QC152,2] [G28,38 Westfall]
+  07_Deadmines.lua:101  [2H]  [OC]At 66% and 33% he stuns everyone and runs to his chest to swap weapons - stand where the stun is harmless, he hits hardest with the 2H
+  08_RuinsOfLordaeron.lua:3  [Spirit]  [D Forever Druid 1-30 (Braedyn)\\Level-20 errands in Stormwind, the Windborne Cat Spirit quests in Darnassus and Moonglade (Cat Form), the boats from Rut'theran
+  08_RuinsOfLordaeron.lua:29  [Spirit]  [OC]Swim from the Dalaran shore north across Lordamere Lake until the zone text says Tirisfal Glades. The ruined city on the shore ahead is the Ruins of Lordaer
+  08_RuinsOfLordaeron.lua:37  [shield]  [OC]? Crest of Lordaeron (95189) - normal, a clickable crest lying on the ground (several possible spots along the route - look for the glinting shield); click 
+  09_LochModanMenethil.lua:18  [Brawler]  [O]In the western of the two caves at the south end of Stonesplinter Valley (right-hand path, deep in), kill [TAR1205 Grawmug] and his guards [TAR1206 Gnasher] 
+  09_LochModanMenethil.lua:55  [Charge]  [O]Swim to the base of the dam and stir the Disarming Mixture into the Explosive Charge [QT280] [QA283 A Dark Threat Looms] [G50.6,14.3 Loch Modan]
+  10_Redridge2.lua:49  [hunter, warrior]  [OC]East  -  from x 64 the road runs through Shadowhide gnolls: Gnolls 22-23 on the west side (x 64-72), Brutes 23-24 on the north slope (73.5,41), Slayers and 
+  10_Redridge2.lua:61  [warrior]  [OC]Label - slow: the DB lists four pendant droppers (Gnoll, Brute, Slayer, Darkweaver - not the Warriors) but no drop chance. Stay on the 22-24 gnolls (Gnolls 
+  11_Darkshore.lua:73  [warrior]  At [TAR270269 Arbal], [QA98013 Swelling Forces] (12 Myrmidons, 8 Sorceresses, 6 Warriors on the far north coast - trip 4, normal) [G43.7,76.5 Darkshore]
+  11_Darkshore.lua:97  [warrior]  [OC]The Blackwood ritual is normal (objects and one level 19 fight): each sample you take spawns a furbolg warrior that attacks - kill it before the next. If Xa
+  11_Darkshore.lua:105  [warrior]  Kill 12 [TAR2181 Stormscale Myrmidon], 8 [TAR2182 Stormscale Sorceress] and 6 [TAR2183 Stormscale Warrior] [QC98013] [G59.6,21 Darkshore]
+  11_Darkshore.lua:123  [shaman]  [OC]Kerlonian follows you along the road to Maestra's Post and lies down to nap now and then: use the Horn to wake him (it expires after 25 minutes - restart wi
+  12_Ashenvale.lua:29  [shaman, Totemic]  [OC]Go north-west to Thistlefur village: Shamans, Avengers, Totemics and Ursa (23-24) in packs - pull one pack at a time and never into the next hut. Rorgish Jo
+  12_Ashenvale.lua:33  [warrior]  Kill [TAR3739 Saltspittle Warrior] and the other Saltspittle murlocs (19-21) for a Glowing Gem [QC1023] [G20.6,42.3 Ashenvale]
+  12_Ashenvale.lua:40  [Totemic, warrior]  At [TAR3691 Raene Wolfrunner], [QT1023] [QT1054] [QA1025 An Aggressive Defense] (Raene's Cleansing part 3, 1024, is taken in chapter 20 to keep the log free) (1
+  12_Ashenvale.lua:59  [shaman]  [OC]The Foulweald den is a few steps north-east of the refuge: furbolgs 23-25 in packs, the shamans heal - kill them first
+  12_Ashenvale.lua:60  [Totemic, warrior]  Kill 1 [TAR3746 Foulweald Den Watcher], 2 [TAR3749 Foulweald Ursa], 10 [TAR3750 Foulweald Totemic] and 12 [TAR3743 Foulweald Warrior] [QC1025] [G52.5,61.5 Ashen
+  14_Duskwood.lua:20  [totem]  At [TAR265 Madame Eva], [QA66 The Legend of Stalvan] [QA101 The Totem of Infliction] (10 Ghoul Fangs, 10 Skeleton Fingers and 5 Vials of Spider Venom: normal - 
+  14_Duskwood.lua:24  [warrior]  At [TAR264 Commander Althea Ebonlocke], [QA56 The Night Watch] (8 Skeletal Warriors and 6 Skeletal Mages in the south-east graveyard: normal) [G73.5,46.8 Duskwo
+  14_Duskwood.lua:36  [warrior]  Kill 8 Skeletal Warriors and 6 Skeletal Mages in the graveyard [QC56] [G79.3,70.5 Duskwood]
+  14_Duskwood.lua:54  [shaman, Spirit, shield]  [OC]The follow-up quest's text says you 'put down the Valor family ghosts', so expect spirits to attack when you take the tome (not in the DB). The Valor family
+  15_Stockade.lua:54  [shield]  [OC]Kam Deepfury (27 elite Dark Iron dwarf, a cell in the right wing): Shield Slam stuns his target for 2 seconds and hits hard, and Improved Blocking raises hi
+  16_RedridgeEastvale.lua:47  [warrior]  Kill [TAR703 Lieutenant Fangore] for his paw - normal (level 26, not elite, with Shadowhide Warriors 24-25 and Brutes around him) [QC180] [G75.1,37.1 Redridge M
+  16_RedridgeEastvale.lua:48  [warrior]  [OC]Item start, luck: a Glowing Shadowhide Pendant drops from Fangore and from every Shadowhide gnoll type here (Gnoll, Rabid Gnoll, Brute, Assassin, Warrior, S
+  16_RedridgeEastvale.lua:71  [Int]  [O]Northshire Abbey is a 4-minute walk north-west: at [TAR951 Brother Paxton] in the library, [QT347] [QA346 Return to Kristoff] (970 XP now; Kristoff in Cathed
+  17_Duskwood2.lua:70  [warrior]  [OC]Ogre Thieves (134): Abercrombie's Crate sits in the Vul'Gol ogre camp, 45 units south (Splinter Fist ogres: Fire Weavers 26-27 are casters, Taskmasters 27-2
+  17_Duskwood2.lua:72  [warrior]  [O]If you hold Merrick's Bow, right-click it [QA96138 Merrick's Bow] and kill 8 Splinter Fist Warriors and 4 Splinter Fist Taskmasters right here [QC96138] [G35
+  21_AshenvaleEast.lua:49  [Charge]  Walk to the Hidden Shrine a few steps south-east and use it to charge the rod [QT1028] [QA1055 Raene's Cleansing] (1,700 XP; you receive Dartol's Rod of Transfo
+  22_ExcavationSite.lua:32  [hunter]  [OC]? Highland Hides (98815) - grind risk: 4 Thicket Raptor Hides from Shadetooth and the Thicket Lurkers, Hunters and Matriarchs; the DB has no rates (kami-lab
+  22_ExcavationSite.lua:35  [Spirit]  [OC]The run  -  Saltspine first, on the crocolisk lake of the Lost Marsh. Young Riptooths come in threes with Fatal Bite (kill one at a time, no full AoE), Mars
+  23_Hillsbrad.lua:47  [Leatherworking]  [O]At [TAR2438 Bartolo Ginsetti], [QA565 Bartolo's Yeti Fur Cloak] (2,700 XP, requires level 29: a Bolt of Woolen Cloth (Tailoring, or fished from the Schooner 
+  23_Hillsbrad.lua:57  [leather]  [O]GROUP 3+ In Crushridge Hold loot the Worn Leather Book from the Weathered Bookcase and the Recovered Tomes from the ogres [QC540] [G38.4,46.4 Alterac Mountai
+  25_LooseEnds30.lua:31  [shield]  [OC]GROUP 3+ Morbent Fel is a level 32 elite (~3,609 HP in the Classic DB) in his house on the Forlorn Rowe, 9 units east of Sven. Classic sources: Presence of 
+  26_RazorfenKraul.lua:33  [pet]  [OC]The gopher (Classic-era): inside the Kraul, use the Crate with Holes to summon a Snufflenose Gopher (a crate holds up to five; one is enough). Use the Comma
+  26_RazorfenKraul.lua:35  [Spirit]  [OC]If you wipe (Classic-era): the nearest graveyard is Camp Taurajo, 30 units north of the entrance: release, take the Spirit Healer there and ghost back down 
+  26_RazorfenKraul.lua:40  [shaman, Totemic, hunter, warrior]  [OC]The run  -  Icy Veins' route (Classic-era): stay on the top level and do not drop into the trench until Charlga is dead. Order: Roogug (optional), Aggem Tho
+  26_RazorfenKraul.lua:43  [Spirit]  [OC]Aggem Thorncurse (30 elite): Chain Heal and a summoned Boar Spirit; interrupt the heals and kill the spirit first. Icy Veins lists no other mechanics
+  26_RazorfenKraul.lua:50  [totem]  [OC]Earthcaller Halmgar (32 rare elite, may not spawn; Icy Veins puts him on the platforms after Ramtusk): Earthbind Totem (kill it), Lightning Bolt and a summo
