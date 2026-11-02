@@ -21,3 +21,12 @@ Plan and sources: docs\forever-db-plan-2026-10-29.md. Nothing reads these yet (f
   on TaxiNodes.csv ID). Moonglade: node 62 "Nighthaven, Moonglade" -> 27 Rut'theran Village at cost 0 (the druid-only flight, Silva
   Fil'naveth); node 49 "Moonglade" <-> 26 Auberdine (830c), 52 Everlook, 65 Talonbranch Glade (the general flight master, Sindrayl).
   TaxiPathNode (11k rows) was not pinned.
+
+1.60.1.70753/  (build of 2 Nov 2026, fetched 2 Nov 2026) - all twelve tables (the five standard ones + TaxiPath + the six of the
+               shaman sheet). Diff from 70707: QuestXP, QuestInfo, TaxiNodes, SkillLine, SkillRaceClassInfo, Talent, TalentTab
+               identical; Item.csv +3 ids (289439, 289559, 289560), 277277 flag change; TaxiPath -2 paths (3275<->3276, Alterac?);
+               SkillLineAbility 20 lines (druid: Ferocious Bite 1328618 at 24 and Lacerate 1328617 at 25 / 1328616 at 34 trainer rows,
+               Primal Bite rows re-chained; new Command ranks for hunters, Enchant Boots - Speed); SpellLevels 47 lines (Primal Bite
+               407995 25 -> 40, 1238069/70 50/60; new Echo of Light/Wisdom, Turn Evil, Holy Shield rows); SpellName 72 lines (new
+               paladin/priest/druid spell names, Camping 1327906). Wowhead XP re-pulled for all 25 route zones after this build:
+               no XP, level or reward change in any zone.

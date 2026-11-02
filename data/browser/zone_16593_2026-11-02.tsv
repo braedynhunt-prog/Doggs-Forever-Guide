@@ -1,0 +1,147 @@
+ZONE	/forever/zone=16593
+92460	1	1	40	3	16593	-2		0	4294967296	new	0		264908	Coming of Age
+92461	1	1	80	3	16593	-2		0	4294967296	new	15	257281,257280		Harmony in Balance
+92462	2	1	170	3	16593	-2		0	4294967296	new	35			Infestation Investigation
+92463	3	2	315	3	16593	-2		0	4294967296	new	100	263408,263409,263410		The Cirrusfly Queen
+92464	3	2	25	3	16593	-2		0	4294967296	new	0			Elemental Unrest
+92465	3	2	250	3	16593	-2		0	4294967296	new	50			Agitators
+92466	4	3	270	2	16593	-2		0	0	new	0			Call of Earth
+92467	4	3	180	2	16593	-2		1088	32	new	0			Call of Earth
+92468	4	3	355	2	16593	-2		1088	32	new	0		5175	Call of Earth
+92469	4	3	35	3	16593	-2		0	4294967296	new	0	257277,257272		Return to Rorian
+92470	5	2	560	3	16593	-2		0	4294967296	new	100	258882,257282,257283,257276,273879		Foul Matriarch
+92471	4	4	35	3	16593	-2		0	4294967296	new	0			Aetheen of the Gales
+92472	5	3	225	3	16593	-2		0	4294967296	new	0			The Next Step
+92473	4	3	355	3	16593	-2		0	4294967296	new	0	257257,257264,257263		Aggressive Encroachment
+92474	2	2	85	3	16593	-2		0	4294967296	new	0			Falling With Style
+92481	2	2	85	1	-161	4		0	4294967296	new	0			A Student of the Arcane
+92482	2	2	85	3	-261	4		4	4294967312	new	0			The Way of the Hunter
+92483	2	2	85	3	-162	4		0	4294967296	new	0			At Home in the Shadows
+92484	2	2	85	2	-82	4		0	0	new	0			Embracing the Elements
+92485	2	2	85	3	-263	4		0	4294967296	new	0			A Student of Nature
+92514	6	4	135	2	16593	-2		0	0	new	0			Welcome to Shen'dar Village
+92515	6	4	540	3	16593	-2		0	4294967296	new	125		256935	The Problem With Prideclaws
+92516	7	4	630	3	16593	-2		0	4294967296	new	175			Hippogryph Harassment
+92517	7	4	475	3	16593	-2		0	4294967296	new	175	263421,263422,263423		The Criminal Element
+92528	8	5	350	3	16593	-2		0	4294967296	new	0	257332,257333,273877		Among the Faithful
+92529	8	5	350	3	16593	-2		0	4294967296	new	0			Falaath Village
+92532	2	2	85	3	-81	4		1	4294967328	new	0			The Warrior's Path
+92544	5	2	560	3	16593	-2		0	4294967296	new	0			Al'Aketh Thugs
+92550	8	5	700	3	16593	-2		0	4294967296	new	225	263424,263425,263426		Havoc in the Highlands
+92551	8	5	530	3	16593	-2		0	4294967296	new	225			Stolen Supplies
+92553	6	4	405	3	16593	-2		0	4294967296	new	65		263511,263509	Restocking the Larders
+92579	8	6	175	2	16593	-2		0	32	new	0	263414,263417,263420		To Valanaar
+92595	6	4	135	2	16593	-2		0	32	new	0			The Windshapers
+92596	6	4	135	1	16593	-2		0	4294967296	new	0			The High Order
+92597	4	2	180	1	16593	-2		0	4294967296	new	0			Reading the Leylines
+92598	4	2	180	2	16593	-2		0	0	new	0			The Gift of Skysight
+92640	11	6	660	3	16593	-2		0	4294967296	new	0	257344,257342,273876		Desperate Times
+92642	11	6	440	3	16593	-2		0	4294967296	new	0			Disrupting Logistics
+92643	11	6	660	3	16593	-2		0	4294967296	new	0			The Turncoat
+92644	11	6	440	3	16593	-2		0	4294967296	new	0	263330,263332,263333		Unfortunate News
+92645	11	6	660	3	16593	-2		0	4294967296	new	300	263335,263336,263337		Breaking the Breaker
+92646	12	7	455	2	16593	-2		0	0	new	1000	263405,263406,263407,273875		Confront Lorthuna
+92679	9	5	390	3	16593	-2		0	4294967296	new	0			Blood Tithe
+92682	9	5	780	3	16593	-2		0	4294967296	new	0		252032	Make Yourself Useful
+92683	9	5	590	3	16593	-2		0	4294967296	new	0		263329,2455	Flutterfly Dust
+92684	9	5	590	3	16593	-2		0	4294967296	new	0	257340,257331,257334	252032	Ornery Ornery Galestriders
+92685	9	5	780	3	16593	-2		0	4294967296	new	0		252032	The Hills Have Eyes
+92693	9	5	195	3	16593	-2		0	4294967296	new	0		252032	Standing Our Ground
+92698	9	5	195	3	16593	-2		0	4294967296	new	0			What Is My Purpose?
+92699	9	4	80	1	16593	-2		0	4294967296	new	0			The Supreme Magister
+92700	9	4	80	2	16593	-2		0	32	new	0			The Grand Skyseer
+92701	9	6	80	1	16593	-2		0	4294967296	new	0			To Valanaar
+92703	9	5	590	3	16593	-2		0	4294967296	new	0	263312,263314,263313		Deliver the News
+92708	12	7	90	2	16593	-2		0	0	new	0			A Grand Adventure
+92709	12	7	90	1	16593	-2		0	4294967296	new	0			A Grand Adventure
+92727	10	4	210	1	16593	-2		0	4294967296	new	0			The Missing Scholar
+92741	13	8	910	1	16593	-2		0	4294967296	new	0			Unwelcome Visitors
+92834	11	6	880	1	16593	-2		0	4294967296	new	400	263401,263402,263403		Avenged Tenfold
+92840	11	5	880	1	16593	-2		0	4294967296	new	400		263404,3382	Catching Wind
+92849	10	4	840	1	16593	-2		0	4294967296	new	0			The Missing Scholar
+92850	10	4	840	1	16593	-2		0	4294967296	new	700			The Missing Scholar
+92860	12	6	225	1	16593	-2		0	4294967296	new	0			In Service of Zephras
+92871	11	6	220	2	16593	-2		0	0	new	0			In Service of Zephras
+92880	11	6	440	3	16593	-2		0	4294967296	new	0	257345,257346,257343		Return to Valanaar
+92881	11	6	90	3	16593	-2		0	4294967296	new	0			The High Elder's Request
+92947	12	7	910	3	16593	-2		0	4294967296	new	500			Making Our Move
+93036	8	5	70	3	16593	-2		0	4294967296	new	0			Infiltrating the Cult
+93065	12	7	455	3	16593	-2		0	4294967296	new	0			Prepare for Battle
+93089	13	7	90	1	16593	-2		0	4294967296	new	0			What Comes Next
+93090	13	7	455	2	16593	-2		0	0	new	0			What Comes Next
+93159	13	8	230	3	16593	-2		0	4294967328	new	0			The Strange Hermit
+93160	13	8	680	3	16593	-2		0	4294967296	new	0			The Forest's Bounty
+93165	13	8	910	3	16593	-2		0	4294967332	new	400	263306,263307,263308		Mercy Falls on Deaf Ears
+93172	13	8	680	3	16593	-2		0	4294967296	new	0	263309,263310,263311		Free the Hollows
+93173	11	6	220		16593	-2		0	0	new	0			(UNUSED) The Rusty Gadget
+93317	9	4	590	3	16593	-2		0	4294967296	new	200		263513,263512	Crab Season
+93318	9	4	780	3	16593	-2	1	0	4294967296	new	600	257943,257255		WANTED: Vulgara the Insatiable
+93319	7	4	475	3	16593	-2		0	4294967296	new	175			Pilfered Windstones
+93320	11	6	440	3	16593	-2		0	4294967296	new	0	263338,263339,263340		Tower Defense
+93459	13	8		3	16593	-2		0	0	new	0			More Al'Aketh Ears
+93461	6	4	135	1	16593	-2		0	0	new	0			Welcome to Shen'dar Village
+93552	4	2	355	3	16593	-2		0	4294967296	new	75	247840,247841,247846	255663	Harvesting Windstones
+93735	9	4	590	2	16593	-2		0	0	new	0			The Broken Construct
+93736	9	4	780	2	16593	-2		0	0	new	0			Unwelcome Spirits
+93737	9	4	780	2	16593	-2		0	0	new	0			The Broken Construct
+93738	9	4	590	2	16593	-2		0	0	new	0			The Broken Construct
+93740	11	6	660	2	16593	-2		0	0	new	0			Blood for Blood
+93746	9	4	590	2	16593	-2		0	0	new	0		263305,250339	A Firm Response
+93791	10	10	420	1	-161	4		0	4294967296	new	0			Speak with Belann
+93797	10	10	840	1	-161	4		0	4294967296	new	0		263430,250344	Boughs in the Wind
+93835	12	7	455	1	16593	-2		0	4294967296	new	1000	263405,263406,263407,273875		Confront Lorthuna
+93836	12	7	455	2	16593	-2		0	0	new	0			The Fate of Zephras
+93926	8	5	350	3	16593	-2		0	4294967296	new	0			The Western Watch
+93927	8	5	530	3	16593	-2		0	4294967296	new	225			A Last Request
+93948	9	6	390	3	16593	-2		0	4294967296	new	150			Deliver the Signet
+93949	8	6	700	3	16593	-2		0	4294967296	new	225			Bugged
+93951	7	4	475	3	16593	-2		0	4294967296	new	125			A Little Beauty
+93958	12	7	910	3	16593	-2		0	4294967296	new	500			The Inner Sanctum
+94003	10	10	840	3	-81	4		0	4294967296	new	0		275290	The Skybreaker Bulwark
+94006	10	10	840	3	-263	4		0	4294967296	new	0			The Great Ursera Spirit
+94007	10	10	210	3	-261	4		0	4294967296	new	0			Taming the Beast
+94013	10	10	840	3	-261	4		0	4294967296	new	0			Taming the Beast
+94050	10	10	420	3	-261	4		0	4294967296	new	0			Training the Beast
+94369	12	7	90	1	16593	-2		0	4294967296	new	0			The Fate of Zephras
+94411	6	4	405	2	16593	-2		0	32	new	100	263411,263412		Meddlesome Mages
+94413	6	4	540	1	16593	-2		0	4294967296	new	125		263428,2454	A Magical Affront
+94414	2	2	85	3	16593	-2		0	4294967296	new	0			The Anchors of Zephras
+94484	11	8	220	3	16593	-2		0	4294967296	new	0			Unnerving Silence
+94485	12	8	225	3	16593	-2		0	4294967296	new	0			Tears of the Lady
+94486	11	8	880	3	16593	-2		0	4294967296	new	0			Feathers for Binding
+94487	11	8	880	3	16593	-2		0	4294967296	new	0			Unwanted and Unworthy
+94488	11	8	880	3	16593	-2		0	4294967296	new	0			The Ties That Bind
+94489	12	8	910	3	16593	-2		0	4294967296	new	0			The Wounds of Betrayal
+94490	12	9	910	3	16593	-2		0	0	new	0			Ripped Missive
+94491	12	8	455	3	16593	-2		0	4294967296	new	0			The Fate of the Den
+94493	11	8	220	3	16593	-2		0	0	new	0			A Sacrifice in Vain
+94568	11	6	440	3	16593	-2		0	4294967296	new	400			The Cult's True Plans
+94638	10	10	840	3	-263	4		0	4294967296	new	0			Strength and Mercy
+94896	11	8	880	3	16593	-2		0	4294967296	new	0			Aid For The Refugees
+94897	11	8	880	3	16593	-2		0	4294967296	new	0			The Fate of a Loved One
+94946	13	7	90	1	16593	-2		0	4294967296	new	0			The Magical City of Dalaran
+94978	10	10	840	3	-261	4		0	4294967296	new	0			Taming the Beast
+94979	10	10	840	3	-261	4		0	4294967296	new	0			Taming the Beast
+95349	13	7	90	2	16593	-2		0	0	new	0			The Earthen Ring
+96101	6	4	405	3	-666	-2		0	4294967296	new	0			The Great Outdoors
+96638	6	4	405	3	-666	-2		0	4294967296	new	0			The Adventurer
+96646	6	4	270	3	-666	-2		0	4294967296	new	0			Camping 101: Cooking
+97243	10	10	420	2	-82	4		0	0	new	0			Call of Fire
+97244	10	10	840	2	-82	4		0	0	new	350			Call of Fire
+97245	10	10	840	2	-82	4		0	0	new	0			Call of Fire
+97257	10	10	1050	2	-82	4		0	0	new	350		5176,263412	Call of Fire
+97963	6	4	270	3	-666	-2		0	4294967296	new	0			Camping 101: Alchemy
+97964	6	4	270	3	-666	-2		0	4294967328	new	0			Camping 101: Blacksmithing
+97965	6	4	270	3	-666	-2		0	4294967296	new	0			Camping 101: First Aid
+97967	6	4	270	3	-666	-2		0	4294967296	new	0			Camping 101: Fishing
+97968	6	4	270	3	-666	-2		0	4294967296	new	0			Camping 101: Herbalism
+97969	6	4	270	3	-666	-2		0	4294967296	new	0			Camping 101: Leatherworking
+97970	6	4	270	3	-666	-2		0	4294967296	new	0			Camping 101: Mining
+97971	6	4	270	3	-666	-2		0	4294967296	new	0			Camping 101: Skinning
+97972	6	4	270	2	-666	-2		0	0	new	0			Camping 101: Tailoring
+97973	6	4	270	1	-666	-2		0	4294967296	new	0			Camping 101: Tailoring
+98284	6	4	270	2	-666	-2		0	0	new	0			Camping 101: Enchanting
+98285	6	4	270	3	-666	-2		0	0	new	0			Camping 101: Engineering
+98286	6	4	270	1	-666	-2		0	4294967296	new	0			Camping 101: Enchanting
+98512	11	6	880	3	16593	-2		0	4294967296	new	0			Al'Aketh Assassins
+99260	10	5	85	1	16593	-2		0	4294967296	new	0			Fillion's Mission

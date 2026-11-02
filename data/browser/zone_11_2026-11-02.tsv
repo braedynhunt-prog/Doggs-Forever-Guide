@@ -1,0 +1,108 @@
+ZONE	/forever/zone=11
+161	18	16	1350	1	38	0		0	0	unchanged	0			A Dark Threat Looms
+270	29	20	1200	1	10	0		0	0	unchanged	0			The Doomed Fleet
+274	18	16	340	1	38	0		0	0	unchanged	0			A Dark Threat Looms
+275	26	20	2650	1	11	0		0	0	updated	0	3558,1273,2263		Blisters on the Land
+276	21	20	1250	1	11	0		0	0	unchanged	0			Tramping Paws
+277	23	20	1850	1	11	0		0	0	unchanged	0		4606	Fire Taboo
+279	22	20	1750	1	11	0		0	0	unchanged	1400			Claws from the Deep
+281	25	20	510	1	11	0		0	0	unchanged	0		929	Reclaiming Goods
+284	25	20	510	1	11	0		0	0	unchanged	0		422	The Search Continues
+285	25	20	1000	1	11	0		0	0	unchanged	0			Search More Hovels
+286	25	20	1500	1	11	0		0	0	unchanged	0	2950,2949		Return the Statuette
+288	27	22	220	1	11	0		0	0	unchanged	0			The Third Fleet
+289	29	22	1750	1	11	0		0	0	unchanged	1900			The Cursed Crew
+290	30	22	1200	1	11	0		0	0	unchanged	0			Lifting the Curse
+292	30	22	1200	1	11	0		0	0	unchanged	0			The Eye of Paleth
+293	30	22	2450	1	11	0		0	0	unchanged	0		2943	Cleansing the Eye
+294	24	22	1950	1	11	0		0	0	unchanged	1700			Ormer's Revenge
+295	27	22	2200	1	11	0		0	0	updated	2200			Ormer's Revenge
+296	29	22	2950	1	11	0		0	0	updated	0	3493,3566,5246,270039	3682	Ormer's Revenge
+299	27	22	2200	1	11	0		0	0	updated	2200		2913	Uncovering the Past
+303	30	25	2450	1	11	0	1	0	0	unchanged	2500			The Dark Iron War
+304	34	26	3350	1	11	0	1	0	0	updated	0	2916,2917,270050		A Grim Task
+305	24	21	970	1	11	0		0	0	updated	0			In Search of the Excavation Team
+306	24	21	485	1	11	0		0	0	updated	0			In Search of the Excavation Team
+321	29	20	590	1	10	0		0	0	unchanged	0		2702	Lightforge Iron
+322	29	20	1200	1	10	0		0	0	unchanged	0			Blessed Arm
+324	29	20	1750	1	10	0		0	0	unchanged	0			The Lost Ingots
+378	27	22	2750	1	717	2	81	0	0	updated	0	3562,1264,270036		The Fury Runs Deep
+455	21	19	1250	1	11	0		0	0	unchanged	1000			The Algaz Gauntlet
+462	1	1			11	0		0	0	unchanged	0			<UNUSED>
+463	21	20	830	1	11	0		0	0	unchanged	0			The Greenwarden
+464	28	23	2300	1	11	0		0	0	unchanged	2500			War Banners
+465	31	23	1900	1	11	0		0	0	updated	0			Nek'rosh's Gambit
+468	21	19	165	1	11	0		0	0	unchanged	0			Report to Mountaineer Rockgar
+469	21	18	830	1	11	0		0	0	unchanged	700			Daily Delivery
+470	24	19	2400	1	11	0		0	0	unchanged	3500		3352	Digging Through the Ooze
+471	26	18	2100	1	11	0		0	0	unchanged	0	2545,3561	3681	Apprentice's Duties
+472	30	25	1200	1	11	0		0	0	updated	0			Fall of Dun Modr
+473	28	23	230	1	11	0		0	0	unchanged	0			Report to Captain Stoutfist
+474	32	23	2550	1	11	0	1	0	0	updated	0	3209,6194,287067		Defeat Nek'rosh
+484	22	18	1750	1	11	0		0	0	updated	1400			Young Crocolisk Skins
+526	29	20	1750	1	10	0		0	0	unchanged	0			Lightforge Ingots
+631	31	26	2500	1	11	0	1	0	0	updated	0			The Thandol Span
+632	31	26	2500	1	11	0		0	0	updated	0			The Thandol Span
+633	31	26	2500	1	11	0		0	0	updated	0	4504,4505		The Thandol Span
+634	31	28	1250	1	11	0		0	0	updated	0			Plea to the Alliance
+647	30	28	3050	1	11	0		0	0	unchanged	5500			MacKreel's Moonshine
+942	20	15	1550	1	148	1		0	0	unchanged	0			The Absent Minded Prospector
+943	24	15	2400	1	148	1		0	0	updated	0	5627,5626,270022		The Absent Minded Prospector
+1132	30	30	1200	1	11	0		0	0	updated	0			Fiora Longears
+1248	33	28	660	1	1519	0		0	0	unchanged	0			The Missing Diplomat
+1249	33	28	1300	1	1519	0		0	0	unchanged	0			The Missing Diplomat
+1250	33	28	265	1	1519	0		0	0	updated	0			The Missing Diplomat
+1264	33	28	1300	1	1519	0		0	0	unchanged	0			The Missing Diplomat
+1301	35	30	690	1	1519	0		0	0	unchanged	0			James Hyal
+1302	35	30	690	1	11	0		0	0	unchanged	0			James Hyal
+8827	1	1	10	1	-1001	9		0	0	unchanged	0			Winter's Presents
+8828	1	1	10	2	-1001	9		0	0	unchanged	0			Winter's Presents
+8860	60	1		1	-1006	9		0	0	unchanged	900			New Year Celebrations!
+8861	60	1		2	-1006	9		0	0	unchanged	900			New Year Celebrations!
+87318	33	28	2650	1	11	0	1	0	0	new	0			Hearts of the Lost
+87491	30	25	2450	1	11	0	1	0	0	new	2500			Spark of Freedom
+88756	31	25	2500	1	11	0	1	0	4294967372	new	3000		6714	Bring Back a Bang
+88757	33	28	2650	1	11	0	1	0	0	new	0			Accessories of the Lost
+88758	33	28	2650	1	11	0	1	0	0	new	0		281258	Sentiments of the Lost
+94219	60	1		3	16941	0		0	0	new	0			Craftsman's Writ: Draught of Water Breathing
+94228	60	1		3	16941	0		0	0	new	0			Craftsman's Writ: Green Iron Boots
+94237	60	1		3	16941	0		0	0	new	0		284584	Craftsman's Writ: Crafted Solid Shot
+94246	60	1		3	16941	0		0	0	new	0			Craftsman's Writ: Red Whelp Gloves
+94255	60	1		2	16941	0		0	0	new	0		284584	Craftsman's Writ: Spider Silk Slippers
+94495	22	20	435	1	-82	4		64	68	new	0			Call of Water
+94497	22	20	870	1	-82	4		64	68	new	0			Call of Water
+94499	22	20	1300	1	-82	4		64	68	new	0			Call of Water
+94500	23	20	1400	1	-82	4		64	68	new	0			Call of Water
+94501	23	20	460	1	-82	4		64	68	new	0		6637	Call of Water
+95646	31	24	3150	1	16732	2	81	0	4294967372	new	0	271667,271670,271664		Horrors in the Highland
+95647	31	24	2500	1	16732	2	81	0	4294967372	new	0			Lost in the Thicket Things
+95663	31	24	250	2	16732	2	81	0	0	new	0			Dragonmaw Rumors
+95682	31	24	3150	2	16732	2	81	0	0	new	0	271740,271732	271745	Open the Maw
+95737	31	24	630	1	16732	2	81	0	0	new	0			Seeking Caitlin
+95809	31	24	3150	1	16732	2	81	0	0	new	0	1710,3827	2459,280766	Heartwoven
+95810	31	24	630	1	16732	2	81	0	0	new	0			Lost Relic Carry
+98072	27	19	2200	1	11	0		0	4294967372	new	0			Crocs of the Sky
+98189	25	20	200	1	11	0		0	4294967372	new	0			Return the Statuette
+98190	25	20	200	1	1519	0		0	4294967372	new	0			A Friend of the Family
+98197	22	18	1750	1	11	0		0	4294967372	new	1400			Spoils of War
+98208	29	22	2350	1	11	0		0	4294967372	new	2500		281318	Bloom of the Heavens
+98209	29	22	1200	1	11	0		0	4294967372	new	1300			Bloom of the Heavens
+98216	31	23	3150	1	11	0	1	0	0	new	0	281304,281305		Understanding Our Present
+98221	28	23	2300	1	11	0		0	4294967372	new	0			From the Ashes
+98223	31	23	1250	1	11	0		0	0	new	0	281306,281307		Old Habits
+98230	29	22	235	1	11	0		0	0	new	0			This Land Was Their Land
+98240	29	19	1200	1	11	0		0	0	new	1300			Crimson Crate Delivery
+98245	29	21	2350	1	11	0		0	4294967372	new	0			Razormaw Needling
+98246	29	21	2350	1	11	0		0	4294967372	new	0			Trying Times
+98282	22	20	1750	1	11	0		0	4294967372	new	0		6453	Alchemical Hazards
+98283	30	22	3050	1	11	0	1	0	0	new	0	281309,281310		Carnage
+98291	30	22	3050	1	11	0	1	0	0	new	1400			Death to the Dragonmaw
+98293	30	22	2450	1	11	0	1	0	0	new	0			Forced Disarmament
+98297	34	24	2700	1	11	0	1	0	0	new	0	281312,281313,281314		Stopping the Cycle
+98300	34	24	2700	1	1537	0		0	0	new	1700			Word to Ironforge
+98310	32	24	3200	1	11	0	1	0	0	new	1600	281319,281320,281321		Gleaning Our Future
+98313	32	24		1	1537	0		0	0	new	0			For Further Study
+98459	21	18	165	1	11	0		0	0	new	0			A Lack of Virtue
+98461	21	18	165	1	11	0		0	4294967372	new	125			Unrequited Love
+98815	28	24	1150	1	16732	2	81	0	4294967372	new	1200			Highland Hides
+98824	31	24	3150	1	16732	2	81	0	0	new	6000	271716,271767,271766		Prehistoric Prism

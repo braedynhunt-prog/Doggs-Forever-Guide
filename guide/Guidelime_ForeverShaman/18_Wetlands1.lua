@@ -44,7 +44,7 @@ At [TAR270844 Sylessa Duskwhisper], [QT98208] [QA98209 Bloom of the Heavens] (1,
 At [TAR2096 Tarrel Rockweaver] on the road in, [QA305 In Search of The Excavation Team] (970 XP) [G11.5,52.2 Wetlands]
 
 [OC]|cffffffffNorth bay (optional, 2,100 XP)|r  -  Apprentice's Duties (471) from chapter 09, if it is still in your log: ~30 units up the shore and the same back, with 13 level 25-26 crocs standing in the bay. If you skip it, abandon the quest [QS471]
-[O]Walk north along the shore to the bay and kill [TAR2089 Giant Wetlands Crocolisk] (level 25-26, non-elite) for 6 Giant Crocolisk Skins - the DB gives no rate, 13 spawns, |cffffcc00budget ~15 kills|r [QC471] [G19.0,24.8 Wetlands]
+[O]Walk north along the shore to the bay and kill [TAR2089 Giant Wetlands Crocolisk] (level 25-26, non-elite) for 6 Giant Crocolisk Skins - the DB gives no rate, 19 spawns, |cffffcc00budget ~15 kills|r [QC471] [G19.0,24.8 Wetlands]
 [O]Back in Menethil at [TAR2094 James Halloran], [QT471] - |cffffcc00Gear:|r Resilient Poncho (cloak +5 Sta) if your cloak has no stats; Malleable Chain Leggings are mail: pass [G8.6,55.7 Wetlands]
 
 [OC]|cffffffffWhelgar's Excavation Site|r  -  at the end of the road east of here (about 3 minutes). The valley is raptor country (level 22-29, non-elite), safe at 28. The Goaz Warders standing all over the dig site (55+ in the DB) are level 32 ELITES; they look like dormant statues that only wake when a Goaz Stone is used on one, but the DB does not say so: keep your distance unless you carry the stone

@@ -20,7 +20,7 @@
    "source": "Forever client DB2 tables as CSV from wago.tools, pinned per build",
    "local_read": "highest build-named subfolder of tooling/client",
    "upstream": {"method": "GET", "url": "https://wago.tools/api/builds", "read": "key \"wowf\": list of {version, created_at}; newest by created_at"},
-   "tables": ["QuestXP", "SkillLineAbility", "QuestInfo", "TaxiNodes", "Item"],
+   "tables": ["QuestXP", "SkillLineAbility", "QuestInfo", "TaxiNodes", "Item", "TaxiPath", "SkillLine", "SkillRaceClassInfo", "SpellLevels", "SpellName", "Talent", "TalentTab"],
    "pull": [
     "mkdir tooling/client/{build}",
     "for each T in {tables}: curl -A \"Mozilla/5.0\" -o tooling/client/{build}/<T>.csv \"https://wago.tools/db2/<T>/csv?build={build}\"",
