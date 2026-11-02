@@ -16,3 +16,8 @@ Forever client tables (DB2 -> CSV) from wago.tools, pinned per build. Fetched wi
                          keep only gear a 2H Enhancement shaman can wear. ItemSparse is NOT pinned: it lacks many Classic items.
 
 Plan and sources: docs\forever-db-plan-2026-10-29.md. Nothing reads these yet (fetch_client.py / simulate_xp.py are planned, not built).
+
+2 Nov 2026 - TaxiPath.csv pulled into 1.60.1.70707/ for the druid guide (flight connections: FromTaxiNode, ToTaxiNode, Cost; join
+  on TaxiNodes.csv ID). Moonglade: node 62 "Nighthaven, Moonglade" -> 27 Rut'theran Village at cost 0 (the druid-only flight, Silva
+  Fil'naveth); node 49 "Moonglade" <-> 26 Auberdine (830c), 52 Everlook, 65 Talonbranch Glade (the general flight master, Sindrayl).
+  TaxiPathNode (11k rows) was not pinned.
