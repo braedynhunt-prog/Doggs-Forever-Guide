@@ -60,8 +60,12 @@ At [TAR903 Guard Howe] on the road to Three Corners, [QT128] [G26.4,57.9 Redridg
 Follow the road south-west to Three Corners and on into Elwynn (~2 minutes to the border) [G10.2,72.0 Redridge Mountains]
 [OC]|cffffcc00Merchant camp|r is right here (10,72): sell, hand in any Waylaid Supplies to [TAR256389 Tamelyn Aldridge] (10.4,71.4) and glance at Auctioneer Quickcoin (9.4,71.8) for a cheap mail or shield upgrade
 At [TAR294 Marshal Haggard] in the Eastvale Logging Camp, [QT74] [QA75 The Legend of Stalvan] [G84.6,69.4 Elwynn Forest]
+[O][A Warrior] Also at [TAR294 Marshal Haggard], [QT1666] [QA1667 Dead-tooth Jack] (840 XP: his badge is in Dead-tooth's Strongbox south-east of the camp) [G84.6,69.4 Elwynn Forest]
 Upstairs in his house, open Marshal Haggard's Chest for the Faded Journal Page [QC75] [G85.7,69.5 Elwynn Forest]
 Back with [TAR294 Marshal Haggard], [QT75] [QA78 The Legend of Stalvan] (570 XP: Tavernkeep Smitts in Darkshire, chapter 17) [G84.6,69.4 Elwynn Forest]
+[O][A Warrior] South-east of the camp, loot Dead-tooth's Strongbox for Marshal Haggard's Badge (the Forever DB puts the badge in the chest with no named mob - unverified) [QC1667] [G89.3,78.9 Elwynn Forest]
+[O][A Warrior] Back at [TAR294 Marshal Haggard], [QT1667] (840 XP) [G84.6,69.4 Elwynn Forest]
+[OC][A Warrior] |cffffcc00Gear (1667):|r Haggard's Axe / Hammer / Sword / Dagger are level-10 weapons (7.6-7.8 dps +1 Sta) - XP only at 27, take any and vendor it
 At the Tower of Azora, [TAR313 Theocritus] takes the Pendant of Shadow [QT249] (2,750 XP) [G65.2,69.7 Elwynn Forest]
 [OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Shadow Gauntlets|r (mail hands +5 Str +4 Sta)
 [O]At [TAR313 Theocritus], if a Glowing Shadowhide Pendant dropped, right-click it [QA178 Theocritus' Retrieval] and hand it in [QT178] (1,400 XP, and Restoring Balm: a 180 HP heal over 12 seconds, 2 minute cooldown) [G65.2,69.7 Elwynn Forest]

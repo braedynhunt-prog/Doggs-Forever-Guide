@@ -9,6 +9,8 @@ At [TAR2409 Felicia Maline], |cFFfff8a3Fly to [F Stormwind]|r [G77.5,44.3 Duskwo
 [OC]|cffffffffStormwind round|r  -  you land on the gate ramp. The loop: Old Town, the Auction House, Cathedral Square, the Keep, the Dwarven District, the tram to Ironforge and back, then the Stockade door. Nothing on it needs a fight
 In Old Town at [TAR1721 Nikova Raskol], [QA388 The Color of Blood] (10 Red Wool Bandanas, dropped inside the Stockade: |cff66ff66normal|r, see the run notes) [G76.4,63.7 Stormwind City]
 At [TAR5479 Wu Shen] in Old Town, [T] train your level 24 (if you skipped it) and level 26 abilities [G80.6,59.9 Stormwind City]
+[O][A Warrior] In the Pig and Whistle at [TAR6090 Bartleby], [QA1665 Bartleby's Mug] (420 XP; only if you beat him on the join leg) [G76.8,52.6 Stormwind City]
+[O][A Warrior] At [TAR6089 Harry Burlguard] beside him, [QT1665] [QA1666 Marshal Haggard] (420 XP at the Eastvale Logging Camp next chapter) [G77.1,53.3 Stormwind City]
 At the Auction House buy 3 [CI4306,3 Silk Cloth] for Tyrion's Items of Some Consequence later in this chapter (the DB lists no mob drops for silk, so buying is quicker than hunting it) [G61.1,70.7 Stormwind City]
 [O]At [TAR1444 Brother Kristoff] in Cathedral Square, [QA343 Speaking of Fortitude] (195 XP: the first step of a 4-quest errand worth ~2,000 XP - Keep library, Northshire, Lakeshire, back to Northshire, ending here in chapter 18; skip the whole thing if you like) [G55.0,54.2 Stormwind City]
 At [TAR7917 Brother Sarno], [QA2923 Tinkmaster Overspark] (210 XP, the door to the Gnomeregan quests: Overspark stands in Ironforge) [G51.0,48.4 Stormwind City]
@@ -92,6 +94,6 @@ At [TAR1646 Baros Alexston], [QT395] [QA396 An Audience with the King] [G57.7,47
 In the Keep at [TAR1749 Lady Katrana Prestor], [QT396] (3,750 XP) [G80.1,38.2 Stormwind City]
 [OC]|cffffcc00Gear (396):|r Seal of Wrynn (ring +3 Str +3 Agi +4 Sta, unique) - a ring upgrade, wear it
 [OC]|cffffcc00Carried on:|r 386 and 377 are complete (Lakeshire, chapter 16; Darkshire, chapter 17); 74 goes to Eastvale (chapter 16); 98219 to Southshore (chapter 23); optional 345 to Lakeshire (chapter 16) and 538 to Southshore (chapter 23); the Gnomeregan four - 2922, 2927, 2929 and 2928 - wait for chapters 24 and 25; the Dalaran lead-ins 92456 and 92489 ride on into the 30-40 guide
-[OC]|cffffcc00Check:|r log should hold What Comes Around... (386), Crime and Punishment (377), The Legend of Stalvan (74), The Shamed Lieutenant (98219) and the Gnomeregan carries above, plus the older carries from chapters 10-14. Level 27 is close or reached. Next: fly to Lakeshire
+[OC]|cffffcc00Check:|r log should hold What Comes Around... (386), Crime and Punishment (377), The Legend of Stalvan (74), The Shamed Lieutenant (98219), Marshal Haggard (1666, optional) and the Gnomeregan carries above, plus the older carries from chapters 10-14. Level 27 is close or reached. Next: fly to Lakeshire
 [NX 26-27 Redridge and Eastvale]
 ]], "Forever Warrior 1-30")

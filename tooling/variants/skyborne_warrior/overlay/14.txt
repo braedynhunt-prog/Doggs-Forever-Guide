@@ -1,10 +1,10 @@
 # Chapter 14 (Duskwood: Darkshire 25-26), warrior overlay. Block B, written 1 Nov 2026.
 # Dropped: the hunter ammo line (19).
 
-# The Leatherworking decision goes: the warrior keeps Skinning + Mining (plan decision 1 Nov 2026, option 1). Guard's set reagent
-# counts from docs/warrior-build-plan-2026-11-01.md (Execution log: 34 Shadowgem, 22 Pristine Leather for the set to 25).
+# The Leatherworking decision goes: the warrior keeps Skinning + Mining (plan decision 1 Nov 2026, option 1). The Guard's set
+# sentence was cut 1 Nov 2026 (second pass) (its pieces are bind on pickup, so the AH remark was wrong; the reason for no Blacksmithing is in 00s).
 @replace TAR263384
-[OC]|cffffcc00Level 25 - professions:|r keep Skinning + Mining to 30. The Guard's mail set (Blacksmithing, bind on pickup; about 34 Shadowgem and 22 Pristine Leather for the set) is not worth switching for - check the Auction House for a cheap Guard's piece only out of curiosity
+[OC]|cffffcc00Level 25 - professions:|r keep Skinning + Mining to 30
 
 # "Night Watch Gauntlets are mail: vendor them" is leather-wearer text; for a warrior they are the call (3559: mail hands 107 armor +4 Str +1 Agi, tooltip 2026-11-01; fixed reward, so no generated line).
 @replace QT245

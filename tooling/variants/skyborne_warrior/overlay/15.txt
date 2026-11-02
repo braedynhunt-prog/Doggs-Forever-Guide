@@ -90,3 +90,13 @@ In the Keep at [TAR1749 Lady Katrana Prestor], [QT396] (3,750 XP) [G80.1,38.2 St
 # source line 55: shaman/hunter/two-player wording reworded for the warrior.
 @replace T (28 elite ogre mage, at the
 [OC]|cffffcc00Hamhock|r (28 elite ogre mage, at the end of the wing with 2 Defias): Chain Lightning is interruptible and he Bloodlusts himself and his adds (+30% speed, purgeable). Kill the two Defias, then interrupt him and purge the Bloodlust if anyone can, and stay spread so the chain jumps less
+
+# Bartleby's Mug / Marshal Haggard (1665/1666), 1 Nov 2026 (second pass): the optional Classic warrior chain continues from the join leg's duel;
+# Bartleby 6090 @76.76,52.55 and Harry Burlguard 6089 @77.13,53.26 in the Pig and Whistle, after the Wu Shen stop. 1666 hands in at Eastvale (16).
+@after QA388
+[O][A Warrior] In the Pig and Whistle at [TAR6090 Bartleby], [QA1665 Bartleby's Mug] (420 XP; only if you beat him on the join leg) [G76.8,52.6 Stormwind City]
+[O][A Warrior] At [TAR6089 Harry Burlguard] beside him, [QT1665] [QA1666 Marshal Haggard] (420 XP at the Eastvale Logging Camp next chapter) [G77.1,53.3 Stormwind City]
+
+# The end-of-chapter check lists the carried 1666.
+@replace T Gnomeregan carries above
+[OC]|cffffcc00Check:|r log should hold What Comes Around... (386), Crime and Punishment (377), The Legend of Stalvan (74), The Shamed Lieutenant (98219), Marshal Haggard (1666, optional) and the Gnomeregan carries above, plus the older carries from chapters 10-14. Level 27 is close or reached. Next: fly to Lakeshire

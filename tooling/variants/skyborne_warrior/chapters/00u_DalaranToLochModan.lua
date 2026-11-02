@@ -14,6 +14,10 @@ In the Keep's throne room at [TAR1748 Highlord Bolvar Fordragon], [QT94947 Welco
 [OC]|cffffcc00Exploring the Alliance|r (1,150 XP): speak with Randal Emerson here, then Mekkatorque and Magni in Ironforge on this leg; Tyrande Whisperwind waits for the route's Darnassus visit, and Bolvar takes the quest back on a later Stormwind pass (Cloak of the Honored Guest: cloak 14 armor +1 Sta +1 AP). |cffffcc00Journey to Sentinel Hill|r (455 XP) goes to Gryan Stoutmantle when the route reaches Westfall. Both stay in your log
 In the Keep at [TAR275491 Randal Emerson], take his instructions [QC93963,1] [G79,45 Stormwind City]
 [OC]Leave the Keep and head south-east into Old Town
+[O][A Warrior] In the Pig and Whistle tavern at [TAR6089 Harry Burlguard], [QA1639 Bartleby the Drunk] (85 XP, the Classic warrior weapon chain. The quest database lists it for a Skyborne, unverified in game: if Harry offers nothing, skip every Bartleby, Muren Stormpike and Tormus Deepforge line) [G77.1,53.3 Stormwind City]
+[O][A Warrior] At [TAR6090 Bartleby] beside him, [QT1639] [QA1640 Beat Bartleby] (210 XP) [G76.8,52.6 Stormwind City]
+[O][A Warrior] Duel [TAR6090 Bartleby] - he gives up when low, no kill needed [QC1640] [G76.8,52.6 Stormwind City]
+[O][A Warrior] At [TAR6090 Bartleby], [QT1640] - leave his follow-up (Bartleby's Mug) for the chapter-15 Stormwind pass [G76.8,52.6 Stormwind City]
 At [TAR5479 Wu Shen] (warrior trainer, Old Town), [T] train every new rank up to 14 [G80.6,59.9 Stormwind City]
 [OC]Run south-west through the Trade District to the gate ramp
 At flightmaster [TAR352 Dungar Longdrink] on the gate ramp, get the [P Stormwind] flightpoint [G71.0,72.5 Stormwind City]
@@ -23,7 +27,9 @@ At flightmaster [TAR352 Dungar Longdrink] on the gate ramp, get the [P Stormwind
 [OC]|cffffffffIronforge|r  -  the tram arrives at the east end of Tinker Town
 In Tinker Town at [TAR7937 High Tinker Mekkatorque], [QC93963,2] [G68.8,49 Ironforge]
 [O]In the Military Ward (south of Tinker Town) at [TAR5113 Kelv Sternhammer] (warrior trainer), [T] train if you have levelled since Stormwind [G70.3,90.7 Ironforge]
+[O][A Warrior] Beside him at [TAR6114 Muren Stormpike], [QA1680 Tormus Deepforge] (90 XP; opens after Bartleby - if he has nothing for you, skip the Tormus lines) [G70.8,90.3 Ironforge]
 In the High Seat at [TAR2784 King Magni Bronzebeard], [QC93963,3] [G39.1,56.2 Ironforge]
+[O][A Warrior] In the Great Forge at [TAR6031 Tormus Deepforge], [QT1680] [QA1681 Ironband's Compound] (660 XP: Umbral Ore from Ironband's Strongbox at the Dark Iron camp on this leg) [G48.6,42.5 Ironforge]
 In the Great Forge at [TAR1573 Gryth Thurden], get the [P Ironforge] flightpoint [G55.5,47.7 Ironforge]
 [OC]|cffffcc00Trainers for later Ironforge passes:|r Journeyman Skinning (Balthus Stoneflayer 39.9,32.5) and Mining (Geofram Bouldertoe 50.0,26.3) in the Great Forge, Cooking (Daryl Riknussun 60.1,36.4), First Aid (Nissa Firestone 55.1,58.3), Fishing (Grimnur Stonebrand 48.1,6.9, Forlorn Cavern) - each needs skill 50, so none of them is a stop yet
 
@@ -35,12 +41,13 @@ At [TAR264936 Earthseer Farsen], [QT96392 Farsen's Watch] [QA96390 Nip 'Em in th
 [OC]Continue east past the quarry to the Dark Iron camp (Ironband's Compound)
 Kill 10 [TAR6123 Dark Iron Spy] (level 9-10) and keep killing until a Dark Iron Map drops [QC96390] (Forever item, drop rate unknown - budget ~15 more spies after the 10) [G77,60.5 Dun Morogh]
 Use the Dark Iron Map to start [QA96391 Underground Map] [G77,60.5 Dun Morogh]
+[O][A Warrior] Loot Ironband's Strongbox in the camp for the Umbral Ore [QC1681] [G78.0,62.2 Dun Morogh]
 [OC]Run back west to the quarry hill
 At [TAR264936 Earthseer Farsen], [QT96390 Nip 'Em in the Bud] [QT96391 Underground Map] [QA96393 Old Ironforge Incursion] [G64.8,58.4 Dun Morogh]
 [OC]|cffffcc00Old Ironforge Incursion|r is the Hall of Thanes dungeon quest (level 16, handed in to Magni) - it sits in your log until the 15-16 chapter.
 [OC]Run east along the road past the quarry to the fork, then east through the tunnel to South Gate Outpost, and south through the second tunnel of South Gate Pass into Loch Modan [G86.3,48.8 Dun Morogh]
 [OC]|cffffffffFinished: Dalaran to Loch Modan|r  -  continue with 11-15 Loch Modan (you arrive at the bunker just outside the pass)
 [OC]|cffffcc00Catch-up:|r nothing on this leg is crowd-tagged. If the Dark Iron Map never dropped, Farsen's camp is on this road and the Dark Iron camp 5 minutes east of it - the Hall of Thanes chapter needs Old Ironforge Incursion
-[OC]|cffffcc00Carry-over log:|r Exploring the Alliance (93963: Tyrande in Darnassus, then Bolvar), Journey to Sentinel Hill (98021: Gryan in Westfall), Old Ironforge Incursion (96393: Hall of Thanes).
+[OC]|cffffcc00Carry-over log:|r Exploring the Alliance (93963: Tyrande in Darnassus, then Bolvar), Journey to Sentinel Hill (98021: Gryan in Westfall), Old Ironforge Incursion (96393: Hall of Thanes); optional: Ironband's Compound (1681, Tormus Deepforge on the Ironforge pass in 11-15 Loch Modan).
 [NX 11-15 Loch Modan]
 ]], "Forever Warrior 1-30")

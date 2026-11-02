@@ -328,7 +328,7 @@ profile: prot; generated gear: tooling\variants\skyborne_warrior\generated_gear.
   26_RazorfenKraul.lua:59  [OC]Loot (Charlga): Heart of Agamaggan is a shield and Pronged Reaver a one-hand axe (22.9 dps +5 Str +5 Spi, unique) - pass both (the plan is a two-h
   26_RazorfenKraul.lua:77  [OC]Gear (Mortality Wanes, if it ever drops): Lancer Boots (leather +5 Agi +6 Sta +4 Spi) for both of you. Mourning Shawl (cloak +8 Sta, -4 Spi) and t
 
-== Overlay operations: 291 ==
+== Overlay operations: 296 ==
   02: tooling\variants\skyborne_warrior\overlay\02.txt:4 @before QA224 -> source line 10
   02: tooling\variants\skyborne_warrior\overlay\02.txt:8 @replace QT414 -> source line 34
   02: tooling\variants\skyborne_warrior\overlay\02.txt:12 @delete QA6387 -> source line 38
@@ -349,6 +349,7 @@ profile: prot; generated gear: tooling\variants\skyborne_warrior\generated_gear.
   02: tooling\variants\skyborne_warrior\overlay\02.txt:63 @replace T Take the free ride: -> source line 45
   02: tooling\variants\skyborne_warrior\overlay\02.txt:66 @replace T Take the free ride back: -> source line 69
   02: tooling\variants\skyborne_warrior\overlay\02.txt:70 @delete T Searing Totem|r is your best dps totem -> source line 134
+  02: tooling\variants\skyborne_warrior\overlay\02.txt:74 @before QT6388 -> source line 68
   03: tooling\variants\skyborne_warrior\overlay\03.txt:5 @replace TAR258098 -> source line 10
   03: tooling\variants\skyborne_warrior\overlay\03.txt:10 @delete TAR6291 -> source line 14
   03: tooling\variants\skyborne_warrior\overlay\03.txt:13 @before TAR265002#1 -> source line 32
@@ -497,10 +498,14 @@ profile: prot; generated gear: tooling\variants\skyborne_warrior\generated_gear.
   15: tooling\variants\skyborne_warrior\overlay\15.txt:83 @replace T dungeon range 24-32 (Icy Veins, Method), -> source line 35
   15: tooling\variants\skyborne_warrior\overlay\15.txt:87 @replace T (26 elite, end of the left -> source line 52
   15: tooling\variants\skyborne_warrior\overlay\15.txt:91 @replace T (28 elite ogre mage, at the -> source line 55
+  15: tooling\variants\skyborne_warrior\overlay\15.txt:96 @after QA388 -> source line 10
+  15: tooling\variants\skyborne_warrior\overlay\15.txt:101 @replace T Gnomeregan carries above -> source line 91
   16: tooling\variants\skyborne_warrior\overlay\16.txt:6 @replace TAR956 -> source line 14
   16: tooling\variants\skyborne_warrior\overlay\16.txt:10 @replace TAR256389 -> source line 63
   16: tooling\variants\skyborne_warrior\overlay\16.txt:15 @replace T (x 60-66, y 52-60): the DB -> source line 36
   16: tooling\variants\skyborne_warrior\overlay\16.txt:19 @replace T new in the log: Messenger to -> source line 74
+  16: tooling\variants\skyborne_warrior\overlay\16.txt:24 @after QT74 -> source line 64
+  16: tooling\variants\skyborne_warrior\overlay\16.txt:27 @after QT75 -> source line 66
   17: tooling\variants\skyborne_warrior\overlay\17.txt:5 @after QT58 -> source line 78
   17: tooling\variants\skyborne_warrior\overlay\17.txt:10 @after QT253 -> source line 94
   17: tooling\variants\skyborne_warrior\overlay\17.txt:15 @replace T is a level 31 elite, ~2,310 -> source line 91

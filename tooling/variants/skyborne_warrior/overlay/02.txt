@@ -51,7 +51,7 @@ Loch Modan first pass: Valley of Kings, Thelsamar, a flight to Ironforge for the
 
 # Carry-over log (spec): what the warrior brings from 00u. No Camping 101 is carried (island versions done on Zephras).
 @replace T Carry-over log:|r Stout to Kadrell
-[OC]|cffffcc00Carry-over log:|r Old Ironforge Incursion (96393, Hall of Thanes), Exploring the Alliance (93963: Tyrande in Darnassus, then Bolvar), Journey to Sentinel Hill (98021: Gryan in Westfall).
+[OC]|cffffcc00Carry-over log:|r Old Ironforge Incursion (96393, Hall of Thanes), Exploring the Alliance (93963: Tyrande in Darnassus, then Bolvar), Journey to Sentinel Hill (98021: Gryan in Westfall); optional: Ironband's Compound (1681, Tormus Deepforge on this chapter's Ironforge pass).
 
 # Call of Fire is the shaman's class quest.
 @delete T Call of Fire:|r Fire Tar drops
@@ -68,3 +68,9 @@ Loch Modan first pass: Valley of Kings, Thelsamar, a flight to Ironforge for the
 
 # Searing Totem note: shaman only.
 @delete T Searing Totem|r is your best dps totem
+
+# Grey Iron Weapons (1682), 1 Nov 2026 (second pass): the optional Classic warrior weapon chain started on the join leg (Bartleby -> Muren -> Tormus);
+# Tormus Deepforge 6031 @48.64,42.48 in the Great Forge, before the flight back. Scored with the prot weights (weights/tooltips/2026-11-01.json).
+@before QT6388
+[O][A Warrior] In the Great Forge at [TAR6031 Tormus Deepforge], [QT1681] [QA1682 Grey Iron Weapons] [QT1682] (630 XP) [G48.6,42.5 Ironforge]
+[OC][A Warrior] |cffffcc00Gear (1682):|r |cff66ff66Umbral Axe|r (1H axe 7.8 dps +1 Sta); the Mace, Sword and Dagger are 7.6-7.7 dps +1 Sta, so take whichever your weapon skill covers - any of them beats Quickblade's Dagger (6.8 dps) until the Invader's Mace at the end of this chapter

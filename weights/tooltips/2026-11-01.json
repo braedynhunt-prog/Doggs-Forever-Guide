@@ -1067,6 +1067,22 @@
   "id": 17046,
   "tooltip": "Gutterblade | Item Level 31 | Binds when picked upOne-HandAxe |     25 - 46 Damage |     Speed 2.20 | (16.14 damage per second) | +3 Strength | +3 Stamina | Durability 75 / 75Sell Price: 47 96"
  },
+ "Haggard's Axe": {
+  "id": 6979,
+  "tooltip": "Haggard's Axe | Item Level 15 | Binds when picked upMain HandAxe |     14 - 28 Damage |     Speed 2.70 | (7.78 damage per second) | +1 Stamina | Durability 50 / 50Classes: WarriorSell Price: 6 75"
+ },
+ "Haggard's Dagger": {
+  "id": 6980,
+  "tooltip": "Haggard's Dagger | Item Level 15 | Binds when picked upOne-HandDagger |     9 - 17 Damage |     Speed 1.70 | (7.65 damage per second) | +1 Stamina | Durability 35 / 35Classes: WarriorSell Price: 6 77"
+ },
+ "Haggard's Hammer": {
+  "id": 6983,
+  "tooltip": "Haggard's Hammer | Item Level 15 | Binds when picked upMain HandMace |     12 - 23 Damage |     Speed 2.30 | (7.61 damage per second) | +1 Stamina | Durability 50 / 50Classes: WarriorSell Price: 6 85"
+ },
+ "Haggard's Sword": {
+  "id": 6985,
+  "tooltip": "Haggard's Sword | Item Level 15 | Binds when picked upMain HandSword |     11 - 21 Damage |     Speed 2.10 | (7.62 damage per second) | +1 Stamina | Durability 50 / 50Classes: WarriorSell Price: 6 90"
+ },
  "Hamhock's Cleaver": {
   "id": 273809,
   "tooltip": "Hamhock's Cleaver | Item Level 30 | Binds when picked upMain HandAxe |     29 - 54 Damage |     Speed 2.20 | (18.86 damage per second) | +4 Strength | Durability 90 / 90Requires Level 25 | Equip: +8 Attack Power. | Equip: +9 Attack Power against Humanoids. | Sell Price: 56 44 | Dropped by: Hamhock | Drop Chance: 1.75%"

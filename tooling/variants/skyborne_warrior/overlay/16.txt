@@ -18,3 +18,13 @@ At [TAR956 Dorin Songblade], [QA95772 Songblade Search] (requires level 24; his 
 # source line 74: shaman/hunter/two-player wording reworded for the warrior.
 @replace T new in the log: Messenger to
 [OC]|cffffcc00Check:|r new in the log: Messenger to Darkshire (145), The Legend of Stalvan (78), Songblade Search (95772) and, if you took the detour, Return to Kristoff (346). Next: Darkshire
+
+# Dead-tooth Jack (1667), 1 Nov 2026 (second pass): end of the optional Classic warrior chain. Marshal Haggard 294 @84.61,69.38; the badge is in
+# Dead-tooth's Strongbox (object 85563 @89.33,78.88 Elwynn) - the Forever DB has no Dead-tooth Jack NPC. Weapons scored with the prot weights.
+@after QT74
+[O][A Warrior] Also at [TAR294 Marshal Haggard], [QT1666] [QA1667 Dead-tooth Jack] (840 XP: his badge is in Dead-tooth's Strongbox south-east of the camp) [G84.6,69.4 Elwynn Forest]
+
+@after QT75
+[O][A Warrior] South-east of the camp, loot Dead-tooth's Strongbox for Marshal Haggard's Badge (the Forever DB puts the badge in the chest with no named mob - unverified) [QC1667] [G89.3,78.9 Elwynn Forest]
+[O][A Warrior] Back at [TAR294 Marshal Haggard], [QT1667] (840 XP) [G84.6,69.4 Elwynn Forest]
+[OC][A Warrior] |cffffcc00Gear (1667):|r Haggard's Axe / Hammer / Sword / Dagger are level-10 weapons (7.6-7.8 dps +1 Sta) - XP only at 27, take any and vendor it
