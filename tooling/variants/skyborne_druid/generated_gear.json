@@ -1,0 +1,7659 @@
+{
+ "generated": "2026-11-02",
+ "variant": "skyborne_druid",
+ "profile": "feral",
+ "class_tag": "Druid",
+ "tooltips": [
+  "weights/tooltips/2026-11-02.json dated 2026-11-02 - 678 items taken",
+  "weights/tooltips/2026-11-01.json dated 2026-11-01 - 0 items taken",
+  "weights/tooltips/2026-10-29.json dated 2026-10-29 - 0 items taken",
+  "weights/item_tooltips.json dated 2026-09-24 (sources.json fallback_date) - 0 items taken"
+ ],
+ "quests": [
+  {
+   "chapter": "00s",
+   "file": "00s_ZephrasIsle1.lua",
+   "line": 27,
+   "qid": 92461,
+   "quest": "Harmony in Balance",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Vuldren Hide Bracers"
+   ],
+   "pick_ids": [
+    257280
+   ],
+   "conservative_best": "Vuldren Hide Bracers",
+   "text": "[OC][A Druid] |cffffcc00Gear (92461):|r take |cff66ff66Vuldren Hide Bracers|r (leather wrist)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257281,
+     "name": "Fur-Lined Shoes",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 0.35,
+     "conservative": 0.21,
+     "describe": "cloth feet"
+    },
+    {
+     "id": 257280,
+     "name": "Vuldren Hide Bracers",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 0.75,
+     "conservative": 0.45,
+     "describe": "leather wrist"
+    }
+   ]
+  },
+  {
+   "chapter": "00s",
+   "file": "00s_ZephrasIsle1.lua",
+   "line": 43,
+   "qid": 92463,
+   "quest": "The Cirrusfly Queen",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Exterminator's Vest"
+   ],
+   "pick_ids": [
+    263408
+   ],
+   "conservative_best": "Exterminator's Vest",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Exterminator's Vest|r (leather chest)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263408,
+     "name": "Exterminator's Vest",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 1.65,
+     "conservative": 0.99,
+     "describe": "leather chest"
+    },
+    {
+     "id": 263409,
+     "name": "Gardening Pants",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 0.45,
+     "conservative": 0.27,
+     "describe": "cloth legs"
+    },
+    {
+     "id": 263410,
+     "name": "Watcher's Mail Chest",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 3.35,
+     "conservative": 2.01,
+     "describe": "mail chest"
+    }
+   ]
+  },
+  {
+   "chapter": "00s",
+   "file": "00s_ZephrasIsle1.lua",
+   "line": 46,
+   "qid": 93552,
+   "quest": "Harvesting Windstones",
+   "band": 10,
+   "status": "not_gear",
+   "pick": [],
+   "pick_ids": [],
+   "conservative_best": null,
+   "text": null,
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 247840,
+     "name": "Mining for Dummies",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    },
+    {
+     "id": 247841,
+     "name": "Wild Harvest",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    },
+    {
+     "id": 247846,
+     "name": "Pelt Collecting for Beginners",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    }
+   ]
+  },
+  {
+   "chapter": "00s",
+   "file": "00s_ZephrasIsle1.lua",
+   "line": 49,
+   "qid": 92469,
+   "quest": "Return to Rorian",
+   "band": 10,
+   "status": "nothing",
+   "pick": [],
+   "pick_ids": [],
+   "conservative_best": "Windblown Short Cloak",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r nothing for a druid - vendor",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257277,
+     "name": "Windblown Short Cloak",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "cloak"
+    },
+    {
+     "id": 257272,
+     "name": "Skychain Belt",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 1.9,
+     "conservative": 1.14,
+     "describe": "mail waist"
+    }
+   ]
+  },
+  {
+   "chapter": "00s",
+   "file": "00s_ZephrasIsle1.lua",
+   "line": 65,
+   "qid": 92473,
+   "quest": "Aggressive Encroachment",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Thendal Ranger's Belt"
+   ],
+   "pick_ids": [
+    257263
+   ],
+   "conservative_best": "Thendal Ranger's Belt",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Thendal Ranger's Belt|r (leather waist)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257257,
+     "name": "Thendal Ranger's Shoes",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 2.3,
+     "conservative": 1.38,
+     "describe": "mail feet"
+    },
+    {
+     "id": 257264,
+     "name": "Thendal Ranger's Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 0.3,
+     "conservative": 0.18,
+     "describe": "cloth hands"
+    },
+    {
+     "id": 257263,
+     "name": "Thendal Ranger's Belt",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 0.95,
+     "conservative": 0.57,
+     "describe": "leather waist"
+    }
+   ]
+  },
+  {
+   "chapter": "00s",
+   "file": "00s_ZephrasIsle1.lua",
+   "line": 67,
+   "qid": 92470,
+   "quest": "Foul Matriarch",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Novice's Quarterstaff"
+   ],
+   "pick_ids": [
+    257282
+   ],
+   "conservative_best": "Novice's Quarterstaff",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Novice's Quarterstaff|r (staff 2.7 dps)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 258882,
+     "name": "Worn Greatsword",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "sword (druid cannot use)",
+     "central": 37.38,
+     "conservative": 26.7,
+     "describe": "2H sword 2.7 dps"
+    },
+    {
+     "id": 257282,
+     "name": "Novice's Quarterstaff",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Staff",
+     "usable": true,
+     "note": "2H",
+     "central": 37.52,
+     "conservative": 26.8,
+     "describe": "staff 2.7 dps"
+    },
+    {
+     "id": 257283,
+     "name": "Scout Ranger's Dagger",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Dagger",
+     "usable": true,
+     "note": "1H",
+     "central": 28.0,
+     "conservative": 20.0,
+     "describe": "dagger 2.0 dps"
+    },
+    {
+     "id": 257276,
+     "name": "Peacekeeper's Pickhammer",
+     "tooltip": true,
+     "slot": "Main Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "1H",
+     "central": 27.44,
+     "conservative": 19.6,
+     "describe": "1H mace 2.0 dps"
+    },
+    {
+     "id": 273879,
+     "name": "Refined Shortbow",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Bow",
+     "usable": false,
+     "note": "bow (druid cannot use)",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "bow 2.1 dps"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 58,
+   "qid": 92517,
+   "quest": "The Criminal Element",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Bandit's Jerkin"
+   ],
+   "pick_ids": [
+    263421
+   ],
+   "conservative_best": "Bandit's Jerkin",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Bandit's Jerkin|r (leather chest)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263421,
+     "name": "Bandit's Jerkin",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 2.05,
+     "conservative": 1.23,
+     "describe": "leather chest"
+    },
+    {
+     "id": 263422,
+     "name": "Patchwork Leggings",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 0.6,
+     "conservative": 0.36,
+     "describe": "cloth legs"
+    },
+    {
+     "id": 263423,
+     "name": "Highlands Mail Legguards",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 3.55,
+     "conservative": 2.13,
+     "describe": "mail legs"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 68,
+   "qid": 92528,
+   "quest": "Among the Faithful",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Stained Ritual Dagger"
+   ],
+   "pick_ids": [
+    257332
+   ],
+   "conservative_best": "Stained Ritual Dagger",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Stained Ritual Dagger|r (dagger 4.4 dps)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257332,
+     "name": "Stained Ritual Dagger",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Dagger",
+     "usable": true,
+     "note": "1H",
+     "central": 61.74,
+     "conservative": 44.1,
+     "describe": "dagger 4.4 dps"
+    },
+    {
+     "id": 257333,
+     "name": "Curved Scimitar",
+     "tooltip": true,
+     "slot": "Main Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "sword (druid cannot use)",
+     "central": 60.06,
+     "conservative": 42.9,
+     "describe": "1H sword 4.3 dps"
+    },
+    {
+     "id": 273877,
+     "name": "Windswept Shortbow",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Bow",
+     "usable": false,
+     "note": "bow (druid cannot use)",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "bow 3.4 dps"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 97,
+   "qid": 93318,
+   "quest": "WANTED: Vulgara the Insatiable",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Hunter's Simple Cloak"
+   ],
+   "pick_ids": [
+    257943
+   ],
+   "conservative_best": "Hunter's Simple Cloak",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Hunter's Simple Cloak|r (cloak +1 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257943,
+     "name": "Hunter's Simple Cloak",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 1.9,
+     "conservative": 1.44,
+     "describe": "cloak +1 Sta"
+    },
+    {
+     "id": 257255,
+     "name": "Highlands Defender's Shield",
+     "tooltip": true,
+     "slot": "Off Hand",
+     "cls": "Shield",
+     "usable": false,
+     "note": "shield (druid cannot use)",
+     "central": 8.3,
+     "conservative": 5.78,
+     "describe": "shield 126 armor 3 block +1 Str"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 99,
+   "qid": 92550,
+   "quest": "Havoc in the Highlands",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Wolfhide Belt"
+   ],
+   "pick_ids": [
+    263424
+   ],
+   "conservative_best": "Wolfhide Belt",
+   "text": "[OC][A Druid] |cffffcc00Gear (92550):|r take |cff66ff66Wolfhide Belt|r (leather waist)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263424,
+     "name": "Wolfhide Belt",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 1.45,
+     "conservative": 0.87,
+     "describe": "leather waist"
+    },
+    {
+     "id": 263425,
+     "name": "Elegant Cuffs",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 0.4,
+     "conservative": 0.24,
+     "describe": "cloth wrist"
+    },
+    {
+     "id": 263426,
+     "name": "Ex-Commander's Gauntlets",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 3.2,
+     "conservative": 1.92,
+     "describe": "mail hands"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 136,
+   "qid": 92684,
+   "quest": "Ornery Ornery Galestriders",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Well-Worn Pants"
+   ],
+   "pick_ids": [
+    257334
+   ],
+   "conservative_best": "Well-Worn Pants",
+   "text": "[OC][A Druid] |cffffcc00Gear (92684):|r take |cff66ff66Well-Worn Pants|r (leather legs)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257340,
+     "name": "Farmer's Field Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 0.65,
+     "conservative": 0.39,
+     "describe": "cloth feet"
+    },
+    {
+     "id": 257331,
+     "name": "Brass-Banded Bracers",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 2.25,
+     "conservative": 1.35,
+     "describe": "mail wrist"
+    },
+    {
+     "id": 257334,
+     "name": "Well-Worn Pants",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 2.3,
+     "conservative": 1.38,
+     "describe": "leather legs"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 147,
+   "qid": 92703,
+   "quest": "Deliver the News",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Planting Shovel"
+   ],
+   "pick_ids": [
+    263312
+   ],
+   "conservative_best": "Planting Shovel",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Planting Shovel|r (2H mace 7.0 dps +1 Str)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263312,
+     "name": "Planting Shovel",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "2H",
+     "central": 100.0,
+     "conservative": 72.0,
+     "describe": "2H mace 7.0 dps +1 Str"
+    },
+    {
+     "id": 263314,
+     "name": "Roofing Hammer",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "1H",
+     "central": 76.08,
+     "conservative": 54.4,
+     "describe": "1H mace 5.4 dps +1 Spi"
+    },
+    {
+     "id": 263313,
+     "name": "Trusty Wrench",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "1H",
+     "central": 75.12,
+     "conservative": 53.8,
+     "describe": "1H mace 5.3 dps +1 Agi"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 162,
+   "qid": 93320,
+   "quest": "Tower Defense",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Defender's Bracers"
+   ],
+   "pick_ids": [
+    263338
+   ],
+   "conservative_best": "Defender's Bracers",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Defender's Bracers|r (leather wrist +1 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263338,
+     "name": "Defender's Bracers",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 2.9,
+     "conservative": 2.04,
+     "describe": "leather wrist +1 Sta"
+    },
+    {
+     "id": 263339,
+     "name": "Windswept Slippers",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 1.25,
+     "conservative": 0.91,
+     "describe": "cloth feet +2 Spi"
+    },
+    {
+     "id": 263340,
+     "name": "Peacekeeper's Legguards",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 9.25,
+     "conservative": 6.39,
+     "describe": "mail legs +3 Agi"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 168,
+   "qid": 92645,
+   "quest": "Breaking the Breaker",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Hunter's Cord"
+   ],
+   "pick_ids": [
+    263335
+   ],
+   "conservative_best": "Hunter's Cord",
+   "text": "[OC][A Druid] |cffffcc00Gear (92645):|r take |cff66ff66Hunter's Cord|r (leather waist +2 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263335,
+     "name": "Hunter's Cord",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 4.8,
+     "conservative": 3.48,
+     "describe": "leather waist +2 Sta"
+    },
+    {
+     "id": 263336,
+     "name": "Windsong Bangles",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 0.55,
+     "conservative": 0.33,
+     "describe": "cloth wrist"
+    },
+    {
+     "id": 263337,
+     "name": "Breaker's Gauntlets",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 8.05,
+     "conservative": 6.43,
+     "describe": "mail hands +2 Str"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 172,
+   "qid": 92834,
+   "quest": "Avenged Tenfold",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Martyr's Armor"
+   ],
+   "pick_ids": [
+    263401
+   ],
+   "conservative_best": "Martyr's Armor",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Martyr's Armor|r (leather chest +2 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263401,
+     "name": "Martyr's Armor",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 5.3,
+     "conservative": 3.74,
+     "describe": "leather chest +2 Agi"
+    },
+    {
+     "id": 263402,
+     "name": "Sash of Sorrow",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 0.9,
+     "conservative": 0.66,
+     "describe": "cloth waist +1 Int"
+    },
+    {
+     "id": 263403,
+     "name": "Cilice of Regret",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 5.25,
+     "conservative": 3.95,
+     "describe": "mail waist +1 Str"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 176,
+   "qid": 92880,
+   "quest": "Return to Valanaar",
+   "band": 10,
+   "status": "coin_flip",
+   "pick": [
+    "Honed Greathammer",
+    "Balanced Quarterstaff"
+   ],
+   "pick_ids": [
+    257345,
+    257343
+   ],
+   "conservative_best": "Honed Greathammer",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r |cff66ff66Honed Greathammer|r (2H mace 9.1 dps +2 Str +2 Spi) or |cff66ff66Balanced Quarterstaff|r (staff 8.9 dps +2 Sta +2 Spi), coin flip",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257345,
+     "name": "Honed Greathammer",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "2H",
+     "central": 131.24,
+     "conservative": 95.0,
+     "describe": "2H mace 9.1 dps +2 Str +2 Spi"
+    },
+    {
+     "id": 257346,
+     "name": "Quickblade's Dagger",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Dagger",
+     "usable": true,
+     "note": "1H",
+     "central": 95.84,
+     "conservative": 68.6,
+     "describe": "dagger 6.8 dps +1 Agi"
+    },
+    {
+     "id": 257343,
+     "name": "Balanced Quarterstaff",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Staff",
+     "usable": true,
+     "note": "2H",
+     "central": 127.44,
+     "conservative": 91.4,
+     "describe": "staff 8.9 dps +2 Sta +2 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 187,
+   "qid": 92644,
+   "quest": "Unfortunate News",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Tracker's Pants"
+   ],
+   "pick_ids": [
+    263330
+   ],
+   "conservative_best": "Tracker's Pants",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Tracker's Pants|r (leather legs +3 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263330,
+     "name": "Tracker's Pants",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 6.45,
+     "conservative": 4.71,
+     "describe": "leather legs +3 Agi"
+    },
+    {
+     "id": 263332,
+     "name": "Elder's Tunic",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 2.45,
+     "conservative": 1.95,
+     "describe": "cloth chest +4 Int"
+    },
+    {
+     "id": 263333,
+     "name": "Peacekeeper's Mail",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 10.95,
+     "conservative": 7.47,
+     "describe": "mail chest +3 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 194,
+   "qid": 92640,
+   "quest": "Desperate Times",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Skywatcher's Vestments"
+   ],
+   "pick_ids": [
+    257344
+   ],
+   "conservative_best": "Skywatcher's Vestments",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Skywatcher's Vestments|r (leather chest +1 Agi +2 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 257344,
+     "name": "Skywatcher's Vestments",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 7.45,
+     "conservative": 5.35,
+     "describe": "leather chest +1 Agi +2 Sta"
+    },
+    {
+     "id": 257342,
+     "name": "Elite Peacekeeper's Leggings",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 11.65,
+     "conservative": 9.39,
+     "describe": "mail legs +3 Str"
+    },
+    {
+     "id": 273876,
+     "name": "Broken Cultist Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 1.15,
+     "conservative": 0.85,
+     "describe": "cloth hands +2 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 219,
+   "qid": 93165,
+   "quest": "Mercy Falls on Deaf Ears",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Nightclaw Gloves"
+   ],
+   "pick_ids": [
+    263306
+   ],
+   "conservative_best": "Nightclaw Gloves",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Nightclaw Gloves|r (leather hands +1 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263306,
+     "name": "Nightclaw Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 3.0,
+     "conservative": 2.08,
+     "describe": "leather hands +1 Agi"
+    },
+    {
+     "id": 263307,
+     "name": "Shadowgale Pants",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 0.9,
+     "conservative": 0.54,
+     "describe": "cloth legs"
+    },
+    {
+     "id": 263308,
+     "name": "Cult Hunter's Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 5.45,
+     "conservative": 3.57,
+     "describe": "mail feet +1 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 231,
+   "qid": 93172,
+   "quest": "Free the Hollows",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Freedom Walkers"
+   ],
+   "pick_ids": [
+    263309
+   ],
+   "conservative_best": "Freedom Walkers",
+   "text": "[OC][A Druid] |cffffcc00Gear (93172):|r take |cff66ff66Freedom Walkers|r (leather feet +1 Str)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263309,
+     "name": "Freedom Walkers",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 4.0,
+     "conservative": 3.2,
+     "describe": "leather feet +1 Str"
+    },
+    {
+     "id": 263310,
+     "name": "Sorrowsong Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 0.95,
+     "conservative": 0.69,
+     "describe": "cloth hands +1 Int"
+    },
+    {
+     "id": 263311,
+     "name": "Scuffed Cuffs",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 4.5,
+     "conservative": 3.5,
+     "describe": "mail wrist +1 Str"
+    }
+   ]
+  },
+  {
+   "chapter": "00t",
+   "file": "00t_ZephrasIsle2.lua",
+   "line": 241,
+   "qid": 93835,
+   "quest": "Confront Lorthuna",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Belt of Blades"
+   ],
+   "pick_ids": [
+    263405
+   ],
+   "conservative_best": "Belt of Blades",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Belt of Blades|r (leather waist +2 Str +2 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 263405,
+     "name": "Belt of Blades",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 8.35,
+     "conservative": 7.17,
+     "describe": "leather waist +2 Str +2 Agi"
+    },
+    {
+     "id": 263406,
+     "name": "Empyrean Shoes",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 1.35,
+     "conservative": 0.97,
+     "describe": "cloth feet +2 Spi"
+    },
+    {
+     "id": 263407,
+     "name": "Empyrean Greatsword",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "sword (druid cannot use)",
+     "central": 150.38,
+     "conservative": 109.7,
+     "describe": "2H sword 10.2 dps +4 Str"
+    },
+    {
+     "id": 273875,
+     "name": "Empyrean Treads",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 3.3,
+     "conservative": 2.34,
+     "describe": "leather feet +3 Int"
+    }
+   ]
+  },
+  {
+   "chapter": "02",
+   "file": "02_LochModan.lua",
+   "line": 81,
+   "qid": 307,
+   "quest": "Filthy Paws",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Robe of the Keeper"
+   ],
+   "pick_ids": [
+    3161
+   ],
+   "conservative_best": "Robe of the Keeper",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Robe of the Keeper|r (cloth chest +4 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 3166,
+     "name": "Ironheart Chain",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 13.2,
+     "conservative": 9.12,
+     "describe": "mail chest +4 Sta"
+    },
+    {
+     "id": 3161,
+     "name": "Robe of the Keeper",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 7.4,
+     "conservative": 5.64,
+     "describe": "cloth chest +4 Sta"
+    },
+    {
+     "id": 3160,
+     "name": "Ironplate Buckler",
+     "tooltip": true,
+     "slot": "Off Hand",
+     "cls": "Shield",
+     "usable": false,
+     "note": "shield (druid cannot use)",
+     "central": 16.4,
+     "conservative": 9.84,
+     "describe": "shield 328 armor 5 block"
+    }
+   ]
+  },
+  {
+   "chapter": "02",
+   "file": "02_LochModan.lua",
+   "line": 106,
+   "qid": 257,
+   "quest": "A Hunter's Boast",
+   "band": 10,
+   "status": "nothing",
+   "pick": [],
+   "pick_ids": [],
+   "conservative_best": null,
+   "text": "[OC][A Druid] |cffffcc00Gear:|r nothing for a druid - vendor",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 2903,
+     "name": "Daryl's Hunting Bow",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Bow",
+     "usable": false,
+     "note": "bow (druid cannot use)",
+     "central": 1.2,
+     "conservative": 1.0,
+     "describe": "bow 5.9 dps +1 Agi"
+    },
+    {
+     "id": 2904,
+     "name": "Daryl's Hunting Rifle",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Gun",
+     "usable": false,
+     "note": "gun (druid cannot use)",
+     "central": 2.0,
+     "conservative": 2.0,
+     "describe": "gun 6.4 dps +1 Str"
+    }
+   ]
+  },
+  {
+   "chapter": "02",
+   "file": "02_LochModan.lua",
+   "line": 121,
+   "qid": 416,
+   "quest": "Rat Catching",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Burnt Hide Bracers"
+   ],
+   "pick_ids": [
+    3158
+   ],
+   "conservative_best": "Burnt Hide Bracers",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Burnt Hide Bracers|r (leather wrist)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 3158,
+     "name": "Burnt Hide Bracers",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 1.3,
+     "conservative": 0.78,
+     "describe": "leather wrist"
+    },
+    {
+     "id": 860,
+     "name": "Cavalier's Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 0.8,
+     "conservative": 0.48,
+     "describe": "cloth feet"
+    }
+   ]
+  },
+  {
+   "chapter": "02",
+   "file": "02_LochModan.lua",
+   "line": 149,
+   "qid": 86585,
+   "quest": "Banner of the Fallen",
+   "band": 10,
+   "status": "pick",
+   "pick": [
+    "Invader's Mace"
+   ],
+   "pick_ids": [
+    281254
+   ],
+   "conservative_best": "Invader's Mace",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Invader's Mace|r (1H mace 8.5 dps +2 Str +1 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 281253,
+     "name": "Mountaineer's Greataxe",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Axe",
+     "usable": false,
+     "note": "axe (druid cannot use)",
+     "central": 168.94,
+     "conservative": 122.9,
+     "describe": "2H axe 11.2 dps +3 Str +4 Sta"
+    },
+    {
+     "id": 281254,
+     "name": "Invader's Mace",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "1H",
+     "central": 123.76,
+     "conservative": 89.6,
+     "describe": "1H mace 8.5 dps +2 Str +1 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "03",
+   "file": "03_HallOfThanes.lua",
+   "line": 39,
+   "qid": 96395,
+   "quest": "An Ancient Grudge",
+   "band": 15,
+   "status": "pick",
+   "pick": [
+    "Catacomb Cloak"
+   ],
+   "pick_ids": [
+    279899
+   ],
+   "conservative_best": "Catacomb Cloak",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Catacomb Cloak|r (cloak +2 Sta +7 AP)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 279899,
+     "name": "Catacomb Cloak",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 10.75,
+     "conservative": 9.85,
+     "describe": "cloak +2 Sta +7 AP"
+    },
+    {
+     "id": 279900,
+     "name": "Deepgrave Trousers",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 7.4,
+     "conservative": 5.52,
+     "describe": "leather legs +3 Agi +3 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "03",
+   "file": "03_HallOfThanes.lua",
+   "line": 63,
+   "qid": 96403,
+   "quest": "Important Heirlooms",
+   "band": 15,
+   "status": "pick",
+   "pick": [
+    "Tomb Robber's Gloves"
+   ],
+   "pick_ids": [
+    280096
+   ],
+   "conservative_best": "Tomb Robber's Gloves",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Tomb Robber's Gloves|r (cloth hands +1 Sta +2 Int)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 279898,
+     "name": "Dwarven Tome",
+     "tooltip": true,
+     "slot": "Held In Off-hand",
+     "cls": null,
+     "usable": true,
+     "note": "held in off-hand",
+     "central": 0.2,
+     "conservative": 0.2,
+     "describe": "held in off-hand +1 Spi"
+    },
+    {
+     "id": 280096,
+     "name": "Tomb Robber's Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 3.05,
+     "conservative": 2.37,
+     "describe": "cloth hands +1 Sta +2 Int"
+    }
+   ]
+  },
+  {
+   "chapter": "03",
+   "file": "03_HallOfThanes.lua",
+   "line": 66,
+   "qid": 96394,
+   "quest": "The Restless Dead",
+   "band": 15,
+   "status": "pick",
+   "pick": [
+    "Dusty Belt"
+   ],
+   "pick_ids": [
+    279897
+   ],
+   "conservative_best": "Dusty Belt",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Dusty Belt|r (leather waist +2 Agi +2 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 279897,
+     "name": "Dusty Belt",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 4.85,
+     "conservative": 3.63,
+     "describe": "leather waist +2 Agi +2 Spi"
+    },
+    {
+     "id": 280095,
+     "name": "Cryptwalker Bracers",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 7.85,
+     "conservative": 6.47,
+     "describe": "mail wrist +2 Str +2 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "03",
+   "file": "03_HallOfThanes.lua",
+   "line": 68,
+   "qid": 96393,
+   "quest": "Old Ironforge Incursion",
+   "band": 15,
+   "status": "pick",
+   "pick": [
+    "Ironforge Greathammer"
+   ],
+   "pick_ids": [
+    279895
+   ],
+   "conservative_best": "Ironforge Greathammer",
+   "text": "[OC][A Druid] |cffffcc00Gear (96393):|r take |cff66ff66Ironforge Greathammer|r (2H mace 16.0 dps)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 279894,
+     "name": "Calibrated Blunderbuss",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Gun",
+     "usable": false,
+     "note": "gun (druid cannot use)",
+     "central": 4.5,
+     "conservative": 3.6,
+     "describe": "gun 9.6 dps +3 Sta"
+    },
+    {
+     "id": 279895,
+     "name": "Ironforge Greathammer",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "2H",
+     "central": 223.58,
+     "conservative": 159.7,
+     "describe": "2H mace 16.0 dps"
+    },
+    {
+     "id": 279896,
+     "name": "Deepblaze",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Wand",
+     "usable": false,
+     "note": "wand (druid cannot use)",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "wand 18.5 dps"
+    }
+   ]
+  },
+  {
+   "chapter": "04",
+   "file": "04_LochModan2.lua",
+   "line": 18,
+   "qid": 309,
+   "quest": "Protecting the Shipment",
+   "band": 15,
+   "status": "pick",
+   "pick": [
+    "Foreman Belt"
+   ],
+   "pick_ids": [
+    3217
+   ],
+   "conservative_best": "Foreman Belt",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Foreman Belt|r (cloth waist +2 Sta +2 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 3217,
+     "name": "Foreman Belt",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 4.2,
+     "conservative": 3.28,
+     "describe": "cloth waist +2 Sta +2 Spi"
+    },
+    {
+     "id": 6188,
+     "name": "Mud Stompers",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 9.45,
+     "conservative": 6.57,
+     "describe": "mail feet +3 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "04",
+   "file": "04_LochModan2.lua",
+   "line": 22,
+   "qid": 297,
+   "quest": "Gathering Idols",
+   "band": 15,
+   "status": "nothing",
+   "pick": [],
+   "pick_ids": [],
+   "conservative_best": null,
+   "text": "[OC][A Druid] |cffffcc00Gear:|r nothing for a druid - vendor",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 5241,
+     "name": "Dwarven Flamestick",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Wand",
+     "usable": false,
+     "note": "wand (druid cannot use)",
+     "central": 0.4,
+     "conservative": 0.4,
+     "describe": "wand 13.6 dps +2 Spi"
+    },
+    {
+     "id": 6186,
+     "name": "Trogg Slicer",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "sword (druid cannot use)",
+     "central": 167.74,
+     "conservative": 120.1,
+     "describe": "2H sword 11.9 dps +5 Spi"
+    },
+    {
+     "id": 3154,
+     "name": "Thelsamar Axe",
+     "tooltip": true,
+     "slot": "Main Hand",
+     "cls": "Axe",
+     "usable": false,
+     "note": "axe (druid cannot use)",
+     "central": 129.1,
+     "conservative": 92.5,
+     "describe": "1H axe 9.1 dps +2 Agi"
+    }
+   ]
+  },
+  {
+   "chapter": "04",
+   "file": "04_LochModan2.lua",
+   "line": 46,
+   "qid": 531,
+   "quest": "Vyrin's Revenge",
+   "band": 15,
+   "status": "not_gear",
+   "pick": [],
+   "pick_ids": [],
+   "conservative_best": null,
+   "text": null,
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 3574,
+     "name": "Hunting Ammo Sack",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    },
+    {
+     "id": 3573,
+     "name": "Hunting Quiver",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    }
+   ]
+  },
+  {
+   "chapter": "04",
+   "file": "04_LochModan2.lua",
+   "line": 48,
+   "qid": 217,
+   "quest": "In Defense of the King's Lands",
+   "band": 15,
+   "status": "pick",
+   "pick": [
+    "Frontier Britches"
+   ],
+   "pick_ids": [
+    1436
+   ],
+   "conservative_best": "Frontier Britches",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Frontier Britches|r (leather legs +3 Str +3 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 1436,
+     "name": "Frontier Britches",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 12.8,
+     "conservative": 10.92,
+     "describe": "leather legs +3 Str +3 Agi"
+    },
+    {
+     "id": 6187,
+     "name": "Dwarven Defender",
+     "tooltip": true,
+     "slot": "Off Hand",
+     "cls": "Shield",
+     "usable": false,
+     "note": "shield (druid cannot use)",
+     "central": 22.55,
+     "conservative": 14.43,
+     "describe": "shield 361 armor 6 block +3 Sta"
+    },
+    {
+     "id": 1832,
+     "name": "Lucky Trousers",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 7.35,
+     "conservative": 5.81,
+     "describe": "cloth legs +2 Agi +2 Sta +3 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "05",
+   "file": "05_Westfall.lua",
+   "line": 51,
+   "qid": 9,
+   "quest": "The Killing Fields",
+   "band": 15,
+   "status": "pick",
+   "pick": [
+    "Harvester's Pants"
+   ],
+   "pick_ids": [
+    3578
+   ],
+   "conservative_best": "Harvester's Pants",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Harvester's Pants|r (leather legs +2 Agi +3 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 3578,
+     "name": "Harvester's Pants",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 6.05,
+     "conservative": 4.43,
+     "describe": "leather legs +2 Agi +3 Spi"
+    },
+    {
+     "id": 1561,
+     "name": "Harvester's Robe",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 1.8,
+     "conservative": 1.24,
+     "describe": "cloth chest +2 Spi"
+    },
+    {
+     "id": 276695,
+     "name": "Harvester's Pestslayer",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Bow",
+     "usable": false,
+     "note": "bow (druid cannot use)",
+     "central": 2.7,
+     "conservative": 2.2,
+     "describe": "bow 6.0 dps +1 Agi +1 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "05",
+   "file": "05_Westfall.lua",
+   "line": 66,
+   "qid": 102,
+   "quest": "Patrolling Westfall",
+   "band": 15,
+   "status": "pick",
+   "pick": [
+    "Bracers of the People's Militia"
+   ],
+   "pick_ids": [
+    710
+   ],
+   "conservative_best": "Bracers of the People's Militia",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Bracers of the People's Militia|r (cloth wrist)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 1154,
+     "name": "Belt of the People's Militia",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 3.65,
+     "conservative": 2.19,
+     "describe": "mail waist"
+    },
+    {
+     "id": 710,
+     "name": "Bracers of the People's Militia",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 0.55,
+     "conservative": 0.33,
+     "describe": "cloth wrist"
+    }
+   ]
+  },
+  {
+   "chapter": "05",
+   "file": "05_Westfall.lua",
+   "line": 77,
+   "qid": 92109,
+   "quest": "My First Alchemy Set",
+   "band": 15,
+   "status": "not_gear",
+   "pick": [],
+   "pick_ids": [],
+   "conservative_best": null,
+   "text": null,
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 118,
+     "name": "Minor Healing Potion",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    },
+    {
+     "id": 249905,
+     "name": "Scribbled I.O.U.",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    }
+   ]
+  },
+  {
+   "chapter": "05",
+   "file": "05_Westfall.lua",
+   "line": 80,
+   "qid": 103,
+   "quest": "Keeper of the Flame",
+   "band": 15,
+   "status": "not_gear",
+   "pick": [],
+   "pick_ids": [],
+   "conservative_best": null,
+   "text": null,
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 2455,
+     "name": "Minor Mana Potion",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    },
+    {
+     "id": 118,
+     "name": "Minor Healing Potion",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    }
+   ]
+  },
+  {
+   "chapter": "05",
+   "file": "05_Westfall.lua",
+   "line": 100,
+   "qid": 153,
+   "quest": "Red Leather Bandanas",
+   "band": 15,
+   "status": "pick",
+   "pick": [
+    "Leggings of the People's Militia"
+   ],
+   "pick_ids": [
+    12295
+   ],
+   "conservative_best": "Leggings of the People's Militia",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Leggings of the People's Militia|r (cloth legs +2 Str)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 3511,
+     "name": "Cloak of the People's Militia",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 3.1,
+     "conservative": 2.42,
+     "describe": "cloak +2 Agi"
+    },
+    {
+     "id": 5944,
+     "name": "Greaves of the People's Militia",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 9.45,
+     "conservative": 6.57,
+     "describe": "mail feet +3 Sta"
+    },
+    {
+     "id": 12295,
+     "name": "Leggings of the People's Militia",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 5.2,
+     "conservative": 4.72,
+     "describe": "cloth legs +2 Str"
+    }
+   ]
+  },
+  {
+   "chapter": "06",
+   "file": "06_Redridge.lua",
+   "line": 60,
+   "qid": 89,
+   "quest": "The Everstill Bridge",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Smith's Trousers"
+   ],
+   "pick_ids": [
+    1310
+   ],
+   "conservative_best": "Smith's Trousers",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Smith's Trousers|r (leather legs +4 Str +4 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 1310,
+     "name": "Smith's Trousers",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 14.4,
+     "conservative": 13.2,
+     "describe": "leather legs +4 Str +4 Agi"
+    },
+    {
+     "id": 1303,
+     "name": "Bridgeworker's Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 8.4,
+     "conservative": 8.4,
+     "describe": "mail hands +4 Str +2 Spi"
+    },
+    {
+     "id": 1304,
+     "name": "Riding Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 5.4,
+     "conservative": 4.5,
+     "describe": "cloth hands +3 Agi +3 Int"
+    }
+   ]
+  },
+  {
+   "chapter": "07",
+   "file": "07_Deadmines.lua",
+   "line": 14,
+   "qid": 95065,
+   "quest": "Fishin' Time",
+   "band": 20,
+   "status": "not_gear",
+   "pick": [],
+   "pick_ids": [],
+   "conservative_best": null,
+   "text": null,
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 6290,
+     "name": "Brilliant Smallfish",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    },
+    {
+     "id": 5095,
+     "name": "Rainbow Fin Albacore",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    }
+   ]
+  },
+  {
+   "chapter": "07",
+   "file": "07_Deadmines.lua",
+   "line": 26,
+   "qid": 97237,
+   "quest": "Shelf Picked",
+   "band": 20,
+   "status": "not_gear",
+   "pick": [],
+   "pick_ids": [],
+   "conservative_best": null,
+   "text": null,
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 20709,
+     "name": "Rumsey Rum Light",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    },
+    {
+     "id": 1179,
+     "name": "Ice Cold Milk",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    }
+   ]
+  },
+  {
+   "chapter": "07",
+   "file": "07_Deadmines.lua",
+   "line": 123,
+   "qid": 104,
+   "quest": "The Coastal Menace",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Grayson's Torch"
+   ],
+   "pick_ids": [
+    1172
+   ],
+   "conservative_best": "Grayson's Torch",
+   "text": "[OC][A Druid] |cffffcc00Gear (104):|r take |cff66ff66Grayson's Torch|r (held in off-hand +4 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 1172,
+     "name": "Grayson's Torch",
+     "tooltip": true,
+     "slot": "Held In Off-hand",
+     "cls": null,
+     "usable": true,
+     "note": "held in off-hand",
+     "central": 0.8,
+     "conservative": 0.8,
+     "describe": "held in off-hand +4 Spi"
+    },
+    {
+     "id": 1557,
+     "name": "Buckler of the Seas",
+     "tooltip": true,
+     "slot": "Off Hand",
+     "cls": "Shield",
+     "usable": false,
+     "note": "shield (druid cannot use)",
+     "central": 0.4,
+     "conservative": 0.4,
+     "describe": "shield 411 armor 7 block +2 Spi"
+    },
+    {
+     "id": 5240,
+     "name": "Torchlight Wand",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Wand",
+     "usable": false,
+     "note": "wand (druid cannot use)",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "wand 15.8 dps"
+    }
+   ]
+  },
+  {
+   "chapter": "07",
+   "file": "07_Deadmines.lua",
+   "line": 126,
+   "qid": 14,
+   "quest": "The People's Militia",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Fist of the People's Militia"
+   ],
+   "pick_ids": [
+    1480
+   ],
+   "conservative_best": "Fist of the People's Militia",
+   "text": "[OC][A Druid] |cffffcc00Gear (14):|r take |cff66ff66Fist of the People's Militia|r (1H mace 8.4 dps +2 Str)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 1566,
+     "name": "Edge of the People's Militia",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "sword (druid cannot use)",
+     "central": 159.94,
+     "conservative": 115.1,
+     "describe": "2H sword 11.2 dps +5 Sta"
+    },
+    {
+     "id": 1480,
+     "name": "Fist of the People's Militia",
+     "tooltip": true,
+     "slot": "Main Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "1H",
+     "central": 122.16,
+     "conservative": 88.4,
+     "describe": "1H mace 8.4 dps +2 Str"
+    },
+    {
+     "id": 12296,
+     "name": "Spark of the People's Militia",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Wand",
+     "usable": false,
+     "note": "wand (druid cannot use)",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "wand 12.8 dps"
+    },
+    {
+     "id": 270006,
+     "name": "Boots of the People's Militia",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "leather feet"
+    }
+   ]
+  },
+  {
+   "chapter": "07",
+   "file": "07_Deadmines.lua",
+   "line": 126,
+   "qid": 166,
+   "quest": "The Defias Brotherhood",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Staff of Westfall"
+   ],
+   "pick_ids": [
+    2042
+   ],
+   "conservative_best": "Staff of Westfall",
+   "text": "[OC][A Druid] |cffffcc00Gear (166):|r take |cff66ff66Staff of Westfall|r (staff 15.2 dps +5 Int +6 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 6087,
+     "name": "Chausses of Westfall",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 25.0,
+     "conservative": 25.0,
+     "describe": "mail legs +11 Str +5 Sta"
+    },
+    {
+     "id": 2041,
+     "name": "Tunic of Westfall",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 20.6,
+     "conservative": 17.3,
+     "describe": "leather chest +11 Agi +5 Sta"
+    },
+    {
+     "id": 2042,
+     "name": "Staff of Westfall",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Staff",
+     "usable": true,
+     "note": "2H",
+     "central": 214.58,
+     "conservative": 153.9,
+     "describe": "staff 15.2 dps +5 Int +6 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "07",
+   "file": "07_Deadmines.lua",
+   "line": 131,
+   "qid": 214,
+   "quest": "Red Silk Bandanas",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Scrimshaw Dagger"
+   ],
+   "pick_ids": [
+    2089
+   ],
+   "conservative_best": "Scrimshaw Dagger",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Scrimshaw Dagger|r (dagger 9.7 dps +2 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 2074,
+     "name": "Solid Shortblade",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "sword (druid cannot use)",
+     "central": 134.2,
+     "conservative": 96.6,
+     "describe": "1H sword 9.4 dps +1 Str +1 Sta"
+    },
+    {
+     "id": 2089,
+     "name": "Scrimshaw Dagger",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Dagger",
+     "usable": true,
+     "note": "1H",
+     "central": 137.28,
+     "conservative": 98.4,
+     "describe": "dagger 9.7 dps +2 Sta"
+    },
+    {
+     "id": 6094,
+     "name": "Piercing Axe",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Axe",
+     "usable": false,
+     "note": "axe (druid cannot use)",
+     "central": 185.72,
+     "conservative": 133.6,
+     "describe": "2H axe 12.6 dps +6 Agi"
+    },
+    {
+     "id": 270005,
+     "name": "Monastic Hammer",
+     "tooltip": true,
+     "slot": "Main Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "1H",
+     "central": 90.42,
+     "conservative": 64.7,
+     "describe": "1H mace 6.4 dps +2 Int"
+    }
+   ]
+  },
+  {
+   "chapter": "07",
+   "file": "07_Deadmines.lua",
+   "line": 137,
+   "qid": 168,
+   "quest": "Collecting Memories",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Dusty Mining Gloves"
+   ],
+   "pick_ids": [
+    2036
+   ],
+   "conservative_best": "Dusty Mining Gloves",
+   "text": "[OC][A Druid] |cffffcc00Gear (168):|r take |cff66ff66Dusty Mining Gloves|r (leather hands +3 Str +2 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 2037,
+     "name": "Tunneler's Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 2.2,
+     "conservative": 2.2,
+     "describe": "mail feet +3 Sta +2 Spi"
+    },
+    {
+     "id": 2036,
+     "name": "Dusty Mining Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 9.2,
+     "conservative": 8.6,
+     "describe": "leather hands +3 Str +2 Agi"
+    },
+    {
+     "id": 270007,
+     "name": "Worn Miner's Waistcord",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 1.8,
+     "conservative": 1.8,
+     "describe": "cloth waist +2 Sta +3 Int"
+    }
+   ]
+  },
+  {
+   "chapter": "07",
+   "file": "07_Deadmines.lua",
+   "line": 137,
+   "qid": 167,
+   "quest": "Oh Brother...",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Miner's Workgloves"
+   ],
+   "pick_ids": [
+    270012
+   ],
+   "conservative_best": "Miner's Workgloves",
+   "text": "[OC][A Druid] |cffffcc00Gear (167):|r take |cff66ff66Miner's Workgloves|r (cloth hands +5 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 1893,
+     "name": "Miner's Revenge",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Axe",
+     "usable": false,
+     "note": "axe (druid cannot use)",
+     "central": 183.2,
+     "conservative": 131.2,
+     "describe": "2H axe 13.0 dps +6 Spi"
+    },
+    {
+     "id": 270012,
+     "name": "Miner's Workgloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 3.0,
+     "conservative": 3.0,
+     "describe": "cloth hands +5 Sta"
+    },
+    {
+     "id": 270013,
+     "name": "Miner's Workboots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 1.0,
+     "conservative": 1.0,
+     "describe": "leather feet +5 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "07",
+   "file": "07_Deadmines.lua",
+   "line": 139,
+   "qid": 2040,
+   "quest": "Underground Assault",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Bravo's Armbands"
+   ],
+   "pick_ids": [
+    270015
+   ],
+   "conservative_best": "Bravo's Armbands",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Bravo's Armbands|r (leather wrist +3 Str +3 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 7606,
+     "name": "Polar Gauntlets",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 8.4,
+     "conservative": 8.4,
+     "describe": "mail hands +4 Str +2 Spi"
+    },
+    {
+     "id": 7607,
+     "name": "Sable Wand",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Wand",
+     "usable": false,
+     "note": "wand (druid cannot use)",
+     "central": 0.4,
+     "conservative": 0.4,
+     "describe": "wand 16.9 dps +2 Spi"
+    },
+    {
+     "id": 270015,
+     "name": "Bravo's Armbands",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 10.8,
+     "conservative": 9.9,
+     "describe": "leather wrist +3 Str +3 Agi"
+    },
+    {
+     "id": 270016,
+     "name": "Dreamer's Leggings",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 1.2,
+     "conservative": 1.2,
+     "describe": "leather legs +6 Int"
+    }
+   ]
+  },
+  {
+   "chapter": "08",
+   "file": "08_RuinsOfLordaeron.lua",
+   "line": 51,
+   "qid": 95250,
+   "quest": "Abominable Creatures",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Grave Shroud"
+   ],
+   "pick_ids": [
+    279865
+   ],
+   "conservative_best": "Grave Shroud",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Grave Shroud|r (cloak +3 Str +3 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 279864,
+     "name": "Monstrous Cleaver",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "sword (druid cannot use)",
+     "central": 225.7,
+     "conservative": 165.1,
+     "describe": "2H sword 15.2 dps +6 Sta +10 AP"
+    },
+    {
+     "id": 279865,
+     "name": "Grave Shroud",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 7.8,
+     "conservative": 7.8,
+     "describe": "cloak +3 Str +3 Sta"
+    },
+    {
+     "id": 279867,
+     "name": "Slain Baron's Signet",
+     "tooltip": true,
+     "slot": "Finger",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 1.8,
+     "conservative": 1.8,
+     "describe": "ring +3 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "08",
+   "file": "08_RuinsOfLordaeron.lua",
+   "line": 54,
+   "qid": 95195,
+   "quest": "Bloodied Insignia",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Duty Bound Leggings"
+   ],
+   "pick_ids": [
+    279868
+   ],
+   "conservative_best": "Duty Bound Leggings",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Duty Bound Leggings|r (leather legs +6 Agi +4 Int)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 279868,
+     "name": "Duty Bound Leggings",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 10.4,
+     "conservative": 8.6,
+     "describe": "leather legs +6 Agi +4 Int"
+    },
+    {
+     "id": 279869,
+     "name": "Remembrance Armor",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 9.6,
+     "conservative": 9.6,
+     "describe": "mail chest +3 Str +5 Sta +3 Int"
+    }
+   ]
+  },
+  {
+   "chapter": "08",
+   "file": "08_RuinsOfLordaeron.lua",
+   "line": 56,
+   "qid": 95189,
+   "quest": "Crest of Lordaeron",
+   "band": 20,
+   "status": "not_gear",
+   "pick": [],
+   "pick_ids": [],
+   "conservative_best": null,
+   "text": null,
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 280567,
+     "name": "Small Sack of Gems",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    }
+   ]
+  },
+  {
+   "chapter": "09",
+   "file": "09_LochModanMenethil.lua",
+   "line": 19,
+   "qid": 217,
+   "quest": "In Defense of the King's Lands",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Frontier Britches"
+   ],
+   "pick_ids": [
+    1436
+   ],
+   "conservative_best": "Frontier Britches",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Frontier Britches|r (leather legs +3 Str +3 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 1436,
+     "name": "Frontier Britches",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 10.8,
+     "conservative": 9.9,
+     "describe": "leather legs +3 Str +3 Agi"
+    },
+    {
+     "id": 6187,
+     "name": "Dwarven Defender",
+     "tooltip": true,
+     "slot": "Off Hand",
+     "cls": "Shield",
+     "usable": false,
+     "note": "shield (druid cannot use)",
+     "central": 1.8,
+     "conservative": 1.8,
+     "describe": "shield 361 armor 6 block +3 Sta"
+    },
+    {
+     "id": 1832,
+     "name": "Lucky Trousers",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 5.0,
+     "conservative": 4.4,
+     "describe": "cloth legs +2 Agi +2 Sta +3 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "09",
+   "file": "09_LochModanMenethil.lua",
+   "line": 22,
+   "qid": 531,
+   "quest": "Vyrin's Revenge",
+   "band": 20,
+   "status": "not_gear",
+   "pick": [],
+   "pick_ids": [],
+   "conservative_best": null,
+   "text": null,
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 3574,
+     "name": "Hunting Ammo Sack",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    },
+    {
+     "id": 3573,
+     "name": "Hunting Quiver",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    }
+   ]
+  },
+  {
+   "chapter": "09",
+   "file": "09_LochModanMenethil.lua",
+   "line": 36,
+   "qid": 256,
+   "quest": "WANTED: Chok'sul",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Loch Walkers"
+   ],
+   "pick_ids": [
+    270019
+   ],
+   "conservative_best": "Loch Walkers",
+   "text": "[OC][A Druid] |cffffcc00Gear (256):|r take |cff66ff66Loch Walkers|r (leather feet +4 Agi +3 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 6189,
+     "name": "Durable Chain Shoulders",
+     "tooltip": true,
+     "slot": "Shoulder",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 3.6,
+     "conservative": 3.6,
+     "describe": "mail shoulders +6 Sta"
+    },
+    {
+     "id": 6191,
+     "name": "Kimbra Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 1.4,
+     "conservative": 1.4,
+     "describe": "cloth feet +4 Int +3 Spi"
+    },
+    {
+     "id": 270019,
+     "name": "Loch Walkers",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 7.0,
+     "conservative": 5.8,
+     "describe": "leather feet +4 Agi +3 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "09",
+   "file": "09_LochModanMenethil.lua",
+   "line": 56,
+   "qid": 283,
+   "quest": "A Dark Threat Looms",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Thornblade"
+   ],
+   "pick_ids": [
+    2908
+   ],
+   "conservative_best": "Thornblade",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Thornblade|r (dagger 10.0 dps +3 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 2907,
+     "name": "Dwarven Tree Chopper",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Axe",
+     "usable": false,
+     "note": "axe (druid cannot use)",
+     "central": 182.42,
+     "conservative": 130.3,
+     "describe": "2H axe 13.0 dps"
+    },
+    {
+     "id": 2908,
+     "name": "Thornblade",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Dagger",
+     "usable": true,
+     "note": "1H",
+     "central": 144.8,
+     "conservative": 103.9,
+     "describe": "dagger 10.0 dps +3 Agi"
+    }
+   ]
+  },
+  {
+   "chapter": "09",
+   "file": "09_LochModanMenethil.lua",
+   "line": 83,
+   "qid": 286,
+   "quest": "Return the Statuette",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Icicle Rod"
+   ],
+   "pick_ids": [
+    2950
+   ],
+   "conservative_best": "Icicle Rod",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Icicle Rod|r (staff 12.5 dps +4 Int)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 2950,
+     "name": "Icicle Rod",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Staff",
+     "usable": true,
+     "note": "2H",
+     "central": 175.8,
+     "conservative": 125.8,
+     "describe": "staff 12.5 dps +4 Int"
+    },
+    {
+     "id": 2949,
+     "name": "Mariner Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 5.2,
+     "conservative": 4.9,
+     "describe": "leather feet +1 Agi +6 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "09",
+   "file": "09_LochModanMenethil.lua",
+   "line": 102,
+   "qid": 471,
+   "quest": "Apprentice's Duties",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Resilient Poncho"
+   ],
+   "pick_ids": [
+    3561
+   ],
+   "conservative_best": "Resilient Poncho",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Resilient Poncho|r (cloak +5 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 2545,
+     "name": "Malleable Chain Leggings",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 20.6,
+     "conservative": 19.7,
+     "describe": "mail legs +7 Str +3 Agi +3 Sta"
+    },
+    {
+     "id": 3561,
+     "name": "Resilient Poncho",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 3.0,
+     "conservative": 3.0,
+     "describe": "cloak +5 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "10",
+   "file": "10_Redridge2.lua",
+   "line": 39,
+   "qid": 219,
+   "quest": "Missing In Action",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Bone-studded Leather"
+   ],
+   "pick_ids": [
+    3431
+   ],
+   "conservative_best": "Bone-studded Leather",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Bone-studded Leather|r (leather chest +6 Str +1 Agi +5 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 3555,
+     "name": "Robe of Solomon",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 4.8,
+     "conservative": 4.8,
+     "describe": "cloth chest +7 Sta +3 Spi"
+    },
+    {
+     "id": 1275,
+     "name": "Deputy Chain Coat",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 3.8,
+     "conservative": 3.8,
+     "describe": "mail chest +4 Sta +7 Spi"
+    },
+    {
+     "id": 3431,
+     "name": "Bone-studded Leather",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 16.6,
+     "conservative": 16.3,
+     "describe": "leather chest +6 Str +1 Agi +5 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "10",
+   "file": "10_Redridge2.lua",
+   "line": 42,
+   "qid": 126,
+   "quest": "Howling in the Hills",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Ring of Iron Will"
+   ],
+   "pick_ids": [
+    1319
+   ],
+   "conservative_best": "Ring of Iron Will",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Ring of Iron Will|r (ring +4 Sta +2 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 1319,
+     "name": "Ring of Iron Will",
+     "tooltip": true,
+     "slot": "Finger",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 2.8,
+     "conservative": 2.8,
+     "describe": "ring +4 Sta +2 Spi"
+    },
+    {
+     "id": 2910,
+     "name": "Gold Militia Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 9.0,
+     "conservative": 9.0,
+     "describe": "mail feet +3 Str +5 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "10",
+   "file": "10_Redridge2.lua",
+   "line": 65,
+   "qid": 19,
+   "quest": "Tharil'zun",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Orc Crusher"
+   ],
+   "pick_ids": [
+    6093
+   ],
+   "conservative_best": "Orc Crusher",
+   "text": "[OC][A Druid] |cffffcc00Gear (19):|r take |cff66ff66Orc Crusher|r (2H mace 18.2 dps +8 Str +4 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 1276,
+     "name": "Fire Hardened Buckler",
+     "tooltip": true,
+     "slot": "Off Hand",
+     "cls": "Shield",
+     "usable": false,
+     "note": "shield (druid cannot use)",
+     "central": 1.0,
+     "conservative": 1.0,
+     "describe": "shield 528 armor 10 block +5 Spi"
+    },
+    {
+     "id": 6093,
+     "name": "Orc Crusher",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "2H",
+     "central": 273.06,
+     "conservative": 200.3,
+     "describe": "2H mace 18.2 dps +8 Str +4 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "10",
+   "file": "10_Redridge2.lua",
+   "line": 71,
+   "qid": 122,
+   "quest": "Underbelly Scales",
+   "band": 20,
+   "status": "pick",
+   "pick": [
+    "Black Whelp Gloves"
+   ],
+   "pick_ids": [
+    1302
+   ],
+   "conservative_best": "Black Whelp Gloves",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Black Whelp Gloves|r (leather hands +2 Str +3 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 6092,
+     "name": "Black Whelp Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 2.4,
+     "conservative": 2.4,
+     "describe": "leather feet +4 Sta"
+    },
+    {
+     "id": 1302,
+     "name": "Black Whelp Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 8.8,
+     "conservative": 7.9,
+     "describe": "leather hands +2 Str +3 Agi"
+    }
+   ]
+  },
+  {
+   "chapter": "11",
+   "file": "11_Darkshore.lua",
+   "line": 40,
+   "qid": 4681,
+   "quest": "Washed Ashore",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Dryweed Belt"
+   ],
+   "pick_ids": [
+    15399
+   ],
+   "conservative_best": "Dryweed Belt",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Dryweed Belt|r (leather waist +2 Int)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 15398,
+     "name": "Sandcomber Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "cloth feet"
+    },
+    {
+     "id": 15399,
+     "name": "Dryweed Belt",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 0.4,
+     "conservative": 0.4,
+     "describe": "leather waist +2 Int"
+    },
+    {
+     "id": 15400,
+     "name": "Clamshell Bracers",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "mail wrist"
+    }
+   ]
+  },
+  {
+   "chapter": "11",
+   "file": "11_Darkshore.lua",
+   "line": 88,
+   "qid": 4740,
+   "quest": "WANTED: Murkdeep!",
+   "band": 25,
+   "status": "coin_flip",
+   "pick": [
+    "Timberland Armguards",
+    "Ridgeback Bracers"
+   ],
+   "pick_ids": [
+    5315,
+    15403
+   ],
+   "conservative_best": "Timberland Armguards",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r |cff66ff66Timberland Armguards|r (cloth wrist +2 Sta +2 Spi) or |cff66ff66Ridgeback Bracers|r (leather wrist +2 Sta +2 Spi), coin flip",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 5315,
+     "name": "Timberland Armguards",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 1.6,
+     "conservative": 1.6,
+     "describe": "cloth wrist +2 Sta +2 Spi"
+    },
+    {
+     "id": 15403,
+     "name": "Ridgeback Bracers",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 1.6,
+     "conservative": 1.6,
+     "describe": "leather wrist +2 Sta +2 Spi"
+    },
+    {
+     "id": 15404,
+     "name": "Breakwater Girdle",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 5.0,
+     "conservative": 4.4,
+     "describe": "mail waist +2 Agi +3 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "11",
+   "file": "11_Darkshore.lua",
+   "line": 94,
+   "qid": 1138,
+   "quest": "Fruit of the Sea",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Shucking Gloves"
+   ],
+   "pick_ids": [
+    15405
+   ],
+   "conservative_best": "Shucking Gloves",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Shucking Gloves|r (leather hands +2 Sta +2 Int)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 15405,
+     "name": "Shucking Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 1.6,
+     "conservative": 1.6,
+     "describe": "leather hands +2 Sta +2 Int"
+    },
+    {
+     "id": 15406,
+     "name": "Crustacean Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 1.8,
+     "conservative": 1.8,
+     "describe": "mail feet +3 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "11",
+   "file": "11_Darkshore.lua",
+   "line": 110,
+   "qid": 4763,
+   "quest": "The Blackwood Corrupted",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Wildkeeper Leggings"
+   ],
+   "pick_ids": [
+    15202
+   ],
+   "conservative_best": "Wildkeeper Leggings",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Wildkeeper Leggings|r (leather legs +4 Agi +1 Sta +2 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 15204,
+     "name": "Moonstone Wand",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Wand",
+     "usable": false,
+     "note": "wand (druid cannot use)",
+     "central": 0.4,
+     "conservative": 0.4,
+     "describe": "wand 13.6 dps +2 Int"
+    },
+    {
+     "id": 15202,
+     "name": "Wildkeeper Leggings",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 7.4,
+     "conservative": 6.2,
+     "describe": "leather legs +4 Agi +1 Sta +2 Spi"
+    },
+    {
+     "id": 15203,
+     "name": "Guststorm Legguards",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 8.0,
+     "conservative": 8.0,
+     "describe": "mail legs +3 Str +3 Sta +1 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "11",
+   "file": "11_Darkshore.lua",
+   "line": 112,
+   "qid": 2139,
+   "quest": "Tharnariun's Hope",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Evergreen Gloves"
+   ],
+   "pick_ids": [
+    7738
+   ],
+   "conservative_best": "Evergreen Gloves",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Evergreen Gloves|r (cloth hands +3 Int +2 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 7738,
+     "name": "Evergreen Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 1.0,
+     "conservative": 1.0,
+     "describe": "cloth hands +3 Int +2 Spi"
+    },
+    {
+     "id": 7739,
+     "name": "Timberland Cape",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 0.6,
+     "conservative": 0.6,
+     "describe": "cloak +3 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "11",
+   "file": "11_Darkshore.lua",
+   "line": 114,
+   "qid": 982,
+   "quest": "Deep Ocean, Vast Sea",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Murloc-hide Gloves"
+   ],
+   "pick_ids": [
+    270004
+   ],
+   "conservative_best": "Murloc-hide Gloves",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Murloc-hide Gloves|r (leather hands +2 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 15401,
+     "name": "Welldrip Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 0.4,
+     "conservative": 0.4,
+     "describe": "cloth hands +2 Int"
+    },
+    {
+     "id": 15402,
+     "name": "Noosegrip Gauntlets",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 4.0,
+     "conservative": 4.0,
+     "describe": "mail hands +2 Str"
+    },
+    {
+     "id": 270004,
+     "name": "Murloc-hide Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 3.2,
+     "conservative": 2.6,
+     "describe": "leather hands +2 Agi"
+    }
+   ]
+  },
+  {
+   "chapter": "11",
+   "file": "11_Darkshore.lua",
+   "line": 117,
+   "qid": 951,
+   "quest": "Mathystra Relics",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Hardwood Cudgel"
+   ],
+   "pick_ids": [
+    5757
+   ],
+   "conservative_best": "Hardwood Cudgel",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Hardwood Cudgel|r (1H mace 10.0 dps +2 Str +2 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 5757,
+     "name": "Hardwood Cudgel",
+     "tooltip": true,
+     "slot": "Main Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "1H",
+     "central": 145.2,
+     "conservative": 105.2,
+     "describe": "1H mace 10.0 dps +2 Str +2 Sta"
+    },
+    {
+     "id": 5615,
+     "name": "Woodsman Sword",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "sword (druid cannot use)",
+     "central": 188.62,
+     "conservative": 135.9,
+     "describe": "2H sword 13.0 dps +2 Agi +5 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "11",
+   "file": "11_Darkshore.lua",
+   "line": 120,
+   "qid": 98028,
+   "quest": "Baron Marinous",
+   "band": 25,
+   "status": "coin_flip",
+   "pick": [
+    "Mathystra Channeling Orb",
+    "Onu's Patience"
+   ],
+   "pick_ids": [
+    281291,
+    281292
+   ],
+   "conservative_best": "Mathystra Channeling Orb",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r |cff66ff66Mathystra Channeling Orb|r (held in off-hand +3 Sta +5 Int) or |cff66ff66Onu's Patience|r (held in off-hand +3 Sta +5 Spi), coin flip",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 281291,
+     "name": "Mathystra Channeling Orb",
+     "tooltip": true,
+     "slot": "Held In Off-hand",
+     "cls": null,
+     "usable": true,
+     "note": "held in off-hand",
+     "central": 2.8,
+     "conservative": 2.8,
+     "describe": "held in off-hand +3 Sta +5 Int"
+    },
+    {
+     "id": 281292,
+     "name": "Onu's Patience",
+     "tooltip": true,
+     "slot": "Held In Off-hand",
+     "cls": null,
+     "usable": true,
+     "note": "held in off-hand",
+     "central": 2.8,
+     "conservative": 2.8,
+     "describe": "held in off-hand +3 Sta +5 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "11",
+   "file": "11_Darkshore.lua",
+   "line": 124,
+   "qid": 5321,
+   "quest": "The Sleeper Has Awakened",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Deerhide Pants"
+   ],
+   "pick_ids": [
+    270014
+   ],
+   "conservative_best": "Deerhide Pants",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Deerhide Pants|r (leather legs +5 Str +3 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 15205,
+     "name": "Owlsight Rifle",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Gun",
+     "usable": false,
+     "note": "gun (druid cannot use)",
+     "central": 3.2,
+     "conservative": 2.6,
+     "describe": "gun 7.9 dps +2 Agi"
+    },
+    {
+     "id": 15206,
+     "name": "Jadefinger Baton",
+     "tooltip": true,
+     "slot": "Held In Off-hand",
+     "cls": null,
+     "usable": true,
+     "note": "held in off-hand",
+     "central": 1.6,
+     "conservative": 1.6,
+     "describe": "held in off-hand +2 Sta +2 Spi"
+    },
+    {
+     "id": 15207,
+     "name": "Steelcap Shield",
+     "tooltip": true,
+     "slot": "Off Hand",
+     "cls": "Shield",
+     "usable": false,
+     "note": "shield (druid cannot use)",
+     "central": 5.2,
+     "conservative": 5.2,
+     "describe": "shield 411 armor 7 block +2 Str +2 Sta"
+    },
+    {
+     "id": 270014,
+     "name": "Deerhide Pants",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 11.8,
+     "conservative": 11.8,
+     "describe": "leather legs +5 Str +3 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "12",
+   "file": "12_Ashenvale.lua",
+   "line": 72,
+   "qid": 973,
+   "quest": "The Tower of Althalaxx",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Staff of the Purifier"
+   ],
+   "pick_ids": [
+    5613
+   ],
+   "conservative_best": "Staff of the Purifier",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Staff of the Purifier|r (staff 11.2 dps +8 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 5622,
+     "name": "Clergy Ring",
+     "tooltip": true,
+     "slot": "Finger",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 1.2,
+     "conservative": 1.2,
+     "describe": "ring +1 Sta +3 Spi"
+    },
+    {
+     "id": 5613,
+     "name": "Staff of the Purifier",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Staff",
+     "usable": true,
+     "note": "2H",
+     "central": 158.68,
+     "conservative": 113.8,
+     "describe": "staff 11.2 dps +8 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "12",
+   "file": "12_Ashenvale.lua",
+   "line": 78,
+   "qid": 976,
+   "quest": "Supplies to Auberdine",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Everglow Lantern"
+   ],
+   "pick_ids": [
+    5323
+   ],
+   "conservative_best": "Everglow Lantern",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Everglow Lantern|r (held in off-hand +3 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 5323,
+     "name": "Everglow Lantern",
+     "tooltip": true,
+     "slot": "Held In Off-hand",
+     "cls": null,
+     "usable": true,
+     "note": "held in off-hand",
+     "central": 0.6,
+     "conservative": 0.6,
+     "describe": "held in off-hand +3 Spi"
+    },
+    {
+     "id": 6721,
+     "name": "Chestplate of Kor",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 11.2,
+     "conservative": 11.2,
+     "describe": "mail chest +4 Str +4 Sta +4 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "14",
+   "file": "14_Duskwood.lua",
+   "line": 18,
+   "qid": 95161,
+   "quest": "Remember That I Love You",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Tarnished Locket"
+   ],
+   "pick_ids": [
+    279870
+   ],
+   "conservative_best": "Tarnished Locket",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Tarnished Locket|r (neck +6 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 279870,
+     "name": "Tarnished Locket",
+     "tooltip": true,
+     "slot": "Neck",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 3.6,
+     "conservative": 3.6,
+     "describe": "neck +6 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "14",
+   "file": "14_Duskwood.lua",
+   "line": 68,
+   "qid": 181,
+   "quest": "Look to the Stars",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Zodiac Gloves"
+   ],
+   "pick_ids": [
+    7106
+   ],
+   "conservative_best": "Zodiac Gloves",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Zodiac Gloves|r (cloth hands +4 Int +7 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 7106,
+     "name": "Zodiac Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 2.2,
+     "conservative": 2.2,
+     "describe": "cloth hands +4 Int +7 Spi"
+    },
+    {
+     "id": 7107,
+     "name": "Belt of the Stars",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 15.6,
+     "conservative": 15.6,
+     "describe": "mail waist +6 Str +6 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "15",
+   "file": "15_Stockade.lua",
+   "line": 31,
+   "qid": 98191,
+   "quest": "A Friend of the Family",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Royal Dagger"
+   ],
+   "pick_ids": [
+    281297
+   ],
+   "conservative_best": "Royal Dagger",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Royal Dagger|r (dagger 8.5 dps +4 Int)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 281296,
+     "name": "Knight's Lance",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Polearm",
+     "usable": false,
+     "note": "polearm (druid cannot use)",
+     "central": 249.68,
+     "conservative": 180.3,
+     "describe": "polearm 16.8 dps +7 Agi +5 Sta"
+    },
+    {
+     "id": 281297,
+     "name": "Royal Dagger",
+     "tooltip": true,
+     "slot": "Main Hand",
+     "cls": "Dagger",
+     "usable": true,
+     "note": "1H",
+     "central": 120.22,
+     "conservative": 86.1,
+     "describe": "dagger 8.5 dps +4 Int"
+    }
+   ]
+  },
+  {
+   "chapter": "16",
+   "file": "16_RedridgeEastvale.lua",
+   "line": 18,
+   "qid": 386,
+   "quest": "What Comes Around...",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Ursine Hammer"
+   ],
+   "pick_ids": [
+    270027
+   ],
+   "conservative_best": "Ursine Hammer",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Ursine Hammer|r (2H mace 18.4 dps +5 Agi +5 Int +5 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 3400,
+     "name": "Lucine Longsword",
+     "tooltip": true,
+     "slot": "Main Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "sword (druid cannot use)",
+     "central": 198.4,
+     "conservative": 142.4,
+     "describe": "1H sword 14.0 dps +3 Sta +3 Spi"
+    },
+    {
+     "id": 1317,
+     "name": "Hardened Root Staff",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Staff",
+     "usable": true,
+     "note": "2H",
+     "central": 194.76,
+     "conservative": 140.2,
+     "describe": "staff 13.6 dps +1 Str +9 Spi"
+    },
+    {
+     "id": 270027,
+     "name": "Ursine Hammer",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "2H",
+     "central": 268.16,
+     "conservative": 192.9,
+     "describe": "2H mace 18.4 dps +5 Agi +5 Int +5 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "16",
+   "file": "16_RedridgeEastvale.lua",
+   "line": 52,
+   "qid": 19,
+   "quest": "Tharil'zun",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Orc Crusher"
+   ],
+   "pick_ids": [
+    6093
+   ],
+   "conservative_best": "Orc Crusher",
+   "text": "[OC][A Druid] |cffffcc00Gear (19):|r take |cff66ff66Orc Crusher|r (2H mace 18.2 dps +8 Str +4 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 1276,
+     "name": "Fire Hardened Buckler",
+     "tooltip": true,
+     "slot": "Off Hand",
+     "cls": "Shield",
+     "usable": false,
+     "note": "shield (druid cannot use)",
+     "central": 1.0,
+     "conservative": 1.0,
+     "describe": "shield 528 armor 10 block +5 Spi"
+    },
+    {
+     "id": 6093,
+     "name": "Orc Crusher",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "2H",
+     "central": 273.06,
+     "conservative": 200.3,
+     "describe": "2H mace 18.2 dps +8 Str +4 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "16",
+   "file": "16_RedridgeEastvale.lua",
+   "line": 55,
+   "qid": 95999,
+   "quest": "WANTED: Incinerator Gar'im",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Disjointed Shoes"
+   ],
+   "pick_ids": [
+    277226
+   ],
+   "conservative_best": "Disjointed Shoes",
+   "text": "[OC][A Druid] |cffffcc00Gear (95999):|r take |cff66ff66Disjointed Shoes|r (leather feet +12 AP)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 277218,
+     "name": "Incinerator's Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 3.0,
+     "conservative": 3.0,
+     "describe": "cloth feet +3 Sta +6 Int"
+    },
+    {
+     "id": 277234,
+     "name": "Alacritous Treads",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 18.0,
+     "conservative": 16.5,
+     "describe": "mail feet +5 Str +5 Agi"
+    },
+    {
+     "id": 277226,
+     "name": "Disjointed Shoes",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 12.0,
+     "conservative": 12.0,
+     "describe": "leather feet +12 AP"
+    }
+   ]
+  },
+  {
+   "chapter": "16",
+   "file": "16_RedridgeEastvale.lua",
+   "line": 67,
+   "qid": 249,
+   "quest": "Morganth",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Demonhide Bracers"
+   ],
+   "pick_ids": [
+    270033
+   ],
+   "conservative_best": "Demonhide Bracers",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Demonhide Bracers|r (leather wrist +3 Str +4 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 5274,
+     "name": "Rose Mantle",
+     "tooltip": true,
+     "slot": "Shoulder",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 1.0,
+     "conservative": 1.0,
+     "describe": "cloth shoulders +5 Int"
+    },
+    {
+     "id": 270033,
+     "name": "Demonhide Bracers",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 12.4,
+     "conservative": 11.2,
+     "describe": "leather wrist +3 Str +4 Agi"
+    },
+    {
+     "id": 270034,
+     "name": "Shadow Gauntlets",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 12.4,
+     "conservative": 12.4,
+     "describe": "mail hands +5 Str +4 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "17",
+   "file": "17_Duskwood2.lua",
+   "line": 16,
+   "qid": 377,
+   "quest": "Crime and Punishment",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Ambassador's Boots"
+   ],
+   "pick_ids": [
+    2033
+   ],
+   "conservative_best": "Ambassador's Boots",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Ambassador's Boots|r (leather feet +3 Agi +5 Sta +4 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 2033,
+     "name": "Ambassador's Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 8.6,
+     "conservative": 7.7,
+     "describe": "leather feet +3 Agi +5 Sta +4 Spi"
+    },
+    {
+     "id": 2906,
+     "name": "Darkshire Mail Leggings",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 15.4,
+     "conservative": 15.4,
+     "describe": "mail legs +7 Str +7 Spi"
+    },
+    {
+     "id": 270029,
+     "name": "Town Clerk's Mittens",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 1.4,
+     "conservative": 1.4,
+     "describe": "cloth hands +7 Int"
+    }
+   ]
+  },
+  {
+   "chapter": "17",
+   "file": "17_Duskwood2.lua",
+   "line": 22,
+   "qid": 98,
+   "quest": "The Legend of Stalvan",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Ring of Ruin"
+   ],
+   "pick_ids": [
+    270053
+   ],
+   "conservative_best": "Ring of Ruin",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Ring of Ruin|r (ring +4 Str +6 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 2044,
+     "name": "Crescent of Forlorn Spirits",
+     "tooltip": true,
+     "slot": "Main Hand",
+     "cls": "Axe",
+     "usable": false,
+     "note": "axe (druid cannot use)",
+     "central": 255.02,
+     "conservative": 182.5,
+     "describe": "1H axe 18.1 dps +6 Spi"
+    },
+    {
+     "id": 2043,
+     "name": "Ring of Forlorn Spirits",
+     "tooltip": true,
+     "slot": "Finger",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 1.2,
+     "conservative": 1.2,
+     "describe": "ring +2 Sta"
+    },
+    {
+     "id": 270053,
+     "name": "Ring of Ruin",
+     "tooltip": true,
+     "slot": "Finger",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 17.6,
+     "conservative": 15.8,
+     "describe": "ring +4 Str +6 Agi"
+    }
+   ]
+  },
+  {
+   "chapter": "17",
+   "file": "17_Duskwood2.lua",
+   "line": 53,
+   "qid": 223,
+   "quest": "Worgen in the Woods",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Cloak of the Faith"
+   ],
+   "pick_ids": [
+    2902
+   ],
+   "conservative_best": "Cloak of the Faith",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Cloak of the Faith|r (cloak +4 Sta +4 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 2902,
+     "name": "Cloak of the Faith",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 3.2,
+     "conservative": 3.2,
+     "describe": "cloak +4 Sta +4 Spi"
+    },
+    {
+     "id": 1547,
+     "name": "Shield of the Faith",
+     "tooltip": true,
+     "slot": "Off Hand",
+     "cls": "Shield",
+     "usable": false,
+     "note": "shield (druid cannot use)",
+     "central": 1.2,
+     "conservative": 1.2,
+     "describe": "shield 578 armor 11 block +6 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "17",
+   "file": "17_Duskwood2.lua",
+   "line": 78,
+   "qid": 58,
+   "quest": "The Night Watch",
+   "band": 25,
+   "status": "not_gear",
+   "pick": [],
+   "pick_ids": [],
+   "conservative_best": null,
+   "text": null,
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 3604,
+     "name": "Bandolier of the Night Watch",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    },
+    {
+     "id": 3605,
+     "name": "Quiver of the Night Watch",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    },
+    {
+     "id": 1729,
+     "name": "Gunnysack of the Night Watch",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    }
+   ]
+  },
+  {
+   "chapter": "17",
+   "file": "17_Duskwood2.lua",
+   "line": 94,
+   "qid": 253,
+   "quest": "Bride of the Embalmer",
+   "band": 25,
+   "status": "pick",
+   "pick": [
+    "Darkshire Shoulderguards"
+   ],
+   "pick_ids": [
+    270044
+   ],
+   "conservative_best": "Darkshire Shoulderguards",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Darkshire Shoulderguards|r (leather shoulders +7 Sta +7 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 3560,
+     "name": "Mantle of Honor",
+     "tooltip": true,
+     "slot": "Shoulder",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 2.8,
+     "conservative": 2.8,
+     "describe": "cloth shoulders +7 Int +7 Spi"
+    },
+    {
+     "id": 270044,
+     "name": "Darkshire Shoulderguards",
+     "tooltip": true,
+     "slot": "Shoulder",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 5.6,
+     "conservative": 5.6,
+     "describe": "leather shoulders +7 Sta +7 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "18",
+   "file": "18_Wetlands1.lua",
+   "line": 48,
+   "qid": 471,
+   "quest": "Apprentice's Duties",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Resilient Poncho"
+   ],
+   "pick_ids": [
+    3561
+   ],
+   "conservative_best": "Resilient Poncho",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Resilient Poncho|r (cloak +5 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 2545,
+     "name": "Malleable Chain Leggings",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 20.6,
+     "conservative": 19.7,
+     "describe": "mail legs +7 Str +3 Agi +3 Sta"
+    },
+    {
+     "id": 3561,
+     "name": "Resilient Poncho",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 3.0,
+     "conservative": 3.0,
+     "describe": "cloak +5 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "18",
+   "file": "18_Wetlands1.lua",
+   "line": 65,
+   "qid": 296,
+   "quest": "Ormer's Revenge",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Raptorbane Armor"
+   ],
+   "pick_ids": [
+    3566
+   ],
+   "conservative_best": "Raptorbane Armor",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Raptorbane Armor|r (leather chest +3 Sta +31 AP)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 3493,
+     "name": "Raptor's End",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Bow",
+     "usable": false,
+     "note": "bow (druid cannot use)",
+     "central": 4.4,
+     "conservative": 3.8,
+     "describe": "bow 12.1 dps +2 Agi +2 Sta"
+    },
+    {
+     "id": 3566,
+     "name": "Raptorbane Armor",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 32.8,
+     "conservative": 32.8,
+     "describe": "leather chest +3 Sta +31 AP"
+    },
+    {
+     "id": 5246,
+     "name": "Excavation Rod",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Wand",
+     "usable": false,
+     "note": "wand (druid cannot use)",
+     "central": 1.2,
+     "conservative": 1.2,
+     "describe": "wand 24.2 dps +2 Sta"
+    },
+    {
+     "id": 270039,
+     "name": "Raptorclaw Shoulders",
+     "tooltip": true,
+     "slot": "Shoulder",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 0.6,
+     "conservative": 0.6,
+     "describe": "leather shoulders +3 Int"
+    }
+   ]
+  },
+  {
+   "chapter": "18",
+   "file": "18_Wetlands1.lua",
+   "line": 70,
+   "qid": 98216,
+   "quest": "Understanding Our Present",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Excavation Cloak"
+   ],
+   "pick_ids": [
+    281305
+   ],
+   "conservative_best": "Excavation Cloak",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Excavation Cloak|r (cloak +4 Str +4 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 281304,
+     "name": "Prospector's Signet",
+     "tooltip": true,
+     "slot": "Finger",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 3.2,
+     "conservative": 3.2,
+     "describe": "ring +4 Sta +4 Int"
+    },
+    {
+     "id": 281305,
+     "name": "Excavation Cloak",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 10.4,
+     "conservative": 10.4,
+     "describe": "cloak +4 Str +4 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "19",
+   "file": "19_Wetlands2.lua",
+   "line": 46,
+   "qid": 98283,
+   "quest": "Carnage",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Razormaw Shorts"
+   ],
+   "pick_ids": [
+    281309
+   ],
+   "conservative_best": "Razormaw Shorts",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Razormaw Shorts|r (leather legs +8 Agi +6 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 281309,
+     "name": "Razormaw Shorts",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 16.4,
+     "conservative": 14.0,
+     "describe": "leather legs +8 Agi +6 Sta"
+    },
+    {
+     "id": 281310,
+     "name": "Carnage Trousers",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 5.2,
+     "conservative": 5.2,
+     "describe": "leather legs +6 Sta +8 Int"
+    }
+   ]
+  },
+  {
+   "chapter": "19",
+   "file": "19_Wetlands2.lua",
+   "line": 49,
+   "qid": 275,
+   "quest": "Blisters on the Land",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Fen Keeper Robe"
+   ],
+   "pick_ids": [
+    3558
+   ],
+   "conservative_best": "Fen Keeper Robe",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Fen Keeper Robe|r (cloth chest +9 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 3558,
+     "name": "Fen Keeper Robe",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 1.8,
+     "conservative": 1.8,
+     "describe": "cloth chest +9 Spi"
+    },
+    {
+     "id": 1273,
+     "name": "Forest Chain",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 2.8,
+     "conservative": 2.8,
+     "describe": "mail chest +2 Sta +8 Spi"
+    },
+    {
+     "id": 2263,
+     "name": "Phytoblade",
+     "tooltip": true,
+     "slot": "Main Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "sword (druid cannot use)",
+     "central": 180.04,
+     "conservative": 128.6,
+     "describe": "1H sword 12.9 dps"
+    }
+   ]
+  },
+  {
+   "chapter": "19",
+   "file": "19_Wetlands2.lua",
+   "line": 51,
+   "qid": 98297,
+   "quest": "Stopping the Cycle",
+   "band": 30,
+   "status": "coin_flip",
+   "pick": [
+    "Subdued Dragon's Fang",
+    "Fallen Dragon's Scepter"
+   ],
+   "pick_ids": [
+    281314,
+    281312
+   ],
+   "conservative_best": "Subdued Dragon's Fang",
+   "text": "[OC][A Druid] |cffffcc00Gear (98297):|r |cff66ff66Subdued Dragon's Fang|r (dagger 20.6 dps +7 Agi +2 Sta) or |cff66ff66Fallen Dragon's Scepter|r (staff 19.9 dps +11 Int +13 Spi), coin flip",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 281312,
+     "name": "Fallen Dragon's Scepter",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Staff",
+     "usable": true,
+     "note": "2H",
+     "central": 282.7,
+     "conservative": 203.3,
+     "describe": "staff 19.9 dps +11 Int +13 Spi"
+    },
+    {
+     "id": 281313,
+     "name": "Trusty Sword",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "sword (druid cannot use)",
+     "central": 382.98,
+     "conservative": 276.3,
+     "describe": "2H sword 26.7 dps +12 Sta +12 Spi"
+    },
+    {
+     "id": 281314,
+     "name": "Subdued Dragon's Fang",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Dagger",
+     "usable": true,
+     "note": "1H",
+     "central": 300.66,
+     "conservative": 216.2,
+     "describe": "dagger 20.6 dps +7 Agi +2 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "19",
+   "file": "19_Wetlands2.lua",
+   "line": 80,
+   "qid": 304,
+   "quest": "A Grim Task",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Fury Ring"
+   ],
+   "pick_ids": [
+    270050
+   ],
+   "conservative_best": "Fury Ring",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Fury Ring|r (ring +6 Str +2 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 2916,
+     "name": "Gold Lion Shield",
+     "tooltip": true,
+     "slot": "Off Hand",
+     "cls": "Shield",
+     "usable": false,
+     "note": "shield (druid cannot use)",
+     "central": 7.6,
+     "conservative": 7.6,
+     "describe": "shield 645 armor 13 block +2 Str +5 Sta +3 Spi"
+    },
+    {
+     "id": 2917,
+     "name": "Tranquil Ring",
+     "tooltip": true,
+     "slot": "Finger",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 1.6,
+     "conservative": 1.6,
+     "describe": "ring +1 Int +7 Spi"
+    },
+    {
+     "id": 270050,
+     "name": "Fury Ring",
+     "tooltip": true,
+     "slot": "Finger",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 12.4,
+     "conservative": 12.4,
+     "describe": "ring +6 Str +2 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "19",
+   "file": "19_Wetlands2.lua",
+   "line": 90,
+   "qid": 633,
+   "quest": "The Thandol Span",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Swampland Trousers"
+   ],
+   "pick_ids": [
+    4505
+   ],
+   "conservative_best": "Swampland Trousers",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Swampland Trousers|r (cloth legs +11 Sta +4 Int)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 4504,
+     "name": "Dwarven Guard Cloak",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 5.2,
+     "conservative": 4.9,
+     "describe": "cloak +1 Agi +6 Sta"
+    },
+    {
+     "id": 4505,
+     "name": "Swampland Trousers",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 7.4,
+     "conservative": 7.4,
+     "describe": "cloth legs +11 Sta +4 Int"
+    }
+   ]
+  },
+  {
+   "chapter": "19",
+   "file": "19_Wetlands2.lua",
+   "line": 110,
+   "qid": 474,
+   "quest": "Defeat Nek'rosh",
+   "band": 30,
+   "status": "nothing",
+   "pick": [],
+   "pick_ids": [],
+   "conservative_best": null,
+   "text": "[OC][A Druid] |cffffcc00Gear (474):|r nothing for a druid - vendor",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 3209,
+     "name": "Ancient War Sword",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "sword (druid cannot use)",
+     "central": 324.98,
+     "conservative": 238.3,
+     "describe": "2H sword 21.7 dps +9 Str +6 Sta"
+    },
+    {
+     "id": 6194,
+     "name": "Barreling Reaper",
+     "tooltip": true,
+     "slot": "Main Hand",
+     "cls": "Axe",
+     "usable": false,
+     "note": "axe (druid cannot use)",
+     "central": 235.12,
+     "conservative": 168.8,
+     "describe": "1H axe 16.6 dps +5 Sta"
+    },
+    {
+     "id": 287067,
+     "name": "?",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "thrown (druid cannot use)",
+     "central": 6.6,
+     "conservative": 6.6,
+     "describe": "thrown 15.0 dps +3 Str +3 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "19",
+   "file": "19_Wetlands2.lua",
+   "line": 110,
+   "qid": 98223,
+   "quest": "Old Habits",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Flamescarred Spellbook"
+   ],
+   "pick_ids": [
+    281306
+   ],
+   "conservative_best": "Flamescarred Spellbook",
+   "text": "[OC][A Druid] |cffffcc00Gear (98223):|r take |cff66ff66Flamescarred Spellbook|r (held in off-hand +2 Sta +5 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 281306,
+     "name": "Flamescarred Spellbook",
+     "tooltip": true,
+     "slot": "Held In Off-hand",
+     "cls": null,
+     "usable": true,
+     "note": "held in off-hand",
+     "central": 2.2,
+     "conservative": 2.2,
+     "describe": "held in off-hand +2 Sta +5 Spi"
+    },
+    {
+     "id": 281307,
+     "name": "Dragonmaw Buckler",
+     "tooltip": true,
+     "slot": "Off Hand",
+     "cls": "Shield",
+     "usable": false,
+     "note": "shield (druid cannot use)",
+     "central": 9.0,
+     "conservative": 9.0,
+     "describe": "shield 595 armor 12 block +3 Str +5 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "20",
+   "file": "20_Darnassus.lua",
+   "line": 9,
+   "qid": 1275,
+   "quest": "Researching the Corruption",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Staghide Armguards"
+   ],
+   "pick_ids": [
+    270021
+   ],
+   "conservative_best": "Staghide Armguards",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Staghide Armguards|r (leather wrist +3 Agi +3 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 7003,
+     "name": "Beetle Clasps",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 7.8,
+     "conservative": 7.8,
+     "describe": "mail wrist +3 Sta +6 AP"
+    },
+    {
+     "id": 7004,
+     "name": "Prelacy Cape",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 0.6,
+     "conservative": 0.6,
+     "describe": "cloak +3 Spi"
+    },
+    {
+     "id": 270021,
+     "name": "Staghide Armguards",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 6.6,
+     "conservative": 5.7,
+     "describe": "leather wrist +3 Agi +3 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "20",
+   "file": "20_Darnassus.lua",
+   "line": 16,
+   "qid": 1200,
+   "quest": "Blackfathom Villainy",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Cultist's Armguards"
+   ],
+   "pick_ids": [
+    270032
+   ],
+   "conservative_best": "Cultist's Armguards",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Cultist's Armguards|r (leather wrist +7 Sta +10 AP)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 7001,
+     "name": "Gravestone Scepter",
+     "tooltip": true,
+     "slot": "Ranged",
+     "cls": "Wand",
+     "usable": false,
+     "note": "wand (druid cannot use)",
+     "central": 0.6,
+     "conservative": 0.6,
+     "describe": "wand 29.0 dps +3 Spi"
+    },
+    {
+     "id": 7002,
+     "name": "Arctic Buckler",
+     "tooltip": true,
+     "slot": "Off Hand",
+     "cls": "Shield",
+     "usable": false,
+     "note": "shield (druid cannot use)",
+     "central": 5.4,
+     "conservative": 5.4,
+     "describe": "shield 642 armor 13 block +8 Sta +3 Spi"
+    },
+    {
+     "id": 270031,
+     "name": "Dark Ritual Leggings",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 5.4,
+     "conservative": 5.4,
+     "describe": "leather legs +9 Sta"
+    },
+    {
+     "id": 270032,
+     "name": "Cultist's Armguards",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 14.2,
+     "conservative": 14.2,
+     "describe": "leather wrist +7 Sta +10 AP"
+    }
+   ]
+  },
+  {
+   "chapter": "20",
+   "file": "20_Darnassus.lua",
+   "line": 18,
+   "qid": 1199,
+   "quest": "Twilight Falls",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Nimbus Boots"
+   ],
+   "pick_ids": [
+    6998
+   ],
+   "conservative_best": "Nimbus Boots",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Nimbus Boots|r (cloth feet +5 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 6998,
+     "name": "Nimbus Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 8.0,
+     "conservative": 6.5,
+     "describe": "cloth feet +5 Agi"
+    },
+    {
+     "id": 7000,
+     "name": "Heartwood Girdle",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 3.0,
+     "conservative": 3.0,
+     "describe": "leather waist +5 Sta"
+    },
+    {
+     "id": 270025,
+     "name": "Silvered Gauntlets",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 3.0,
+     "conservative": 3.0,
+     "describe": "mail hands +5 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "20",
+   "file": "20_Darnassus.lua",
+   "line": 24,
+   "qid": 741,
+   "quest": "The Absent Minded Prospector",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Hammerfist Gloves"
+   ],
+   "pick_ids": [
+    5629
+   ],
+   "conservative_best": "Hammerfist Gloves",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Hammerfist Gloves|r (leather hands +3 Str +3 Agi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 5629,
+     "name": "Hammerfist Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 10.8,
+     "conservative": 9.9,
+     "describe": "leather hands +3 Str +3 Agi"
+    },
+    {
+     "id": 5630,
+     "name": "Windfelt Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 0.6,
+     "conservative": 0.6,
+     "describe": "leather hands +3 Int"
+    },
+    {
+     "id": 11936,
+     "name": "Relic Hunter Belt",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 5.2,
+     "conservative": 5.2,
+     "describe": "cloth waist +2 Str +4 Int +2 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "21",
+   "file": "21_AshenvaleEast.lua",
+   "line": 42,
+   "qid": 1012,
+   "quest": "Insane Druids",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Mavoris's Warstaff"
+   ],
+   "pick_ids": [
+    270049
+   ],
+   "conservative_best": "Mavoris's Warstaff",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Mavoris's Warstaff|r (staff 21.6 dps +11 Str +3 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 5813,
+     "name": "Emil's Brand",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "sword (druid cannot use)",
+     "central": 326.34,
+     "conservative": 239.9,
+     "describe": "2H sword 21.6 dps +11 Str +3 Sta"
+    },
+    {
+     "id": 270048,
+     "name": "Uthil's Cudgel",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "1H",
+     "central": 234.1,
+     "conservative": 167.9,
+     "describe": "1H mace 16.6 dps +3 Sta +3 Spi"
+    },
+    {
+     "id": 270049,
+     "name": "Mavoris's Warstaff",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Staff",
+     "usable": true,
+     "note": "2H",
+     "central": 326.06,
+     "conservative": 239.7,
+     "describe": "staff 21.6 dps +11 Str +3 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "21",
+   "file": "21_AshenvaleEast.lua",
+   "line": 54,
+   "qid": 1035,
+   "quest": "Fallen Sky Lake",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Snapbrook Armor"
+   ],
+   "pick_ids": [
+    5814
+   ],
+   "conservative_best": "Snapbrook Armor",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Snapbrook Armor|r (leather chest +4 Str +9 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 5814,
+     "name": "Snapbrook Armor",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 9.8,
+     "conservative": 9.8,
+     "describe": "leather chest +4 Str +9 Spi"
+    },
+    {
+     "id": 6722,
+     "name": "Beastial Manacles",
+     "tooltip": true,
+     "slot": "Wrist",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 5.6,
+     "conservative": 5.6,
+     "describe": "mail wrist +1 Str +6 Sta"
+    },
+    {
+     "id": 17047,
+     "name": "Luminescent Amice",
+     "tooltip": true,
+     "slot": "Shoulder",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 4.8,
+     "conservative": 4.8,
+     "describe": "cloth shoulders +6 Sta +4 Int +2 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "21",
+   "file": "21_AshenvaleEast.lua",
+   "line": 67,
+   "qid": 1046,
+   "quest": "Raene's Cleansing",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Glacial Stone"
+   ],
+   "pick_ids": [
+    5815
+   ],
+   "conservative_best": "Glacial Stone",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Glacial Stone|r (2H mace 21.0 dps)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 5815,
+     "name": "Glacial Stone",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "2H",
+     "central": 293.58,
+     "conservative": 209.7,
+     "describe": "2H mace 21.0 dps"
+    },
+    {
+     "id": 17046,
+     "name": "Gutterblade",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Axe",
+     "usable": false,
+     "note": "axe (druid cannot use)",
+     "central": 233.76,
+     "conservative": 169.2,
+     "describe": "1H axe 16.1 dps +3 Str +3 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "21",
+   "file": "21_AshenvaleEast.lua",
+   "line": 73,
+   "qid": 1031,
+   "quest": "The Branch of Cenarius",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Faerie Mantle"
+   ],
+   "pick_ids": [
+    5820
+   ],
+   "conservative_best": "Faerie Mantle",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Faerie Mantle|r (cloth shoulders +6 Int +6 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 5820,
+     "name": "Faerie Mantle",
+     "tooltip": true,
+     "slot": "Shoulder",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 2.4,
+     "conservative": 2.4,
+     "describe": "cloth shoulders +6 Int +6 Spi"
+    },
+    {
+     "id": 11229,
+     "name": "Brightscale Girdle",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 15.6,
+     "conservative": 15.6,
+     "describe": "mail waist +6 Str +6 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "21",
+   "file": "21_AshenvaleEast.lua",
+   "line": 86,
+   "qid": 981,
+   "quest": "The Tower of Althalaxx",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Pious Legwraps"
+   ],
+   "pick_ids": [
+    10043
+   ],
+   "conservative_best": "Pious Legwraps",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Pious Legwraps|r (cloth legs +8 Sta +7 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 10043,
+     "name": "Pious Legwraps",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 6.2,
+     "conservative": 6.2,
+     "describe": "cloth legs +8 Sta +7 Spi"
+    },
+    {
+     "id": 5614,
+     "name": "Seraph's Strike",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Sword",
+     "usable": false,
+     "note": "sword (druid cannot use)",
+     "central": 303.26,
+     "conservative": 218.9,
+     "describe": "2H sword 21.1 dps +3 Str +10 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "22",
+   "file": "22_ExcavationSite.lua",
+   "line": 57,
+   "qid": 95646,
+   "quest": "Horrors in the Highland",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Ironwood Destroyer"
+   ],
+   "pick_ids": [
+    271667
+   ],
+   "conservative_best": "Ironwood Destroyer",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Ironwood Destroyer|r (2H mace 22.2 dps)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 271667,
+     "name": "Ironwood Destroyer",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "2H",
+     "central": 310.94,
+     "conservative": 222.1,
+     "describe": "2H mace 22.2 dps"
+    },
+    {
+     "id": 271670,
+     "name": "Curl of Life",
+     "tooltip": true,
+     "slot": "Finger",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 3.0,
+     "conservative": 3.0,
+     "describe": "ring +5 Sta"
+    },
+    {
+     "id": 271664,
+     "name": "Hornbeam Heft",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Axe",
+     "usable": false,
+     "note": "axe (druid cannot use)",
+     "central": 172.44,
+     "conservative": 126.6,
+     "describe": "1H axe 11.5 dps +6 Str"
+    }
+   ]
+  },
+  {
+   "chapter": "22",
+   "file": "22_ExcavationSite.lua",
+   "line": 61,
+   "qid": 98310,
+   "quest": "Gleaning Our Future",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Golem War Cloak"
+   ],
+   "pick_ids": [
+    281319
+   ],
+   "conservative_best": "Golem War Cloak",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Golem War Cloak|r (cloak +6 Str)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 281319,
+     "name": "Golem War Cloak",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 12.0,
+     "conservative": 12.0,
+     "describe": "cloak +6 Str"
+    },
+    {
+     "id": 281320,
+     "name": "Rune-Etched Ring",
+     "tooltip": true,
+     "slot": "Finger",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 6.0,
+     "conservative": 6.0,
+     "describe": "ring +10 Sta"
+    },
+    {
+     "id": 281321,
+     "name": "Giantstone Medallion",
+     "tooltip": true,
+     "slot": "Neck",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 2.0,
+     "conservative": 2.0,
+     "describe": "neck +10 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "22",
+   "file": "22_ExcavationSite.lua",
+   "line": 64,
+   "qid": 95809,
+   "quest": "Heartwoven",
+   "band": 30,
+   "status": "not_gear",
+   "pick": [],
+   "pick_ids": [],
+   "conservative_best": null,
+   "text": null,
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 1710,
+     "name": "Greater Healing Potion",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    },
+    {
+     "id": 3827,
+     "name": "Mana Potion",
+     "tooltip": true,
+     "slot": null,
+     "cls": null,
+     "usable": false,
+     "note": "not equipment",
+     "central": 0.0,
+     "conservative": 0.0,
+     "describe": "item"
+    }
+   ]
+  },
+  {
+   "chapter": "22",
+   "file": "22_ExcavationSite.lua",
+   "line": 65,
+   "qid": 943,
+   "quest": "The Absent Minded Prospector",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Relic Blade"
+   ],
+   "pick_ids": [
+    5627
+   ],
+   "conservative_best": "Relic Blade",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Relic Blade|r (dagger 10.0 dps +3 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 5627,
+     "name": "Relic Blade",
+     "tooltip": true,
+     "slot": "One-Hand",
+     "cls": "Dagger",
+     "usable": true,
+     "note": "1H",
+     "central": 141.8,
+     "conservative": 101.8,
+     "describe": "dagger 10.0 dps +3 Sta"
+    },
+    {
+     "id": 5626,
+     "name": "Skullchipper",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Axe",
+     "usable": false,
+     "note": "axe (druid cannot use)",
+     "central": 194.6,
+     "conservative": 142.6,
+     "describe": "2H axe 13.0 dps +6 Str +1 Sta"
+    },
+    {
+     "id": 270022,
+     "name": "Archaeologist's Gown",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 1.0,
+     "conservative": 1.0,
+     "describe": "cloth chest +5 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "23",
+   "file": "23_Hillsbrad.lua",
+   "line": 54,
+   "qid": 505,
+   "quest": "Syndicate Assassins",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Insulated Sage Gloves"
+   ],
+   "pick_ids": [
+    3759
+   ],
+   "conservative_best": "Insulated Sage Gloves",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Insulated Sage Gloves|r (cloth hands +7 Sta +6 Int)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 3758,
+     "name": "Crusader Belt",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 17.6,
+     "conservative": 17.6,
+     "describe": "mail waist +7 Str +6 Sta"
+    },
+    {
+     "id": 3759,
+     "name": "Insulated Sage Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 5.4,
+     "conservative": 5.4,
+     "describe": "cloth hands +7 Sta +6 Int"
+    }
+   ]
+  },
+  {
+   "chapter": "24",
+   "file": "24_Gnomeregan.lua",
+   "line": 23,
+   "qid": 98824,
+   "quest": "Prehistoric Prism",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Heavehammer"
+   ],
+   "pick_ids": [
+    271766
+   ],
+   "conservative_best": "Heavehammer",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Heavehammer|r (2H mace 27.7 dps +32 AP)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 271716,
+     "name": "Explorer's League Dustcover",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 10.0,
+     "conservative": 8.5,
+     "describe": "cloak +5 Agi +5 Int +5 Spi"
+    },
+    {
+     "id": 271767,
+     "name": "Healer's Staff",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Staff",
+     "usable": true,
+     "note": "2H",
+     "central": 297.98,
+     "conservative": 214.9,
+     "describe": "staff 20.8 dps +12 Sta"
+    },
+    {
+     "id": 271766,
+     "name": "Heavehammer",
+     "tooltip": true,
+     "slot": "Two-Hand",
+     "cls": "Mace",
+     "usable": true,
+     "note": "2H",
+     "central": 420.22,
+     "conservative": 309.3,
+     "describe": "2H mace 27.7 dps +32 AP"
+    }
+   ]
+  },
+  {
+   "chapter": "24",
+   "file": "24_Gnomeregan.lua",
+   "line": 99,
+   "qid": 2929,
+   "quest": "The Grand Betrayal",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Triprunner Dungarees"
+   ],
+   "pick_ids": [
+    9624
+   ],
+   "conservative_best": "Triprunner Dungarees",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Triprunner Dungarees|r (leather legs +3 Str +18 Agi +6 Sta)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 9623,
+     "name": "Civinad Robes",
+     "tooltip": true,
+     "slot": "Chest",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 6.6,
+     "conservative": 6.6,
+     "describe": "cloth chest +7 Sta +12 Spi"
+    },
+    {
+     "id": 9624,
+     "name": "Triprunner Dungarees",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 38.4,
+     "conservative": 33.0,
+     "describe": "leather legs +3 Str +18 Agi +6 Sta"
+    },
+    {
+     "id": 9625,
+     "name": "Dual Reinforced Leggings",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 24.0,
+     "conservative": 24.0,
+     "describe": "mail legs +12 Str"
+    }
+   ]
+  },
+  {
+   "chapter": "25",
+   "file": "25_LooseEnds30.lua",
+   "line": 13,
+   "qid": 2928,
+   "quest": "Gyrodrillmatic Excavationators",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Operator's Gloves"
+   ],
+   "pick_ids": [
+    270045
+   ],
+   "conservative_best": "Operator's Gloves",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Operator's Gloves|r (leather hands +6 Str +4 Sta +4 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 9608,
+     "name": "Shoni's Disarming Tool",
+     "tooltip": true,
+     "slot": "Off Hand",
+     "cls": "Axe",
+     "usable": false,
+     "note": "off-hand weapon (druid cannot dual wield)",
+     "central": 0.8,
+     "conservative": 0.8,
+     "describe": "off-hand axe 16.6 dps +4 Spi"
+    },
+    {
+     "id": 9609,
+     "name": "Shilly Mitts",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 1.2,
+     "conservative": 1.2,
+     "describe": "cloth hands +6 Spi"
+    },
+    {
+     "id": 270045,
+     "name": "Operator's Gloves",
+     "tooltip": true,
+     "slot": "Hands",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 15.2,
+     "conservative": 15.2,
+     "describe": "leather hands +6 Str +4 Sta +4 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "25",
+   "file": "25_LooseEnds30.lua",
+   "line": 33,
+   "qid": 55,
+   "quest": "Morbent Fel",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Night Watch Pantaloons"
+   ],
+   "pick_ids": [
+    2954
+   ],
+   "conservative_best": "Night Watch Pantaloons",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Night Watch Pantaloons|r (cloth legs +9 Sta +8 Int)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 2954,
+     "name": "Night Watch Pantaloons",
+     "tooltip": true,
+     "slot": "Legs",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 7.0,
+     "conservative": 7.0,
+     "describe": "cloth legs +9 Sta +8 Int"
+    },
+    {
+     "id": 2953,
+     "name": "Watch Master's Cloak",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 4.2,
+     "conservative": 4.2,
+     "describe": "cloak +7 Sta"
+    },
+    {
+     "id": 1282,
+     "name": "Sparkmetal Coif",
+     "tooltip": true,
+     "slot": "Head",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 19.6,
+     "conservative": 19.6,
+     "describe": "mail head +9 Str +8 Spi"
+    }
+   ]
+  },
+  {
+   "chapter": "25",
+   "file": "25_LooseEnds30.lua",
+   "line": 52,
+   "qid": 95795,
+   "quest": "Fallen in the Fen",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Daewyn's Girdle"
+   ],
+   "pick_ids": [
+    271769
+   ],
+   "conservative_best": "Daewyn's Girdle",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Daewyn's Girdle|r (cloth waist +6 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 271769,
+     "name": "Daewyn's Girdle",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Cloth",
+     "usable": true,
+     "note": "",
+     "central": 1.2,
+     "conservative": 1.2,
+     "describe": "cloth waist +6 Spi"
+    },
+    {
+     "id": 271768,
+     "name": "Songblade Stabilizer",
+     "tooltip": true,
+     "slot": "Waist",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 3.6,
+     "conservative": 3.6,
+     "describe": "mail waist +6 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "26",
+   "file": "26_RazorfenKraul.lua",
+   "line": 74,
+   "qid": 1144,
+   "quest": "Willix the Importer",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Tiger Band"
+   ],
+   "pick_ids": [
+    6749
+   ],
+   "conservative_best": "Tiger Band",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Tiger Band|r (ring +5 Str +5 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 6748,
+     "name": "Monkey Ring",
+     "tooltip": true,
+     "slot": "Finger",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 9.0,
+     "conservative": 7.5,
+     "describe": "ring +5 Agi +5 Spi"
+    },
+    {
+     "id": 6750,
+     "name": "Snake Hoop",
+     "tooltip": true,
+     "slot": "Finger",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 1.0,
+     "conservative": 1.0,
+     "describe": "ring +5 Int"
+    },
+    {
+     "id": 6749,
+     "name": "Tiger Band",
+     "tooltip": true,
+     "slot": "Finger",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 11.0,
+     "conservative": 11.0,
+     "describe": "ring +5 Str +5 Spi"
+    },
+    {
+     "id": 274078,
+     "name": "Boar Signet",
+     "tooltip": true,
+     "slot": "Finger",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 3.0,
+     "conservative": 3.0,
+     "describe": "ring +5 Sta"
+    }
+   ]
+  },
+  {
+   "chapter": "26",
+   "file": "26_RazorfenKraul.lua",
+   "line": 87,
+   "qid": 1142,
+   "quest": "Mortality Wanes",
+   "band": 30,
+   "status": "pick",
+   "pick": [
+    "Lancer Boots"
+   ],
+   "pick_ids": [
+    6752
+   ],
+   "conservative_best": "Lancer Boots",
+   "text": "[OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Lancer Boots|r (leather feet +5 Agi +6 Sta +4 Spi)",
+   "missing_tooltips": [],
+   "choices": [
+    {
+     "id": 6751,
+     "name": "Mourning Shawl",
+     "tooltip": true,
+     "slot": "Back",
+     "cls": null,
+     "usable": true,
+     "note": "",
+     "central": 4.8,
+     "conservative": 4.8,
+     "describe": "cloak +8 Sta"
+    },
+    {
+     "id": 6752,
+     "name": "Lancer Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Leather",
+     "usable": true,
+     "note": "",
+     "central": 12.4,
+     "conservative": 10.9,
+     "describe": "leather feet +5 Agi +6 Sta +4 Spi"
+    },
+    {
+     "id": 270047,
+     "name": "Sentinel's Boots",
+     "tooltip": true,
+     "slot": "Feet",
+     "cls": "Mail",
+     "usable": false,
+     "note": "mail (druid cannot use)",
+     "central": 11.6,
+     "conservative": 11.6,
+     "describe": "mail feet +4 Str +4 Sta +6 Spi"
+    }
+   ]
+  }
+ ],
+ "dungeons": [
+  {
+   "chapter": "03",
+   "file": "03_HallOfThanes.lua",
+   "zone": 16919,
+   "band": 15,
+   "levels": [
+    15,
+    16
+   ],
+   "groups": [
+    {
+     "dropper": "Durgen Dirgehammer",
+     "npc_ids": [
+      261319
+     ],
+     "items": [
+      {
+       "id": 270260,
+       "name": "Direhammer Leggings",
+       "slottype": "legs leather",
+       "req": 13,
+       "central": 18.9,
+       "conservative": 14.56,
+       "drop": "23.23%",
+       "describe": "leather legs +4 Agi +7 Sta"
+      },
+      {
+       "id": 270261,
+       "name": "Robes of the Disgraced Thane",
+       "slottype": "chest cloth",
+       "req": 13,
+       "central": 2.55,
+       "conservative": 1.85,
+       "drop": "23.23%",
+       "describe": "cloth chest +4 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Durgen Dirgehammer):|r roll on |cff66ff66Direhammer Leggings|r (leather legs +4 Agi +7 Sta, 23.23% drop); |cff66ff66Robes of the Disgraced Thane|r (cloth chest +4 Spi, 23.23% drop)"
+    },
+    {
+     "dropper": "Faldrim Anvilmar",
+     "npc_ids": [
+      261306
+     ],
+     "items": [
+      {
+       "id": 271097,
+       "name": "Spiritwraith Drape",
+       "slottype": "back cloth",
+       "req": 13,
+       "central": 5.25,
+       "conservative": 4.31,
+       "drop": "33.76%",
+       "describe": "cloak +3 Agi +4 Spi"
+      },
+      {
+       "id": 271096,
+       "name": "Aetherwisp Bracers",
+       "slottype": "wrist cloth",
+       "req": 13,
+       "central": 2.25,
+       "conservative": 1.35,
+       "drop": "32.85%",
+       "describe": "cloth wrist"
+      },
+      {
+       "id": 270227,
+       "name": "Ephemeral Choker",
+       "slottype": "neck",
+       "req": 13,
+       "central": 1.0,
+       "conservative": 1.0,
+       "drop": "32.85%",
+       "describe": "neck +5 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Faldrim Anvilmar):|r roll on |cff66ff66Spiritwraith Drape|r (cloak +3 Agi +4 Spi, 33.76% drop); |cff66ff66Aetherwisp Bracers|r (cloth wrist, 32.85% drop); |cff66ff66Ephemeral Choker|r (neck +5 Spi, 32.85% drop)"
+    },
+    {
+     "dropper": "Magmatus",
+     "npc_ids": [
+      261316
+     ],
+     "items": [
+      {
+       "id": 271095,
+       "name": "Fang of Magmatus",
+       "slottype": "dagger",
+       "req": 13,
+       "central": 112.36,
+       "conservative": 80.6,
+       "drop": "34.81%",
+       "describe": "dagger 7.9 dps +4 Int"
+      },
+      {
+       "id": 270231,
+       "name": "Flamefist Grips",
+       "slottype": "hands leather",
+       "req": 13,
+       "central": 9.55,
+       "conservative": 7.53,
+       "drop": "29.01%",
+       "describe": "leather hands +5 Agi +5 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Magmatus):|r roll on |cff66ff66Fang of Magmatus|r (dagger 7.9 dps +4 Int, 34.81% drop); |cff66ff66Flamefist Grips|r (leather hands +5 Agi +5 Spi, 29.01% drop)"
+    },
+    {
+     "dropper": "Plunder",
+     "npc_ids": [
+      261311
+     ],
+     "items": [
+      {
+       "id": 270228,
+       "name": "Golemheart Stave",
+       "slottype": "staff",
+       "req": 13,
+       "central": 166.32,
+       "conservative": 118.8,
+       "drop": "33.97%",
+       "describe": "staff 11.9 dps"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Plunder):|r roll on |cff66ff66Golemheart Stave|r (staff 11.9 dps, 33.97% drop)"
+    }
+   ],
+   "missing_tooltips": []
+  },
+  {
+   "chapter": "07",
+   "file": "07_Deadmines.lua",
+   "zone": 1581,
+   "band": 20,
+   "levels": [
+    19,
+    20
+   ],
+   "groups": [
+    {
+     "dropper": "Captain Greenskin",
+     "npc_ids": [
+      647
+     ],
+     "items": [
+      {
+       "id": 5201,
+       "name": "Emberstone Staff",
+       "slottype": "staff",
+       "req": 17,
+       "central": 203.18,
+       "conservative": 146.5,
+       "drop": "37.82%",
+       "describe": "staff 14.2 dps +8 Sta"
+      },
+      {
+       "id": 10403,
+       "name": "Blackened Defias Belt",
+       "slottype": "waist leather",
+       "req": 17,
+       "central": 18.0,
+       "conservative": 18.0,
+       "drop": "26.62%",
+       "describe": "leather waist +18 AP"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Captain Greenskin):|r roll on |cff66ff66Emberstone Staff|r (staff 14.2 dps +8 Sta, 37.82% drop); |cff66ff66Blackened Defias Belt|r (leather waist +18 AP, 26.62% drop)"
+    },
+    {
+     "dropper": "Cookie",
+     "npc_ids": [
+      645
+     ],
+     "items": [
+      {
+       "id": 5197,
+       "name": "Cookie's Tenderizer",
+       "slottype": "1H mace",
+       "req": 16,
+       "central": 195.82,
+       "conservative": 140.1,
+       "drop": "54.07%",
+       "describe": "1H mace 13.9 dps +4 Spi"
+      },
+      {
+       "id": 273298,
+       "name": "Lookie's Spyglass",
+       "slottype": "trinket",
+       "req": 18,
+       "central": 0.2,
+       "conservative": 0.2,
+       "drop": "1.04%",
+       "describe": "trinket +1 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Cookie):|r roll on |cff66ff66Cookie's Tenderizer|r (1H mace 13.9 dps +4 Spi, 54.07% drop); |cff66ff66Lookie's Spyglass|r (trinket +1 Spi, 1.04% drop)"
+    },
+    {
+     "dropper": "Defias Blackguard",
+     "npc_ids": [
+      636
+     ],
+     "items": [
+      {
+       "id": 1934,
+       "name": "Stonemason Trousers",
+       "slottype": "legs leather",
+       "req": 15,
+       "central": 12.6,
+       "conservative": 10.5,
+       "drop": "5.74%",
+       "describe": "leather legs +7 Agi +7 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Defias Blackguard):|r roll on |cff66ff66Stonemason Trousers|r (leather legs +7 Agi +7 Spi, 5.74% drop)"
+    },
+    {
+     "dropper": "Defias Miner",
+     "npc_ids": [
+      598
+     ],
+     "items": [
+      {
+       "id": 1930,
+       "name": "Stonemason Cloak",
+       "slottype": "back cloth",
+       "req": 13,
+       "central": 1.8,
+       "conservative": 1.8,
+       "drop": "2.68%",
+       "describe": "cloak +3 Sta"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Defias Miner):|r roll on |cff66ff66Stonemason Cloak|r (cloak +3 Sta, 2.68% drop)"
+    },
+    {
+     "dropper": "Defias Strip Miner",
+     "npc_ids": [
+      4416
+     ],
+     "items": [
+      {
+       "id": 10402,
+       "name": "Blackened Defias Boots",
+       "slottype": "feet leather",
+       "req": 15,
+       "central": 12.0,
+       "conservative": 10.2,
+       "drop": "2.92%",
+       "describe": "leather feet +6 Agi +4 Sta"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Defias Strip Miner):|r roll on |cff66ff66Blackened Defias Boots|r (leather feet +6 Agi +4 Sta, 2.92% drop)"
+    },
+    {
+     "dropper": "Edwin VanCleef",
+     "npc_ids": [
+      639
+     ],
+     "items": [
+      {
+       "id": 10399,
+       "name": "Blackened Defias Armor",
+       "slottype": "chest leather",
+       "req": 17,
+       "central": 18.8,
+       "conservative": 17.9,
+       "drop": "15.43%",
+       "describe": "leather chest +4 Str +3 Agi +10 Sta"
+      },
+      {
+       "id": 5193,
+       "name": "Cape of the Brotherhood",
+       "slottype": "back cloth",
+       "req": 19,
+       "central": 9.8,
+       "conservative": 8.3,
+       "drop": "22.91%",
+       "describe": "cloak +5 Agi +3 Sta"
+      },
+      {
+       "id": 5202,
+       "name": "Corsair's Overshirt",
+       "slottype": "chest cloth",
+       "req": 17,
+       "central": 4.6,
+       "conservative": 4.6,
+       "drop": "23.30%",
+       "describe": "cloth chest +5 Sta +8 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Edwin VanCleef):|r roll on |cff66ff66Blackened Defias Armor|r (leather chest +4 Str +3 Agi +10 Sta, 15.43% drop); |cff66ff66Cape of the Brotherhood|r (cloak +5 Agi +3 Sta, 22.91% drop); |cff66ff66Corsair's Overshirt|r (cloth chest +5 Sta +8 Spi, 23.30% drop)"
+    },
+    {
+     "dropper": "Gilnid",
+     "npc_ids": [
+      1763
+     ],
+     "items": [
+      {
+       "id": 273297,
+       "name": "Goblin Hammer",
+       "slottype": "1H mace",
+       "req": 18,
+       "central": 215.9,
+       "conservative": 154.9,
+       "drop": "1.30%",
+       "describe": "1H mace 15.2 dps +4 Sta"
+      },
+      {
+       "id": 5199,
+       "name": "Smelting Pants",
+       "slottype": "legs leather",
+       "req": 16,
+       "central": 5.2,
+       "conservative": 5.2,
+       "drop": "55.26%",
+       "describe": "leather legs +7 Sta +5 Spi"
+      },
+      {
+       "id": 1156,
+       "name": "Lavishly Jeweled Ring",
+       "slottype": "finger",
+       "req": 17,
+       "central": 4.4,
+       "conservative": 3.8,
+       "drop": "37.47%",
+       "describe": "ring +2 Agi +6 Int"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Gilnid):|r roll on |cff66ff66Goblin Hammer|r (1H mace 15.2 dps +4 Sta, 1.30% drop); |cff66ff66Smelting Pants|r (leather legs +7 Sta +5 Spi, 55.26% drop); |cff66ff66Lavishly Jeweled Ring|r (ring +2 Agi +6 Int, 37.47% drop)"
+    },
+    {
+     "dropper": "Goblin Craftsman",
+     "npc_ids": [
+      1731
+     ],
+     "items": [
+      {
+       "id": 1944,
+       "name": "Metalworking Gloves",
+       "slottype": "hands leather",
+       "req": 13,
+       "central": 6.6,
+       "conservative": 6.6,
+       "drop": "5.41%",
+       "describe": "leather hands +3 Str +1 Sta"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Goblin Craftsman):|r roll on |cff66ff66Metalworking Gloves|r (leather hands +3 Str +1 Sta, 5.41% drop)"
+    },
+    {
+     "dropper": "Goblin Engineer",
+     "npc_ids": [
+      622
+     ],
+     "items": [
+      {
+       "id": 1936,
+       "name": "Goblin Screwdriver",
+       "slottype": "dagger",
+       "req": 13,
+       "central": 176.36,
+       "conservative": 126.6,
+       "drop": "5.74%",
+       "describe": "dagger 12.1 dps +4 Agi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Goblin Engineer):|r roll on |cff66ff66Goblin Screwdriver|r (dagger 12.1 dps +4 Agi, 5.74% drop)"
+    },
+    {
+     "dropper": "Goblin Woodcarver",
+     "npc_ids": [
+      641
+     ],
+     "items": [
+      {
+       "id": 1945,
+       "name": "Woodworking Gloves",
+       "slottype": "hands leather",
+       "req": 13,
+       "central": 1.0,
+       "conservative": 1.0,
+       "drop": "6.86%",
+       "describe": "leather hands +3 Int +2 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Goblin Woodcarver):|r roll on |cff66ff66Woodworking Gloves|r (leather hands +3 Int +2 Spi, 6.86% drop)"
+    },
+    {
+     "dropper": "Miner Johnson",
+     "npc_ids": [
+      3586
+     ],
+     "items": [
+      {
+       "id": 5444,
+       "name": "Miner's Cape",
+       "slottype": "back cloth",
+       "req": 17,
+       "central": 13.0,
+       "conservative": 13.0,
+       "drop": "55.04%",
+       "describe": "cloak +5 Sta +10 AP"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Miner Johnson):|r roll on |cff66ff66Miner's Cape|r (cloak +5 Sta +10 AP, 55.04% drop)"
+    },
+    {
+     "dropper": "Mr. Smite",
+     "npc_ids": [
+      646
+     ],
+     "items": [
+      {
+       "id": 7230,
+       "name": "Smite's Mighty Hammer",
+       "slottype": "2H mace",
+       "req": 18,
+       "central": 304.34,
+       "conservative": 224.3,
+       "drop": "18.74%",
+       "describe": "2H mace 19.7 dps +11 Str +4 Agi"
+      },
+      {
+       "id": 284715,
+       "name": "First Mate Band",
+       "slottype": "finger",
+       "req": 17,
+       "central": 11.0,
+       "conservative": 11.0,
+       "drop": "1.01%",
+       "describe": "ring +4 Str +5 Sta"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Mr. Smite):|r roll on |cff66ff66Smite's Mighty Hammer|r (2H mace 19.7 dps +11 Str +4 Agi, 18.74% drop); |cff66ff66First Mate Band|r (ring +4 Str +5 Sta, 1.01% drop)"
+    },
+    {
+     "dropper": "Rhahk'Zor",
+     "npc_ids": [
+      644,
+      274298
+     ],
+     "items": [
+      {
+       "id": 5187,
+       "name": "Rhahk'Zor's Hammer",
+       "slottype": "2H mace",
+       "req": 16,
+       "central": 262.96,
+       "conservative": 189.2,
+       "drop": "70.21%",
+       "describe": "2H mace 18.4 dps +8 Sta"
+      },
+      {
+       "id": 273289,
+       "name": "Ogre Loincloth",
+       "slottype": "legs cloth",
+       "req": 17,
+       "central": 11.6,
+       "conservative": 11.6,
+       "drop": "1.56%",
+       "describe": "cloth legs +4 Str +6 Sta"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Rhahk'Zor):|r roll on |cff66ff66Rhahk'Zor's Hammer|r (2H mace 18.4 dps +8 Sta, 70.21% drop); |cff66ff66Ogre Loincloth|r (cloth legs +4 Str +6 Sta, 1.56% drop)"
+    },
+    {
+     "dropper": "Sneed",
+     "npc_ids": [
+      643
+     ],
+     "items": [
+      {
+       "id": 5195,
+       "name": "Gold-flecked Gloves",
+       "slottype": "hands cloth",
+       "req": 17,
+       "central": 14.0,
+       "conservative": 14.0,
+       "drop": "66.79%",
+       "describe": "cloth hands +7 Str"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Sneed):|r roll on |cff66ff66Gold-flecked Gloves|r (cloth hands +7 Str, 66.79% drop)"
+    },
+    {
+     "dropper": "Sneed's Shredder",
+     "npc_ids": [
+      642
+     ],
+     "items": [
+      {
+       "id": 2169,
+       "name": "Buzzer Blade",
+       "slottype": "dagger",
+       "req": 16,
+       "central": 126.0,
+       "conservative": 90.0,
+       "drop": "49.98%",
+       "describe": "dagger 9.0 dps"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Sneed's Shredder):|r roll on |cff66ff66Buzzer Blade|r (dagger 9.0 dps, 49.98% drop)"
+    },
+    {
+     "dropper": "trash",
+     "npc_ids": [],
+     "items": [
+      {
+       "id": 10400,
+       "name": "Blackened Defias Leggings",
+       "slottype": "legs leather",
+       "req": 14,
+       "central": 21.6,
+       "conservative": 19.8,
+       "drop": "unknown",
+       "describe": "leather legs +6 Str +6 Agi"
+      },
+      {
+       "id": 10401,
+       "name": "Blackened Defias Gloves",
+       "slottype": "hands leather",
+       "req": 14,
+       "central": 13.2,
+       "conservative": 13.2,
+       "drop": "unknown",
+       "describe": "leather hands +6 Str +2 Sta"
+      },
+      {
+       "id": 1929,
+       "name": "Silk-threaded Trousers",
+       "slottype": "legs cloth",
+       "req": 13,
+       "central": 8.0,
+       "conservative": 6.5,
+       "drop": "unknown",
+       "describe": "cloth legs +5 Agi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (trash):|r roll on |cff66ff66Blackened Defias Leggings|r (leather legs +6 Str +6 Agi); |cff66ff66Blackened Defias Gloves|r (leather hands +6 Str +2 Sta); |cff66ff66Silk-threaded Trousers|r (cloth legs +5 Agi)"
+    }
+   ],
+   "missing_tooltips": []
+  },
+  {
+   "chapter": "08",
+   "file": "08_RuinsOfLordaeron.lua",
+   "zone": 16611,
+   "band": 20,
+   "levels": [
+    20,
+    21
+   ],
+   "groups": [
+    {
+     "dropper": "Bjork",
+     "npc_ids": [
+      256097
+     ],
+     "items": [
+      {
+       "id": 271210,
+       "name": "Tuskwrap Belt",
+       "slottype": "waist cloth",
+       "req": 16,
+       "central": 1.0,
+       "conservative": 1.0,
+       "drop": "33.59%",
+       "describe": "cloth waist +5 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Bjork):|r roll on |cff66ff66Tuskwrap Belt|r (cloth waist +5 Spi, 33.59% drop)"
+    },
+    {
+     "dropper": "Rath'mael",
+     "npc_ids": [
+      250657
+     ],
+     "items": [
+      {
+       "id": 271215,
+       "name": "Coldspire Staff",
+       "slottype": "staff",
+       "req": 19,
+       "central": 211.96,
+       "conservative": 151.4,
+       "drop": "32.72%",
+       "describe": "staff 15.1 dps"
+      },
+      {
+       "id": 271214,
+       "name": "Rotmender's Treads",
+       "slottype": "feet cloth",
+       "req": 19,
+       "central": 4.2,
+       "conservative": 4.2,
+       "drop": "30.09%",
+       "describe": "cloth feet +7 Sta"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Rath'mael):|r roll on |cff66ff66Coldspire Staff|r (staff 15.1 dps, 32.72% drop); |cff66ff66Rotmender's Treads|r (cloth feet +7 Sta, 30.09% drop)"
+    },
+    {
+     "dropper": "The Abandoned",
+     "npc_ids": [
+      250631
+     ],
+     "items": [
+      {
+       "id": 271216,
+       "name": "Scepter of the Abandoned",
+       "slottype": "1H mace",
+       "req": 17,
+       "central": 134.68,
+       "conservative": 96.2,
+       "drop": "33.65%",
+       "describe": "1H mace 9.6 dps"
+      },
+      {
+       "id": 271207,
+       "name": "Rotmender's Leggings",
+       "slottype": "legs cloth",
+       "req": 17,
+       "central": 3.0,
+       "conservative": 3.0,
+       "drop": "34.45%",
+       "describe": "cloth legs +5 Sta"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (The Abandoned):|r roll on |cff66ff66Scepter of the Abandoned|r (1H mace 9.6 dps, 33.65% drop); |cff66ff66Rotmender's Leggings|r (cloth legs +5 Sta, 34.45% drop)"
+    },
+    {
+     "dropper": "The Baron",
+     "npc_ids": [
+      250660
+     ],
+     "items": [
+      {
+       "id": 271204,
+       "name": "Meathook Slicer",
+       "slottype": "dagger",
+       "req": 15,
+       "central": 193.54,
+       "conservative": 139.1,
+       "drop": "30.41%",
+       "describe": "dagger 13.6 dps +5 Sta"
+      },
+      {
+       "id": 271206,
+       "name": "Leftover Abomination Skin",
+       "slottype": "chest cloth",
+       "req": 15,
+       "central": 1.8,
+       "conservative": 1.8,
+       "drop": "31.42%",
+       "describe": "cloth chest +9 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (The Baron):|r roll on |cff66ff66Meathook Slicer|r (dagger 13.6 dps +5 Sta, 30.41% drop); |cff66ff66Leftover Abomination Skin|r (cloth chest +9 Spi, 31.42% drop)"
+    },
+    {
+     "dropper": "Viktor the Vile",
+     "npc_ids": [
+      256035
+     ],
+     "items": [
+      {
+       "id": 271212,
+       "name": "Bloodied Chestwraps",
+       "slottype": "chest leather",
+       "req": 17,
+       "central": 13.0,
+       "conservative": 10.9,
+       "drop": "33.01%",
+       "describe": "leather chest +7 Agi +9 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Viktor the Vile):|r roll on |cff66ff66Bloodied Chestwraps|r (leather chest +7 Agi +9 Spi, 33.01% drop)"
+    },
+    {
+     "dropper": "Witherfang",
+     "npc_ids": [
+      250483
+     ],
+     "items": [
+      {
+       "id": 271203,
+       "name": "Segmented Spider Leg",
+       "slottype": "staff",
+       "req": 15,
+       "central": 260.4,
+       "conservative": 187.7,
+       "drop": "31.42%",
+       "describe": "staff 17.5 dps +9 Agi +5 Spi"
+      },
+      {
+       "id": 271202,
+       "name": "Witherbite Bracers",
+       "slottype": "wrist leather",
+       "req": 15,
+       "central": 6.4,
+       "conservative": 5.2,
+       "drop": "28.87%",
+       "describe": "leather wrist +4 Agi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Witherfang):|r roll on |cff66ff66Segmented Spider Leg|r (staff 17.5 dps +9 Agi +5 Spi, 31.42% drop); |cff66ff66Witherbite Bracers|r (leather wrist +4 Agi, 28.87% drop)"
+    }
+   ],
+   "missing_tooltips": []
+  },
+  {
+   "chapter": "13",
+   "file": "13_Blackfathom.lua",
+   "zone": 719,
+   "band": 25,
+   "levels": [
+    25,
+    26
+   ],
+   "groups": [
+    {
+     "dropper": "Aku'mai",
+     "npc_ids": [
+      4829
+     ],
+     "items": [
+      {
+       "id": 252514,
+       "name": "Stormrider's Leather Helm",
+       "slottype": "head leather",
+       "req": 25,
+       "central": 9.8,
+       "conservative": 9.8,
+       "drop": "unknown",
+       "describe": "leather head +13 Sta +10 Spi"
+      },
+      {
+       "id": 6910,
+       "name": "Leech Pants",
+       "slottype": "legs cloth",
+       "req": 24,
+       "central": 3.0,
+       "conservative": 3.0,
+       "drop": "35.17%",
+       "describe": "cloth legs +5 Sta"
+      },
+      {
+       "id": 6911,
+       "name": "Moss Cinch",
+       "slottype": "waist leather",
+       "req": 25,
+       "central": 3.0,
+       "conservative": 3.0,
+       "drop": "35.80%",
+       "describe": "leather waist +5 Sta"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Aku'mai):|r roll on |cff66ff66Stormrider's Leather Helm|r (leather head +13 Sta +10 Spi); |cff66ff66Leech Pants|r (cloth legs +5 Sta, 35.17% drop); |cff66ff66Moss Cinch|r (leather waist +5 Sta, 35.80% drop)"
+    },
+    {
+     "dropper": "Ghamoo-ra",
+     "npc_ids": [
+      4887
+     ],
+     "items": [
+      {
+       "id": 6908,
+       "name": "Ghamoo-ra's Bind",
+       "slottype": "waist cloth",
+       "req": 22,
+       "central": 4.2,
+       "conservative": 4.2,
+       "drop": "52.91%",
+       "describe": "cloth waist +7 Sta"
+      },
+      {
+       "id": 273839,
+       "name": "Spiked Shell Band",
+       "slottype": "finger",
+       "req": 22,
+       "central": 3.0,
+       "conservative": 3.0,
+       "drop": "4.19%",
+       "describe": "ring +5 Sta"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Ghamoo-ra):|r roll on |cff66ff66Ghamoo-ra's Bind|r (cloth waist +7 Sta, 52.91% drop); |cff66ff66Spiked Shell Band|r (ring +5 Sta, 4.19% drop)"
+    },
+    {
+     "dropper": "Lady Sarevess",
+     "npc_ids": [
+      4831
+     ],
+     "items": [
+      {
+       "id": 888,
+       "name": "Naga Battle Gloves",
+       "slottype": "hands leather",
+       "req": 22,
+       "central": 10.4,
+       "conservative": 10.4,
+       "drop": "36.62%",
+       "describe": "leather hands +4 Str +4 Sta"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Lady Sarevess):|r roll on |cff66ff66Naga Battle Gloves|r (leather hands +4 Str +4 Sta, 36.62% drop)"
+    },
+    {
+     "dropper": "Lorgus Jett",
+     "npc_ids": [
+      12902
+     ],
+     "items": [
+      {
+       "id": 273841,
+       "name": "Twilight Maul",
+       "slottype": "2H mace",
+       "req": 23,
+       "central": 320.32,
+       "conservative": 228.8,
+       "drop": "14.00%",
+       "describe": "2H mace 22.9 dps"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Lorgus Jett):|r roll on |cff66ff66Twilight Maul|r (2H mace 22.9 dps, 14.00% drop)"
+    },
+    {
+     "dropper": "Old Serra'kis",
+     "npc_ids": [
+      4830
+     ],
+     "items": [
+      {
+       "id": 6904,
+       "name": "Bite of Serra'kis",
+       "slottype": "dagger",
+       "req": 23,
+       "central": 247.66,
+       "conservative": 176.9,
+       "drop": "22.66%",
+       "describe": "dagger 17.7 dps"
+      },
+      {
+       "id": 6902,
+       "name": "Bands of Serra'kis",
+       "slottype": "wrist leather",
+       "req": 22,
+       "central": 13.8,
+       "conservative": 13.8,
+       "drop": "33.41%",
+       "describe": "leather wrist +6 Str +3 Sta"
+      },
+      {
+       "id": 6901,
+       "name": "Glowing Thresher Cape",
+       "slottype": "back cloth",
+       "req": 24,
+       "central": 1.6,
+       "conservative": 1.6,
+       "drop": "37.86%",
+       "describe": "cloak +8 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Old Serra'kis):|r roll on |cff66ff66Bite of Serra'kis|r (dagger 17.7 dps, 22.66% drop); |cff66ff66Bands of Serra'kis|r (leather wrist +6 Str +3 Sta, 33.41% drop); |cff66ff66Glowing Thresher Cape|r (cloak +8 Spi, 37.86% drop)"
+    },
+    {
+     "dropper": "Twilight Lord Kelris",
+     "npc_ids": [
+      4832
+     ],
+     "items": [
+      {
+       "id": 1155,
+       "name": "Rod of the Sleepwalker",
+       "slottype": "staff",
+       "req": 24,
+       "central": 249.72,
+       "conservative": 179.0,
+       "drop": "47.99%",
+       "describe": "staff 17.7 dps +11 Spi"
+      },
+      {
+       "id": 252515,
+       "name": "Wisdom's Leather Helm",
+       "slottype": "head leather",
+       "req": 25,
+       "central": 7.8,
+       "conservative": 7.8,
+       "drop": "unknown",
+       "describe": "leather head +13 Sta"
+      },
+      {
+       "id": 6903,
+       "name": "Gaze Dreamer Pants",
+       "slottype": "legs cloth",
+       "req": 23,
+       "central": 1.8,
+       "conservative": 1.8,
+       "drop": "32.88%",
+       "describe": "cloth legs +9 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Twilight Lord Kelris):|r roll on |cff66ff66Rod of the Sleepwalker|r (staff 17.7 dps +11 Spi, 47.99% drop); |cff66ff66Wisdom's Leather Helm|r (leather head +13 Sta); |cff66ff66Gaze Dreamer Pants|r (cloth legs +9 Spi, 32.88% drop)"
+    },
+    {
+     "dropper": "trash",
+     "npc_ids": [],
+     "items": [
+      {
+       "id": 3413,
+       "name": "Doomspike",
+       "slottype": "dagger",
+       "req": 22,
+       "central": 250.42,
+       "conservative": 181.1,
+       "drop": "unknown",
+       "describe": "dagger 17.3 dps +3 Str +3 Sta"
+      },
+      {
+       "id": 3415,
+       "name": "Staff of the Friar",
+       "slottype": "staff",
+       "req": 21,
+       "central": 228.84,
+       "conservative": 165.0,
+       "drop": "unknown",
+       "describe": "staff 16.0 dps +4 Sta +3 Int +12 Spi"
+      },
+      {
+       "id": 2271,
+       "name": "Staff of the Blessed Seer",
+       "slottype": "staff",
+       "req": 20,
+       "central": 226.78,
+       "conservative": 164.1,
+       "drop": "unknown",
+       "describe": "staff 15.7 dps +9 Sta +10 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (trash):|r roll on |cff66ff66Doomspike|r (dagger 17.3 dps +3 Str +3 Sta); |cff66ff66Staff of the Friar|r (staff 16.0 dps +4 Sta +3 Int +12 Spi); |cff66ff66Staff of the Blessed Seer|r (staff 15.7 dps +9 Sta +10 Spi)"
+    }
+   ],
+   "missing_tooltips": []
+  },
+  {
+   "chapter": "15",
+   "file": "15_Stockade.lua",
+   "zone": 717,
+   "band": 25,
+   "levels": [
+    26,
+    27
+   ],
+   "groups": [
+    {
+     "dropper": "Bazil Thredd",
+     "npc_ids": [
+      1716
+     ],
+     "items": [
+      {
+       "id": 273824,
+       "name": "Defias Jailbreakers",
+       "slottype": "hands leather",
+       "req": 26,
+       "central": 13.8,
+       "conservative": 12.0,
+       "drop": "0.98%",
+       "describe": "leather hands +6 Agi +7 Sta"
+      },
+      {
+       "id": 252514,
+       "name": "Stormrider's Leather Helm",
+       "slottype": "head leather",
+       "req": 25,
+       "central": 9.8,
+       "conservative": 9.8,
+       "drop": "unknown",
+       "describe": "leather head +13 Sta +10 Spi"
+      },
+      {
+       "id": 4716,
+       "name": "Combat Cloak",
+       "slottype": "back cloth",
+       "req": 27,
+       "central": 4.0,
+       "conservative": 4.0,
+       "drop": "unknown",
+       "describe": "cloak +6 Sta +2 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Bazil Thredd):|r roll on |cff66ff66Defias Jailbreakers|r (leather hands +6 Agi +7 Sta, 0.98% drop); |cff66ff66Stormrider's Leather Helm|r (leather head +13 Sta +10 Spi); |cff66ff66Combat Cloak|r (cloak +6 Sta +2 Spi)"
+    },
+    {
+     "dropper": "Bruegal Ironknuckle",
+     "npc_ids": [
+      1720
+     ],
+     "items": [
+      {
+       "id": 2941,
+       "name": "Prison Shank",
+       "slottype": "dagger",
+       "req": 23,
+       "central": 259.72,
+       "conservative": 186.8,
+       "drop": "19.82%",
+       "describe": "dagger 17.8 dps +6 Agi +2 Sta"
+      },
+      {
+       "id": 2942,
+       "name": "Iron Knuckles",
+       "slottype": "fist weapon",
+       "req": 23,
+       "central": 247.1,
+       "conservative": 176.5,
+       "drop": "18.50%",
+       "describe": "fist weapon 17.6 dps"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Bruegal Ironknuckle):|r roll on |cff66ff66Prison Shank|r (dagger 17.8 dps +6 Agi +2 Sta, 19.82% drop); |cff66ff66Iron Knuckles|r (fist weapon 17.6 dps, 18.50% drop)"
+    },
+    {
+     "dropper": "Dextren Ward",
+     "npc_ids": [
+      1663
+     ],
+     "items": [
+      {
+       "id": 273817,
+       "name": "Graverobber's Shovel",
+       "slottype": "2H mace",
+       "req": 23,
+       "central": 339.58,
+       "conservative": 247.7,
+       "drop": "2.00%",
+       "describe": "2H mace 23.0 dps +10 Sta +12 AP"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Dextren Ward):|r roll on |cff66ff66Graverobber's Shovel|r (2H mace 23.0 dps +10 Sta +12 AP, 2.00% drop)"
+    },
+    {
+     "dropper": "Kam Deepfury",
+     "npc_ids": [
+      1666
+     ],
+     "items": [
+      {
+       "id": 2280,
+       "name": "Kam's Walking Stick",
+       "slottype": "staff",
+       "req": 24,
+       "central": 264.12,
+       "conservative": 190.4,
+       "drop": "2.93%",
+       "describe": "staff 17.7 dps +10 Agi +3 Int"
+      },
+      {
+       "id": 273807,
+       "name": "Demolition Girdle",
+       "slottype": "waist leather",
+       "req": 24,
+       "central": 16.0,
+       "conservative": 16.0,
+       "drop": "2.19%",
+       "describe": "leather waist +8 Str"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Kam Deepfury):|r roll on |cff66ff66Kam's Walking Stick|r (staff 17.7 dps +10 Agi +3 Int, 2.93% drop); |cff66ff66Demolition Girdle|r (leather waist +8 Str, 2.19% drop)"
+    },
+    {
+     "dropper": "Targorr the Dread",
+     "npc_ids": [
+      1696
+     ],
+     "items": [
+      {
+       "id": 273805,
+       "name": "Blackrock Harness",
+       "slottype": "chest leather",
+       "req": 21,
+       "central": 18.8,
+       "conservative": 18.8,
+       "drop": "1.70%",
+       "describe": "leather chest +8 Sta +14 AP"
+      },
+      {
+       "id": 273804,
+       "name": "Executioner Mantle",
+       "slottype": "shoulder leather",
+       "req": 21,
+       "central": 11.8,
+       "conservative": 11.8,
+       "drop": "1.50%",
+       "describe": "leather shoulders +9 Spi +10 AP"
+      },
+      {
+       "id": 273806,
+       "name": "Dark Horde Band",
+       "slottype": "finger",
+       "req": 21,
+       "central": 3.6,
+       "conservative": 3.6,
+       "drop": "1.68%",
+       "describe": "ring +6 Sta"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Targorr the Dread):|r roll on |cff66ff66Blackrock Harness|r (leather chest +8 Sta +14 AP, 1.70% drop); |cff66ff66Executioner Mantle|r (leather shoulders +9 Spi +10 AP, 1.50% drop); |cff66ff66Dark Horde Band|r (ring +6 Sta, 1.68% drop)"
+    },
+    {
+     "dropper": "trash",
+     "npc_ids": [],
+     "items": [
+      {
+       "id": 252455,
+       "name": "Defender's Leather Helm",
+       "slottype": "head leather",
+       "req": 25,
+       "central": 31.8,
+       "conservative": 31.8,
+       "drop": "unknown",
+       "describe": "leather head +12 Str +13 Sta"
+      },
+      {
+       "id": 252512,
+       "name": "Brawler's Leather Helm",
+       "slottype": "head leather",
+       "req": 25,
+       "central": 23.8,
+       "conservative": 20.8,
+       "drop": "unknown",
+       "describe": "leather head +10 Agi +13 Sta"
+      },
+      {
+       "id": 1076,
+       "name": "Defias Renegade Ring",
+       "slottype": "finger",
+       "req": 21,
+       "central": 10.0,
+       "conservative": 8.8,
+       "drop": "unknown",
+       "describe": "ring +4 Agi +6 Sta"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (trash):|r roll on |cff66ff66Defender's Leather Helm|r (leather head +12 Str +13 Sta); |cff66ff66Brawler's Leather Helm|r (leather head +10 Agi +13 Sta); |cff66ff66Defias Renegade Ring|r (ring +4 Agi +6 Sta)"
+    }
+   ],
+   "missing_tooltips": []
+  },
+  {
+   "chapter": "22",
+   "file": "22_ExcavationSite.lua",
+   "zone": 16732,
+   "band": 30,
+   "levels": [
+    29,
+    30
+   ],
+   "groups": [
+    {
+     "dropper": "Saltspine",
+     "npc_ids": [
+      260322
+     ],
+     "items": [
+      {
+       "id": 273022,
+       "name": "Supple Bellyskin Leggings",
+       "slottype": "legs leather",
+       "req": 26,
+       "central": 20.4,
+       "conservative": 20.4,
+       "drop": "34.53%",
+       "describe": "leather legs +6 Str +14 Sta"
+      },
+      {
+       "id": 273024,
+       "name": "Glinteye Slippers",
+       "slottype": "feet cloth",
+       "req": 26,
+       "central": 6.6,
+       "conservative": 6.6,
+       "drop": "30.95%",
+       "describe": "cloth feet +9 Sta +6 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Saltspine):|r roll on |cff66ff66Supple Bellyskin Leggings|r (leather legs +6 Str +14 Sta, 34.53% drop); |cff66ff66Glinteye Slippers|r (cloth feet +9 Sta +6 Spi, 30.95% drop)"
+    },
+    {
+     "dropper": "Shadetooth",
+     "npc_ids": [
+      260325
+     ],
+     "items": [
+      {
+       "id": 273026,
+       "name": "Garb of Florid Feathers",
+       "slottype": "chest leather",
+       "req": 26,
+       "central": 17.4,
+       "conservative": 14.7,
+       "drop": "32.06%",
+       "describe": "leather chest +9 Agi +15 Int"
+      },
+      {
+       "id": 273027,
+       "name": "Raptor's Gaze",
+       "slottype": "held in off-hand",
+       "req": 26,
+       "central": 3.2,
+       "conservative": 3.2,
+       "drop": "33.52%",
+       "describe": "held in off-hand +4 Sta +4 Int"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Shadetooth):|r roll on |cff66ff66Garb of Florid Feathers|r (leather chest +9 Agi +15 Int, 32.06% drop); |cff66ff66Raptor's Gaze|r (held in off-hand +4 Sta +4 Int, 33.52% drop)"
+    }
+   ],
+   "missing_tooltips": []
+  },
+  {
+   "chapter": "24",
+   "file": "24_Gnomeregan.lua",
+   "zone": 721,
+   "band": 30,
+   "levels": [
+    30,
+    31
+   ],
+   "groups": [
+    {
+     "dropper": "Crowd Pummeler 9-60",
+     "npc_ids": [
+      6229
+     ],
+     "items": [
+      {
+       "id": 9449,
+       "name": "Manual Crowd Pummeler",
+       "slottype": "2H mace",
+       "req": 29,
+       "central": 446.0,
+       "conservative": 328.5,
+       "drop": "33.03%",
+       "describe": "2H mace 29.0 dps +16 Str +5 Agi"
+      },
+      {
+       "id": 6396,
+       "name": "Emblazoned Chestpiece",
+       "slottype": "chest leather",
+       "req": 27,
+       "central": 16.0,
+       "conservative": 13.9,
+       "drop": "unknown",
+       "describe": "leather chest +7 Agi +6 Sta +6 Spi"
+      },
+      {
+       "id": 274068,
+       "name": "Thermaplugg Medal of Honor",
+       "slottype": "neck",
+       "req": 29,
+       "central": 14.8,
+       "conservative": 14.8,
+       "drop": "0.97%",
+       "describe": "neck +6 Sta +6 Spi +10 AP"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Crowd Pummeler 9-60):|r roll on |cff66ff66Manual Crowd Pummeler|r (2H mace 29.0 dps +16 Str +5 Agi, 33.03% drop); |cff66ff66Emblazoned Chestpiece|r (leather chest +7 Agi +6 Sta +6 Spi); |cff66ff66Thermaplugg Medal of Honor|r (neck +6 Sta +6 Spi +10 AP, 0.97% drop)"
+    },
+    {
+     "dropper": "Dark Iron Ambassador",
+     "npc_ids": [
+      6228
+     ],
+     "items": [
+      {
+       "id": 9457,
+       "name": "Royal Diplomatic Scepter",
+       "slottype": "1H mace",
+       "req": 30,
+       "central": 216.28,
+       "conservative": 155.4,
+       "drop": "21.62%",
+       "describe": "1H mace 15.2 dps +3 Sta +7 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Dark Iron Ambassador):|r roll on |cff66ff66Royal Diplomatic Scepter|r (1H mace 15.2 dps +3 Sta +7 Spi, 21.62% drop)"
+    },
+    {
+     "dropper": "Electrocutioner 6000",
+     "npc_ids": [
+      6235
+     ],
+     "items": [
+      {
+       "id": 9447,
+       "name": "Electrocutioner Lagnut",
+       "slottype": "finger",
+       "req": 29,
+       "central": 3.8,
+       "conservative": 3.8,
+       "drop": "31.77%",
+       "describe": "ring +4 Sta +7 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Electrocutioner 6000):|r roll on |cff66ff66Electrocutioner Lagnut|r (ring +4 Sta +7 Spi, 31.77% drop)"
+    },
+    {
+     "dropper": "Grubbis",
+     "npc_ids": [
+      7361
+     ],
+     "items": [
+      {
+       "id": 274042,
+       "name": "Skullduggery Belt",
+       "slottype": "waist leather",
+       "req": 29,
+       "central": 17.4,
+       "conservative": 17.4,
+       "drop": "1.98%",
+       "describe": "leather waist +7 Spi +16 AP"
+      },
+      {
+       "id": 252514,
+       "name": "Stormrider's Leather Helm",
+       "slottype": "head leather",
+       "req": 25,
+       "central": 9.8,
+       "conservative": 9.8,
+       "drop": "unknown",
+       "describe": "leather head +13 Sta +10 Spi"
+      },
+      {
+       "id": 252515,
+       "name": "Wisdom's Leather Helm",
+       "slottype": "head leather",
+       "req": 25,
+       "central": 7.8,
+       "conservative": 7.8,
+       "drop": "unknown",
+       "describe": "leather head +13 Sta"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Grubbis):|r roll on |cff66ff66Skullduggery Belt|r (leather waist +7 Spi +16 AP, 1.98% drop); |cff66ff66Stormrider's Leather Helm|r (leather head +13 Sta +10 Spi); |cff66ff66Wisdom's Leather Helm|r (leather head +13 Sta)"
+    },
+    {
+     "dropper": "Mekgineer Thermaplugg",
+     "npc_ids": [
+      7800
+     ],
+     "items": [
+      {
+       "id": 9492,
+       "name": "Electromagnetic Gigaflux Reactivator",
+       "slottype": "head cloth",
+       "req": 31,
+       "central": 3.4,
+       "conservative": 3.4,
+       "drop": "9.92%",
+       "describe": "cloth head +8 Int +9 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Mekgineer Thermaplugg):|r roll on |cff66ff66Electromagnetic Gigaflux Reactivator|r (cloth head +8 Int +9 Spi, 9.92% drop)"
+    },
+    {
+     "dropper": "Viscous Fallout",
+     "npc_ids": [
+      7079
+     ],
+     "items": [
+      {
+       "id": 9453,
+       "name": "Toxic Revenger",
+       "slottype": "dagger",
+       "req": 27,
+       "central": 287.42,
+       "conservative": 205.3,
+       "drop": "18.25%",
+       "describe": "dagger 20.5 dps"
+      },
+      {
+       "id": 9452,
+       "name": "Hydrocane",
+       "slottype": "staff",
+       "req": 27,
+       "central": 277.48,
+       "conservative": 198.2,
+       "drop": "20.03%",
+       "describe": "staff 19.8 dps"
+      },
+      {
+       "id": 9454,
+       "name": "Acidic Walkers",
+       "slottype": "feet cloth",
+       "req": 27,
+       "central": 2.4,
+       "conservative": 2.4,
+       "drop": "59.01%",
+       "describe": "cloth feet +8 Int +4 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Viscous Fallout):|r roll on |cff66ff66Toxic Revenger|r (dagger 20.5 dps, 18.25% drop); |cff66ff66Hydrocane|r (staff 19.8 dps, 20.03% drop); |cff66ff66Acidic Walkers|r (cloth feet +8 Int +4 Spi, 59.01% drop)"
+    },
+    {
+     "dropper": "trash",
+     "npc_ids": [],
+     "items": [
+      {
+       "id": 9488,
+       "name": "Oscillating Power Hammer",
+       "slottype": "1H mace",
+       "req": 23,
+       "central": 255.6,
+       "conservative": 185.6,
+       "drop": "unknown",
+       "describe": "1H mace 17.5 dps +5 Str +1 Sta"
+      },
+      {
+       "id": 9509,
+       "name": "Petrolspill Leggings",
+       "slottype": "legs leather",
+       "req": 25,
+       "central": 26.0,
+       "conservative": 21.8,
+       "drop": "unknown",
+       "describe": "leather legs +14 Agi +6 Sta"
+      },
+      {
+       "id": 9491,
+       "name": "Hotshot Pilot's Gloves",
+       "slottype": "hands cloth",
+       "req": 27,
+       "central": 12.0,
+       "conservative": 10.8,
+       "drop": "unknown",
+       "describe": "cloth hands +4 Agi +5 Sta +8 Int +5 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (trash):|r roll on |cff66ff66Oscillating Power Hammer|r (1H mace 17.5 dps +5 Str +1 Sta); |cff66ff66Petrolspill Leggings|r (leather legs +14 Agi +6 Sta); |cff66ff66Hotshot Pilot's Gloves|r (cloth hands +4 Agi +5 Sta +8 Int +5 Spi)"
+    }
+   ],
+   "missing_tooltips": []
+  },
+  {
+   "chapter": "26",
+   "file": "26_RazorfenKraul.lua",
+   "zone": 491,
+   "band": 30,
+   "levels": [
+    30,
+    31
+   ],
+   "groups": [
+    {
+     "dropper": "Agathelos the Raging",
+     "npc_ids": [
+      4422
+     ],
+     "items": [
+      {
+       "id": 6691,
+       "name": "Swinetusk Shank",
+       "slottype": "dagger",
+       "req": 30,
+       "central": 219.02,
+       "conservative": 157.7,
+       "drop": "33.57%",
+       "describe": "dagger 15.3 dps +6 Sta +4 Spi"
+      },
+      {
+       "id": 6690,
+       "name": "Ferine Leggings",
+       "slottype": "legs leather",
+       "req": 29,
+       "central": 28.4,
+       "conservative": 28.4,
+       "drop": "59.52%",
+       "describe": "leather legs +12 Int +26 AP"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Agathelos the Raging):|r roll on |cff66ff66Swinetusk Shank|r (dagger 15.3 dps +6 Sta +4 Spi, 33.57% drop); |cff66ff66Ferine Leggings|r (leather legs +12 Int +26 AP, 59.52% drop)"
+    },
+    {
+     "dropper": "Aggem Thorncurse",
+     "npc_ids": [
+      4424
+     ],
+     "items": [
+      {
+       "id": 6681,
+       "name": "Thornspike",
+       "slottype": "dagger",
+       "req": 27,
+       "central": 288.26,
+       "conservative": 205.9,
+       "drop": "44.79%",
+       "describe": "dagger 20.6 dps"
+      },
+      {
+       "id": 274158,
+       "name": "Death Prophet Spine",
+       "slottype": "staff",
+       "req": 26,
+       "central": 271.62,
+       "conservative": 195.9,
+       "drop": "4.14%",
+       "describe": "staff 18.9 dps +11 Sta"
+      },
+      {
+       "id": 274159,
+       "name": "Thorncursed Grips",
+       "slottype": "hands leather",
+       "req": 27,
+       "central": 18.0,
+       "conservative": 18.0,
+       "drop": "4.51%",
+       "describe": "leather hands +18 AP"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Aggem Thorncurse):|r roll on |cff66ff66Thornspike|r (dagger 20.6 dps, 44.79% drop); |cff66ff66Death Prophet Spine|r (staff 18.9 dps +11 Sta, 4.14% drop); |cff66ff66Thorncursed Grips|r (leather hands +18 AP, 4.51% drop)"
+    },
+    {
+     "dropper": "Blind Hunter",
+     "npc_ids": [
+      4425
+     ],
+     "items": [
+      {
+       "id": 6697,
+       "name": "Batwing Mantle",
+       "slottype": "shoulder cloth",
+       "req": 29,
+       "central": 7.0,
+       "conservative": 6.1,
+       "drop": "34.42%",
+       "describe": "cloth shoulders +3 Agi +11 Int"
+      },
+      {
+       "id": 6695,
+       "name": "Stygian Bone Amulet",
+       "slottype": "neck",
+       "req": 29,
+       "central": 2.4,
+       "conservative": 2.4,
+       "drop": "26.00%",
+       "describe": "neck +4 Sta"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Blind Hunter):|r roll on |cff66ff66Batwing Mantle|r (cloth shoulders +3 Agi +11 Int, 34.42% drop); |cff66ff66Stygian Bone Amulet|r (neck +4 Sta, 26.00% drop)"
+    },
+    {
+     "dropper": "Charlga Razorflank",
+     "npc_ids": [
+      4421
+     ],
+     "items": [
+      {
+       "id": 6693,
+       "name": "Agamaggan's Clutch",
+       "slottype": "finger",
+       "req": 30,
+       "central": 4.2,
+       "conservative": 4.2,
+       "drop": "34.89%",
+       "describe": "ring +5 Sta +6 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Charlga Razorflank):|r roll on |cff66ff66Agamaggan's Clutch|r (ring +5 Sta +6 Spi, 34.89% drop)"
+    },
+    {
+     "dropper": "Death Speaker Jargba",
+     "npc_ids": [
+      4428
+     ],
+     "items": [
+      {
+       "id": 2816,
+       "name": "Death Speaker Scepter",
+       "slottype": "1H mace",
+       "req": 28,
+       "central": 200.06,
+       "conservative": 142.9,
+       "drop": "11.68%",
+       "describe": "1H mace 14.3 dps"
+      },
+      {
+       "id": 252514,
+       "name": "Stormrider's Leather Helm",
+       "slottype": "head leather",
+       "req": 25,
+       "central": 9.8,
+       "conservative": 9.8,
+       "drop": "unknown",
+       "describe": "leather head +13 Sta +10 Spi"
+      },
+      {
+       "id": 6682,
+       "name": "Death Speaker Robes",
+       "slottype": "chest cloth",
+       "req": 26,
+       "central": 4.6,
+       "conservative": 4.6,
+       "drop": "41.99%",
+       "describe": "cloth chest +4 Sta +11 Int"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Death Speaker Jargba):|r roll on |cff66ff66Death Speaker Scepter|r (1H mace 14.3 dps, 11.68% drop); |cff66ff66Stormrider's Leather Helm|r (leather head +13 Sta +10 Spi); |cff66ff66Death Speaker Robes|r (cloth chest +4 Sta +11 Int, 41.99% drop)"
+    },
+    {
+     "dropper": "Earthcaller Halmgar",
+     "npc_ids": [
+      4842
+     ],
+     "items": [
+      {
+       "id": 6689,
+       "name": "Wind Spirit Staff",
+       "slottype": "staff",
+       "req": 29,
+       "central": 305.84,
+       "conservative": 220.4,
+       "drop": "48.00%",
+       "describe": "staff 21.4 dps +6 Sta +16 Spi"
+      },
+      {
+       "id": 6688,
+       "name": "Whisperwind Headdress",
+       "slottype": "head leather",
+       "req": 29,
+       "central": 8.8,
+       "conservative": 8.8,
+       "drop": "46.84%",
+       "describe": "leather head +11 Sta +11 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Earthcaller Halmgar):|r roll on |cff66ff66Wind Spirit Staff|r (staff 21.4 dps +6 Sta +16 Spi, 48.00% drop); |cff66ff66Whisperwind Headdress|r (leather head +11 Sta +11 Spi, 46.84% drop)"
+    },
+    {
+     "dropper": "Roogug",
+     "npc_ids": [
+      6168
+     ],
+     "items": [
+      {
+       "id": 274155,
+       "name": "Geomancer Headdress",
+       "slottype": "head leather",
+       "req": 25,
+       "central": 2.8,
+       "conservative": 2.8,
+       "drop": "3.26%",
+       "describe": "leather head +14 Spi"
+      },
+      {
+       "id": 274152,
+       "name": "Roogug's Severed Head",
+       "slottype": "trinket",
+       "req": 25,
+       "central": 1.2,
+       "conservative": 1.2,
+       "drop": "2.95%",
+       "describe": "head +6 Spi"
+      },
+      {
+       "id": 274149,
+       "name": "Thornweaver Drape",
+       "slottype": "back cloth",
+       "req": 25,
+       "central": 1.2,
+       "conservative": 1.2,
+       "drop": "2.73%",
+       "describe": "cloak +6 Spi"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (Roogug):|r roll on |cff66ff66Geomancer Headdress|r (leather head +14 Spi, 3.26% drop); |cff66ff66Roogug's Severed Head|r (head +6 Spi, 2.95% drop); |cff66ff66Thornweaver Drape|r (cloak +6 Spi, 2.73% drop)"
+    },
+    {
+     "dropper": "trash",
+     "npc_ids": [],
+     "items": [
+      {
+       "id": 1976,
+       "name": "Slaghammer",
+       "slottype": "2H mace",
+       "req": 24,
+       "central": 360.5,
+       "conservative": 265.5,
+       "drop": "unknown",
+       "describe": "2H mace 23.8 dps +11 Str +10 Sta"
+      },
+      {
+       "id": 776,
+       "name": "Vendetta",
+       "slottype": "dagger",
+       "req": 26,
+       "central": 280.42,
+       "conservative": 201.4,
+       "drop": "unknown",
+       "describe": "dagger 19.2 dps +7 Agi"
+      },
+      {
+       "id": 2549,
+       "name": "Staff of the Shade",
+       "slottype": "staff",
+       "req": 22,
+       "central": 240.56,
+       "conservative": 174.4,
+       "drop": "unknown",
+       "describe": "staff 16.5 dps +15 Sta"
+      }
+     ],
+     "text": "[OC][A Druid] |cffffcc00Loot (trash):|r roll on |cff66ff66Slaghammer|r (2H mace 23.8 dps +11 Str +10 Sta); |cff66ff66Vendetta|r (dagger 19.2 dps +7 Agi); |cff66ff66Staff of the Shade|r (staff 16.5 dps +15 Sta)"
+    }
+   ],
+   "missing_tooltips": []
+  }
+ ],
+ "missing_tooltip_ids": [],
+ "counts": {
+  "quests": 115,
+  "picks": 97,
+  "coin_flips": 4,
+  "nothing": 4,
+  "not_gear": 10,
+  "unstated": 0,
+  "dungeon_groups": 56,
+  "missing_tooltips": 0,
+  "qt_without_choices": 459
+ }
+}
