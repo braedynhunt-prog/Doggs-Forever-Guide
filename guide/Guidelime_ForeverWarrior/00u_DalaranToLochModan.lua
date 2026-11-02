@@ -33,7 +33,7 @@ In the High Seat at [TAR2784 King Magni Bronzebeard], [QC93963,3] [G39.1,56.2 Ir
 In the Great Forge at [TAR1573 Gryth Thurden], get the [P Ironforge] flightpoint [G55.5,47.7 Ironforge]
 [OC]|cffffcc00Trainers for later Ironforge passes:|r Journeyman Skinning (Balthus Stoneflayer 39.9,32.5) and Mining (Geofram Bouldertoe 50.0,26.3) in the Great Forge, Cooking (Daryl Riknussun 60.1,36.4), First Aid (Nissa Firestone 55.1,58.3), Fishing (Grimnur Stonebrand 48.1,6.9, Forlorn Cavern) - each needs skill 50, so none of them is a stop yet
 
-[OC]|cffffffffDun Morogh|r  -  out the front gate and east along the road: Steelgrill's Depot, Amberstill Ranch, then the hill overlooking the Gol'Bolar Quarry on the right (4,090 XP on this road)
+[OC]|cffffffffDun Morogh|r  -  out the front gate and east along the road: Steelgrill's Depot, Amberstill Ranch, then the hill overlooking the Gol'Bolar Quarry on the right (4 hand-ins, 3,320 XP on this road; Ironband's Compound adds 660 in 11-15 Loch Modan)
 At [TAR1376 Beldin Steelgrill] at Steelgrill's Depot beside the road, [QA96408 A Visitor to Dun Morogh] (680 XP, handed to Farsen just ahead) [G50.4,49.1 Dun Morogh]
 At [TAR264936 Earthseer Farsen], [QT96408 A Visitor to Dun Morogh] [QA96392 Farsen's Watch] [G64.8,58.4 Dun Morogh]
 Talk to [TAR264936 Earthseer Farsen] again and pick the farsight option; move or press Esc to end the vision [QC96392] [G64.8,58.4 Dun Morogh]

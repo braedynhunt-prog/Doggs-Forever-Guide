@@ -12,7 +12,7 @@ Guidelime.registerGuide([[
 At [TAR251523 Constable Aonda] in the middle of the village, [QT92472] [QA93461 Welcome to Shen'dar Village] [G45.7,45.5 Zephras Isle]
 At [TAR251903 Rathiril Sunlance], [QA92596 The High Order] - sit down and talk to him [QC92596] [QC93461,1] [G45,46.4 Zephras Isle]
 At [TAR251903 Rathiril Sunlance], [QT92596] [QA94413 A Magical Affront] [G45,46.4 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r nothing for a warrior - vendor the Dowsing Rod (wand); drink the Elixir of Minor Strength before a hard pull
+[OC][A Warrior] |cffffcc00Gear:|r nothing for a warrior - vendor the Dowsing Rod (wand); drink the Elixir of Lion's Strength before a hard pull
 At [TAR254089 Coriella Calmbreeze] (innkeeper, northwest corner of the village), talk to her [QC93461,2] [G43,43.2 Zephras Isle]
 [A Warrior] At [TAR254088 Corsan Earthrazer] (warrior trainer, middle of the village), [T] train [G45,45.1 Zephras Isle]
 
