@@ -7,9 +7,9 @@
 
 ## Install (players)
 
-1. Install the **Guidelime** addon if you don't have it.
+1. Install the **Guidelime** addon, the Forever build (6.014 or later) - older Classic Era copies do not know Zephras Isle or the Skyborne.
 2. Download the zip for your character from the [latest release](https://github.com/braedynhunt-prog/Doggs-Forever-Guide/releases/latest): `Guidelime_ForeverShaman.zip` or `Guidelime_ForeverWarrior.zip`.
-3. Unzip it into `World of Warcraft\_classic_era_\Interface\AddOns\` so you end up with `Interface\AddOns\Guidelime_ForeverShaman\` (or `...\Guidelime_ForeverWarrior\`).
+3. Unzip it into `World of Warcraft\_forever_\Interface\AddOns\` (the Forever client's own folder, not `_classic_era_`) so you end up with `Interface\AddOns\Guidelime_ForeverShaman\` (or `...\Guidelime_ForeverWarrior\`).
 4. Restart the game, open Guidelime and pick **Forever Shaman 1-30** or **Forever Warrior 1-30**.
 
 The shaman addon was called `Guidelime_ForeverAlliance` until 1 Nov 2026; if you installed that, delete the old folder.
