@@ -67,6 +67,11 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                                    (first [TAR]; later ones on the line within 15); supersedes tarcheck.py, which still works
                          gates     recipes / trainer ranks / Camping 101 / fishing gear come after the steps that learn the
                                    profession, raise its cap or state a cook-to-N / fish-to-N target (skill_gates.json)
+                         xp        (1 Nov 2026) every "N XP" on a [QA]/[QT] line equals a quest on the line, an 80/60/40/20/10%
+                                   level-scaled share of one (+-5), or the line's sum; "A + B XP" is checked number by number.
+                                   Reads data\zone_*.json (a browser-refreshed zone's row wins; data\quests.json is not used).
+                                   Chain / pair totals are skipped: a number whose clause (its parentheses, else ~60 chars
+                                   around it) says chain, in all, pair, total, more or about, or contains a lone '+'
                        python tooling\verify.py            -> only findings missing from verify_baseline.txt, exit 1 if any
                        python tooling\verify.py --all      -> everything, grouped by module, NEW marks lines not in the baseline
                        python tooling\verify.py --update-baseline   after Braedyn accepts a finding

@@ -30,7 +30,7 @@ At [TAR311 Sven Yorgen] in his camp, [QT325] (590 XP) [G7.8,34.1 Duskwood]
 [O]At [TAR311 Sven Yorgen], [QT55] [G7.8,34.1 Duskwood]
 [OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Sparkmetal Coif|r (mail head +9 Str)
 [OC]|cffffcc00Gear (55):|r the fixed Torch of Holy Flame is a held-in-off-hand item (+5 Spi): your off-hand is the shield, vendor it
-[O]|cFFFF0000GROUP 3+|r Click A Weathered Grave in the cemetery [QA225 The Weathered Grave] (the Mor'Ladim chain, 4,640 XP in all; this part only sends you to Sirra in Darkshire) [G17.7,29.1 Duskwood]
+[O]|cFFFF0000GROUP 3+|r Click A Weathered Grave in the cemetery [QA225 The Weathered Grave] (the Mor'Ladim chain, 5,340 XP in all; this part only sends you to Sirra in Darkshire) [G17.7,29.1 Duskwood]
 [OC]Run back to Darkshire: the next stop hands in the Docket
 At [TAR840 Watcher Backus], [QT1244] [QA1245 The Missing Diplomat] (the Docket goes to Elling Trias in Stormwind, back in the city after this leg) [G74.8,44.2 Duskwood]
 [O]At [TAR268 Sirra Von'Indi], [QT225] [QA227 Morgan Ladimore] [G72.6,47.6 Duskwood]

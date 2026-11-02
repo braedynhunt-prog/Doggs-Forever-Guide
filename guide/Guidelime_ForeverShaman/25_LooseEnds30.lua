@@ -33,7 +33,7 @@ At [TAR311 Sven Yorgen] in his camp, [QT325] (590 XP) [G7.8,34.1 Duskwood]
 [O]At [TAR311 Sven Yorgen], [QT55] [G7.8,34.1 Duskwood]
 [OC][A Shaman] |cffffcc00Gear (55):|r the fixed Torch of Holy Flame is an off-hand (vendor it, you carry a two-hander). Choose the |cff66ff66Watch Master's Cloak|r (+7 Sta) if your cloak is plainer; Night Watch Pantaloons (cloth legs +9 Sta +8 Int) only if your legs have no stats; Sparkmetal Coif is MAIL: pass until 40
 [OC][A Hunter] |cffffcc00Gear (55):|r choose the |cff66ff66Watch Master's Cloak|r (+7 Sta) if your cloak is plainer; Pantaloons are cloth Int and the Sparkmetal Coif is mail: pass. The Torch (+5 Spi, off-hand) is vendor trash for you
-[O]|cFFFF0000GROUP 3+|r Click A Weathered Grave in the cemetery [QA225 The Weathered Grave] (the Mor'Ladim chain, 4,640 XP in all; this part only sends you to Sirra in Darkshire) [G17.7,29.1 Duskwood]
+[O]|cFFFF0000GROUP 3+|r Click A Weathered Grave in the cemetery [QA225 The Weathered Grave] (the Mor'Ladim chain, 5,340 XP in all; this part only sends you to Sirra in Darkshire) [G17.7,29.1 Duskwood]
 [OC]Run back to Darkshire: the next stop hands in the Docket
 At [TAR840 Watcher Backus], [QT1244] [QA1245 The Missing Diplomat] (the Docket goes to Elling Trias in Stormwind, back in the city after this leg) [G74.8,44.2 Duskwood]
 [O]At [TAR268 Sirra Von'Indi], [QT225] [QA227 Morgan Ladimore] [G72.6,47.6 Duskwood]

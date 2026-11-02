@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 r"""Data checks for the Forever Guidelime files (the flow check is check_guide.py; both read guidelib.py).
 
-Modules (python tooling\verify.py [--all] [--module questnpc,tar,gates] [--update-baseline] [--chain Dwarf]):
+Modules (python tooling\verify.py [--all] [--module questnpc,tar,gates,xp] [--update-baseline] [--chain Dwarf]):
   questnpc  every [QA]/[QT] line's [TAR] is the quest's starter / finisher in tooling/qdb/quest.json
   tar       every [TAR] exists in npc.json with the written name, and the line's [G x,y Zone] is within 3 units of a DB spawn
             (first [TAR] on the line; later ones only need to be within 15, they are "next to" the first)
   gates     skill-gated steps (recipes, trainer ranks, Camping 101) come after the steps that provide the skill
             (tooling/skill_gates.json: providers = learn / cook-to-N / fish-to-N / Journeyman; gates = min skill, mode)
+  xp        every "N XP" on a [QA]/[QT] line is that quest's XP, a level-scaled share (80/60/40/20/10%) or the line's sum (data/zone_*.json)
 Lines on the Dwarf Shaman route only (the Human / Hunter lines are unmaintained since 27 Oct 2026).
 
 Findings are "module  file:line  message". tooling/verify_baseline.txt holds the accepted ones (another addon folder named by
@@ -128,7 +129,75 @@ def check_gates(lines):
                 out.append((f, ln, f'{g["match"]} needs level {g["level"]}; the chapter tops out at {band[1]}{soft}{src}'))
     return out
 
-MODULES = {'questnpc': check_questnpc, 'tar': check_tar, 'gates': check_gates}
+# ---------------------------------------------------------------- xp
+# Quest XP from the Wowhead zone files (data/zone_*.json); data/quests.json (gl.atlas) is the September atlas and is not
+# refreshed, so it is not used here. A row from a browser-refreshed zone (file-level "_browser_refresh") wins.
+_XP = None
+XP_NUM = r'(?:\d{1,2},\d{3}|\d{2,5})'
+XP_SUM = re.compile(r'(?<![\d,])(' + XP_NUM + r'(?:\s*\+\s*' + XP_NUM + r')+)\s*XP')
+XP_ONE = re.compile(r'(?<![\d,])(' + XP_NUM + r')\s*XP')
+XP_SKIP = ('chain', 'in all', 'pair', 'total', 'more', 'about')
+XP_SCALE = (0.8, 0.6, 0.4, 0.2, 0.1)
+
+def quest_xp():
+    """{quest id: (xp, name)} from data/zone_*.json; browser-refreshed zones win over zones that were not refreshed."""
+    global _XP
+    if _XP is None:
+        import glob
+        _XP, fresh = {}, {}
+        for p in sorted(glob.glob(os.path.join(gl.BASE, 'data', 'zone_*.json'))):
+            d = json.load(open(p, encoding='utf-8')); fr = bool(d.get('_browser_refresh'))
+            for q in d.get('quests', []):
+                if q.get('xp') is None: continue
+                if q['id'] in _XP and fresh[q['id']] and not fr: continue
+                _XP[q['id']] = (q['xp'], q.get('name')); fresh[q['id']] = fr
+    return _XP
+
+def _xp_clause(line, start, end):
+    """The text between the parentheses enclosing [start, end), or the ~60 chars around it."""
+    o = line.rfind('(', 0, start); c = line.find(')', end)
+    if o != -1 and ')' not in line[o:start] and c != -1 and '(' not in line[end:c]:
+        return line[o + 1:c]
+    return line[max(0, start - 60):end + 60]
+
+def check_xp(lines):
+    xp = quest_xp(); out = []
+    for f, ln, line, band in lines:
+        ids = []
+        for code, qid, title in gl.quest_tags(line):
+            if code in ('QA', 'QT') and qid not in ids: ids.append(qid)
+        if not ids: continue
+        toks = []   # (text, value)
+        taken = []
+        for m in XP_SUM.finditer(line):
+            taken.append(m.span())
+            clause = _xp_clause(line, m.start(), m.end())
+            if any(w in clause for w in XP_SKIP): continue
+            for n in re.findall(XP_NUM, m.group(1)): toks.append((n, int(n.replace(',', ''))))
+        for m in XP_ONE.finditer(line):
+            if any(a <= m.start() < b for a, b in taken): continue
+            clause = _xp_clause(line, m.start(), m.end())
+            if any(w in clause for w in XP_SKIP) or '+' in clause: continue
+            toks.append((m.group(1), int(m.group(1).replace(',', ''))))
+        if not toks: continue
+        known = [i for i in ids if i in xp]; missing = [i for i in ids if i not in xp]
+        def ok(v):
+            for i in known:
+                x = xp[i][0]
+                if v == x or any(abs(v - round(x * k)) <= 5 for k in XP_SCALE): return True
+            return bool(known) and v == sum(xp[i][0] for i in known)
+        for text, v in toks:
+            if ok(v): continue
+            if missing:
+                if 'not listed' in line or 'not in the DB' in line: continue
+                for i in missing:
+                    out.append((f, ln, f'"{text} XP" quoted but {i} {gl.qname(i) or "?"} has no XP in data/zone_*.json'))
+                continue
+            listing = ', '.join(f'{i} {xp[i][1]} = {xp[i][0]:,}' for i in known)
+            out.append((f, ln, f'"{text} XP" matches no quest on the line ({listing})'))
+    return out
+
+MODULES = {'questnpc': check_questnpc, 'tar': check_tar, 'gates': check_gates, 'xp': check_xp}
 
 def main():
     ap = argparse.ArgumentParser()
