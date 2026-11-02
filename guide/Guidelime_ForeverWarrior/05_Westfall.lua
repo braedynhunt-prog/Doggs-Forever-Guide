@@ -7,7 +7,7 @@ Guidelime.registerGuide([[
 At [TAR656 Wilder Thistlenettle], [QA168 Collecting Memories] [QA167 Oh Brother. . .] (both Deadmines, they wait) [G70.3,40.8 Stormwind City]
 At [TAR5413 Furen Longbeard], [QT1338 Stormpike's Order] [G64.6,37.2 Stormwind City]
 At [TAR6579 Shoni the Shilent], [QT2041] [QA2040 Underground Assault] (Deadmines) [G62.6,34.1 Stormwind City]
-In Old Town at [TAR5479 Wu Shen] (warrior trainer, by the Command Center), [T] train every new rank up to your level (even levels - Classic, unverified on Forever) [G80.6,59.9 Stormwind City]
+In Old Town at [TAR5479 Wu Shen] (warrior trainer, by the Command Center), [T] train every new rank up to your level (even levels) [G80.6,59.9 Stormwind City]
 [OC]Sprite Jumpsprocket at 61.9,30.6 (Dwarven District) is Alba Fairmoon's engineer - you come back to him with the Westfall quest later
 [OC]Run south through the Trade District to the main gate
 [O]At the Auction House in the Trade District, buy 10 Coarse Dynamite if you have not - needed for A Dynamite Plan (Alba Fairmoon chain, ~2,900 XP total) [G61.1,70.7 Stormwind City]

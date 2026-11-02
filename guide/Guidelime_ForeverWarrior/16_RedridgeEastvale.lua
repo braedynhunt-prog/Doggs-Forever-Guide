@@ -63,7 +63,7 @@ At [TAR294 Marshal Haggard] in the Eastvale Logging Camp, [QT74] [QA75 The Legen
 [O][A Warrior] Also at [TAR294 Marshal Haggard], [QT1666] [QA1667 Dead-tooth Jack] (840 XP: his badge is in Dead-tooth's Strongbox south-east of the camp) [G84.6,69.4 Elwynn Forest]
 Upstairs in his house, open Marshal Haggard's Chest for the Faded Journal Page [QC75] [G85.7,69.5 Elwynn Forest]
 Back with [TAR294 Marshal Haggard], [QT75] [QA78 The Legend of Stalvan] (570 XP: Tavernkeep Smitts in Darkshire, chapter 17) [G84.6,69.4 Elwynn Forest]
-[O][A Warrior] South-east of the camp, loot Dead-tooth's Strongbox for Marshal Haggard's Badge (the Forever DB puts the badge in the chest with no named mob - unverified) [QC1667] [G89.3,78.9 Elwynn Forest]
+[O][A Warrior] South-east of the camp, kill [TAR6093 Dead-Tooth Jack] (level 11) for Dead-tooth's Key and open Dead-tooth's Strongbox beside him for Marshal Haggard's Badge [QC1667] [G89.4,79.0 Elwynn Forest]
 [O][A Warrior] Back at [TAR294 Marshal Haggard], [QT1667] (840 XP) [G84.6,69.4 Elwynn Forest]
 [OC][A Warrior] |cffffcc00Gear (1667):|r Haggard's Axe / Hammer / Sword / Dagger are level-10 weapons (7.6-7.8 dps +1 Sta) - XP only at 27, take any and vendor it
 At the Tower of Azora, [TAR313 Theocritus] takes the Pendant of Shadow [QT249] (2,750 XP) [G65.2,69.7 Elwynn Forest]

@@ -42,7 +42,7 @@ At [TAR11026 Sprite Jumpsprocket], [QT92749] [QA92750 Detonation at a Distance] 
 At [TAR1325 Jasper Fel], [QT92750] [QA92751 Detonation at a Distance] [G80.3,70.1 Stormwind City]
 In Old Town at [TAR332 Master Mathias Shaw] (SI:7), [QT135] [QA141 The Defias Brotherhood] [G78.3,70.7 Stormwind City]
 In the Old Town kitchen at [TAR340 Kendor Kabonka], [V] buy |cff66ff66Recipe: Succulent Pork Ribs|r (Cooking 110: 2 Boar Ribs + Hot Spices = +5 Str at level 15 - equal to Longjaw, and it uses the Boar Ribs you banked; learn it when you reach 110). He also sells every quest recipe on this route (Blood Sausage, Goretusk Liver Pie, Crocolisk Steak, Redridge Goulash, Gumbo, Omelet, Wolf Kabob) if you missed one [G77.5,52.7 Stormwind City]
-Up the street at [TAR5479 Wu Shen] (warrior trainer, Old Town), [T] train every new rank up to your level (even levels - Classic, unverified on Forever) [G80.6,59.9 Stormwind City]
+Up the street at [TAR5479 Wu Shen] (warrior trainer, Old Town), [T] train every new rank up to your level (even levels) [G80.6,59.9 Stormwind City]
 [OC]Run back to the Dwarven District
 At [TAR11026 Sprite Jumpsprocket], [QT92751] [QA92752 Explosive Consultation] [G61.8,30.5 Stormwind City]
 At [TAR352 Dungar Longdrink], |cFFfff8a3Fly to [F Sentinel Hill]|r [G71.0,72.5 Stormwind City]

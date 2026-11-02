@@ -22,7 +22,7 @@ At [TAR1684 Khara Deepwater] by the lake, [V] restock Shiny Baubles (Silver of t
 
 # Warrior trainer in place of the shaman trainer line (02:48 dropped); placed in Tinker Town, the Military Ward is just south.
 @after QA95041
-[O]South of Tinker Town in the Military Ward at [TAR5113 Kelv Sternhammer] (warrior trainer), [T] train your level 16 abilities if you are 16 already (new ranks come at even levels - Classic, unverified on Forever); otherwise the 15-16 chapter stops here again [G70.3,90.7 Ironforge]
+[O]South of Tinker Town in the Military Ward at [TAR5113 Kelv Sternhammer] (warrior trainer), [T] train your level 16 abilities if you are 16 already (new ranks come at even levels); otherwise the 15-16 chapter stops here again [G70.3,90.7 Ironforge]
 
 # Gryth: no Honor Students hand-in; the step stays as the flight back.
 @replace QT6388

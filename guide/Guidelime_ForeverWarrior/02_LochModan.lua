@@ -47,7 +47,7 @@ At [TAR5150 Nissa Firestone] (first aid trainer, by the Mystic Ward pool), learn
 [OC]Run east to Tinker Town
 At [TAR6569 Gnoarn], [QA2039 Find Bingles] [QA2041 Speak with Shoni] [G69.2,50.5 Ironforge]
 [O]At [TAR11028 Jemma Quikswitch], [QA95041 Data Hoarders] - 7 punch cards in the snow outside Gnomeregan in west Dun Morogh; only worth it if you go back there [G67.4,43.8 Ironforge]
-[O]South of Tinker Town in the Military Ward at [TAR5113 Kelv Sternhammer] (warrior trainer), [T] train your level 16 abilities if you are 16 already (new ranks come at even levels - Classic, unverified on Forever); otherwise the 15-16 chapter stops here again [G70.3,90.7 Ironforge]
+[O]South of Tinker Town in the Military Ward at [TAR5113 Kelv Sternhammer] (warrior trainer), [T] train your level 16 abilities if you are 16 already (new ranks come at even levels); otherwise the 15-16 chapter stops here again [G70.3,90.7 Ironforge]
 [OC]Get the Deeprun Tram in your head for later: it is at the far east end of Tinker Town [G76,51 Ironforge]
 [O][A Warrior] In the Great Forge at [TAR6031 Tormus Deepforge], [QT1681] [QA1682 Grey Iron Weapons] [QT1682] (630 XP) [G48.6,42.5 Ironforge]
 [OC][A Warrior] |cffffcc00Gear (1682):|r |cff66ff66Umbral Axe|r (1H axe 7.8 dps +1 Sta); the Mace, Sword and Dagger are 7.6-7.7 dps +1 Sta, so take whichever your weapon skill covers - any of them beats Quickblade's Dagger (6.8 dps) until the Invader's Mace at the end of this chapter

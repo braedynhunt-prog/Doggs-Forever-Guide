@@ -15,6 +15,10 @@
   "id": 6693,
   "tooltip": "Agamaggan's Clutch | Item Level 35 | Binds when picked up | Unique-EquippedFinger+5 Stamina | +6 SpiritRequires Level 30 | Equip: Increases movement speed by 3% in The Barrens, Thousand Needles, Razorfen Kraul, and Razorfen Downs. | Sell Price: 34 72 | Dropped by: Charlga Razorflank | Drop Chance: 34.89%"
  },
+ "Al'Aketh Windstone Charm": {
+  "id": 255658,
+  "tooltip": "Al'Aketh Windstone Charm | Item Level 1 | Quest Item | Max Stack: 10"
+ },
  "Alacritous Treads": {
   "id": 277234,
   "tooltip": "Alacritous Treads | Item Level 28 | Binds when picked upFeetMail132 Armor | +5 Strength | +5 Agility | Durability 50 / 50Sell Price: 16 2"
@@ -187,9 +191,17 @@
   "id": 1951,
   "tooltip": "Blackwater Cutlass | Item Level 19 | Binds when equippedOne-HandSword |     17 - 32 Damage |     Speed 1.90 | (12.89 damage per second) | +4 Agility | Durability 55 / 55Requires Level 14 | Sell Price: 14 84"
  },
+ "Blood-Stained Bandit Mask": {
+  "id": 253596,
+  "tooltip": "Blood-Stained Bandit Mask | Item Level 1 | Quest Item | Max Stack: 10 | Dropped by: Bandit Highwayman | Drop Chance: 36.74%"
+ },
  "Bloodied Chestwraps": {
   "id": 271212,
   "tooltip": "Bloodied Chestwraps | Item Level 22 | Binds when picked upChestLeather89 Armor | +7 Agility | +9 Spirit | Durability 90 / 90Requires Level 17 | Sell Price: 10 77 | Dropped by: Viktor the Vile | Drop Chance: 33.01%"
+ },
+ "Bloody Heirloom": {
+  "id": 265141,
+  "tooltip": "Bloody Heirloom | Item Level 1 | Quest Item\"Drenched in the blood of those who were once promised a brighter future.\" |  | Max Stack: 10"
  },
  "Boar Handler Gloves": {
   "id": 2547,
@@ -310,6 +322,10 @@
  "Charged Gear": {
   "id": 9461,
   "tooltip": "Charged Gear | Item Level 36 | Binds when picked upFinger<Random enchantment> | +5 Arcane Resistance | +5 Nature ResistanceRequires Level 31 | Sell Price: 38 19 | Dropped by: Mekgineer Thermaplugg | Drop Chance: 32.60%"
+ },
+ "Charred Wolf Meat": {
+  "id": 2679,
+  "tooltip": "Charred Wolf Meat | Item Level 10Use: Restores 59 health over 18 sec.  Must remain seated while eating. |  | Max Stack: 20Sell Price: 5"
  },
  "Chausses of Westfall": {
   "id": 6087,
@@ -454,6 +470,10 @@
  "Dark Horde Band": {
   "id": 273806,
   "tooltip": "Dark Horde Band | Item Level 26 | Binds when picked up | Unique-EquippedFinger+6 StaminaRequires Level 21 | Equip: Increases damage and healing done by magical spells and effects by up to 6. | Sell Price: 15 25 | Dropped by: Targorr the Dread | Drop Chance: 1.68%"
+ },
+ "Dark Iron Map": {
+  "id": 274268,
+  "tooltip": "Dark Iron Map | Item Level 1 | Binds when picked up | Unique | This Item Begins a Quest\"The map is heavily annotated with Dark Iron runes.\" |"
  },
  "Darkshire Mail Leggings": {
   "id": 2906,
@@ -1315,6 +1335,10 @@
   "id": 273298,
   "tooltip": "Lookie's Spyglass | Item Level 23 | Binds when picked up | Unique-EquippedTrinket+1 SpiritRequires Level 18 | Use: Allows you to look far into the distance. | \"Mmmrrgglumg Cookie grgl mrg mllgrgrm. -Lookie, Former Ship Lookout\" | Sell Price: 10 45 | Dropped by: Cookie | Drop Chance: 1.04%"
  },
+ "Lowlands Galestrider Tenderloin": {
+  "id": 253597,
+  "tooltip": "Lowlands Galestrider Tenderloin | Item Level 1 | Quest Item | Max Stack: 10 | Dropped by: Ornery Galestrider | Drop Chance: 27.12%"
+ },
  "Lucine Longsword": {
   "id": 3400,
   "tooltip": "Lucine Longsword | Item Level 27 | Binds when picked upMain HandSword |     24 - 46 Damage |     Speed 2.50 | (14.00 damage per second) | +3 Stamina | +3 Spirit | Durability 65 / 65Sell Price: 33 75"
@@ -1595,6 +1619,10 @@
   "id": 6094,
   "tooltip": "Piercing Axe | Item Level 19 | Binds when picked upTwo-HandAxe |     33 - 50 Damage |     Speed 3.30 | (12.58 damage per second) | +6 Agility | Durability 60 / 60Sell Price: 15 46"
  },
+ "Pilfered Windstone": {
+  "id": 257945,
+  "tooltip": "Pilfered Windstone | Item Level 1 | Quest Item | Max Stack: 20"
+ },
  "Pincer Bites": {
   "id": 263512,
   "tooltip": "Pincer Bites | Item Level 15Requires Level 5 |  | Use: Restores 59 health over 18 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 1 Intellect for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 1"
@@ -1647,9 +1675,17 @@
   "id": 7004,
   "tooltip": "Prelacy Cape | Item Level 26 | Binds when picked upBack20 Armor | +3 SpiritEquip: Increases healing done by up to 7 and damage done by up to 2 for all magical spells and effects. | Sell Price: 9 20"
  },
+ "Prideclaw Pelt": {
+  "id": 252670,
+  "tooltip": "Prideclaw Pelt | Item Level 1 | Quest Item | Max Stack: 10 | Dropped by: Prideclaw | Drop Chance: 46.10%"
+ },
  "Prison Shank": {
   "id": 2941,
   "tooltip": "Prison Shank | Item Level 28 | Binds when picked upOne-HandDagger |     22 - 42 Damage |     Speed 1.80 | (17.78 damage per second) | +6 Agility | +2 Stamina | Durability 60 / 60Requires Level 23 | Sell Price: 44 55 | Dropped by: Bruegal Ironknuckle | Drop Chance: 19.82%"
+ },
+ "Pristine Shriekling Feather": {
+  "id": 265140,
+  "tooltip": "Pristine Shriekling Feather | Item Level 1 | Quest Item\"These feathers are soft and just slightly oily. Perfect for insulation against the cool, damp climates of Shadowgale Forest.\" |  | Max Stack: 20 | Dropped by: Shadowgale Shriekling | Drop Chance: 27.51%"
  },
  "Pronged Reaver": {
   "id": 6692,
@@ -1722,6 +1758,10 @@
  "Razormaw Shorts": {
   "id": 281309,
   "tooltip": "Razormaw Shorts | Item Level 30 | Binds when picked upLegsLeather82 Armor | +8 Agility | +6 Stamina | Durability 65 / 65Sell Price: 23 21"
+ },
+ "Recipe: Longjaw Mud Snapper": {
+  "id": 6328,
+  "tooltip": "Recipe: Longjaw Mud Snapper | Item Level 15Requires Cooking (50) | Use: Teaches you how to cook Longjaw Mud Snapper. | Sell Price: 1 | Longjaw Mud Snapper | Item Level 15 | Requires Level 5 |  | Use: Restores 531 health over 24 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 10 Attack Power for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 1 | Requires Raw Longjaw Mud Snapper"
  },
  "Recipe: Pincer Bites": {
   "id": 263513,
@@ -1983,6 +2023,10 @@
   "id": 9608,
   "tooltip": "Shoni's Disarming Tool | Item Level 32 | Binds when picked upOff HandAxe |     22 - 41 Damage |     Speed 1.90 | (16.58 damage per second) | +4 Spirit | Durability 75 / 75Chance on hit: Disarm target's weapon for 5 sec. | Sell Price: 54 35"
  },
+ "Shriekling Talons": {
+  "id": 254378,
+  "tooltip": "Shriekling Talons | Item Level 1 | Quest Item | Max Stack: 8"
+ },
  "Shucking Gloves": {
   "id": 15405,
   "tooltip": "Shucking Gloves | Item Level 17 | Binds when picked upHandsLeather45 Armor | +2 Stamina | +2 Intellect | Durability 20 / 20Sell Price: 2 45"
@@ -2034,6 +2078,10 @@
  "Slain Baron's Signet": {
   "id": 279867,
   "tooltip": "Slain Baron's Signet | Item Level 23 | Binds when picked upFinger+3 StaminaEquip: Increased Defense +1. | Sell Price: 8 15"
+ },
+ "Small Egg": {
+  "id": 6889,
+  "tooltip": "Small Egg | Item Level 5Crafting Reagent |  | Max Stack: 20Sell Price: 4"
  },
  "Small Sack of Gems": {
   "id": 280567,
@@ -2166,6 +2214,10 @@
  "Stormwind Guard Leggings": {
   "id": 6084,
   "tooltip": "Stormwind Guard Leggings | Item Level 13 | Binds when picked upLegsMail113 Armor | +3 Strength | Durability 50 / 50Sell Price: 2 90"
+ },
+ "Strider Meat": {
+  "id": 5469,
+  "tooltip": "Strider Meat | Item Level 10Crafting Reagent |  | Max Stack: 20Sell Price: 9"
  },
  "Strike of the Hydra": {
   "id": 6909,
@@ -2510,6 +2562,10 @@
  "Windsong Bangles": {
   "id": 263336,
   "tooltip": "Windsong Bangles | Item Level 13 | Binds when picked upWristCloth11 Armor | Durability 18 / 18Equip: Increases damage and healing done by magical spells and effects by up to 1. | Sell Price: 96"
+ },
+ "Windsong Crawler Meat": {
+  "id": 257941,
+  "tooltip": "Windsong Crawler Meat | Item Level 1 | Quest Item | Max Stack: 20 | Dropped by: Windsong Crawler | Drop Chance: 48.04%"
  },
  "Windstone": {
   "id": 255663,

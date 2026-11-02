@@ -24,7 +24,7 @@ Kill [TAR1165 Stonesplinter Geomancer] and [TAR1167 Stonesplinter Digger] in the
 @replace TAR5161
 [O]In the Forlorn Cavern at [TAR5161 Grimnur Stonebrand], Journeyman Fishing if you have not got it yet (Fishing 50) [G48.1,6.9 Ironforge]
 @after TAR5161
-In the Military Ward at [TAR5113 Kelv Sternhammer] (warrior trainer), [T] train your level 16 abilities (Shield Block is the level-16 tank tool on Forever - web sources, unverified); Stormwind's trainer is next, on the 17-18 Westfall trip [G70.3,90.7 Ironforge]
+In the Military Ward at [TAR5113 Kelv Sternhammer] (warrior trainer), [T] train your level 16 abilities (Shield Block and Mocking Blow come at 16 - Wowhead Forever trainer list); Stormwind's trainer is next, on the 17-18 Westfall trip [G70.3,90.7 Ironforge]
 
 # Professions note: the Camping 101: Skinning hand-in clause is the Dun Morogh quest 96056; the warrior did 97971 on the island.
 @replace TAR6291

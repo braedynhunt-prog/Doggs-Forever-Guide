@@ -2,7 +2,7 @@
 
 # Warrior trainer on the Stormwind pass (spec: 05, level 17). Old Town is a short detour east before the Trade District.
 @after QA2040
-In Old Town at [TAR5479 Wu Shen] (warrior trainer, by the Command Center), [T] train every new rank up to your level (even levels - Classic, unverified on Forever) [G80.6,59.9 Stormwind City]
+In Old Town at [TAR5479 Wu Shen] (warrior trainer, by the Command Center), [T] train every new rank up to your level (even levels) [G80.6,59.9 Stormwind City]
 
 # The warrior has the Stormwind flight point from the join leg (00u).
 @delete TAR352

@@ -7,7 +7,7 @@ Guidelime.registerGuide([[
 
 [OC]|cffffffffIronforge errands first|r
 In the Hall of Explorers at [TAR1356 Prospector Stormpike], [QT301] [QA302 Powder to Ironband] [G74.6,11.7 Ironforge]
-[O]In the Military Ward at [TAR5113 Kelv Sternhammer] (warrior trainer), [T] train your level 16 abilities if you are 16 already (Classic even-level ranks, unverified on Forever) - otherwise the 16-17 chapter's Ironforge stop [G70.3,90.7 Ironforge]
+[O]In the Military Ward at [TAR5113 Kelv Sternhammer] (warrior trainer), [T] train your level 16 abilities if you are 16 already (even-level ranks) - otherwise the 16-17 chapter's Ironforge stop [G70.3,90.7 Ironforge]
 [OC]In the Commons, [R][V] and stock 20+ water [G34,60 Ironforge]
 At [TAR5159 Daryl Riknussun] (east side of the Great Forge), learn Journeyman Cooking NOW if you still have not - this is your last Ironforge stop before Marek's Crocolisk Steak recipe (Cooking 80) in the 16-17 chapter, and Apprentice stops at 75. Short of 50? Cook your boar meat, ribs and Longjaw at his fire until you are there [G60.1,36.4 Ironforge]
 [O]In the Forlorn Cavern at [TAR5161 Grimnur Stonebrand], learn Journeyman Fishing if Fishing is 50 [G48.1,6.9 Ironforge]

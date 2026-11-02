@@ -7,7 +7,7 @@ Guidelime.registerGuide([[
 
 [OC]|cffffffffDalaran|r  -  the skycutter lands by the Kirin Tor camp on the lake shore west of the city
 At [TAR259084 Denaaris Stargale] beside the Skyborne Portal, [QT94946 The Magical City of Dalaran] [QA94947 Welcome to Azeroth] [G12.3,56.3 Alterac Mountains]
-Take the Skyborne Portal to Stormwind right next to her [QC94947] [G12.0,56.2 Alterac Mountains]
+Take the Skyborne Portal to Stormwind right next to her (beta reports put the landing at the Mage Tower in the Mage Quarter, the south-west corner of the city - unverified) [QC94947] [G12.0,56.2 Alterac Mountains]
 
 [OC]|cffffffffStormwind|r  -  Stormwind Keep is the north end of the city
 In the Keep's throne room at [TAR1748 Highlord Bolvar Fordragon], [QT94947 Welcome to Azeroth] [QA93963 Exploring the Alliance] [QA98021 Journey to Sentinel Hill] [G80.2,38.4 Stormwind City]
@@ -39,7 +39,7 @@ At [TAR264936 Earthseer Farsen], [QT96408 A Visitor to Dun Morogh] [QA96392 Fars
 Talk to [TAR264936 Earthseer Farsen] again and pick the farsight option; move or press Esc to end the vision [QC96392] [G64.8,58.4 Dun Morogh]
 At [TAR264936 Earthseer Farsen], [QT96392 Farsen's Watch] [QA96390 Nip 'Em in the Bud] [G64.8,58.4 Dun Morogh]
 [OC]Continue east past the quarry to the Dark Iron camp (Ironband's Compound)
-Kill 10 [TAR6123 Dark Iron Spy] (level 9-10) and keep killing until a Dark Iron Map drops [QC96390] (Forever item, drop rate unknown - budget ~15 more spies after the 10) [G77,60.5 Dun Morogh]
+Kill 10 [TAR6123 Dark Iron Spy] (level 9-10) and keep killing until a Dark Iron Map drops [QC96390] (8.4% per spy and 12.8% from Captain Beld, Wowhead Forever sample - budget ~15 more spies after the 10, about 9 in 10 odds) [G77,60.5 Dun Morogh]
 Use the Dark Iron Map to start [QA96391 Underground Map] [G77,60.5 Dun Morogh]
 [O][A Warrior] Loot Ironband's Strongbox in the camp for the Umbral Ore [QC1681] [G78.0,62.2 Dun Morogh]
 [OC]Run back west to the quarry hill

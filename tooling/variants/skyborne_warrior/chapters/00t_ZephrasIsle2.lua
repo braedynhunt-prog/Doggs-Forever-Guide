@@ -34,7 +34,7 @@ At [TAR263664 Raan Wildwind], also take [QA97971 Camping 101: Skinning] [QA97965
 [OC]Back into the village
 At [TAR251523 Constable Aonda], [QT93461] [QA92517 The Criminal Element] [G45.7,45.5 Zephras Isle]
 At [TAR251905 Zerril Softbreeze], [QT96646] [QA92553 Restocking the Larders] [G43.9,43.8 Zephras Isle]
-[OC]|cffffcc00Cooking thread:|r the island has no boars, so Roasted Boar Meat waits; cook Stringy Wolf Meat from Vuldren (Charred Wolf Meat - Classic trainer recipe, unverified on Forever) and the recipes the island quests give (Skywall Souffle, Pincer Bites). The Longjaw Mud Snapper recipe (+10 AP) is sold in Valanaar; target Cooking 50 by 12 (RULES), and keep every cookable drop
+[OC]|cffffcc00Cooking thread:|r the island has no boars, so Roasted Boar Meat waits; cook Stringy Wolf Meat from Vuldren (Charred Wolf Meat: heal-only food on Forever, no Well Fed buff - skill-up filler) and the recipes the island quests give (Skywall Souffle at Cooking 25: +1 Sta; Pincer Bites at 35: +1 Int). The Longjaw Mud Snapper recipe (+10 AP) is sold in Valanaar; target Cooking 50 by 12 (RULES), and keep every cookable drop
 At [TAR251991 Taleen Shimmerthread] (tailor), [QA93951 A Little Beauty] [G44.9,44.2 Zephras Isle]
 At [TAR251993 Indari Sunseam] (leatherworker), [QA92515 The Problem With Prideclaws] [G44.7,44.5 Zephras Isle]
 At [TAR251906 Teeri Wellwind], [QA92516 Hippogryph Harassment] [QA93319 Pilfered Windstones] [G44.5,45 Zephras Isle]
@@ -42,11 +42,11 @@ At [TAR251906 Teeri Wellwind], [QA92516 Hippogryph Harassment] [QA93319 Pilfered
 [O]Read the bounty board in the village, [QA93318 WANTED: Vulgara the Insatiable] [G43.4,45.8 Zephras Isle]
 
 [OC]Grind south onto the grasslands
-Kill [TAR251245 Prideclaw] for 10 Prideclaw Pelts [QC92515] (Forever item, rate unknown - budget ~25 kills) [G44.2,51.6 Zephras Isle]
+Kill [TAR251245 Prideclaw] for 10 Prideclaw Pelts [QC92515] (46% drop - budget ~25 kills) [G44.2,51.6 Zephras Isle]
 Kill [TAR251661 Galestrider] for 8 Strider Meat and 3 Small Eggs [QC92553] (rates unknown - budget ~25 kills; Cloudrunners and the hippogryphs also drop the eggs) [G43.5,50.2 Zephras Isle]
 [OC]|cffffcc00Skin as you go:|r skin every Prideclaw, Galestrider and Vuldren you kill - Skinning 20 before the last Shen'dar pass is the Camping 101 hand-in. Keep the Stringy Wolf Meat for cooking
 [OC]Run back north into the village
-At [TAR251905 Zerril Softbreeze], [QT92553] - learn the Recipe: Skywall Souffle it gives (skill needed unverified) and cook the meat you carry [G43.9,43.8 Zephras Isle]
+At [TAR251905 Zerril Softbreeze], [QT92553] - learn the Recipe: Skywall Souffle it gives (Cooking 25; +1 Sta and +5% kill XP for 15 min) and cook the meat you carry [G43.9,43.8 Zephras Isle]
 At [TAR251993 Indari Sunseam], [QT92515] - the Simple Leather Satchel is a bag, equip it [G44.7,44.5 Zephras Isle]
 
 [OC]|cffffffffLevel 7|r
@@ -120,7 +120,7 @@ Kill [TAR251727 Skyhopper] in the fields around Valanaar until 8 are done [QC939
 At [TAR252383 Valennia Stormfist], [QT93949] [G66.1,76.7 Zephras Isle]
 
 [OC]Run west along the road out of Valanaar
-Kill [TAR254588 Windsong Crawler] along the road west for 6 Windsong Crawler Meat [QC93317] (rate unknown - budget ~15 kills) [G53.9,58.9 Zephras Isle]
+Kill [TAR254588 Windsong Crawler] along the road west for 6 Windsong Crawler Meat [QC93317] (48% drop - budget ~15 kills) [G53.9,58.9 Zephras Isle]
 Loot the Bloodstained Satchel by the path, [QT92727] [QA92849 The Missing Scholar] [G53.3,72.1 Zephras Isle]
 Search for [TAR253002 Fillion Flamebreeze] north of the satchel and check the Dusty Bedroll at his camp [QC92849] [G50.6,65.4 Zephras Isle]
 At [TAR253284 Fillion Flamebreeze] by the bedroll, [QT92849] [QA92850 The Missing Scholar] [G52.1,69.4 Zephras Isle]
@@ -132,11 +132,11 @@ At [TAR252800 Aamelia Windfield], [QT92679] [QA92682 Make Yourself Useful] [QA92
 At the [TAR250929 Malfunctioning Cyclone Construct] in the field northeast of the farm, [QA92698 What Is My Purpose?] [G48.9,78.2 Zephras Isle]
 Loot 10 Ripe Stormapples in the orchard and kill 5 [TAR252802 Hungry Bandit] [QC92682] [G47.6,80.6 Zephras Isle]
 Loot 5 Flutterfly Dust in the fields northeast of the farm [QC92683] [G50.3,78.7 Zephras Isle]
-Kill [TAR251707 Ornery Galestrider] around the farm for 7 Lowlands Galestrider Tenderloins [QC92684] (rate unknown - budget ~18 kills) [G49,78 Zephras Isle]
+Kill [TAR251707 Ornery Galestrider] around the farm for 7 Lowlands Galestrider Tenderloins [QC92684] (27% drop - budget ~30 kills) [G49,78 Zephras Isle]
 At [TAR252800 Aamelia Windfield], [QT92682] [QT92683] [QT92684] [QT92698] [QA92685 The Hills Have Eyes] [G46.7,82 Zephras Isle]
 [OC][A Warrior] |cffffcc00Gear (92683):|r take |cff66ff66Flutterfly Swatter|r (1H mace 4.8 dps)
 [OC][A Warrior] |cffffcc00Gear (92684):|r |cff66ff66Well-Worn Pants|r (leather legs) or |cff66ff66Brass-Banded Bracers|r (mail wrist), coin flip - the bracers if you wear the Highlands Mail Legguards
-Kill [TAR252820 Bandit Highwayman] in the hills north of the farm for 7 Blood-Stained Bandit Masks [QC92685] (rate unknown - budget ~18 kills) [G48.7,75 Zephras Isle]
+Kill [TAR252820 Bandit Highwayman] in the hills north of the farm for 7 Blood-Stained Bandit Masks [QC92685] (37% drop - budget ~22 kills) [G48.7,75 Zephras Isle]
 At [TAR252800 Aamelia Windfield], [QT92685] [QA92693 Standing Our Ground] - tell her you are ready [QC92693,1] [G46.7,82 Zephras Isle]
 Kill [TAR252863 Ferauu the Bludgeon] when he comes for the farm [QC92693,2] |cffffcc00launch:|r group or defer [G47.5,77.9 Zephras Isle]
 At [TAR252800 Aamelia Windfield], [QT92693] [QA92703 Deliver the News] [G46.7,82 Zephras Isle]
@@ -147,8 +147,8 @@ At [TAR252800 Aamelia Windfield], [QT92693] [QA92703 Deliver the News] [G46.7,82
 At [TAR252448 Alvarion Windfield], [QT92703] [G62.1,73.2 Zephras Isle]
 [OC][A Warrior] |cffffcc00Gear:|r |cff66ff66Trusty Wrench|r (1H mace 5.3 dps +1 Agi) or |cff66ff66Roofing Hammer|r (1H mace 5.4 dps), coin flip
 [A Warrior] At [TAR252377 Seena Skybreaker] (warrior trainer), [T] train (level 10) and [QA94003 The Skybreaker Bulwark] (needs level 10 - the Bulwark is at the Shrine of Akir later) [G59.9,72.9 Zephras Isle]
-[OC][A Warrior] |cffffcc00Defensive Stance:|r this is the Skyborne's stance quest (plan); whether the quest or Seena's level-10 training gives the stance is unverified - if Seena offers it now, take it and tank elites in it
-At [TAR257006 Nyalah Brightfire], [QT93317] - learn the Recipe: Pincer Bites it gives (skill needed unverified) [G60.6,72.7 Zephras Isle]
+[OC][A Warrior] |cffffcc00Defensive Stance:|r the quest teaches it (Wowhead Forever: 'You will learn: Defensive Stance'), and Taunt and Sunder Armor rank 1 are on no warrior trainer's list, so they most likely come with it (unverified) - hand the Bulwark in at Valanaar right after the Zaal kill in the next section, not at 14
+At [TAR257006 Nyalah Brightfire], [QT93317] - learn the Recipe: Pincer Bites it gives (Cooking 35; +1 Int and +5% kill XP) [G60.6,72.7 Zephras Isle]
 At [TAR253285 Fillion Flamebreeze], [QT92850] [QA99260 Fillion's Mission] [G66.2,79.9 Zephras Isle]
 At [TAR252475 Elaadrin Evengale], [QT99260] [QA92840 Catching Wind] [G66.6,79.9 Zephras Isle]
 [OC]Run west back out to the Overlook Standing Stones, west of Fillion's camp
@@ -195,17 +195,19 @@ At [TAR252383 Valennia Stormfist], [QT92640] [QA93065 Prepare for Battle] [G66.1
 [A Warrior] At [TAR252377 Seena Skybreaker], [T] train (level 12) [G59.9,72.9 Zephras Isle]
 At [TAR253844 Valennia Stormfist] at the northwest gate, [QT93065] [QA92947 Making Our Move] [G61.2,71 Zephras Isle]
 
-[OC]|cffffffffLevel 12-13 - Shrine of Akir and Shadowgale Forest|r  -  13 hand-ins, 9,225 XP
+[OC]|cffffffffLevel 12-13 - Shrine of Akir and Shadowgale Forest|r  -  13 hand-ins, 9,225 XP, plus the warrior's Bulwark hand-in (840)
 [OC]Fight north to the Shrine of Akir
 Kill 7 [TAR252762 Al'Aketh Guardian], 7 [TAR252763 Al'Aketh Spiritcaller] and 7 [TAR252765 Al'Aketh Blademaster] on the approach [QC92947] - finish the Windstone Charms here if you are short [G62.3,50.5 Zephras Isle]
 [A Warrior] Kill [TAR257196 Zaal Stormshield] west of the shrine's approach for the Skybreaker Bulwark [QC94003] (72.9% drop - budget 2 kills; Polestar's data placed him by Hanaa's camp in Thendal Grove instead - unverified) |cffffcc00launch:|r group or defer [G56.6,50.4 Zephras Isle]
 At [TAR253576 Hyusaa Quickbreeze] at the shrine's door, [QT92947] [QA93958 The Inner Sanctum] [G63.8,50.5 Zephras Isle]
 At [TAR253590 Valennia Stormfist] inside the inner sanctum, [QT93958] [QA93835 Confront Lorthuna] (the Lorthuna fight waits until Shadowgale is done) [G65.2,50.4 Zephras Isle]
+[A Warrior] Run south to Valanaar: at [TAR252377 Seena Skybreaker], [QT94003 The Skybreaker Bulwark] (840 XP; teaches Defensive Stance. If the Bulwark has not dropped, skip this and hand in at the level-14 stop) [G59.9,72.9 Zephras Isle]
+[OC][A Warrior] |cffffcc00Gear:|r equip |cff66ff66Stormforged Protector|r (shield 311 armor 5 block +1 Str +1 Sta) and tank elites in Defensive Stance from here on
 
-[OC]Run north into Shadowgale Forest
+[OC]Run back north past the shrine into Shadowgale Forest
 At [TAR257944 Elegael Thornpaw] in the east of the forest, [QT94484] [QA94485 Tears of the Lady] [QA94486 Feathers for Binding] [QA94487 Unwanted and Unworthy] [G61.7,39.2 Zephras Isle]
-Kill [TAR252664 Al'Aketh Stormchaser] and [TAR252665 Al'Aketh Footsoldier] just north of Elegael for 10 Bloodied Heirlooms [QC94487] (rate unknown - budget ~25 kills) [G63.5,37.3 Zephras Isle]
-Kill [TAR256092 Shadowgale Shriekling] west of Elegael for 20 Pristine Shriekling Feathers and 8 Shriekling Talons [QC94486] [QC92741] (rates unknown - budget ~35 kills) [G58.7,39.6 Zephras Isle]
+Kill [TAR252664 Al'Aketh Stormchaser] and [TAR252665 Al'Aketh Footsoldier] just north of Elegael for 10 Bloody Heirlooms [QC94487] (rate unknown - budget ~25 kills) [G63.5,37.3 Zephras Isle]
+Kill [TAR256092 Shadowgale Shriekling] west of Elegael for 20 Pristine Shriekling Feathers and 8 Shriekling Talons [QC94486] [QC92741] (feathers 27.5% drop - about 73 kills, not optional: the Nightfang Den chain behind it needs this quest turned in; talons rate unknown) [G58.7,39.6 Zephras Isle]
 Loot 8 Lady's Tear Moss along the stream west of Elegael [QC94485] [G60.9,38.4 Zephras Isle]
 At [TAR257944 Elegael Thornpaw], [QT94485] [QT94486] [QT94487] [QA94488 The Ties That Bind] [QA94489 The Wounds of Betrayal] [G61.7,39.2 Zephras Isle]
 [OC]Run northeast toward the Nightfang Den
@@ -241,8 +243,7 @@ At [TAR252475 Elaadrin Evengale], [QT93835] [QA94369 The Fate of Zephras] [G66.6
 Talk to [TAR252476 Talaanis Shadowsong] [QC94369] [G66.2,76.5 Zephras Isle]
 At [TAR252476 Talaanis Shadowsong], [QT94369] [QA93089 What Comes Next] [G66.2,76.5 Zephras Isle]
 At [TAR252475 Elaadrin Evengale], [QT93089] [QA94946 The Magical City of Dalaran] (hand-in at Denaaris Stargale in Dalaran, next chapter) [G66.6,79.9 Zephras Isle]
-[A Warrior] At [TAR252377 Seena Skybreaker], [QT94003] and [T] train (level 14) [G59.9,72.9 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Stormforged Protector|r (shield 311 armor 5 block +1 Str +1 Sta) and equip it
+[A Warrior] At [TAR252377 Seena Skybreaker], [T] train (level 14) - and hand in The Skybreaker Bulwark now if you skipped it after the shrine [G59.9,72.9 Zephras Isle]
 [OC]|cffffcc00Catch-up:|r anything you deferred for crowds - the Shriekling Matriarch, Ferauu, Commander Belguilos, Zaal Stormshield (warrior Bulwark), Commander Haalien, Resaan - is all within a few minutes' run of Valanaar or the shrine portal; finish it now, nothing on the isle can be reached after the skycutter. Vulgara (optional) is back west near Shen'dar - abandon it if you never killed her
 [OC]Run south out of Valanaar to the skycutter dock
 At the dock, talk to the [TAR275269 High Order Dockmaster] and take the skycutter to Dalaran (boarding details unverified) [G65.7,83.2 Zephras Isle]

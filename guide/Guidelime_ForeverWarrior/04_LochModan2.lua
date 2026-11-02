@@ -52,7 +52,7 @@ Across from the entrance at [TAR1156 Vyrin Swiftwind], [QA271 Vyrin's Revenge] (
 [OC]|cffffcc00Bank/AH stop:|r you go through Ironforge anyway - bank the recipes, check the AH for 10 Coarse Dynamite (Alba Fairmoon's Westfall chain needs them, ~2,900 XP) and a mail or leather chest with Str/Sta if your chest slot is still empty or statless
 At [TAR1572 Thorgrum Borrelson], |cFFfff8a3Fly to [F Ironforge]|r [G33.9,51 Loch Modan]
 [O]In the Forlorn Cavern at [TAR5161 Grimnur Stonebrand], Journeyman Fishing if you have not got it yet (Fishing 50) [G48.1,6.9 Ironforge]
-In the Military Ward at [TAR5113 Kelv Sternhammer] (warrior trainer), [T] train your level 16 abilities (Shield Block is the level-16 tank tool on Forever - web sources, unverified); Stormwind's trainer is next, on the 17-18 Westfall trip [G70.3,90.7 Ironforge]
+In the Military Ward at [TAR5113 Kelv Sternhammer] (warrior trainer), [T] train your level 16 abilities (Shield Block and Mocking Blow come at 16 - Wowhead Forever trainer list); Stormwind's trainer is next, on the 17-18 Westfall trip [G70.3,90.7 Ironforge]
 [OC]|cffffcc00Professions:|r Nissa Firestone (First Aid, 55.1,58.3) and Daryl Riknussun (Cooking, 60.1,36.4) teach Journeyman once the skill is 50, and so do [TAR6291 Balthus Stoneflayer] (Skinning, 39.9,32.5) and [TAR4254 Geofram Bouldertoe] (Mining, 50.0,26.3 in the Deep Mountain Mining Guild)
 [OC]Run to Tinker Town and take the Deeprun Tram to Stormwind [G76,51 Ironforge]
 [OC]|cffffffffFinished: Loch Modan second pass|r  -  continue with 17-18 Westfall

@@ -11,7 +11,7 @@ At the Auction House, buy 10 [CI4365,10 Coarse Dynamite] if you have not - Alba'
 
 # Warrior trainer on the Stormwind pass (spec: 07, level 19-20), next door to Kendor in Old Town on loop 2.
 @after TAR340
-Up the street at [TAR5479 Wu Shen] (warrior trainer, Old Town), [T] train every new rank up to your level (even levels - Classic, unverified on Forever) [G80.6,59.9 Stormwind City]
+Up the street at [TAR5479 Wu Shen] (warrior trainer, Old Town), [T] train every new rank up to your level (even levels) [G80.6,59.9 Stormwind City]
 
 # Escort: "Searing Totem each pack" was the shaman's.
 @replace T Escort the Traitor southwest to Moonbrook
