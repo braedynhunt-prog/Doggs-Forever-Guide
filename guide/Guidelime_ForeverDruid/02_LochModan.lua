@@ -54,7 +54,7 @@ Back in the Great Forge at flightmaster [TAR1573 Gryth Thurden], fly back to The
 
 [OC]|cffffffffNorth loop|r
 [OC]Run north up the west road; kill [TAR1195 Forest Lurker], [TAR1186 Elder Black Bear] and [TAR1190 Mountain Boar] on the way for 3 Spider Ichor, 3 Bear Meat, 3 Boar Intestines [QC418] [G32,38 Loch Modan]
-At [TAR1684 Khara Deepwater] by the lake, [V] restock Shiny Baubles (Silver of the Waves turns in here later); if you missed them in Valanaar she also sells the |cff66ff66Strong Fishing Pole|r (+45 Fishing, needs Fishing 10) and |cff66ff66Recipe: Longjaw Mud Snapper|r (Cooking 50: +10 attack power for 15 min at level 5+ - learn it the moment Cooking hits 50) [G40.3,39.3 Loch Modan]
+At [TAR1684 Khara Deepwater] by the lake, [V] restock Shiny Baubles (Silver of the Waves turns in here later); if you missed them in Valanaar she also sells the |cff66ff66Strong Fishing Pole|r (+5 Fishing, needs Fishing 10) and |cff66ff66Recipe: Longjaw Mud Snapper|r (Cooking 50: +10 attack power for 15 min at level 5+ - learn it the moment Cooking hits 50) [G40.3,39.3 Loch Modan]
 [O]|cffffcc00Fish to 40:|r fish the loch off Khara's dock (Strong Pole + Shiny Bauble; Loch Modan water wants ~25 Fishing, which the pole alone gives you) until Fishing ~40 or ~15 minutes: Raw Longjaw Mud Snapper is the common catch here. Keep every one - cook them as soon as you have the recipe and eat one before every grind. At Fishing 50, Khara and Drac sell Nightcrawlers (+50) [G40.3,39.3 Loch Modan]
 At the top of Stonewrought Dam at [TAR1343 Mountaineer Stormpike], [QT1339] [QA307 Filthy Paws] [QA1338 Stormpike's Order] (Stormwind delivery - keep it for the Westfall chapter) [G24.8,18.4 Loch Modan]
 [OC]|cFFFF0000Careful:|r Tunnel Rat Geomancers hurt at 12 - pull them alone

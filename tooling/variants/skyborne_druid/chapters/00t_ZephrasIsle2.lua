@@ -5,7 +5,7 @@ Guidelime.registerGuide([[
 [OC]|cffffffffZephras Isle 6-14|r  -  full clear of the isle (about 14 at the skycutter). Quest order from QuestieDB Forever 1.0.10 prerequisites, checked against Polestar 0.2.6 and TUGs.
 [OC]|cffffcc00Carry-over log:|r The Next Step (92472) and The Adventurer (96638) from Thendal Grove.
 [OC]|cffffcc00Launch rule (6-14):|r no shared tags in Forever - on a camped named mob or object INVITE the people standing there (kill credit shares in a party; most drop items don't). If no group forms in ~2 min, tick the step and keep moving; the catch-up line before the skycutter says what is still reachable.
-[OC]|cffffcc00Travel:|r no flight master on the isle; tornadoes on the roads give +40% run speed for 5 min. The DB lists innkeepers in Shen'dar (Coriella Calmbreeze) and Valanaar (Donaal Downbreeze) and TUGs binds the hearth at both, while Polestar says the isle has no inn: the route never uses the hearth here (unverified - test list)
+[OC]|cffffcc00Travel:|r no flight master on the isle; tornadoes on the roads give +40% run speed for 5 min. The DB lists innkeepers in Shen'dar (Coriella Calmbreeze - Warcraft Tavern confirms you can set your hearth with her) and Valanaar (Donaal Downbreeze) and TUGs binds the hearth at both, while Polestar says the isle has no inn: the route never uses the hearth here (unverified - test list)
 
 [OC]|cffffffffLevel 6-8 - Shen'dar Village|r  -  11 hand-ins, 3,540 XP
 [OC]Follow the road south from Thendal Grove into Shen'dar Village
@@ -16,11 +16,11 @@ At [TAR251903 Rathiril Sunlance], [QT92596] [QA94413 A Magical Affront] [G45,46.
 At [TAR254089 Coriella Calmbreeze] (innkeeper, northwest corner of the village), talk to her [QC93461,2] [G43,43.2 Zephras Isle]
 [A Druid] At [TAR254081 Naeluna Swiftmend] (druid trainer, middle of the village), [T] train (level 6: Thorns) [G45.2,44.2 Zephras Isle]
 
-[OC]|cffffcc00Professions (Skinning + Mining, plus First Aid, Cooking, Fishing):|r Skinning came from Thendal Grove. The Shen'dar NPCs below carry profession subnames ("Cook", "Medic", "Fisherman", "Miner"); that they teach is unverified - if one does not, the Valanaar NPCs are the fallback (Nyalah Brightfire cook, Baelann Swiftcurrent fisher, Halavuul Cragwind Mining Trainer)
-At [TAR251905 Zerril Softbreeze] (Cook), learn Cooking (unverified that he teaches); buy Simple Wood and Flint and Tinder for your campfires [G43.9,43.8 Zephras Isle]
-At [TAR257022 Messana Crestwind] (Miner), learn Mining if she teaches it (unverified - otherwise Halavuul Cragwind in Valanaar does); buy a Mining Pick here [G44.8,44.6 Zephras Isle]
-At [TAR257018 Naleeia Tattermend] (Medic), learn First Aid (unverified that she teaches) [G43.1,46.3 Zephras Isle]
-At [TAR251992 Fenn Fairweather] (Fisherman, south edge of the village), learn Fishing (unverified that he teaches) and buy his Fishing Pole [G45,48.4 Zephras Isle]
+[OC]|cffffcc00Professions (Skinning + Mining, plus First Aid, Cooking, Fishing):|r Skinning came from Thendal Grove. The Shen'dar NPCs below carry profession subnames ("Cook", "Medic", "Fisherman", "Miner"); all four teach their profession up to Journeyman (wow-professions.com Forever trainer lists, 2 Nov); the Valanaar NPCs teach the same (Nyalah Brightfire cook, Baelann Swiftcurrent fisher, Halavuul Cragwind Mining Trainer)
+At [TAR251905 Zerril Softbreeze] (Cook), learn Cooking; buy Simple Wood and Flint and Tinder for your campfires [G43.9,43.8 Zephras Isle]
+At [TAR257022 Messana Crestwind] (Miner), learn Mining; buy a Mining Pick here [G44.8,44.6 Zephras Isle]
+At [TAR257018 Naleeia Tattermend] (Medic), learn First Aid [G43.1,46.3 Zephras Isle]
+At [TAR251992 Fenn Fairweather] (Fisherman, south edge of the village), learn Fishing and buy his Fishing Pole [G45,48.4 Zephras Isle]
 At [TAR254360 Belandiel Farflight] (trade supplies), [V] buy 5 Shiny Baubles (+25 Fishing lure) and 10 Mild Spices [G44.8,45.1 Zephras Isle]
 
 [OC]Run to the campfire on the west edge of the village
@@ -197,7 +197,7 @@ At [TAR252383 Valennia Stormfist], [QT92640] [QA93065 Prepare for Battle] [G66.1
 At [TAR253844 Valennia Stormfist] at the northwest gate, [QT93065] [QA92947 Making Our Move] [G61.2,71 Zephras Isle]
 
 [OC]|cffffffffLevel 12-13 - Shrine of Akir and Shadowgale Forest|r  -  14 hand-ins, 10,065 XP
-[A Druid] Detour north-east from the gate to the falls: at [TAR255853 Urs'endris], [QT94638 Strength and Mercy] - it teaches Bear Form (Wowhead; unverified whether the trainer also sells it at 10) [G69.8,61.7 Zephras Isle]
+[A Druid] Detour north-east from the gate to the falls: at [TAR255853 Urs'endris], [QT94638 Strength and Mercy] - it teaches Bear Form (Wowhead 'You will learn: Bear Form'; Warcraft Tavern: quest-gated on Forever, the trainer does not sell it) [G69.8,61.7 Zephras Isle]
 [OC][A Druid] |cffffcc00Bear Form from here (10-19, Classic reasoning, unverified on Forever):|r pull in Bear Form, Maul as rage allows, Demoralizing Roar on 2+, Enrage at 12 for rage, Bash at 14 on casters, Swipe at 16 for packs; shift out to heal between pulls. Feral tree: Ferocity first (beta consensus, unverified)
 [OC]Fight north-west to the Shrine of Akir
 Kill 7 [TAR252762 Al'Aketh Guardian], 7 [TAR252763 Al'Aketh Spiritcaller] and 7 [TAR252765 Al'Aketh Blademaster] on the approach [QC92947] - finish the Windstone Charms here if you are short [G62.3,50.5 Zephras Isle]

@@ -25,6 +25,7 @@ Status: **built, 1 Nov 2026 (all four phases done).** The addon is `guide/Guidel
 - The Fire Hardened Mail chain runs 1698 -> 1699 -> 1702 only; 1701 needs Stonetalon chimaeras and Roogug (RFK), so it belongs to the 30-40 guide.
 
 ## In-game test list (unverified items written into the chapters)
+2 Nov 2026: checked against public sources; the items struck and the ones still open are in docs/audit-2026-11-02.md.
 Guidelime / data
 1. Skyborne race filter in Guidelime 6.014 and whether 2^32-only quest masks hide steps.
 2. Forever Dalaran has no Guidelime map: the two Dalaran steps sit on the Alterac Mountains map at 12.3,56.3 / 12.0,56.2 (QuestieDB zone 36). Where the Skyborne Portal really is, and where it lands in Stormwind.

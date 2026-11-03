@@ -5,7 +5,7 @@ Guidelime.registerGuide([[
 [OC]|cffffffffZephras Isle 6-14|r  -  full clear of the isle (about 14 at the skycutter). Quest order from QuestieDB Forever 1.0.9 prerequisites, checked against Polestar 0.2.6 and TUGs.
 [OC]|cffffcc00Carry-over log:|r The Next Step (92472) and The Adventurer (96638) from Thendal Grove.
 [OC]|cffffcc00Launch rule (6-14):|r no shared tags in Forever - on a camped named mob or object INVITE the people standing there (kill credit shares in a party; most drop items don't). If no group forms in ~2 min, tick the step and keep moving; the catch-up line before the skycutter says what is still reachable.
-[OC]|cffffcc00Travel:|r no flight master on the isle; tornadoes on the roads give +40% run speed for 5 min. The DB lists innkeepers in Shen'dar (Coriella Calmbreeze) and Valanaar (Donaal Downbreeze) and TUGs binds the hearth at both, while Polestar says the isle has no inn: the route never uses the hearth here (unverified - test list)
+[OC]|cffffcc00Travel:|r no flight master on the isle; tornadoes on the roads give +40% run speed for 5 min. The DB lists innkeepers in Shen'dar (Coriella Calmbreeze - Warcraft Tavern confirms you can set your hearth with her) and Valanaar (Donaal Downbreeze) and TUGs binds the hearth at both, while Polestar says the isle has no inn: the route never uses the hearth here (unverified - test list)
 
 [OC]|cffffffffLevel 6-8 - Shen'dar Village|r  -  11 hand-ins, 3,540 XP
 [OC]Follow the road south from Thendal Grove into Shen'dar Village
@@ -16,11 +16,11 @@ At [TAR251903 Rathiril Sunlance], [QT92596] [QA94413 A Magical Affront] [G45,46.
 At [TAR254089 Coriella Calmbreeze] (innkeeper, northwest corner of the village), talk to her [QC93461,2] [G43,43.2 Zephras Isle]
 [A Warrior] At [TAR254088 Corsan Earthrazer] (warrior trainer, middle of the village), [T] train [G45,45.1 Zephras Isle]
 
-[OC]|cffffcc00Professions (Skinning + Mining, plus First Aid, Cooking, Fishing):|r Skinning came from Thendal Grove. The Shen'dar NPCs below carry profession subnames ("Cook", "Medic", "Fisherman", "Miner"); that they teach is unverified - if one does not, the Valanaar NPCs are the fallback (Nyalah Brightfire cook, Baelann Swiftcurrent fisher, Halavuul Cragwind Mining Trainer)
-At [TAR251905 Zerril Softbreeze] (Cook), learn Cooking (unverified that he teaches); buy Simple Wood and Flint and Tinder for your campfires [G43.9,43.8 Zephras Isle]
-At [TAR257022 Messana Crestwind] (Miner), learn Mining if she teaches it (unverified - otherwise Halavuul Cragwind in Valanaar does); buy a Mining Pick here [G44.8,44.6 Zephras Isle]
-At [TAR257018 Naleeia Tattermend] (Medic), learn First Aid (unverified that she teaches) [G43.1,46.3 Zephras Isle]
-At [TAR251992 Fenn Fairweather] (Fisherman, south edge of the village), learn Fishing (unverified that he teaches) and buy his Fishing Pole [G45,48.4 Zephras Isle]
+[OC]|cffffcc00Professions (Skinning + Mining, plus First Aid, Cooking, Fishing):|r Skinning came from Thendal Grove. The Shen'dar NPCs below carry profession subnames ("Cook", "Medic", "Fisherman", "Miner"); all four teach their profession up to Journeyman (wow-professions.com Forever trainer lists, 2 Nov); the Valanaar NPCs teach the same (Nyalah Brightfire cook, Baelann Swiftcurrent fisher, Halavuul Cragwind Mining Trainer)
+At [TAR251905 Zerril Softbreeze] (Cook), learn Cooking; buy Simple Wood and Flint and Tinder for your campfires [G43.9,43.8 Zephras Isle]
+At [TAR257022 Messana Crestwind] (Miner), learn Mining; buy a Mining Pick here [G44.8,44.6 Zephras Isle]
+At [TAR257018 Naleeia Tattermend] (Medic), learn First Aid [G43.1,46.3 Zephras Isle]
+At [TAR251992 Fenn Fairweather] (Fisherman, south edge of the village), learn Fishing and buy his Fishing Pole [G45,48.4 Zephras Isle]
 At [TAR254360 Belandiel Farflight] (trade supplies), [V] buy 5 Shiny Baubles (+25 Fishing lure) and 10 Mild Spices [G44.8,45.1 Zephras Isle]
 
 [OC]Run to the campfire on the west edge of the village
@@ -155,7 +155,7 @@ At [TAR252475 Elaadrin Evengale], [QT99260] [QA92840 Catching Wind] [G66.6,79.9 
 Use the Index Esoteria on the Windstone Formations [QC92840] [G47.6,68.8 Zephras Isle]
 [OC]Run back east to Valanaar
 At [TAR252475 Elaadrin Evengale], [QT92840] [QA92834 Avenged Tenfold] [QA92860 In Service of Zephras] [G66.6,79.9 Zephras Isle]
-[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Bow of Hours|r (bow 5.2 dps +1 Agi) for pulling (bow skill for a Skyborne warrior unverified)
+[OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Bow of Hours|r (bow 5.2 dps +1 Agi) for pulling (Skyborne have Bows - client SkillRaceClassInfo)
 At [TAR252383 Valennia Stormfist], [QT92860] [QA93320 Tower Defense] [G66.1,76.7 Zephras Isle]
 
 [OC]Run north to the eastern watchtower in the Gustberry Lowlands

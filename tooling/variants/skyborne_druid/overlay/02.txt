@@ -18,7 +18,7 @@ At flightmaster [TAR1572 Thorgrum Borrelson], get the [P Thelsamar] flightpoint 
 
 # The druid already has the Strong Fishing Pole (Baelann, Valanaar, 00t:118) and the Longjaw recipe.
 @replace TAR1684#1
-At [TAR1684 Khara Deepwater] by the lake, [V] restock Shiny Baubles (Silver of the Waves turns in here later); if you missed them in Valanaar she also sells the |cff66ff66Strong Fishing Pole|r (+45 Fishing, needs Fishing 10) and |cff66ff66Recipe: Longjaw Mud Snapper|r (Cooking 50: +10 attack power for 15 min at level 5+ - learn it the moment Cooking hits 50) [G40.3,39.3 Loch Modan]
+At [TAR1684 Khara Deepwater] by the lake, [V] restock Shiny Baubles (Silver of the Waves turns in here later); if you missed them in Valanaar she also sells the |cff66ff66Strong Fishing Pole|r (+5 Fishing, needs Fishing 10) and |cff66ff66Recipe: Longjaw Mud Snapper|r (Cooking 50: +10 attack power for 15 min at level 5+ - learn it the moment Cooking hits 50) [G40.3,39.3 Loch Modan]
 
 # Trainer rule (spec): no druid trainer in Ironforge - one clause where the warrior had Kelv (the shaman line 02:48 dropped).
 @after QA95041

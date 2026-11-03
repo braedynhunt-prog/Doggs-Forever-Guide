@@ -21,7 +21,7 @@ In the Keep at [TAR275491 Randal Emerson], take his instructions [QC93963,1] [G7
 At [TAR5479 Wu Shen] (warrior trainer, Old Town), [T] train every new rank up to 14 [G80.6,59.9 Stormwind City]
 [OC]Run south-west through the Trade District to the gate ramp
 At flightmaster [TAR352 Dungar Longdrink] on the gate ramp, get the [P Stormwind] flightpoint [G71.0,72.5 Stormwind City]
-[OC]The bank is in the Trade District on the way (the Burnside bankers, about 64,81) and the Auction House is nearby (location unverified) - drop off anything you carried from the island
+[OC]The bank is in the Trade District on the way (the Burnside bankers, about 64,81) and the Auction House is at about 61,71 in the Trade District (DB auctioneers) - drop off anything you carried from the island
 [OC]Run north along the canal to the Dwarven District and take the Deeprun Tram (the big building at the back of the district) to Ironforge [G73.1,49.2 Stormwind City]
 
 [OC]|cffffffffIronforge|r  -  the tram arrives at the east end of Tinker Town

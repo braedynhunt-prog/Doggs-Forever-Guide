@@ -45,13 +45,11 @@ Forever uses the modern client's rules: addons can display combat values (health
 Details (built-in damage meter), MinimapButtonButton / Minimap Button: Forever (Leatrix bag), ForeverForge / ForeverPlusPlus / Auto Forever (Leatrix sells junk and repairs), GearQuest Forever (Pawn + our scale), TomTom (Guidelime arrow), paid route addons (RestedXP, Journey, Zygor), Baganator/Bagnon unless the default bags annoy him.
 
 ## In-game test list
-- Leatrix Plus vendor price shows on tooltips away from a vendor.
-- GTFO fires on at least one dungeon ground effect (Deadmines or Wailing Caverns).
-- Pawn's Weights tab shows hit, crit and expertise after importing the scale (stat names unverified).
+Struck 2 Nov 2026 after reading the installed .toc/Lua files and the project pages (docs/audit-2026-11-02.md): Pawn stat names (HitRating/CritRating/ExpertiseRating, and 2.14.1 ships Forever default scales), DBM-Party-Forever covers the four new dungeons, GatherMate2 1.52.3-11 (22 Oct) and RoadToSixty 1.18.0 are Forever builds, Questie 12.4.0 + QuestieDB 1.0.10 and Guidelime 6.015 are current. GTFO's Forever spell files are empty stubs, so it will not fire in Classic dungeons: known gap, not a test. Leatrix Plus has no passive sell-price tooltip; use its "Show info cards" keybind or Auctionator.
 - Cooldown Manager works for Shaman spells.
-- DBM-Vanilla covers world bosses; DBM timers for Forever's new raids after 9 Dec.
-- GatherMate2 (Retail build) loads on Forever and shows the Wowhead data nodes; Better Fishing keybind hooks the bobber at full cast range.
-- Road To Sixty 1.18.0 loads on Forever (its newest files are tagged Classic/TBC) and starts recording at level 1.
+- DBM-Azeroth (world bosses; its toc lists no 16001) fires on Forever; DBM timers for Forever's new raids after 9 Dec.
+- Better Fishing keybind hooks the bobber at full cast range.
+- Road To Sixty starts recording on the first login (install before it).
 
 ## Pawn scale for 2H Enhancement (from `forever-enh-stat-weights.md`, recommended 15-20 set)
 

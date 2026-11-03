@@ -10,7 +10,7 @@ At [TAR259084 Denaaris Stargale] beside the Skyborne Portal, [QT94946 The Magica
 [A Druid] At [TAR270459 Alfina Nightgaze] (druid trainer) by the landing, [QA94912 Child of Nature] [QA6121 Lessons Anew] and [T] train every new rank (Bash at 14) [G11.8,56.6 Alterac Mountains]
 [OC][A Druid] |cffffcc00Lessons Anew|r needs level 14. If you landed at 13 she will not offer it: Mathrengyl Bearwalker in Darnassus also starts it - the Moonglade step below says how to fit him in
 Take the Skyborne Portal to Stormwind right next to Denaaris (beta reports put the landing at the Mage Tower in the Mage Quarter, the south-west corner of the city - unverified) [QC94947] [G12.0,56.2 Alterac Mountains]
-[A Druid] In the Mage Quarter at [TAR1313 Maria Lumere] (Alchemy Supplies), [V] buy 5 Earthroot [CI2449,5] for Gathering the Cure - the quest database lists her as a vendor of it (stock and price unverified; the Auction House below is the fallback) [G55.9,85.6 Stormwind City]
+[A Druid] In the Mage Quarter at [TAR1313 Maria Lumere] (Alchemy Supplies), [V] buy 5 Earthroot [CI2449,5] for Gathering the Cure - the quest database lists her as a vendor of it (84c each, stock 6 - Wowhead Forever; Antonio Perelli at the Elwynn 78.1,73.0 wagon sells it too, 80c, stock 3) [G55.9,85.6 Stormwind City]
 
 [OC]|cffffffffStormwind|r  -  2 hand-ins, 1,520 XP; Stormwind Keep is the north end of the city
 In the Keep's throne room at [TAR1748 Highlord Bolvar Fordragon], [QT94947 Welcome to Azeroth] [QA93963 Exploring the Alliance] [QA98021 Journey to Sentinel Hill] [G80.2,38.4 Stormwind City]
@@ -20,7 +20,7 @@ In the Keep at [TAR275491 Randal Emerson], take his instructions [QC93963,1] [G7
 At flightmaster [TAR352 Dungar Longdrink] on the gate ramp, get the [P Stormwind] flightpoint [G71.3,72.2 Stormwind City]
 [OC]The bank is in the Trade District on the way (the Burnside bankers, about 64,81) - drop off anything you carried from the island
 At [TAR6740 Innkeeper Allison] in the Gilded Rose, set your hearthstone here: the Moonglade loop below ends with the hearth back to Stormwind [G60.4,75.3 Stormwind City]
-[A Druid] At the Auction House ([TAR15659 Auctioneer Jaxon]), buy 5 Earthroot [CI2449,5] for Gathering the Cure if you did not get them from Maria Lumere (price unverified) [G61.1,70.7 Stormwind City]
+[A Druid] At the Auction House ([TAR15659 Auctioneer Jaxon]), buy 5 Earthroot [CI2449,5] for Gathering the Cure if you did not get them from Maria Lumere (if she was sold out) [G61.1,70.7 Stormwind City]
 [OC][A Druid] No Earthroot on the AH? The quest database has it dropping from Lasher Sproutlings (level 6-7) in Teldrassil around 56.7,69.0 (rate unknown - budget ~15 kills): on the first Rut'theran stop take the portal up to Darnassus and run east out of the city to them before you board the boat (unverified)
 [OC]Run west along the canal into the Park
 [A Druid] At [TAR5504 Sheldras Moontree] (druid trainer) in the Park, [QT94912 Child of Nature] [QA94914 Moonglade] [G35.8,67.4 Stormwind City]
@@ -35,7 +35,7 @@ At [TAR3838 Vesprystus] in Rut'theran Village, get the [P Rut'theran Village] fl
 Board the boat to Auberdine at the Rut'theran pier, a short walk from Vesprystus (read the signs; about 5 minutes) [G58.4,94 Teldrassil]
 Off the boat in Auberdine, at flight master [TAR3841 Caylais Moonfeather], get the [P Auberdine] flight path [G36.3,45.6 Darkshore]
 [OC][A Druid] |cffffcc00Darkshore order:|r each quest is handed to Alanndarian before the next one opens, so it is cave, Auberdine, fungus, Auberdine, deer: the cave is the far point north-east of town, the fungus and the deer both sit 6-10 map units east of Auberdine
-[A Druid] Run north-east to Cliffspring Falls; use the Empty Cliffspring Falls Sampler at the Cliffspring Falls Cave Mouth (no need to go in; what lives in the cave is unverified) [QC6122] [G54.9,33.3 Darkshore]
+[A Druid] Run north-east to Cliffspring Falls; use the Empty Cliffspring Falls Sampler at the Cliffspring Falls Cave Mouth (no need to go in; the DB puts moonkin, level 11-14, in and around the cave - no naga) [QC6122] [G54.9,33.3 Darkshore]
 [A Druid] Back in Auberdine at [TAR3702 Alanndarian Nightsong], [QT6122 The Principal Source] [QA6123 Gathering the Cure] [G37.7,40.7 Darkshore]
 [A Druid] East of town, loot 12 Lunar Fungus from the Lunar Fungal Blooms (20 spawns between 42,45 and 47,53) [QC6123,2] [G43.8,50.2 Darkshore]
 [A Druid] At [TAR3702 Alanndarian Nightsong], [QT6123 Gathering the Cure] [QA6124 Curing the Sick] [G37.7,40.7 Darkshore]
