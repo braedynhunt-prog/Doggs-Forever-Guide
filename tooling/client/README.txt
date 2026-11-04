@@ -43,3 +43,15 @@ Tables: QuestXP SkillLineAbility QuestInfo TaxiNodes Item TaxiPath SkillLine Ski
 Diffed against 1.60.1.70753 by ID: 0 added, 0 removed, 0 changed rows in all 12 tables; row counts identical
 (e.g. SpellName 32070, SkillLineAbility 7858, Item 31985), and all 12 files are byte-identical.
 Looks like a technical build with identical game data for these tables.
+
+4 Nov 2026 - build 1.60.1.70790 pulled into 1.60.1.70790/ (wago.tools build of 4 Nov 2026 18:08 UTC, the launch-day client).
+Tables: the same twelve. Diffed against 1.60.1.70755: QuestXP, QuestInfo, TaxiNodes, TaxiPath, SkillRaceClassInfo, Talent,
+TalentTab byte-identical. SpellName 59 lines, mostly rogue/warrior: rogue talents renamed (13732 Improved Sinister Strike ->
+Efficient Strikes, 14162 Improved Eviscerate -> Coup de Grace), Mutilate ranks 1310705-7 replaced by Venom 1329328 and Shank
+1329283/1329549, new rogue spells (Composure, Flash of Steel, Boot Knife, Quick Getaway, Ghostly Strike); warrior 1310315
+Raging Blows -> Improved Whirlwind, new Fury spell Reckless Swings 1329555; shaman 16166 Elemental Mastery -> Lightning Mastery
+(Elemental tree) and 437009 Totemic Projection -> Totemic Call (already in the sheet since 3 Nov). SpellLevels 14 lines and
+SkillLineAbility 28 lines carry those same rogue/warrior swaps (Shank at 24, Venom at 30). SkillLine: Flags 1040 -> 66576 on the
+Arms, Combat, Subtlety, Feral Combat, Assassination, Fury, Protection lines. Item: 281350 Keystone Fragment, 281352 Ancient
+Runestone, 281359 Dormant Runestone reclassified Miscellaneous (15) -> Key (13); 289555 added (quest item, no Wowhead name yet).
+None of the changed spells or items is referenced by the shaman, warrior or druid guide or by any QuestieDB quest.
