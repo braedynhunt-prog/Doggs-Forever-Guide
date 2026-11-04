@@ -63,7 +63,8 @@ Roughly 330 claims were checked; about 290 hold. The rest are below.
 5. Eldrun Stormbreaker's coordinate: 46.2,13.2 (02/03/10/11) vs 46.6,13.4 (15/18/22/24/25) vs DB 47.1,13.8. Pick one (the DB spawn, or whichever is right in game) and use it in all nine lines; `tarcheck.py` after.
 6. Bruegs Kindleborn 87.6,43.6 (01b:197, 02:133) vs DB 87.94,44.8: 1.2 off in y, within the DB's usual noise, check in game.
 7. `02_LochModan.lua:48` "Ironforge and Kharanos are the ONLY shaman trainers on this route": true for the route, but the DB also has a Hinterlands trainer; wording only.
-8. Tooling, not the guide: `weights/score_items.py` still reads `weights/item_tooltips.json` (the 24 Sep scrape), whose Rockslicer row says +10 Str (tooltip of 2 Nov: +7 Str +7 Nature Resistance) and Ironforge Greathammer +4 Str +7 Sta (tooltip: no stats, 42 Fire proc). So `scores_2026-11-03.txt` lines 210 and 216 are off (Rockslicer 295.8 should be 289.8). Any weapon comparison should be re-run from `tooltips/2026-11-02.json` before it goes into a guide line.
+8. `02_LochModan.lua:48` trains "level 12: Purge, Fire Nova Totem". Fire Nova is a spell on Forever (no totem; it detonates around the active fire totem, 10 s cooldown): "Purge, Fire Nova".
+9. Tooling, not the guide: `weights/score_items.py` still reads `weights/item_tooltips.json` (the 24 Sep scrape), whose Rockslicer row says +10 Str (tooltip of 2 Nov: +7 Str +7 Nature Resistance) and Ironforge Greathammer +4 Str +7 Sta (tooltip: no stats, 42 Fire proc). So `scores_2026-11-03.txt` lines 210 and 216 are off (Rockslicer 295.8 should be 289.8). Any weapon comparison should be re-run from `tooltips/2026-11-02.json` before it goes into a guide line.
 
 ## 4. Items the data could not settle, checked on the web (3 Nov evening)
 
