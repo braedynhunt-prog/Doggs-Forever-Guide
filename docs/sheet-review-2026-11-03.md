@@ -54,7 +54,9 @@ Roughly 330 claims were checked; about 290 hold. The rest are below.
 | 1 | "Respecs are cheap early (10 s, then 1 g, rising)" | No class respec price on any source; the 3 Nov hotfix adds hidden Class / Legacy Talent Reset counters (10 each, one recharging every 7 days), which suggests a cost that decays with recent resets. Unsourced | /patch-notes/ |
 | 4 | "launch 4 Nov 2026, 6 pm Toronto" | Roadmap: 4 Nov 3:00 p.m. PST = 6 p.m. Toronto. Fine; the repo docs carry only the date. Raids 9 Dec confirmed (Barrow Deeps 10, Hyjal Summit 20, Onyxia's Lair 40) | /roadmap/ |
 
-## 3. Guide lines the check exposed (proposals, not applied)
+## 3. Guide lines the check exposed (Braedyn: "approve all", applied 3 Nov evening)
+
+Applied as listed below (Eldrun to the DB spawn 47.1,13.8 in all 12 lines; Bruegs 87.9,44.8; the Two-Handed Axes step is 02:52, so chapter 02 grew by one line). check_guide 7 cosmetic, verify 0 new after re-baselining the three line numbers the insert shifted, tarcheck clean on the moved coordinates. Shaman TOC notes and zip rebuilt; the druid and warrior variants inherit only the trout line (their 09:59) and were rebuilt with their zips. Item 9: `score_items.py` now reads the newest `tooltips/<date>.json`, merges quest links by name from the 24 Sep file, and names both in its first line; `scores_2026-11-03.txt` re-run (Rockslicer 289.8 and the Greathammer 223.6 now fall outside the two-hand top 8; seven other items' stats moved with the 2 Nov tooltips, e.g. Miner's Cape +10 AP, Bravo's Armbands +3 Str +3 Agi). Still open from the web pass (not approved yet): an Ankh bag-check line before chapter 25, and a Flametongue / Windfury Totem exclusivity note at the chapter-18 trainer stop.
 
 1. `08_RuinsOfLordaeron.lua:13` Call of Water "~10,500 XP" -> "~9,600 XP" (sum 9,580 from the zone data).
 2. `08_RuinsOfLordaeron.lua:49` Segmented Spider Leg "a straight upgrade over Smite's Hammer or Rockslicer" is wrong on the current weights (257.7 vs 301.3 / 289.8); Corpse Chopper (254.7) likewise. Propose: "a fallback if you have neither Smite's Hammer nor Rockslicer; keep either of those over it".

@@ -4,7 +4,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [OC]|cffffffffLevel 30|r  -  you are in Ironforge with Gnomeregan done; hearth = Sentinel Hill and it stays there. This chapter closes loops: about 25,000 quest XP with everything (28,000 with Lakeshire) from hand-ins, the Missing Diplomat chain and two Duskwood elites that need the tank friend (about 8,500 of it). Level-30 spells were trained in Ironforge last chapter and level 32 is not due yet, so there are no trainer stops.
 [OC]|cffffcc00Carry in:|r Gyrodrillmatic Excavationators (2928, finished in Gnomeregan), Blessed Arm (322), Return to Milton (542, only if you took the Durnholde group quest), Reassignment (563) and, for the Lakeshire option, Fallen in the Fen (95795). The Stormwind ones hand in within ten minutes of the tram.
-[A Shaman] At [TAR258098 Eldrun Stormbreaker] in the Forlorn Cavern, [QA94789 Call of Air] (2,450 XP and the Air Totem; Veyric Thunderhame waits in Arathi, the last stop of this chapter) [G46.6,13.4 Ironforge]
+[A Shaman] At [TAR258098 Eldrun Stormbreaker] in the Forlorn Cavern, [QA94789 Call of Air] (2,450 XP and the Air Totem; Veyric Thunderhame waits in Arathi, the last stop of this chapter) [G47.1,13.8 Ironforge]
 Take the Deeprun Tram to Stormwind [G76.5,51.5 Ironforge]
 
 [OC]|cffffffffStormwind|r  -  one loop from the tram: Cathedral Square, the Dwarven District, the Keep, the south-east corner and the Trade District. The Missing Diplomat is a long chain (twelve parts to Menethil, then it runs on to Dustwallow Marsh); the first nine parts, about 5,400 XP, are done here and in Duskwood and every one of them requires level 28.

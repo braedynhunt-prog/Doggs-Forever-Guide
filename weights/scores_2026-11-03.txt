@@ -1,3 +1,4 @@
+TOOLTIPS: tooltips/2026-11-02.json (681 items; quest links for 127 items taken from item_tooltips.json)
 WEIGHTS (level 20, AP = 1; mace term dropped 1 Nov 2026):
   central      wdps=14.00  str=2.00  ap=1.00  int=1.55  agi=0.85  spi=1.00  sta=0.00  sp=1.50  exp=3.00
   conservative wdps=14.00  str=2.00  ap=1.00  int=1.55  agi=0.85  spi=0.50  sta=0.00  sp=0.50  exp=1.00
@@ -5,15 +6,15 @@ WEIGHTS (level 20, AP = 1; mace term dropped 1 Nov 2026):
 PER-QUEST REWARD RANKING (score = AP-equivalent; level-20 weights, central | conservative)
 
 quest 9  (guide: Harvester's Pants (only if still in Dwarven Leather Pants))
+      5.0 |    2.0   Harvester's Robe                   Chest        Cloth    +2 Spi +2 SP
       4.7 |    3.2   Harvester's Pants                  Legs         Leather  +2 Agi +3 Spi
-      2.0 |    1.0   Harvester's Robe                   Chest        Cloth    +2 Sta +2 Spi
-      0.8 |    0.8   Harvester's Pestslayer             Ranged       Bow      10.2 dps +1 Agi +1 Sta  [bow (shaman can't use)]
+      0.8 |    0.8   Harvester's Pestslayer             Ranged       Bow      6.0 dps +1 Agi +1 Sta  [bow (shaman can't use)]
 
 quest 14  (guide: None)
     156.9 |  156.9   Edge of the People's Militia       Two-Hand     Sword    11.2 dps +5 Sta  [sword (shaman can't use)]
     122.2 |  122.2   Fist of the People's Militia       Main Hand    Mace     8.4 dps +2 Str
-      4.5 |    1.5   Boots of the People's Militia      Feet         Leather  +3 SP
-      1.5 |    0.5   Spark of the People's Militia      Ranged       Wand     8.3 dps +1 SP  [wand (shaman can't use)]
+      6.0 |    2.0   Boots of the People's Militia      Feet         Leather  +4 SP
+      1.5 |    0.5   Spark of the People's Militia      Ranged       Wand     12.8 dps +1 SP  [wand (shaman can't use)]
 
 quest 19  (guide: Orc Crusher (side-grade))
     270.7 |  270.7   Orc Crusher                        Two-Hand     Mace     18.2 dps +8 Str +4 Sta
@@ -27,7 +28,7 @@ quest 46  (guide: None)
      62.2 |   62.2   Solid Metal Club                   Main Hand    Mace     4.4 dps
      61.7 |   61.7   Long Bayonet                       One-Hand     Dagger   4.4 dps
      60.1 |   60.1   Well-used Sword                    Main Hand    Sword    4.3 dps  [sword (shaman can't use)]
-      0.0 |    0.0   Junior's Hunting Bow               Ranged       Bow      5.6 dps  [bow (shaman can't use)]
+      0.0 |    0.0   Junior's Hunting Bow               Ranged       Bow      3.5 dps  [bow (shaman can't use)]
 
 quest 89  (guide: Smith's Trousers (only if no Deepgrave))
      11.4 |   11.4   Smith's Trousers                   Legs         Leather  +4 Str +4 Agi
@@ -53,7 +54,7 @@ quest 151  (guide: Old Blanchy's Feed Pouch)
       0.0 |    0.0   Old Blanchy's Blanket              Back                  no stats
 
 quest 153  (guide: Cloak of the People's Militia (only if no Spiritwraith))
-      6.0 |    5.0   Leggings of the People's Militia   Legs         Cloth    +2 Str +2 Spi
+      7.0 |    5.0   Leggings of the People's Militia   Legs         Cloth    +2 Str +2 SP
       1.7 |    1.7   Cloak of the People's Militia      Back                  +2 Agi
       0.0 |    0.0   Greaves of the People's Militia    Feet         Mail     +3 Sta  [mail (40+)]
 
@@ -81,14 +82,14 @@ quest 170  (guide: Bear Shawl)
 
 quest 176  (guide: None)
     125.7 |  125.7   Balanced Fighting Stick            Two-Hand     Staff    8.9 dps +2 Agi +2 Sta
+      6.1 |    4.1   Apprentice Wizard's Gown           Chest        Cloth    +2 Int +2 SP
       6.0 |    6.0   Stormwind Guard Leggings           Legs         Mail     +3 Str  [mail (40+)]
-      4.6 |    3.6   Apprentice Wizard's Gown           Chest        Cloth    +2 Int +1 SP
       0.8 |    0.8   Footman Tunic                      Chest        Leather  +1 Agi +2 Sta
 
 quest 179  (guide: Wolf Handler Gloves)
+      0.0 |    0.0   Boar Handler Gloves                Hands        Mail     no stats  [mail (40+)]
       0.0 |    0.0   Rabbit Handler Gloves              Hands        Cloth    no stats
       0.0 |    0.0   Wolf Handler Gloves                Hands        Leather  no stats
-      0.0 |    0.0   Boar Handler Gloves                Hands        Mail     no stats  [mail (40+)]
 
 quest 182  (guide: Anvilmar Sledge)
      36.1 |   36.1   Anvilmar Sledge                    Two-Hand     Mace     2.6 dps
@@ -121,26 +122,26 @@ quest 219  (guide: Bone-studded Leather)
       3.0 |    1.5   Robe of Solomon                    Chest        Cloth    +7 Sta +3 Spi
 
 quest 256  (guide: Loch Walkers)
+     10.6 |    5.6   Minor Channeling Ring              Finger                +2 Int +5 SP
       9.2 |    7.7   Kimbra Boots                       Feet         Cloth    +4 Int +3 Spi
-      9.1 |    5.1   Minor Channeling Ring              Finger                +2 Int +4 SP
       6.4 |    4.9   Loch Walkers                       Feet         Leather  +4 Agi +3 Spi
       0.0 |    0.0   Durable Chain Shoulders            Shoulder     Mail     +6 Sta  [mail (40+)]
 
 quest 283  (guide: None)
-    200.4 |  188.4   Dwarven Tree Chopper               Two-Hand     Axe      13.0 dps +6 Exp
+    182.4 |  182.4   Dwarven Tree Chopper               Two-Hand     Axe      13.0 dps
     142.6 |  142.6   Thornblade                         One-Hand     Dagger   10.0 dps +3 Agi
 
 quest 287  (guide: Stone Buckler)
-      0.0 |    0.0   Warm Winter Robe                   Chest        Cloth    no stats
       0.0 |    0.0   Stone Buckler                      Off Hand     Shield   no stats  [off-hand/ranged (2H build)]
+      0.0 |    0.0   Warm Winter Robe                   Chest        Cloth    no stats
 
 quest 297  (guide: None)
     171.7 |  169.2   Trogg Slicer                       Two-Hand     Sword    11.9 dps +5 Spi  [sword (shaman can't use)]
     128.4 |  128.4   Thelsamar Axe                      Main Hand    Axe      9.1 dps +2 Agi
-      2.0 |    1.0   Dwarven Flamestick                 Ranged       Wand     8.9 dps +2 Spi  [wand (shaman can't use)]
+      2.0 |    1.0   Dwarven Flamestick                 Ranged       Wand     13.6 dps +2 Spi  [wand (shaman can't use)]
 
 quest 307  (guide: Robe of the Keeper)
-      2.0 |    1.0   Ironplate Buckler                  Off Hand     Shield   +2 Spi  [off-hand/ranged (2H build)]
+      3.0 |    1.0   Ironplate Buckler                  Off Hand     Shield   +2 SP  [off-hand/ranged (2H build)]
       0.0 |    0.0   Ironheart Chain                    Chest        Mail     +4 Sta  [mail (40+)]
       0.0 |    0.0   Robe of the Keeper                 Chest        Cloth    +4 Sta
 
@@ -154,7 +155,7 @@ quest 312  (guide: Wooly Mittens)
 
 quest 314  (guide: Coldridge Hammer)
     119.6 |  119.1   Coldridge Hammer                   Two-Hand     Mace     8.3 dps +1 Str +1 Spi
-      1.0 |    0.5   Rancher's Trousers                 Legs         Cloth    +1 Sta +1 Spi
+      2.5 |    1.0   Rancher's Trousers                 Legs         Cloth    +1 Spi +1 SP
       0.0 |    0.0   Soft Leather Tunic                 Chest        Leather  +2 Sta
 
 quest 315  (guide: Goat Fur Cloak)
@@ -193,101 +194,123 @@ quest 2038  (guide: Bingles' Flying Gloves)
       4.8 |    4.8   Bingles' Flying Gloves             Hands        Leather  +2 Agi +2 Int
 
 quest 2040  (guide: Bravo's Armbands)
-     23.1 |   19.1   Dreamer's Leggings                 Legs         Leather  +11 Int +4 SP
-     18.0 |   15.0   Polar Gauntlets                    Hands        Mail     +6 Str +6 Spi  [mail (40+)]
-     11.4 |    9.4   Bravo's Armbands                   Wrist        Leather  +2 Str +4 Agi +4 Spi
-      7.5 |    3.0   Sable Wand                         Ranged       Wand     14.4 dps +3 Spi +3 SP  [wand (shaman can't use)]
+     12.3 |   10.3   Dreamer's Leggings                 Legs         Leather  +6 Int +2 SP
+     10.0 |    9.0   Polar Gauntlets                    Hands        Mail     +4 Str +2 Spi  [mail (40+)]
+      8.6 |    8.6   Bravo's Armbands                   Wrist        Leather  +3 Str +3 Agi
+      2.0 |    1.0   Sable Wand                         Ranged       Wand     16.9 dps +2 Spi  [wand (shaman can't use)]
 
 quest 95999  (guide: None)
-     18.0 |   14.0   Disjointed Shoes                   Feet         Leather  +12 AP +4 SP
+     19.5 |   14.5   Disjointed Shoes                   Feet         Leather  +12 AP +5 SP
      14.2 |   14.2   Alacritous Treads                  Feet         Mail     +5 Str +5 Agi  [mail (40+)]
       9.3 |    9.3   Incinerator's Boots                Feet         Cloth    +3 Sta +6 Int
 
 SLOT BY SLOT, everything usable with req <= 20 (central weights; conservative in brackets)
 
 Two-Hand:
+    420.2 [ 420.2]  Heavehammer                            Mace     27.7 dps +32 AP                          drop  req0
+    362.0 [ 319.5]  Fallen Dragon's Scepter                Staff    19.9 dps +11 Int +13 Spi +36 SP          drop  req0
+    324.3 [ 324.3]  Mavoris's Warstaff                     Staff    21.6 dps +11 Str +3 Sta                  drop  req0
+    323.8 [ 301.8]  Healer's Staff                         Staff    20.8 dps +12 Sta +22 SP                  drop  req0
+    321.1 [ 321.1]  Mechanic's Pipehammer                  Mace     21.6 dps +12 Int                         drop  req0
+    310.9 [ 310.9]  Ironwood Destroyer                     Mace     22.2 dps                                 drop  req0
     301.3 [ 301.3]  Smite's Mighty Hammer                  Mace     19.7 dps +11 Str +4 Agi                  drop  req18
-    295.8 [ 295.8]  Rockslicer                             Axe      19.7 dps +10 Str                         drop  req18
-    270.7 [ 270.7]  Orc Crusher                            Mace     18.2 dps +8 Str +4 Sta                   q19  req0
-    268.7 [ 261.7]  Rhahk'Zor's Hammer                     Mace     18.4 dps +8 Sta +7 SP                    drop  req16
-    250.1 [ 231.1]  Staff of Westfall                      Staff    15.2 dps +5 Int +6 Spi +16 SP            q167  req0
-    239.4 [ 212.9]  Emberstone Staff                       Staff    14.2 dps +5 Sta +5 Spi +24 SP            drop  req17
-    235.3 [ 216.3]  Taskmaster Axe                         Axe      14.6 dps +8 Sta +8 Spi +15 SP            drop  req18
-    231.6 [ 231.6]  Ironforge Greathammer                  Mace     16.0 dps +4 Str +7 Sta                   drop  req0
+    293.6 [ 293.6]  Glacial Stone                          Mace     21.0 dps                                 drop  req0
 
 Head:
      12.0 [   4.0]  Totemic Leather Hood (LW, 20)          Leather  +10 Sta +8 SP                            craft/RoL  req20
       6.8 [   6.8]  Brawler's Leather Hood (LW, 20)        Leather  +8 Agi +10 Sta                           craft/RoL  req20
 
 Neck:
-      2.0 [   1.0]  Ephemeral Choker                                +4 Sta +2 Spi                            drop  req13
+     10.0 [   5.0]  Giantstone Medallion                            +10 Spi                                  drop  req0
+      7.0 [   3.5]  Essene's Hope                                   +7 Spi                                   drop  req0
+      5.5 [   4.0]  Replica Crescent Necklace                       +3 Agi +3 Spi                            drop  req0
+      5.0 [   2.5]  Ephemeral Choker                                +5 Spi                                   drop  req13
 
 Shoulder:
+     17.9 [  14.3]  Mantle of Honor                        Cloth    +7 Int +7 Spi                            drop  req0
+     15.3 [  12.3]  Faerie Mantle                          Cloth    +6 Int +6 Spi                            drop  req0
+     15.2 [  10.2]  Rose Mantle                            Cloth    +5 Int +5 SP                             drop  req0
+     15.2 [   8.2]  Raptorclaw Shoulders                   Leather  +3 Int +7 SP                             drop  req0
+     13.3 [  11.3]  Silk Mantle of Gamn                    Cloth    +6 Int +4 Spi                            drop  req0
+      8.2 [   7.2]  Luminescent Amice                      Cloth    +6 Sta +4 Int +2 Spi                     drop  req0
+      7.0 [   3.5]  Darkshire Shoulderguards               Leather  +7 Sta +7 Spi                            drop  req0
 
 Back:
+     17.0 [  14.5]  Explorer's League Dustcover                     +5 Agi +5 Int +5 Spi                     drop  req0
+     12.7 [   8.2]  Repairman's Cape                                +3 Int +5 Spi +2 SP                      drop  req0
+     12.0 [  12.0]  Golem War Cloak                                 +6 Str                                   drop  req0
+     11.1 [  11.1]  Yeti Fur Cloak                                  +3 Str +6 Agi                            drop  req0
+     10.0 [  10.0]  Miner's Cape                                    +5 Sta +10 AP                            drop  req17
+      8.0 [   8.0]  Excavation Cloak                                +4 Str +4 Sta                            drop  req0
       7.7 [   7.7]  Grave Shroud (Ruins of Lordaeron)               +3 Str +2 Agi +5 Sta                     craft/RoL  req15
-      6.4 [   4.9]  Spiritwraith Drape                              +4 Agi +3 Spi                            drop  req13
-      6.0 [   6.0]  Catacomb Cloak                                  +3 Sta +6 AP                             drop  req0
-      4.2 [   4.2]  Cape of the Brotherhood                         +5 Agi +3 Sta                            drop  req19
-      4.0 [   4.0]  Miner's Cape                                    +5 Sta +4 AP                             drop  req17
-      2.5 [   1.5]  Cloak of the Honored Guest                      +1 Sta +1 AP +1 SP                       drop  req0
-      2.0 [   1.0]  Finely Woven Cloak                              +2 Spi                                   q116  req0
-      1.7 [   1.7]  Cloak of the People's Militia                   +2 Agi                                   q153  req0
+      7.0 [   7.0]  Catacomb Cloak                                  +2 Sta +7 AP                             drop  req0
 
 Chest:
+     31.0 [  31.0]  Raptorbane Armor                       Leather  +3 Sta +31 AP                            drop  req0
      26.1 [  21.1]  Totemic Leather Armor (LW, 15)         Leather  +7 Str +3 Sta +3 Int +5 SP               craft/RoL  req15
+     25.5 [  10.5]  Civinad Robes                          Cloth    +7 Sta +12 Spi +9 SP                     drop  req0
      18.9 [  17.4]  Brawler's Leather Armor (LW, 15)       Leather  +5 Str +7 Agi +3 Sta +3 Spi              craft/RoL  req15
-     14.8 [  11.2]  Robes of the Disgraced Thane           Cloth    +5 Int +7 Spi                            drop  req13
+     17.0 [  12.5]  Snapbrook Armor                        Leather  +4 Str +9 Spi                            drop  req0
+     16.0 [   6.0]  Robes of the Disgraced Thane           Cloth    +4 Spi +8 SP                             drop  req13
+     14.9 [  10.4]  Bloodied Chestwraps                    Leather  +7 Agi +9 Spi                            drop  req17
      12.8 [  12.8]  Bone-studded Leather                   Leather  +6 Str +1 Agi +5 Sta                     q219  req0
-     12.5 [   5.5]  Corsair's Overshirt                    Cloth    +5 Sta +8 Spi +3 SP                      drop  req17
-     10.6 [  10.6]  Blackened Defias Armor                 Leather  +4 Str +3 Agi +10 Sta                    drop  req17
-      9.3 [   9.3]  Tunic of Westfall                      Leather  +11 Agi +5 Sta                           q167  req0
-      4.6 [   3.6]  Apprentice Wizard's Gown               Cloth    +2 Int +1 SP                             q176  req0
 
 Wrist:
-     11.4 [   9.4]  Bravo's Armbands                       Leather  +2 Str +4 Agi +4 Spi                     q2040  req0
+     10.9 [   5.9]  Witherbite Bracers                     Leather  +4 Agi +5 SP                             drop  req15
+     10.0 [  10.0]  Cultist's Armguards                    Leather  +7 Sta +10 AP                            drop  req0
+      9.4 [   9.4]  Demonhide Bracers                      Leather  +3 Str +4 Agi                            drop  req0
+      8.6 [   8.6]  Bravo's Armbands                       Leather  +3 Str +3 Agi                            q2040  req0
       5.1 [   4.1]  Repurposed Hair Band                   Cloth    +2 Int +2 Spi                            drop  req0
-      4.5 [   1.5]  Aetherwisp Bracers                     Cloth    +3 Sta +3 SP                             drop  req13
+      4.5 [   1.5]  Aetherwisp Bracers                     Cloth    +3 SP                                    drop  req13
+      2.5 [   2.5]  Staghide Armguards                     Leather  +3 Agi +3 Sta                            drop  req0
+      2.0 [   1.0]  Ridgeback Bracers                      Leather  +2 Sta +2 Spi                            drop  req0
 
 Hands:
+     16.0 [  14.0]  Operator's Gloves                      Leather  +6 Str +4 Sta +4 Spi                     drop  req0
      15.5 [  10.5]  Totemic Leather Gloves (LW, 15)        Leather  +4 Str +3 Sta +5 SP                      craft/RoL  req15
+     15.3 [  12.3]  Town Clerk's Mittens                   Cloth    +7 Int +3 SP                             drop  req0
      14.0 [  14.0]  Gold-flecked Gloves                    Cloth    +7 Str                                   drop  req17
-     11.4 [   9.4]  Flamefist Grips                        Leather  +2 Str +4 Agi +4 Spi                     drop  req13
+     13.5 [   5.5]  Shilly Mitts                           Cloth    +6 Spi +5 SP                             drop  req0
+     13.2 [   9.7]  Zodiac Gloves                          Cloth    +4 Int +7 Spi                            drop  req0
+     12.0 [  12.0]  Blackened Defias Gloves                Leather  +6 Str +2 Sta                            drop  req14
      11.4 [  11.4]  Brawler's Leather Gloves (LW, 15)      Leather  +4 Str +4 Agi +3 Sta                     craft/RoL  req15
-      9.3 [   9.3]  Tomb Robber's Gloves                   Cloth    +3 Sta +6 Int                            drop  req0
-      7.7 [   7.7]  Dusty Mining Gloves                    Leather  +3 Str +2 Agi                            q168  req0
-      7.2 [   7.2]  Riding Gloves                          Cloth    +3 Agi +3 Int                            q89  req0
-      6.5 [   6.5]  Black Whelp Gloves                     Leather  +2 Str +3 Agi                            q122  req0
 
 Waist:
      18.0 [  18.0]  Blackened Defias Belt                  Leather  +18 AP                                   drop  req17
+     16.5 [   6.5]  Daewyn's Girdle                        Cloth    +6 Spi +7 SP                             drop  req0
+     14.0 [   5.5]  Tuskwrap Belt                          Cloth    +5 Spi +6 SP                             drop  req16
      14.0 [  10.0]  Totemic Leather Belt (LW, 12)          Leather  +4 Str +3 Sta +4 SP                      craft/RoL  req12
+     12.2 [  11.2]  Relic Hunter Belt                      Cloth    +2 Str +4 Int +2 Spi                     drop  req0
      11.4 [  11.4]  Brawler's Leather Belt (LW, 12)        Leather  +4 Str +4 Agi +3 Sta                     craft/RoL  req12
-      8.2 [   6.2]  Dusty Belt                             Leather  +5 Agi +4 Spi                            drop  req0
-      4.7 [   4.7]  Worn Miner's Waistcord                 Cloth    +2 Sta +3 Int                            q168  req0
-      2.0 [   1.0]  Foreman Belt                           Cloth    +2 Sta +2 Spi                            q309  req0
+      9.0 [   3.0]  Heartwood Girdle                       Leather  +5 Sta +6 SP                             drop  req0
+      8.0 [   8.0]  Steadfast Cinch                        Leather  +4 Str +3 Sta                            drop  req0
 
 Legs:
      34.7 [  27.7]  Totemic Leather Pants (LW, 20)         Leather  +9 Str +4 Sta +4 Int +7 SP               craft/RoL  req20
      23.6 [  21.6]  Brawler's Leather Pants (LW, 20)       Leather  +6 Str +9 Agi +4 Sta +4 Spi              craft/RoL  req20
-     23.1 [  19.1]  Dreamer's Leggings                     Leather  +11 Int +4 SP                            q2040  req0
-     19.6 [  18.1]  Deepgrave Trousers                     Leather  +7 Str +3 Agi +3 Spi                     drop  req0
+     21.3 [  21.3]  Triprunner Dungarees                   Leather  +3 Str +18 Agi +6 Sta                    drop  req0
+     21.0 [   7.0]  Dark Ritual Leggings                   Leather  +9 Sta +14 SP                            drop  req0
+     17.1 [  17.1]  Blackened Defias Leggings              Leather  +6 Str +6 Agi                            drop  req14
      17.1 [  17.1]  Duty Bound Leggings (Ruins of Lordaeron) Leather  +6 Agi +9 Sta +12 AP                     craft/RoL  req15
-     11.4 [  11.4]  Smith's Trousers                       Leather  +4 Str +4 Agi                            q89  req0
-      8.6 [   8.6]  Frontier Britches                      Leather  +3 Str +3 Agi                            q217  req0
-      6.0 [   5.0]  Leggings of the People's Militia       Cloth    +2 Str +2 Spi                            q153  req0
+     17.0 [  11.0]  Ogre Loincloth                         Cloth    +4 Str +6 Sta +6 SP                      drop  req17
+     14.8 [   7.8]  Silk-threaded Trousers                 Cloth    +5 Agi +7 SP                             drop  req13
 
 Feet:
-     18.0 [  14.0]  Disjointed Shoes                       Leather  +12 AP +4 SP                             q95999  req0
+     19.5 [  14.5]  Disjointed Shoes                       Leather  +12 AP +5 SP                             q95999  req0
      17.5 [  12.5]  Totemic Leather Boots (LW, 17)         Leather  +5 Str +4 Sta +5 SP                      craft/RoL  req17
      14.2 [  14.2]  Brawler's Leather Boots (LW, 17)       Leather  +5 Str +5 Agi +4 Sta                     craft/RoL  req17
       9.3 [   9.3]  Incinerator's Boots                    Cloth    +3 Sta +6 Int                            q95999  req0
       9.2 [   7.7]  Kimbra Boots                           Cloth    +4 Int +3 Spi                            q256  req0
-      6.4 [   4.9]  Loch Walkers                           Leather  +4 Agi +3 Spi                            q256  req0
-      5.0 [   2.5]  Miner's Workboots                      Leather  +5 Spi                                   q167  req0
-      4.5 [   1.5]  Boots of the People's Militia          Leather  +3 SP                                    q14  req0
+      8.8 [   5.8]  Nimbus Boots                           Cloth    +5 Agi +3 SP                             drop  req0
+      8.2 [   6.2]  Lancer Boots                           Leather  +5 Agi +6 Sta +4 Spi                     drop  req0
+      7.5 [   2.5]  Rotmender's Treads                     Cloth    +7 Sta +5 SP                             drop  req19
 
 Finger:
+     17.8 [  16.2]  Seal of Wrynn                                   +3 Str +3 Agi +4 Sta +4 Int +3 Spi       drop  req0
+     16.8 [  11.8]  Ladimore Heirloom Ring                          +6 Int +5 SP                             drop  req0
+     16.8 [  10.8]  Snake Hoop                                      +5 Int +6 SP                             drop  req0
+     15.0 [  12.5]  Tiger Band                                      +5 Str +5 Spi                            drop  req0
+     14.0 [  13.0]  Fury Ring                                       +6 Str +2 Spi                            drop  req0
+     13.1 [  13.1]  Ring of Ruin                                    +4 Str +6 Agi                            drop  req0
+     12.0 [   4.0]  Ring of Forlorn Spirits                         +2 Sta +8 SP                             drop  req0
      11.0 [  11.0]  Lavishly Jeweled Ring                           +2 Agi +6 Int                            drop  req17
-      9.1 [   5.1]  Minor Channeling Ring                           +2 Int +4 SP                             q256  req0
-      2.0 [   1.0]  Ring of Iron Will                               +4 Sta +2 Spi                            q126  req0

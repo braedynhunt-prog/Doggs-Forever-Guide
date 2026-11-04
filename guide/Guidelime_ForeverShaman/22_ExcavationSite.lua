@@ -66,7 +66,7 @@ At [TAR2911 Archaeologist Flagongut], [QT943] [G10.8,60.4 Wetlands]
 
 [OC][A Shaman] |cffffffffShaman: Norric, the Forgotten Shrine and the Water Totem|r  -  Call of Water finishes in Loch Modan and Westfall (94501 460 XP, 94502 1,400 XP, 94503 + 94505 2,935 XP at quest level, plus the 1,400 you took at Hervdana). Flights and a hearth, no walking in the Wetlands
 [A Shaman] At [TAR1571 Shellei Brondir], |cFFfff8a3Fly to [F Ironforge]|r [G9.5,59.7 Wetlands]
-[O][A Shaman] At [TAR258098 Eldrun Stormbreaker] in the Forlorn Cavern, [T] train your level 30 spells if you are 30 [G46.6,13.4 Ironforge]
+[O][A Shaman] At [TAR258098 Eldrun Stormbreaker] in the Forlorn Cavern, [T] train your level 30 spells if you are 30 [G47.1,13.8 Ironforge]
 [A Shaman] At [TAR1573 Gryth Thurden], |cFFfff8a3Fly to [F Thelsamar]|r [G55.5,47.7 Ironforge]
 [A Shaman] Run up the west road to the north end of the loch (about 4 minutes) and at [TAR258043 Norric Lochthane], [QT94501] [QA94502 Call of Water] (the reward is the Water Sapta, which lets you see elemental spirits) [G41.8,19.1 Loch Modan]
 [A Shaman] |cFFfff8a3Hearth to [H Sentinel Hill]|r

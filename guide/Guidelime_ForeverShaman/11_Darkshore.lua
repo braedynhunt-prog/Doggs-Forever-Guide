@@ -8,7 +8,7 @@ Guidelime.registerGuide([[
 [OC]|cffffffffStormwind|r
 [O][A Hunter] At [TAR5510 Thulman Flintcrag] buy ammo for the whole chapter (600 Heavy Shot for a gun; arrows if you carry a bow) [G61.9,36.6 Stormwind City]
 [O][A Shaman] Deeprun Tram to Ironforge to train level 22: Darnassus has no shaman trainer, and level 24 waits for the next Ironforge visit [G73.8,49.2 Stormwind City]
-[O][A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 22 spells [G46.2,13.2 Ironforge]
+[O][A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 22 spells [G47.1,13.8 Ironforge]
 [O][A Shaman] Tram back to Stormwind [G76.5,51.5 Ironforge]
 [O]At [TAR7232 Borgus Steelhand], [QA97894 Business in Auberdine] (XP not listed; a breadcrumb to Gorbold on the Auberdine dock that leads into Deep Ocean, Vast Sea) [G59.4,34.3 Stormwind City]
 [OC]Stock food and water, repair, empty the bags. The Auberdine boat leaves from the northern pier of the harbor (the sign names the destination)

@@ -194,7 +194,7 @@ At [TAR1960 Pilot Hammerfoot], [QT417] [G83.9,39.2 Dun Morogh]
 [OC]Run southwest back to the fork, then east through the tunnel to South Gate Outpost
 At [TAR1959 Mountaineer Barleybrew], [QT413] [QA414 Stout to Kadrell] [G86.3,48.8 Dun Morogh]
 [A Shaman] Take the trail that starts at 86.5,47.2 up to the cave above the outpost [G86.5,47.2 Dun Morogh]
-[A Shaman] In the cave at [TAR257597 Bruegs Kindleborn], [QT94449] [QA94465 Call of Fire] [G87.6,43.6 Dun Morogh]
+[A Shaman] In the cave at [TAR257597 Bruegs Kindleborn], [QT94449] [QA94465 Call of Fire] [G87.9,44.8 Dun Morogh]
 [OC]|cffffffffLevel 11|r
 [OC]Run south through the second tunnel of South Gate Pass into Loch Modan
 [OC]|cffffffffFinished: Dun Morogh|r  -  continue with 11-15 Loch Modan

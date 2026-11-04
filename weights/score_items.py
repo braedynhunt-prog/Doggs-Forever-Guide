@@ -1,8 +1,14 @@
 """Score the scraped Forever item tooltips with the Enhancement weights and compare with the guide's picks."""
-import json, re, sys, copy
+import json, re, sys, copy, os, glob
 from enh_weights import band_scenarios, weights, kills_per_hour
 
-TOOLTIPS = "item_tooltips.json"
+TOOLTIPS = "item_tooltips.json"   # 24 Sep 2026 scrape, superseded; kept because hunter_score.py imports the name
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+def default_tooltips():
+    """Newest weights/tooltips/<date>.json (highest-sorting name); item_tooltips.json only if that folder has none."""
+    found = sorted(glob.glob(os.path.join(HERE, "tooltips", "*.json")))
+    return found[-1] if found else os.path.join(HERE, TOOLTIPS)
 
 # 2 Nov 2026: "Relic" counts as a slot only when "Idol" follows it (druid idols: "RelicIdol" on the Forever tooltip);
 # totems and librams keep parsing with no slot, as before.
@@ -124,7 +130,24 @@ def fmt_stats(it):
     return " ".join(parts) or "no stats"
 
 def main():
-    data = json.load(open(TOOLTIPS))
+    path = default_tooltips()
+    if "--tooltips" in sys.argv:
+        i = sys.argv.index("--tooltips")
+        if i + 1 >= len(sys.argv):
+            sys.exit("--tooltips needs a file path")
+        path = sys.argv[i + 1]
+    data = json.load(open(path, encoding="utf-8"))
+    # 3 Nov 2026: the tooltips/<date>.json caches carry no "quest" field; take the quest links by item name from the
+    # 24 Sep scrape so the per-quest ranking survives (an entry in the newer cache keeps its own quest field if it has one).
+    merged = 0
+    old_path = os.path.join(HERE, TOOLTIPS)
+    if os.path.abspath(path) != os.path.abspath(old_path) and os.path.exists(old_path):
+        for n, rec in json.load(open(old_path, encoding="utf-8")).items():
+            if rec.get("quest") and n in data and not data[n].get("quest"):
+                data[n]["quest"] = rec["quest"]
+                merged += 1
+    shown = os.path.relpath(path, HERE).replace(os.sep, "/")
+    print(f"TOOLTIPS: {shown} ({len(data)} items; quest links for {merged} items taken from {TOOLTIPS})")
     items = [parse(n, r) for n, r in data.items()]
     for n, d in CRAFTED.items():
         it = dict(name=n, id=None, quest=None, str=0, agi=0, sta=0, int=0, spi=0, ap=0, sp=0, exp=0, wdps=0.0, slot=d["slot"], cls=d["cls"], req=d["req"], ilvl=0)

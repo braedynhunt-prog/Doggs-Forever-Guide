@@ -10,7 +10,7 @@ At [TAR523 Thor], |cFFfff8a3Fly to [F Stormwind]|r [G56.5,52.6 Westfall]
 [O][A Hunter] At [TAR5515 Einris Brightspear] in the Dwarven District, [T] train your level 22 spells [G67.3,36.3 Stormwind City]
 [O][A Hunter] Next door at [TAR5510 Thulman Flintcrag], buy 600 Heavy Shot for the long loops below [G62.0,36.6 Stormwind City]
 [O][A Shaman] There is no shaman trainer in Stormwind: if you are 22 and want the rank-ups now, take the tram to Ironforge (otherwise they wait for chapter 11) [G73.8,49.2 Stormwind City]
-[O][A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 22 spells [G46.2,13.2 Ironforge]
+[O][A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 22 spells [G47.1,13.8 Ironforge]
 [O][A Shaman] Tram back to Stormwind [G76.5,51.5 Ironforge]
 [OC]Take the road out of the gate to Goldshire, then on to the Tower of Azora and the Redridge border. Two quest stops on the way
 At [TAR514 Smith Argus] at the Goldshire blacksmith, [QT118] [QA119 Return to Verner] (the Crate of Horseshoes goes back to Verner in Lakeshire) [G41.7,65.5 Elwynn Forest]

@@ -45,10 +45,11 @@ At flightmaster [TAR1572 Thorgrum Borrelson], get the [P Thelsamar] flightpoint,
 [OC]Take the free ride: |cFFfff8a3Fly to [F Ironforge]|r
 [OC]You land at the gryphon roost; run north into the Great Forge
 At [TAR4256 Golnir Bouldertoe], [QT6391] [QA6388 Gryth Thurden] [G51.5,26.3 Ironforge]
-[A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train (level 12: Purge, Fire Nova Totem) - Ironforge and Kharanos are the ONLY shaman trainers on this route (Stormwind has none as of the beta atlas), so train every time you pass [G46.2,13.2 Ironforge]
+[A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train (level 12: Purge, Fire Nova) - Ironforge and Kharanos are the only shaman trainers on the 1-30 route (none in Stormwind, Darnassus or Menethil; the next one is in the Hinterlands), so train every time you pass [G47.1,13.8 Ironforge]
 [A Dwarf,Hunter] In the Military Ward at [TAR10090 Belia Thundergranite] (pet trainer), [QT6086 Training the Beast] - you now have Tame Beast, Call/Dismiss/Feed/Revive Pet and Beast Training. Feed the pet, then open Beast Training and teach it Growl and its family skill; keep Growl on autocast [G70.9,85.8 Ironforge]
 [A Hunter] Next to her at [TAR5116 Olmin Burningbeard] (hunter trainer), [T] train (level 12: Wing Clip, Mend Pet, Distracting Shot) - there are hunter trainers in Ironforge, Stormwind and at Farstrider Lodge, so you can train every time you pass one [G70.9,83.6 Ironforge]
 [O][A Hunter] Optional, 10 silver each: the weapon masters [TAR11865 Buliwyf Stonehand] (Two-Handed Axes) and [TAR13084 Bixi Wobblebonk] (Daggers) stand at the back of the Military Ward. Training both turns Mountaineer's Greataxe (14), Daggerfang's Daggerfang (16) and Piercing Axe (19) into stat sticks you can actually equip [G61.2,89.5 Ironforge]
+[A Shaman] At the back of the Military Ward, [TAR11865 Buliwyf Stonehand] (weapon master): train Two-Handed Axes (10 silver) - the client lists Two-Handed Maces as baseline for shamans and Two-Handed Axes as weapon-master taught (unverified in game); Mountaineer's Greataxe, Rockslicer, Reef Axe, Corpsemaker and Thermaplugg's Left Arm are all axes [G61.2,89.5 Ironforge]
 [O][A Hunter] At [TAR5123 Bretta Goldfury] (gun merchant, Military Ward) top up Heavy Shot before you fly back [G72.2,65.2 Ironforge]
 [A Dwarf] At [TAR1274 Senator Barin Redstone] inside the High Seat (Magni's throne room), [QT291] [G39.5,57.5 Ironforge]
 [OC]|cffffffffHall of Thanes pickups (dungeon at 15-16)|r
@@ -130,7 +131,7 @@ At [TAR49808 Grenhild Darktalon], [QA86667 Snowbound] - do not fill the jar yet,
 [A Shaman] Use [UI6636 Fire Sapta] at the shrine, then climb to the peak above it; the Minor Manifestation of Fire (level 12) waits for you to attack [G32,65 Loch Modan]
 [A Shaman] Kill [TAR5893 Minor Manifestation of Fire] and loot the Glowing Ember [G32,65 Loch Modan]
 [A Shaman] Place the ember in the Brazier of the Dormant Flame on the shrine and light the torch [QC94467], then [QT94467] [QA94468 Call of Fire] at the brazier [G31.9,64.5 Loch Modan]
-[A Shaman] Run southwest through South Gate Pass, take the trail up to [TAR257597 Bruegs Kindleborn], [QT94468] - you now have the |cff66ff66Fire Totem|r [G87.6,43.6 Dun Morogh]
+[A Shaman] Run southwest through South Gate Pass, take the trail up to [TAR257597 Bruegs Kindleborn], [QT94468] - you now have the |cff66ff66Fire Totem|r [G87.9,44.8 Dun Morogh]
 [OC]|cffffcc00Searing Totem|r is your best dps totem for the next 10 levels: train it at Ingrid (Kharanos) or Eldrun (Ironforge) next time you pass a shaman trainer.
 On the way back, use the Ceramic Jar on the snow at South Gate Outpost (the last snow before the tunnel into Loch Modan) - the 10 minute timer starts now [QC86667] [G86,49 Dun Morogh]
 Run straight through the pass and north along the west road to [TAR258043 Norric Lochthane] at the north end of the loch - about 6 minutes on foot, so no detours, [QT86667] [G41.8,19 Loch Modan]

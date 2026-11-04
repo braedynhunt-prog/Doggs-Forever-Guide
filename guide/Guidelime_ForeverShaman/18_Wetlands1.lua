@@ -17,7 +17,7 @@ At [TAR6579 Shoni the Shilent] in the Dwarven District, [QA2928 Gyrodrillmatic E
 [A Hunter] At [TAR352 Dungar Longdrink] on the gate ramp, |cFFfff8a3Fly to [F Menethil Harbor]|r (the game routes it through Ironforge; the hunter has no reason to stop there) [G71.0,72.5 Stormwind City]
 [OC][A Shaman] |cffffffffIronforge|r  -  the level-28 spells are the only reason for the tram
 [A Shaman] Take the Deeprun Tram in the Dwarven District to Ironforge [G73.8,49.2 Stormwind City]
-[A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 28 spells [G46.6,13.4 Ironforge]
+[A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 28 spells [G47.1,13.8 Ironforge]
 [OC][A Shaman] Klockmort's Essential Artificials (2924, 3,050 XP) has no prerequisite in the DB, but its items are Artificial Extrapolators inside Gnomeregan: leave it for Tinkertown in chapter 24, which picks it up with its Darnassus breadcrumb (2925)
 [A Shaman] At the flight master [TAR1573 Gryth Thurden], |cFFfff8a3Fly to [F Menethil Harbor]|r [G55.5,47.7 Ironforge]
 

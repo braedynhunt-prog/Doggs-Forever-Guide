@@ -32,9 +32,9 @@ tar  26_RazorfenKraul.lua:74  Willix the Importer (4508) has no spawn in The Bar
 gates  01b_DunMorogh.lua:15  Camping 101: Cooking needs Cooking 1 but the route has not learned Cooking yet
 gates  01b_DunMorogh.lua:16  Camping 101: Fishing needs Fishing 1 but the route has not learned Fishing yet [conditional step]
 gates  01b_DunMorogh.lua:16  Camping 101: First Aid needs First Aid 1 but the route has not learned First Aid yet [conditional step]
-gates  02_LochModan.lua:61  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 20 so far (last target: Fishing 20 at 01b_DunMorogh.lua:63) [conditional step] [gate value unverified on Forever]
-gates  03_HallOfThanes.lua:16  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 40 so far (last target: Fishing 40 at 02_LochModan.lua:75) [conditional step] [gate value unverified on Forever]
-gates  09_LochModanMenethil.lua:102  Recipe: Crocolisk Gumbo needs Cooking 120; the route has only asked for Cooking 110 so far (last target: Cooking 110 at 02_LochModan.lua:120) [conditional step]
+gates  02_LochModan.lua:62  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 20 so far (last target: Fishing 20 at 01b_DunMorogh.lua:63) [conditional step] [gate value unverified on Forever]
+gates  03_HallOfThanes.lua:16  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 40 so far (last target: Fishing 40 at 02_LochModan.lua:76) [conditional step] [gate value unverified on Forever]
+gates  09_LochModanMenethil.lua:102  Recipe: Crocolisk Gumbo needs Cooking 120; the route has only asked for Cooking 110 so far (last target: Cooking 110 at 02_LochModan.lua:121) [conditional step]
 xp  05_Westfall.lua:83  "2,890 XP" matches no quest on the line (136 Captain Sander's Hidden Treasure = 580)
 xp  12_Ashenvale.lua:65  "3,050 XP" matches no quest on the line (1034 The Ruins of Stardust = 1,850)
 xp  15_Stockade.lua:12  "2,000 XP" matches no quest on the line (343 Speaking of Fortitude = 195)

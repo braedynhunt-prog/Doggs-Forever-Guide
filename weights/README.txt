@@ -7,9 +7,10 @@ enh_weights.py                the kill-speed model (python3, no dependencies). R
                               weights for levels 10/15/20 under both shock policies.
 sensitivity.py                flexes every uncertain input (Spirit regen, expertise scaling, mob
                               level, Rockbiter growth, ...) and prints the weights for each case
-score_items.py                scores every item in item_tooltips.json (+ the LW sets) with the
-                              central and conservative weight sets, per quest and per slot
-item_tooltips.json            the ~200 Forever item tooltips scraped from Wowhead on 24 Sep
+score_items.py                scores every item in the newest tooltips/<date>.json (+ the LW sets) with the
+                              central and conservative weight sets, per quest and per slot;
+                              --tooltips <file> overrides
+item_tooltips.json            the ~200 Forever item tooltips scraped from Wowhead on 24 Sep (superseded; kept for history)
 scores_2026-09-24.txt         the last score_items.py output
 
 Recommended weights for the addon (levels 15-20, attack power = 1):
@@ -19,6 +20,7 @@ Recommended weights for the addon (levels 15-20, attack power = 1):
   (1 Nov 2026: the "mace +7 flat" term is gone - Dwarf Mace Specialization was removed from Forever on 17 Oct;
    score_items.py, sensitivity.py and tooling/dungeon_loot.py no longer add it. enh_weights.py gained 25 and 30
    bands for the 23-31 chapters; tooltips now live in tooltips/<date>.json, item_tooltips.json is the 24 Sep scrape.)
+  (3 Nov 2026, later: score_items.py now reads the newest tooltips/<date>.json and prints which; scores_2026-11-03.txt re-run from 2026-11-02.json, which corrects Rockslicer (+7 Str, was +10) and the Ironforge Greathammer (no stats, was +4 Str +7 Sta). The tooltips/<date>.json caches carry no quest field, so score_items.py takes the quest links by item name from item_tooltips.json and says how many in its first line.)
 
 Open until checked in game: Forever's Spirit regen formula (decides Spirit 0.5..1.6), expertise
 rating-to-% below 60 (decides expertise 1..5), Rockbiter AP growth inside a rank, Earth Shock's

@@ -7,7 +7,7 @@ Guidelime.registerGuide([[
 
 [OC]|cffffffffIronforge errands first|r
 In the Hall of Explorers at [TAR1356 Prospector Stormpike], [QT301] [QA302 Powder to Ironband] [G74.6,11.7 Ironforge]
-[A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train - make sure you have Searing Totem [G46.2,13.2 Ironforge]
+[A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train - make sure you have Searing Totem [G47.1,13.8 Ironforge]
 [A Hunter] In the Military Ward at [TAR5116 Olmin Burningbeard], [T] train (level 14: Eyes of the Beast, Eagle Eye, Scare Beast), then [TAR5123 Bretta Goldfury] (72.2,65.2): Dwarves top up Heavy Shot (400+ for the dungeon); Humans still on the bow buy a Small Shot Pouch and 600 Heavy Shot now - the reward at the end of this dungeon is a gun [G72.2,65.2 Ironforge]
 [OC][A Hunter] In the dungeon: pet on passive until the tank has the pack, then send it at the tank's target; you have no threat drop yet, so if you pull threat stop shooting for a moment. Feed the pet before you zone in.
 [OC]In the Commons, [R][V] and stock 20+ water [G34,60 Ironforge]
