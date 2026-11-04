@@ -45,7 +45,7 @@ Walk back west along y 36-41 and kill 12 [TAR1040 Fen Creeper] [QC275] [G53.2,36
 [OC]Fen Creepers (24-25) are |cffffcc00sparse|r: the DB has only 19 spawn points for the whole north of the zone. Loop 53.2,36.5 - 55.0,37.2 - 54.0,41.4, then 47.6,32.8 and 46.4,29.2, and kill every one you see
 [O]At [TAR1244 Rethiel the Greenwarden], [QT98283] [G56.4,40.4 Wetlands]
 [OC][A Hunter] |cffffcc00Gear (98283):|r take |cff66ff66Razormaw Shorts|r (leather legs +8 Agi +6 Sta)
-[OC][A Shaman] |cffffcc00Gear (98283):|r take |cff66ff66Carnage Trousers|r (leather legs +6 Sta +8 Int, Int feeds Mental Dexterity) unless the legs you wear carry more Agility and Intellect than that
+[OC][A Shaman] |cffffcc00Gear (98283):|r take |cff66ff66Carnage Trousers|r (leather legs +6 Sta +8 Int, Int feeds Mental Dexterity) unless you wear Totemic Leather Pants: they beat Duty Bound Leggings, Smith's Trousers and Deerhide Pants
 At [TAR1244 Rethiel the Greenwarden], [QT275] - |cffffcc00Gear:|r Fen Keeper Robe is cloth, Forest Chain is mail and Phytoblade needs Herbalism 100: vendor all three [G56.4,40.4 Wetlands]
 At [TAR270637 Howin Kindfeather], [QT98245] [QT98246] [G49.4,42.1 Wetlands]
 [O]|cFFFF0000GROUP 2+|r At [TAR270637 Howin Kindfeather], [QT98291] [QT98297] [G49.4,42.1 Wetlands]

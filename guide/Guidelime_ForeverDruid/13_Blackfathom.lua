@@ -50,7 +50,7 @@ Kill Twilight Lord Kelris and loot the Head of Kelris [QC1200]
 [OC]|cffffcc00After Aku'mai:|r click the stone behind him for Blessing of Blackfathom if you want it. Nothing hands in down here (Thaelrid was the only inside hand-in), and the Hearthstone works from inside the instance, so there is no walk out
 |cFFfff8a3Hearth to [H Sentinel Hill]|r
 [OC]|cffffffffHand-ins that wait|r  -  1275 Researching the Corruption: Gershala on the Auberdine dock, at chapter 20's Auberdine pass (the boat is not on your way home). 1200 and 1199: Selgorm and Manados in Darnassus, also chapter 20. Keep all of them in the log
-[OC]|cffffcc00Training:|r no trainer on this route. If you skipped your level-24 ranks (Rake, Tiger's Fury, Ferocious Bite) in Darnassus, they wait for Sheldras Moontree in the Stormwind Park (chapter 15) with Lacerate (25)
+[OC]|cffffcc00Training:|r no trainer on this route. If you skipped your level-24 ranks (Rake, Tiger's Fury, Ferocious Bite) in Darnassus, they wait for Sheldras Moontree in the Stormwind Park (chapter 15)
 [OC]|cffffcc00Check:|r log should hold Researching the Corruption (1275), Twilight Falls (1199) and Blackfathom Villainy (1200), all three completed and waiting for hand-ins, plus the carries from chapters 09-12 (1024, 4581, 1035, 1070 and 973 in the plan). Next: walk from Sentinel Hill into Duskwood
 [NX 25-26 Duskwood: Darkshire]
 ]], "Forever Druid 1-30")

@@ -25,7 +25,7 @@ At [TAR1748 Highlord Bolvar Fordragon] in the Keep, [QT98190] [QA98191 A Friend 
 [O]Tram back to Stormwind [G76.5,51.5 Ironforge]
 At [TAR928 Lord Grayson Shadowbreaker] in the Cathedral, [QT98191] (his follow-up, The Shamed Lieutenant 98219, is taken on the chapter-18 Stormwind pass) [G48.4,50.2 Stormwind City]
 [OC][A Druid] |cffffcc00Gear (98191):|r nothing to wield - the Knight's Lance is a polearm (no druid skill) and the Royal Dagger (8.5 dps, caster stats) is far below your two-hander: take the dagger and vendor it
-In the Park at [TAR5504 Sheldras Moontree], [T] train level 26: Dash and Abolish Poison, plus Lacerate (25) and, if you skipped them in Darnassus, Rake, Tiger's Fury and Ferocious Bite (24) [G35.8,67.4 Stormwind City]
+In the Park at [TAR5504 Sheldras Moontree], [T] train level 26: Dash and Abolish Poison and, if you skipped them in Darnassus, Rake, Tiger's Fury and Ferocious Bite (24) [G35.8,67.4 Stormwind City]
 At [TAR1719 Warden Thelwater] at the Stockade gate, [QA391 The Stockade Riots] [QA387 Quell The Uprising] (the instance door is right beside him) [G51.5,69.4 Stormwind City]
 
 [OC]|cffffffffThe Stockade|r  -  |cFFFF0000GROUP 5|r, dungeon range 24-32 (Icy Veins, Method), mobs 23-29 in the DB, ~25-30 min (Method says 15-25 for a geared group). Bosses, all elite: Targorr the Dread 24, Dextren Ward 26, Kam Deepfury 27, Hamhock 28, Bazil Thredd 29, plus the rare Bruegal Ironknuckle 26. Bring a tank and a healer; you are cat damage. Everything is picked up outside and nothing hands in inside; the door is in the city, so a food or repair run mid-dungeon is a one-minute walk

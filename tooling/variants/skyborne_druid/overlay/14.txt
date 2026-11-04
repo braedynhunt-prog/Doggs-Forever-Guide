@@ -27,4 +27,4 @@ At [TAR265 Madame Eva], [QT101] (Totem of Infliction: an off-hand charm with no 
 
 # source line 79: the druid trainer and ranks.
 @replace T no trainer in Darkshire; your level-26
-[OC]|cffffcc00Training:|r no trainer in Darkshire; Lacerate (25), Dash and Abolish Poison (26) wait for Sheldras Moontree in the Stormwind Park (chapter 15)
+[OC]|cffffcc00Training:|r no trainer in Darkshire; Dash and Abolish Poison (26) wait for Sheldras Moontree in the Stormwind Park (chapter 15). Lacerate is a Feral talent on Forever (Blizzard's 3 Nov notes), not a trainer rank

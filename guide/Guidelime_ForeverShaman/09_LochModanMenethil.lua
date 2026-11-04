@@ -33,7 +33,7 @@ At [TAR1093 Chief Engineer Hinderweir VII], [QT199] [G46.0,13.6 Loch Modan]
 [OC]|cffffffffThe ogre mound|r  -  |cFFFF0000GROUP|r optional, ~3,550 XP; the mound is a short walk east of the dam
 [O]|cFFFF0000GROUP 2+|r Mo'grosh ogre mound in the north-east: 4 [TAR1178 Mo'grosh Ogre], 4 [TAR1180 Mo'grosh Brute] and 4 [TAR1179 Mo'grosh Enforcer] (ELITE, level 18-20: pull one at a time, the shamans heal) [QC255] [G72.5,23.5 Loch Modan]
 [O]|cFFFF0000GROUP 3+|r [TAR1210 Chok'sul] stands in the far north-east corner of the mound (level 22 ELITE, 1,686 HP): kill him for his head [QC256] [G79.6,14.7 Loch Modan]
-[O]Back in Thelsamar at [TAR1139 Magistrate Bluntnose], [QT255] [QT256] - |cffffcc00Gear (256):|r take the |cff66ff66Loch Walkers|r (leather boots +4 Agi +3 Spi) unless your boots are better; the free Minor Channeling Ring (+2 Int, +5 spell damage) is a small shaman upgrade, a hunter takes it only for an empty ring slot. Durable Chain Shoulders are mail, Kimbra Boots cloth: pass [G34.6,44.5 Loch Modan]
+[O]Back in Thelsamar at [TAR1139 Magistrate Bluntnose], [QT255] [QT256] - |cffffcc00Gear (256):|r shaman - take the |cff66ff66Kimbra Boots|r (cloth +4 Int +3 Spi, Int feeds Mental Dexterity) unless your boots are better, they beat the Loch Walkers (leather +4 Agi +3 Spi); hunter - take the Loch Walkers. The free Minor Channeling Ring (+2 Int, +5 spell damage) is a small shaman upgrade, a hunter takes it only for an empty ring slot. Durable Chain Shoulders are mail: pass [G34.6,44.5 Loch Modan]
 [O]At [TAR167 Morhan Coppertongue] next door, [QT86776] if you have the 10 Bronze Bars [G34.0,46.5 Loch Modan]
 
 [OC]|cffffffffNorth exit|r

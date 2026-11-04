@@ -122,7 +122,7 @@ At [TAR270269 Arbal], [QT98013] [G43.7,76.5 Darkshore]
 Loot the Horn of Awakening from Kerlonian's Chest at his feet [G44.4,76.3 Darkshore]
 [OC]Kerlonian follows you along the road to Maestra's Post and lies down to nap now and then: use the Horn to wake him (it expires after 25 minutes - restart with a fresh one from the chest if it runs out). Scripted ambushes come in the Twilight Vale (a Blackwood shaman and two ursa) and again in Ashenvale (three Dark Strand cultists) - Classic-era notes, unverified on Forever
 At [TAR11219 Liladris Moonriver] at Maestra's Post, where the escort ends, [QT5321] [G27.3,35.6 Ashenvale]
-[OC]|cffffcc00Gear (5321):|r shaman - Deerhide Pants (leather legs +5 Str +3 Sta), better than Wildkeeper Leggings and about equal to Duty Bound Leggings; hunter - Owlsight Rifle (gun 7.9 dps +2 Agi) only if your ranged weapon is worse, otherwise pass
+[OC]|cffffcc00Gear (5321):|r shaman - Deerhide Pants (leather legs +5 Str +3 Sta), better than Wildkeeper Leggings but a little below Duty Bound Leggings (keep those if you wear them); hunter - Owlsight Rifle (gun 7.9 dps +2 Agi) only if your ranged weapon is worse, otherwise pass
 At [TAR3663 Delgren the Purifier] at Maestra's Post, [QT967] [QA970 The Tower of Althalaxx] [G26.2,38.7 Ashenvale]
 Kill [TAR3725 Dark Strand Cultist] (any Dark Strand mob drops it) for a Glowing Soul Gem (|cff66ff66normal|r) [QC970] [G31.1,30.6 Ashenvale]
 At [TAR3663 Delgren the Purifier], [QT970] [QA973 The Tower of Althalaxx] (Ilkrud Magthrull's Tome - the Ashenvale chapter finishes it on its south loop) [G26.2,38.7 Ashenvale]

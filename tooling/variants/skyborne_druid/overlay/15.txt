@@ -1,6 +1,6 @@
 # Chapter 15 (The Stockade 26-27), druid overlay. Block B, rewritten from the warrior overlay 2 Nov 2026.
 # Class thread here: the Stormwind Park druid trainer (Sheldras Moontree 5504 @35.84,67.38, qdb npc row [6]) trains 26 (Dash,
-# Abolish Poison), 25 (Lacerate 1328617, client 70753) and 24 if skipped in chapter 11 (Rake, Tiger's Fury, Ferocious Bite 1328618).
+# Abolish Poison) and 24 if skipped in chapter 11 (Rake, Tiger's Fury, Ferocious Bite 1328618).
 # Exploring the Alliance (93963) was handed in in chapter 05; the warrior Fire Hardened chain and Bartleby's Mug are not in the druid guide.
 # Dropped without replacement: the hunter ammo lines, the hunter trainer (Einris), the shaman trainer and Knowledge in the Deeps (971).
 # The druid is cat damage in the Stockade (Cat Form from chapter 08); feral tactics are Classic reasoning, unverified on Forever.
@@ -31,7 +31,7 @@ At [TAR928 Lord Grayson Shadowbreaker] in the Cathedral, [QT98191] (his follow-u
 
 # Druid trainer stop between the Cathedral and the Stockade gate (the Park is a short walk west of both).
 @before QA391
-In the Park at [TAR5504 Sheldras Moontree], [T] train level 26: Dash and Abolish Poison, plus Lacerate (25) and, if you skipped them in Darnassus, Rake, Tiger's Fury and Ferocious Bite (24) [G35.8,67.4 Stormwind City]
+In the Park at [TAR5504 Sheldras Moontree], [T] train level 26: Dash and Abolish Poison and, if you skipped them in Darnassus, Rake, Tiger's Fury and Ferocious Bite (24) [G35.8,67.4 Stormwind City]
 
 # Cat brief at the door (the source run header still says "bring the tank friend"; it has no anchor).
 @after G52.4,70.0

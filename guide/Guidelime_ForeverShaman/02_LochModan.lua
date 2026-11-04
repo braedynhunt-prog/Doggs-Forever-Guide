@@ -121,7 +121,7 @@ At the bar at [TAR1963 Vidra Hearthstove], [QT418] - learn the Recipe: Blood Sau
 At [TAR1340 Mountaineer Kadrell], [QT416] [G34.2,47.8 Loch Modan]
 [OC]|cffffcc00Gear:|r take Burnt Hide Bracers (leather wrist) - Cavalier's Boots are worse than Frosthowl's
 [O]At [TAR1684 Khara Deepwater], [QT86614 Silver of the Waves] if you found the clip [G40.3,39.3 Loch Modan]
-[OC]|cffffcc00Gear:|r Repurposed Hair Band is cloth caster wrist - vendor it, keep Burnt Hide Bracers
+[OC]|cffffcc00Gear:|r wear the Repurposed Hair Band (cloth wrist +2 Int +2 Spi, Int feeds Mental Dexterity) - it beats the statless Burnt Hide Bracers
 At [TAR49808 Grenhild Darktalon], [QA86667 Snowbound] - do not fill the jar yet, it has a 10 minute timer once filled [G36.4,48.2 Loch Modan]
 [OC]At [TAR1682 Yanni Stoutheart], [V] [G35.6,48.4 Loch Modan]
 

@@ -96,7 +96,7 @@ The Blackfathom Deeps run from the Zoram Strand as cat damage behind a tank: Res
 
 # source line 63: the druid trainer and ranks.
 @replace T no trainer on this route. If
-[OC]|cffffcc00Training:|r no trainer on this route. If you skipped your level-24 ranks (Rake, Tiger's Fury, Ferocious Bite) in Darnassus, they wait for Sheldras Moontree in the Stormwind Park (chapter 15) with Lacerate (25)
+[OC]|cffffcc00Training:|r no trainer on this route. If you skipped your level-24 ranks (Rake, Tiger's Fury, Ferocious Bite) in Darnassus, they wait for Sheldras Moontree in the Stormwind Park (chapter 15)
 
 # source line 64: the shaman 971 carry goes.
 @replace T log should hold Researching the Corruption
