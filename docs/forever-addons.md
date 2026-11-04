@@ -53,10 +53,10 @@ Struck 2 Nov 2026 after reading the installed .toc/Lua files and the project pag
 
 ## Pawn scale for 2H Enhancement (from `forever-enh-stat-weights.md`, recommended 15-20 set)
 
-Weights: weapon DPS 14, Str 2, AP 1, Int 1.05, Agi 0.85 (0.6 at 15), Spirit 1.0, Sta 0.25 floor, spell damage 1.5, expertise 3, +1% hit or crit 6. Pawn stat names below are from Pawn's Classic build and the hit/crit/expertise names are unverified against the Forever item parser. The weapon DPS weight assumes Rockbiter; redo at 30 when Windfury makes speed matter.
+Weights: weapon DPS 14, Str 2, AP 1, Int 1.55 (3 Nov: Mental Dexterity 150% of Int), Agi 0.85 (0.6 at 15), Spirit 1.0, Sta 0.25 floor, spell damage 1.5, expertise 7 per 1%, +1% hit or crit 6. Stat names verified 4 Nov 2026 against Pawn 2.14.1 (TooltipParsing.lua, Localization.lua) and live Forever tooltips: hit is "Improves your chance to hit by 0.4%" -> HitRating in percent; crit "Improves your chance to get a critical strike by 1.0%" -> CritRating in percent; expertise has its own Forever regex, "Reduces chance to be Dodged or Parried by 0.6%" -> ExpertiseRating in percent (so the weight is per 1%, not per rating point: the model priced 6 points = 2.6% at 18, about 7 per 1%); spell damage lines -> SpellDamage. Pawn merges melee and spell hit/crit weights on Forever, and the import starts from an empty scale (no template weights, 2H upgrades not hidden). Whether the expertise percent shown changes with level is still an in-game check. The weapon DPS weight assumes Rockbiter; redo at 30 when Windfury makes speed matter. Pawn keeps scales in the account SavedVariables, so paste this in Pawn > Scale > Import after the first login.
 
 ```
-( Pawn: v1: "Forever 2H Enh 15-20": Class=Shaman, Spec=Enhancement, Dps=14, Strength=2, Ap=1, Intellect=1.05, Agility=0.85, Spirit=1, Stamina=0.25, SpellDamage=1.5, ExpertiseRating=3, HitRating=6, CritRating=6 )
+( Pawn: v1: "Forever 2H Enh 15-20": Class=Shaman, Spec=Enhancement, Dps=14, Strength=2, Ap=1, Intellect=1.55, Agility=0.85, Spirit=1, Stamina=0.25, SpellDamage=1.5, ExpertiseRating=7, HitRating=6, CritRating=6 )
 ```
 
 ## Sources (checked 1 Nov 2026)
