@@ -6,7 +6,7 @@ profile: prot; generated gear: tooling\variants\skyborne_warrior\generated_gear.
 
 == Warnings: 0 ==
 
-== Dropped lines (tagged only for other classes/races): 271 ==
+== Dropped lines (tagged only for other classes/races): 272 ==
   02_LochModan.lua:14  [A Shaman] Run northeast; the cliff trail to the Shrine of the Dormant Flame starts at 31.4,58.2 - follow the eyebrow ledge past the stone totems [G31
   02_LochModan.lua:15  [A Shaman] At the shrine at [TAR257808 Braldir Ashmantle], [QT94465] [QA94466 Call of Fire] [G32,66 Loch Modan]
   02_LochModan.lua:28  [A Shaman] Loot the Reagent Pouch from a [TAR1166 Stonesplinter Seer] while you are at it [QC94466,2] [G36.7,78 Loch Modan]
@@ -171,7 +171,7 @@ profile: prot; generated gear: tooling\variants\skyborne_warrior\generated_gear.
   18_Wetlands1.lua:16  [O][A Hunter] At [TAR1297 Lina Stover] on the canal, buy 400+ ammo for the Wetlands (Razor Arrow or Solid Shot, the level-25 ammo) [G58.7,68.7 Stormwi
   18_Wetlands1.lua:18  [OC][A Shaman] Ironforge  -  the level-28 spells are the only reason for the tram
   18_Wetlands1.lua:19  [A Shaman] Take the Deeprun Tram in the Dwarven District to Ironforge [G73.8,49.2 Stormwind City]
-  18_Wetlands1.lua:20  [A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 28 spells [G47.1,13.8 Ironforge]
+  18_Wetlands1.lua:20  [A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 28 spells (Flametongue Totem: a 5-minute fire totem; it and 
   18_Wetlands1.lua:21  [OC][A Shaman] Klockmort's Essential Artificials (2924, 3,050 XP) has no prerequisite in the DB, but its items are Artificial Extrapolators inside Gno
   18_Wetlands1.lua:22  [A Shaman] At the flight master [TAR1573 Gryth Thurden], Fly to [F Menethil Harbor] [G55.5,47.7 Ironforge]
   18_Wetlands1.lua:66  [OC][A Shaman] Gear (296): take Raptorbane Armor (leather chest, 92 armor, +3 Sta, +16 Attack Power, +15 more against beasts - AP feeds Enhancement) u
@@ -227,19 +227,20 @@ profile: prot; generated gear: tooling\variants\skyborne_warrior\generated_gear.
   23_Hillsbrad.lua:59  [O][A Shaman] At [TAR2711 Phin Odelic], [QA659 Hints of a New Plague?] (1,300 XP, requires level 30: Quae at Go'Shek Farm in the Arathi Highlands (60.
   24_Gnomeregan.lua:11  [A Hunter] At [TAR5123 Bretta Goldfury] in the Military Ward, top up your ammo for the run [G72.2,65.2 Ironforge]
   24_Gnomeregan.lua:20  [A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 30 spells (skip if chapter 22's stop already did; you are ba
-  24_Gnomeregan.lua:21  [OC][A Shaman] Gear (Prehistoric Prism, if you have it): take Heavehammer (2H mace 27.7 dps, +32 attack power, +60 armor): several dps over any 2H you
-  24_Gnomeregan.lua:22  [OC][A Hunter] Gear (Prehistoric Prism, if you have it): take Explorer's League Dustcover (cloak +5 Agi +5 Int +5 Spi). Heavehammer is a mace (hunters
-  24_Gnomeregan.lua:56  [OC][A Hunter] In a group: pet on passive, Growl OFF, send it only at the tank's target
-  24_Gnomeregan.lua:71  [OC][A Shaman] Loot (Crowd Pummeler): Manual Crowd Pummeler (2H mace 29.0 dps +16 Str +5 Agi, req 29, unique, Use: +50% attack speed for 30 seconds, 3
-  24_Gnomeregan.lua:72  [OC][A Hunter] Loot (Crowd Pummeler): Thermaplugg Medal of Honor (neck +10 attack power +6 Sta +6 Spi, req 29). The Manual Crowd Pummeler is a mace (h
-  24_Gnomeregan.lua:74  [OC][A Shaman] Loot (Ambassador): Emissary Cuffs (leather bracers, random suffix, req 30) only for a suffix that suits you; Glass Shooter is a gun and
-  24_Gnomeregan.lua:75  [OC][A Hunter] Loot (Ambassador): Glass Shooter (gun 17.9 dps, +12 attack power, req 30) if it beats your gun. Emissary Cuffs only for a Strength, Agi
-  24_Gnomeregan.lua:78  [OC][A Shaman] Loot (Thermaplugg): Thermaplugg's Left Arm (2H axe 31.3 dps +17 Str +5 Sta +4 Int, req 31) beats the Crowd Pummeler by about 2 dps but 
-  24_Gnomeregan.lua:79  [OC][A Hunter] Loot (Thermaplugg): nothing for you (Strength axe, shield, cloth helm, resist ring): pass; the schematics sell
-  24_Gnomeregan.lua:81  [OC][A Shaman] Trash loot: Supercharger Battle Axe (2H axe 23.0 dps, Nature proc, req 23) only while you carry nothing better
-  24_Gnomeregan.lua:82  [OC][A Hunter] Trash loot: Gizmotron Megachopper (2H sword 23.9 dps +14 Str +5 Agi) is a melee stick at best; Hi-Tech Supergun (14.4 dps) only for a p
-  24_Gnomeregan.lua:92  [OC][A Shaman] Gear (Data Rescue): Heavehammer or the Pummeler beat the Mechanic's Pipehammer (2H mace 21.6 dps +12 Int), so take Repairman's Cape (+3
-  24_Gnomeregan.lua:93  [OC][A Hunter] Gear (Data Rescue): Repairman's Cape (+3 Int +5 Spi) only if your cloak has no stats and you did not take the Dustcover; the Pipehammer
+  24_Gnomeregan.lua:21  [O][A Shaman] On the way out, at [TAR5151 Ginny Longberry] (reagent vendor): buy 2 Ankh - Reincarnation (30) uses one per self-resurrection (1-hour co
+  24_Gnomeregan.lua:22  [OC][A Shaman] Gear (Prehistoric Prism, if you have it): take Heavehammer (2H mace 27.7 dps, +32 attack power, +60 armor): several dps over any 2H you
+  24_Gnomeregan.lua:23  [OC][A Hunter] Gear (Prehistoric Prism, if you have it): take Explorer's League Dustcover (cloak +5 Agi +5 Int +5 Spi). Heavehammer is a mace (hunters
+  24_Gnomeregan.lua:57  [OC][A Hunter] In a group: pet on passive, Growl OFF, send it only at the tank's target
+  24_Gnomeregan.lua:72  [OC][A Shaman] Loot (Crowd Pummeler): Manual Crowd Pummeler (2H mace 29.0 dps +16 Str +5 Agi, req 29, unique, Use: +50% attack speed for 30 seconds, 3
+  24_Gnomeregan.lua:73  [OC][A Hunter] Loot (Crowd Pummeler): Thermaplugg Medal of Honor (neck +10 attack power +6 Sta +6 Spi, req 29). The Manual Crowd Pummeler is a mace (h
+  24_Gnomeregan.lua:75  [OC][A Shaman] Loot (Ambassador): Emissary Cuffs (leather bracers, random suffix, req 30) only for a suffix that suits you; Glass Shooter is a gun and
+  24_Gnomeregan.lua:76  [OC][A Hunter] Loot (Ambassador): Glass Shooter (gun 17.9 dps, +12 attack power, req 30) if it beats your gun. Emissary Cuffs only for a Strength, Agi
+  24_Gnomeregan.lua:79  [OC][A Shaman] Loot (Thermaplugg): Thermaplugg's Left Arm (2H axe 31.3 dps +17 Str +5 Sta +4 Int, req 31) beats the Crowd Pummeler by about 2 dps but 
+  24_Gnomeregan.lua:80  [OC][A Hunter] Loot (Thermaplugg): nothing for you (Strength axe, shield, cloth helm, resist ring): pass; the schematics sell
+  24_Gnomeregan.lua:82  [OC][A Shaman] Trash loot: Supercharger Battle Axe (2H axe 23.0 dps, Nature proc, req 23) only while you carry nothing better
+  24_Gnomeregan.lua:83  [OC][A Hunter] Trash loot: Gizmotron Megachopper (2H sword 23.9 dps +14 Str +5 Agi) is a melee stick at best; Hi-Tech Supergun (14.4 dps) only for a p
+  24_Gnomeregan.lua:93  [OC][A Shaman] Gear (Data Rescue): Heavehammer or the Pummeler beat the Mechanic's Pipehammer (2H mace 21.6 dps +12 Int), so take Repairman's Cape (+3
+  24_Gnomeregan.lua:94  [OC][A Hunter] Gear (Data Rescue): Repairman's Cape (+3 Int +5 Spi) only if your cloak has no stats and you did not take the Dustcover; the Pipehammer
   25_LooseEnds30.lua:7  [A Shaman] At [TAR258098 Eldrun Stormbreaker] in the Forlorn Cavern, [QA94789 Call of Air] (2,450 XP and the Air Totem; Veyric Thunderhame waits in Ar
   25_LooseEnds30.lua:14  [OC][A Shaman] Gear (2928): take Operator's Gloves (leather +6 Str +4 Sta +4 Spi). Shilly Mitts (cloth +6 Spi, +5 spell damage) are worse for a two-ha
   25_LooseEnds30.lua:15  [OC][A Hunter] Gear (2928): Operator's Gloves (leather +6 Str +4 Sta +4 Spi) only if your gloves have no stats; Shilly Mitts are cloth and the Disarmi
@@ -319,8 +320,8 @@ profile: prot; generated gear: tooling\variants\skyborne_warrior\generated_gear.
   20_Darnassus.lua:19  [OC]Gear (1199): Heartwood Girdle (leather belt +5 Sta, +6 spell damage) is worth wearing only if your belt is bare - Moss Cinch from Aku'mai beats it
   20_Darnassus.lua:25  [OC]Gear (741): shaman - keep the Zodiac Gloves from Duskwood (or Gold-flecked / Naga Battle Gloves); without them take Windfelt Gloves (leather +3 In
   21_AshenvaleEast.lua:58  [OC]Gear (98027): both of you wear the Replica Crescent Necklace (neck +3 Agi +3 Spi) unless your neck has more Agility
-  24_Gnomeregan.lua:61  [OC]Loot (Grubbis, both): Skullduggery Belt (leather belt +16 attack power +7 Spi, req 29) is a belt upgrade for you both, roll. Tundra Necklace has a
-  24_Gnomeregan.lua:94  [OC]Gear (The Grand Betrayal): take Triprunner Dungarees (leather legs +3 Str +18 Agi +6 Sta), the legs for both of you; Civinad Robes are cloth, Dual
+  24_Gnomeregan.lua:62  [OC]Loot (Grubbis, both): Skullduggery Belt (leather belt +16 attack power +7 Spi, req 29) is a belt upgrade for you both, roll. Tundra Necklace has a
+  24_Gnomeregan.lua:95  [OC]Gear (The Grand Betrayal): take Triprunner Dungarees (leather legs +3 Str +18 Agi +6 Sta), the legs for both of you; Civinad Robes are cloth, Dual
   25_LooseEnds30.lua:46  [OC]Gear (231): both fixed rewards are yours. Ladimore Heirloom Ring (+6 Int, +5 spell damage): wear it if your ring slot is empty or weaker (Int feed
   25_LooseEnds30.lua:53  [OC]Gear (95795): Daewyn's Girdle (cloth waist, +6 Spi, +7 spell damage) is the only one either of you can wear and only if your belt is plainer; Song
   26_RazorfenKraul.lua:44  [OC]Loot (Aggem, both): Thorncursed Grips (leather gloves +18 attack power, req 27; each melee hit also deals 2 Nature damage to you and the target, h
@@ -576,22 +577,22 @@ profile: prot; generated gear: tooling\variants\skyborne_warrior\generated_gear.
   24: tooling\variants\skyborne_warrior\overlay\24.txt:9 @replace T |cffffcc00Supplies:|r the gnome station just inside the door -> source line 8
   24: tooling\variants\skyborne_warrior\overlay\24.txt:11 @replace T |cffffffffIronforge round|r  -  about 15 minutes on foot -> source line 10
   24: tooling\variants\skyborne_warrior\overlay\24.txt:15 @replace TAR5116 -> source line 12
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:18 @replace T |cffffffffThe run|r  -  Classic-era layout (Icy Veins -> source line 55
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:22 @gear-dungeon QA2952 => Grubbis -> source line 59
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:23 @gear-dungeon QA2952 => Viscous Fallout -> source line 59
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:25 @replace T |cffffcc00Viscous Fallout|r (level 30 elite elemental) -> source line 62
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:27 @replace T |cffffcc00Electrocutioner 6000|r (level 32 elite mechanical) -> source line 67
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:29 @replace T |cffffcc00Crowd Pummeler 9-60|r (level 32 elite mechanical) -> source line 69
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:33 @gear-dungeon QC2930 => Electrocutioner 6000 -> source line 70
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:34 @gear-dungeon QC2930 => Crowd Pummeler 9-60 -> source line 70
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:35 @gear-dungeon QC2930 => Dark Iron Ambassador -> source line 70
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:37 @replace T |cffffcc00Dark Iron Ambassador|r (level 33 rare elite -> source line 73
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:39 @replace T |cffffcc00Mekgineer Thermaplugg|r (level 34 elite mechanical -> source line 76
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:43 @gear-dungeon QC2929 => Mekgineer Thermaplugg -> source line 77
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:45 @replace T |cffffcc00Trash loot (both):|r |cff66ff66Petrolspill Leggings|r -> source line 80
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:50 @after QT2930 -> source line 98
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:54 @replace QT2929 -> source line 99
-  24: tooling\variants\skyborne_warrior\overlay\24.txt:58 @replace QT2948 -> source line 101
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:18 @replace T |cffffffffThe run|r  -  Classic-era layout (Icy Veins -> source line 56
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:22 @gear-dungeon QA2952 => Grubbis -> source line 60
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:23 @gear-dungeon QA2952 => Viscous Fallout -> source line 60
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:25 @replace T |cffffcc00Viscous Fallout|r (level 30 elite elemental) -> source line 63
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:27 @replace T |cffffcc00Electrocutioner 6000|r (level 32 elite mechanical) -> source line 68
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:29 @replace T |cffffcc00Crowd Pummeler 9-60|r (level 32 elite mechanical) -> source line 70
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:33 @gear-dungeon QC2930 => Electrocutioner 6000 -> source line 71
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:34 @gear-dungeon QC2930 => Crowd Pummeler 9-60 -> source line 71
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:35 @gear-dungeon QC2930 => Dark Iron Ambassador -> source line 71
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:37 @replace T |cffffcc00Dark Iron Ambassador|r (level 33 rare elite -> source line 74
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:39 @replace T |cffffcc00Mekgineer Thermaplugg|r (level 34 elite mechanical -> source line 77
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:43 @gear-dungeon QC2929 => Mekgineer Thermaplugg -> source line 78
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:45 @replace T |cffffcc00Trash loot (both):|r |cff66ff66Petrolspill Leggings|r -> source line 81
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:50 @after QT2930 -> source line 99
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:54 @replace QT2929 -> source line 100
+  24: tooling\variants\skyborne_warrior\overlay\24.txt:58 @replace QT2948 -> source line 102
   25: tooling\variants\skyborne_warrior\overlay\25.txt:8 @header 
   25: tooling\variants\skyborne_warrior\overlay\25.txt:11 @replace T |cffffffffLevel 30|r  -  you are in Ironforge with Gnomeregan done -> source line 5
   25: tooling\variants\skyborne_warrior\overlay\25.txt:13 @replace T |cffffffffDuskwood|r  -  Darkshire, the Defias camp -> source line 23
@@ -705,7 +706,7 @@ profile: prot; generated gear: tooling\variants\skyborne_warrior\generated_gear.
   22 QT98310 Gleaning Our Future after source line None
   22 QT943 The Absent Minded Prospector after source line 65
   23 QT505 Syndicate Assassins after source line None
-  24 QT98824 Prehistoric Prism after source line 23
+  24 QT98824 Prehistoric Prism after source line 24
   24 QT2929 The Grand Betrayal after source line None
   25 QT2928 Gyrodrillmatic Excavationators after source line 13
   25 QT55 Morbent Fel after source line 33
