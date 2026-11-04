@@ -17,6 +17,13 @@ Forever client tables (DB2 -> CSV) from wago.tools, pinned per build. Fetched wi
 
 Plan and sources: docs\forever-db-plan-2026-10-29.md. Nothing reads these yet (fetch_client.py / simulate_xp.py are planned, not built).
 
+2 Nov 2026 - six more tables pulled into 1.60.1.70707/ for the shaman levelling sheet (docs/forever-shaman-leveling-sheet.pdf + .html):
+  SpellName.csv, SpellLevels.csv, SkillLine.csv, SkillRaceClassInfo.csv, Talent.csv, TalentTab.csv
+  Talent.csv/TalentTab.csv are the OLD Classic trees (Two-Handed Axes and Maces, Weapon Mastery...), not Forever's: the Forever
+  talents are server-side (SpellName.csv does carry their spells: Mental Dexterity 415140, Shamanistic Focus 1223030, Earth Fury 1259719).
+  wowforevertalents.com reads the live tree + hotfix cache and is the source the sheet used. SkillRaceClassInfo/SkillLineAbility say
+  shaman Two-Handed Maces is baseline (acq 1) and Two-Handed Axes trainer-taught (Buliwyf Stonehand, Ironforge) - unverified in game.
+
 2 Nov 2026 - TaxiPath.csv pulled into 1.60.1.70707/ for the druid guide (flight connections: FromTaxiNode, ToTaxiNode, Cost; join
   on TaxiNodes.csv ID). Moonglade: node 62 "Nighthaven, Moonglade" -> 27 Rut'theran Village at cost 0 (the druid-only flight, Silva
   Fil'naveth); node 49 "Moonglade" <-> 26 Auberdine (830c), 52 Everlook, 65 Talonbranch Glade (the general flight master, Sindrayl).
@@ -30,3 +37,9 @@ Plan and sources: docs\forever-db-plan-2026-10-29.md. Nothing reads these yet (f
                407995 25 -> 40, 1238069/70 50/60; new Echo of Light/Wisdom, Turn Evil, Holy Shield rows); SpellName 72 lines (new
                paladin/priest/druid spell names, Camping 1327906). Wowhead XP re-pulled for all 25 route zones after this build:
                no XP, level or reward change in any zone.
+
+3 Nov 2026 - build 1.60.1.70755 pulled into 1.60.1.70755/ (wago.tools build of 3 Nov 2026 18:16 UTC)
+Tables: QuestXP SkillLineAbility QuestInfo TaxiNodes Item TaxiPath SkillLine SkillRaceClassInfo SpellLevels SpellName Talent TalentTab.
+Diffed against 1.60.1.70753 by ID: 0 added, 0 removed, 0 changed rows in all 12 tables; row counts identical
+(e.g. SpellName 32070, SkillLineAbility 7858, Item 31985), and all 12 files are byte-identical.
+Looks like a technical build with identical game data for these tables.
