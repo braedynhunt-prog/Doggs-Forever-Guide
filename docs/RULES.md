@@ -35,6 +35,7 @@ These are Braedyn's rules for the guide, collected 27 Oct 2026 from the README, 
 - **Verify every NPC, vendor, coordinate and skill requirement against the data**, never from a subagent's prose: `tooling\qdb\{quest,npc,object,item}.json` (QuestieDB Forever; item row 14 = vendors, row 2 = npc drops, row 10 = req level; npc row 7 = spawns by zone; no XP field), `data\zone_*.json` (Wowhead XP), `nether.wowhead.com/forever/tooltip/item/<id>` (works from a shell; carries recipe skill, food buff, drop chance), classicdb.ch for Classic drop rates (decimals are sampled; 80/100/66/50 are emulator defaults).
 - **Run `python tooling\check_guide.py` after every edit** (expected: 0 flow problems, the 7 cosmetic "optional step without [G]" findings). Run `tarcheck.py` after coordinate changes.
 - Large edits go to an Opus subagent ("don't write it yourself", 25 Oct); audits are read-and-report first, then Braedyn approves, then edit. Record what changed in a dated `docs/audit-<date>.md` or build doc, and bump the TOC notes.
+- **Every pushed guide change ships as a GitHub release** (3 Nov): tag `v<TOC version>` on main, all three zips attached, body = install section + changelog since the previous tag. The TOC version is the date of the last edit, so a release lags the TOC the moment the zip is rebuilt and nothing is cut; check `gh release list` against the TOC versions before closing a round.
 - Mark anything taken from Classic knowledge rather than Forever data as unverified, and keep an in-game test list in the build/audit doc.
 
 ## Where things are

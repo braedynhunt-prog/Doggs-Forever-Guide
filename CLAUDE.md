@@ -23,6 +23,7 @@ Owner: Braedyn. He plays the guide and reports what breaks; you keep the files c
 - Data freshness: `tooling/sources.json` is the data manifest. Run `python tooling/check_sources.py` at the start of any plan that relies on game data, and state its result in the plan.
 - Lua files: ASCII only, LF line endings. Don't invent Guidelime tags.
 - Commit after each coherent change with a message saying which chapters changed and why. Don't rewrite history.
+- A guide-edit round is not done until it is released (3 Nov). After the commits are pushed: `gh release create v<TOC version>` on main, title `Forever Shaman + Warrior + Druid 1-30 - <version>`, all three zips attached, body = the previous release's install section plus a changelog since the previous tag (per guide, from the TOC notes and commit log). One release per TOC version; a later edit on the same day goes into a new version. Check `gh release list` against the TOC versions at the start of any guide session.
 - Don't touch the WoW `Interface\AddOns` folder unless asked. Installing = copying `guide/Guidelime_ForeverShaman/` there, nothing else.
 - When something can't be verified from the data, say so and put it on the in-game test list in the current audit doc rather than guessing.
 
