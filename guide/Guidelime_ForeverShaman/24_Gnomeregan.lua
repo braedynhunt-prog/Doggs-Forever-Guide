@@ -18,6 +18,7 @@ At [TAR2784 King Magni Bronzebeard], [QT98300] (2,700 XP: Howin's missive from t
 [O]At [TAR2790 Grand Mason Marblesten], [QA689 A King's Tribute] [QC689] [QT689] [QA700 A King's Tribute] (only with 5 Alterac Granite) [G39.0,88.0 Ironforge]
 [O]At [TAR2784 King Magni Bronzebeard], [QT700] (2,500 XP; Ironforge Memorial Ring +5 Sta +4 Spi, only for an empty ring slot) [G39.1,56.2 Ironforge]
 [A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 30 spells (skip if chapter 22's stop already did; you are back here in chapter 25 for Call of Air) [G47.1,13.8 Ironforge]
+[O][A Shaman] On the way out, at [TAR5151 Ginny Longberry] (reagent vendor): buy 2 Ankh - Reincarnation (30) uses one per self-resurrection (1-hour cooldown), so keep two in the bag from now on [G31.3,27.8 Ironforge]
 [OC][A Shaman] |cffffcc00Gear (Prehistoric Prism, if you have it):|r take |cff66ff66Heavehammer|r (2H mace 27.7 dps, +32 attack power, +60 armor): several dps over any 2H you carry and your weapon until the Crowd Pummeler. The Dustcover cloak (+5 Agi +5 Int +5 Spi) is the runner-up; Healer's Staff is a healer's stick
 [OC][A Hunter] |cffffcc00Gear (Prehistoric Prism, if you have it):|r take |cff66ff66Explorer's League Dustcover|r (cloak +5 Agi +5 Int +5 Spi). Heavehammer is a mace (hunters cannot use it) and Healer's Staff a healer's stick
 [O]At [TAR5387 High Explorer Magellas] in the Hall of Explorers, [QT98824] (3,150 XP; only if the Titan Relic dropped in chapter 22) [G69.9,18.6 Ironforge]

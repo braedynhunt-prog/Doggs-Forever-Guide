@@ -27,7 +27,7 @@ tar  08_RuinsOfLordaeron.lua:9  Maris Granger [G59.2,37.8] is 27.6 from the near
 tar  08_RuinsOfLordaeron.lua:56  Lady Dena Kennedy (15991) has no spawn in Stormwind City (no spawn data in the DB at all)
 tar  17_Duskwood2.lua:27  Rabid Dire Wolf [G27.7,31.1] is 5.7 from the nearest spawn 33.1,29.4
 tar  22_ExcavationSite.lua:75  Minor Manifestation of Water (5895) has no spawn in Westfall (spawns in zones ['130'])
-tar  24_Gnomeregan.lua:66  Kernobee (7850) has no spawn in Dun Morogh (no spawn data in the DB at all)
+tar  24_Gnomeregan.lua:67  Kernobee (7850) has no spawn in Dun Morogh (no spawn data in the DB at all)
 tar  26_RazorfenKraul.lua:74  Willix the Importer (4508) has no spawn in The Barrens (no spawn data in the DB at all)
 gates  01b_DunMorogh.lua:15  Camping 101: Cooking needs Cooking 1 but the route has not learned Cooking yet
 gates  01b_DunMorogh.lua:16  Camping 101: Fishing needs Fishing 1 but the route has not learned Fishing yet [conditional step]
