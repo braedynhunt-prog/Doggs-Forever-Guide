@@ -36,8 +36,9 @@ def nearest_band(level):
 
 # ---------------------------------------------------------------- enh (2H Enhancement shaman)
 # Copied verbatim from score_items.main() (level-20 band; no mace term since 1 Nov 2026).
-ENH_W20_CENTRAL = dict(wdps=14.0, str=2.0, ap=1.0, int=1.05, agi=0.85, spi=1.0, sta=0.0, sp=1.5, exp=3.0)
-ENH_W20_CONSERVATIVE = dict(wdps=14.0, str=2.0, ap=1.0, int=1.05, agi=0.85, spi=0.5, sta=0.0, sp=0.5, exp=1.0)
+# 3 Nov 2026: Int 1.05 -> 1.55 (Mental Dexterity 50/100/150% of Int, was 33/67/100%; source: Blizzard dev notes 3 Nov)
+ENH_W20_CENTRAL = dict(wdps=14.0, str=2.0, ap=1.0, int=1.55, agi=0.85, spi=1.0, sta=0.0, sp=1.5, exp=3.0)
+ENH_W20_CONSERVATIVE = dict(wdps=14.0, str=2.0, ap=1.0, int=1.55, agi=0.85, spi=0.5, sta=0.0, sp=0.5, exp=1.0)
 
 _enh_cache = {}
 

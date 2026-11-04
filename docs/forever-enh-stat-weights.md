@@ -9,7 +9,7 @@ Built 24 Sep 2026 for the "our own Pawn" project. Braedyn's brief: tune for **ki
 | weapon DPS (2H) | 14 | 14 | 14 | exact: 14 AP = 1 DPS, and Rockbiter is AP so weapon speed does not matter before Windfury (30) |
 | Strength | 2.0 | 2.0 | 2.0 | 2 AP per point for shaman |
 | Attack Power | 1.0 | 1.0 | 1.0 | |
-| Intellect | 0.4 | 1.05 | 1.05 | = Mental Dexterity (1 AP per Int at 3/3, from ~level 12) + a little spell crit. **The mana pool itself is worth nothing for kill speed** (see below) |
+| Intellect | 0.58 | 1.55 | 1.58 | = Mental Dexterity (1.5 AP per Int at 3/3, from ~level 12) + a little spell crit. 3 Nov 2026: was 0.4 / 1.05 / 1.05 at 1 AP per Int; Mental Dexterity now 50/100/150% of Int, up from 33/67/100% (source: Blizzard dev notes 3 Nov). **The mana pool itself is worth nothing for kill speed** (see below) |
 | Agility | 0.5 | 0.6 | 0.85 | crit only: 1% crit per ~6 Agi at 10, ~7 at 15, ~8 at 20 (vs 20 at 60) |
 | Spirit | **1.0** (model 1.25) | **1.0** (model 0.8) | **1.0** (model 1.6) | the big surprise, and the least certain number — range 0.5-2.3 depending on Forever's regen rules and how much you drink; use 1.0 until the character sheet settles it |
 | Stamina | 0 | 0 | 0 | never limits a steady grind; only deaths, multi-pulls and dungeon tanking give it value. Suggest a 0.25 floor in the addon so +Sta items aren't shown as literally worthless |
@@ -18,7 +18,9 @@ Built 24 Sep 2026 for the "our own Pawn" project. Braedyn's brief: tune for **ki
 | +1% hit or +1% crit | 2.7 | 3.8 | 6.0 | |
 | mace (Dwarf Mace Specialization, +1% crit) | +3.4 | +4.3 | +7.5 | flat bonus per mace ≈ +0.25 / +0.3 / +0.5 weapon DPS. **17 Oct: the Oct 15 beta build removed weapon specializations (Dwarf Mace Spec is now Earth Fury, 2% crit damage) — this term is obsolete; 1 Nov: the 30 Oct hotfix cache replaces Earth Fury with Artisan's Precision (1% hit with spells and attacks; datamined, unverified in game)** |
 
-Recommended "central" set for the addon (15-20): `wdps 14, Str 2, AP 1, Int 1.05, Agi 0.85 (0.6 at 15), Spi 1.0, Sta 0 (or 0.25 floor), SP 1.5, Exp 3, Hit% 6, Crit% 6` (mace term dropped, see above). Every reward call below was also re-run with a conservative set (Spi 0.5, SP 0.5, Exp 1) and only one call flips (Chok'sul's reward, see Disagreements).
+Recommended "central" set for the addon (15-20): `wdps 14, Str 2, AP 1, Int 1.55, Agi 0.85 (0.6 at 15), Spi 1.0, Sta 0 (or 0.25 floor), SP 1.5, Exp 3, Hit% 6, Crit% 6` (mace term dropped, see above). Every reward call below was also re-run with a conservative set (Spi 0.5, SP 0.5, Exp 1) and only one call flips (Chok'sul's reward, see Disagreements).
+
+3 Nov 2026: central Int 1.05 → 1.55 (Mental Dexterity 50/100/150% of Int, was 33/67/100%; source: Blizzard dev notes 3 Nov). Model Int per band now L10 0.60/0.55, L15 1.58/1.53, L20 1.58, L25 1.60, L30 1.59 (shock-every-6 s / kill-speed-optimum policy). The gear-pick sections below still use the old weights.
 
 ## How the model works (so it can be argued with)
 

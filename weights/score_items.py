@@ -132,8 +132,9 @@ def main():
         items.append(it)
 
     # Central weights (level-20 band) and a conservative set with Spirit/SP/Expertise at the low end of their ranges.
-    w_eff = dict(wdps=14.0, str=2.0, ap=1.0, int=1.05, agi=0.85, spi=1.0, sta=0.0, sp=1.5, exp=3.0)
-    w_spam = dict(wdps=14.0, str=2.0, ap=1.0, int=1.05, agi=0.85, spi=0.5, sta=0.0, sp=0.5, exp=1.0)
+    # 3 Nov 2026: Int 1.05 -> 1.55 (Mental Dexterity 50/100/150% of Int, was 33/67/100%; source: Blizzard dev notes 3 Nov)
+    w_eff = dict(wdps=14.0, str=2.0, ap=1.0, int=1.55, agi=0.85, spi=1.0, sta=0.0, sp=1.5, exp=3.0)
+    w_spam = dict(wdps=14.0, str=2.0, ap=1.0, int=1.55, agi=0.85, spi=0.5, sta=0.0, sp=0.5, exp=1.0)
     wsets = {"central": w_eff, "conservative": w_spam}
 
     print("WEIGHTS (level 20, AP = 1; mace term dropped 1 Nov 2026):")

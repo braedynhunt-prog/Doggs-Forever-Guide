@@ -13,8 +13,9 @@ item_tooltips.json            the ~200 Forever item tooltips scraped from Wowhea
 scores_2026-09-24.txt         the last score_items.py output
 
 Recommended weights for the addon (levels 15-20, attack power = 1):
-  weapon dps 14 | Str 2 | AP 1 | Int 1.05 | Agi 0.85 (0.6 at 15) | Spirit 1.0 | Sta 0 (or 0.25 floor)
+  weapon dps 14 | Str 2 | AP 1 | Int 1.55 | Agi 0.85 (0.6 at 15) | Spirit 1.0 | Sta 0 (or 0.25 floor)
   spell dmg 1.5 | expertise 3 per point | +1% hit 6 | +1% crit 6
+  (3 Nov 2026: Int 1.05 -> 1.55 (Mental Dexterity 50/100/150% of Int, was 33/67/100%; source: Blizzard dev notes 3 Nov); enh_weights.py md term now 0.5 AP per Int per rank)
   (1 Nov 2026: the "mace +7 flat" term is gone - Dwarf Mace Specialization was removed from Forever on 17 Oct;
    score_items.py, sensitivity.py and tooling/dungeon_loot.py no longer add it. enh_weights.py gained 25 and 30
    bands for the 23-31 chapters; tooltips now live in tooltips/<date>.json, item_tooltips.json is the 24 Sep scrape.)

@@ -164,7 +164,8 @@ def kills_per_hour(s: Scenario, verbose=False):
 
     # --- melee ---
     rb = rockbiter_ap(L, s.rockbiter_frac) * (1 + 0.0667 * t["ew"])
-    ap = MELEE_AP_BASE(L, Str) + g["ap"] + rb + Int * (t["md"] / 3.0)
+    # 3 Nov 2026: Blizzard dev notes, Mental Dexterity 50/100/150% of Int (was 33/67/100%)
+    ap = MELEE_AP_BASE(L, Str) + g["ap"] + rb + Int * (0.5 * t["md"])
     crit = BASE_MELEE_CRIT + Agi / agi_per_crit(L) + t["ts"] + (1.0 if s.mace else 0.0) + g["critpct"]
     crit -= 1.0 * max(0, s.mob_level_delta)   # crit suppression 1%/level (magey)
     d = s.mob_level_delta
