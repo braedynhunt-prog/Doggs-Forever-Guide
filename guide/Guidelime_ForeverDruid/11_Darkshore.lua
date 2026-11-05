@@ -60,7 +60,7 @@ At [TAR6667 Gelkak Gyromast] on the north shore, [QA2098 Gyromast's Retrieval] [
 [O]Dive for the two lockboxes on the shipwreck floor, Silver Dawning's and Mist Veil's [QC982] [G38.2,28.8 Darkshore]
 |cFFfff8a3Run back to Auberdine along the west coast|r
 At [TAR3649 Thundris Windweaver], [QT4762] [QA4763 The Blackwood Corrupted] (you get an empty bowl; fill it at the moonwell in the middle of town, then do the ritual on trip 4) [G37.4,40.1 Darkshore]
-Use the Empty Cleansing Bowl on the moonwell in the middle of town [G37.8,44 Darkshore]
+Use the Empty Cleansing Bowl on the moonwell in the middle of town [CI12347,1 Filled Cleansing Bowl] [G37.8,44 Darkshore]
 At [TAR3583 Barithras Moonshade], [QT947] [QA948 Onu] [G37.3,43.6 Darkshore]
 At [TAR3701 Tharnariun Treetender], [QT2138] [QA2139 Tharnariun's Hope] (Den Mother, a level 18-19 mob in a cave on trip 4) [G38.8,43.4 Darkshore]
 [O]At [TAR3693 Terenthis], [QT986] [QA993 A Lost Master] (the cloak goes to Volcor in the south) [G39.4,43.5 Darkshore]
@@ -93,8 +93,9 @@ At [TAR2930 Sentinel Glynda Nal'Shea], [QT4740] [G37.7,43.4 Darkshore]
 
 [OC]|cffffffffTrip 4: north again - the ritual, the elites, the Stormscale coast|r
 [OC]|cffffcc00The Blackwood ritual|r is |cff66ff66normal|r (objects and one level 19 fight): each sample you take spawns a furbolg warrior that attacks - kill it before the next. If Xabraxxis kills you the bowl is gone and the quest sticks (abandon and restart - Classic-era note), so go in at full health
+Walk to the mouth of the Den Mother's cave (entrance position Classic, unverified) [G50.8,37.2 Darkshore]
 Kill [TAR6788 Den Mother] in her cave north-east of the mushrooms [QC2139] [G51.5,38.3 Darkshore]
-Take one sample from each store in the northern Blackwood camp: nuts (51.8,33.5), fruit (52.9,33.4), grain (50.7,34.9) [G52,34 Darkshore]
+Take one sample from each store in the northern Blackwood camp: nuts (51.8,33.5), fruit (52.9,33.4), grain (50.7,34.9) [CI12343,1 Blackwood Nut Sample] [CI12341,1 Blackwood Fruit Sample] [CI12342,1 Blackwood Grain Sample] [G52,34 Darkshore]
 Use the filled bowl at the bonfire next to the Demon Bag; kill [TAR10373 Xabraxxis] (level 19, not elite), loot the Talisman of Corruption [QC4763] [G52.4,33.4 Darkshore]
 At [TAR6667 Gelkak Gyromast], [QT2098] [QA2078 Gyromast's Revenge] [G56.7,13.5 Darkshore]
 |cFFFF0000GROUP 2+|r [TAR6669 The Threshwackonator 4100] (a level 20 elite; the 4100 is part of its name, not its HP, which the DB lacks): click it to slot in Gyromast's Key, it follows you to Gelkak and turns hostile on arrival - kill it there [QC2078] [G55.8,18.3 Darkshore]
@@ -119,7 +120,7 @@ At [TAR270269 Arbal], [QT98013] [G43.7,76.5 Darkshore]
 [O]At [TAR3616 Onu], [QT98028] [G43.5,76.3 Darkshore]
 [OC][A Druid] |cffffcc00Gear:|r |cff66ff66Mathystra Channeling Orb|r (held in off-hand +3 Sta +5 Int) or |cff66ff66Onu's Patience|r (held in off-hand +3 Sta +5 Spi), coin flip
 |cFFFF0000ESCORT|r At [TAR11218 Kerlonian Evershade] - everyone in the group must be on the quest before you talk to him [QA5321 The Sleeper Has Awakened] (about 1,550 XP) [G44.4,76.4 Darkshore]
-Loot the Horn of Awakening from Kerlonian's Chest at his feet [G44.4,76.3 Darkshore]
+Loot the Horn of Awakening from Kerlonian's Chest at his feet [CI13536,1 Horn of Awakening] [G44.4,76.3 Darkshore]
 [OC]Kerlonian follows you along the road to Maestra's Post and lies down to nap now and then: use the Horn to wake him (it expires after 25 minutes - restart with a fresh one from the chest if it runs out). Scripted ambushes come in the Twilight Vale (a Blackwood shaman and two ursa) and again in Ashenvale (three Dark Strand cultists) - Classic-era notes, unverified on Forever
 At [TAR11219 Liladris Moonriver] at Maestra's Post, where the escort ends, [QT5321] [G27.3,35.6 Ashenvale]
 [OC][A Druid] |cffffcc00Gear:|r take |cff66ff66Deerhide Pants|r (leather legs +5 Str +3 Sta)

@@ -26,6 +26,7 @@ Open the Defias Strongbox and take the Defias Docket [QC1244] [G23.9,72.1 Duskwo
 At [TAR311 Sven Yorgen] in his camp, [QT325] (590 XP) [G7.8,34.1 Duskwood]
 [O]|cFFFF0000GROUP 3+|r At [TAR311 Sven Yorgen], [QA55 Morbent Fel] (3,850 XP) [G7.8,34.1 Duskwood]
 [OC]|cFFFF0000GROUP 3+|r |cffffcc00Morbent Fel|r is a level 32 elite (~3,609 HP in the Classic DB) in his house on the Forlorn Rowe, 9 units east of Sven. Classic sources: Presence of Death (a 2-second stun/fear), Touch of Death (drains health and heals him) and Unholy Shield; Morbent's Bane (the staff Armed and Ready gave you) must be USED on him to strip the shield, or he is very hard to hit and the kill will not count. Unverified on Forever
+Walk to the crypt door at the top of Raven Hill Cemetery (Morbent Fel is inside; door position Classic, unverified) [G17,35 Duskwood]
 [O]|cFFFF0000GROUP 3+|r Use Morbent's Bane on [TAR1200 Morbent Fel], then kill him [QC55] [G16.9,33.4 Duskwood]
 [O]At [TAR311 Sven Yorgen], [QT55] [G7.8,34.1 Duskwood]
 [OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Sparkmetal Coif|r (mail head +9 Str)

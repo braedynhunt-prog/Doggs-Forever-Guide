@@ -25,7 +25,7 @@ At [TAR264 Commander Althea Ebonlocke], [QA56 The Night Watch] (8 Skeletal Warri
 At [TAR268 Sirra Von'Indi] (the town historian), [QA96139 The Valor Family] (a Raven Hill Tome from the Memory of Valor near Raven Hill: |cff66ff66normal|r, picked up on the sweep) [G72.6,47.6 Duskwood]
 At [TAR663 Calor], [QA173 Worgen in the Woods] (6 Nightbane Shadow Weavers, level 27-28: |cff66ff66normal|r, non-elite; part 3 and 4, 222 and 223, are chapter 17's) [G75.8,47.6 Duskwood]
 At [TAR633 Elaine Carevin], [QA163 Raven Hill] (Jitters in Raven Hill takes it on the sweep; her Deliveries to Sven and The Hermit are chapter 17's - leave them) [G75.3,48.8 Duskwood]
-At [TAR3133 Herble Baubbletump] (Engineering and Mining Supplies), buy a Bronze Tube if he has one [G78.0,48.3 Duskwood]
+At [TAR3133 Herble Baubbletump] (Engineering and Mining Supplies), buy a Bronze Tube if he has one [V] [G78.0,48.3 Duskwood]
 [OC]Look to the Stars (174, 175, 177, 181) is worth 6,950 XP and starts with that tube. If Herble is out, the other sources in the DB are the Boxes of Assorted Parts (Westfall 35.9,46.8, the Barrens) and the Stormwind auction house; with no tube, skip every Look to the Stars line below and 181's Zzarc' Vul stop
 At [TAR276 Viktori Prism'Antras], [QA174 Look To The Stars] [QT174] [QA175 Look To The Stars] [G79.8,48.0 Duskwood]
 
@@ -33,6 +33,7 @@ At [TAR276 Viktori Prism'Antras], [QA174 Look To The Stars] [QT174] [QA175 Look 
 At [TAR302 Blind Mary] in Brightwood Grove, [QT175] [QA177 Look To The Stars] [G82.0,59.1 Duskwood]
 [OC]|cffffcc00Labels:|r Night Watch skeletons (level 21-23, 27 spawn points) |cff66ff66normal|r. The Insane Ghoul (26) has ONE spawn point in the DB and Mary's Looking Glass is a drop with no rate in the DB: if he is already dead, kill skeletons while he respawns. Keep every Skeleton Finger that drops (10 for Madame Eva)
 Kill 8 Skeletal Warriors and 6 Skeletal Mages in the graveyard [QC56] [G79.3,70.5 Duskwood]
+Walk to the crypt door in Tranquil Gardens Cemetery (the ghoul is inside; door position Classic, unverified) [G80,71 Duskwood]
 Kill the Insane Ghoul and loot Mary's Looking Glass [QC177] [G80.9,72.0 Duskwood]
 Back in town at [TAR276 Viktori Prism'Antras], [QT177] [QA181 Look To The Stars] (the finale is Zzarc' Vul's monocle, on the sweep) [G79.8,48.0 Duskwood]
 At [TAR264 Commander Althea Ebonlocke], [QT56] [QA57 The Night Watch] (15 Skeletal Fiends and 15 Skeletal Horrors in the cemetery on the sweep: |cffffcc00slowish|r - only 13 Fiend spawn points for 15 kills, so expect a respawn wait; kill Horrors while you wait) [G73.5,46.8 Duskwood]
@@ -45,6 +46,7 @@ At [TAR663 Calor], [QT221] (he offers part 3, 222 - leave it for chapter 17) [G7
 [OC]|cffffffffThe west sweep|r  -  one run: Twilight Grove, the southern ogre mound, Raven Hill, the cemetery, and back to Twilight Grove for the Hearthstone. Everything that hands in at Darkshire (Eva, Sirra, Althea, Viktori, Chef Grual) waits for the last stop, so keep the finished quests. Top up water and ammo before you leave town
 At [TAR888 Watcher Dodds] at Twilight Grove, [QA245 Eight-Legged Menaces] (15 Pygmy Venom Web Spiders, level 18-19: |cff66ff66normal|r, but none live near Dodds - the nearest are the 17 spawn points in the strip west of Raven Hill, so you kill them on the Raven Hill leg and hand in here on the way back) [G45.1,67.0 Duskwood]
 [OC]|cffffcc00Look to the Stars finale - risky:|r Zzarc' Vul is a level-30 ogre (not elite) with three possible spots in the southern ogre mound (35,80 / 36.8,83.8 / 38,80), among Splinter Fist ogres of level 27-30 that come in groups; the monocle is a drop with no rate in the DB. Pull one ogre at a time from the edge of the mound, never into it. Too hard or he is missing? Skip him and abandon 181 later - the other three parts are already paid
+Walk to the mouth of the Vul'Gol Ogre Mound cave (entrance position Classic, unverified) [G33.5,76.5 Duskwood]
 Kill Zzarc' Vul and loot his Ogre's Monocle [QC181] [TAR300 Zzarc' Vul] [G36.6,81.3 Duskwood]
 At [TAR288 Jitters] in Raven Hill, [QT163] [QA5 Jitters' Growling Gut] (Chef Grual's errand, handed in at the last stop) [G18.4,56.4 Duskwood]
 [OC]|cffffcc00Spiders:|r Pygmy Venom Web Spiders (18-19), Venom Web Spiders (19-20) and Green Recluses (21-22) all live in the strip west of Raven Hill (x 8-17, y 40-72). The same kills fill Eight-Legged Menaces, the 6 Gooey Spider Legs Chef Grual wants, and the 5 Vials of Spider Venom for Eva - keep every leg and vial

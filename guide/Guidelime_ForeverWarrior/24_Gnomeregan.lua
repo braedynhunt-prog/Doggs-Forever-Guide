@@ -33,11 +33,12 @@ At [TAR6569 Gnoarn], [QA2927 The Day After] (220 XP, the breadcrumb to Kharanos)
 [OC]|cffffffffKharanos and the exterior tunnels|r  -  the Gnogaine phial must be filled OUTSIDE the door and handed in before you go in (that unlocks the quest you finish inside), so do the whole exterior pass on this first trip and walk back to Ozzie only once
 At [TAR1268 Ozzie Togglevolt] in Kharanos, [QT2927] [QA2926 Gnogaine] (2,200 XP: fill the Empty Leaden Collection Phial he gives you from an irradiated trogg, |cff66ff66normal|r) [G45.9,49.4 Dun Morogh]
 [OC]Walk west past Brewnall Village to the Gnomeregan crater (the DB puts the entrance at 24.3,39.8). Classic-era (Icy Veins): an elevator at the crater drops you into the exterior tunnels, a big room with a train depot; the instance door is at the end of a tunnel along its left wall. Everything in this block happens in those tunnels, before the door
+Ride the elevator at the crater down into the exterior tunnels [G24.3,39.8 Dun Morogh]
 |cFFFF0000GROUP 3+|r Kill an [TAR6213 Irradiated Invader] (level 24-26 elite, HP not in the DB) and use the Empty Leaden Collection Phial on its corpse [QC2926] [G20.8,35.6 Dun Morogh]
 |cFFFF0000GROUP 3+|r In his own room north of the depot, kill [TAR6231 Techbot] (level 26 elite) and loot Techbot's Memory Core [QC2922] [G19.8,31.9 Dun Morogh]
 [OC]|cffffcc00Loot as you go:|r the exterior troggs (Caverndeep Invader, Looter and Pillager, Irradiated Invader and Pillager) drop Grime-Encrusted Objects (one per Sparklematic run: keep them all) and the Invaders also Robo-mechanical Guts. The White Punch Card drops from Caverndeep Invaders, Looters and Pillagers, Irradiated Invaders and Addled Lepers; the DB has no rates
 [OC]|cffffcc00White Punch Card (Data Rescue):|r |cffffcc00luck|r. If none has dropped by the time Techbot is down, give it a few more minutes of kills; if it still will not come, let Data Rescue's 3,650 XP go rather than camp (the card can drop on any later visit)
-[O]Use the White Punch Card on a Matrix Punchograph 3005-A (four machines, two near 22,32.6 and two near 22,31) to get a Yellow Punch Card [G22.0,32.6 Dun Morogh]
+[O]Use the White Punch Card on a Matrix Punchograph 3005-A (four machines, two near 22,32.6 and two near 22,31) to get a Yellow Punch Card [CI9280,1 Yellow Punch Card] [G22.0,32.6 Dun Morogh]
 At [TAR1268 Ozzie Togglevolt], [QT2926] [QA2962 The Only Cure is More Green Glow] (2,450 XP: he hands you a Heavy Leaden Collection Phial, see the notes inside) [G45.9,49.4 Dun Morogh]
 |cFFFF0000GROUP 5|r Back at the crater, ride the elevator down and enter Gnomeregan at the end of the exterior tunnels [G24.3,39.8 Dun Morogh]
 

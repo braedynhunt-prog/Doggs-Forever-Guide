@@ -7,7 +7,7 @@ Guidelime.registerGuide([[
 At the gate at [TAR466 General Marcus Jonathan], [QT120] [QA121 Messenger to Stormwind] (back to Solomon in the 20+ chapter) [G69.2,82.7 Stormwind City]
 At the Auction House, buy 10 [CI4365,10 Coarse Dynamite] if you have not - Alba's A Dynamite Plan needs them (~2,900 XP chain) [G61.1,70.7 Stormwind City]
 At [TAR5494 Catherine Leland] on the canal (fishing supplies), buy 1 [CI6529,1 Shiny Bauble] and 3 [CI6530,3 Nightcrawlers] (Nightcrawlers need Fishing 50 to use - buy them anyway, the quest only wants them in your bags) [G55.1,69.8 Stormwind City]
-[O]Beside her, [TAR5493 Arnold Leland] trains Fishing (Journeyman at 50) if you still need it; the canal in front of you is low-level water for a quick skill top-up while you are here [G55.0,69.7 Stormwind City]
+[O]Beside her, [TAR5493 Arnold Leland] trains Fishing (Journeyman at 50) if you still need it; the canal in front of you is low-level water for a quick skill top-up while you are here [T] [G55.0,69.7 Stormwind City]
 [OC]Run west to the harbor
 At [TAR267118 Gilbert Gray] on the harbor, [QA95065 Fishin' Time] then [QT95065] (680 XP for the bait you just bought) [G26.3,47.0 Stormwind City]
 At [TAR268511 Manifest Clerk Philmor] up the harbor steps, [QA97220 Philmor's Favor] [G30.4,29.0 Stormwind City]
@@ -41,7 +41,7 @@ At [TAR11026 Sprite Jumpsprocket], [QT92749] [QA92750 Detonation at a Distance] 
 [OC]Run southeast to Old Town (SI:7 building)
 At [TAR1325 Jasper Fel], [QT92750] [QA92751 Detonation at a Distance] [G80.3,70.1 Stormwind City]
 In Old Town at [TAR332 Master Mathias Shaw] (SI:7), [QT135] [QA141 The Defias Brotherhood] [G78.3,70.7 Stormwind City]
-In the Old Town kitchen at [TAR340 Kendor Kabonka], [V] buy |cff66ff66Recipe: Succulent Pork Ribs|r (Cooking 110: 2 Boar Ribs + Hot Spices = +5 Str at level 15 - equal to Longjaw, and it uses the Boar Ribs you banked; learn it when you reach 110). He also sells every quest recipe on this route (Blood Sausage, Goretusk Liver Pie, Crocolisk Steak, Redridge Goulash, Gumbo, Omelet, Wolf Kabob) if you missed one [G77.5,52.7 Stormwind City]
+In the Old Town kitchen at [TAR340 Kendor Kabonka], [V] buy |cff66ff66Recipe: Succulent Pork Ribs|r (4s) (Cooking 110: 2 Boar Ribs + Hot Spices = +5 Str at level 15 - equal to Longjaw, and it uses the Boar Ribs you banked; learn it when you reach 110). He also sells every quest recipe on this route (Blood Sausage, Goretusk Liver Pie, Crocolisk Steak, Redridge Goulash, Gumbo, Omelet, Wolf Kabob) if you missed one [G77.5,52.7 Stormwind City]
 Up the street at [TAR5479 Wu Shen] (warrior trainer, Old Town), [T] train every new rank up to your level (even levels) [G80.6,59.9 Stormwind City]
 [OC]Run back to the Dwarven District
 At [TAR11026 Sprite Jumpsprocket], [QT92751] [QA92752 Explosive Consultation] [G61.8,30.5 Stormwind City]
@@ -71,7 +71,7 @@ At [TAR8931 Innkeeper Heather], bind your Hearthstone to [S Sentinel Hill] (Redr
 
 [OC]Run to Moonbrook. While the group gathers:
 Kill 15 [TAR122 Defias Highwayman], 5 [TAR121 Defias Pathstalker], 5 [TAR449 Defias Knuckleduster] in and south of Moonbrook [QC14] [G45,76 Westfall]
-[OC]Into the big building at the south end of Moonbrook and down the mine tunnels
+Into the big building at the south end of Moonbrook and down the mine tunnels [G42.5,71.5 Westfall]
 [OC]|cffffcc00You tank the run:|r Defensive Stance and the shield throughout. Thunder Clap to open packs (usable in Defensive Stance on Forever - unverified), Sunder the kill target, Revenge on cooldown, Taunt whatever peels; Shield Block on the hard hitters (Rhahk'Zor, Mr. Smite, VanCleef). Pull Defias casters around a corner so they come to you
 Kill [TAR623 Skeletal Miner], [TAR624 Undead Excavator], [TAR625 Undead Dynamiter] (level 17-18 elite) in the tunnel for 4 Miners' Union Cards [QC168] [G41.5,82 Westfall]
 Kill [TAR626 Foreman Thistlenettle] (level 20 elite, near the instance portal) for his badge [QC167] [G42.2,82.6 Westfall]

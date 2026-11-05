@@ -25,7 +25,7 @@ At [TAR379 Darcy], [QA129 A Free Lunch] [G21.5,44.3 Redridge Mountains]
 At [TAR6727 Innkeeper Brianna], bind your Hearthstone to [S Lakeshire] [V] (Lindsay Ashlock by the bridge repairs) [G21.9,44.8 Redridge Mountains]
 West of the inn at [TAR343 Chef Breanna], [QA92 Redridge Goulash] [G17.6,43.8 Redridge Mountains]
 [OC]Next to her, [TAR3087 Crystal Boughman] teaches Journeyman Cooking (skill 50) if you somehow still lack it. Redridge Goulash (Cooking 100) and Murloc Fin Soup (90, from Selling Fish) are both recipe rewards: skill-up fillers, keep cooking and keep eating Longjaw [G17.7,43.5 Redridge Mountains]
-[O]|cffffcc00Fish to 75-100:|r Lake Everstill off the Lakeshire dock is Longjaw water too (Redridge wants ~55 Fishing: your Strong Pole covers it). 10-15 minutes here whenever you are in town, and [TAR1680 Matthew Hooper] on the dock trains Fishing; Vernon Hale (22.4,47.8) sells lures and cooked Longjaw if you ever run dry [G21.9,51.1 Redridge Mountains]
+[O]|cffffcc00Fish to 75-100:|r Lake Everstill off the Lakeshire dock is Longjaw water too (Redridge wants ~55 Fishing: your Strong Pole covers it). 10-15 minutes here whenever you are in town, and [TAR1680 Matthew Hooper] on the dock trains Fishing; Vernon Hale (22.4,47.8) sells lures and cooked Longjaw if you ever run dry [SK Fishing 75] [G21.9,51.1 Redridge Mountains]
 [OC]|cffffcc00Skip:|r Dry Times (Barkeep Daniels) needs four drinks from four zones. What Comes Around (Guard Berton) is the Stockade at 22+.
 
 [OC]|cffffffffThe lake|r

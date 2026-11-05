@@ -16,7 +16,7 @@ At [TAR11800 Silva Fil'naveth], take the free druid flight to Rut'theran Village
 In the Cenarion Enclave at [TAR4217 Mathrengyl Bearwalker], [QA26 A Lesson to Learn] and [T] train (level 16: Swipe) [G35.4,8.4 Darnassus]
 [OC]Cast Teleport: Moonglade
 In Nighthaven at [TAR11802 Dendrite Starblaze], [QT26 A Lesson to Learn] [QA29 Trial of the Lake] [G56.2,30.6 Moonglade]
-Swim out into Lake Elune'ara and loot a Shrine Bauble from one of the Bauble Containers on the lake bed (14 spawns between 48,47 and 60,58) [G54.1,50.1 Moonglade]
+Swim out into Lake Elune'ara and loot a Shrine Bauble from one of the Bauble Containers on the lake bed (14 spawns between 48,47 and 60,58) [CI15877,1 Shrine Bauble] [G54.1,50.1 Moonglade]
 Run west to the Shrine of Remulos in the north-west of Moonglade and use the Shrine Bauble there [QC29] [G36,41.4 Moonglade]
 Beside the shrine at [TAR11799 Tajarri], [QT29 Trial of the Lake] [QA272 Trial of the Sea Lion] [G36.5,40.1 Moonglade]
 [OC]|cffffcc00Trial of the Sea Lion:|r the two pendant halves sit in Strange Lockboxes - Aquatic Agility on the far north coast of Darkshore (now), Aquatic Endurance in the sea off the Westfall coast (this chapter's south loop). In Classic they open only with the quest in your log (unverified on Forever). You join them at this shrine at the end of the chapter
@@ -24,7 +24,7 @@ Run south-east to [TAR10897 Sindrayl], |cFFfff8a3Fly to [F Auberdine]|r [G48.1,6
 Run north up the Darkshore coast to the far north; open the Strange Lockbox and take the Half Pendant of Aquatic Agility (shore or sea floor - unverified) [G48.9,11.3 Darkshore]
 Run back south to Auberdine and take the Stormwind boat from the dock (the sign names the destination; the Menethil boat leaves from the other pier) - about 5 minutes to Stormwind Harbor [G38.3,43 Darkshore]
 [OC]Run south through the Trade District to the main gate
-[O]At the Auction House in the Trade District, buy 10 Coarse Dynamite if you have not - needed for A Dynamite Plan (Alba Fairmoon chain, ~2,900 XP total) [G61.1,70.7 Stormwind City]
+[O]At the Auction House in the Trade District, buy 10 [CI4365,10 Coarse Dynamite] if you have not - needed for A Dynamite Plan (Alba Fairmoon chain, ~2,900 XP total) [G61.1,70.7 Stormwind City]
 [OC]Leave through the Valley of Heroes, follow the road south then west through Elwynn to Westfall
 [O]In Goldshire at [TAR514 Smith Argus], [QA1097 Elmore's Task] - 105 XP now and a 1,050 XP Loch Modan delivery later (Grimand Elmore is in the Dwarven District, hand it in on the Deadmines trip) [G41.7,65.5 Elwynn Forest]
 
@@ -83,7 +83,7 @@ At [TAR253092 Alba Fairmoon], [QT92742] [QT92744] [QA92745 The State of the Mine
 [OC]|cffffffffLevel 18 - South loop|r  -  one big clockwise circuit: Defias fields, Moonbrook, the lighthouse, up Longshore, the north beach, back east
 [OC]Run west then south along the road toward Moonbrook
 Kill 15 [TAR589 Defias Pillager] and 15 [TAR590 Defias Looter] in the fields north of Moonbrook [QC13] [G38.5,60 Westfall]
-Bandage to 80: keep making Heavy Linen from the Defias cloth until First Aid 80 (green from 75, so the last few points are slow), and bank every Wool Cloth for the Wool Bandage at 80 (Goldshire, chapter 10; which cloth the Moonbrook and Deadmines Defias drop is unverified) [G38.5,60 Westfall]
+Bandage to 80: keep making Heavy Linen from the Defias cloth until First Aid 80 (green from 75, so the last few points are slow), and bank every Wool Cloth for the Wool Bandage at 80 (Goldshire, chapter 10; which cloth the Moonbrook and Deadmines Defias drop is unverified) [SK FirstAid 80] [G38.5,60 Westfall]
 [O]|cff66ff66Ongoing:|r loot Red Leather Bandanas from every Defias for 15 [QC153]
 [OC]Moonbrook is Defias town - level 15-18 humanoids, pull carefully
 [O]In the barn on the south side of Moonbrook at the [TAR249713 Odd Child], [QA92109 My First Alchemy Set] - only if you can get 5 Empty Vials (any alchemy vendor), 5 Silverleaf and 5 Peacebloom; then [QT92109] [QA92110 My First Real Potion] (3 Murloc Eyes) and [QT92110] - 840 XP for a herbalist [G41.2,79 Westfall]

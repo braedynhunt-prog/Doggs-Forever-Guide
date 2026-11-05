@@ -7,7 +7,7 @@
 
 # First Aid: the Expert book moved from the shaman's chapter-25 Arathi trip to this chapter's Stromgarde line (below).
 @replace T Bandage to 125: Heavy Wool Bandages
-Bandage to 125: Heavy Wool Bandages from the Dragonmaw and Dark Iron wool until First Aid 125, which is what the Expert book at Stromgarde (Arathi, later in this chapter) needs [G45.6,45 Wetlands]
+Bandage to 125: Heavy Wool Bandages from the Dragonmaw and Dark Iron wool until First Aid 125, which is what the Expert book at Stromgarde (Arathi, later in this chapter) needs [SK FirstAid 125] [G45.6,45 Wetlands]
 
 # Carnage: "bring the tank" was the shaman's tank friend; the druid is cat damage.
 @replace T treat him as an elite and bring the tank

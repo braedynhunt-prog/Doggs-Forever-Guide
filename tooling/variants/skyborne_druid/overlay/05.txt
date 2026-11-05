@@ -24,7 +24,7 @@ At [TAR11800 Silva Fil'naveth], take the free druid flight to Rut'theran Village
 In the Cenarion Enclave at [TAR4217 Mathrengyl Bearwalker], [QA26 A Lesson to Learn] and [T] train (level 16: Swipe) [G35.4,8.4 Darnassus]
 [OC]Cast Teleport: Moonglade
 In Nighthaven at [TAR11802 Dendrite Starblaze], [QT26 A Lesson to Learn] [QA29 Trial of the Lake] [G56.2,30.6 Moonglade]
-Swim out into Lake Elune'ara and loot a Shrine Bauble from one of the Bauble Containers on the lake bed (14 spawns between 48,47 and 60,58) [G54.1,50.1 Moonglade]
+Swim out into Lake Elune'ara and loot a Shrine Bauble from one of the Bauble Containers on the lake bed (14 spawns between 48,47 and 60,58) [CI15877,1 Shrine Bauble] [G54.1,50.1 Moonglade]
 Run west to the Shrine of Remulos in the north-west of Moonglade and use the Shrine Bauble there [QC29] [G36,41.4 Moonglade]
 Beside the shrine at [TAR11799 Tajarri], [QT29 Trial of the Lake] [QA272 Trial of the Sea Lion] [G36.5,40.1 Moonglade]
 [OC]|cffffcc00Trial of the Sea Lion:|r the two pendant halves sit in Strange Lockboxes - Aquatic Agility on the far north coast of Darkshore (now), Aquatic Endurance in the sea off the Westfall coast (this chapter's south loop). In Classic they open only with the quest in your log (unverified on Forever). You join them at this shrine at the end of the chapter

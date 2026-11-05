@@ -72,7 +72,7 @@ In the Keep at [TAR7766 Tyrion], [QT2745] [QA2746 Items of Some Consequence] (3 
 [OC]|cffffffffElwynn trip|r  -  one out-and-back, about 10 minutes (14 with Paxton), for the apples, the Stalvan chain and (optionally) Brother Paxton. The Stalvan stop is bundled here instead of before the run so that Elwynn costs one trip, not two. Leave by the main gate and take the road south to Goldshire
 Take 2 of Clara's Fresh Apples from the basket north-west of Goldshire (a quest-only object, so it shows because 2746 is in your log; the DB has one spawn, so if a click gives one apple, wait for the respawn) [QC2746] [G34.0,57.2 Elwynn Forest]
 At the Lion's Pride Inn in Goldshire, [TAR295 Innkeeper Farley], [QT69] [QA70 The Legend of Stalvan] (570 XP now, 1,700 more in the city) [G43.8,65.8 Elwynn Forest]
-Open the Storage Chest at the inn and take Stalvan's Undelivered Letter [QC70] [G44.3,65.8 Elwynn Forest]
+Open the Storage Chest at the inn and take Stalvan's Undelivered Letter - upstairs in the inn [QC70] [G44.3,65.8 Elwynn Forest]
 [O]At [TAR951 Brother Paxton] in Northshire Abbey (a 4-minute detour up the Northshire road), [QT344] [QA345 Ink Supplies] (485 XP each; Foreman Oslow in Lakeshire takes 345 in chapter 16) [G49.6,40.4 Elwynn Forest]
 [OC]Back to Stormwind by the same road
 In the Mage Quarter at [TAR5694 High Sorcerer Andromath], [QA92489 Power Overwhelming] (3,950 XP, quest level 33, requires 24: done inside the City of Dalaran) - carry to 30-40 [G48.7,87.6 Stormwind City]
@@ -82,7 +82,7 @@ In the Park at [TAR5502 Shylamiir] (herbalism trainer), [QA92456 A Green Sample]
 [OC]|cffffcc00City of Dalaran:|r carry both to the City of Dalaran run (30-40 guide) - the other two, Starving Arcane and Heart of Disruption, come from the Image of Archmage Modera on the Silverpine shore 68.6,45.2 when you go
 In the Keep at [TAR7766 Tyrion], [QT2746] [QA434 The Attack!] [G73.2,35.6 Stormwind City]
 [OC]|cffffcc00The Attack!|r  -  Lord Gregor Lescovar (31) and Marzon the Silent Blade (30) talk in the garden beside Tyrion, then it is a fight: stand in the garden until the talk is over (the quest says so), then kill both together. They are not elite in the DB but level 30-31, so fight as a pair and do not split them. This is a kill quest, not an escort
-Wait in the garden until their talk ends, then kill [TAR1754 Lord Gregor Lescovar] and [TAR1755 Marzon the Silent Blade] [QC434] [G72.4,35.1 Stormwind City]
+Wait in the garden until their talk ends, then kill [TAR1754 Lord Gregor Lescovar] and [TAR1755 Marzon the Silent Blade] - through the Keep's main door and the corridors to the side garden [QC434] [G72.4,35.1 Stormwind City]
 At [TAR482 Elling Trias], [QT434] [QA394 The Head of the Beast] (1,900 XP) [G66.0,74.1 Stormwind City]
 At [TAR332 Master Mathias Shaw], [QT394] [QA395 Brotherhood's End] [G78.3,70.7 Stormwind City]
 At [TAR1646 Baros Alexston], [QT395] [QA396 An Audience with the King] [G57.7,47.9 Stormwind City]

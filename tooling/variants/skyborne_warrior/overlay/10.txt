@@ -2,8 +2,9 @@
 # Fire Hardened Mail chain: 1698 Yorus Barleybrew (155 XP, starters 5113/5479/7315) -> 1699 The Rethban Gauntlet (1,300 XP)
 # -> 1702 The Shieldsmith (435 XP, hand-in Furen Longbeard in chapter 15). XP from data/zone_1519.json and zone_44.json.
 
-# The dropped shaman "no trainer in Stormwind" line becomes the Stormwind warrior trainer, who also starts 1698 (Wu Shen 5479 @80.55,59.87).
-@replace G73.8,49.2
+# The Stormwind warrior trainer, who also starts 1698 (Wu Shen 5479 @80.55,59.87). Until 4 Nov 2026 this replaced the shaman's
+# "no trainer in Stormwind" tram line; that line was cut (nothing on the shaman sheet at 22), so it now goes before the walk to Goldshire.
+@before T Take the road out of the gate to Goldshire
 At [TAR5479 Wu Shen] in Old Town, [T] train your level 22 abilities and take [QA1698 Yorus Barleybrew] (155 XP: the warrior's errand to Yorus Barleybrew in Lakeshire - it opens The Rethban Gauntlet) [G80.6,59.9 Stormwind City]
 
 # Merchant camp: the Totemic/Brawler's/Leatherworking text goes (the warrior keeps Skinning + Mining, see chapter 14).

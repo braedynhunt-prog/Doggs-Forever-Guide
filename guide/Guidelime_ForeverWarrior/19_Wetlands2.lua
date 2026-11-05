@@ -17,7 +17,7 @@ At [TAR270637 Howin Kindfeather], [QA98300 Word to Ironforge] (a missive for Kin
 
 [OC]|cffffffffAngerfang Encampment|r  -  the largest Dragonmaw orc camp (45.7,45.4 on warcraft.wiki.gg), 5 units south-west of Howin: level 26-30, non-elite except the rare Battlemaster
 Kill [TAR1034 Dragonmaw Raider] and the Swamprunners and Centurions for 8 Dragonmaw War Banners [QC464] [G45.6,45 Wetlands]
-Bandage to 125: Heavy Wool Bandages from the Dragonmaw and Dark Iron wool until First Aid 125, which is what the Expert book in chapter 25 needs [G45.6,45 Wetlands]
+Bandage to 125: Heavy Wool Bandages from the Dragonmaw and Dark Iron wool until First Aid 125, which is what the Expert book in chapter 25 needs [SK FirstAid 125] [G45.6,45 Wetlands]
 [OC]War Banners is |cff66ff66normal|r (TUGs takes them in one pass through the camp; the drop rate is not in the DB). The Dragonmaw Battlemaster (30 rare elite, ~1,000 HP in the Classic DB) walks the middle at 45.3,44.4 and drops banners too: pull him with both of you or leave him
 Click the four Attack Plans lying about the camp (Menethil Harbor, Thelsamar, Southshore, Ironforge) to burn them [QC98221] [G47.4,45.8 Wetlands]
 [OC]The DB has no spawn for the plans, so no coordinates: they lie inside the camp around the catapults (47.4,47.0). Leave the catapults alone for now - Nek'rosh's Gambit needs War Banners handed in at Menethil first (the last block of the chapter)
@@ -51,7 +51,7 @@ At [TAR270637 Howin Kindfeather], [QT98245] [QT98246] [G49.4,42.1 Wetlands]
 
 [OC]|cffffffffDun Modr|r  -  Dark Iron dwarves (27-31, ELITE) hold the ruins and the camps around them. Creep up the road from the junction (~25 units north) and stay out of the camps until you want them; the quest NPCs stand together at the south gate. The GROUP block here is The Dark Iron War 2,450 + A Grim Task 3,350 + the five-quest Lost chain 13,050
 At [TAR1071 Longbraid the Grim] at the south gate, [QT472] [G49.8,18.3 Wetlands]
-[O]At [TAR3180 Dark Iron Entrepreneur] just west of the gate, buy the Dragonslayer's Lance (75 silver) for Alonso's Ashenvale quest 78134 (2,550 XP; Season of Discovery source, unverified on Forever - buy it only if he sells it; chapter 20 hands it in) [G46.6,18.4 Wetlands]
+[O]At [TAR3180 Dark Iron Entrepreneur] just west of the gate, buy the Dragonslayer's Lance (75 silver) for Alonso's Ashenvale quest 78134 (2,550 XP; Season of Discovery source, unverified on Forever - buy it only if he sells it; chapter 20 hands it in) [V] [G46.6,18.4 Wetlands]
 [O]At [TAR1073 Ashlan Stonesmirk], [QT161] - only if A Dark Threat Looms is still in your log from Loch Modan: at level 29 it pays ~135 XP, and do not take the follow-up (it ends at the Loch Modan dam) [G50.0,18.2 Wetlands]
 [O]|cFFFF0000GROUP 3+|r At [TAR1071 Longbraid the Grim], [QA304 A Grim Task] (Balgaras the Foul: 34 ELITE, 4,835 HP in the Classic DB) [G49.8,18.3 Wetlands]
 [O]|cFFFF0000GROUP 3+|r At [TAR1074 Motley Garmason], [QA303 The Dark Iron War] (25 elites: 10 Dwarves, 5 Tunnelers, 5 Saboteurs, 5 Demolitionists) [G49.7,18.2 Wetlands]
@@ -82,7 +82,7 @@ At [TAR1075 Rhag Garmason], [QT632] [QA633 The Thandol Span] [G49.9,18.2 Wetland
 [O]|cFFFF0000GROUP 3+|r At [TAR5683 Comar Villard], [QT88758] - the fixed Essene's Hope neck (+7 Spi) is no warrior stat: wear it only for an empty neck slot [G49.9,12.6 Wetlands]
 
 [OC]|cffffffffArathi hop|r  -  the Thandol Span is 631-633 for 7,500 XP plus 634 for 1,250, and it leads north into Arathi. Everything below is within 45 units of the bridge until the run to Refuge Pointe
-Cross the span into Arathi. Dark Iron Shadowcasters (31-32), Bombardiers (30-31) and a Supplier (all non-elite) stand around the cache: pull them one at a time, casters first. Click the Cache of Explosives [QC633] [G48.8,88 Arathi Highlands]
+Cross the span into Arathi. Dark Iron Shadowcasters (31-32), Bombardiers (30-31) and a Supplier (all non-elite) stand around the cache: pull them one at a time, casters first. Click the Cache of Explosives - the cache is on the ledge under the south end of the span: drop down from the Arathi end [QC633] [G48.8,88 Arathi Highlands]
 [O]The Waterlogged Letter lies 6-7 units from the cache. TUGs reaches it by jumping off the bridge and collecting it next to the dwarf; click it [QA637 Sully Balloo's Letter] (to Sara Balloo in Ironforge, chapter 24: 2,450 XP and a 7,400-XP chain) [G44.3,92.9 Arathi Highlands]
 Walk back over the span. At [TAR1075 Rhag Garmason], [QT633] [QA634 Plea To The Alliance] [G49.9,18.2 Wetlands]
 [OC][A Warrior] |cffffcc00Gear:|r take |cff66ff66Dwarven Guard Cloak|r (cloak +1 Agi +6 Sta)
