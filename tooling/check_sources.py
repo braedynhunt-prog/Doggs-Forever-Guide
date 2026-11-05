@@ -147,6 +147,16 @@ def check_polestar(src):
     return 'INFO', 'upstream differs (local %d lines, upstream %d lines). %s' % (len(loc), len(up), src['notes']), [], src['pull']
 
 
+def check_trainer_costs(src, latest):
+    d = json.load(open(rel(src['path']), encoding='utf-8'))
+    pulled = sorted(v['pulled'] for k, v in d.items() if not k.startswith('_'))
+    build_date = latest[1][:10]
+    head = '%s: %d trainers, oldest pull %s; client build %s of %s' % (src['path'], len(pulled), pulled[0], latest[0], build_date)
+    if pulled[0] < build_date:
+        return 'STALE', head, [], src['pull']
+    return 'OK', head, [], []
+
+
 def main():
     ap = argparse.ArgumentParser(description='Read-only freshness check of the guide data sources.')
     ap.add_argument('--quiet', action='store_true', help='print only non-OK rows')
@@ -167,7 +177,7 @@ def main():
         return run
 
     checks = [('questiedb', check_questiedb), ('client', with_wago(check_client)), ('wowhead_xp', with_wago(check_wowhead)),
-              ('item_tooltips', with_wago(check_item_tooltips)), ('forever_db', check_forever_db),
+              ('item_tooltips', with_wago(check_item_tooltips)), ('trainer_costs', with_wago(check_trainer_costs)), ('forever_db', check_forever_db),
               ('pandaquest_forever', check_pandaquest), ('probe', check_probe), ('polestar', check_polestar)]
     code = 0
     for sid, fn in checks:

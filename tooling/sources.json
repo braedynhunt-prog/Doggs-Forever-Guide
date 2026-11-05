@@ -94,6 +94,19 @@
     "update compare/polestar-0.2.6/README.txt with the new version and pull date, then diff the step order against guide/Guidelime_ForeverWarrior/00s_*.lua and 00t_*.lua"
    ],
    "notes": "Informational only. Order reference for docs/warrior-build-plan-2026-11-01.md Phase 2; quest ids and coordinates in it are verified against tooling/qdb before use."
+  },
+  {
+   "id": "trainer_costs",
+   "path": "tooling/trainer_costs.json",
+   "source": "Forever trainer prices (trainingcost, copper) from the Wowhead Forever NPC pages' teaches-ability / teaches-recipe listviews; read by verify.py --module money",
+   "local_read": "oldest \"pulled\" date of the NPC entries",
+   "upstream": {"method": "browser only (www.wowhead.com returns 403 to a shell)", "read": "stale when the newest wowf build's created_at date is after the oldest pulled date"},
+   "pull": [
+    "open https://www.wowhead.com/forever/npc=258098 in Chrome and, from that tab, fetch('/forever/npc=<id>') for each NPC in the file about 1.3 s apart (about 25 fetches per burst before a 405)",
+    "parse every Listview whose rows carry trainingcost; profession ranks come as name + rank (Cooking, Journeyman) and are stored as \"Journeyman Cooking\" with rank null",
+    "rewrite tooling/trainer_costs.json in its one-row-per-spell layout, then python tooling/verify.py --all"
+   ],
+   "notes": "Pulled 5 Nov 2026: Eldrun Stormbreaker 258098 (shaman, rows to level 40), Gremlock Pilsnor 1699 = Daryl Riknussun 5159 (cooking), Paxton Ganter 1700 = Grimnur Stonebrand 5161 (fishing), Thamner Pol 2326 = Nissa Firestone 5150 (first aid). Weapon masters (Buliwyf Stonehand 11865, Woo Ping 11867) have no training list on Wowhead, so weapon-skill prices stay unverified."
   }
  ]
 }

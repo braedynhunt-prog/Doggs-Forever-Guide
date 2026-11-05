@@ -28,6 +28,7 @@ def to_text(h):
     h = re.sub(r'<br\s*/?>', ' | ', h)
     h = re.sub(r'<div class="whtt-extra', ' | <div class="whtt-extra', h)   # Dropped by / Drop Chance
     h = h.replace('\n', ' | ')
+    h = re.sub(r'<span class="money(gold|silver|copper)">(\d+)</span>', lambda m: m.group(2) + m.group(1)[0], h)   # 5 Nov 2026: keep the unit ("Sell Price: 5s 50c")
     h = re.sub(r'<[^>]+>', '', h)
     return html.unescape(h).replace('\xa0', ' ').strip()
 

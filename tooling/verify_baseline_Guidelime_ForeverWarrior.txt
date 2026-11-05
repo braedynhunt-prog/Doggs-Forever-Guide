@@ -33,3 +33,9 @@ xp  05_Westfall.lua:82  "2,890 XP" matches no quest on the line (136 Captain San
 xp  12_Ashenvale.lua:64  "3,050 XP" matches no quest on the line (1034 The Ruins of Stardust = 1,850)
 xp  15_Stockade.lua:15  "2,000 XP" matches no quest on the line (343 Speaking of Fortitude = 195)
 xp  20_Darnassus.lua:22  "3,050 XP" matches no quest on the line (2925 Klockmort's Essentials = 245)
+money  24_Gnomeregan.lua:55  quest: "3 silver" quoted but 2951 The Sparklematic 5200! has no money in data/zone_*.json
+money  02_LochModan.lua:35  vendor: "1s 30c" for Flint and Tinder: tooltip sell price 33c gives 1s 32c - 1s 35c
+money  19_Wetlands2.lua:54  vendor: no vendor item named "Dragonslayer's Lance" in tooling/qdb/item.json
+money  02_LochModan.lua:34  goldcheck: Gold check: quest money through here is 1g 1s 90c, line says "65-85s"
+money  08_RuinsOfLordaeron.lua:10  goldcheck: Gold check: quest money through here is 3g 67s 65c, line says "3g"
+money  08_RuinsOfLordaeron.lua:10  goldcheck: Gold check: quoted [V]/[T] purchases from chapter 02 to here are 46s 40c, line says "1g 80s"

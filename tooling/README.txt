@@ -72,6 +72,14 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                                    Reads data\zone_*.json (a browser-refreshed zone's row wins; data\quests.json is not used).
                                    Chain / pair totals are skipped: a number whose clause (its parentheses, else ~60 chars
                                    around it) says chain, in all, pair, total, more or about, or contains a lone '+'
+                         money     (5 Nov 2026) every money quote, four sub-checks prefixed in the message:
+                                   quest: a reward on a [QT] line is one quest's data\zone_*.json "money" or the line's sum;
+                                   vendor: "<Item> (<price>[ each][, total])" on [V]/"buy" lines = 4 x the tooltip sell price
+                                   (+0..3c; newest weights\tooltips\*.json); trainer: [T] prices against trainer_costs.json;
+                                   goldcheck: "Gold check" / "quest money so far|by now" lines against the running [QT] money
+                                   and the quoted [V]/[T] purchases from chapter 02, within 15%.
+  trainer_costs.json   (5 Nov 2026) Forever trainer prices per NPC from the Wowhead Forever NPC pages (browser pull;
+                       steps in sources.json). fetch_tooltips.py now keeps money units ("Sell Price: 1s 80c").
                        python tooling\verify.py            -> only findings missing from verify_baseline.txt, exit 1 if any
                        python tooling\verify.py --all      -> everything, grouped by module, NEW marks lines not in the baseline
                        python tooling\verify.py --update-baseline   after Braedyn accepts a finding

@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 r"""Data checks for the Forever Guidelime files (the flow check is check_guide.py; both read guidelib.py).
 
-Modules (python tooling\verify.py [--all] [--module questnpc,tar,gates,xp] [--update-baseline] [--chain Dwarf]):
+Modules (python tooling\verify.py [--all] [--module questnpc,tar,gates,xp,money] [--update-baseline] [--chain Dwarf]):
   questnpc  every [QA]/[QT] line's [TAR] is the quest's starter / finisher in tooling/qdb/quest.json
   tar       every [TAR] exists in npc.json with the written name, and the line's [G x,y Zone] is within 3 units of a DB spawn
             (first [TAR] on the line; later ones only need to be within 15, they are "next to" the first)
   gates     skill-gated steps (recipes, trainer ranks, Camping 101) come after the steps that provide the skill
             (tooling/skill_gates.json: providers = learn / cook-to-N / fish-to-N / Journeyman; gates = min skill, mode)
   xp        every "N XP" on a [QA]/[QT] line is that quest's XP, a level-scaled share (80/60/40/20/10%) or the line's sum (data/zone_*.json)
+  money     every money quote: [QT] rewards (zone data money), vendor prices (4 x tooltip sell price), trainer prices
+            (tooling/trainer_costs.json) and the Gold check lines (running quest money, quoted purchases, 15%)
 Lines on the Dwarf Shaman route only (the Human / Hunter lines are unmaintained since 27 Oct 2026).
 
 Findings are "module  file:line  message". tooling/verify_baseline.txt holds the accepted ones (another addon folder named by
@@ -197,7 +199,426 @@ def check_xp(lines):
             out.append((f, ln, f'"{text} XP" matches no quest on the line ({listing})'))
     return out
 
-MODULES = {'questnpc': check_questnpc, 'tar': check_tar, 'gates': check_gates, 'xp': check_xp}
+# ---------------------------------------------------------------- money
+# Money quotes (5 Nov 2026). Four sub-checks, each finding prefixed with its name:
+#   quest      a reward quote on a [QT] line is one quest's money (data/zone_*.json "money", copper) or the line's sum
+#   vendor     "<Item> (<price>[ each][, <total>])" on [V] / "buy" lines: buy price = 4 x the newest weights/tooltips
+#              sell price, +0..+3 copper; a quoted total = units x unit price
+#   trainer    prices on [T] lines against tooling/trainer_costs.json (pulled per NPC; absent = one finding per line)
+#   goldcheck  "Gold check" / "quest money so far" lines: running [QT] money on the route, and the quoted purchases
+#              (vendor and trainer prices as the guide quotes them, from chapter 02 on) within MONEY_TOL
+TRAINER_COSTS = os.path.join(HERE, 'trainer_costs.json')
+TOOLTIPS_DIR = os.path.join(gl.BASE, 'weights', 'tooltips')
+MONEY_TOL = 0.15
+MONEY_UNIT = {'g': 10000, 's': 100, 'c': 1, 'gold': 10000, 'silver': 100, 'copper': 1}
+_MPART = r'\d+(?:[gsc](?![A-Za-z])|\s+(?:gold|silver|copper)\b)'
+MONEY_TOKEN = re.compile(r'(?<![\w.,\-])(?:(\d+)-)?(' + _MPART + r'(?:\s+' + _MPART + r')*)')
+MONEY_LIST = re.compile(r'(?<![\w.,])(\d+)((?:\s*(?:,|\band\b|\bor\b)\s*\d+)+)\s+(gold|silver|copper)\b')
+COLOUR = re.compile(r'\|c[0-9a-fA-F]{8}|\|r')
+QUEST_MONEY_SKIP = re.compile(r'\bbuy\b|\[V\]|\[T\]|\beach\b|\bcosts\b|\bsheet\b|Gold check|\bper\b|\bfor the\b|\bsell\b|\bvendor\b', re.I)
+NAME_WORD = re.compile(r"[A-Z][\w'\-]*:?$")
+NAME_JOIN = ('and', 'of', 'the', '-')
+SPELL_FILLER = re.compile(r'\b(?:are musts|is a must|musts|a buy|buys|are|then|from \d+)\b')
+LEARN_RANK = re.compile(r'\blearn (?:Apprentice|Journeyman|Expert|Artisan) [A-Z]\w*(?: [A-Z]\w*)? \(')
+LINE_TOTAL = re.compile(r'\b(?:whole page|for the lot|in all|all in)\b')
+OPTIONAL_SEG = 'when gold is easy'
+_QMONEY = None
+
+def money_fmt(c):
+    """Copper -> '1g 2s 30c', zero units dropped."""
+    if not c: return '0c'
+    g, r = divmod(c, 10000); s, cc = divmod(r, 100)
+    return ' '.join(f'{v}{u}' for v, u in ((g, 'g'), (s, 's'), (cc, 'c')) if v)
+
+def money_parts(text):
+    """'1g 80s' / '10 silver' -> copper (the unit parts of one token)."""
+    return sum(int(n) * MONEY_UNIT[u] for n, u in re.findall(r'(\d+)\s*(gold|silver|copper|[gsc])', text))
+
+def money_tokens(line):
+    """[(start, end, text, lo, hi, listed)] for every money amount on a line, positions in the line. A range '65-85s'
+    gives lo < hi; 'N and M silver' gives one token per number, listed = the numbers of that list in order."""
+    s = COLOUR.sub(lambda m: ' ' * len(m.group()), line)
+    out = []; taken = []
+    for m in MONEY_LIST.finditer(s):
+        nums = [m.group(1)] + re.findall(r'\d+', m.group(2)); u = MONEY_UNIT[m.group(3)]
+        vals = [int(n) * u for n in nums]
+        for v in vals: out.append((m.start(), m.end(), s[m.start():m.end()], v, v, vals))
+        taken.append(m.span())
+    for m in MONEY_TOKEN.finditer(s):
+        if any(a <= m.start() < b for a, b in taken): continue
+        hi = money_parts(m.group(2))
+        if m.group(1):
+            first = re.match(r'\d+\s*(gold|silver|copper|[gsc])', m.group(2)).group(1)
+            lo = int(m.group(1)) * MONEY_UNIT[first]
+        else:
+            lo = hi
+        out.append((m.start(), m.end(), s[m.start():m.end()], lo, hi, None))
+    return sorted(out, key=lambda t: t[0]), s
+
+def quest_money():
+    """{quest id: (copper, name)} for quests with money > 0 in data/zone_*.json; browser-refreshed zones win."""
+    global _QMONEY
+    if _QMONEY is None:
+        import glob
+        allq, fresh = {}, {}
+        for p in sorted(glob.glob(os.path.join(gl.BASE, 'data', 'zone_*.json'))):
+            d = json.load(open(p, encoding='utf-8')); fr = bool(d.get('_browser_refresh'))
+            for q in d.get('quests', []):
+                if q['id'] in allq and fresh[q['id']] and not fr: continue
+                allq[q['id']] = (q.get('money') or 0, q.get('name')); fresh[q['id']] = fr
+        _QMONEY = {k: v for k, v in allq.items() if v[0] > 0}
+    return _QMONEY
+
+def _qt_ids(line):
+    ids = []
+    for code, qid, title in gl.quest_tags(line):
+        if code == 'QT' and qid not in ids: ids.append(qid)
+    return ids
+
+def check_money_quest(lines):
+    qm = quest_money(); out = []
+    for f, ln, line, band in lines:
+        ids = _qt_ids(line)
+        if not ids: continue
+        toks, s = money_tokens(line)
+        known = [i for i in ids if i in qm]; missing = [i for i in ids if i not in qm]
+        done_lists = []
+        for a, b, text, lo, hi, listed in toks:
+            clause = _xp_clause(s, a, b)
+            if QUEST_MONEY_SKIP.search(clause) or 'quest money' in clause: continue
+            if listed is not None:
+                if (a, b) in done_lists: continue
+                done_lists.append((a, b))
+                if len(listed) == len(ids):
+                    # "391 and 387 pay 25 and 40 silver": the amounts pair with the [QT] ids in order
+                    for i, v in zip(ids, listed):
+                        if i not in qm:
+                            out.append((f, ln, f'quest: "{money_fmt(v)}" quoted but {i} {gl.qname(i) or "?"} has no money in data/zone_*.json'))
+                        elif qm[i][0] != v:
+                            out.append((f, ln, f'quest: "{money_fmt(v)}" paired with {i} {qm[i][1]}, which pays {money_fmt(qm[i][0])}'))
+                    continue
+                vals = listed
+            else:
+                vals = [lo]
+            for v in vals:
+                if any(qm[i][0] == v for i in known) or (known and v == sum(qm[i][0] for i in known)): continue
+                shown = money_fmt(v) if listed is not None else text
+                if missing:
+                    for i in missing:
+                        out.append((f, ln, f'quest: "{shown}" quoted but {i} {gl.qname(i) or "?"} has no money in data/zone_*.json'))
+                    continue
+                listing = ', '.join(f'{i} {qm[i][1]} = {money_fmt(qm[i][0])}' for i in known)
+                out.append((f, ln, f'quest: "{shown}" matches no quest on the line ({listing})'))
+    return out
+
+# vendor prices: the newest weights/tooltips/*.json, first "Sell Price:" in the tooltip (a recipe's tooltip also
+# carries the taught item's sell price after it). A unit-less sell price ("Sell Price: 25", older pulls) is unknown.
+_TT = None; _ITEMS = None
+def tooltips():
+    global _TT
+    if _TT is None:
+        import glob
+        ps = sorted(glob.glob(os.path.join(TOOLTIPS_DIR, '*.json')))
+        raw = json.load(open(ps[-1], encoding='utf-8')) if ps else {}
+        _TT = {k.lower(): v for k, v in raw.items()}
+    return _TT
+
+def item_by_name():
+    """{lower-case name: [(id, vendors)]} from tooling/qdb/item.json (row 0 name, row 13 vendors)."""
+    global _ITEMS
+    if _ITEMS is None:
+        _ITEMS = {}
+        for k, v in gl.db('item').items():
+            if v and v[0]: _ITEMS.setdefault(v[0].lower(), []).append((k, v[13] if len(v) > 13 else None))
+    return _ITEMS
+
+def sell_price(name):
+    """('ok', copper) / ('nocache', None) / ('nounit', text) / ('none', None) for an item's tooltip sell price."""
+    t = tooltips().get(name.lower())
+    if t is None: return 'nocache', None
+    m = re.search(r'Sell Price:\s*([^|]*)', t.get('tooltip', ''))
+    if not m: return 'none', None
+    txt = m.group(1).strip()
+    pm = re.match(r'((?:\d+[gsc]\s*)+)(?![\w])', txt)
+    if not pm: return 'nounit', txt
+    return 'ok', money_parts(pm.group(1))
+
+def _name_before(s, p):
+    """The item name (run of capitalised words, 'and'/'of'/'the'/'-' inside) ending at s[:p], and a leading count."""
+    words = s[:p].replace('(', ' ( ').split()
+    run = []
+    while words:
+        w = words[-1]
+        if NAME_WORD.match(w) or (run and w in NAME_JOIN): run.insert(0, words.pop())
+        else: break
+    while run and run[0] in NAME_JOIN: words.append(run.pop(0))
+    while run and run[-1] in NAME_JOIN: run.pop()
+    n, counted = 1, False
+    if run and words and re.fullmatch(r'\d+', words[-1]): n, counted = int(words[-1]), True
+    return ' '.join(run), n, counted
+
+def vendor_items(line):
+    """[(name, units, unit price, total or None, token text, form)] for the priced items on a [V] / 'buy' line.
+    form 'paren' = '<Item> (<price>...)', 'bare' = '<Item> <price>' (kept only when the name is a DB item)."""
+    toks, s = money_tokens(line)
+    out = []; used = set()
+    for i, (a, b, text, lo, hi, listed) in enumerate(toks):
+        if i in used or listed is not None or lo != hi: continue
+        before = s[:a]
+        pm = re.search(r'\(\s*$', before)
+        if pm:
+            name, n, counted = _name_before(s, pm.start()); form = 'paren'
+        else:
+            name, n, counted = _name_before(s, a); form = 'bare'
+            if not name or name.lower() not in item_by_name(): continue
+        if not name: continue
+        rest = s[b:]
+        each = bool(re.match(r'\s+each\b', rest))
+        total = None
+        tm = re.match(r'(\s+each)?\s*,\s*$', s[b:toks[i + 1][0]]) if i + 1 < len(toks) else None
+        if tm and form == 'paren':
+            nb = toks[i + 1]
+            after = s[nb[1]:]
+            if re.match(r'(\s+total)?\s*[\);]', after):
+                total = nb[3]; used.add(i + 1)
+        unit = lo if (each or n == 1) else None
+        out.append((name, n, unit, total if total is not None else (None if each or n == 1 else lo), text, form))
+    return out
+
+def check_money_vendor(lines):
+    out = []
+    for f, ln, line, band in lines:
+        if '[T]' in line or 'Gold check' in line: continue
+        if '[V]' not in line and not re.search(r'\bbuy\b', line): continue
+        for name, n, unit, total, text, form in vendor_items(line):
+            ent = item_by_name().get(name.lower())
+            sold = [e for e in (ent or []) if e[1]]
+            if not sold:
+                why = '' if not ent else f' (item {ent[0][0]} has no vendors in the DB)'
+                out.append((f, ln, f'vendor: no vendor item named "{name}" in tooling/qdb/item.json{why}')); continue
+            st, sp = sell_price(name)
+            if st == 'nocache':
+                out.append((f, ln, f'vendor: no tooltip cached for {name}')); continue
+            if st == 'nounit':
+                out.append((f, ln, f'vendor: tooltip sell price for {name} has no units ("Sell Price: {sp}"), "{text}" unchecked')); continue
+            if st == 'none':
+                out.append((f, ln, f'vendor: tooltip for {name} has no sell price, "{text}" unchecked')); continue
+            lo, hi = 4 * sp, 4 * sp + 3
+            if unit is not None:
+                if not lo <= unit <= hi:
+                    out.append((f, ln, f'vendor: "{text}" for {name}: tooltip sell price {money_fmt(sp)} gives {money_fmt(lo)} - {money_fmt(hi)}'))
+                if total is not None and total != unit * n:
+                    out.append((f, ln, f'vendor: total for {n} {name} is quoted {money_fmt(total)} but {n} x {money_fmt(unit)} = {money_fmt(unit * n)}'))
+            elif total is not None and not n * lo <= total <= n * hi:
+                out.append((f, ln, f'vendor: "{text}" for {n} {name}: tooltip sell price {money_fmt(sp)} gives {money_fmt(n * lo)} - {money_fmt(n * hi)} for {n}'))
+    return out
+
+# trainer prices
+_TC = None
+def trainer_costs():
+    global _TC
+    if _TC is None:
+        _TC = json.load(open(TRAINER_COSTS, encoding='utf-8')) if os.path.exists(TRAINER_COSTS) else False
+    return _TC
+
+def _paren_groups(s):
+    """[(start, end)] of the top-level parenthesised groups of s (inside the parentheses)."""
+    out = []; depth = 0; st = None
+    for i, ch in enumerate(s):
+        if ch == '(':
+            if depth == 0: st = i + 1
+            depth += 1
+        elif ch == ')' and depth:
+            depth -= 1
+            if depth == 0: out.append((st, i))
+    return out
+
+def _spell_run(text):
+    """'Fire Nova, Purge, Healing Wave 3 - ' -> [('Fire Nova', None, 'Fire Nova'), ..., ('Healing Wave', 3, 'Healing Wave 3')]."""
+    t = SPELL_FILLER.sub(' ', text).replace(':', ': ').rstrip(' ,-')
+    words = t.split(); run = []
+    while words:
+        w = words[-1]; core = w.rstrip(',')
+        if NAME_WORD.match(core) and not core.endswith(':') or re.fullmatch(r'\d+', core) or core in ('and', 'or', 'of', 'the') or w == ',':
+            run.insert(0, words.pop())
+        else: break
+    while run and run[0].rstrip(',') in ('and', 'or', 'of', 'the') or (run and re.fullmatch(r'\d+,?', run[0])): run.pop(0)
+    out = []
+    for part in re.split(r',|\band\b|\bor\b', ' '.join(run)):
+        part = part.strip()
+        if not part: continue
+        m = re.match(r'(.*?)\s+(\d+)$', part)
+        out.append((m.group(1), int(m.group(2)), part) if m else (part, None, part))
+    return out
+
+def trainer_groups(line):
+    """Parse the prices on a trainer line. Returns (groups, line_totals, unparsed, ntokens):
+    group = {'spells': [(name, rank, raw)], 'each': copper|None, 'price': copper|None (one spell), 'total': copper|None,
+    'text': token text, 'optional': bool}; line_totals = [(copper, text)]; unparsed = [clause]."""
+    toks, s = money_tokens(line)
+    toks = [t for t in toks if not re.match(r'\s+of quest money', s[t[1]:])]
+    groups, line_totals, unparsed = [], [], []
+    pg = _paren_groups(s)
+    seen = set()
+    for ga, gb in pg:
+        inner = [t for t in toks if ga <= t[0] < gb]
+        if not inner: continue
+        seen.update(t[0] for t in inner)
+        clause = s[ga:gb]
+        # top-level ';' segments of the clause (inner parentheses are blanked)
+        flat = ''.join(' ' if ch in '()' else ch for ch in clause)
+        depth = 0; flat2 = list(flat)
+        for i, ch in enumerate(clause):
+            if ch == '(': depth += 1
+            elif ch == ')': depth -= 1
+            elif ch == ';' and depth > 0: flat2[i] = ','
+        flat = ''.join(flat2)
+        pos = 0; first_seg = True
+        for seg in flat.split(';'):
+            sa = ga + pos; pos += len(seg) + 1
+            st = [t for t in inner if sa <= t[0] < sa + len(seg)]
+            if not st: first_seg = False; continue
+            optional = OPTIONAL_SEG in seg
+            prev_end = sa; last_group = None
+            for a, b, text, lo, hi, listed in st:
+                if lo != hi or listed is not None:
+                    unparsed.append(clause); break
+                after = s[b:sa + len(seg)]
+                before_txt = s[prev_end:a]
+                before_txt = ''.join(' ' if ch in '()' else ch for ch in before_txt)
+                each = bool(re.match(r'\s+each\b', after))
+                if LINE_TOTAL.search(before_txt) or LINE_TOTAL.search(after[:20]):
+                    line_totals.append((lo, text)); prev_end = b; continue
+                spells = _spell_run(before_txt)
+                if not spells and first_seg and prev_end == sa:
+                    # "(70 silver each)" / "(10 silver)": the spells stand before the parenthesis on the line
+                    lead = s[:ga - 1]; cut = max(lead.rfind(')'), lead.rfind(']'), lead.rfind(':'))
+                    spells = _spell_run(lead[cut + 1:])
+                if not spells:
+                    if last_group is not None and last_group['each'] is not None and last_group['total'] is None and not each:
+                        last_group['total'] = lo; prev_end = b; continue
+                    unparsed.append(clause); break
+                g = {'spells': spells, 'each': lo if each else None, 'price': None if each else lo, 'total': None,
+                     'text': text + (' each' if each else ''), 'optional': optional}
+                if not each and len(spells) > 1:
+                    unparsed.append(clause); break
+                groups.append(g); last_group = g; prev_end = b
+            first_seg = False
+    for t in toks:
+        if t[0] not in seen:
+            unparsed.append(s[max(0, t[0] - 60):t[1] + 60].strip())
+    return groups, line_totals, list(dict.fromkeys(unparsed)), len(toks)
+
+def _trainer_lines(lines):
+    for f, ln, line, band in lines:
+        if 'Gold check' in line: continue
+        if '[T]' in line or LEARN_RANK.search(line): yield f, ln, line, band
+
+def _find_spell(entry, name, rank):
+    sp = entry.get('spells', []); nl = name.lower()
+    names = {x['name'] for x in sp if x['name'].lower() == nl}
+    if not names:
+        names = {x['name'] for x in sp if x['name'].lower().startswith(nl + ' ')}
+    if len(names) != 1: return None
+    nm = names.pop()
+    for x in sp:
+        if x['name'] == nm and (x.get('rank') == rank or (rank is None and x.get('rank') in (1, None))): return x
+    return None
+
+def check_money_trainer(lines):
+    out = []; tc = trainer_costs()
+    for f, ln, line, band in _trainer_lines(lines):
+        groups, totals, unparsed, ntok = trainer_groups(line)
+        if not ntok: continue
+        if tc is False:
+            out.append((f, ln, f'trainer: no tooling/trainer_costs.json yet ({ntok} prices on the line unchecked)')); continue
+        for u in unparsed:
+            out.append((f, ln, f'trainer: could not parse the trainer prices on this line: {u.strip()}'))
+        tars = gl.tars(line)
+        if not tars:
+            out.append((f, ln, 'trainer: priced trainer line has no [TAR]')); continue
+        nid, nm = tars[0]; entry = tc.get(str(nid))
+        if entry is None:
+            out.append((f, ln, f'trainer: {nm} ({nid}) is not in tooling/trainer_costs.json')); continue
+        tname = entry.get('name') or nm
+        line_sum = 0; line_ok = True
+        for g in groups:
+            costs = []
+            for name, rank, raw in g['spells']:
+                x = _find_spell(entry, name, rank)
+                if x is None or x.get('cost') is None:
+                    out.append((f, ln, f'trainer: spell "{raw}" not taught by {tname}')); costs.append(None); continue
+                costs.append(x['cost'])
+                if g['each'] is not None and x['cost'] != g['each']:
+                    out.append((f, ln, f'trainer: "{g["text"]}" but {raw} costs {money_fmt(x["cost"])}'))
+                if g['price'] is not None and x['cost'] != g['price']:
+                    out.append((f, ln, f'trainer: "{g["text"]}" but {raw} costs {money_fmt(x["cost"])}'))
+            if None in costs: line_ok = False; continue
+            if g['total'] is not None and g['total'] != sum(costs):
+                out.append((f, ln, f'trainer: "{money_fmt(g["total"])}" total but {", ".join(r for _, _, r in g["spells"])} sum to {money_fmt(sum(costs))}'))
+            if not g['optional']: line_sum += sum(costs)
+        for v, text in totals:
+            if line_ok and v != line_sum:
+                names = ', '.join(r for g in groups if not g['optional'] for _, _, r in g['spells'])
+                out.append((f, ln, f'trainer: "{text}" total but {names} sum to {money_fmt(line_sum)}'))
+    return out
+
+def _quoted_purchases(f, line):
+    """What the guide says a [V] / [T] line costs, from its own quoted prices (optional segments left out)."""
+    tot = 0
+    if '[T]' in line or LEARN_RANK.search(line):
+        groups, totals, unparsed, ntok = trainer_groups(line)
+        for g in groups:
+            if g['optional']: continue
+            tot += g['total'] if g['total'] is not None else (g['each'] * len(g['spells']) if g['each'] is not None else g['price'])
+    elif '[V]' in line or re.search(r'\bbuy\b', line):
+        for name, n, unit, total, text, form in vendor_items(line):
+            tot += total if total is not None else unit * n
+    return tot
+
+def _in_tol(v, quoted):
+    return abs(v - quoted) <= MONEY_TOL * quoted
+
+def check_money_goldcheck(lines):
+    qm = quest_money(); out = []
+    done = set(); running = 0; bought = 0; started = False
+    for f, ln, line, band in lines:
+        if os.path.basename(f).startswith('02_'): started = True
+        if 'Gold check' in line or 'quest money so far' in line or 'quest money by now' in line:
+            toks, s = money_tokens(line)
+            qtok = ptok = None
+            for t in toks:
+                if re.search(r'quest money\b[^.;,()]{0,20}$', s[:t[0]]) and qtok is None: qtok = t
+                elif re.match(r'\s+of quest money', s[t[1]:]) and qtok is None: qtok = t
+                elif re.search(r'\b(?:took|costs?)\s+(?:about\s+)?$', s[:t[0]]) and ptok is None: ptok = t
+            if qtok:
+                a, b, text, lo, hi, _ = qtok
+                ok = lo <= running <= hi if lo != hi else _in_tol(running, lo)
+                if not ok:
+                    out.append((f, ln, f'goldcheck: Gold check: quest money through here is {money_fmt(running)}, line says "{text}"'))
+            if ptok:
+                a, b, text, lo, hi, _ = ptok
+                if re.search(r'list below', s[:a][-40:]):
+                    # "The list below costs about 85s": the line itemises the list itself
+                    e1 = s.find('.', b); e2 = s.find('. ', e1 + 1) if e1 != -1 else -1
+                    e2 = len(s) if e2 == -1 else e2
+                    spend = sum(t[3] for t in toks if e1 < t[0] < e2 and t is not qtok)
+                    where = 'the prices listed on the line sum to'
+                else:
+                    spend = bought; where = 'quoted [V]/[T] purchases from chapter 02 to here are'
+                if not _in_tol(spend, lo):
+                    out.append((f, ln, f'goldcheck: Gold check: {where} {money_fmt(spend)}, line says "{text}"'))
+        if started:
+            bought += _quoted_purchases(f, line)
+        for qid in _qt_ids(line):
+            if qid in done: continue
+            done.add(qid); running += qm.get(qid, (0,))[0]
+    return out
+
+def check_money(lines):
+    return check_money_quest(lines) + check_money_vendor(lines) + check_money_trainer(lines) + check_money_goldcheck(lines)
+
+MODULES = {'questnpc': check_questnpc, 'tar': check_tar, 'gates': check_gates, 'xp': check_xp, 'money': check_money}
 
 def main():
     ap = argparse.ArgumentParser()
