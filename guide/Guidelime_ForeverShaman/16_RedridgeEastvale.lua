@@ -27,9 +27,10 @@ At [TAR342 Martie Jainrose] at the west end of town, [QA34 An Unwelcome Guest] (
 Kill [TAR345 Bellygrub] for his tusk - |cff66ff66normal|r (the DB has a single spawn at 10.6,49.3 in the west hills) [QC34] [G10.6,49.3 Redridge Mountains]
 At [TAR342 Martie Jainrose], [QT34] (the reward is a Bouquet of Scarlet Begonias, an off-hand with no stats - vendor it) [G16.8,46.3 Redridge Mountains]
 [OC]|cffffcc00Label - unknown drop rate, optional:|r Rethban Ore (347). The DB names the Redridge Drudgers (level 20-21, 14 spawns) and the tin and copper veins at the mine as sources and gives no rate. One pass of the Drudgers is fair; if five ores have not dropped, leave it - a miner can take the veins instead
+Walk to the mouth of the Rethban Caverns (the Drudgers and veins are inside; entrance position Classic, unverified) [G13.9,25 Redridge Mountains]
 [O]Gather 5 Rethban Ore from the [TAR580 Redridge Drudger] and the veins at the Rethban mine in the north-west corner [QC347] [G14.1,19.3 Redridge Mountains]
 Kill 15 [TAR435 Blackrock Champion] at the north Blackrock camp - |cff66ff66normal|r (level 24-25, 24 spawns around 21-31,6-17, they stand in pairs; the camp's four elite Shadowcasters sit on its east edge at 30.5,8 - stay west of them) [QC128] [G24.8,11.5 Redridge Mountains]
-Bandage to 115: Wool Bandages (orange all the way to 115) from the Stockade and Blackrock cloth until First Aid 115, where Heavy Wool opens at Menethil in chapter 18 (Silk is a 150 recipe, next bracket) [G24.8,11.5 Redridge Mountains]
+Bandage to 115: Wool Bandages (orange all the way to 115) from the Stockade and Blackrock cloth until First Aid 115, where Heavy Wool opens at Menethil in chapter 18 (Silk is a 150 recipe, next bracket) [SK FirstAid 115] [G24.8,11.5 Redridge Mountains]
 [OC]Back down the north road to Lakeshire (~3 minutes). Howe's hand-in waits for the walk out, he is on the road to Three Corners
 
 [OC]|cffffffffLoop 2: Stonewatch Keep, Gar'im, the Tower of Ilgalar and Fangore|r  -  one arc: east along the north shore, south through the keep to the south-east corner, north up the east side, then home along the road. Everything that is not named below (Blackrock Outrunners, Grunts and Renegades 19-22, Shadowhide gnolls 22-26) is a normal pull you can walk around
@@ -43,7 +44,7 @@ Take the road east along the north shore (Alther's Mill is on the way) to the wa
 |cFFFF0000GROUP 2+|r Kill [TAR214519 Incinerator Gar'im] and take the Broken Staff - he is a level 23 elite on Wowhead Forever and in QuestieDB 1.0.10 and wanders the camp: the DB has 122 positions for him between 67-73,79-87, so look around the middle of that patch and clear the Grunts and Outrunners (19-21) as they come [QC95999] [G71.5,84.3 Redridge Mountains]
 Work back north up the east edge, past the foot of Stonewatch Falls, to the Tower of Ilgalar [G76.1,59.6 Redridge Mountains]
 [OC]|cFFFF0000Morganth|r (elite, level 26 in the DB, level 27 on Wowhead Forever): the DB puts a dozen Shadowhide Darkweavers (25-26) and eleven Servants of Ilgalar (24-25) within five units of him in the tower. Pull the outer ones first, never more than two or three at once; the Darkweavers also drop the Glowing Shadowhide Pendant for Theocritus' Retrieval (1,400 XP, see Tower of Azora below)
-|cFFFF0000GROUP 2+|r Kill [TAR397 Morganth] in the Tower of Ilgalar and take the Pendant of Shadow [QC249] [G75.0,49.5 Redridge Mountains]
+|cFFFF0000GROUP 2+|r Kill [TAR397 Morganth] in the Tower of Ilgalar and take the Pendant of Shadow - through the door at the tower base, then up the ramp [QC249] [G75.0,49.5 Redridge Mountains]
 Kill [TAR703 Lieutenant Fangore] for his paw - |cff66ff66normal|r (level 26, not elite, with Shadowhide Warriors 24-25 and Brutes around him) [QC180] [G75.1,37.1 Redridge Mountains]
 [OC]|cffffcc00Item start, luck:|r a Glowing Shadowhide Pendant drops from Fangore and from every Shadowhide gnoll type here (Gnoll, Rabid Gnoll, Brute, Assassin, Warrior, Slayer, Darkweaver). The DB gives no drop rate: right-click it when it drops and keep it for Theocritus, never farm for it
 [OC]Run back west along the north road to Lakeshire (~4 minutes)
@@ -60,7 +61,7 @@ At [TAR903 Guard Howe] on the road to Three Corners, [QT128] [G26.4,57.9 Redridg
 
 [OC]|cffffffffWest into Elwynn|r  -  the road from Three Corners reaches the Eastvale Logging Camp first and the Tower of Azora second; Northshire is the optional last leg
 Follow the road south-west to Three Corners and on into Elwynn (~2 minutes to the border) [G10.2,72.0 Redridge Mountains]
-[OC]|cffffcc00Merchant camp|r is right here (10,72): sell, hand in any Waylaid Supplies to [TAR256389 Tamelyn Aldridge] (10.4,71.4), and if you switched to Leatherworking at 25, buy the Totemic (shaman) / Brawler's (hunter) patterns from [TAR256734 Daniel Stitchsong] (10,72.4) - details in chapter 06
+[OC]|cffffcc00Merchant camp|r is right here (10,72): sell, hand in any Waylaid Supplies to [TAR256389 Tamelyn Aldridge] (10.4,71.4) (filled ore crates: 15-30s each, see chapter 06), and if you switched to Leatherworking at 25, buy the Totemic (shaman) / Brawler's (hunter) patterns from [TAR256734 Daniel Stitchsong] (10,72.4) - details in chapter 06
 At [TAR294 Marshal Haggard] in the Eastvale Logging Camp, [QT74] [QA75 The Legend of Stalvan] [G84.6,69.4 Elwynn Forest]
 Upstairs in his house, open Marshal Haggard's Chest for the Faded Journal Page [QC75] [G85.7,69.5 Elwynn Forest]
 Back with [TAR294 Marshal Haggard], [QT75] [QA78 The Legend of Stalvan] (570 XP: Tavernkeep Smitts in Darkshire, chapter 17) [G84.6,69.4 Elwynn Forest]

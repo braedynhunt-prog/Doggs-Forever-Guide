@@ -12,14 +12,14 @@ At [TAR1480 Caitlin Grassman], [QT95737] [QA95647 Lost in the Thicket Things] (2
 At [TAR1217 Glorin Steelbrow], [QA322 Blessed Arm] (1,200 XP: the Crate of Lightforge Ingots goes to Grimand Elmore in Stormwind, chapter 25) [G10.6,60.6 Wetlands]
 At [TAR2911 Archaeologist Flagongut], [QT942] [QA943 The Absent Minded Prospector] (2,400 XP: the Stone of Relu and Flagongut's Fossil, both on your way to the dungeon; hand in here after the run. 942 was a level-20 quest and pays little now) [G10.8,60.4 Wetlands]
 [OC]|cffffcc00Label (943):|r the fossil is one click beside Whelgar (|cff66ff66normal|r); the stone drops from the four raptor types of the valley and dig site and |cffffcc00the DB gives no rate|r - kill the ones you pass and take what comes; no stone after the run, skip the hand-in. The rewards (Relic Blade, Skullchipper, Archaeologist's Gown) are item-level 20: vendor all three
-[O]|cffffcc00Food for the run:|r cook a stack of Mithril Head Trout (+20 attack power) if Cooking is 175, otherwise Succulent Pork Ribs / Longjaw; while the group forms, fish off the dock for more trout ([TAR3178 Stuart Fleming] at 8.0,58.4: Nightcrawlers) [G8.0,58.4 Wetlands]
+[OC]|cffffcc00Food for the run:|r cook a stack of Mithril Head Trout (+20 attack power) if Cooking is 175, otherwise Succulent Pork Ribs / Longjaw; while the group forms, fish off the dock for more trout ([TAR3178 Stuart Fleming] at 8.0,58.4: Nightcrawlers)
 [A Hunter] At [TAR1462 Edwina Monzor] the fletcher, buy 600+ of your level-25 ammo for the run (the gunsmith [TAR1461 Murndan Derth] sells bullets) [G11.1,58.3 Wetlands]
 [OC]Food and water from the general vendor [TAR1452 Gruham Rumdnul] (12.1,58.0), repairs at [TAR1450 Brahnmar] (11.5,59.9), then empty your bags
 
 [OC]|cffffffffThe dig site|r  -  the road east and down into the valley, the same 3-minute walk as chapter 18. Raptors are level 22-29 and safe; the Goaz Warders (level 32 elites) look like statues that only wake with a Goaz Stone (chapter 18)
 Follow the road east to the turn-off above the dig site [G34.1,40.8 Wetlands]
-Kill [TAR1022 Mottled Scytheclaw] and [TAR1023 Mottled Razormaw] on the way down for the Stone of Relu (the Mottled Raptors and Screechers west of here drop it too) [G34.1,48.2 Wetlands]
-Cook to 175: at your campfire by Whelgar's tents, cook Curiously Tasty Omelets until Cooking 175 - the Mottled raptors you kill on this walk and the Stone of Relu kills all drop Raptor Eggs (34-40% on Wowhead Forever: take what falls, no farming). At 175 the Recipe: Mithril Head Trout from chapter 9 opens (+20 attack power, you are 29-30) [G38.8,52.4 Wetlands]
+Kill [TAR1022 Mottled Scytheclaw] and [TAR1023 Mottled Razormaw] on the way down for the Stone of Relu (the Mottled Raptors and Screechers west of here drop it too) [QC943,1] [G34.1,48.2 Wetlands]
+Cook to 175: at your campfire by Whelgar's tents, cook Curiously Tasty Omelets until Cooking 175 - the Mottled raptors you kill on this walk and the Stone of Relu kills all drop Raptor Eggs (34-40% on Wowhead Forever: take what falls, no farming). At 175 the Recipe: Mithril Head Trout from chapter 9 opens (+20 attack power, you are 29-30) [SK Cooking 175] [G38.8,52.4 Wetlands]
 At [TAR1077 Prospector Whelgar], [QA98313 For Further Study] (the Whelgar Relic Package goes to Historian Karnik in Ironforge, chapter 24; its XP is not in the DB) [G38.8,52.4 Wetlands]
 Click Flagongut's Fossil lying beside Whelgar [QC943] [G38.9,52.2 Wetlands]
 [OC]Prehistoric Prism (98824) is the follow-up to Lost Relic Carry (kami-labs and the article call it step 2 of 2, unverified), so Whelgar offers it after the run, below. If he already offers it now, take it and skip the later accept
@@ -66,7 +66,7 @@ At [TAR2911 Archaeologist Flagongut], [QT943] [G10.8,60.4 Wetlands]
 
 [OC][A Shaman] |cffffffffShaman: Norric, the Forgotten Shrine and the Water Totem|r  -  Call of Water finishes in Loch Modan and Westfall (94501 460 XP, 94502 1,400 XP, 94503 + 94505 2,935 XP at quest level, plus the 1,400 you took at Hervdana). Flights and a hearth, no walking in the Wetlands
 [A Shaman] At [TAR1571 Shellei Brondir], |cFFfff8a3Fly to [F Ironforge]|r [G9.5,59.7 Wetlands]
-[O][A Shaman] At [TAR258098 Eldrun Stormbreaker] in the Forlorn Cavern, [T] train your level 30 spells if you are 30 [G47.1,13.8 Ironforge]
+[O][A Shaman] At [TAR258098 Eldrun Stormbreaker] in the Forlorn Cavern, [T] train your level 30 spells if you are 30 (sheet: Windfury Weapon, Reincarnation, Astral Recall are musts, Searing Totem 3, Grounding Totem, Call of the Ancestors buys - 70s each, 4g 20s; Healing Stream 2 (70s) when gold is easy; about 14g of quest money by now) [G47.1,13.8 Ironforge]
 [A Shaman] At [TAR1573 Gryth Thurden], |cFFfff8a3Fly to [F Thelsamar]|r [G55.5,47.7 Ironforge]
 [A Shaman] Run up the west road to the north end of the loch (about 4 minutes) and at [TAR258043 Norric Lochthane], [QT94501] [QA94502 Call of Water] (the reward is the Water Sapta, which lets you see elemental spirits) [G41.8,19.1 Loch Modan]
 [A Shaman] |cFFfff8a3Hearth to [H Sentinel Hill]|r

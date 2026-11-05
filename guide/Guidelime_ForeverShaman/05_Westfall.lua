@@ -10,7 +10,7 @@ At [TAR6579 Shoni the Shilent], [QT2041] [QA2040 Underground Assault] (Deadmines
 [O][A Hunter] The Dwarven District is hunter country: [TAR5515 Einris Brightspear], Ulfir Ironbeard and Thorfin Stoneshield are hunter trainers (67.3,36.3), [TAR2879 Karrina Mekenda] next to them trains pets, and [TAR5510 Thulman Flintcrag] (62,36.6) sells Heavy Shot; in Westfall, Quartermaster Lewis on Sentinel Hill (57,47.2) sells shot and arrows too [G67.3,36.3 Stormwind City]
 [OC]Sprite Jumpsprocket at 61.9,30.6 (Dwarven District) is Alba Fairmoon's engineer - you come back to him with the Westfall quest later
 [OC]Run south through the Trade District to the main gate
-[O]At the Auction House in the Trade District, buy 10 Coarse Dynamite if you have not - needed for A Dynamite Plan (Alba Fairmoon chain, ~2,900 XP total) [G61.1,70.7 Stormwind City]
+[O]At the Auction House in the Trade District, buy 10 [CI4365,10 Coarse Dynamite] if you have not - needed for A Dynamite Plan (Alba Fairmoon chain, ~2,900 XP total) [G61.1,70.7 Stormwind City]
 At flightmaster [TAR352 Dungar Longdrink] on the gate ramp, get the [P Stormwind] flightpoint [G71.0,72.5 Stormwind City]
 [OC]Leave through the Valley of Heroes, follow the road south then west through Elwynn to Westfall
 [O]In Goldshire at [TAR514 Smith Argus], [QA1097 Elmore's Task] - 105 XP now and a 1,050 XP Loch Modan delivery later (Grimand Elmore is in the Dwarven District, hand it in on the Deadmines trip) [G41.7,65.5 Elwynn Forest]
@@ -71,7 +71,7 @@ At [TAR253092 Alba Fairmoon], [QT92742] [QT92744] [QA92745 The State of the Mine
 [OC]|cffffffffLevel 18 - South loop|r  -  one big clockwise circuit: Defias fields, Moonbrook, the lighthouse, up Longshore, the north beach, back east
 [OC]Run west then south along the road toward Moonbrook
 Kill 15 [TAR589 Defias Pillager] and 15 [TAR590 Defias Looter] in the fields north of Moonbrook [QC13] [G38.5,60 Westfall]
-Bandage to 80: keep making Heavy Linen from the Defias cloth until First Aid 80 (green from 75, so the last few points are slow), and bank every Wool Cloth for the Wool Bandage at 80 (Goldshire, chapter 10; which cloth the Moonbrook and Deadmines Defias drop is unverified) [G38.5,60 Westfall]
+Bandage to 80: keep making Heavy Linen from the Defias cloth until First Aid 80 (green from 75, so the last few points are slow), and bank every Wool Cloth for the Wool Bandage at 80 (Goldshire, chapter 10; which cloth the Moonbrook and Deadmines Defias drop is unverified) [SK FirstAid 80] [G38.5,60 Westfall]
 [O]|cff66ff66Ongoing:|r loot Red Leather Bandanas from every Defias for 15 [QC153]
 [OC]Moonbrook is Defias town - level 15-18 humanoids, pull carefully
 [O]In the barn on the south side of Moonbrook at the [TAR249713 Odd Child], [QA92109 My First Alchemy Set] - only if you can get 5 Empty Vials (any alchemy vendor), 5 Silverleaf and 5 Peacebloom; then [QT92109] [QA92110 My First Real Potion] (3 Murloc Eyes) and [QT92110] - 840 XP for a herbalist [G41.2,79 Westfall]

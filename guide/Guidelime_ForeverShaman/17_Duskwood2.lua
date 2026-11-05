@@ -68,6 +68,7 @@ At [TAR289 Abercrombie], [QT159] [QA133 Ghoulish Effigy] [G28.1,31.5 Duskwood]
 Kill [TAR604 Plague Spreader] (20) and loot 7 Ghoul Ribs from any of the ghouls [QC58] [QC133] [G24.5,34.8 Duskwood]
 At [TAR289 Abercrombie], [QT133] [QA134 Ogre Thieves] [G28.1,31.5 Duskwood]
 [OC]Ogre Thieves (134): Abercrombie's Crate sits in the Vul'Gol ogre camp, 45 units south (Splinter Fist ogres: Fire Weavers 26-27 are casters, Taskmasters 27-28, Warriors 29-30). |cff66ff66normal|r, but it is a camp - pull singly and do not run through it
+Walk to the mouth of the Vul'Gol Ogre Mound cave (entrance position Classic, unverified) [G33.5,76.5 Duskwood]
 Loot Abercrombie's Crate in the ogre camp [QC134] [G33.4,76.3 Duskwood]
 [O]If you hold Merrick's Bow, right-click it [QA96138 Merrick's Bow] and kill 8 Splinter Fist Warriors and 4 Splinter Fist Taskmasters right here [QC96138] [G35.3,79.3 Duskwood]
 [O]If you hold Ira's Dagger, right-click it [QA96137 Ira's Dagger] - 2,000 XP, but |cffffcc00extra farming|r: 10 Young Black Ravagers and 7 Black Ravagers, spiders (level 23-25) spread over the zone. The kills wait for town: the north-east group (64-70,25-35) has both kinds and is ~18 units from Darkshire [G33.4,76.3 Duskwood]

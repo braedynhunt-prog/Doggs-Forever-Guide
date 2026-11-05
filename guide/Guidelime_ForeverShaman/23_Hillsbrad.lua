@@ -11,7 +11,7 @@ Guidelime.registerGuide([[
 At [TAR2228 Lieutenant Farren Orinelle], [QT98219] [QA536 Down the Coast] (1,850 XP, requires level 25: 10 Torn Fin Tidehunters and 10 Torn Fin Oracles on the Western Strand, |cff66ff66normal|r. If you never got The Shamed Lieutenant in Stormwind, just accept Down the Coast) [G51.5,58.4 Hillsbrad Foothills]
 At [TAR2705 Brewmeister Bilger], [QA98071 Brewer's Trade] (2,200 XP, requires level 23: he hands you a Case of Fallrook Varietal to carry to Dun Garok in the south-east and asks for a sack of Homebrew Hops back - a pure delivery, |cff66ff66normal|r) [G52.1,58.7 Hillsbrad Foothills]
 At [TAR2430 Chef Jessen], [QA555 Soothing Turtle Bisque] (2,500 XP, requires level 28: 10 Turtle Meat from the Snapjaws along the river east of town plus some Soothing Spices - |cffffcc00grind warning:|r the DB gives no drop rate and only 16 Snapjaws stand in the zone, 7 of them close to town; budget ~10 minutes, then give it up) [G51.9,58.7 Hillsbrad Foothills]
-At [TAR2381 Micha Yance], buy 2 Soothing Spices for the bisque (the DB gives no count; she also sells Fine Thread) [G48.9,55.0 Hillsbrad Foothills]
+At [TAR2381 Micha Yance], buy 2 Soothing Spices (1s 60c each) for the bisque (the DB gives no count; she also sells Fine Thread) [V] [G48.9,55.0 Hillsbrad Foothills]
 At [TAR247264 Emissary Jacques] of the Kirin Tor, [QA92432 An Alarming Request] (660 XP, requires level 30: report to the Image of Archmage Modera near the City of Dalaran, on the Silverpine shore of Lordamere at 68.6,45.2) - carry to 30-40: the City of Dalaran run is in the next guide, so it rides in the log [G48.3,60 Hillsbrad Foothills]
 [O][A Hunter] At [TAR3541 Sarah Raycroft] next to her, restock ammo (Razor Arrow or Solid Shot, 400+) for the coast loops and Gnomeregan [G49.1,55.1 Hillsbrad Foothills]
 
@@ -39,13 +39,14 @@ At [TAR2705 Brewmeister Bilger], [QT98071] - |cffffcc00Gear:|r Brewer's Bracers 
 Kill [TAR2408 Snapjaw] along the river bank east of town for 10 Turtle Meat (the Soothing Spices you bought are the other half) [QC555] [G55.9,54.0 Hillsbrad Foothills]
 [O]No meat after ~10 minutes (16 Snapjaws in the whole zone, slow respawn): give it up and abandon the bisque [QS555]
 At [TAR2430 Chef Jessen], [QT555] (the reward is the Soothing Turtle Bisque recipe and one bisque; the recipe needs Cooking 175, same as the trout - keep it) [G51.9,58.7 Hillsbrad Foothills]
-[O]|cffffcc00Trout check:|r by now you should be Expert and near Cooking 175 - cook your banked Raw Mithril Head Trout the moment you are (+20 attack power, 15 min). Short on fish? [TAR2383 Lindea Rabonne] on the Southshore dock sells Nightcrawlers and the trout recipe, and the river east of town (your turtle bank) is trout water at ~130 Fishing: fish it while you wait on Snapjaw respawns [G50.6,61.0 Hillsbrad Foothills]
+[OC]|cffffcc00Trout check:|r by now you should be Expert and near Cooking 175 - cook your banked Raw Mithril Head Trout the moment you are (+20 attack power, 15 min). Short on fish? [TAR2383 Lindea Rabonne] on the Southshore dock sells Nightcrawlers and the trout recipe, and the river east of town (your turtle bank) is trout water at ~130 Fishing: fish it while you wait on Snapjaw respawns
 
 [OC]|cffffffffExtras|r  -  the core quests are done (~14,000 XP). Everything from here to the shaman's walk is optional and each block takes its own pickup, so take one and skip the rest
 [O]At [TAR2277 Loremaster Dibbs], [QT538] (710 XP - only if you took Southshore from Milton Sheaf in chapter 18; he then offers Preserving Knowledge, the group block below) [G50.6,57.1 Hillsbrad Foothills]
 [OC]|cffffcc00Yeti Fur cloak:|r 2,700 XP and a good cloak, but |cffffcc00you must supply two crafted items|r. Skip it unless you can buy both
 [O]At [TAR2438 Bartolo Ginsetti], [QA565 Bartolo's Yeti Fur Cloak] (2,700 XP, requires level 29: a Bolt of Woolen Cloth (Tailoring, or fished from the Schooner Wreckage pools off Southshore), a Hillman's Cloak (Leatherworking 150), Fine Thread and 10 Yeti Fur; buy the two crafted items on the Auction House - sources per warcraft.wiki.gg, Classic-era, unverified on Forever) [G49.4,55.5 Hillsbrad Foothills]
-[O]At [TAR2381 Micha Yance], buy Fine Thread [G48.9,55.0 Hillsbrad Foothills]
+[O]At [TAR2381 Micha Yance], buy Fine Thread [V] [G48.9,55.0 Hillsbrad Foothills]
+Walk to the mouth of the yeti cave (entrance position Classic, unverified) [G45,33 Hillsbrad Foothills]
 [O]Walk north to the yeti hill and kill [TAR2248 Cave Yeti] and the Ferocious Yetis among them (level 30-32, ~34 spawns, |cff66ff66normal|r) for 10 Yeti Fur [QC565] [G44.6,31.2 Hillsbrad Foothills]
 [O]At [TAR2438 Bartolo Ginsetti], [QT565] - |cffffcc00Gear:|r Yeti Fur Cloak (23 armor, +3 Str +6 Agi) is the fixed reward: wear it unless your cloak is better [G49.4,55.5 Hillsbrad Foothills]
 [OC]|cffffcc00Syndicate Assassins:|r 1,950 XP but far: only 11 Footpads and 12 Thieves stand in the DB for 20 kills, in the south of the Alterac Mountains, and Classic sources put the Syndicate camp north of Horde-held Tarren Mill (the DB gives no route). Take it only if you will run past the town

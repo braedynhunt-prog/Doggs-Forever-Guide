@@ -29,6 +29,7 @@ Open the Defias Strongbox and take the Defias Docket [QC1244] [G23.9,72.1 Duskwo
 At [TAR311 Sven Yorgen] in his camp, [QT325] (590 XP) [G7.8,34.1 Duskwood]
 [O]|cFFFF0000GROUP 3+|r At [TAR311 Sven Yorgen], [QA55 Morbent Fel] (3,850 XP) [G7.8,34.1 Duskwood]
 [OC]|cFFFF0000GROUP 3+|r |cffffcc00Morbent Fel|r is a level 32 elite (~3,609 HP in the Classic DB) in his house on the Forlorn Rowe, 9 units east of Sven. Classic sources: Presence of Death (a 2-second stun/fear), Touch of Death (drains health and heals him) and Unholy Shield; Morbent's Bane (the staff Armed and Ready gave you) must be USED on him to strip the shield, or he is very hard to hit and the kill will not count. Unverified on Forever
+Walk to the crypt door at the top of Raven Hill Cemetery (Morbent Fel is inside; door position Classic, unverified) [G17,35 Duskwood]
 [O]|cFFFF0000GROUP 3+|r Use Morbent's Bane on [TAR1200 Morbent Fel], then kill him [QC55] [G16.9,33.4 Duskwood]
 [O]At [TAR311 Sven Yorgen], [QT55] [G7.8,34.1 Duskwood]
 [OC][A Shaman] |cffffcc00Gear (55):|r the fixed Torch of Holy Flame is an off-hand (vendor it, you carry a two-hander). Choose the |cff66ff66Watch Master's Cloak|r (+7 Sta) if your cloak is plainer; Night Watch Pantaloons (cloth legs +9 Sta +8 Int) only if your legs have no stats; Sparkmetal Coif is MAIL: pass until 40
@@ -69,7 +70,7 @@ At [TAR482 Elling Trias], [QT1247] [QA1248 The Missing Diplomat] (660 XP; goes t
 [OC][A Shaman] Storm, Earth, and Fire (79358) is also offered by Veyric: 20 twisted totems from four zones at level 36-41 (Badlands, Desolace, Swamp of Sorrows, Dustwallow). Not for this guide; its Horde copy (79361) starts at Bath'rah
 [OC][A Shaman] |cffffcc00Go'Shek Farm:|r if you took Hints of a New Plague? (659) in Southshore, Quae stands 26 units south of Veyric and 14 east of Refuge Pointe, on the way back to the flight master. Hammerfall Grunts (34-35) and Peons mill around the farm and hate Alliance: stay on the road in Ghost Wolf. Quae then offers 658 (2,800 XP: a Sealed Folder from the Forsaken Courier, then 657, 660 and 661, which ends at Phin Odelic in Southshore); that is 30+ content, leave it
 [O][A Shaman] At [TAR2712 Quae] at Go'Shek Farm, [QT659] (1,300 XP) [G60.2,53.9 Arathi Highlands]
-[A Shaman] Walk west past Refuge Pointe to Stromgarde Keep and at [TAR2805 Deneb Walker] in the Alliance-held quarter, [V] buy Expert First Aid - Under Wraps and read it (First Aid 125, cap 225 - verified); take the Manual: Heavy Silk Bandage too if you want it at 180. Stay in the north-west quarter: the rest of the keep is Syndicate and Boulderfist ogres (Classic, unverified) [G27.0,58.8 Arathi Highlands]
+[A Shaman] Walk west past Refuge Pointe to Stromgarde Keep and at [TAR2805 Deneb Walker] in the Alliance-held quarter, [V] buy Expert First Aid - Under Wraps (1g) and read it (First Aid 125, cap 225 - verified); take the Manual: Heavy Silk Bandage (22s) too if you want it at 180. Stay in the north-west quarter: the rest of the keep is Syndicate and Boulderfist ogres (Classic, unverified) [G27.0,58.8 Arathi Highlands]
 [A Shaman] At [TAR2835 Cedrik Prose], |cFFfff8a3Fly to [F Stormwind]|r [G45.7,46.1 Arathi Highlands]
 
 [OC]|cffffffffBefore the harbour|r  -  both of you in Stormwind; the next chapter leaves from the harbour. Buy food and water for the Kraul, repair, empty your bags

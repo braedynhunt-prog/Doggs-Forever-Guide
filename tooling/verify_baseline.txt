@@ -3,17 +3,17 @@ questnpc  01b_DunMorogh.lua:88  [QA311] Return to Marleth: starter in the DB is 
 questnpc  03_HallOfThanes.lua:32  [QA96395] An Ancient Grudge: DB lists no starter at all; line has [TAR265002 Ghostly Attendant]
 questnpc  03_HallOfThanes.lua:39  [QT96395] An Ancient Grudge: DB lists no finisher at all; line has [TAR265002 Ghostly Attendant]
 questnpc  05_Westfall.lua:58  [QA92910] Harvesting the Harvesters: starter in the DB is item 255155; line has [TAR253395 Ozwin Ironsprocket] (fine if the TAR is just the nearby NPC)
-questnpc  08_RuinsOfLordaeron.lua:39  [QA95250] Abominable Creatures: DB lists no starter at all; line has [TAR265701 Captain Truman]
-questnpc  08_RuinsOfLordaeron.lua:51  [QT95250] Abominable Creatures: DB lists no finisher at all; line has [TAR265701 Captain Truman]
-questnpc  09_LochModanMenethil.lua:100  [QT290] Lifting the Curse: finisher in the DB is object 112948 Intrepid's Locked Strongbox; line has [TAR1160 Captain Halyndor] (fine if the TAR is just the nearby NPC)
-questnpc  09_LochModanMenethil.lua:100  [QA292] The Eye of Paleth: starter in the DB is object 112948 Intrepid's Locked Strongbox; line has [TAR1160 Captain Halyndor] (fine if the TAR is just the nearby NPC)
-questnpc  10_Redridge2.lua:59  [QA249] Morganth: no [TAR] on the line; DB starter: 313 Theocritus; or object 31 Old Lion Statue
+questnpc  08_RuinsOfLordaeron.lua:40  [QA95250] Abominable Creatures: DB lists no starter at all; line has [TAR265701 Captain Truman]
+questnpc  08_RuinsOfLordaeron.lua:52  [QT95250] Abominable Creatures: DB lists no finisher at all; line has [TAR265701 Captain Truman]
+questnpc  09_LochModanMenethil.lua:102  [QT290] Lifting the Curse: finisher in the DB is object 112948 Intrepid's Locked Strongbox; line has [TAR1160 Captain Halyndor] (fine if the TAR is just the nearby NPC)
+questnpc  09_LochModanMenethil.lua:102  [QA292] The Eye of Paleth: starter in the DB is object 112948 Intrepid's Locked Strongbox; line has [TAR1160 Captain Halyndor] (fine if the TAR is just the nearby NPC)
+questnpc  10_Redridge2.lua:56  [QA249] Morganth: no [TAR] on the line; DB starter: 313 Theocritus; or object 31 Old Lion Statue
 questnpc  11_Darkshore.lua:77  [QA98042] It's All Fun and Games Until...: starter in the DB is object 12666 Twilight Tome; line has [TAR2338 Twilight Disciple] (fine if the TAR is just the nearby NPC)
-questnpc  11_Darkshore.lua:106  [QA98028] Baron Marinous: starter in the DB is item 279275; line has [TAR270294 Baron Marinous] (fine if the TAR is just the nearby NPC)
-questnpc  14_Duskwood.lua:76  [QA98447] The Valor Family: quest not in the Forever DB (not checkable)
-questnpc  16_RedridgeEastvale.lua:70  [QA178] Theocritus' Retrieval: starter in the DB is item 1962; line has [TAR313 Theocritus] (fine if the TAR is just the nearby NPC)
-questnpc  17_Duskwood2.lua:73  [QA96137] Ira's Dagger: no [TAR] on the line; DB starter: 6176 Bath'rah the Windwatcher; or item 281143
-questnpc  17_Duskwood2.lua:86  [QT98447] The Valor Family: quest not in the Forever DB (not checkable)
+questnpc  11_Darkshore.lua:107  [QA98028] Baron Marinous: starter in the DB is item 279275; line has [TAR270294 Baron Marinous] (fine if the TAR is just the nearby NPC)
+questnpc  14_Duskwood.lua:78  [QA98447] The Valor Family: quest not in the Forever DB (not checkable)
+questnpc  16_RedridgeEastvale.lua:71  [QA178] Theocritus' Retrieval: starter in the DB is item 1962; line has [TAR313 Theocritus] (fine if the TAR is just the nearby NPC)
+questnpc  17_Duskwood2.lua:74  [QA96137] Ira's Dagger: no [TAR] on the line; DB starter: 6176 Bath'rah the Windwatcher; or item 281143
+questnpc  17_Duskwood2.lua:87  [QT98447] The Valor Family: quest not in the Forever DB (not checkable)
 questnpc  22_ExcavationSite.lua:46  [QT95647] Lost in the Thicket Things: DB lists no finisher at all; line has [TAR262681 Ardin Grassman]
 questnpc  22_ExcavationSite.lua:46  [QA95809] Heartwoven: DB lists no starter at all; line has [TAR262681 Ardin Grassman]
 questnpc  22_ExcavationSite.lua:60  [QA95810] Lost Relic Carry: starter in the DB is item 270865; line has [TAR1077 Prospector Whelgar] (fine if the TAR is just the nearby NPC)
@@ -24,17 +24,17 @@ tar  06_Redridge.lua:40  Redridge Mongrel [G24.9,76.0] is 5.2 from the nearest s
 tar  06_Redridge.lua:52  Redridge Brute [G23.9,33.0] is 4.9 from the nearest spawn 19.0,32.6
 tar  06_Redridge.lua:55  Murloc Flesheater [G46.9,61.0] is 3.4 from the nearest spawn 50.2,61.7
 tar  08_RuinsOfLordaeron.lua:9  Maris Granger [G59.2,37.8] is 27.6 from the nearest spawn 72.1,62.2 (secondary TAR, 15-unit limit)
-tar  08_RuinsOfLordaeron.lua:56  Lady Dena Kennedy (15991) has no spawn in Stormwind City (no spawn data in the DB at all)
+tar  08_RuinsOfLordaeron.lua:57  Lady Dena Kennedy (15991) has no spawn in Stormwind City (no spawn data in the DB at all)
 tar  17_Duskwood2.lua:27  Rabid Dire Wolf [G27.7,31.1] is 5.7 from the nearest spawn 33.1,29.4
 tar  22_ExcavationSite.lua:75  Minor Manifestation of Water (5895) has no spawn in Westfall (spawns in zones ['130'])
-tar  24_Gnomeregan.lua:67  Kernobee (7850) has no spawn in Dun Morogh (no spawn data in the DB at all)
+tar  24_Gnomeregan.lua:68  Kernobee (7850) has no spawn in Dun Morogh (no spawn data in the DB at all)
 tar  26_RazorfenKraul.lua:74  Willix the Importer (4508) has no spawn in The Barrens (no spawn data in the DB at all)
 gates  01b_DunMorogh.lua:15  Camping 101: Cooking needs Cooking 1 but the route has not learned Cooking yet
 gates  01b_DunMorogh.lua:16  Camping 101: Fishing needs Fishing 1 but the route has not learned Fishing yet [conditional step]
 gates  01b_DunMorogh.lua:16  Camping 101: First Aid needs First Aid 1 but the route has not learned First Aid yet [conditional step]
-gates  02_LochModan.lua:62  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 20 so far (last target: Fishing 20 at 01b_DunMorogh.lua:63) [conditional step] [gate value unverified on Forever]
-gates  03_HallOfThanes.lua:16  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 40 so far (last target: Fishing 40 at 02_LochModan.lua:76) [conditional step] [gate value unverified on Forever]
-gates  09_LochModanMenethil.lua:102  Recipe: Crocolisk Gumbo needs Cooking 120; the route has only asked for Cooking 110 so far (last target: Cooking 110 at 02_LochModan.lua:121) [conditional step]
+gates  02_LochModan.lua:63  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 20 so far (last target: Fishing 20 at 01b_DunMorogh.lua:63) [conditional step] [gate value unverified on Forever]
+gates  03_HallOfThanes.lua:16  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 40 so far (last target: Fishing 40 at 02_LochModan.lua:77) [conditional step] [gate value unverified on Forever]
+gates  09_LochModanMenethil.lua:104  Recipe: Crocolisk Gumbo needs Cooking 120; the route has only asked for Cooking 110 so far (last target: Cooking 110 at 02_LochModan.lua:123) [conditional step]
 xp  05_Westfall.lua:83  "2,890 XP" matches no quest on the line (136 Captain Sander's Hidden Treasure = 580)
 xp  12_Ashenvale.lua:65  "3,050 XP" matches no quest on the line (1034 The Ruins of Stardust = 1,850)
 xp  15_Stockade.lua:12  "2,000 XP" matches no quest on the line (343 Speaking of Fortitude = 195)

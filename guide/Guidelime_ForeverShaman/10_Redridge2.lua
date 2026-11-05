@@ -9,15 +9,12 @@ Guidelime.registerGuide([[
 At [TAR523 Thor], |cFFfff8a3Fly to [F Stormwind]|r [G56.5,52.6 Westfall]
 [O][A Hunter] At [TAR5515 Einris Brightspear] in the Dwarven District, [T] train your level 22 spells [G67.3,36.3 Stormwind City]
 [O][A Hunter] Next door at [TAR5510 Thulman Flintcrag], buy 600 Heavy Shot for the long loops below [G62.0,36.6 Stormwind City]
-[O][A Shaman] There is no shaman trainer in Stormwind: if you are 22 and want the rank-ups now, take the tram to Ironforge (otherwise they wait for chapter 11) [G73.8,49.2 Stormwind City]
-[O][A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 22 spells [G47.1,13.8 Ironforge]
-[O][A Shaman] Tram back to Stormwind [G76.5,51.5 Ironforge]
 [OC]Take the road out of the gate to Goldshire, then on to the Tower of Azora and the Redridge border. Two quest stops on the way
 At [TAR514 Smith Argus] at the Goldshire blacksmith, [QT118] [QA119 Return to Verner] (the Crate of Horseshoes goes back to Verner in Lakeshire) [G41.7,65.5 Elwynn Forest]
-At [TAR2329 Michelle Belle] in the Lion's Pride Inn, learn Wool Bandage (First Aid 80, 1 Wool Cloth each) and Journeyman First Aid if you still lack it [G43.4,65.6 Elwynn Forest]
+At [TAR2329 Michelle Belle] in the Lion's Pride Inn, learn Wool Bandage (First Aid 80, 1 Wool Cloth each) and Journeyman First Aid if you still lack it [T] [G43.4,65.6 Elwynn Forest]
 At the Tower of Azora at [TAR313 Theocritus], [QA94 A Watchful Eye] (take the Glyph of Azora to the Old Lion Statue in eastern Redridge - chapter 16 hands Morganth in here) [G65.2,69.7 Elwynn Forest]
 Run east along the road into Redridge: Three Corners [G10.2,72.0 Redridge Mountains]
-[OC]|cffffcc00Merchant camp|r is right here (10,72): sell, hand in any Waylaid Supplies to [TAR256389 Tamelyn Aldridge] (10.4,71.4), and only if you already have 4+ Pristine Leather and are switching to Leatherworking, buy the Totemic (shaman) / Brawler's (hunter) patterns from [TAR256734 Daniel Stitchsong] (10,72.4) - details in chapter 06
+[OC]|cffffcc00Merchant camp|r is right here (10,72): sell, hand in any Waylaid Supplies to [TAR256389 Tamelyn Aldridge] (10.4,71.4) (filled ore crates: 15-30s each, see chapter 06), and only if you already have 4+ Pristine Leather and are switching to Leatherworking, buy the Totemic (shaman) / Brawler's (hunter) patterns from [TAR256734 Daniel Stitchsong] (10,72.4) - details in chapter 06
 [OC]Follow the road northeast from Three Corners to Lakeshire (~2 minutes) - it is the same road as chapter 06
 
 [OC]|cffffffffLakeshire|r  -  pick everything up first; the loops below come back here

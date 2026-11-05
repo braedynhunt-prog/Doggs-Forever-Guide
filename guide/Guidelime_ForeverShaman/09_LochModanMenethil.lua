@@ -15,6 +15,7 @@ At [TAR1340 Mountaineer Kadrell], [QA468 Report to Mountaineer Rockgar] (165 XP,
 [O][A Hunter] At [TAR1469 Vrok Blunderblast], buy Heavy Shot for a long day (600+) [G35.8,43.5 Loch Modan]
 
 [OC]|cffffffffSouth loop|r  -  |cFFFF0000GROUP 2+|r optional, 3 quests, ~3,900 XP: Stonesplinter Valley, the bunker, Ol' Sooty's cave, then Farstrider Lodge in the east and north along the shore to the dam. Skip it and walk north from Thelsamar instead.
+Walk to the mouth of the western cave at the south end of Stonesplinter Valley (entrance position Classic, unverified) [G33,85 Loch Modan]
 [O]In the western of the two caves at the south end of Stonesplinter Valley (right-hand path, deep in), kill [TAR1205 Grawmug] and his guards [TAR1206 Gnasher] (heals) and [TAR1207 Brawler] [QC217] - non-elite, level 16-17: |cff66ff66normal|r at 21 [G34.8,90.5 Loch Modan]
 [O]At the bunker at [TAR1092 Captain Rugelfuss], [QT217] - |cffffcc00Gear:|r Frontier Britches (leather legs +3 Str +3 Agi) only if your legs carry no stats (the Duty Bound Leggings from the Ruins are better); Dwarven Defender is a shield, Lucky Trousers cloth: vendor [G23.2,73.7 Loch Modan]
 [O]|cFFFF0000GROUP 2+|r Ol' Sooty's cave is west of Thelsamar above Stonesplinter Valley: kill [TAR1225 Ol' Sooty] (level 20 ELITE bear, 1,452 HP, 20 min respawn) [QC271] [G37.9,63.4 Loch Modan]
@@ -33,8 +34,8 @@ At [TAR1093 Chief Engineer Hinderweir VII], [QT199] [G46.0,13.6 Loch Modan]
 [OC]|cffffffffThe ogre mound|r  -  |cFFFF0000GROUP|r optional, ~3,550 XP; the mound is a short walk east of the dam
 [O]|cFFFF0000GROUP 2+|r Mo'grosh ogre mound in the north-east: 4 [TAR1178 Mo'grosh Ogre], 4 [TAR1180 Mo'grosh Brute] and 4 [TAR1179 Mo'grosh Enforcer] (ELITE, level 18-20: pull one at a time, the shamans heal) [QC255] [G72.5,23.5 Loch Modan]
 [O]|cFFFF0000GROUP 3+|r [TAR1210 Chok'sul] stands in the far north-east corner of the mound (level 22 ELITE, 1,686 HP): kill him for his head [QC256] [G79.6,14.7 Loch Modan]
-[O]Back in Thelsamar at [TAR1139 Magistrate Bluntnose], [QT255] [QT256] - |cffffcc00Gear (256):|r shaman - take the |cff66ff66Kimbra Boots|r (cloth +4 Int +3 Spi, Int feeds Mental Dexterity) unless your boots are better, they beat the Loch Walkers (leather +4 Agi +3 Spi); hunter - take the Loch Walkers. The free Minor Channeling Ring (+2 Int, +5 spell damage) is a small shaman upgrade, a hunter takes it only for an empty ring slot. Durable Chain Shoulders are mail: pass [G34.6,44.5 Loch Modan]
-[O]At [TAR167 Morhan Coppertongue] next door, [QT86776] if you have the 10 Bronze Bars [G34.0,46.5 Loch Modan]
+[O]Back in Thelsamar at [TAR1139 Magistrate Bluntnose], [QT255] [QT256] (20s) - |cffffcc00Gear (256):|r shaman - take the |cff66ff66Kimbra Boots|r (cloth +4 Int +3 Spi, Int feeds Mental Dexterity) unless your boots are better, they beat the Loch Walkers (leather +4 Agi +3 Spi); hunter - take the Loch Walkers. The free Minor Channeling Ring (+2 Int, +5 spell damage) is a small shaman upgrade, a hunter takes it only for an empty ring slot. Durable Chain Shoulders are mail: pass [G34.6,44.5 Loch Modan]
+[O]At [TAR167 Morhan Coppertongue] next door, [QT86776] (25s) if you have the 10 Bronze Bars [G34.0,46.5 Loch Modan]
 
 [OC]|cffffffffNorth exit|r
 At [TAR1343 Mountaineer Stormpike] at Stormpike's Post, [QT353] [G24.8,18.4 Loch Modan]
@@ -58,8 +59,8 @@ Run north up the road to the junction. At [TAR2093 Einar Stonegrip], [QA469 Dail
 
 [OC]|cffffffffMenethil Harbor|r  -  west along the road. No class trainers here (level-22 spells: Stormwind/Ironforge, chapter 11 passes them); repair and ammo vendors are around the harbor. |cffffcc00Human hunters:|r Wowhead lists Spoils of War (98197), Alchemical Hazards (98282), Return the Statuette / A Friend of the Family (98189/98190) and Unrequited Love (98461) as not offered to Humans; if the NPC does not offer one, skip the line.
 At flightmaster [TAR1571 Shellei Brondir], get the [P Menethil Harbor] flightpoint [G9.5,59.7 Wetlands]
-On the dock at [TAR3178 Stuart Fleming] (fishing supplies), [V] buy |cff66ff66Recipe: Mithril Head Trout|r (Cooking 175: +20 attack power for 15 min at level 25 - your food from 25 on; keep it until you are Expert and 175) and 10 Nightcrawlers. [TAR3179 Harold Riggs] beside him trains Fishing [G8.0,58.4 Wetlands]
-[O]|cffffcc00Fish to 100 and start on trout:|r Wetlands water wants ~130 Fishing. With the Strong Pole (+5) and a Nightcrawler (+50) you reach ~95 from base ~40, so trout is a long shot here: fish off the Menethil dock for 10-15 minutes whenever this chapter has you waiting, bank any Raw Mithril Head Trout that bites (you can eat the cooked fish at 25) and take the Longjaw; the real trout stop is Menethil at 28 (chapter 18) [G8.0,58.4 Wetlands]
+On the dock at [TAR3178 Stuart Fleming] (fishing supplies), [V] buy |cff66ff66Recipe: Mithril Head Trout|r (22s) (Cooking 175: +20 attack power for 15 min at level 25 - your food from 25 on; keep it until you are Expert and 175) and 10 Nightcrawlers (1s each). [TAR3179 Harold Riggs] beside him trains Fishing [G8.0,58.4 Wetlands]
+[O]|cffffcc00Fish to 100 and start on trout:|r Wetlands water wants ~130 Fishing. With the Strong Pole (+5) and a Nightcrawler (+50) you reach ~95 from base ~40, so trout is a long shot here: fish off the Menethil dock for 10-15 minutes whenever this chapter has you waiting, bank any Raw Mithril Head Trout that bites (you can eat the cooked fish at 25) and take the Longjaw; the real trout stop is Menethil at 28 (chapter 18) [SK Fishing 100] [G8.0,58.4 Wetlands]
 [O]At [TAR2096 Tarrel Rockweaver] on the road in, [QT98461] (165 XP, Hollee's note from Auberdine) [G11.5,52.2 Wetlands]
 At [TAR2094 James Halloran], [QT469] [QA484 Young Crocolisk Skins] [G8.6,55.7 Wetlands]
 At [TAR2086 Valstag Ironjaw], [QT455] [QA98197 Spoils of War] - |cff66ff66normal|r: 6 Khaz Modan Timber and 30 Khaz Modan Iron lie around the harbor [G10.1,56.9 Wetlands]
@@ -86,6 +87,7 @@ At [TAR2104 Captain Stoutfist] in the keep, [QT98189] [QA98190 A Friend of the F
 [OC]|cffffffffThe Greenwarden and Thelgen Rock|r  -  east along the road to the junction (about 3 minutes), then a loop south
 At [TAR1244 Rethiel the Greenwarden], [QT463] [QA276 Tramping Paws] [G56.4,40.4 Wetlands]
 Kill 15 [TAR1007 Mosshide Gnoll] and 10 [TAR1008 Mosshide Mongrel] in the gnoll camps to the south [QC276] [G60.4,70.9 Wetlands]
+Walk to the mouth of Thelgen Rock (cave; the Cave Stalkers are inside; entrance position Classic, unverified) [G50.5,58.5 Wetlands]
 Kill [TAR1111 Leech Stalker] and [TAR4040 Cave Stalker] around Thelgen Rock (west of the gnolls) until the gland drops [QC98282] [G52.3,63.0 Wetlands]
 At [TAR1244 Rethiel the Greenwarden], [QT276] [QA277 Fire Taboo] (9 Crude Flints from Mosshide Fenrunners, Mistweavers, Trappers and Brutes: |cff66ff66normal|r) [G56.4,40.4 Wetlands]
 Kill [TAR1010 Mosshide Fenrunner] in the Mosshide camp north-west of the junction for 9 Crude Flints [QC277] [G45.2,34.3 Wetlands]
@@ -96,7 +98,7 @@ Run back west to Menethil. At [TAR1480 Caitlin Grassman], [QT98282] [G11.9,58.8 
 [O](requires level 22) At [TAR1239 First Mate Fitzsimmons], [QA288 The Third Fleet]; buy the Flagon of Mead he wants from [TAR1464 Innkeeper Helbrek] (10.7,61.0), hand it in [QT288] and [QA289 The Cursed Crew] [G10.9,59.6 Wetlands]
 [O]|cFFFF0000GROUP 2+|r On the beach in the north bay kill 13 [TAR1157 Cursed Sailor], 5 [TAR1158 Cursed Marine] and [TAR1159 First Mate Snellig] (loot his Snuffbox) [QC289] [G14.1,29.6 Wetlands]
 [O]Same bay: 6 Giant Crocolisk Skins from the level 25-26 [TAR2089 Giant Wetlands Crocolisk] (non-elite, ~750 HP) for Apprentice's Duties [QC471] [G19.8,24.4 Wetlands]
-[O]At [TAR1239 First Mate Fitzsimmons], [QT289] [QA290 Lifting the Curse] [G10.9,59.6 Wetlands]
+[O]At [TAR1239 First Mate Fitzsimmons], [QT289] (19s) [QA290 Lifting the Curse] [G10.9,59.6 Wetlands]
 [O]|cFFFF0000GROUP 2+|r Back at the wreck, kill [TAR1160 Captain Halyndor] (level 30, 1,003 HP, Marines around him) for the Intrepid Strongbox Key and open the Intrepid's Locked Strongbox beside him [QT290] [QA292 The Eye of Paleth] [G15.4,23.6 Wetlands]
 [O]At [TAR1217 Glorin Steelbrow], [QT292] [QA293 Cleansing the Eye] (to Archbishop Benedictus in Stormwind, chapter 15) [G10.6,60.6 Wetlands]
 [O]At [TAR2094 James Halloran], [QT471] - |cffffcc00Gear:|r Resilient Poncho (cloak +5 Sta) if your cloak has no stats; Malleable Chain Leggings are mail: pass. The reward Recipe: Crocolisk Gumbo (Cooking 120) is a skill-up filler for your Tender Crocolisk Meat + Hot Spices [G8.6,55.7 Wetlands]

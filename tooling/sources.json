@@ -40,7 +40,7 @@
     "python tooling/ingest_zone_tsv.py < block.tsv (raw copies land in data/browser/)",
     "about 14 pages in a row trips a CloudFront 403; wait a few minutes"
    ],
-   "notes": "See tooling/README.txt, \"17 Oct 2026 - quest XP via the browser\". Staleness here is a proxy: a new client build does not always change quest XP."
+   "notes": "See tooling/README.txt, \"17 Oct 2026 - quest XP via the browser\". Staleness here is a proxy: a new client build does not always change quest XP. 4 Nov 2026: the zone files also carry quest money (field money; tooling/gold.py sums it per chapter), and the Wowhead Forever NPC pages carry trainer costs (teaches-ability listview, trainingcost) - browser only, about 25 fetches per burst; see docs/audit-2026-11-04.md."
   },
   {
    "id": "item_tooltips",

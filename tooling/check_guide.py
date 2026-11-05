@@ -64,6 +64,13 @@ for f in files:
         # optional steps with a quest tag must carry a [G] (no auto goto for optional steps)
         if optional and line.startswith('[O]') and re.search(r'\[Q[ACT]\d', line) and not has_goto:
             warn(f, ln, f'optional quest step without [G]: {line[:70]}')
+        # 4 Nov 2026: a step whose only completable element is the [G] completes when the player is within 6 yards of it
+        # (Guidelime CurrentGuide.lua updateStepCompletion). Travel steps want that; an action step (learn, buy, loot, use,
+        # kill, skill up) does not - it needs a tag that holds it: [T] [V] [R] [S] [P] [QA] [QC] [QT] [CI] [UI] [SK] [LE] [XP]
+        # Human and Hunter lines are not maintained (27 Oct 2026), so they are left out of this check
+        if has_goto and not line.startswith('[OC]') and RACE[(f, ln)] != 'Human' and '[A Hunter]' not in line and not re.search(r'\[(T|V|R|S|P|H|F|QA|QC|QT|QS|QP|QW|CI|UI|SK|LE|SP|XP|REP)[\s\d\]]', line) \
+                and re.search(r'\b(learn|train|buy|loot|use the|kill|cook to|bandage to|fish to)\b', line, re.I):
+            warn(f, ln, f'goto-only action step (completes on arrival): {line[:70]}')
 
 # flow check - run once per race chain (00a/00b = Human start, 01a/01b = Dwarf start, 02+ shared), so a turn-in on the
 # Human path never satisfies a prerequisite on the Dwarf path (17 Oct 2026: the Forever DB's prerequisites exposed this)

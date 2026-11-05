@@ -9,8 +9,8 @@ Guidelime.registerGuide([[
 [OC]|cffffffffShael'dryn and the Ancients|r  -  Raene's chain, the long middle (~13,900 XP across 1026-1046): Dartol's Rod is rebuilt piece by piece, charged at a hidden shrine, then used on an uncorrupted furbolg in the south
 Walk east along the road to the moonwell [G53.5,46.2 Ashenvale]
 At [TAR3916 Shael'dryn], [QT1024] [QA1026 Raene's Cleansing] (830 + 2,200 XP. 1026 = a Wooden Key from an Ancient, then the Iron Shaft from a locked chest - |cff66ff66normal|r) [G53.5,46.2 Ashenvale]
-[O]Only if you took The Howling Vale (1022, 2,450 XP) in chapter 20: the Tome of Mel'Thandris lies in a cave about 8 units north of the moonwell (mouth near 53,37.6, tome at 50.5,39.1) - click it and walk out. Another guide warns the cave is easy to overpull and a rare roams it: pull one mob at a time. It hands in at Melyria in the far west at the end [QC1022] [G50.5,39.1 Ashenvale]
-Kill [TAR3919 Withered Ancient] and [TAR3834 Crazed Ancient] (26-28) around the chest until a Wooden Key drops - 17% per kill for both per metaforge.app's Forever data (not in our DB, unverified), so |cff66ff66normal|r at ~6 kills [G56.0,33.2 Ashenvale]
+[O]Only if you took The Howling Vale (1022, 2,450 XP) in chapter 20: the Tome of Mel'Thandris lies in a cave about 8 units north of the moonwell (mouth near 53,37.6, tome at 50.5,39.1) - click it and walk out. Another guide warns the cave is easy to overpull and a rare roams it: pull one mob at a time. It hands in at Melyria in the far west at the end [QC1022] [G53,37.6 Ashenvale]
+Kill [TAR3919 Withered Ancient] and [TAR3834 Crazed Ancient] (26-28) around the chest until a Wooden Key drops - 17% per kill for both per metaforge.app's Forever data (not in our DB, unverified), so |cff66ff66normal|r at ~6 kills [CI5475,1 Wooden Key] [G56.0,33.2 Ashenvale]
 Open the Worn Chest with the Wooden Key and take the Iron Shaft [QC1026] [G54.4,35.4 Ashenvale]
 At [TAR3916 Shael'dryn], [QT1026] [QA1027 Raene's Cleansing] (2,200 XP. 1027 = the last rod piece, which the druids of Dor'danil hid in a Rusty Chest in the south-east corner - the loop below passes it) [G53.5,46.2 Ashenvale]
 [OC]Leftovers at the refuge, none closed by this chapter: Velene's Mage Summoner (1017, Sarilus in the Barrens, GROUP 3+) and Alonso's three Dragonslayer quests (43,70, six units west). If you took 1017 and are not going to the Barrens, abandon it
@@ -37,6 +37,7 @@ Run back north-east to Forest Song [G85.2,44.7 Ashenvale]
 At [TAR3848 Kayneth Stillwind], [QT1011] [QA1012 Insane Druids] (2,350 XP now. 1012 = the three druids at the camp you just left, 3,200 XP: two more 30-unit legs, worth it) [G85.2,44.7 Ashenvale]
 At [TAR221269 Maseara Autumnmoon], [QT98418] [QT98417] (2,450 XP each; 98417 only if you found the scroll) [G86.3,45.8 Ashenvale]
 [OC]|cffffffffThe druids|r  -  three level-32 mobs against your 29-30: pull one at a time and finish it before the next; stay out of the cave mouths if the camp has one
+Walk to the mouth of the Dor'danil Barrow Den (the druids are inside; entrance position Classic, unverified) [G76,71 Ashenvale]
 Run back south to the Dor'danil camp and kill [TAR3940 Taneel Darkwood], [TAR3941 Uthil Mooncall] and [TAR3942 Mavoris Cloudsbreak] [QC1012] [G76.8,73.5 Ashenvale]
 Run north once more to Forest Song [G85.2,44.7 Ashenvale]
 At [TAR3848 Kayneth Stillwind], [QT1012] (3,200 XP) [G85.2,44.7 Ashenvale]
