@@ -18,7 +18,7 @@ profile: feral; generated gear: tooling\variants\skyborne_druid\generated_gear.j
   02_LochModan.lua:50  [A Dwarf,Hunter] In the Military Ward at [TAR10090 Belia Thundergranite] (pet trainer), [QT6086 Training the Beast] - you now have Tame Beast, Call/Di
   02_LochModan.lua:51  [A Hunter] Next to her at [TAR5116 Olmin Burningbeard] (hunter trainer), [T] train (level 12: Wing Clip, Mend Pet, Distracting Shot) - there are hunte
   02_LochModan.lua:52  [O][A Hunter] Optional, 10 silver each: the weapon masters [TAR11865 Buliwyf Stonehand] (Two-Handed Axes) and [TAR13084 Bixi Wobblebonk] (Daggers) sta
-  02_LochModan.lua:53  [A Shaman] At the back of the Military Ward, [TAR11865 Buliwyf Stonehand] (weapon master): train Two-Handed Axes (10 silver) - the client lists Two-Ha
+  02_LochModan.lua:53  [A Shaman] At the back of the Military Ward, [TAR11865 Buliwyf Stonehand] (weapon master): train Two-Handed Maces and Two-Handed Axes (10 silver each,
   02_LochModan.lua:54  [O][A Hunter] At [TAR5123 Bretta Goldfury] (gun merchant, Military Ward) top up Heavy Shot before you fly back [G72.2,65.2 Ironforge]
   02_LochModan.lua:55  [A Dwarf] At [TAR1274 Senator Barin Redstone] inside the High Seat (Magni's throne room), [QT291] [G39.5,57.5 Ironforge]
   02_LochModan.lua:59  [O][A Dwarf] In the leather shop in the Great Forge, [TAR5127 Fimble Finespindle] teaches Leatherworking - skip it now: Leatherworking waits for the l

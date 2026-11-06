@@ -42,7 +42,7 @@ At [TAR786 Grelin Whitebeard], [QT234] [QA182 The Troll Cave] [G25.1,75.7 Dun Mo
 [OC]|cffffcc00Reward:|r 234 now offers profession books (Mining for Dummies / Pelt Collecting for Beginners / Wild Harvest) - each teaches that profession and adds +2 skill per read up to 15; take Pelt Collecting for Beginners (or Mining for Dummies if you went Mining)
 Kill 14 [TAR706 Frostmane Troll Whelp] around the cave and the hill south of Grelin [QC182] [G26,79.5 Dun Morogh]
 At [TAR786 Grelin Whitebeard], [QT182] [QA218 The Stolen Journal] [G25.1,75.7 Dun Morogh]
-[OC][A Shaman] |cffffcc00Gear:|r take Anvilmar Sledge (2H mace 2.6 dps) - your weapon until level 8
+[OC][A Shaman] |cffffcc00Gear:|r Anvilmar Sledge (2H mace 2.6 dps) needs Two-Handed Maces, which shamans train at the Ironforge weapon master (chapter 02) - keep your starting mace and vendor it
 [OC][A Hunter] |cffffcc00Gear:|r take Anvilmar Hand Axe (hunters cannot use maces) - the melee weapon is a stat stick, the gun does the work
 At [TAR12738 Nori Pridedrift], [QA3364 Scalding Mornbrew Delivery] (5 minute timer, hearth now) [G25,76 Dun Morogh]
 

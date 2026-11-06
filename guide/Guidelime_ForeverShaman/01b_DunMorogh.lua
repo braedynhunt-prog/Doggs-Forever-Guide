@@ -112,7 +112,7 @@ Run north to [TAR1269 Razzle Sprysprocket], [QT412] [G45.9,49.4 Dun Morogh]
 
 [OC]Run northeast to Steelgrill's Depot
 At [TAR1378 Pilot Bellowfiz], [QT320] [G49.4,48.4 Dun Morogh]
-[OC][A Shaman] |cffffcc00Gear:|r take Gnarled Short Staff (2H 4.3 dps) - big step up from the Sledge; back to maces at 12
+[OC][A Shaman] |cffffcc00Gear:|r take Gnarled Short Staff (2H staff 4.3 dps) - big step up from the starting mace; staves need no training, 2H maces and axes do (Ironforge, chapter 02)
 [OC][A Hunter] |cffffcc00Gear:|r take Sharp Axe (1H axe - hunters start with axe skill; the staff needs training) as your stat stick
 At [TAR1377 Pilot Stonegear], [QT313] [G49.6,48.6 Dun Morogh]
 At [TAR1376 Beldin Steelgrill], [QA96408 A Visitor to Dun Morogh] (requires level 9) [G50.4,49.1 Dun Morogh]
@@ -150,7 +150,7 @@ At [TAR1265 Rudra Amberstill], [QA314 Protecting the Herd] [QA95212 Never Saddle
 [OC]|cFFFF0000GROUP 2+|r Vagash is a level 11 elite in the cave up the hill north of the ranch. Kite him down onto the ranch guards if solo (you need 50% of the damage for credit)
 Kill [TAR1388 Vagash] for the Fang of Vagash [QC314] |cffffcc00launch:|r group or defer [G62.6,46 Dun Morogh]
 At [TAR1265 Rudra Amberstill], [QT314] [G63,49.8 Dun Morogh]
-[OC][A Shaman] |cffffcc00Gear:|r take Coldridge Hammer (2H mace 8.3 dps +1 Str)
+[OC][A Shaman] |cffffcc00Gear:|r take Coldridge Hammer (2H mace 8.3 dps +1 Str) - it cannot be equipped until you train Two-Handed Maces in Ironforge (chapter 02); stay on your staff until then, and a Sturdy Quarterstaff green (8.9 dps) beats it outright
 [OC][A Hunter] |cffffcc00Gear:|r nothing worth wearing (2H mace / statless leather) - Rancher's Trousers only if you still wear the Dwarven Leather Pants
 
 [OC]Run southeast up the hill overlooking the quarry
