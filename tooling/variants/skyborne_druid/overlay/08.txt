@@ -73,3 +73,8 @@ At the Stockade gate at [TAR466 General Marcus Jonathan], [QT95195] [G69.2,82.7 
 # Log check: the shaman's Call of Water and Knowledge in the Deeps are not in this guide.
 @replace T Stormpike's Delivery (353) and, shaman, Call of Water
 [OC]|cffffcc00Check:|r log should hold Messenger to Stormwind (121), The Price of Shoes (118), Shadow Magic (115), Tharil'zun (19), Researching the Corruption (1275), Remember That I Love You (95161) and Stormpike's Delivery (353). Next: fly to Loch Modan
+
+# Gold check (5 Nov 2026, money check): Skyborne quest money through chapter 07 is about 3g 70s; the shaman's
+# purchase figure and its 70-silver totem pair do not apply.
+@replace T quest money so far is about 3g
+[OC]|cffffcc00Gold check:|r quest money so far is about 3g 70s (chapters 00-07) and the chapter 02-07 profession and supply purchases took about 45s of it, plus your class training. So you walk in with roughly 3g 25s less training, plus whatever you vendored. Sell every grey and every white you do not wear at the Commons first.

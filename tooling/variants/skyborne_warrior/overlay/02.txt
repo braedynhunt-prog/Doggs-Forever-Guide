@@ -74,3 +74,8 @@ Loch Modan first pass: Valley of Kings, Thelsamar, a flight to Ironforge for the
 @before QT6388
 [O][A Warrior] In the Great Forge at [TAR6031 Tormus Deepforge], [QT1681] [QA1682 Grey Iron Weapons] [QT1682] (630 XP) [G48.6,42.5 Ironforge]
 [OC][A Warrior] |cffffcc00Gear (1682):|r |cff66ff66Umbral Axe|r (1H axe 7.8 dps +1 Sta); the Mace, Sword and Dagger are 7.6-7.7 dps +1 Sta, so take whichever your weapon skill covers - any of them beats Quickblade's Dagger (6.8 dps) until the Invader's Mace at the end of this chapter
+
+# Gold check (5 Nov 2026, money check): the shaman line priced the shaman spells, Two-Handed Axes and the pole + Longjaw
+# recipe (bought in Valanaar here); quest money by Ironforge on the Skyborne route is 1g 1s 90c (data/zone_*.json).
+@replace T Gold check for the Loch Modan and Ironforge shopping
+[OC]|cffffcc00Gold check for the Loch Modan and Ironforge shopping:|r you have about 1g of quest money by now plus what you vendored. The list below costs about 30s all in, plus your class training. Order if short: Journeyman Cooking 5s, Journeyman First Aid 5s + Heavy Linen 1s, firewood 5s, bear recipe + spices 3s 50c, Journeyman Fishing 5s, a bag 5s. Anything you cannot afford waits for the chapter 03 Ironforge pass at 15. Sell every grey and unworn white before the tram. Vendor prices here are four times the Wowhead Forever sell price - check at the counter. Auction House in Ironforge: smelt everything (free Mining skill) and sell the surplus bars and Rough/Coarse Stone there in 20-stacks, never to a vendor (a copper bar vendors for 10c); keep every Pyrite, 20 Copper Bars for a Waylaid crate, and 10 Copper + 10 Tin for Morhan's bronze at 21. Light Leather is banked for 25, not sold.

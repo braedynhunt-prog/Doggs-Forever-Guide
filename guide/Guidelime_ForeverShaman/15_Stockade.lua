@@ -23,7 +23,7 @@ At [TAR1748 Highlord Bolvar Fordragon] in the Keep, [QT98190] [QA98191 A Friend 
 [O][A Hunter] Take the Deeprun Tram to Ironforge [G73.8,49.2 Stormwind City]
 [O]In Tinkertown at [TAR7944 Tinkmaster Overspark], [QT2923] (he then offers Save Techbot's Brain, 2922 - leave it, chapter 24 takes it on the way to the dungeon) [G69.5,50.3 Ironforge]
 [OC]Gnoarn (The Day After, 2927) and High Tinker Mekkatorque (The Grand Betrayal, 2929) are chapter 24 pickups
-[A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 24 and 26 spells together here (sheet: Rockbiter 4, Earth Shock 4, Lightning Shield 3 are musts, Strength of Earth 2 and Healing Wave 5 buys - 35s each; Mana Spring and Magma Totem 40s each; Lightning Bolt 5 (40s) when gold is easy; 2g 55s for the lot, against about 8g of quest money by now) [G47.1,13.8 Ironforge]
+[A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 24 and 26 spells together here (sheet: Rockbiter 4, Earth Shock 4, Lightning Shield 3 are musts, Strength of Earth 2 and Healing Wave 5 buys - 35s each; Mana Spring and Magma Totem 40s each; Lightning Bolt 5 (40s) when gold is easy; 2g 55s for the lot, against about 9g of quest money by now) [G47.1,13.8 Ironforge]
 [A Shaman] Two steps away at [TAR2786 Gerrig Bonegrip], [QT971] - |cffffcc00Gear:|r Sustaining Ring (+4 Sta, 4 health per 5 sec) only for an empty ring slot [G50.8,5.6 Ironforge]
 [O]At [TAR2786 Gerrig Bonegrip], [QT968] (only if the Book: The Powers Below dropped in Darkshore, 1,700 XP; a hunter would walk to the Cavern for this alone, so skip it without the book) [G50.8,5.6 Ironforge]
 [A Shaman] Tram back to Stormwind [G76.5,51.5 Ironforge]

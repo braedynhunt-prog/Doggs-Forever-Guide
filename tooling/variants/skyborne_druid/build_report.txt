@@ -332,7 +332,7 @@ profile: feral; generated gear: tooling\variants\skyborne_druid\generated_gear.j
   26_RazorfenKraul.lua:59  [OC]Loot (Charlga): Heart of Agamaggan is a shield and Pronged Reaver a one-hand axe (22.9 dps +5 Str +5 Spi, unique) - pass both (the plan is a two-h
   26_RazorfenKraul.lua:77  [OC]Gear (Mortality Wanes, if it ever drops): Lancer Boots (leather +5 Agi +6 Sta +4 Spi) for both of you. Mourning Shawl (cloak +8 Sta, -4 Spi) and t
 
-== Overlay operations: 305 ==
+== Overlay operations: 307 ==
   02: tooling\variants\skyborne_druid\overlay\02.txt:4 @before QA224 -> source line 10
   02: tooling\variants\skyborne_druid\overlay\02.txt:8 @replace QT414 -> source line 34
   02: tooling\variants\skyborne_druid\overlay\02.txt:12 @delete QA6387 -> source line 38
@@ -353,6 +353,7 @@ profile: feral; generated gear: tooling\variants\skyborne_druid\generated_gear.j
   02: tooling\variants\skyborne_druid\overlay\02.txt:63 @replace T Take the free ride: -> source line 46
   02: tooling\variants\skyborne_druid\overlay\02.txt:66 @replace T Take the free ride back: -> source line 71
   02: tooling\variants\skyborne_druid\overlay\02.txt:70 @delete T Searing Totem|r is your best dps totem -> source line 138
+  02: tooling\variants\skyborne_druid\overlay\02.txt:74 @replace T Gold check for the Loch Modan and Ironforge shopping -> source line 39
   03: tooling\variants\skyborne_druid\overlay\03.txt:6 @replace TAR258098 -> source line 10
   03: tooling\variants\skyborne_druid\overlay\03.txt:11 @delete TAR6291 -> source line 14
   03: tooling\variants\skyborne_druid\overlay\03.txt:14 @before TAR265002#1 -> source line 32
@@ -423,6 +424,7 @@ profile: feral; generated gear: tooling\variants\skyborne_druid\generated_gear.j
   08: tooling\variants\skyborne_druid\overlay\08.txt:67 @replace QT95250 -> source line 52
   08: tooling\variants\skyborne_druid\overlay\08.txt:70 @replace QT95195 -> source line 55
   08: tooling\variants\skyborne_druid\overlay\08.txt:74 @replace T Stormpike's Delivery (353) and, shaman, Call of Water -> source line 58
+  08: tooling\variants\skyborne_druid\overlay\08.txt:79 @replace T quest money so far is about 3g -> source line 15
   09: tooling\variants\skyborne_druid\overlay\09.txt:5 @replace QT217 -> source line 20
   09: tooling\variants\skyborne_druid\overlay\09.txt:9 @replace QT531 -> source line 23
   09: tooling\variants\skyborne_druid\overlay\09.txt:13 @replace TAR1178 -> source line 35
@@ -745,8 +747,7 @@ profile: feral; generated gear: tooling\variants\skyborne_druid\generated_gear.j
 
 == Inline gear text on step lines (needs overlay): 0 ==
 
-== Needs overlay (kept source lines with a flag word: shaman, totem, Totemic, Brawler, Leatherworking, leather, hunter, pet, Rockbiter, Flametongue, Ghost Wolf, 2H, Int, Spirit, warrior, shield, Taunt, Defensive, Sunder, Charge): 49 ==
-  02_LochModan.lua:39  [leather, Spirit]  [OC]Gold check for the Loch Modan and Ironforge shopping: you have about 65-85s of quest money by now plus what you vendored (Dun Morogh and the loch so far). T
+== Needs overlay (kept source lines with a flag word: shaman, totem, Totemic, Brawler, Leatherworking, leather, hunter, pet, Rockbiter, Flametongue, Ghost Wolf, 2H, Int, Spirit, warrior, shield, Taunt, Defensive, Sunder, Charge): 48 ==
   02_LochModan.lua:107  [hunter]  Left of the entrance at [TAR1187 Daryl the Youngling], [QA257 A Hunter's Boast] (15 minute timer starts now) [G83.5,65.5 Loch Modan]
   02_LochModan.lua:109  [hunter]  At [TAR1187 Daryl the Youngling], [QT257] [QA258 A Hunter's Challenge] (5 Elder Mountain Boars, level 16-17, 12 minute timer - do it in the 16-17 chapter) [G83.
   02_LochModan.lua:145  [shaman]  [OC]The Shaman and Bonesnappers only live at the far south end of the valley, around the trogg caves
