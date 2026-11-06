@@ -2,7 +2,7 @@ questnpc  01b_DunMorogh.lua:88  [QT310] Bitter Rivals: finisher in the DB is obj
 questnpc  01b_DunMorogh.lua:88  [QA311] Return to Marleth: starter in the DB is object 270 Unguarded Thunder Ale Barrel; line has [TAR1373 Jarven Thunderbrew] (fine if the TAR is just the nearby NPC)
 questnpc  03_HallOfThanes.lua:32  [QA96395] An Ancient Grudge: DB lists no starter at all; line has [TAR265002 Ghostly Attendant]
 questnpc  03_HallOfThanes.lua:39  [QT96395] An Ancient Grudge: DB lists no finisher at all; line has [TAR265002 Ghostly Attendant]
-questnpc  05_Westfall.lua:58  [QA92910] Harvesting the Harvesters: starter in the DB is item 255155; line has [TAR253395 Ozwin Ironsprocket] (fine if the TAR is just the nearby NPC)
+questnpc  05_Westfall.lua:59  [QA92910] Harvesting the Harvesters: starter in the DB is item 255155; line has [TAR253395 Ozwin Ironsprocket] (fine if the TAR is just the nearby NPC)
 questnpc  08_RuinsOfLordaeron.lua:40  [QA95250] Abominable Creatures: DB lists no starter at all; line has [TAR265701 Captain Truman]
 questnpc  08_RuinsOfLordaeron.lua:52  [QT95250] Abominable Creatures: DB lists no finisher at all; line has [TAR265701 Captain Truman]
 questnpc  09_LochModanMenethil.lua:102  [QT290] Lifting the Curse: finisher in the DB is object 112948 Intrepid's Locked Strongbox; line has [TAR1160 Captain Halyndor] (fine if the TAR is just the nearby NPC)
@@ -18,24 +18,23 @@ questnpc  22_ExcavationSite.lua:46  [QT95647] Lost in the Thicket Things: DB lis
 questnpc  22_ExcavationSite.lua:46  [QA95809] Heartwoven: DB lists no starter at all; line has [TAR262681 Ardin Grassman]
 questnpc  22_ExcavationSite.lua:60  [QA95810] Lost Relic Carry: starter in the DB is item 270865; line has [TAR1077 Prospector Whelgar] (fine if the TAR is just the nearby NPC)
 tar  05_Westfall.lua:46  Defias Trapper [G44.0,33.0] is 4.6 from the nearest spawn 46.4,36.9
-tar  05_Westfall.lua:77  Odd Child [G41.2,79.0] is 6.4 from the nearest spawn 42.8,72.8
-tar  05_Westfall.lua:85  Murloc Oracle [G28.0,65.0] is 3.8 from the nearest spawn 27.7,68.8
+tar  05_Westfall.lua:78  Odd Child [G41.2,79.0] is 6.4 from the nearest spawn 42.8,72.8
+tar  05_Westfall.lua:87  Murloc Oracle [G28.0,65.0] is 3.8 from the nearest spawn 27.7,68.8
 tar  06_Redridge.lua:40  Redridge Mongrel [G24.9,76.0] is 5.2 from the nearest spawn 25.3,81.2
 tar  06_Redridge.lua:52  Redridge Brute [G23.9,33.0] is 4.9 from the nearest spawn 19.0,32.6
 tar  06_Redridge.lua:55  Murloc Flesheater [G46.9,61.0] is 3.4 from the nearest spawn 50.2,61.7
-tar  08_RuinsOfLordaeron.lua:9  Maris Granger [G59.2,37.8] is 27.6 from the nearest spawn 72.1,62.2 (secondary TAR, 15-unit limit)
 tar  08_RuinsOfLordaeron.lua:57  Lady Dena Kennedy (15991) has no spawn in Stormwind City (no spawn data in the DB at all)
 tar  17_Duskwood2.lua:27  Rabid Dire Wolf [G27.7,31.1] is 5.7 from the nearest spawn 33.1,29.4
 tar  22_ExcavationSite.lua:75  Minor Manifestation of Water (5895) has no spawn in Westfall (spawns in zones ['130'])
 tar  24_Gnomeregan.lua:68  Kernobee (7850) has no spawn in Dun Morogh (no spawn data in the DB at all)
 tar  26_RazorfenKraul.lua:74  Willix the Importer (4508) has no spawn in The Barrens (no spawn data in the DB at all)
 gates  01b_DunMorogh.lua:15  Camping 101: Cooking needs Cooking 1 but the route has not learned Cooking yet
-gates  01b_DunMorogh.lua:16  Camping 101: Fishing needs Fishing 1 but the route has not learned Fishing yet [conditional step]
-gates  01b_DunMorogh.lua:16  Camping 101: First Aid needs First Aid 1 but the route has not learned First Aid yet [conditional step]
-gates  02_LochModan.lua:63  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 20 so far (last target: Fishing 20 at 01b_DunMorogh.lua:63) [conditional step] [gate value unverified on Forever]
-gates  03_HallOfThanes.lua:16  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 40 so far (last target: Fishing 40 at 02_LochModan.lua:77) [conditional step] [gate value unverified on Forever]
-gates  09_LochModanMenethil.lua:104  Recipe: Crocolisk Gumbo needs Cooking 120; the route has only asked for Cooking 110 so far (last target: Cooking 110 at 02_LochModan.lua:123) [conditional step]
-xp  05_Westfall.lua:83  "2,890 XP" matches no quest on the line (136 Captain Sander's Hidden Treasure = 580)
+gates  01b_DunMorogh.lua:16  Camping 101: Fishing needs Fishing 1 but the route has not learned Fishing yet
+gates  01b_DunMorogh.lua:16  Camping 101: First Aid needs First Aid 1 but the route has not learned First Aid yet
+gates  02_LochModan.lua:67  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 20 so far (last target: Fishing 20 at 01b_DunMorogh.lua:63) [conditional step] [gate value unverified on Forever]
+gates  03_HallOfThanes.lua:16  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 40 so far (last target: Fishing 40 at 02_LochModan.lua:81) [conditional step] [gate value unverified on Forever]
+gates  09_LochModanMenethil.lua:104  Recipe: Crocolisk Gumbo needs Cooking 120; the route has only asked for Cooking 110 so far (last target: Cooking 110 at 02_LochModan.lua:127) [conditional step]
+xp  05_Westfall.lua:85  "2,890 XP" matches no quest on the line (136 Captain Sander's Hidden Treasure = 580)
 xp  12_Ashenvale.lua:65  "3,050 XP" matches no quest on the line (1034 The Ruins of Stardust = 1,850)
 xp  15_Stockade.lua:12  "2,000 XP" matches no quest on the line (343 Speaking of Fortitude = 195)
 xp  20_Darnassus.lua:22  "3,050 XP" matches no quest on the line (2925 Klockmort's Essentials = 245)

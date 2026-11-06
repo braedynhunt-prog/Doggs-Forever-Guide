@@ -13,7 +13,7 @@ At the camp south of Kharanos at [TAR265813 Eric Brighthammer], [QT96628] [QA966
 [OC]|cffffcc00Camping 101:|r each one completes once that skill is 20+ and you talk to the named trainer. Alchemy/Enchanting etc. only if you take those professions.
 Type /sit next to Eric's campfire and wait for the Boosted Rest buff (relog if it never triggers) [QC96608] [G46.6,53.8 Dun Morogh]
 At [TAR265813 Eric Brighthammer], [QT96608] [QA96629 Camping 101: Cooking] (the Camping 101 quests only open after The Great Outdoors) [G46.6,53.8 Dun Morogh]
-[O]At [TAR265813 Eric Brighthammer], also take the Camping 101 quests for YOUR professions: [QA96056 Camping 101: Skinning] [QA96046 Camping 101: Mining] [QA96047 Camping 101: First Aid] [QA96050 Camping 101: Fishing] (and [QA96031 Camping 101: Leatherworking] only if you already learned Leatherworking - it is not offered without the skill) [G46.6,53.8 Dun Morogh]
+[O]At [TAR265813 Eric Brighthammer], also take the Camping 101 quests for YOUR professions: [QA96056 Camping 101: Skinning] [QA96046 Camping 101: Mining] [QA96047 Camping 101: First Aid] [QA96050 Camping 101: Fishing] [G46.6,53.8 Dun Morogh]
 At [TAR1252 Senir Whitebeard], [QT420] [QA98322 Secure the Mountain] [G46.7,53.8 Dun Morogh]
 Outside the inn at [TAR1267 Ragnar Thunderbrew], [QA384 Beer Basted Boar Ribs] [G46.8,52.4 Dun Morogh]
 Inside the inn at [TAR6806 Tannok Frosthammer], [QT2160] [G47.2,52.2 Dun Morogh]

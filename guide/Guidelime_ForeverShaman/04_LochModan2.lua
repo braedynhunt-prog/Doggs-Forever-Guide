@@ -3,7 +3,7 @@ Guidelime.registerGuide([[
 [D Forever Shaman 1-30 (Braedyn)\\Loch Modan second pass: the excavation chain, the idols, Farstrider hand-ins, and the group quests if your friend is on.]
 [GA Alliance]
 [OC]|cffffffffLoch Modan 16-17|r
-[OC]|cffffcc00Carry-over log:|r Powder to Ironband (302), Ironband's Excavation (436), A Hunter's Challenge (258), Crocolisk Hunting (385), Twisting the Knife (86758), In Defense of the King's Lands (217), Stormpike's Order (1338), Find Bingles done.
+[OC]|cffffcc00Carry-over log:|r Powder to Ironband (302), Ironband's Excavation (436), A Hunter's Challenge (258), Crocolisk Hunting (385), Twisting the Knife (86758), In Defense of the King's Lands (217, only if you did 263), Stormpike's Order (1338), Find Bingles done.
 
 [OC]|cffffffffThelsamar|r
 At [TAR1105 Jern Hornhelm], [QT302] [QA273 Resupplying the Excavation] [G37.2,47.4 Loch Modan]
@@ -17,9 +17,10 @@ At [TAR1379 Miran] next to him (respawns every 2 min if he is missing), [QT454] 
 [OC]Escort Miran east to the excavation. Two ambushes of 2-3 Dark Iron dwarves each; Miran dies fast, drop Stoneskin and take the hits yourself
 At [TAR1344 Prospector Ironband], [QT309] [G65.9,65.6 Loch Modan]
 [OC]|cffffcc00Gear:|r Foreman Belt (cloth) and Mud Stompers (mail) are both worse than what you have - take the belt to vendor
-At [TAR1345 Magmar Fellhew], [QT436] [QA297 Gathering Idols] [G64.9,66.7 Loch Modan]
-Kill [TAR1165 Stonesplinter Geomancer] and [TAR1167 Stonesplinter Digger] in the dig (level 17-19, geomancers cast Fire Blast - shock them) for 8 Carved Stone Idols [QC297] [G70,64 Loch Modan]
-At [TAR1345 Magmar Fellhew], [QT297] [G64.9,66.7 Loch Modan]
+At [TAR1345 Magmar Fellhew], [QT436] [G64.9,66.7 Loch Modan]
+[O]Also at [TAR1345 Magmar Fellhew], [QA297 Gathering Idols] (|cffff6060grind|r: 8 idols from the level 17-19 diggers and geomancers in the dig, 1,350 XP; the rewards are nothing for you) [G64.9,66.7 Loch Modan]
+[O]Kill [TAR1165 Stonesplinter Geomancer] and [TAR1167 Stonesplinter Digger] in the dig (level 17-19, geomancers cast Fire Blast - shock them) for 8 Carved Stone Idols [QC297] [G70,64 Loch Modan]
+[O]At [TAR1345 Magmar Fellhew], [QT297] [G64.9,66.7 Loch Modan]
 [OC][A Shaman] |cffffcc00Gear:|r nothing for you (2H sword, 1H axe, wand) - take Thelsamar Axe (1H axe 9 dps +2 Agi) if you want a shield set, otherwise the wand to vendor
 [OC][A Hunter] |cffffcc00Gear:|r take |cff66ff66Thelsamar Axe|r (1H axe 9 dps +2 Agi) and equip it - the first stat stick with a real stat
 [OC]At [TAR1214 Aldren Cordon], [R][V] [G66.5,65 Loch Modan]
@@ -61,7 +62,7 @@ At [TAR1572 Thorgrum Borrelson], |cFFfff8a3Fly to [F Ironforge]|r [G33.9,51 Loch
 [O]Two steps away at [TAR5161 Grimnur Stonebrand], Journeyman Fishing if you have not got it yet (Fishing 50) [T] [G48.1,6.9 Ironforge]
 [A Hunter] In the Military Ward at [TAR5116 Olmin Burningbeard], [T] train anything you missed, then at [TAR5123 Bretta Goldfury] (72.2,65.2) top up Heavy Shot - Quartermaster Lewis on Sentinel Hill and the Stormwind gunsmith sell it too, so 600 is plenty [G72.2,65.2 Ironforge]
 [O][A Hunter] |cffffcc00Talents so far (beta Beast Mastery build):|r 5/5 Deadly Aspects (10-14), then 2/2 Pathfinding at 15-16; Focused Fire 2/2 comes at 17-18 and Improved Revive Pet 2/2 at 19-20
-[OC]|cffffcc00Professions:|r Nissa Firestone (First Aid, 55.1,58.3) and Daryl Riknussun (Cooking, 60.1,36.4) teach Journeyman once the skill is 50, and so do [TAR6291 Balthus Stoneflayer] (Skinning, 39.9,32.5) and [TAR4254 Geofram Bouldertoe] (Mining, 50.0,26.3 in the Deep Mountain Mining Guild); Balthus also completes Camping 101: Skinning at Skinning 20
+[OC]|cffffcc00Professions:|r Nissa Firestone (First Aid, 55.1,58.3) and Daryl Riknussun (Cooking, 60.1,36.4) teach Journeyman once the skill is 50, and so do [TAR6291 Balthus Stoneflayer] (Skinning, 39.9,32.5) and [TAR5127 Fimble Finespindle] (Leatherworking, 40.2,33.7); Balthus also completes Camping 101: Skinning at Skinning 20
 [OC]Run to Tinker Town and take the Deeprun Tram to Stormwind [G76,51 Ironforge]
 [OC]|cffffffffFinished: Loch Modan second pass|r  -  continue with 17-18 Westfall
 [NX 17-18 Westfall]

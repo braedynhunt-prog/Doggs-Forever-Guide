@@ -27,7 +27,7 @@ Kill 10 [TAR1163 Stonesplinter Skullthumper] and 10 [TAR1166 Stonesplinter Seer]
 Bandage to 50: Linen Bandages from the trogg cloth until First Aid 40-50 before the Ironforge trip (Linen goes green at 45 and grey at 60 - Classic colours, unverified; about 40-50 cloth) - Journeyman and Heavy Linen both wait at Nissa [SK FirstAid 40] [G36,80 Loch Modan]
 [A Shaman] Loot the Reagent Pouch from a [TAR1166 Stonesplinter Seer] while you are at it [QC94466,2] [G36.7,78 Loch Modan]
 Outside at [TAR1091 Mountaineer Gravelgaw], [QT237] [G23.5,76.4 Loch Modan]
-Inside at [TAR1090 Mountaineer Wallbang], [QA263 In Defense of the King's Lands] (level 15-16 troggs - it waits until the end of this chapter) [G23.5,74.5 Loch Modan]
+[O]Inside at [TAR1090 Mountaineer Wallbang], [QA263 In Defense of the King's Lands] (|cffff6060grind|r: 20 troggs at the far south end of the valley, 1,050 XP - skip it if you are 15 already; it waits until the end of this chapter) [G23.5,74.5 Loch Modan]
 
 [OC]|cffffffffLevel 12 - Thelsamar|r
 [OC]Take the road north to Thelsamar
@@ -36,7 +36,7 @@ Inside at [TAR1090 Mountaineer Wallbang], [QA263 In Defense of the King's Lands]
 At [TAR6734 Innkeeper Hearthstove], bind your Hearthstone to [S Thelsamar] [G35.5,48.4 Loch Modan]
 At the bar at [TAR1963 Vidra Hearthstove], [QA418 Thelsamar Blood Sausages] [G34.8,49.3 Loch Modan]
 At [TAR1681 Brock Stoneseeker], [QA6387 Honor Students] [G37,47.8 Loch Modan]
-[OC]|cffffcc00Gold check for the Loch Modan and Ironforge shopping:|r you have about 40s of quest money by now plus what you vendored (Dun Morogh and the loch so far). The list below costs about 95s all in, so expect to buy only the top of it now. Order if short: Strong Fishing Pole and the Longjaw recipe (11s, your food), Journeyman Cooking 5s, Journeyman First Aid 5s + Heavy Linen 1s, firewood 5s, Two-Handed Maces + Axes 20s, the four level-12 spells 32s (Healing Wave 3 and Ancestral Spirit first), bear recipe + spices 3s 50c, Journeyman Fishing 5s, a bag 5s. Anything you cannot afford waits for the chapter 03 Ironforge pass at 15. Sell every grey and unworn white before the tram. Vendor prices here are four times the Wowhead Forever sell price - check at the counter. Auction House in Ironforge: smelt everything (free Mining skill) and sell the surplus bars and Rough/Coarse Stone there in 20-stacks, never to a vendor (a copper bar vendors for 10c); keep every Pyrite, 20 Copper Bars for a Waylaid crate, and 10 Copper + 10 Tin for Morhan's bronze at 21. Light Leather is banked for 25, not sold.
+[OC]|cffffcc00Gold check for the Loch Modan and Ironforge shopping:|r you have about 40s of quest money by now plus what you vendored (Dun Morogh and the loch so far). The list below costs about 95s all in, so expect to buy only the top of it now. Order if short: Strong Fishing Pole and the Longjaw recipe (11s, your food), Journeyman Cooking 5s, Journeyman First Aid 5s + Heavy Linen 1s, firewood 5s, Two-Handed Maces + Axes 20s, the four level-12 spells 32s (Healing Wave 3 and Ancestral Spirit first), bear recipe + spices 3s 50c, Journeyman Fishing 5s, a bag 5s. Anything you cannot afford waits for the chapter 03 Ironforge pass at 15. Sell every grey and unworn white before the tram. Vendor prices here are four times the Wowhead Forever sell price - check at the counter. Auction House in Ironforge: sell the Copper Bars and Ore you still carry in 20-stacks there, never to a vendor (keep 20 bars if you hold a Waylaid Copper Bars crate). Light Leather is your Leatherworking skill-up material now - keep every piece.
 [OC]At [TAR1682 Yanni Stoutheart], [V] - buy a bag (Small Brown Pouch 5s) if you still have an empty bag slot, plus 1 Flint and Tinder (1s 32c) and 10 Simple Wood (36c each) for your campfires (Kharanos sells neither); Kat Sampson at the lodge and Aldren Cordon at the dig are the zone's repairers [G35.6,48.4 Loch Modan]
 Next door at [TAR1465 Drac Roughcut] (trade supplies), [V] buy Recipe: Smoked Bear Meat (2s 50c) (Cooking 40, +1 Str - your skill-up food to ~100 from the bears you kill on the north loop) and 10 Mild Spices (10c each); he also stocks Hot Spices, Shiny Baubles and Nightcrawlers for later [G35.6,49.1 Loch Modan]
 [O][A Hunter] Across the road at [TAR1469 Vrok Blunderblast] (gunsmith): switch to Heavy Shot (level 10 ammo, noticeably harder hitting) and carry 600-800; he also sells the Small Shot Pouch if you skipped it. Pet food: Yanni sells bread and cheese [G35.8,43.5 Loch Modan]
@@ -56,9 +56,13 @@ At [TAR4256 Golnir Bouldertoe], [QT6391] [QA6388 Gryth Thurden] [G51.5,26.3 Iron
 [OC]|cffffffffHall of Thanes pickups (dungeon at 15-16)|r
 At [TAR264943 Afadra Dunwall], [QA96394 The Restless Dead] [G32.4,47.8 Ironforge]
 At [TAR265003 Thom Filch], [QA96403 Important Heirlooms] [G31.4,45.4 Ironforge]
-[O][A Dwarf] In the leather shop in the Great Forge, [TAR5127 Fimble Finespindle] teaches Leatherworking - skip it now: Leatherworking waits for the level-25 Pristine Leather count (see the profession note in 1-6). Only if you already have 4+ Pristine Leather or want it anyway, learn it, turn your Light Leather into Light Armor Kits/Handstitched pieces to skill up, and [TAR1466 Gretta Finespindle] next to him takes [QT96031 Camping 101: Leatherworking] once it is 20 [G40.2,33.7 Ironforge]
+[A Dwarf] In the leather shop in the Great Forge, [TAR5127 Fimble Finespindle] (Leatherworking trainer): [T] learn the trainer recipes you can afford (Cured Light Hide and Embossed Leather Gloves - Classic skill levels 35/40, unverified) and look for |cff66ff66Totemic Leather Armor|r on his list - QuestieDB 1.0.11 says its pattern is a bind-on-pickup drop from Oggleflint in Ragefire Chasm (Horde), so if he does not teach it the Armor is out and your crafted set is the six Stitchsong pieces (chapter 06 note; Pristine Leather and Sulfuric Acid are both cheap on the Ironforge AH, 6 Nov scan). Skill up with Light Armor Kits to 30-45, then Embossed Leather Gloves (3 Light Leather + 2 Coarse Thread) toward 75; Journeyman Leatherworking at 50 [G40.2,33.7 Ironforge]
+[A Dwarf] Next to him, [TAR5128 Bombus Finespindle] [V] sells Coarse Thread and Salt (Cured Light Hide = 1 Light Hide + 1 Salt) - buy 20 thread and 10 salt [G39.6,34.5 Ironforge]
+[O]Abandon [QS96046 Camping 101: Mining] if it is still in your log - Mining is gone [G40.2,33.7 Ironforge]
+[O]Kharanos is 3 minutes down the road from the Ironforge gate: at [TAR265813 Eric Brighthammer], [QA96031 Camping 101: Leatherworking] (only offered now that you have the skill; Camp Tent = rested XP), then walk back up [G46.7,53.9 Dun Morogh]
+[O]In the leather shop at [TAR1466 Gretta Finespindle], [QT96031 Camping 101: Leatherworking] (Leatherworking 20 - you are past it) [G38.8,32.9 Ironforge]
 [O][A Human] In the leather shop in the Great Forge, [TAR5127 Fimble Finespindle] teaches Leatherworking - skip it now: Leatherworking waits for the level-25 Pristine Leather count (see the profession note in Northshire). Only if you already have 4+ Pristine Leather or want it anyway, learn it and turn your Light Leather into Light Armor Kits/Handstitched pieces to skill up (your Camping 101 hand-ins are back in Goldshire) [G40.2,33.7 Ironforge]
-[O][A Dwarf] At [TAR6291 Balthus Stoneflayer] in the Great Forge, learn Skinning if you have not, and [QT96056 Camping 101: Skinning] once Skinning is 20 [G39.4,32.4 Ironforge]
+[A Dwarf] At [TAR6291 Balthus Stoneflayer] in the Great Forge, [T] learn Journeyman Skinning (you are at the 75 cap) and [QT96056 Camping 101: Skinning] [G39.4,32.4 Ironforge]
 At [TAR5159 Daryl Riknussun] (cooking trainer, east side of the Great Forge), learn Journeyman Cooking (5s) if Cooking is 50 - if you are short, cook your way there at his fire now, you have the boar meat; this is the gate for the Longjaw recipe and for the Crocolisk Steak recipe at 16 (Apprentice caps at 75) [T] [G60.1,36.4 Ironforge]
 [O]In the Forlorn Cavern at [TAR5161 Grimnur Stonebrand] (fishing trainer, by the pool), learn Journeyman Fishing (5s) if Fishing is 50 (level 10) - otherwise on the level-15 visit. [TAR5162 Tansy Puddlefizz] next to him sells the Longjaw and Mithril Head Trout recipes if you ever miss them elsewhere [T] [G48.1,6.9 Ironforge]
 At [TAR5150 Nissa Firestone] (first aid trainer, by the Mystic Ward pool), learn Heavy Linen Bandage (First Aid 40, 2 Linen Cloth each) and Journeyman First Aid (5s; Heavy Linen 1s) (First Aid 50 - verified; level gate unverified) - short of 50? Make Linen at the inn now, you have the trogg cloth, and take Journeyman on the level-15 visit [T] [G55.1,58.3 Ironforge]
@@ -126,7 +130,7 @@ At [TAR1340 Mountaineer Kadrell], [QT416] [G34.2,47.8 Loch Modan]
 [O]At [TAR1684 Khara Deepwater], [QT86614 Silver of the Waves] (12s) if you found the clip [G40.3,39.3 Loch Modan]
 [OC]|cffffcc00Gear:|r wear the Repurposed Hair Band (cloth wrist +2 Int +2 Spi, Int feeds Mental Dexterity) - it beats the statless Burnt Hide Bracers
 At [TAR49808 Grenhild Darktalon], [QA86667 Snowbound] - do not fill the jar yet, it has a 10 minute timer once filled [G36.4,48.2 Loch Modan]
-[OC]At [TAR1682 Yanni Stoutheart], [V] [G35.6,48.4 Loch Modan]
+[OC]At [TAR1682 Yanni Stoutheart], [V] - Rhapsody Malt for Beer Basted Boar Ribs (Cooking 25: 1 Crag Boar Rib + 1 Malt; learn the recipe from your bag) if Cooking is still under 40 [G35.6,48.4 Loch Modan]
 
 [OC][A Shaman] |cffffffffCall of Fire finale|r
 Back to the start of the cliff trail below the shrine [G31.4,58.2 Loch Modan]
@@ -140,18 +144,18 @@ On the way back, use the Ceramic Jar on the snow at South Gate Outpost (the last
 Run straight through the pass and north along the west road to [TAR258043 Norric Lochthane] at the north end of the loch - about 6 minutes on foot, so no detours, [QT86667] [G41.8,19 Loch Modan]
 [OC]If the jar melts, Grenhild gives you another jar
 
-[OC]|cffffffffLevel 14-15 - the south caves|r
+[OC]|cffffffffLevel 14-15 - the south caves|r  -  optional block: if you are 15 already the banner alone is worth the walk, it gives the Greataxe
 [OC]Run south down the west road past the bunker into Stonesplinter Valley
 [OC]The Shaman and Bonesnappers only live at the far south end of the valley, around the trogg caves
-Kill 10 [TAR1197 Stonesplinter Shaman] (they heal - interrupt with Earth Shock) and 10 [TAR1164 Stonesplinter Bonesnapper] [QC263] [G36,92 Loch Modan]
+[O]Kill 10 [TAR1197 Stonesplinter Shaman] (they heal - interrupt with Earth Shock) and 10 [TAR1164 Stonesplinter Bonesnapper] (|cffff6060grind|r, 1,050 XP) [QC263] [G36,92 Loch Modan]
 [OC]The banner cave is right next to them
-At the fallen dwarf [TAR269153 Mountaineer Ylva], [QA86585 Banner of the Fallen], then plant the Banner of Ironforge right where you found it [G31.8,86.2 Loch Modan]
+[O]At the fallen dwarf [TAR269153 Mountaineer Ylva], [QA86585 Banner of the Fallen] (1,250 XP and |cff66ff66Mountaineer's Greataxe|r (2H axe 11.2 dps +3 Str +4 Sta), your weapon until the Hall of Thanes - one event and one kill, not a grind), then plant the Banner of Ironforge right where you found it [G31.8,86.2 Loch Modan]
 [OC]Waves of level 12-14 troggs come from both sides, 1-2 at a time, for about 30 seconds each; stay by the banner. Headsplitter (level 16) charges you at the end.
-Kill [TAR269185 Headsplitter] [QC86585] [G31.8,86.2 Loch Modan]
+[O]Kill [TAR269185 Headsplitter] [QC86585] [G31.8,86.2 Loch Modan]
 [OC]Grind northwest back to the bunker
-Inside at [TAR1090 Mountaineer Wallbang], [QT263] [G23.5,74.5 Loch Modan]
-At the top at [TAR1092 Captain Rugelfuss], [QT86585] [QA217 In Defense of the King's Lands] (Grawmug + 2 guards, level 17 - group quest, it waits for the 16-17 chapter) [G23.2,73.7 Loch Modan]
-[OC][A Shaman] |cffffcc00Gear:|r take Mountaineer's Greataxe (2H axe 11.2 dps +3 Str +4 Sta) and equip it - it beats the Coldridge Hammer until the Hall of Thanes
+[O]Inside at [TAR1090 Mountaineer Wallbang], [QT263] [G23.5,74.5 Loch Modan]
+[O]At the top at [TAR1092 Captain Rugelfuss], [QT86585] [QA217 In Defense of the King's Lands] (Grawmug + 2 guards, level 17 - group quest, it waits for the 16-17 chapter; 217 is only offered after 263) [G23.2,73.7 Loch Modan]
+[OC][A Shaman] |cffffcc00Gear:|r take Mountaineer's Greataxe (2H axe 11.2 dps +3 Str +4 Sta) and equip it (needs Two-Handed Axes from Buliwyf) - it beats the Coldridge Hammer and your quarterstaff until the Hall of Thanes
 [OC][A Hunter] |cffffcc00Gear:|r Mountaineer's Greataxe (+4 Sta) is a stat stick if you trained Two-Handed Axes in Ironforge, otherwise vendor it; Invader's Mace is unusable
 
 [XP15 Grind the Stonesplinter Valley troggs until level 15 (16 is more comfortable for the dungeon)]

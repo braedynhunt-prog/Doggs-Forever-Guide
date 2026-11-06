@@ -9,7 +9,7 @@ Guidelime.registerGuide([[
 |cFFfff8a3Fly to [F Thelsamar]|r at [TAR352 Dungar Longdrink] on the gate ramp [G71.0,72.5 Stormwind City]
 [OC]|cffffffffThelsamar|r
 At [TAR1340 Mountaineer Kadrell], [QA468 Report to Mountaineer Rockgar] (165 XP, hand in at the north exit) [G32.6,49.7 Loch Modan]
-[O]At [TAR167 Morhan Coppertongue], [QA86776 Ingredients for the Forge] - 10 Bronze Bars for 2,450 XP and a Tin Bar. |cffffcc00Crafted, not dropped:|r a miner smelts them (Classic recipe: 1 Copper + 1 Tin Bar = 2 Bronze at Mining 65) or buy 10 on the Auction House; skip it if neither of you mines [G34.0,46.5 Loch Modan]
+[O]At [TAR167 Morhan Coppertongue], [QA86776 Ingredients for the Forge] - 10 Bronze Bars for 2,450 XP and a Tin Bar. |cffffcc00Crafted, not dropped:|r buy 10 Bronze Bars on the Auction House if they are cheap, otherwise skip it [G34.0,46.5 Loch Modan]
 [O]|cFFFF0000GROUP 2+|r At [TAR1139 Magistrate Bluntnose], [QA255 Mercenaries] - 4 Mo'grosh Ogres, 4 Brutes, 4 Enforcers (ELITE, level 18-20, 1,130-1,450 HP): 12 kills, |cff66ff66normal|r for a group [G34.6,44.5 Loch Modan]
 [O]|cFFFF0000GROUP 3+|r At the WANTED poster, [QA256 WANTED: Chok'sul] - Chok'sul is a level 22 ELITE (1,686 HP) at the top of the ogre mound: bring your tank friend [G37.3,46.5 Loch Modan]
 [O][A Hunter] At [TAR1469 Vrok Blunderblast], buy Heavy Shot for a long day (600+) [G35.8,43.5 Loch Modan]

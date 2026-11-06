@@ -5,7 +5,7 @@ Guidelime.registerGuide([[
 [OC]|cffffffffStormwind loop 1|r  -  ~8,000 XP of errands, no fighting
 [OC]You land at the gate flightmaster. Work the city clockwise: gate - Old Town - Trade District - canal - harbor - Cathedral Square - Park - Keep library - Dwarven District - Old Town - gate
 At the gate at [TAR466 General Marcus Jonathan], [QT120] [QA121 Messenger to Stormwind] (back to Solomon in the 20+ chapter) [G69.2,82.7 Stormwind City]
-At the Auction House, buy 10 [CI4365,10 Coarse Dynamite] if you have not, and then check the Leatherworking trainer: |cff66ff66Totemic Leather Armor|r (chest, level 15: +7 Str +3 Sta +3 Int +6 spell power; 16 Light Leather + 2 Cured Light Hide + 1 Sulfuric Acid, no Pristine Leather) has no pattern item on Wowhead Forever (2 Nov) and looks trainer-taught (foreverdiff, unverified) - if Simon Tanner in Old Town (71.7,63.0) lists it, it is the best chest in the guide and worth the switch: bank your Pyrite, drop Mining for Leatherworking at him and skill to 75 on your Light Leather (Light Armor Kits, then Handstitched pieces - Classic rates, unverified on Forever); the acid is Alchemy 40 (2 Pyrite + 1 Empty Vial each): an alchemist or the AH [G61.1,70.7 Stormwind City]
+At the Auction House, buy 10 [CI4365,10 Coarse Dynamite] if you have not, then search |cff66ff66Pristine Leather|r and |cff66ff66Sulfuric Acid|r (about 4s apiece on 6 Nov) for the Totemic pieces whose patterns you hold - Belt: 2 Pristine + 1 acid, Gloves: 2 + 2 - and Light Hide if you are short for Cured Light Hide. If Fimble lacked a recipe, Simon Tanner in Old Town (71.7,63.0) is the Stormwind Leatherworking trainer [G61.1,70.7 Stormwind City]
 [OC][A Shaman] |cffffcc00Level 18:|r nothing on your sheet is bought at 18 (Tremor Totem, Stoneclaw 2 and the rank-ups are not listed), so skip the tram trip; the level-20 stop is chapter 08. There is no shaman trainer in Stormwind.
 [O][A Hunter] No tram needed: the loop passes the Dwarven District, where [TAR5515 Einris Brightspear] (67.3,36.3) teaches your level 18 spells (Multi-Shot) and, once you ding 20, Aspect of the Cheetah, Aimed Shot and Freezing Trap; [TAR5510 Thulman Flintcrag] (62,36.6) sells Heavy Shot - 500+ for the Deadmines [G67.3,36.3 Stormwind City]
 At [TAR5494 Catherine Leland] on the canal (fishing supplies), buy 1 [CI6529,1 Shiny Bauble] and 3 [CI6530,3 Nightcrawlers] (Nightcrawlers need Fishing 50 to use - buy them anyway, the quest only wants them in your bags) [G55.1,69.8 Stormwind City]
@@ -120,7 +120,8 @@ Outside on the coast at [TAR253279 Alba Fairmoon], [QT92753] [QA92819 Destructio
 Use the detonator [QC92819] [G38.6,83.2 Westfall]
 At [TAR253279 Alba Fairmoon], [QT92819] [G38.6,83.2 Westfall]
 Walk west along the beach: [TAR391 Old Murk-Eye] (level 20, murloc escort) patrols around 29,76 - kill him with the group for the scale [QC104] [G29.3,76 Westfall]
-At the lighthouse at [TAR392 Captain Grayson], [QT152] [QT104] [G30,86 Westfall]
+At the lighthouse at [TAR392 Captain Grayson], [QT104] [G30,86 Westfall]
+[O]Also at [TAR392 Captain Grayson], [QT152] (11s) [G30,86 Westfall]
 [OC]|cffffcc00Gear:|r nothing (shield / wand / held item) - vendor Grayson's Torch
 |cFFfff8a3Hearth to [H Sentinel Hill]|r
 At [TAR234 Gryan Stoutmantle], [QT14] [QT166] [G56.3,47.5 Westfall]

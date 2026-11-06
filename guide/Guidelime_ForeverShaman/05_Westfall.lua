@@ -30,7 +30,7 @@ At flightmaster [TAR523 Thor], get the [P Sentinel Hill] flightpoint [G56.5,52.6
 [OC]|cffffffffNorth loop|r
 [OC]Run north up the road to Saldean's farm
 At [TAR233 Farmer Saldean], [QA9 The Killing Fields] [V] [G56,31.2 Westfall]
-Inside the house at [TAR235 Salma Saldean], [QA22 Goretusk Liver Pie] [G56.4,30.5 Westfall]
+[O]Inside the house at [TAR235 Salma Saldean], [QA22 Goretusk Liver Pie] (|cffff6060grind|r: ~25-30 goretusks for 8 livers, 910 XP; the pie recipe is skill-up filler) [G56.4,30.5 Westfall]
 [O]At [TAR253395 Ozwin Ironsprocket] behind the farm, [QA92909 Harvesting the Harvesters] - |cffff6060grind|r: 14 Golem Isosprings + 5 Gyrostabilizers from the harvest golems/watchers, very low drop. Take it, keep whatever drops while you do The Killing Fields, hand it in only if it completes on its own. A golem can also drop a Precessive Autocognition Assembly that starts the 800 XP middle part - hand that in too [G51.4,32.2 Westfall]
 [OC]Run northeast to the Jansen Stead
 At [TAR237 Farmer Furlbrow], [QA64 The Forgotten Heirloom] [G60,19.4 Westfall]
@@ -46,12 +46,13 @@ Kill [TAR126 Murloc Coastrunner] on the north beach for 7 Longshore Murloc Gills
 Kill [TAR504 Defias Trapper] (nets) and [TAR95 Defias Smuggler] - 15 each - around the Molsen farm and the fields [QC12] [G44,33 Westfall]
 Use the Well Water Sample Kit at the Molsen Farm well [QC92742,2] [G43,28 Westfall]
 Kill 20 [TAR114 Harvest Watcher] in the fields; loot Okra (3), Flasks of Oil (5, for the lighthouse later) and any golem parts [QC9] [G46,37 Westfall]
-Kill [TAR199 Young Fleshripper] for 3 Stringy Vulture Meat and [TAR454 Young Goretusk] for 3 Goretusk Snouts and 8 Goretusk Livers [QC22] (livers are a ~32% drop: budget ~25-30 goretusks, which also covers the snouts; if you are still short, come back to it while doing the Killing Fields rather than camping here) [G51,30 Westfall]
+[O]Kill [TAR199 Young Fleshripper] for 3 Stringy Vulture Meat and [TAR454 Young Goretusk] for 3 Goretusk Snouts and 8 Goretusk Livers [QC22] (livers are a ~32% drop: budget ~25-30 goretusks, which also covers the snouts; if you are still short, come back to it while doing the Killing Fields rather than camping here) [G51,30 Westfall]
 [OC]Run back to Saldean's farm
 At [TAR233 Farmer Saldean], [QT9] [V] [G56,31.2 Westfall]
 [OC][A Shaman] |cffffcc00Gear:|r Harvester's Pants (leather +2 Agi +3 Spi) only if you still wear Dwarven Leather Pants; otherwise the Pestslayer bow to vendor
 [OC][A Hunter] |cffffcc00Gear:|r Harvester's Pants (+2 Agi +3 Spi) only if you still wear the Dwarven Leather Pants. The Pestslayer is a 10 dps bow - your Calibrated Blunderbuss is far better, vendor it
-Inside at [TAR235 Salma Saldean], [QT36] [QA38 Westfall Stew] [QT22] - learn the Recipe: Goretusk Liver Pie (Cooking 50, +3 Str; spare livers + Mild Spices) and, after the stew, Recipe: Westfall Stew (75): both are skill-up fillers, Longjaw stays your buff food [G56.4,30.5 Westfall]
+Inside at [TAR235 Salma Saldean], [QT36] [QA38 Westfall Stew] - after the stew, learn the Recipe: Westfall Stew (75): a skill-up filler, Longjaw stays your buff food [G56.4,30.5 Westfall]
+[O]Also at [TAR235 Salma Saldean], [QT22] - learn the Recipe: Goretusk Liver Pie (Cooking 50, +3 Str; spare livers + Mild Spices), skill-up filler [G56.4,30.5 Westfall]
 Finish [QC38] (3 Stringy Vulture Meat, 3 Goretusk Snouts, 3 Murloc Eyes, 3 Okra) - you should have them all [G56.4,30.5 Westfall]
 Inside at [TAR235 Salma Saldean], [QT38] [G56.4,30.5 Westfall]
 [OC]|cffffcc00Gear:|r nothing (cloth mitts / dagger) - take the Westfall Stew for the run-speed buff
@@ -76,22 +77,23 @@ Bandage to 80: keep making Heavy Linen from the Defias cloth until First Aid 80 
 [OC]Moonbrook is Defias town - level 15-18 humanoids, pull carefully
 [O]In the barn on the south side of Moonbrook at the [TAR249713 Odd Child], [QA92109 My First Alchemy Set] - only if you can get 5 Empty Vials (any alchemy vendor), 5 Silverleaf and 5 Peacebloom; then [QT92109] [QA92110 My First Real Potion] (3 Murloc Eyes) and [QT92110] - 840 XP for a herbalist [G41.2,79 Westfall]
 [OC]Run southwest to the lighthouse on the coast
-At [TAR392 Captain Grayson], [QA103 Keeper of the Flame] [QA152 The Coast Isn't Clear] [QA104 The Coastal Menace] [G30,86 Westfall]
+At [TAR392 Captain Grayson], [QA103 Keeper of the Flame] [QA104 The Coastal Menace] [G30,86 Westfall]
+[O]Also at [TAR392 Captain Grayson], [QA152 The Coast Isn't Clear] (|cffff6060grind|r: 7 each of four murloc types along the whole coast, 1,450 XP + 11s) [G30,86 Westfall]
 At [TAR392 Captain Grayson], [QT103] if you looted 5 Flasks of Oil from the harvest golems [G30,86 Westfall]
 [OC]|cffffcc00The Coast Isn't Clear|r needs 7 of each of four murloc types and they live in four different places along Longshore - the circuit below passes all of them
-Kill 7 [TAR127 Murloc Tidehunter] on the beach north of the lighthouse [QC152,3] [G30,77 Westfall]
+[O]Kill 7 [TAR127 Murloc Tidehunter] on the beach north of the lighthouse [QC152,3] [G30,77 Westfall]
 [O]If a Captain Sander's Treasure Map drops from any Longshore murloc (no stated rate - take it if it falls, do not farm), right-click it [QA136 Captain Sander's Hidden Treasure]: a four-clue hunt along this circuit, 2,890 XP, an 8-slot bag and a loot box at the end [G30,77 Westfall]
 [O]|cFFFF0000Level 20 mob:|r [TAR391 Old Murk-Eye] wanders the beach around 29,76 with a murloc escort - kill him for the scale if your friend is on, otherwise leave him for the Deadmines trip [QC104] [G29.3,76 Westfall]
-Kill 7 [TAR517 Murloc Oracle] as you grind north along Longshore [QC152,4] [G28,65 Westfall]
+[O]Kill 7 [TAR517 Murloc Oracle] as you grind north along Longshore [QC152,4] [G28,65 Westfall]
 [OC]Continue north to the Gold Coast Quarry
 Kill 6 [TAR1426 Riverpaw Miner] in the quarry [QC92745,2] [G29.8,48 Westfall]
 [O]Treasure hunt: the Captain's Footlocker is on the beach just west of the quarry - search it [QT136] [QA138 Captain Sander's Hidden Treasure] [G25.9,47.8 Westfall]
 Ride east from the quarry to Alexston Farmstead and click the Burned-Out Remains in the cart wreckage, [QA79008 ... and that note you found] (1,750 XP at its Barrens hand-in on the Razorfen Kraul trip, chapter 26; this starts the Cozy Sleeping Bag chain, a +3% XP buff finished in the 30-40 guide - one log slot until then) [G37.4,50.7 Westfall]
 [O]Treasure hunt: the Broken Barrel by the ruined chimney is 3 units east of the farmstead [QT138] [QA139 Captain Sander's Hidden Treasure] [G40.5,47.8 Westfall]
 [OC]Back west to the coast
-Kill 7 [TAR171 Murloc Warrior] on the beach north of the quarry [QC152,2] [G28,38 Westfall]
+[O]Kill 7 [TAR171 Murloc Warrior] on the beach north of the quarry [QC152,2] [G28,38 Westfall]
 [OC]Follow the coast round to the north beach
-Kill 7 [TAR126 Murloc Coastrunner] on the north beach [QC152,1] [G48,9.5 Westfall]
+[O]Kill 7 [TAR126 Murloc Coastrunner] on the north beach [QC152,1] [G48,9.5 Westfall]
 Kill 4 [TAR1236 Kobold Digger] in the Jangolode Mine, just inland on the way back [QC92745,1] [G45.3,20 Westfall]
 [O]Treasure hunt: the Old Jug next to the windmill, just west of the mine [QT139] [QA140 Captain Sander's Hidden Treasure] [G40.6,17.0 Westfall]
 [O]Treasure hunt: the Locked Chest on the north-west coast, 15 units west and back - open it [QT140] (1,150 XP, 8 silver, Captain Sander's Booty Bag 8-slot, Captain Sander's Locker - open it - and a shirt and a cloth sash +2 Sta +2 Spi: wear the sash only if your belt has no stats) [G26,16.9 Westfall]
