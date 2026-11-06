@@ -61,7 +61,7 @@ At [TAR903 Guard Howe] on the road to Three Corners, [QT128] [G26.4,57.9 Redridg
 
 [OC]|cffffffffWest into Elwynn|r  -  the road from Three Corners reaches the Eastvale Logging Camp first and the Tower of Azora second; Northshire is the optional last leg
 Follow the road south-west to Three Corners and on into Elwynn (~2 minutes to the border) [G10.2,72.0 Redridge Mountains]
-[OC]|cffffcc00Merchant camp|r is right here (10,72): sell, hand in filled Waylaid Crates to [TAR256390 Marcy Baker] (9.7,70.9) (15-30s each plus Favor; buy crates on the AH if you are short of Favor for a pattern - chapter 06), and buy the Totemic Hood (skill 100), Tunic (110) and Leggings (125) patterns from [TAR256734 Daniel Stitchsong] (10,72.4), 30 Favor each - details in chapter 06
+[OC]|cffffcc00Merchant camp|r is right here (10,72): sell, hand in filled Waylaid Crates to [TAR256390 Marcy Baker] (9.7,70.9) (5-30 Favor each by tier, no money; buy crates on the AH if you are short of Favor for a pattern - chapter 06), and buy the Totemic Hood (skill 100), Tunic (110) and Leggings (125) patterns from [TAR256734 Daniel Stitchsong] (10,72.4), 30 Favor each - details in chapter 06
 At [TAR294 Marshal Haggard] in the Eastvale Logging Camp, [QT74] [QA75 The Legend of Stalvan] [G84.6,69.4 Elwynn Forest]
 Upstairs in his house, open Marshal Haggard's Chest for the Faded Journal Page [QC75] [G85.7,69.5 Elwynn Forest]
 Back with [TAR294 Marshal Haggard], [QT75] [QA78 The Legend of Stalvan] (570 XP: Tavernkeep Smitts in Darkshire, chapter 17) [G84.6,69.4 Elwynn Forest]
