@@ -39,5 +39,6 @@ xp  12_Ashenvale.lua:65  "3,050 XP" matches no quest on the line (1034 The Ruins
 xp  15_Stockade.lua:12  "2,000 XP" matches no quest on the line (343 Speaking of Fortitude = 195)
 xp  20_Darnassus.lua:22  "3,050 XP" matches no quest on the line (2925 Klockmort's Essentials = 245)
 money  24_Gnomeregan.lua:60  quest: "3 silver" quoted but 2951 The Sparklematic 5200! has no money in data/zone_*.json
+money  02_LochModan.lua:41  vendor: "10c" for Mild Spices: tooltip sell price 1c gives 4c - 7c
 money  19_Wetlands2.lua:57  vendor: no vendor item named "Dragonslayer's Lance" in tooling/qdb/item.json
 money  02_LochModan.lua:53  trainer: Buliwyf Stonehand (11865) is not in tooling/trainer_costs.json

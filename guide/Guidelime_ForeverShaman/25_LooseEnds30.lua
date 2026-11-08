@@ -11,7 +11,7 @@ Take the Deeprun Tram to Stormwind [G76.5,51.5 Ironforge]
 At [TAR4982 Thomas] in Cathedral Square, [QA1274 The Missing Diplomat] (230 XP; it only sends you to the Keep) [G49.6,44.5 Stormwind City]
 At [TAR1416 Grimand Elmore] in the Dwarven District, [QT322] [QA325 Armed and Ready] (Blessed Arm is 1,200 XP; Armed and Ready is 590 XP and hands in at Sven Yorgen's camp in Duskwood) [G59.7,33.8 Stormwind City]
 At [TAR6579 Shoni the Shilent] next door, [QT2928] (2,450 XP) [G62.6,34.1 Stormwind City]
-[OC][A Shaman] |cffffcc00Gear (2928):|r take |cff66ff66Operator's Gloves|r (leather +6 Str +4 Sta +4 Spi). Shilly Mitts (cloth +6 Spi, +5 spell damage) are worse for a two-hander and Shoni's Disarming Tool is an off-hand axe: pass
+[OC][A Shaman] |cffffcc00Gear (2928):|r take |cff66ff66Operator's Gloves|r (leather +6 Str +4 Sta +4 Spi). Shilly Mitts (cloth +6 Spi, +5 spell damage) are a near tie (25.0 vs 22.0 central, 14.0 vs 18.0 conservative) and neither pair beats the Zodiac Gloves; Shoni's Disarming Tool is an off-hand axe: pass
 [OC][A Hunter] |cffffcc00Gear (2928):|r Operator's Gloves (leather +6 Str +4 Sta +4 Spi) only if your gloves have no stats; Shilly Mitts are cloth and the Disarming Tool is an off-hand axe: vendor the rest
 [O]At [TAR1440 Milton Sheaf] in the Royal Library, [QT542] (3,550 XP; only if you took Preserving Knowledge in Hillsbrad) [G77.1,30.2 Stormwind City]
 At [TAR2439 Major Samuelson] in the Keep, [QT563] (3,200 XP) [G75.8,36.7 Stormwind City]

@@ -5,7 +5,7 @@ Guidelime.registerGuide([[
 [OC]|cffffffffStormwind loop 1|r  -  ~8,000 XP of errands, no fighting
 [OC]You land at the gate flightmaster. Work the city clockwise: gate - Old Town - Trade District - canal - harbor - Cathedral Square - Park - Keep library - Dwarven District - Old Town - gate
 At the gate at [TAR466 General Marcus Jonathan], [QT120] [QA121 Messenger to Stormwind] (back to Solomon in the 20+ chapter) [G69.2,82.7 Stormwind City]
-At the Auction House, buy 10 [CI4365,10 Coarse Dynamite] if you have not, then search |cff66ff66Pristine Leather|r and |cff66ff66Sulfuric Acid|r (about 4s apiece on 6 Nov) for the Totemic pieces whose patterns you hold - Belt: 2 Pristine + 1 acid, Gloves: 2 + 2 - and Light Hide if you are short for Cured Light Hide. If Fimble lacked a recipe, Simon Tanner in Old Town (71.7,63.0) is the Stormwind Leatherworking trainer [G61.1,70.7 Stormwind City]
+At the Auction House, buy 10 [CI4365,10 Coarse Dynamite] if you have not, then search |cff66ff66Pristine Leather|r and |cff66ff66Sulfuric Acid|r (about 4s apiece on 6 Nov) for the Totemic pieces whose patterns you hold - Belt: 2 Pristine + 1 acid, Gloves: 2 + 2 - and Light Hide if you are short for Cured Light Hide. If Ironforge lacked a recipe, Randal Worth in Old Town (72.1,62.9) sells the Apprentice ones and Simon Tanner beside him (71.7,63.0) the Journeyman rank and recipes - whichever talks to you [G61.1,70.7 Stormwind City]
 [OC][A Shaman] |cffffcc00Level 18:|r nothing on your sheet is bought at 18 (Tremor Totem, Stoneclaw 2 and the rank-ups are not listed), so skip the tram trip; the level-20 stop is chapter 08. There is no shaman trainer in Stormwind.
 [O][A Hunter] No tram needed: the loop passes the Dwarven District, where [TAR5515 Einris Brightspear] (67.3,36.3) teaches your level 18 spells (Multi-Shot) and, once you ding 20, Aspect of the Cheetah, Aimed Shot and Freezing Trap; [TAR5510 Thulman Flintcrag] (62,36.6) sells Heavy Shot - 500+ for the Deadmines [G67.3,36.3 Stormwind City]
 At [TAR5494 Catherine Leland] on the canal (fishing supplies), buy 1 [CI6529,1 Shiny Bauble] and 3 [CI6530,3 Nightcrawlers] (Nightcrawlers need Fishing 50 to use - buy them anyway, the quest only wants them in your bags) [G55.1,69.8 Stormwind City]
@@ -84,7 +84,7 @@ Kill [TAR626 Foreman Thistlenettle] (level 20 elite, near the instance portal) f
 [OC][A Shaman] |cffffcc00Loot:|r |cff66ff66Rockslicer|r (2H axe 19.7 dps +7 Str, req 18) - ROLL, it beats the Ironforge Greathammer. Rhahk'Zor's Hammer (2H mace 18.4 dps +8 Sta +7 spell) - roll only if Rockslicer goes elsewhere.
 [OC][A Hunter] |cffffcc00Loot:|r nothing for you here (Str axe / caster mace) - pass, or take Rockslicer as a stat stick only if nobody else wants it
 [O]|cff66ff66Ongoing:|r loot Red Silk Bandanas from the Defias trash [QC214]
-[OC][A Shaman] |cffffcc00Trash loot:|r Blackened Defias Leggings (leather +6 Str +6 Agi; Overseers and Taskmasters, rate unknown) - roll, they beat Smith's Trousers, 17.1 vs 11.4. Stonemason Trousers (+7 Agi +7 Spi; Blackguards, ~6%) are second. Neither is worth a second run.
+[OC][A Shaman] |cffffcc00Trash loot:|r Stonemason Trousers (leather +7 Agi +7 Spi; Blackguards, ~6%) - roll, the best legs in here: 23.1 vs Smith's Trousers 11.2 on the weights. Blackened Defias Leggings (leather +6 Str +6 Agi; Overseers and Taskmasters, rate unknown) second at 16.8, still a clear roll. Neither is worth a second run.
 [OC]|cffffffffMiner Johnson|r (rare, 19) sometimes patrols the mine tunnels after the first boss
 [OC]|cffffcc00Loot:|r Miner's Cape (+5 Sta +4 AP) is a small upgrade if you have no Spiritwraith Drape; Gold-plated Buckler for the shield set
 [OC]|cffffffffBoss 2 - Sneed's Shredder, then Sneed|r (20) at the top of the wooden ramps
@@ -94,7 +94,7 @@ Kill [TAR642 Sneed's Shredder] and loot the Gnoam Sprecklesprocket [QC2040]
 [OC]|cffffffffBoss 3 - Gilnid|r (20) in the foundry
 [OC]Fire elemental adds around him; kill the goblins first. The forge for Alba's explosives is here
 Plant the Extra-Destructive Explosives next to the big forge in Gilnid's foundry [QC92753]
-[OC]|cffffcc00Loot:|r Lavishly Jeweled Ring (+2 Agi +6 Int) - roll, your first ring. Smelting Pants (leather +7 Sta +5 Spi) - only if nobody else needs them.
+[OC]|cffffcc00Loot:|r Lavishly Jeweled Ring (+2 Agi +6 Int) - roll, your first ring. Smelting Pants (leather +7 Sta +5 Spi) - a small upgrade over Smith's Trousers (12.5 vs 11.2) if you won neither trash pair; roll only if nobody else needs them.
 [OC]|cffffffffThe door|r
 [OC]Loot Defias Gunpowder from the crates in the goblin workshop past Gilnid, then use it on the cannon to blow the door (or a rogue can pick it)
 [OC]|cffffffffBoss 4 - Mr. Smite|r (20) on the ship deck

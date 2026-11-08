@@ -2,7 +2,7 @@
 
 Report only (tooling/gear_calls.py). Dwarf chain of the guide (Hunter and Human lines skipped). Quoted stats on gear lines compared with today's Forever tooltips; quest-reward picks scored with weights/score_items.py (AP-equivalent; band nearest the chapter's starting level; no mace term).
 
-- Tooltips (newest file wins per item): weights/tooltips/2026-11-05.json dated 2026-11-05 - 698 items taken; weights/tooltips/2026-11-02.json dated 2026-11-02 - 0 items taken; weights/tooltips/2026-11-01.json dated 2026-11-01 - 0 items taken; weights/tooltips/2026-10-29.json dated 2026-10-29 - 0 items taken; weights/item_tooltips.json dated 2026-09-24 (sources.json fallback_date) - 0 items taken
+- Tooltips (newest file wins per item): weights/tooltips/2026-11-08.json dated 2026-11-08 - 698 items taken; weights/tooltips/2026-11-05.json dated 2026-11-05 - 0 items taken; weights/tooltips/2026-11-02.json dated 2026-11-02 - 0 items taken; weights/tooltips/2026-11-01.json dated 2026-11-01 - 0 items taken; weights/tooltips/2026-10-29.json dated 2026-10-29 - 0 items taken; weights/item_tooltips.json dated 2026-09-24 (sources.json fallback_date) - 0 items taken
 - Weights: level-20 central wdps=14 str=2 ap=1 int=1.65 agi=0.8 spi=2.5 sta=0 sp=2 exp=3; conservative Spi 1.5 SP 1.0 Exp 1.0; no mace term (spec removed 17 Oct 2026); other bands take Int/Agi from enh_weights: L10 int=0.58 agi=0.47; L15 int=1.63 agi=0.58; L25 int=1.72 agi=0.81; L30 int=1.69 agi=0.9
 - Reward choices: data/zone_*.json "itemchoices" (Wowhead Forever atlas, as qinfo.py); item names: tooling/qdb/item.json; gear classes: tooling/client/1.60.1.70790/Item.csv
 - Counts: gear lines scanned 282; item names matched 471; stat mismatches 6; quests checked (2+ choices) 106; quests flagged 39
@@ -247,7 +247,7 @@ Best = best usable choice by central score, 1H weapons excluded unless nothing e
 
 - Ancient War Sword (3209) - Two-Hand Sword 21.7 dps +9 Str +6 Sta; central 321.4 / conservative 321.4; not usable - sword (shaman can't use)
 - Barreling Reaper (6194) - Main Hand Axe 16.6 dps +5 Sta; central 232.1 / conservative 232.1; usable - 1H (shield set only)
-- ? (287067) - None  15.0 dps +3 Str +3 Spi; central 13.5 / conservative 10.5; not usable - not equipment
+- ? (287067) - None  14.7 dps +3 Str +3 Spi; central 13.5 / conservative 10.5; not usable - not equipment
 - Guide pick: Ancient War Sword (line 112)
 - Suggested pick: Barreling Reaper
 - Why flagged: central best Barreling Reaper beats the pick by 232.1

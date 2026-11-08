@@ -62,7 +62,7 @@ At [TAR1572 Thorgrum Borrelson], |cFFfff8a3Fly to [F Ironforge]|r [G33.9,51 Loch
 [O]Two steps away at [TAR5161 Grimnur Stonebrand], Journeyman Fishing if you have not got it yet (Fishing 50) [T] [G48.1,6.9 Ironforge]
 [A Hunter] In the Military Ward at [TAR5116 Olmin Burningbeard], [T] train anything you missed, then at [TAR5123 Bretta Goldfury] (72.2,65.2) top up Heavy Shot - Quartermaster Lewis on Sentinel Hill and the Stormwind gunsmith sell it too, so 600 is plenty [G72.2,65.2 Ironforge]
 [O][A Hunter] |cffffcc00Talents so far (beta Beast Mastery build):|r 5/5 Deadly Aspects (10-14), then 2/2 Pathfinding at 15-16; Focused Fire 2/2 comes at 17-18 and Improved Revive Pet 2/2 at 19-20
-[OC]|cffffcc00Professions:|r Nissa Firestone (First Aid, 55.1,58.3) and Daryl Riknussun (Cooking, 60.1,36.4) teach Journeyman once the skill is 50, and so do [TAR6291 Balthus Stoneflayer] (Skinning, 39.9,32.5) and [TAR5127 Fimble Finespindle] (Leatherworking, 40.2,33.7); Balthus also completes Camping 101: Skinning at Skinning 20
+[OC]|cffffcc00Professions:|r Nissa Firestone (First Aid, 55.1,58.3) and Daryl Riknussun (Cooking, 60.1,36.4) teach Journeyman once the skill is 50, and so do [TAR6291 Balthus Stoneflayer] (Skinning, 39.9,32.5) and [TAR5127 Fimble Finespindle] (Leatherworking, 40.2,33.7; Gretta Finespindle beside him at 38.8,32.9 if he will not talk to you); Balthus also completes Camping 101: Skinning at Skinning 20
 [OC]Run to Tinker Town and take the Deeprun Tram to Stormwind [G76,51 Ironforge]
 [OC]|cffffffffFinished: Loch Modan second pass|r  -  continue with 17-18 Westfall
 [NX 17-18 Westfall]
