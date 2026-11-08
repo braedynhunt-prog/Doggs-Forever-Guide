@@ -1,0 +1,98 @@
+enh_weights.py run, 8 Nov 2026 (regen 1.25 x Spirit per 5 s, client crit tables, base melee crit 0.46, Earth Shock / Lightning Shield of build 1.60.1.70755+, Ancestral Knowledge 2/5 from 20)
+
+
+=== Level 10 === policy: shock every 6 s + Lightning Shield
+   kills/h 168  fight 5.4s  white dps 15.9  AP 138 (Rockbiter 63)  crit 3.1%  ES 39 x1.9/fight  pool 309  fights/drink 2.1  fight-share 0.67  heal mana/cycle 0
+   naked+gear: Str 30 Agi 20 Sta 32 Int 27 Spi 30
+   wdps=13.88  str=1.99  ap=1.00  int=0.66  agi=0.40  spi=7.56  sta=0.00  sp=4.24  exp=13.87  hitpct=2.88  critpct=2.88  mace_bonus=0.00
+--- Level 10 --- policy: kill-speed optimum = shocks/fight 1, Lightning Shield True
+   kills/h 172  fight 7.6s  white dps 15.9  AP 138 (Rockbiter 63)  crit 3.1%  ES 39 x1.0/fight  pool 309  fights/drink 3.5  fight-share 0.79  heal mana/cycle 3
+   naked+gear: Str 30 Agi 20 Sta 32 Int 27 Spi 30
+   wdps=13.85  str=1.99  ap=1.00  int=0.58  agi=0.47  spi=4.00  sta=0.00  sp=2.62  exp=13.63  hitpct=2.88  critpct=2.88  mace_bonus=0.00
+
+=== Level 15 === policy: shock every 6 s + Lightning Shield
+   kills/h 149  fight 7.5s  white dps 23.8  AP 210 (Rockbiter 76)  crit 6.4%  ES 72 x2.3/fight  pool 500  fights/drink 1.7  fight-share 0.68  heal mana/cycle 16
+   naked+gear: Str 37 Agi 24 Sta 45 Int 34 Spi 35
+   wdps=13.94  str=2.00  ap=1.00  int=1.63  agi=0.58  spi=4.77  sta=0.00  sp=3.51  exp=5.95  hitpct=4.02  critpct=4.02  mace_bonus=0.00
+--- Level 15 --- policy: kill-speed optimum = shocks/fight max, Lightning Shield True
+   kills/h 149  fight 7.5s  white dps 23.8  AP 210 (Rockbiter 76)  crit 6.4%  ES 72 x2.3/fight  pool 500  fights/drink 1.7  fight-share 0.68  heal mana/cycle 16
+   naked+gear: Str 37 Agi 24 Sta 45 Int 34 Spi 35
+   wdps=13.94  str=2.00  ap=1.00  int=1.63  agi=0.58  spi=4.77  sta=0.00  sp=3.51  exp=5.95  hitpct=4.02  critpct=4.02  mace_bonus=0.00
+
+=== Level 20 === policy: shock every 6 s + Lightning Shield
+   kills/h 165  fight 8.8s  white dps 41.6  AP 336 (Rockbiter 103)  crit 10.6%  ES 73 x2.5/fight  pool 767  fights/drink 5.1  fight-share 0.82  heal mana/cycle 33
+   naked+gear: Str 64 Agi 48 Sta 57 Int 44 Spi 56
+   wdps=13.96  str=2.00  ap=1.00  int=1.67  agi=0.82  spi=4.12  sta=0.00  sp=3.00  exp=5.55  hitpct=6.40  critpct=6.40  mace_bonus=0.00
+--- Level 20 --- policy: kill-speed optimum = shocks/fight max, Lightning Shield True
+   kills/h 165  fight 8.8s  white dps 41.6  AP 336 (Rockbiter 103)  crit 10.6%  ES 73 x2.5/fight  pool 767  fights/drink 5.1  fight-share 0.82  heal mana/cycle 33
+   naked+gear: Str 64 Agi 48 Sta 57 Int 44 Spi 56
+   wdps=13.96  str=2.00  ap=1.00  int=1.67  agi=0.82  spi=4.12  sta=0.00  sp=3.00  exp=5.55  hitpct=6.40  critpct=6.40  mace_bonus=0.00
+
+=== Level 25 === policy: shock every 6 s + Lightning Shield
+   kills/h 158  fight 9.3s  white dps 45.6  AP 398 (Rockbiter 136)  crit 10.2%  ES 140 x2.6/fight  pool 1005  fights/drink 3.3  fight-share 0.81  heal mana/cycle 54
+   naked+gear: Str 68 Agi 49 Sta 58 Int 52 Spi 61
+   wdps=13.97  str=2.00  ap=1.00  int=1.72  agi=0.81  spi=3.13  sta=0.00  sp=3.24  exp=4.34  hitpct=7.07  critpct=7.07  mace_bonus=0.00
+--- Level 25 --- policy: kill-speed optimum = shocks/fight max, Lightning Shield True
+   kills/h 158  fight 9.3s  white dps 45.6  AP 398 (Rockbiter 136)  crit 10.2%  ES 140 x2.6/fight  pool 1005  fights/drink 3.3  fight-share 0.81  heal mana/cycle 54
+   naked+gear: Str 68 Agi 49 Sta 58 Int 52 Spi 61
+   wdps=13.97  str=2.00  ap=1.00  int=1.72  agi=0.81  spi=3.13  sta=0.00  sp=3.24  exp=4.34  hitpct=7.07  critpct=7.07  mace_bonus=0.00
+
+=== Level 30 === policy: shock every 6 s + Lightning Shield
+   kills/h 135  fight 12.2s  white dps 54.5  AP 495 (Rockbiter 202)  crit 9.1%  ES 147 x3.0/fight  pool 1233  fights/drink 3.3  fight-share 0.80  heal mana/cycle 102
+   naked+gear: Str 74 Agi 42 Sta 84 Int 58 Spi 71
+   wdps=13.98  str=2.00  ap=1.00  int=1.69  agi=0.90  spi=2.93  sta=0.00  sp=2.74  exp=4.11  hitpct=8.67  critpct=8.67  mace_bonus=0.00
+--- Level 30 --- policy: kill-speed optimum = shocks/fight max, Lightning Shield True
+   kills/h 135  fight 12.2s  white dps 54.5  AP 495 (Rockbiter 202)  crit 9.1%  ES 147 x3.0/fight  pool 1233  fights/drink 3.3  fight-share 0.80  heal mana/cycle 102
+   naked+gear: Str 74 Agi 42 Sta 84 Int 58 Spi 71
+   wdps=13.98  str=2.00  ap=1.00  int=1.69  agi=0.90  spi=2.93  sta=0.00  sp=2.74  exp=4.11  hitpct=8.67  critpct=8.67  mace_bonus=0.00
+
+===== sensitivity.py =====
+
+##### level 15 #####
+baseline (efficient policy)                  pol=max/LS  wdps=13.94 str= 2.00 int= 1.63 agi= 0.58 spi= 4.77 sta= 0.00 sp= 3.51 exp= 5.95 hitpct= 4.02 critpct= 4.02 mace_bonus= 0.00
+baseline (shock every 6 s)                   pol=max/LS  wdps=13.94 str= 2.00 int= 1.63 agi= 0.58 spi= 4.77 sta= 0.00 sp= 3.51 exp= 5.95 hitpct= 4.02 critpct= 4.02 mace_bonus= 0.00
+Rockbiter at rank-floor value                pol=max/LS  wdps=13.94 str= 2.00 int= 1.63 agi= 0.55 spi= 4.52 sta= 0.00 sp= 3.42 exp= 5.66 hitpct= 3.82 critpct= 3.82 mace_bonus= 0.00
+Rockbiter at tooltip max                     pol=max/LS  wdps=13.94 str= 2.00 int= 1.63 agi= 0.58 spi= 4.81 sta= 0.00 sp= 3.52 exp= 6.00 hitpct= 4.05 critpct= 4.05 mace_bonus= 0.00
+mobs +1 level                                pol=max/LS  wdps=13.94 str= 2.00 int= 1.64 agi= 0.59 spi= 4.73 sta= 0.00 sp= 3.53 exp= 6.16 hitpct= 4.16 critpct= 4.16 mace_bonus= 0.00
+mobs +2 levels                               pol=max/LS  wdps=13.94 str= 2.00 int= 1.64 agi= 0.63 spi= 4.69 sta= 0.00 sp= 3.63 exp= 6.60 hitpct= 4.46 critpct= 4.46 mace_bonus= 0.00
+attacking from behind (group)                pol=max/LS  wdps=13.94 str= 2.00 int= 1.63 agi= 0.55 spi= 4.79 sta= 0.00 sp= 3.42 exp= 2.84 hitpct= 3.81 critpct= 3.81 mace_bonus= 0.00
+Spirit regen half of vanilla                 pol=max/LS  wdps=13.94 str= 2.00 int= 1.63 agi= 0.58 spi= 3.29 sta= 0.00 sp= 3.51 exp= 5.95 hitpct= 4.02 critpct= 4.02 mace_bonus= 0.00
+Spirit regen zero (Forever removed it)       pol=  1/--  wdps=13.92 str= 2.00 int= 1.53 agi= 0.60 spi= 0.31 sta= 0.00 sp= 0.36 exp= 5.94 hitpct= 4.01 critpct= 4.01 mace_bonus= 0.00
+mob HP -30%                                  pol=max/LS  wdps=13.92 str= 2.00 int= 1.69 agi= 0.49 spi= 7.01 sta= 0.00 sp= 5.53 exp= 5.93 hitpct= 4.01 critpct= 4.01 mace_bonus= 0.00
+mob HP +30%                                  pol=max/LS  wdps=13.95 str= 2.00 int= 1.61 agi= 0.58 spi= 3.93 sta= 0.00 sp= 2.69 exp= 5.96 hitpct= 4.02 critpct= 4.02 mace_bonus= 0.00
+walk 5 s between mobs                        pol=max/LS  wdps=13.95 str= 2.00 int= 1.63 agi= 0.58 spi= 3.70 sta= 0.00 sp= 3.51 exp= 5.96 hitpct= 4.02 critpct= 4.02 mace_bonus= 0.00
+walk 15 s between mobs                       pol=max/LS  wdps=13.93 str= 2.00 int= 1.63 agi= 0.49 spi= 6.49 sta= 0.00 sp= 3.50 exp= 5.94 hitpct= 4.01 critpct= 4.01 mace_bonus= 0.00
+mob damage x2 (heals needed)                 pol=max/LS  wdps=13.94 str= 2.00 int= 1.63 agi= 0.64 spi= 4.78 sta= 0.00 sp= 3.51 exp= 5.96 hitpct= 4.02 critpct= 4.02 mace_bonus= 0.00
+mob damage x3                                pol=max/LS  wdps=13.95 str= 2.00 int= 1.63 agi= 0.69 spi= 4.78 sta= 0.00 sp= 3.51 exp= 5.96 hitpct= 4.02 critpct= 4.02 mace_bonus= 0.00
+shock SP coefficient x2                      pol=max/LS  wdps=13.94 str= 2.00 int= 1.63 agi= 0.58 spi= 4.77 sta= 0.00 sp= 4.90 exp= 5.95 hitpct= 4.02 critpct= 4.02 mace_bonus= 0.00
+shock SP coefficient x0                      pol=max/LS  wdps=13.94 str= 2.00 int= 1.63 agi= 0.58 spi= 4.77 sta= 0.00 sp= 2.11 exp= 5.95 hitpct= 4.02 critpct= 4.02 mace_bonus= 0.00
+expertise: flat 0.1%/rating (no level scaling) pol=max/LS  wdps=13.94 str= 2.00 int= 1.63 agi= 0.58 spi= 4.77 sta= 0.00 sp= 3.51 exp= 0.81 hitpct= 4.02 critpct= 4.02 mace_bonus= 0.00
+expertise: 0.25%/point (TBC points)          pol=max/LS  wdps=13.94 str= 2.00 int= 1.63 agi= 0.58 spi= 4.77 sta= 0.00 sp= 3.51 exp= 2.02 hitpct= 4.02 critpct= 4.02 mace_bonus= 0.00
+mace spec restored (pre-17 Oct build)        pol=max/LS  wdps=13.94 str= 2.00 int= 1.63 agi= 0.57 spi= 4.79 sta= 0.00 sp= 3.52 exp= 5.89 hitpct= 3.98 critpct= 3.98 mace_bonus= 6.01
+agi/crit table x0.8 (agi better)             pol=max/LS  wdps=13.94 str= 2.00 int= 1.63 agi= 0.72 spi= 4.78 sta= 0.00 sp= 3.50 exp= 5.91 hitpct= 3.99 critpct= 3.99 mace_bonus= 0.00
+agi/crit table x1.2 (agi worse)              pol=max/LS  wdps=13.94 str= 2.00 int= 1.63 agi= 0.48 spi= 4.77 sta= 0.00 sp= 3.52 exp= 5.98 hitpct= 4.04 critpct= 4.04 mace_bonus= 0.00
+talents: Thundering Strikes first (IV order) pol=max/LS  wdps=13.94 str= 2.00 int= 0.63 agi= 0.52 spi= 4.35 sta= 0.00 sp= 3.36 exp= 5.29 hitpct= 3.57 critpct= 3.57 mace_bonus= 0.00
+
+##### level 20 #####
+baseline (efficient policy)                  pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 0.82 spi= 4.12 sta= 0.00 sp= 3.00 exp= 5.55 hitpct= 6.40 critpct= 6.40 mace_bonus= 0.00
+baseline (shock every 6 s)                   pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 0.82 spi= 4.12 sta= 0.00 sp= 3.00 exp= 5.55 hitpct= 6.40 critpct= 6.40 mace_bonus= 0.00
+Rockbiter at rank-floor value                pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 0.80 spi= 4.00 sta= 0.00 sp= 2.96 exp= 5.41 hitpct= 6.24 critpct= 6.24 mace_bonus= 0.00
+Rockbiter at tooltip max                     pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 0.84 spi= 4.24 sta= 0.00 sp= 3.05 exp= 5.68 hitpct= 6.55 critpct= 6.55 mace_bonus= 0.00
+mobs +1 level                                pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 0.84 spi= 4.08 sta= 0.00 sp= 3.02 exp= 5.73 hitpct= 6.60 critpct= 6.60 mace_bonus= 0.00
+mobs +2 levels                               pol=max/LS  wdps=13.97 str= 2.00 int= 1.67 agi= 0.89 spi= 4.01 sta= 0.00 sp= 3.09 exp= 6.13 hitpct= 7.06 critpct= 7.06 mace_bonus= 0.00
+attacking from behind (group)                pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 0.79 spi= 4.17 sta= 0.00 sp= 2.94 exp= 2.64 hitpct= 6.08 critpct= 6.08 mace_bonus= 0.00
+Spirit regen half of vanilla                 pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 0.84 spi= 3.26 sta= 0.00 sp= 3.00 exp= 5.55 hitpct= 6.40 critpct= 6.40 mace_bonus= 0.00
+Spirit regen zero (Forever removed it)       pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 0.87 spi= 0.72 sta= 0.00 sp= 3.00 exp= 5.55 hitpct= 6.39 critpct= 6.39 mace_bonus= 0.00
+mob HP -30%                                  pol=max/LS  wdps=13.95 str= 2.00 int= 1.71 agi= 0.82 spi= 5.64 sta= 0.00 sp= 4.47 exp= 5.54 hitpct= 6.39 critpct= 6.39 mace_bonus= 0.00
+mob HP +30%                                  pol=max/LS  wdps=13.97 str= 2.00 int= 1.65 agi= 0.82 spi= 3.46 sta= 0.00 sp= 2.36 exp= 5.55 hitpct= 6.40 critpct= 6.40 mace_bonus= 0.00
+walk 5 s between mobs                        pol=max/LS  wdps=13.97 str= 2.00 int= 1.67 agi= 0.82 spi= 3.03 sta= 0.00 sp= 3.00 exp= 5.55 hitpct= 6.40 critpct= 6.40 mace_bonus= 0.00
+walk 15 s between mobs                       pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 0.82 spi= 5.76 sta= 0.00 sp= 3.00 exp= 5.54 hitpct= 6.39 critpct= 6.39 mace_bonus= 0.00
+mob damage x2 (heals needed)                 pol=max/LS  wdps=13.97 str= 2.00 int= 1.67 agi= 0.92 spi= 4.34 sta= 0.00 sp= 3.00 exp= 5.55 hitpct= 6.40 critpct= 6.40 mace_bonus= 0.00
+mob damage x3                                pol=max/LS  wdps=13.97 str= 2.00 int= 1.67 agi= 1.00 spi= 4.51 sta= 0.00 sp= 3.00 exp= 5.55 hitpct= 6.40 critpct= 6.40 mace_bonus= 0.00
+shock SP coefficient x2                      pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 0.82 spi= 4.12 sta= 0.00 sp= 4.26 exp= 5.55 hitpct= 6.40 critpct= 6.40 mace_bonus= 0.00
+shock SP coefficient x0                      pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 0.82 spi= 4.12 sta= 0.00 sp= 1.74 exp= 5.55 hitpct= 6.40 critpct= 6.40 mace_bonus= 0.00
+expertise: flat 0.1%/rating (no level scaling) pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 0.82 spi= 4.12 sta= 0.00 sp= 3.00 exp= 1.29 hitpct= 6.40 critpct= 6.40 mace_bonus= 0.00
+expertise: 0.25%/point (TBC points)          pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 0.82 spi= 4.12 sta= 0.00 sp= 3.00 exp= 3.21 hitpct= 6.40 critpct= 6.40 mace_bonus= 0.00
+mace spec restored (pre-17 Oct build)        pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 0.81 spi= 4.14 sta= 0.00 sp= 3.01 exp= 5.49 hitpct= 6.33 critpct= 6.33 mace_bonus= 8.43
+agi/crit table x0.8 (agi better)             pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 1.01 spi= 4.13 sta= 0.00 sp= 2.99 exp= 5.47 hitpct= 6.31 critpct= 6.31 mace_bonus= 0.00
+agi/crit table x1.2 (agi worse)              pol=max/LS  wdps=13.96 str= 2.00 int= 1.67 agi= 0.69 spi= 4.12 sta= 0.00 sp= 3.01 exp= 5.60 hitpct= 6.45 critpct= 6.45 mace_bonus= 0.00

@@ -107,6 +107,34 @@
     "rewrite tooling/trainer_costs.json in its one-row-per-spell layout, then python tooling/verify.py --all"
    ],
    "notes": "Pulled 5 Nov 2026: Eldrun Stormbreaker 258098 (shaman, rows to level 40), Gremlock Pilsnor 1699 = Daryl Riknussun 5159 (cooking), Paxton Ganter 1700 = Grimnur Stonebrand 5161 (fishing), Thamner Pol 2326 = Nissa Firestone 5150 (first aid). Weapon masters (Buliwyf Stonehand 11865, Woo Ping 11867) have no training list on Wowhead, so weapon-skill prices stay unverified."
+  },
+  {
+   "id": "foreverdb_stats",
+   "path": "weights/enh_weights.py (_AGI_PER_CRIT, _INT_CRIT)",
+   "source": "foreverdb.net/stats/shaman: per-level Agility-per-1%-crit and Intellect-per-1%-spell-crit for shamans from the Forever client's PlayerExpectedStat table, plus 2 AP per Str (ChrClasses); third-party extraction, cross-checked against Braedyn's character sheet at 21 on 8 Nov 2026",
+   "local_read": "\"build\" below (the client build the tables were extracted from, as the page states it)",
+   "build": "1.60.1.70862",
+   "pulled": "2026-11-08",
+   "upstream": {"method": "GET", "url": "https://foreverdb.net/stats/shaman", "read": "the page's \"build 1.60.1.NNNNN\" label; STALE when it is newer than \"build\""},
+   "pull": [
+    "read https://foreverdb.net/stats/shaman (levels 1-60 table) and put the 1/5/10/15/20/25/30/60 rows into _AGI_PER_CRIT and _INT_CRIT in weights/enh_weights.py",
+    "set \"build\" and \"pulled\" here, re-run python weights/enh_weights.py and weights/sensitivity.py into weights/weights_<date>.txt"
+   ],
+   "notes": "Base crit, dodge per Agility and regen per Spirit are server-side (not in the client); those come from the character sheet (docs/forever-enh-stat-weights.md, Verify in game)."
+  },
+  {
+   "id": "wclbox_spells",
+   "path": "weights/enh_weights.py (EARTH_SHOCK, LIGHTNING_SHIELD, HEAL_HP_PER_MANA)",
+   "source": "wowforever.wclbox.com shaman spell pages: per-rank Earth Shock, Lightning Shield and Healing Wave values from the Forever client, with a dated beta-update history; third-party",
+   "local_read": "\"build\" below",
+   "build": "1.60.1.70862",
+   "pulled": "2026-11-08",
+   "upstream": {"method": "GET", "url": "https://wowforever.wclbox.com/en/fashu/shaman/shaman-earth-shock", "read": "the header's \"Current build 1.60.1.NNNNN\"; STALE when it is newer than \"build\""},
+   "pull": [
+    "read the earth-shock, lightning-shield and healing-wave pages; update the rank tables in weights/enh_weights.py if a rank changed",
+    "set \"build\" and \"pulled\" here, re-run the model into weights/weights_<date>.txt"
+   ],
+   "notes": "Earth Shock R1-R7 were raised to about Classic in build 1.60.1.70755 (3 Nov 2026); in game R3 reads 71-76 at level 21 (WCLBox base 69-74 plus within-rank level scaling). Wowhead Forever spell 1220751 gives the top-rank SP mod 0.386."
   }
  ]
 }

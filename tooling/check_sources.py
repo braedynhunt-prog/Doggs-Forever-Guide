@@ -147,6 +147,18 @@ def check_polestar(src):
     return 'INFO', 'upstream differs (local %d lines, upstream %d lines). %s' % (len(loc), len(up), src['notes']), [], src['pull']
 
 
+def check_page_build(src):
+    """8 Nov 2026: foreverdb_stats / wclbox_spells: compare the page's '1.60.1.NNNNN' build label with the recorded one."""
+    text = get_text(src['upstream']['url'])
+    builds = sorted(set(re.findall(r'1\.60\.\d+\.\d+', text)), key=vtuple)
+    if not builds:
+        return 'INFO', 'no build label found on the page; recorded %s (pulled %s)' % (src['build'], src['pulled']), [], []
+    up = builds[-1]
+    if vtuple(up) > vtuple(src['build']):
+        return 'STALE', 'recorded build %s (pulled %s) -> page says %s' % (src['build'], src['pulled'], up), [], src['pull']
+    return 'OK', 'build %s (pulled %s); page says %s' % (src['build'], src['pulled'], up), [], []
+
+
 def check_trainer_costs(src, latest):
     d = json.load(open(rel(src['path']), encoding='utf-8'))
     pulled = sorted(v['pulled'] for k, v in d.items() if not k.startswith('_'))
@@ -178,7 +190,8 @@ def main():
 
     checks = [('questiedb', check_questiedb), ('client', with_wago(check_client)), ('wowhead_xp', with_wago(check_wowhead)),
               ('item_tooltips', with_wago(check_item_tooltips)), ('trainer_costs', with_wago(check_trainer_costs)), ('forever_db', check_forever_db),
-              ('pandaquest_forever', check_pandaquest), ('probe', check_probe), ('polestar', check_polestar)]
+              ('pandaquest_forever', check_pandaquest), ('probe', check_probe), ('polestar', check_polestar),
+              ('foreverdb_stats', check_page_build), ('wclbox_spells', check_page_build)]
     code = 0
     for sid, fn in checks:
         try:

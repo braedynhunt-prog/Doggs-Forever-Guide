@@ -14,8 +14,16 @@ item_tooltips.json            the ~200 Forever item tooltips scraped from Wowhea
 scores_2026-09-24.txt         the last score_items.py output
 
 Recommended weights for the addon (levels 15-20, attack power = 1):
-  weapon dps 14 | Str 2 | AP 1 | Int 1.55 | Agi 0.85 (0.6 at 15) | Spirit 1.0 | Sta 0 (or 0.25 floor)
-  spell dmg 1.5 | expertise 3 per rating point (= 7 per 1% in Pawn, see below) | +1% hit 6 | +1% crit 6
+  weapon dps 14 | Str 2 | AP 1 | Int 1.65 | Agi 0.8 (0.6 at 15) | Spirit 2.5 | Sta 0 (or 0.25 floor)
+  spell dmg 2.0 | expertise 3 per rating point (= 7 per 1% in Pawn, see below) | +1% hit 6 | +1% crit 6
+  (8 Nov 2026: Spirit 1.0 -> 2.5, spell dmg 1.5 -> 2.0, Int 1.55 -> 1.65, Agi 0.85 -> 0.8. Braedyn's level-21 character sheet:
+   mana regen 51 per 5 s at 41 Spirit, unchanged when Int went 45 -> 42 = 1.25 x Spirit per 5 s, no base, no Int term (the model
+   had vanilla's 17 + Spi/5 per tick); melee crit 9.6% = 0.46 base + 39 Agi / 9.4 + 5% Thundering Strikes and spell crit 9.55% =
+   2.3 + 45 Int / 20.0 + 5%, which confirms foreverdb.net's per-level client crit tables (build 1.60.1.70862) now in enh_weights.py;
+   Earth Shock R3 71-76 (build 70755 of 3 Nov raised every rank to about Classic; WCLBox), Lightning Shield R2 24 / R3 40 per orb.
+   Model output with these: Spirit 4.1-4.8 and SP 3.0-3.5 at 15-20 when shocking on cooldown, 2.5 / 1.8 with one shock per fight,
+   1.9 / 1.2 with Lightning Shield only; the central set takes the one-shock case, the conservative set the LS-only case.
+   Run: weights_2026-11-08.txt.)
   (4 Nov 2026: Forever tooltips show expertise as a percent ("Reduces chance to be Dodged or Parried by 0.6%", Dwarven Tree
    Chopper) and Pawn 2.14.1 parses it as ExpertiseRating in percent, so the Pawn scale in docs/forever-addons.md uses 7 per 1%
    (the model valued 6 points = 2.6% at 18). Whether that percent scales with level is still the in-game check below.)
@@ -25,6 +33,7 @@ Recommended weights for the addon (levels 15-20, attack power = 1):
    bands for the 23-31 chapters; tooltips now live in tooltips/<date>.json, item_tooltips.json is the 24 Sep scrape.)
   (3 Nov 2026, later: score_items.py now reads the newest tooltips/<date>.json and prints which; scores_2026-11-03.txt re-run from 2026-11-02.json, which corrects Rockslicer (+7 Str, was +10) and the Ironforge Greathammer (no stats, was +4 Str +7 Sta). The tooltips/<date>.json caches carry no quest field, so score_items.py takes the quest links by item name from item_tooltips.json and says how many in its first line.)
 
-Open until checked in game: Forever's Spirit regen formula (decides Spirit 0.5..1.6), expertise
-rating-to-% below 60 (decides expertise 1..5), Rockbiter AP growth inside a rank, Earth Shock's
-spell-power coefficient. See the last section of the .md.
+Open until checked in game: whether the Spirit regen has a level term (re-read at the same Spirit a few
+levels on), expertise rating-to-% below 60 (decides expertise 1..5), Rockbiter AP growth inside a rank,
+Earth Shock's spell-power coefficient below top rank (0.386 at R7 on Wowhead). Settled 8 Nov 2026: regen
+formula, crit per Agi / Int, base crit, Earth Shock and Lightning Shield ranks. See the .md.

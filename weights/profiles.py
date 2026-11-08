@@ -37,8 +37,11 @@ def nearest_band(level):
 # ---------------------------------------------------------------- enh (2H Enhancement shaman)
 # Copied verbatim from score_items.main() (level-20 band; no mace term since 1 Nov 2026).
 # 3 Nov 2026: Int 1.05 -> 1.55 (Mental Dexterity 50/100/150% of Int, was 33/67/100%; source: Blizzard dev notes 3 Nov)
-ENH_W20_CENTRAL = dict(wdps=14.0, str=2.0, ap=1.0, int=1.55, agi=0.85, spi=1.0, sta=0.0, sp=1.5, exp=3.0)
-ENH_W20_CONSERVATIVE = dict(wdps=14.0, str=2.0, ap=1.0, int=1.55, agi=0.85, spi=0.5, sta=0.0, sp=0.5, exp=1.0)
+# 8 Nov 2026: Spirit 1.0 -> 2.5, SP 1.5 -> 2.0, Int 1.55 -> 1.65, Agi 0.85 -> 0.8 after the character-sheet readings
+# (regen 1.25 x Spirit per 5 s, Int-independent; client crit tables; Earth Shock ranks of the 3 Nov build) - the
+# one-shock-per-fight case of the model; conservative = Lightning Shield only. docs/audit-2026-11-08.md.
+ENH_W20_CENTRAL = dict(wdps=14.0, str=2.0, ap=1.0, int=1.65, agi=0.8, spi=2.5, sta=0.0, sp=2.0, exp=3.0)
+ENH_W20_CONSERVATIVE = dict(wdps=14.0, str=2.0, ap=1.0, int=1.65, agi=0.8, spi=1.5, sta=0.0, sp=1.0, exp=1.0)
 
 _enh_cache = {}
 

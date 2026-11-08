@@ -45,16 +45,18 @@ def base_mana(level):  return max(50.0, _mana_f(level))
 _hp_f = _quad_through((1, 50), (25, 257), (40, 610))
 def base_health(level): return max(40.0, _hp_f(level))
 
-# Agility -> melee crit.  Anchors: vmangos 4.6 agi/1% at L1 (emulator interpolation start),
-# XPOff level-19 measurement 0.13%/agi = 7.7 agi/1%, wowsims/sod 10.3 @25, 13.95 @40, 19.7 @60.
-_AGI_PER_CRIT = [(1, 4.6), (19, 7.7), (25, 10.3), (40, 13.95), (60, 19.7)]
+# Agility -> melee crit.  8 Nov 2026: Forever client PlayerExpectedStat table (build 1.60.1.70862) via
+# foreverdb.net/stats/shaman, verified on the character sheet at L21 (9.6% = 0.46 base + 39 Agi / 9.4 + 5% TS).
+# Was vmangos/XPOff/wowsims anchors (4.6 @1, 7.7 @19, 10.3 @25), 10-15% too generous below 25.
+_AGI_PER_CRIT = [(1, 6.1), (5, 6.7), (10, 7.3), (15, 8.2), (20, 9.4), (25, 10.3), (30, 11.5), (40, 13.95), (60, 19.7)]
 def agi_per_crit(level):
     for (l0, v0), (l1, v1) in zip(_AGI_PER_CRIT, _AGI_PER_CRIT[1:]):
         if l0 <= level <= l1:
             return v0 + (v1 - v0) * (level - l0) / (l1 - l0)
     return 19.7
-# Intellect -> spell crit: XPOff 0.055%/int @19, sod 0.0422 @25, 0.0262 @40, 0.0169 @60.
-_INT_CRIT = [(1, 0.10), (19, 0.055), (25, 0.0422), (40, 0.0262), (60, 0.0169)]
+# Intellect -> spell crit: same client table (Int per 1%: 7.8 @1, 10.4 @10, 14.8 @15, 19.3 @20, 23.7 @25, 28.2 @30,
+# 59.2 @60), verified at L21 (9.55% = 2.3 base + 45 Int / 20.0 + 5% TS).
+_INT_CRIT = [(1, 1 / 7.8), (10, 1 / 10.4), (15, 1 / 14.8), (20, 1 / 19.3), (25, 1 / 23.7), (30, 1 / 28.2), (60, 1 / 59.2)]
 def crit_per_int(level):
     for (l0, v0), (l1, v1) in zip(_INT_CRIT, _INT_CRIT[1:]):
         if l0 <= level <= l1:
@@ -63,7 +65,7 @@ def crit_per_int(level):
 # Agility -> dodge: XPOff 0.13%/agi @19; ~20 agi per 1% at 60.  Same shape as crit, close enough.
 def dodge_per_agi(level): return 1.0 / agi_per_crit(level)
 
-BASE_MELEE_CRIT = 1.7      # vmangos / wowsims (1.675)
+BASE_MELEE_CRIT = 0.46     # 8 Nov 2026: character sheet at L21 (was 1.7, vmangos / wowsims); server-side, not in the client
 BASE_SPELL_CRIT = 2.3      # wowsims/sod
 MELEE_AP_BASE = lambda level, strength: 2 * level + 2 * strength - 20   # vmangos StatSystem.cpp (shaman)
 
@@ -82,22 +84,24 @@ def rockbiter_ap(level, frac=None):
     f = (level - lvl) / span if frac is None else frac
     return lo + (hi - lo) * min(1.0, max(0.0, f))
 
-# Earth Shock (Forever): R1 L4 18 dmg 30 mana, R2 L8 33/50, R3 L14 49/85, R4 L24 81/145.  6 s CD.
-EARTH_SHOCK = [(4, 18, 30, 0.154), (8, 33, 50, 0.212), (14, 49, 85, 0.299), (24, 81, 145, 0.386)]
+# Earth Shock (Forever, build 1.60.1.70755 of 3 Nov 2026 raised every rank to about Classic; WCLBox, read 8 Nov):
+# R1 L4 21-24 dmg 30 mana, R2 L8 38-41/50, R3 L14 69-74/85, R4 L24 131-140/145.  6 s CD.  In game at L21: R3 71-76
+# (a little within-rank level scaling, realPointsPerLevel 0.9).  Beta values were 18/33/49/81.
+EARTH_SHOCK = [(4, 22.5, 30, 0.154), (8, 39.5, 50, 0.212), (14, 71.5, 85, 0.299), (24, 135.5, 145, 0.386)]
 def earth_shock(level):
     r = [r for r in EARTH_SHOCK if r[0] <= level][-1]
-    return dict(dmg=r[1], mana=r[2], coef=r[3])   # coef = vanilla SP coefficient (Forever's is UNKNOWN)
+    return dict(dmg=r[1], mana=r[2], coef=r[3])   # coef = vanilla per-rank SP coefficient; Wowhead Forever gives 0.386 at top rank
 
-# Lightning Shield: vanilla per-orb damage R1 L8 13, R2 L16 29, R3 L24 51; mana 45/80/125.
-# Forever cut R7 from 198 to 178 (~10%); assume the same 10% cut on low ranks.  3 orbs, SP coef 0.33/orb (UNCERTAIN).
-LIGHTNING_SHIELD = [(8, 13 * 0.9, 45), (16, 29 * 0.9, 80), (24, 51 * 0.9, 125)]
+# Lightning Shield (Forever, WCLBox build 1.60.1.70862, read 8 Nov 2026): per-orb R1 L8 13, R2 L16 24, R3 L24 40,
+# R4 L32 64 (Classic 13/29/51/80); mana 45/80/125/180.  3 orbs, SP coef 0.33/orb (UNCERTAIN).
+LIGHTNING_SHIELD = [(8, 13, 45), (16, 24, 80), (24, 40, 125), (32, 64, 180)]
 def lightning_shield(level):
     r = [r for r in LIGHTNING_SHIELD if r[0] <= level]
     if not r: return dict(dmg=0, mana=0)
     return dict(dmg=r[-1][1], mana=r[-1][2])
 
-# Healing Wave efficiency (HP healed per mana), vanilla ranks 2-4: ~1.6-1.9.
-HEAL_HP_PER_MANA = 1.8
+# Healing Wave efficiency (HP healed per mana): Forever R3 127-150/80, R4 246-289/155, R5 329-382/200 = 1.73-1.78 (WCLBox, 8 Nov 2026).
+HEAL_HP_PER_MANA = 1.75
 
 # Expertise: Forever client = rating, 10 rating per 1% at 60 (wowsims/forever #34).  Below 60 the
 # TBC/Wrath rating curve is assumed: rating-per-1% = base60 * (L-8)/52 for 10<=L<=60.  UNCERTAIN.
@@ -119,7 +123,7 @@ class Scenario:
     weapon_dps: float
     weapon_speed: float
     gear: dict = field(default_factory=dict)      # str agi sta int spi ap sp exp hitpct critpct
-    talents: dict = field(default_factory=dict)   # ts (0-5), md (0-3), sf (0/1), ew (0-3)
+    talents: dict = field(default_factory=dict)   # ts (0-5), md (0-3), sf (0/1), ew (0-3), ak (0-5, +2% Int per rank)
     mace: bool = False                             # 17 Oct 2026: Dwarf Mace Specialization removed from Forever (Earth Fury);
                                                    # True only in sensitivity.py's "mace spec restored" case
     from_behind: bool = False
@@ -137,7 +141,7 @@ class Scenario:
     heal_fraction_floor: float = 0.0
     policy_shocks: object = "max"                  # "max" = one every 6 s, or an integer n per fight (1 = pull only)
     policy_ls: bool = True                         # keep Lightning Shield up
-    spirit_regen_scale: float = 1.0                # 1.0 = vanilla shaman formula (17 + Spi/5 per tick)
+    spirit_regen_scale: float = 1.0                # 1.0 = Forever as read on the sheet 8 Nov 2026 (1.25 x Spirit per 5 s)
 
     def drink(self):
         if self.drink_rate is not None: return self.drink_rate
@@ -156,11 +160,11 @@ def kills_per_hour(s: Scenario, verbose=False):
     L = s.level
     b = base_stats(L)
     g = {k: s.gear.get(k, 0.0) for k in ("str", "agi", "sta", "int", "spi", "ap", "sp", "exp", "hitpct", "critpct")}
-    t = {k: s.talents.get(k, 0) for k in ("ts", "md", "sf", "ew")}
+    t = {k: s.talents.get(k, 0) for k in ("ts", "md", "sf", "ew", "ak")}
 
     Str, Agi, Sta, Int, Spi = (b["str"] + g["str"], b["agi"] + g["agi"], b["sta"] + g["sta"],
                                b["int"] + g["int"], b["spi"] + g["spi"])
-    # Ancestral Knowledge (+2% Int/rank) not taken in the 1-20 build.
+    Int *= 1 + 0.02 * t["ak"]      # Ancestral Knowledge, +2% Int per rank (2/5 at 18-19 in the sheet's talent order)
 
     # --- melee ---
     rb = rockbiter_ap(L, s.rockbiter_frac) * (1 + 0.0667 * t["ew"])
@@ -207,7 +211,10 @@ def kills_per_hour(s: Scenario, verbose=False):
     # --- mana / health economy ---
     mana_fight = shocks * es_cost + ls_cost                 # LS recast every fight (3 orbs used)
     pool = base_mana(L) + 20 + max(0.0, Int - 20) * 15.0
-    spirit_regen = (8.5 + Spi / 10.0) * s.spirit_regen_scale   # mana per second outside the 5-s rule (shaman 17+Spi/5 per tick)
+    # 8 Nov 2026, character sheet at L21: 51 mana per 5 s at 41 Spirit, unchanged when Int went 45 -> 42, no Spirit gear
+    # to vary.  Fits 1.25 x Spirit per 5 s = 0.25 mana/s per Spirit with no base term (vanilla 17 + Spi/5 per tick would
+    # have read 63).  A level term cannot be excluded from one level; re-read at the same Spirit a few levels on.
+    spirit_regen = 0.25 * Spi * s.spirit_regen_scale   # mana per second outside the 5-s rule
     regen_walk = spirit_regen * max(0.0, s.walk_seconds - 5.0)   # last shock lands mid-fight; be conservative
     hp = base_health(L) + 20 + max(0.0, Sta - 20) * 10.0
     dodge_me = min(30.0, Agi * dodge_per_agi(L)) / 100
@@ -292,16 +299,16 @@ def band_scenarios():
                      talents=dict(md=3, ts=3)),
         20: Scenario(level=20, weapon_dps=19.71, weapon_speed=3.5,
                      gear=dict(str=26, agi=24, sta=14, int=6, spi=16, ap=18),    # Smite's Hammer + the Deadmines/HoT set in the guide
-                     talents=dict(md=3, ts=5, sf=1)),
+                     talents=dict(md=3, ts=5, sf=1, ak=2)),
         # 1 Nov 2026: bands 25 and 30 added for the 23-31 chapters (Blackfathom, Stockade, Gnomeregan, Razorfen Kraul).
         # Gear sums from weights/tooltips/2026-11-01.json. Flurry (21-25) is not modelled (no haste term); the 30 band
         # adds Elemental Weapons 3/3 (26-28).
         25: Scenario(level=25, weapon_dps=19.71, weapon_speed=3.5,
                      gear=dict(str=25, agi=22, sta=10, int=8, spi=15, ap=18, sp=5),  # Smite's, Defias Armor/Belt, Gold-flecked, Deepgrave,
-                     talents=dict(md=3, ts=5, sf=1)),                                 # Loch Walkers, Bravo's, Spiritwraith, both rings, Choker
+                     talents=dict(md=3, ts=5, sf=1, ak=2)),                           # Loch Walkers, Bravo's, Spiritwraith, both rings, Choker
         30: Scenario(level=30, weapon_dps=22.88, weapon_speed=3.3,
                      gear=dict(str=26, agi=12, sta=30, int=8, spi=19, ap=18, sp=25),  # Twilight Maul, Defender's Helm, Naga Gloves, Bands of
-                     talents=dict(md=3, ts=5, sf=1, ew=3)),                           # Serra'kis, Thresher Cape + the rest of the 25 set
+                     talents=dict(md=3, ts=5, sf=1, ew=3, ak=2)),                     # Serra'kis, Thresher Cape + the rest of the 25 set
     }
 
 if __name__ == "__main__":
