@@ -1,0 +1,169 @@
+ZONE	/forever/zone=36/alterac-mountains
+460	17	12	630	2	130	0		0	0	unchanged	0			Resting in Pieces
+500	36	30	3500	1	36	0		0	0	unchanged	7500			Crushridge Bounty
+503	36	29	2800	2	267	0		0	0	unchanged	0			Gol'dir
+504	40	30	4700	1	36	0	1	0	0	updated	0	5249,3763,270072		Crushridge Warmongers
+505	33	26	1950	1	36	0		0	0	unchanged	0	3758,3759		Syndicate Assassins
+506	36	29	2100	2	267	0		0	0	unchanged	3000			Blackmoore's Legacy
+507	42	29	4300	2	267	0		0	0	unchanged	0			Lord Aliden Perenolde
+508	40	29	3900	2	267	0		0	0	unchanged	0	3764,3765		Taretha's Gift
+510	34	26	1350	1	36	0		0	0	unchanged	0			Foreboding Plans
+511	34	30	1350	1	36	0		0	0	unchanged	0			Encrypted Letter
+512	36	26	2800	1	36	0		0	0	unchanged	4000			Noble Deaths
+514	34	30	1350	1	36	0		0	0	unchanged	0			Letter to Stormpike
+521	43	34	3600	2	267	0		0	0	unchanged	0		4430	The Crown of Will
+522	38	30	710	1	36	0		0	0	unchanged	0			Assassin's Contract
+523	40	30	3900	1	36	0		0	0	unchanged	10000			Baron's Demise
+525	34	30	1350	1	36	0		0	0	unchanged	0			Further Mysteries
+535	34	29	270	2	36	0		0	0	unchanged	0		3601	Valik
+537	40	30	3150	1	36	0		0	0	unchanged	5000			Dark Council
+545	35	30	2050	2	36	0		0	0	updated	2500			Dalaran Patrols
+551	40	30	780	1	36	0		0	0	unchanged	0			The Ensorcelled Parchment
+554	40	28	1550	1	36	0		0	0	unchanged	5000			Stormpike's Deciphering
+602	37	32	1400	1	33	0		0	0	unchanged	0			Magical Analysis
+603	37	32	1400	1	33	0		0	0	unchanged	0			Ansirem's Key
+1712	40	30	2350	3	-81	4		1	0	unchanged	0			Cyclonian
+1713	40	30	2350	3	-81	4	1	1	0	unchanged	0			The Summoning
+1714	37	30		3	-81	4		1	0	unchanged	0		6851	Essence of the Exile
+1791	30	30	245	3	-81	4		1	0	unchanged	0			The Windwatcher
+1792	40	30	3900	3	-81	4		1	0	unchanged	0	6975,6977,6976		Whirlwind Weapon
+6121	14	14	100	1	-263	4		1024	4294967304	updated	0			Lessons Anew
+6681	24	24	1950	3	-162	4		8	0	unchanged	0			The Manor, Ravenholdt
+6701	60	24		3	-162	4		8	0	unchanged	0			Syndicate Emblems
+6963	60	30	1650	2	-1001	9		0	0	unchanged	0			Stolen Winter Veil Treats
+6983	60	30	3300	2	-1001	9	1	0	0	unchanged	0			You're a Mean One...
+7042	60	30	1650	1	-1001	9		0	0	unchanged	0			Stolen Winter Veil Treats
+7043	60	30	3300	1	-1001	9	1	0	0	unchanged	0			You're a Mean One...
+7081	60	51	6600	1	2597	6	41	0	0	unchanged	9000			Alterac Valley Graveyards
+7082	60	51	6600	2	2597	6	41	0	0	unchanged	9000			The Graveyards of Alterac
+7101	60	51	6600	2	2597	6	41	0	0	unchanged	9000			Towers and Bunkers
+7102	60	51	6600	1	2597	6	41	0	0	unchanged	9000			Towers and Bunkers
+7122	60	51	6600	1	2597	6	41	0	0	unchanged	9000			Capture a Mine
+7124	60	51	6600	2	2597	6	41	0	0	unchanged	18000			Capture a Mine
+7141	60	51	9950	1	2597	6	41	0	0	unchanged	27000			The Battle of Alterac
+7142	60	51	9950	2	2597	6	41	0	0	unchanged	27000			The Battle for Alterac
+7161	60	51	6600	2	2597	6		0	0	unchanged	0		17690,19483	Proving Grounds
+7162	60	51	6600	1	2597	6		0	0	unchanged	0		17691,19484	Proving Grounds
+7163	60	51	6600	2	2597	6		0	0	unchanged	0		17905	Rise and Be Recognized
+7164	60	51	6600	2	2597	6		0	0	unchanged	0		17906	Honored Amongst the Clan
+7165	60	51	8300	2	2597	6		0	0	unchanged	0		17907	Earned Reverence
+7166	60	51	9950	2	2597	6		0	0	unchanged	0		17908	Legendary Heroes
+7167	60	51	9950	2	2597	6		0	0	unchanged	0		17909	The Eye of Command
+7168	60	51	6600	1	2597	6		0	0	unchanged	0		17900	Rise and Be Recognized
+7169	60	51	6600	1	2597	6		0	0	unchanged	0		17901	Honored Amongst the Guard
+7170	60	51	8300	1	2597	6		0	0	unchanged	0		17902	Earned Reverence
+7171	60	51	9950	1	2597	6		0	0	unchanged	0		17903	Legendary Heroes
+7172	60	51	9950	1	2597	6		0	0	unchanged	0		17904	The Eye of Command
+7241	60	51	6600	2	2597	6	41	0	0	unchanged	0			In Defense of Frostwolf
+7261	60	51	6600	1	2597	6	41	0	0	unchanged	0			The Sovereign Imperative
+8233	52	50	510	3	-162	4		8	0	unchanged	0			A Simple Request
+8234	52	50	5100	3	-162	4		8	0	unchanged	6000			Sealed Azure Bag
+8236	52	50	6350	3	-162	4	81	8	0	updated	7500	19984,20255,19982		The Azure Key
+8249	60	50		3	-162	4		8	0	unchanged	0		20086	Junkboxes Needed
+8271	60	51	660	1	2597	6	41	0	0	unchanged	0	19107,19106,19108,20648		Hero of the Stormpike
+8272	60	51	660	2	2597	6	41	0	0	unchanged	0	19107,19106,19108,20648		Hero of the Frostwolf
+8367	60	51	8300	2	1637	1	41	0	0	unchanged	27000			For Great Honor
+8368	19	10	730	2	3277	6	41	0	0	updated	1100			Battle of Warsong Gulch
+8369	60	51	8300	2	2597	6	41	0	0	unchanged	18000			Invaders of Alterac Valley
+8370	29	20	2350	2	3358	6	41	0	0	updated	2500			Conquering Arathi Basin
+8371	60	51	8300	1	-25	6	41	0	0	unchanged	27000			Concerted Efforts
+8372	19	10	1450	1	3277	6	41	0	0	updated	1100			Fight for Warsong Gulch
+8374	29	20	2350	1	3358	6	41	0	0	updated	2500			Claiming Arathi Basin
+8375	60	51	8300	1	2839	0	41	0	0	unchanged	18000			Remember Alterac Valley!
+8383	60	51	3300	1	2839	0	41	0	0	unchanged	0			Remember Alterac Valley!
+8384	29	20	1200	1	45	0	41	0	0	updated	0			Claiming Arathi Basin
+8385	60	51	6600	1	1537	0	41	0	0	unchanged	0			Concerted Efforts
+8386	19	10	730	1	3277	6	41	0	0	updated	0			Fight for Warsong Gulch
+8387	60	51	3300	2	2839	0	41	0	0	unchanged	0			Invaders of Alterac Valley
+8388	60	51	6600	2	1637	1	41	0	0	unchanged	9000			For Great Honor
+8389	19	10	730	2	3277	6	41	0	0	updated	0			Battle of Warsong Gulch
+8390	29	20	1200	2	3358	6	41	0	0	updated	0			Conquering Arathi Basin
+8391	39	30	1500	1	3358	6	41	0	0	updated	0			Claiming Arathi Basin
+8392	49	40	2250	1	3358	6	41	0	0	updated	0			Claiming Arathi Basin
+8393	39	30	3000	1	3358	6	41	0	0	updated	4500			Claiming Arathi Basin
+8394	49	40		1	3358	6	41	0	0	updated	7000			Claiming Arathi Basin
+8395	59	50	6400	1	3358	6	41	0	0	updated	9000			Claiming Arathi Basin
+8396	60	60	6600	1	3358	6	41	0	0	updated	9000			Claiming Arathi Basin
+8397	59	50	3200	1	3358	6	41	0	0	updated	0			Claiming Arathi Basin
+8398	60	60	3300	1	3358	6	41	0	0	updated	0			Claiming Arathi Basin
+8399	29	20	2350	1	3277	6	41	0	0	updated	2500			Fight for Warsong Gulch
+8400	39	30	3000	1	3277	6	41	0	0	updated	4500			Fight for Warsong Gulch
+8401	49	40		1	3277	6	41	0	0	updated	7000			Fight for Warsong Gulch
+8402	59	50	6400	1	3277	6	41	0	0	updated	9000			Fight for Warsong Gulch
+8403	60	60	6600	1	3277	6	41	0	0	updated	9000			Fight for Warsong Gulch
+8404	29	20	1200	1	0	-2		0	0	updated	0			Fight for Warsong Gulch
+8405	39	30	3000	1	0	-2		0	0	updated	4500			Fight for Warsong Gulch
+8406	49	40	2250	1	0	-2		0	0	updated	0			Fight for Warsong Gulch
+8407	59	50	3200	1	3277	6	41	0	0	updated	0			Fight for Warsong Gulch
+8408	60	60	3300	1	0	-2		0	0	updated	0			Fight for Warsong Gulch
+8410	52	50	3800	2	-82	4		64	162	unchanged	0			Elemental Mastery
+8411	52	50	3800	2	-82	4		64	0	unchanged	0			Mastering the Elements
+8412	52	50	5100	2	-82	4		64	162	unchanged	0			Spirit Totem
+8413	52	50	6350	2	-82	4	81	64	0	updated	15500	20369,20503,20556		Da Voodoo
+8426	29	20	1200	2	3277	6	41	0	0	updated	2500			Battle of Warsong Gulch
+8427	39	30	1500	2	3277	6	41	0	0	updated	4500			Battle of Warsong Gulch
+8428	49	40		2	3277	6	41	0	0	updated	7000			Battle of Warsong Gulch
+8429	59	50	6400	2	3277	6	41	0	0	updated	9000			Battle of Warsong Gulch
+8430	60	60	6600	2	3277	6	41	0	0	updated	9000			Battle of Warsong Gulch
+8431	29	20	1200	2	3277	6	41	0	0	updated	0			Battle of Warsong Gulch
+8432	39	30	1500	2	3277	6	41	0	0	updated	0			Battle of Warsong Gulch
+8433	49	40	2250	2	3277	6	41	0	0	updated	0			Battle of Warsong Gulch
+8434	59	50	3200	2	3277	6	41	0	0	updated	0			Battle of Warsong Gulch
+8435	60	60	3300	2	3277	6	41	0	0	updated	0			Battle of Warsong Gulch
+8436	39	30	3000	2	3358	6	41	0	0	updated	4500			Conquering Arathi Basin
+8437	49	40		2	3358	6	41	0	0	updated	7000			Conquering Arathi Basin
+8438	59	50	6400	2	45	0	41	0	0	updated	9000			Conquering Arathi Basin
+8439	60	60	6600	2	3358	6	41	0	0	updated	9000			Conquering Arathi Basin
+8440	39	30	1500	2	3358	6	41	0	0	updated	0			Conquering Arathi Basin
+8441	49	40	2250	2	3358	6	41	0	0	updated	0			Conquering Arathi Basin
+8442	59	50	3200	2	3358	6	41	0	0	updated	0			Conquering Arathi Basin
+8443	60	60	3300	2	3358	6	41	0	0	updated	0			Conquering Arathi Basin
+8984	60	1		2	-1004	9		0	0	unchanged	0			The Source Revealed
+9028	60	1		1	-1004	9		0	0	unchanged	0			The Source Revealed
+9029	60	1		3	0	-2		0	0	unchanged	0	22281,22282,22277,22278,22280,22276		A Bubbling Cauldron
+79360	33	30	3300	2	-82	4	81	64	162	updated	3500			Elemental Aid
+79361	43	30	3600	2	-82	4		64	162	updated	6000			Storm, Earth, and Fire
+79362	25	18	2000	3	10	0		64	162	updated	0			Grant's Shield
+79363	27	18	2200	3	10	0		64	162	updated	0			Silvia's Sword
+79364	33	30	265	2	-82	4		64	0	updated	0			Eyes on the Sky
+79365	40	30		2	-82	4		64	162	unchanged	0			With Wind Beneath Your Wings
+79442	40	30	3150	2	-82	4		64	162	updated	0	280604,280605,280607	213086	The Tempest's Weapons
+79482	60	25	1650	1	-22	-2	62	0	0	unchanged	0			Stolen Winter Veil Treats
+79483	60	25	1650	2	-22	-2	62	0	0	unchanged	0			Stolen Winter Veil Treats
+80411	50	45	4700		-162	4		8	0	unconfirmed	7500			The Talisman of Kazdor
+80526	50	45	470		-162	4		8	0	unconfirmed	0			Fool Me Twice
+92432	33	30	660	1	36	0		0	0	new	0			An Alarming Request
+92434	34	30	270	2	36	0		0	0	new	0			Blood in the Streets
+92459	33	24	265	1	36	0		0	0	new	0			Friend of the Kirin Tor
+93680	33	30		2	36	0		0	0	new	0			Key to the City
+93689	33	24	265		36	0		0	0	new	0			Friend of the Kirin Tor
+94004	60	1		3	16941	0		0	0	new	0		284584	Craftsman's Writ: Elixir of Ogre's Strength
+94220	60	1		2	16941	0		0	0	new	0			Craftsman's Writ: Pearl-Handled Dagger
+94229	60	1		3	16941	0		0	0	new	0			Craftsman's Writ: Ornate Spyglass
+94238	60	1		3	16941	0		0	0	new	0		284584	Craftsman's Writ: Heavy Leather Ball
+94247	60	1		3	16941	0		0	0	new	0		284584	Craftsman's Writ: Lesser Wizard's Robe
+94251	60	1		2	16941	0		0	0	new	0			Craftsman's Writ: Phoenix Pants
+94912	10	10	840	1	-263	4		0	4294967296	new	0			Child of Nature
+94946	13	7	90	1	16593	-2		0	4294967296	new	0			The Magical City of Dalaran
+94947	13	7	680	1	1519	0		0	4294967296	new	0			Welcome to Azeroth
+95534	36	25	2800	3	36	0		0	0	new	4000		277206	Strahnbrad Mystery
+95798	40	30	2350	1	36	0		0	0	new	3500	279879,279878		The Web of Magic
+96016	40	30	3900	1	-82	4		64	0	new	0	280607,280605,280604	280696	The Tempest's Weapons
+96137	25	18	2000	1	10	0		0	0	new	0			Ira's Dagger
+96773	41	34	4100	1	722	2	81	0	0	new	5500			The Coldbringer's Eye
+96779	24	24	1950	3	-162	4		8	0	new	1700			Syndicate Sabotage
+96781	36	24	2800	3	-162	4		8	0	new	0			What's the Big Idea?
+96782	36	24	2800	3	-162	4		8	0	new	2000			Covert Extraction
+96783	36	24	2800	3	-162	4		8	0	new	0			A Way In
+96786	36	24	3500	3	-162	4		8	0	new	7500			The Syndicate Sting
+96800	38	30	2850	1	796	2	81	0	0	new	4500	276898,276899		Past Due
+97130	40	34	3900	1	16550	2	81	0	0	new	5000			Ancient Gurubashi Secrets
+97287	33	24	265	2	36	0		0	0	new	0			Shrewd Negotiations
+98887	39	30	1500	2	16606	6	41	0	0	new	4500			Conflict at Darkspear Islands
+98888	39	30		2	16606	6	41	0	0	new	0			Conflict at Darkspear Islands
+98895	39	30	1500	1	16606	6	41	0	0	new	4500			Darkspear Islands Clash
+98896	39	30		1	16606	6	41	0	0	new	0			Darkspear Islands Clash
+99191	60	12	660	1	36	0		0	0	new	0			A Donation of Wool
+99192	60	26	1650	1	36	0		0	0	new	0			A Donation of Silk
+99193	60	40	3300	1	36	0		0	0		0			A Donation of Mageweave
+99194	60	50	6600		36	0		0	0		0			A Donation of Runecloth

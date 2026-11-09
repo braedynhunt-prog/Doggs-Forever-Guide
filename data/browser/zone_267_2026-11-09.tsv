@@ -1,0 +1,117 @@
+ZONE	/forever/zone=267/hillsbrad-foothills
+493	20	19	1150	2	130	0		0	0	unchanged	900			Journey to Hillsbrad Foothills
+494	20	19	780	2	267	0		0	0	unchanged	600			Time To Strike
+495	39	34	300	2	1497	0		0	0	unchanged	0			The Crown of Will
+496	22	19	175	2	267	0		0	0	unchanged	150			Elixir of Suffering
+498	22	17	2200	2	267	0		0	0	unchanged	0	3752,3733	3734	The Rescue
+499	22	19	1750	2	267	0		0	0	unchanged	0			Elixir of Suffering
+500	36	30	3500	1	36	0		0	0	unchanged	7500			Crushridge Bounty
+501	24	21	1950	2	267	0		0	0	updated	0	2230,3741,6482,276724	3735	Elixir of Pain
+502	24	21	1450	2	267	0		0	0	unchanged	0			Elixir of Pain
+503	36	29	2800	2	267	0		0	0	unchanged	0			Gol'dir
+504	40	30	4700	1	36	0	1	0	0	updated	0	5249,3763,270072		Crushridge Warmongers
+505	33	26	1950	1	36	0		0	0	unchanged	0	3758,3759		Syndicate Assassins
+506	36	29	2100	2	267	0		0	0	unchanged	3000			Blackmoore's Legacy
+507	42	29	4300	2	267	0		0	0	unchanged	0			Lord Aliden Perenolde
+508	40	29	3900	2	267	0		0	0	unchanged	0	3764,3765		Taretha's Gift
+509	28	24	2300	2	267	0		0	0	unchanged	2500		2459,929	Elixir of Agony
+510	34	26	1350	1	36	0		0	0	unchanged	0			Foreboding Plans
+511	34	30	1350	1	36	0		0	0	unchanged	0			Encrypted Letter
+512	36	26	2800	1	36	0		0	0	unchanged	4000			Noble Deaths
+513	28	24	1150	2	267	0		0	0	unchanged	0			Elixir of Agony
+514	34	30	1350	1	36	0		0	0	unchanged	0			Letter to Stormpike
+515	30	24	3050	2	267	0		0	0	updated	0	3749,3747,276727		Elixir of Agony
+517	30	24	1200	2	267	0	1	0	0	unchanged	0			Elixir of Agony
+518	39	34	2250	2	267	0	1	0	0	unchanged	0			The Crown of Will
+519	41	34	3300	2	267	0	1	0	0	unchanged	0			The Crown of Will
+520	43	34	4450	2	267	0	1	0	0	unchanged	0			The Crown of Will
+521	43	34	3600	2	267	0		0	0	unchanged	0		4430	The Crown of Will
+522	38	30	710	1	36	0		0	0	unchanged	0			Assassin's Contract
+523	40	30	3900	1	36	0		0	0	unchanged	10000			Baron's Demise
+524	30	24	3650	2	267	0		0	0	unchanged	0			Elixir of Agony
+525	34	30	1350	1	36	0		0	0	unchanged	0			Further Mysteries
+527	24	19	1950	2	267	0		0	0	unchanged	1700			Battle of Hillsbrad
+528	25	19	2000	2	267	0		0	0	unchanged	1800			Battle of Hillsbrad
+529	26	19	2100	2	267	0		0	0	unchanged	2000			Battle of Hillsbrad
+532	26	19	2100	2	267	0		0	0	unchanged	2000			Battle of Hillsbrad
+533	34	29	2700	2	267	0		0	0	unchanged	3500			Infiltration
+536	30	25	1850	1	267	0		0	0	unchanged	2100			Down the Coast
+537	40	30	3150	1	36	0		0	0	unchanged	5000			Dark Council
+538	38	20	710	1	1519	0		0	0	unchanged	0			Southshore
+539	28	19	2300	2	267	0		0	0	unchanged	2500			Battle of Hillsbrad
+540	38	20	3550	1	267	0	1	0	0	unchanged	0			Preserving Knowledge
+541	30	19	2450	2	267	0	1	0	0	unchanged	2500			Battle of Hillsbrad
+542	38	20	3550	1	1519	0		0	0	unchanged	8500			Return to Milton
+544	33	30	3300	2	267	0		0	0	updated	6500			Prison Break In
+545	35	30	2050	2	36	0		0	0	updated	2500			Dalaran Patrols
+546	25	20	2550	2	267	0		0	0	unchanged	0		3739	Souvenirs of Death
+547	30	26	3050	2	267	0	1	0	0	updated	0	3750,3751,270046		Humbert's Sword
+549	22	17	1750	2	267	0		0	0	updated	1400		276720	WANTED: Syndicate Personnel
+550	32	19	2550	2	267	0		0	0	unchanged	0	6282,3761,3822	3760	Battle of Hillsbrad
+551	40	30	780	1	36	0		0	0	unchanged	0			The Ensorcelled Parchment
+552	33	29	2650	2	267	0		0	0	unchanged	0			Helcular's Revenge
+553	33	29	3300	2	267	0		0	0	unchanged	0			Helcular's Revenge
+554	40	28	1550	1	36	0		0	0	unchanged	5000			Stormpike's Deciphering
+555	31	28	2500	1	267	0		0	0	unchanged	3000		3737,3729	Soothing Turtle Bisque
+556	33	30	2650	2	267	0		0	0	updated	3500			Stone Tokens
+557	33	30	2650	2	267	0		0	0	updated	3500			Bracers of Binding
+559	32	25	2550	1	267	0		0	0	unchanged	3000			Farren's Proof
+560	32	25	255	1	267	0		0	0	unchanged	0			Farren's Proof
+561	32	25	255	1	267	0		0	0	unchanged	0			Farren's Proof
+562	32	25	1950	1	267	0		0	0	unchanged	0		3755	Stormwind Ho!
+563	32	25	3200	1	267	0		0	0	unchanged	0			Reassignment
+564	34	30	2700	1	267	0		0	0	unchanged	0	3753,3754	3736,3728	Costly Menace
+565	34	29	2700	1	267	0		0	0	updated	0	2805,287069		Bartolo's Yeti Fur Cloak
+566	40	35	3150	2	267	0		0	0	unchanged	0		2231	WANTED: Baron Vardus
+567	28	19	2300	2	267	0		0	0	unchanged	0	3742,3743,5250	3732	Dangerous!
+647	30	28	3050	1	11	0		0	0	unchanged	5500			MacKreel's Moonshine
+657	36	30		1	267	0		0	0	unchanged	0			Hints of a New Plague?
+658	36	30	2800	1	267	0		0	0	unchanged	0			Hints of a New Plague?
+659	33	30	1300	1	267	0		0	0	unchanged	0			Hints of a New Plague?
+660	37	30	2850	1	267	0		0	0	unchanged	0			Hints of a New Plague?
+661	37	30	3550	1	267	0		0	0	unchanged	0	15455,15456		Hints of a New Plague?
+676	32	30	2550	2	267	0		0	0	unchanged	3000			The Hammer May Fall
+1051	33	25	3300	2	796	2	1	0	0	unchanged	0	7750,4643	7751	Vorrel's Revenge
+1052	40	34	1550	1	405	1		0	0	unchanged	0			Down the Scarlet Path
+1053	40	34	4700	1	796	2	81	0	0	unchanged	0	6829,6830,6831,11262		In the Name of the Light
+1065	18	13	1350	2	1638	1		0	0	unchanged	0			Journey to Tarren Mill
+1066	23	13	1850	2	1638	1		0	0	unchanged	0			Blood of Innocents
+1067	23	13	1400	2	1638	1		0	0	unchanged	0			Return to Thunder Bluff
+1361	32	30	640	2	405	1		0	0	unchanged	0			Regthar Deathgate
+1658	60	25	6600	1	-1003	9	41	0	0	unchanged	9000		20557	Crashing the Wickerman Festival
+2479	26	20	1050	2	-162	4		8	146	unchanged	0			Hinott's Assistance
+2480	20	20	155	2	-162	4		8	146	updated	0		8095	Hinott's Assistance
+2933	43	40	3600	2	47	0		0	0	unchanged	0			Venom Bottles
+2934	45	40	3900	2	47	0		0	0	unchanged	0			Undamaged Venom Sac
+2935	45	40	2900	2	47	0	1	0	0	unchanged	0			Consult Master Gadrin
+2937	55	40	8450	2	47	0	1	0	0	unchanged	0			Summoning Shadra
+2938	55	40	8450	2	47	0		0	0	unchanged	25000	9649,9650,10686		Venom to the Undercity
+3861	1	1	10	1	-284	-2		0	0	unchanged	0			CLUCK!
+6701	60	24		3	-162	4		8	0	unchanged	0			Syndicate Emblems
+7321	31	28	2500	2	-304	5		0	0	unchanged	3000		3737,3729	Soothing Turtle Bisque
+7645	60	60	660	1	-141	4		2	5	unchanged	0		18775	Manna-Enriched Horse Feed
+8322	60	30	1650	2	-1003	9	41	0	0	unchanged	0			Rotten Eggs
+8373	60	25	1650	1	-1003	9	41	0	0	unchanged	0		20557	The Power of Pine
+8409	60	25	1650	2	-1003	9	41	0	0	unchanged	0		20557	Ruined Kegs
+92432	33	30	660	1	36	0		0	0	new	0			An Alarming Request
+92434	34	30	270	2	36	0		0	0	new	0			Blood in the Streets
+93680	33	30		2	36	0		0	0	new	0			Key to the City
+94215	60	1		3	16941	0		0	0	new	0			Craftsman's Writ: Free Action Potion
+94224	60	1		3	16941	0		0	0	new	0			Craftsman's Writ: Heavy Bronze Mace
+94233	60	1		3	16941	0		0	0	new	0		284584	Craftsman's Writ: Practice Lock
+94242	60	1		3	16941	0		0	0	new	0			Craftsman's Writ: Pilferer's Gloves
+95111	25	20	1000	2	-141	4		2	16	new	0			An Underrated Talent
+95125	25	20	1000	2	-141	4		2	16	new	0			Ott's Masterwork
+95126	25	20	1000	2	-141	4		2	16	new	0		268484	The Moonsilver Blade
+95534	36	25	2800	3	36	0		0	0	new	4000		277206	Strahnbrad Mystery
+96984	33	24	3950	2	16544	2	81	0	0	new	0	279842,279843,279844		Heart of Disruption
+96986	33	24	3950	2	16544	2	81	0	0	new	10000	251963,251965		The Grave Knight
+97287	33	24	265	2	36	0		0	0	new	0			Shrewd Negotiations
+98059	27	23	2200	1	267	0		0	0	new	1100			Hillsbrad's Hoard
+98071	27	23	2200	1	267	0		0	0	new	0		279388	Brewer's Trade
+98094	25	19	1000	2	267	0		0	0	new	0			Scout Support
+98095	25	19	2000	2	267	0		0	0	new	0	281293,281294		Valuable Vantages
+98219	30	20	245	1	1519	0		0	4294967372	new	0			The Shamed Lieutenant
+98459	21	18	165	1	11	0		0	4294967372	new	0			A Lack of Virtue
+98463	33	28	265	1	33	0		0	0	new	0			Talk of the Town
+99326	40	40		1	267	0		0	1		0	5656,5655,2414		Your First Horse

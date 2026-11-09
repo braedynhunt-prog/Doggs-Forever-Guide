@@ -1,0 +1,385 @@
+ZONE	/forever/zone=1537/ironforge
+291	10	1	420	1	1	0		0	0	unchanged	175			The Reports
+301	15	10	540	1	38	0		0	0	unchanged	175			Report to Ironforge
+302	15	10	270	1	38	0		0	0	unchanged	0			Powder to Ironband
+467	23	20	460	1	1	0		0	0	unchanged	0			Stonegear's Search
+514	34	30	1350	1	36	0		0	0	unchanged	0			Letter to Stormpike
+525	34	30	1350	1	36	0		0	0	unchanged	0			Further Mysteries
+554	40	28	1550	1	36	0		0	0	unchanged	5000			Stormpike's Deciphering
+637	30	25	2450	1	1537	0		0	0	unchanged	0			Sully Balloo's Letter
+653	40	30	2350	1	45	0		0	0	unchanged	0			Myzrael's Allies
+683	30	25	1200	1	1537	0		0	0	unchanged	0			Sara Balloo's Plea
+686	30	25	1200	1	1537	0		0	0	unchanged	0			A King's Tribute
+687	40	30	1550	3	45	0		0	0	unchanged	0			Theldurin the Lost
+689	31	25	2500	1	1537	0		0	0	unchanged	0			A King's Tribute
+700	31	25	2500	1	1537	0		0	0	unchanged	0		4535	A King's Tribute
+707	37	30	710	1	1537	0		0	0	unchanged	0			Ironband Wants You!
+724	40	35	3150	1	3	0		0	0	unchanged	0			Prospect of Faith
+725	40	35	1550	1	3	0		0	0	unchanged	0			Passing Word of a Threat
+726	40	35	2350	1	3	0		0	0	unchanged	0			Passing Word of a Threat
+727	40	30	780	1	3	0		0	0	unchanged	0			To Ironforge for Yagyin's Digest
+735	44	30	5600	1	3	0	1	0	0	unchanged	0			The Star, the Hand and the Heart
+737	40	30	2350	3	3	0		0	0	unchanged	0		4984	Forbidden Knowledge
+762	44	35	4650	1	3	0	1	0	0	updated	12500	4987,270088,270089		An Ambassador of Evil
+968	18	10	1700	1	148	1		0	0	updated	0			The Powers Below
+971	23	18	2750	1	719	2	81	0	0	updated	0		6743	Knowledge in the Deeps
+1019	55	54	560	1	1537	0		0	0	unchanged	0			The New Frontier
+1050	38	28	3550	1	796	2	81	0	0	unchanged	0		7746	Mythology of the Titans
+1072	21	17	830	1	406	1		0	0	unchanged	0			An Old Colleague
+1073	21	17	1650	1	406	1		0	0	unchanged	0			Ineptitude + Chemicals = Fun
+1074	21	17	830	1	406	1		0	0	unchanged	0			Ineptitude + Chemicals = Fun
+1139	45	35	5850	1	1337	2	81	0	0	updated	13000	6723,270095		The Lost Tablets of Will
+1179	30	28	2450	1	400	1		0	0	unchanged	0			The Brassbolts Brothers
+1360	43	33	3600	1	1337	2	81	0	0	unchanged	6000			Reclaimed Treasures
+1453	33	30	1300	1	1537	0		0	0	unchanged	0			Reclaimers' Business in Desolace
+1457	39	30	2250	1	405	1		0	0	unchanged	0	6791,6792		The Karnitol Shipwreck
+1467	40	30	3150	1	405	1		0	0	unchanged	3500	6793,6794		Reagents for Reclaimers Inc.
+1578	12	1	910	1	-121	5		11	0	unchanged	0		3609	Supplying the Front
+1618	16	1	1150	1	-121	5		0	0	unchanged	0		6735	Gearing Redridge
+1645	12	12		1	-141	4		2	4	unchanged	0		6916	The Tome of Divinity
+1646	12	12	90	1	-141	4		2	4	unchanged	0			The Tome of Divinity
+1647	12	12	455	1	-141	4		2	4	unchanged	0			The Tome of Divinity
+1648	13	12	910	1	-141	4		2	4	unchanged	0			The Tome of Divinity
+1678	11	10	1100	1	-81	4		1	0	updated	0			Vejrek
+1679	10	10	85	1	-81	4		1	0	unchanged	0			Muren Stormpike
+1680	11	10	90	1	-81	4		1	0	unchanged	0			Tormus Deepforge
+1681	11	10	660	1	-81	4		1	0	unchanged	0			Ironband's Compound
+1682	10	10	630	1	-81	4		1	0	unchanged	0	6978,6982,6981,6984		Grey Iron Weapons
+1698	20	20	155	1	-81	4		1	0	unchanged	0			Yorus Barleybrew
+1704	28	20	570	1	-81	4		1	68	unchanged	0			Klockmort Spannerspan
+1708	29	20	1750	1	-81	4		1	0	unchanged	0			Iron Coral
+1709	30	20	3050	1	-81	4		1	0	unchanged	0		6974	Klockmort's Creation
+1715	10	10	420	1	-61	4		256	65	unchanged	0			The Slaughtered Lamb
+1717	20	20	390	1	-61	4		256	65	unchanged	0			Gakin's Summons
+1718	30	30	610	3	-81	4		1	0	unchanged	0			The Islander
+1758	30	30	610	1	-61	4		256	65	unchanged	0			Tome of the Cabal
+1778	13	12	230	1	-141	4		2	4	unchanged	0			The Tome of Divinity
+1779	13	12		1	-141	4		2	4	unchanged	0			The Tome of Divinity
+1783	13	12	680	1	-141	4		2	4	unchanged	0			The Tome of Divinity
+1784	13	12	680	1	-141	4		2	4	unchanged	0			The Tome of Divinity
+1785	13	12	1150	1	-141	4		2	4	unchanged	0			The Tome of Divinity
+1789	12	12		1	-141	4		2	4	unchanged	0		6866	The Symbol of Life
+1794	20	20		1	-141	4		2	0	unchanged	0		6776	The Tome of Valor
+1802	30	30	2450	1	-61	4		256	65	unchanged	0			Tome of the Cabal
+1804	30	30	2450	1	-61	4		256	65	unchanged	0			Tome of the Cabal
+1879	10	10	85	1	-161	4		128	65	unchanged	0			Speak with Bink
+1880	10	10	840	1	-161	4		128	65	unchanged	0	7507,9514		Mage-tastic Gizmonitor
+1919	15	15	105	1	-161	4		128	4294967361	unchanged	0			Report to Jennea
+1939	26	26	1050	1	-161	4		128	65	unchanged	0			High Sorcerer Andromath
+1947	38	30	285	3	-161	4		128	0	unchanged	0			Journey to the Marsh
+1953	40	35	315	3	-161	4		128	0	unchanged	0			Return to the Marsh
+2039	15	12	270	1	1537	0		0	0	unchanged	0			Find Bingles
+2041	15	15	270	1	1537	0		0	0	unchanged	0			Speak with Shoni
+2198	41	37	3300	1	1337	2	81	0	0	unchanged	0			The Shattered Necklace
+2199	41	37	2450	1	1337	2	81	0	0	unchanged	0			Lore for a Price
+2200	42	37	2550	1	1337	2	81	0	0	unchanged	0			Back to Uldaman
+2201	43	37	3600	1	1337	2	81	0	0	unchanged	0			Find the Gems
+2204	44	37	930	1	1337	2	81	0	0	unchanged	0			Restoring the Necklace
+2218	10	10	420	1	-162	4		8	0	unchanged	175			Road to Salvation
+2238	10	10	840	1	-162	4		8	0	unchanged	0			Simple Subterfugin'
+2239	10	10	840	1	-162	4		8	0	unchanged	0		7298	Onin's Report
+2240	40	35	3900	1	1337	2	81	0	0	updated	0	9626,9627,270078		The Hidden Chamber
+2279	47	40	5250	1	1337	2		0	0	unchanged	0			The Platinum Discs
+2298	16	16	115	1	-162	4		8	0	unchanged	0			Kingly Shakedown
+2299	16	16	115	1	-162	4		8	0	unchanged	0			To Hulfdan!
+2361	44	37	5600	1	1337	2	81	0	0	unchanged	0		7673	Restoring the Necklace
+2398	40	35	315	1	1337	2	81	0	0	unchanged	500			The Lost Dwarves
+2439	47	40	420	1	1537	0		0	0	unchanged	0	3928,6149	9587	The Platinum Discs
+2769	46	40	405	1	400	1	81	0	0	unchanged	0			The Brassbolts Brothers
+2861	46	40	405	3	1176	2	81	0	0	unchanged	0			Tabetha's Task
+2922	26	20	2650	1	721	2	81	0	0	unchanged	2000			Save Techbot's Brain!
+2923	26	20	210	1	721	2	81	0	0	unchanged	0			Tinkmaster Overspark
+2924	30	24	3050	1	721	2	81	0	0	unchanged	5500			Essential Artificials
+2925	30	24	245	1	721	2	81	0	0	unchanged	0			Klockmort's Essentials
+2927	27	20	220	1	721	2	81	0	0	unchanged	0			The Day After
+2929	35	25	3450	1	721	2	81	0	0	updated	3500	9623,9624,9625		The Grand Betrayal
+2930	30	25	3650	1	721	2	81	0	0	unchanged	2500		9605,9604	Data Rescue
+2931	28	25	230	1	721	2	81	0	0	unchanged	0			Castpipe's Task
+2946	50	45	4700	1	1537	0	1	0	0	unchanged	0			Seeing What Happens
+2947	34	28	2700	1	721	2	81	0	0	unchanged	0			Return of the Ring
+2948	35	28	2750	1	1537	0		0	0	unchanged	0		9538	Gnome Improvement
+2963	50	45	470	1	1537	0		0	0	unchanged	0			Portents of Uldum
+2964	50	45	4700	1	1537	0		0	0	unchanged	22000			A Future Task
+2977	50	45	470	1	1537	0	1	0	0	unchanged	0			Return to Ironforge
+2997	12	12	90	1	-141	4		2	4	unchanged	0			Tome of Divinity
+2999	12	12	90	1	-141	4		2	4	unchanged	0			Tome of Divinity
+3000	12	12	225	1	-141	4		2	4	unchanged	0			Tome of Divinity
+3182	48	40	4400	1	38	0	1	0	0	unchanged	14000			Proof of Deed
+3201	48	40	4400	1	1537	0	1	0	0	unchanged	0		5396	At Last!
+3368	48	40	4400	1	51	0		0	0	unchanged	14000			Suntara Stones
+3371	55	40	5650	1	1537	0		0	0	unchanged	0			Dwarven Justice
+3375	42	37		1	1337	2		0	0	unchanged	0		7667	Replacement Phial
+3448	52	45	510	1	1537	0		0	0	unchanged	0			Passing the Burden
+3449	52	45	2550	1	1537	0		0	0	unchanged	0			Arcane Runes
+3450	52	45	510	1	1537	0		0	0	unchanged	0			An Easy Pickup
+3451	52	45	510	1	1537	0		0	0	unchanged	0		10444	Signal for Pickup
+3461	52	45	7600	1	1537	0		0	0	unchanged	0	10707,10708		Return to Tymor
+3483	52	45		1	1537	0		0	0	unchanged	0		10444	Signal for Pickup
+3566	52	40	7600	1	51	0	1	0	0	unchanged	15500	10740,10741,10739		Rise, Obsidion!
+3630	47	30	420	1	-201	5		0	0	unchanged	0			Gnome Engineering
+3632	47	30	420	1	-201	5		0	0	unchanged	0			Gnome Engineering
+3634	47	30	420	1	-201	5		0	0	unchanged	0			Gnome Engineering
+3640	47	30	420	1	-201	5		0	0	unchanged	0			The Pledge of Secrecy
+3641	47	30	3150	1	-201	5		0	0	unchanged	0		10790	Show Your Work
+3647	47	30		1	-201	5		0	0	unchanged	0		10790	Membership Card Renewal
+3681	12	12	225	1	-141	4		2	1	unchanged	0			Tome of Divinity
+3701	54	50	5450	1	1537	0		0	0	unchanged	16500		12102	The Smoldering Ruins of Thaurissan
+3702	54	50	540	1	1537	0		0	0	unchanged	0			The Smoldering Ruins of Thaurissan
+3790	50	47	470	1	1537	0		0	0	unchanged	0			Assisting Arch Druid Staghelm
+4181	47	30	420	1	-201	5		0	0	unchanged	0			Goblin Engineering
+4341	59	50	6400	1	1584	2	81	0	0	unchanged	0			Kharan Mighthammer
+4361	59	50	6400	1	1584	2	81	0	0	unchanged	0			The Bearer of Bad News
+4362	59	50	8050	1	1584	2	81	0	0	unchanged	0			The Fate of the Kingdom
+4363	59	50	9650	1	1584	2	81	0	0	updated	26500	12548,12543		The Princess's Surprise
+4485	40	40	315	1	-141	4		2	0	unchanged	0			The Tome of Nobility
+4486	40	40	315	1	-141	4		2	5	unchanged	0			The Tome of Nobility
+4487	40	40	315	1	-61	4		256	65	unchanged	0			Summon Felsteed
+4512	52	48	6350	1	1537	0		0	0	unchanged	7500			A Little Slime Goes a Long Way
+4513	54	48	6800	1	1537	0		0	0	unchanged	4000	12050,12051		A Little Slime Goes a Long Way
+4736	31	31	630	1	-61	4		256	65	unchanged	0			In Search of Menara Voidrender
+4965	35	35	1350	1	-61	4		256	65	unchanged	0			Knowledge of the Orb of Orahil
+5090	50	50	470	1	1537	0		0	0	unchanged	0			A Call to Arms: The Plaguelands!
+5283	40	40	3150	1	-121	5		3	13	unchanged	0			The Art of the Armorsmith
+5284	40	40	3150	1	-121	5		0	0	unchanged	0			The Way of the Weaponsmith
+5633	10	10	210	1	-262	4		16	8	unchanged	0			Returning Home
+5639	10	10		1	-262	4		16	5	updated	0			Desperate Prayer
+5641	20	20		1	-262	4		16	4	updated	0			Chastise
+5645	20	20	390	1	-262	4		16	4	updated	0			Chastise
+5647	20	20	390	1	-262	4		16	4	updated	0			Chastise
+5675	20	20	390	1	-262	4		16	8	unchanged	0			Elune's Grace
+5677	20	20	390	1	-262	4		16	1	unchanged	0			Arcane Feedback
+6074	10	10	85	1	-261	4		4	4	unchanged	0			The Hunter's Path
+6086	10	10	420	1	-261	4		4	4	updated	0			Training the Beast
+6388	10	10	210	1	38	0		0	68	unchanged	0			Gryth Thurden
+6391	10	10	420	1	38	0		0	68	unchanged	175			Ride to Ironforge
+6392	10	10	1050	1	38	0		0	68	unchanged	350			Return to Brock
+6609	45	35	970	1	-101	5		0	0	unchanged	0			I Got Nothin' Left!
+6612	45	35	970	1	-304	5		0	0	unchanged	0			I Know A Guy...
+6625	45	35	970	1	-324	5		0	0	unchanged	0			Alliance Trauma
+6721	10	10	85	1	1537	0		0	8	unchanged	0			The Hunter's Path
+7022	60	10	660	1	-1001	9		0	0	unchanged	0			Greatfather Winter is Here!
+7023	60	10	660	1	-1001	9		0	0	unchanged	0			Greatfather Winter is Here!
+7025	60	10	1650	1	-1001	9		0	0	unchanged	0		17727	Treats for Greatfather Winter
+7042	60	30	1650	1	-1001	9		0	0	unchanged	0			Stolen Winter Veil Treats
+7043	60	30	3300	1	-1001	9	1	0	0	unchanged	0			You're a Mean One...
+7045	60	30	4950	1	-1001	9		0	0	unchanged	0		17726	A Smokywood Pastures' Thank You!
+7062	60	10	660	1	-1001	9		0	0	unchanged	0			The Reason for the Season
+7063	60	10	660	1	-1001	9		0	0	unchanged	0			The Feast of Winter Veil
+7261	60	51	6600	1	2597	6	41	0	0	unchanged	0			The Sovereign Imperative
+7342	60	52		1	1537	0		0	0	unchanged	0		18042	Arrows Are For Sissies
+7494	57	54	1500	1	2557	2	81	0	0	unchanged	0			Feathermoon Stronghold
+7562	58	60	620	3	-61	4		256	0	unchanged	0			Mor'zul Bloodbringer
+7637	60	60	660	1	-141	4		2	5	unchanged	0			Emphasis on Sacrifice
+7639	60	60	660	1	-141	4		2	5	unchanged	0			To Show Due Judgment
+7670	60	60	660	1	-141	4		2	5	unchanged	0			Lord Grayson Shadowbreaker
+7802	60	12	660	1	1537	0		0	0	unchanged	0			A Donation of Wool
+7803	60	26	1650	1	1537	0		0	0	unchanged	0			A Donation of Silk
+7804	60	40	3300	1	1537	0		0	0	unchanged	0			A Donation of Mageweave
+7805	60	50	6600	1	1537	0		0	0	unchanged	0			A Donation of Runecloth
+7806	60	50		1	1537	0		0	0	unchanged	0			Additional Runecloth
+7807	60	12	660	1	1537	0		0	0	unchanged	0			A Donation of Wool
+7808	60	26	1650	1	1537	0		0	0	unchanged	0			A Donation of Silk
+7809	60	40	3300	1	1537	0		0	0	unchanged	0			A Donation of Mageweave
+7811	60	50	6600	1	1537	0		0	0	unchanged	0			A Donation of Runecloth
+7812	60	50		1	1537	0		0	0	unchanged	0			Additional Runecloth
+7905	60	6	660	1	1537	0		0	0	updated	0		19182	The Darkmoon Faire
+8151	52	50	510	3	-261	4		4	0	unchanged	0			The Hunter's Charm
+8229	60	35		1	0	-2		0	0	unchanged	0		19978	Could I get a Fishing Flier?
+8233	52	50	510	3	-162	4		8	0	unchanged	0			A Simple Request
+8250	52	50	510	3	-161	4		128	0	unchanged	0			Magecraft
+8254	52	50	510	3	-262	4		16	0	unchanged	0			Cenarion Aid
+8275	55	54	2800	1	1537	0		0	0	unchanged	0			Taking Back Silithus
+8353	60	10		1	-1003	9		0	0	unchanged	0		20490	Chicken Clucking for a Mint
+8355	60	10		1	-1003	9		0	0	unchanged	0		20494	Incoming Gumdrop
+8371	60	51	8300	1	-25	6	41	0	0	unchanged	27000			Concerted Efforts
+8372	19	10	1450	1	3277	6	41	0	0	updated	1100			Fight for Warsong Gulch
+8374	29	20	2350	1	3358	6	41	0	0	updated	2500			Claiming Arathi Basin
+8375	60	51	8300	1	2839	0	41	0	0	unchanged	18000			Remember Alterac Valley!
+8383	60	51	3300	1	2839	0	41	0	0	unchanged	0			Remember Alterac Valley!
+8384	29	20	1200	1	45	0	41	0	0	updated	0			Claiming Arathi Basin
+8385	60	51	6600	1	1537	0	41	0	0	unchanged	0			Concerted Efforts
+8386	19	10	730	1	3277	6	41	0	0	updated	0			Fight for Warsong Gulch
+8391	39	30	1500	1	3358	6	41	0	0	updated	0			Claiming Arathi Basin
+8392	49	40	2250	1	3358	6	41	0	0	updated	0			Claiming Arathi Basin
+8393	39	30	3000	1	3358	6	41	0	0	updated	4500			Claiming Arathi Basin
+8394	49	40		1	3358	6	41	0	0	updated	7000			Claiming Arathi Basin
+8395	59	50	6400	1	3358	6	41	0	0	updated	9000			Claiming Arathi Basin
+8396	60	60	6600	1	3358	6	41	0	0	updated	9000			Claiming Arathi Basin
+8397	59	50	3200	1	3358	6	41	0	0	updated	0			Claiming Arathi Basin
+8398	60	60	3300	1	3358	6	41	0	0	updated	0			Claiming Arathi Basin
+8399	29	20	2350	1	3277	6	41	0	0	updated	2500			Fight for Warsong Gulch
+8400	39	30	3000	1	3277	6	41	0	0	updated	4500			Fight for Warsong Gulch
+8401	49	40		1	3277	6	41	0	0	updated	7000			Fight for Warsong Gulch
+8402	59	50	6400	1	3277	6	41	0	0	updated	9000			Fight for Warsong Gulch
+8403	60	60	6600	1	3277	6	41	0	0	updated	9000			Fight for Warsong Gulch
+8404	29	20	1200	1	0	-2		0	0	updated	0			Fight for Warsong Gulch
+8405	39	30	3000	1	0	-2		0	0	updated	4500			Fight for Warsong Gulch
+8406	49	40	2250	1	0	-2		0	0	updated	0			Fight for Warsong Gulch
+8407	59	50	3200	1	3277	6	41	0	0	updated	0			Fight for Warsong Gulch
+8408	60	60	3300	1	0	-2		0	0	updated	0			Fight for Warsong Gulch
+8415	52	50	510	1	-141	4		2	5	unchanged	0			Chillwind Point
+8417	52	50	510	3	-81	4		1	0	unchanged	0			A Troubled Spirit
+8419	52	50	3800	3	-61	4		256	0	unchanged	0			An Imp's Request
+8484	60	45	9950	1	1216	1		0	0	updated	0			The Brokering of Peace
+8492	60	1		1	-365	7		0	0	unchanged	0		21436,21509	The Alliance Needs Copper Bars!
+8493	60	1		1	-365	7		0	0	unchanged	0		21436,21509	The Alliance Needs More Copper Bars!
+8494	60	1		1	-365	7		0	0	unchanged	0		21436,21511	The Alliance Needs Iron Bars!
+8495	60	1		1	-365	7		0	0	unchanged	0		21436,21511	The Alliance Needs More Iron Bars!
+8499	60	1		1	-365	7		0	0	unchanged	0		21436,21513	The Alliance Needs Thorium Bars!
+8500	60	1		1	-365	7		0	0	unchanged	0		21436,21513	The Alliance Needs More Thorium Bars!
+8503	60	1		1	-365	7		0	0	unchanged	0		21436,21510	The Alliance Needs Stranglekelp!
+8504	60	1		1	-365	7		0	0	unchanged	0		21436,21510	The Alliance Needs More Stranglekelp!
+8505	60	1		1	-365	7		0	0	unchanged	0		21436,21512	The Alliance Needs Purple Lotus!
+8506	60	1		1	-365	7		0	0	unchanged	0		21436,21512	The Alliance Needs More Purple Lotus!
+8509	60	1		1	-365	7		0	0	unchanged	0		21436,21513	The Alliance Needs Arthas' Tears!
+8510	60	1		1	-365	7		0	0	unchanged	0		21436,21513	The Alliance Needs More Arthas' Tears!
+8511	60	1		1	-365	7		0	0	unchanged	0		21436,21509	The Alliance Needs Light Leather!
+8512	60	1		1	-365	7		0	0	unchanged	0		21436,21509	The Alliance Needs More Light Leather!
+8513	60	1		1	-365	7		0	0	unchanged	0		21436,21510	The Alliance Needs Medium Leather!
+8514	60	1		1	-365	7		0	0	unchanged	0		21436,21510	The Alliance Needs More Medium Leather!
+8515	60	1		1	-365	7		0	0	unchanged	0		21436,21512	The Alliance Needs Thick Leather!
+8516	60	1		1	-365	7		0	0	unchanged	0		21436,21512	The Alliance Needs More Thick Leather!
+8517	60	1		1	-365	7		0	0	unchanged	0		21436,21509	The Alliance Needs Linen Bandages!
+8518	60	1		1	-365	7		0	0	unchanged	0		21436,21509	The Alliance Needs More Linen Bandages!
+8520	60	1		1	-365	7		0	0	unchanged	0		21436,21511	The Alliance Needs Silk Bandages!
+8521	60	1		1	-365	7		0	0	unchanged	0		21436,21511	The Alliance Needs More Silk Bandages!
+8522	60	1		1	-365	7		0	0	unchanged	0		21436,21513	The Alliance Needs Runecloth Bandages!
+8523	60	1		1	-365	7		0	0	unchanged	0		21436,21513	The Alliance Needs More Runecloth Bandages!
+8524	60	1		1	-365	7		0	0	unchanged	0		21436,21509	The Alliance Needs Rainbow Fin Albacore!
+8525	60	1		1	-365	7		0	0	unchanged	0		21436,21509	The Alliance Needs More Rainbow Fin Albacore!
+8526	60	1		1	-365	7		0	0	unchanged	0		21436,21511	The Alliance Needs Roast Raptor!
+8527	60	1		1	-365	7		0	0	unchanged	0		21436,21511	The Alliance Needs More Roast Raptor!
+8528	60	1		1	-365	7		0	0	unchanged	0		21436,21512	The Alliance Needs Spotted Yellowtail!
+8529	60	1		1	-365	7		0	0	unchanged	0		21436,21512	The Alliance Needs More Spotted Yellowtail!
+8744	1	1		3	-1001	9		0	0	unchanged	0		21191	A Carefully Wrapped Present
+8762	60	40	4950	1	-1001	9		0	0	unchanged	0		21213	Metzen the Reindeer
+8763	60	40		1	-1001	9		0	0	unchanged	0		21213	The Hero of the Day
+8767	1	1		3	-1001	9		0	0	unchanged	0		21270	A Gently Shaken Gift
+8768	20	20		3	-1001	9		0	0	unchanged	0		21310	A Gaily Wrapped Present
+8769	40	40		3	-1001	9		0	0	unchanged	0		21327	A Ticking Present
+8788	1	1		3	-1001	9		0	0	updated	0		21271	A Gently Shaken Gift
+8795	60	1	660	1	-365	7		0	0	unchanged	0			The Alliance Needs Your Help!
+8796	60	1	660	1	-365	7		0	0	unchanged	0			The Alliance Needs Your Help!
+8797	60	1	660	1	-365	7		0	0	unchanged	0			The Alliance Needs Your Help!
+8799	60	40		2	-1001	9		0	0	unchanged	0		21213	The Hero of the Day
+8803	10	10		3	-1001	9		0	0	unchanged	0		21363	A Festive Gift
+8811	60	1		1	-367	7		0	0	unchanged	0			One Commendation Signet
+8812	60	1		1	-367	7		0	0	unchanged	0			One Commendation Signet
+8813	60	1		1	-367	7		0	0	unchanged	0			One Commendation Signet
+8814	60	1		1	-367	7		0	0	unchanged	0			One Commendation Signet
+8819	60	1		1	-367	7		0	0	unchanged	0			Ten Commendation Signets
+8820	60	1		1	-367	7		0	0	unchanged	0			Ten Commendation Signets
+8821	60	1		1	-367	7		0	0	unchanged	0			Ten Commendation Signets
+8822	60	1		1	-367	7		0	0	unchanged	0			Ten Commendation Signets
+8827	1	1	10	1	-1001	9		0	0	unchanged	0			Winter's Presents
+8834	60	1		1	-367	7		0	0	unchanged	0			One Commendation Signet
+8835	60	1		1	-367	7		0	0	unchanged	0			Ten Commendation Signets
+8837	60	1		1	-367	7		0	0	unchanged	0			Ten Commendation Signets
+8838	60	1		1	-367	7		0	0	unchanged	0			One Commendation Signet
+8839	60	1		1	-367	7		0	0	unchanged	0			Ten Commendation Signets
+8846	19	10		1	-365	7		0	0	unchanged	0		21509	Five Signets for War Supplies
+8847	29	20		1	-365	7		0	0	unchanged	0		21510	Ten Signets for War Supplies
+8848	39	30		1	-365	7		0	0	unchanged	0		21511	Fifteen Signets for War Supplies
+8849	49	40		1	-365	7		0	0	unchanged	0		21512	Twenty Signets for War Supplies
+8850	60	50		1	-365	7		0	0	unchanged	0		21513	Thirty Signets for War Supplies
+8866	60	1		3	-366	9		0	0	unchanged	0		21100	Bronzebeard the Elder
+8867	60	1		3	-366	9		0	0	unchanged	0		21711	Lunar Fireworks
+8870	60	1		1	-366	9		0	0	unchanged	0			The Lunar Festival
+8871	60	1		1	-366	9		0	0	unchanged	0			The Lunar Festival
+8872	60	1		1	-366	9		0	0	unchanged	0			The Lunar Festival
+8873	60	1		2	-366	9		0	0	unchanged	0			The Lunar Festival
+8874	60	1		2	-366	9		0	0	unchanged	0			The Lunar Festival
+8875	60	1		2	-366	9		0	0	unchanged	0			The Lunar Festival
+8883	60	1	660	3	-366	9		0	0	unchanged	0			Valadar Starsong
+8898	60	1		1	-1004	9		0	0	unchanged	0			Dearest Colara,
+8905	60	58	6600	1	1537	0	81	1024	8	unchanged	0		22108	An Earnest Proposition
+8906	60	58	6600	1	1537	0	81	4	0	unchanged	0		22011	An Earnest Proposition
+8907	60	58	6600	1	1537	0	81	128	65	unchanged	0		22063	An Earnest Proposition
+8908	60	58	6600	1	1537	0	81	2	0	unchanged	0		22088	An Earnest Proposition
+8909	60	58	6600	1	1537	0	81	16	0	unchanged	0		22079	An Earnest Proposition
+8910	60	58	6600	1	1537	0	81	8	0	unchanged	0		22004	An Earnest Proposition
+8911	60	58	6600	1	1537	0	81	256	0	unchanged	0		22071	An Earnest Proposition
+8912	60	58	6600	1	1537	0	81	1	0	unchanged	0		21996	An Earnest Proposition
+8922	60	58	6600	1	440	1		0	0	unchanged	0			A Supernatural Device
+8926	60	58	9950	1	1537	0	81	0	0	unchanged	0		22106,22110	Just Compensation
+8929	60	58	6600	1	139	0		0	0	unchanged	0			In Search of Anthion
+8931	60	58	9950	1	1537	0	81	0	0	unchanged	0		22010,22015	Just Compensation
+8932	60	58	9950	1	1537	0	81	0	0	unchanged	0		22062,22066	Just Compensation
+8933	60	58	9950	1	1537	0	81	0	0	unchanged	0		22086,22090	Just Compensation
+8934	60	58	9950	1	1537	0	81	0	0	unchanged	0		22078,22081	Just Compensation
+8935	60	58	9950	1	1537	0	81	8	0	unchanged	0		22002,22006	Just Compensation
+8936	60	58	9950	1	1537	0	81	0	0	unchanged	0		22070,22077	Just Compensation
+8937	60	58	9950	1	1537	0	81	1	0	unchanged	0		21994,21998	Just Compensation
+8951	60	58	9950	1	1537	0	81	0	0	unchanged	0		22107,22111,22112	Anthion's Parting Words
+8952	60	58	9950	1	1537	0	81	0	0	unchanged	0		22061,22017,22016	Anthion's Parting Words
+8953	60	58	9950	3	1537	0	81	0	0	unchanged	0		22064,22067,22068	Anthion's Parting Words
+8954	60	58	9950	1	1537	0	81	0	0	unchanged	0		22087,22092,22093	Anthion's Parting Words
+8955	60	58	9950	1	1537	0	81	0	0	unchanged	0		22084,22085,22082	Anthion's Parting Words
+8956	60	58	9950	1	1537	0	81	0	0	unchanged	0		22003,22007,22008	Anthion's Parting Words
+8958	60	58	9950	1	1537	0	81	0	0	unchanged	0		22076,22072,22073	Anthion's Parting Words
+8959	60	58	9950	1	1537	0	81	0	0	unchanged	0		21995,22000,22001	Anthion's Parting Words
+8960	60	58	1650	3	25	0		0	0	unchanged	0			Bodley's Unfortunate Fate
+8977	60	58	6600	1	1537	0		0	0	unchanged	0			Return to Deliana
+8981	60	1		2	-1004	9		0	0	unchanged	0	22218,22200	21812	Gift Giving
+8993	60	1		1	-1004	9		0	0	unchanged	0	22218,22200	21812	Gift Giving
+8997	60	58	660	1	1537	0		0	0	unchanged	0			Back to the Beginning
+8999	60	58	1650	1	1537	0	81	0	0	unchanged	0		22109,22113	Saving the Best for Last
+9000	60	58	1650	1	1537	0	81	0	0	updated	0		22013,22060	Saving the Best for Last
+9001	60	58	1650	1	1537	0	81	0	0	unchanged	0		22065,22069	Saving the Best for Last
+9002	60	58	1650	1	1537	0	81	0	0	unchanged	0		22091,22089	Saving the Best for Last
+9003	60	58	1650	1	1537	0	81	0	0	unchanged	0		22080,22083	Saving the Best for Last
+9004	60	58	1650	1	1537	0	81	0	0	unchanged	0		22005,22009	Saving the Best for Last
+9005	60	58	1650	1	1537	0	81	0	0	unchanged	0		22074,22075	Saving the Best for Last
+9006	60	58	1650	1	1537	0	81	0	0	unchanged	0		21999,21997	Saving the Best for Last
+9094	60	50		1	0	-2		0	0	unchanged	0	23084,23081,23082,23078		Argent Dawn Gloves
+9154	60	50		3	-368	7		0	0	unchanged	0			Light's Hope Chapel
+9317	60	50		1	0	-2		0	0	unchanged	0		23122	Consecrated Sharpening Stones
+9318	60	50		1	0	-2		0	0	unchanged	0		23123	Blessed Wizard Oil
+9319	60	50	4950	3	-369	9		0	0	unchanged	0		23083,23247	A Light in Dark Places
+9321	60	50		1	0	-2		0	0	unchanged	0		13446	Major Healing Potion
+9322	60	1	3300	3	-369	9		0	0	unchanged	0		23379,23247	Wild Fires in Kalimdor
+9323	60	1	3300	3	-369	9		0	0	unchanged	0		23324,23247	Wild Fires in the Eastern Kingdoms
+9324	60	50	4950	1	-369	9		0	0	unchanged	7000		23247,23247	Stealing Orgrimmar's Flame
+9325	60	50	4950	1	-369	9		0	0	unchanged	7000		23246,23247	Stealing Thunder Bluff's Flame
+9326	60	50	4950	1	-369	9		0	0	unchanged	7000	23435,23327,23326,23211	23247	Stealing the Undercity's Flame
+9337	60	50		1	0	-2		0	0	unchanged	0		13444	Major Mana Potion
+9341	60	50		1	-368	7		0	0	unchanged	0		22999	Tabard of the Argent Dawn
+9367	60	1	660	1	-369	9		0	0	unchanged	0		23247,23246	The Festival of Fire
+9386	60	50		3	-369	9		0	0	unchanged	0		23247	A Light in Dark Places
+9388	25	1	1500	3	-369	9		0	0	unchanged	0	23435,23327,23326,23211		Flickering Flames in Kalimdor
+9389	25	1	1500	3	-369	9		0	0	unchanged	0	23435,23327,23326,23211		Flickering Flames in the Eastern Kingdoms
+79482	60	25	1650	1	-22	-2	62	0	0	unchanged	0			Stolen Winter Veil Treats
+79492	60	25	4950	1	-22	-2	62	0	0	updated	0		213121	Metzen the Reindeer
+84148	60	58	6600		1537	0	81	0	0	unconfirmed	0		226885	An Earnest Proposition
+84149	60	58	6600		1537	0	81	0	0	unconfirmed	0		226929	An Earnest Proposition
+94449	10	10	420	1	-82	4		64	4	new	0			Call of Fire
+94494	20	20	780	1	-82	4		64	4	new	0			Call of Water
+94778	10	10		1	-262	4		16	1	new	0			Divine Grace
+94789	30	30	2450	1	-82	4		64	0	new	0		5178	Call of Air
+94817	10	10		1	-262	4		16	64	new	0			Confounding Flash
+94818	20	20		1	-262	4		16	64	new	0			Contingency Plan
+94819	20	20	390	1	-262	4		16	64	new	0			Contingency Plan
+94821	10	10	210	1	-262	4		16	64	new	0			Confounding Flash
+94822	10	10	210	1	-262	4		16	64	new	0			Confounding Flash
+94824	10	10	210	1	-262	4		16	72	new	0			Confounding Flash
+95041	10	7	630	1	1	0		0	4294967372	new	0			Data Hoarders
+95799	40	30	2350	1	1537	0		0	0	new	3500	279880,279881	272124	Findings for the Explorer's League
+95817	60	1	660		1537	0		0	0	new	900			Rotgath Stonebeard
+95818	60	1	6600		1537	0		0	0	new	9000	270877,270878,270880,270881,270882,270883	270868	A Quick Craft
+96031	6	4	270	1	-666	-2		76	68	new	0			Camping 101: Leatherworking
+96045	6	4	270	1	-666	-2		0	76	new	0			Camping 101: Alchemy
+96055	6	4	270	1	-666	-2		0	4294967364	new	0			Camping 101: Herbalism
+96056	6	4	270	1	-666	-2		0	68	new	0			Camping 101: Skinning
+96057	6	4	270	1	-666	-2		0	76	new	0			Camping 101: Tailoring
+96059	6	4	270	1	-666	-2		0	4294967372	new	0			Camping 101: Enchanting
+96243	4	4	180	1	-82	4		64	68	new	0			Call of Earth
+96393	16	9	1450	1	16919	2	81	0	4294967372	new	800	279894,279895,279896		Old Ironforge Incursion
+96394	15	10	1050	1	16919	2	81	0	4294967372	new	700	279897,280095		The Restless Dead
+96403	15	10	1350	1	16919	2	81	0	0	new	700	279898,280096		Important Heirlooms
+97263	2	1	45	1	1537	0		0	4294967372	new	8			Your Package Has Arrived
+98300	34	24	2700	1	1537	0		0	0	new	1700			Word to Ironforge
+98313	32	24		1	1537	0		0	0	new	0			For Further Study
+98423	16	9	1150	1	1	0		0	0	new	1600			The Treaty of Understanding
+98824	31	24	3150	1	16732	2	81	0	0	new	6000	271716,271767,271766		Prehistoric Prism
+98895	39	30	1500	1	16606	6	41	0	0	new	4500			Darkspear Islands Clash
+98896	39	30		1	16606	6	41	0	0	new	0			Darkspear Islands Clash

@@ -1,0 +1,54 @@
+ZONE	/forever/zone=8/swamp-of-sorrows
+624	43	35	3600	3	33	0		0	0	unchanged	0			Cortello's Riddle
+625	43	35	3600	3	33	0		0	0	unchanged	0			Cortello's Riddle
+698	40	35	3150	2	8	0		0	0	unchanged	0			Lack of Surplus
+699	42	35	3450	2	8	0		0	0	unchanged	0			Lack of Surplus
+1389	35	30	2750	3	8	0		0	0	unchanged	0			Draenethyst Crystals
+1391	42	37	2550	2	10	0		0	0	unchanged	0			Nothing But The Truth
+1392	39	29	2250	3	8	0		0	0	unchanged	0			Noboru the Cudgel
+1393	38	30	2850	3	8	0		0	0	unchanged	8500		6828	Galen's Escape
+1396	37	30	2850	1	8	0		0	0	unchanged	0			Encroaching Wildlife
+1398	42	30	3450	1	8	0		0	0	unchanged	0			Driftwood
+1418	35	30	1350	2	8	0		0	0	unchanged	0			Neeka Bloodscar
+1420	40	30	2350	2	3	0		0	0	unchanged	0			Report to Helgrum
+1421	35	30	2750	1	8	0		0	0	unchanged	0			The Lost Caravan
+1422	45	35		2	8	0		0	0	unchanged	0			Threat From the Sea
+1423	40	30		1	8	0		0	0	unchanged	0		6827	The Lost Supplies
+1424	43	38	4450	2	8	0	1	0	0	unchanged	12000			Pool of Tears
+1425	42	30	2550	1	8	0		0	0	updated	0			Deliver the First Shipment
+1426	43	35	4450	2	8	0		0	0	unchanged	0			Threat From the Sea
+1427	43	35	3600	2	8	0		0	0	unchanged	0	9680,9678,9679		Threat From the Sea
+1428	45	35	3900	2	8	0		0	0	unchanged	0			Continued Threat
+1429	44	38	3750	2	8	0		0	0	unchanged	0			The Atal'ai Exile
+1430	44	35	3750	2	8	0		0	0	unchanged	0		9681,9682	Fresh Meat
+1444	44	38	3750	2	47	0		0	0	unchanged	0			Return to Fel'Zerul
+1445	50	38	5900	2	1477	2	81	0	0	unchanged	0		1490	The Temple of Atal'Hakkar
+2621	50	45	1200	2	4	0		0	0	unchanged	0			The Disgraced One
+2622	50	45	1200	2	8	0		0	0	unchanged	0			The Missing Orders
+2623	55	45	5650	2	8	0		0	0	unchanged	0			The Swamp Talker
+2681	57	45	7550	3	4	0		0	0	unchanged	0			The Stones That Bind Us
+2701	57	45	6000	3	4	0		0	0	unchanged	0		10659	Heroes of Old
+2702	57	45	3000	3	4	0		0	0	unchanged	0			Heroes of Old
+2721	58	45	6200	3	4	0	1	0	0	unchanged	0			Kirith
+2743	60	45	3300	3	4	0		0	0	unchanged	0			The Cover of Darkness
+2744	60	45	6600	3	4	0		0	0	unchanged	0			The Demon Hunter
+2783	57	50	4500	1	4	0		0	0	unchanged	0			Petty Squabbles
+2784	50	45	470	2	4	0		0	0	unchanged	0			Fall From Grace
+2801	57	45	600	3	4	0		0	0	unchanged	0			A Tale of Sorrow
+3374	55	48	560	3	8	0		0	0	updated	0			The Essence of Eranikus
+3512	55	48	4200	3	8	0		0	0	unchanged	0			In Eranikus' Own Words
+3626	58	45	1550	3	33	0		0	0	unchanged	0			Return to the Blasted Lands
+3627	60	45	8300	3	4	0	1	0	0	unchanged	0			Uniting the Shattered Amulet
+3628	60	45	9950	3	4	0	1	0	0	unchanged	27000		10778,10779,10959	You Are Rakh'likh, Demon
+8417	52	50	510	3	-81	4		1	0	unchanged	0			A Troubled Spirit
+8423	52	50	5100	3	-81	4		1	0	unchanged	0			Warrior Kinship
+8424	52	50	5100	3	-81	4		1	0	unchanged	0			War on the Shadowsworn
+8425	52	50	6350	3	-81	4	81	1	0	updated	0	20521,20130,20517		Voodoo Feathers
+93176	35	25	2750	3	8	0		0	0	new	3500		280456	My Little Friends
+93429	35	30	2750	1	8	0		0	0	new	1800			Blood of My Blood
+93430	35	30	2050		8	0		0	0	new	0			Taking the Bait Back
+93464	38	30	1450	2	8	0		0	0	new	0			The Visiting Mage
+93585	34	30	2700	1	8	0		0	0	new	0			This Light of Mine
+93663	35	30	1350	2	8	0		0	0	new	0			Lost in Transit
+93679	55	45	560		8	0		0	0		0			Visions of Another
+94929	38	36	285	1	8	0		0	0	new	0			Deliver the Second Shipment

@@ -1,0 +1,173 @@
+ZONE	/forever/zone=16591/riverglades
+93786	36	35	2800	2	16591	0		0	0	new	0			A Message in Blood
+93787	36	36	2800	2	16591	0		0	0	new	0			Food for the Taking
+93788	38	36	2850	2	16591	0		0	0	new	0			Borrowed Blades
+93971	45	36	4850	2	16591	0		0	0	new	13000	275040,275041		Farholde Scouting Report
+93976	36	36	280	2	16591	0		0	0	new	0			The Goblin Trader
+94480	36	36	280	2	16591	0		0	0	new	0			A Gift From Our Enemies
+94481	38	36	2150	2	16591	0		0	0	new	0			A Serving of Strength
+94483	39	36	3000	2	16591	0		0	0	new	3500			Show Them How It's Done
+94532	38	36	2850	2	16591	0		0	0	new	0			Gnoll Infestation
+94533	40	36	3150	2	16591	0	1	0	0	new	0	274942,274943,274944,274946		Snargl's Snout
+94535	38	36	2850	2	16591	0		0	0	new	4500			Bristle Hills Bandits
+94556	42	36	4300	2	16591	0		0	0	new	0	274952,274955		Jom-jom's Escape
+94613	38	36	285	1	16591	0		0	0	new	0			My Kingdom for a Horse
+94614	38	36	2850	1	16591	0		0	0	new	2000			Freshwater Fiends
+94615	38	36	1450	1	16591	0		0	0	new	0			Foal Play
+94617	38	36	2850	1	16591	0		0	0	new	0			Coyote Huntin'
+94618	38	36	1450	1	16591	0		0	0	new	0			Wheeler's Fleeing Steeds
+94668	41	36	330	2	16591	0		0	0	new	0			Bloodmaster's Ring
+94669	41	36	330	2	16591	0		0	0	new	0			Pay to Play
+94670	41	36	4100	2	16591	0	1	0	0	new	0			Bloodmaster's Ring
+94672	41	36	3300	2	16591	0		0	0	new	5500			Encroaching Twilight
+94678	38	36	2850	1	16591	0		0	0	new	0			Gnoll Infestation
+94679	40	36	3150	1	16591	0	1	0	0	new	0	274938,274939,274940,274941		Snargl's Snout
+94680	41	36	2450	2	16591	0		0	0	new	0			Twilight Missives
+94727	40	36	315	2	16591	0		0	0	new	0			Digging for Answers
+94733	41	36	330	2	16591	0		0	0	new	0			Our Ogre Friend
+94734	41	36	3300	2	16591	0		0	0	new	0			A Boar's Delight
+94737	41	36	330	2	16591	0		0	0	new	0			A Treat for a Friend
+94739	42	36	4300	2	16591	0	1	0	0	new	0			Bloodmaster's Ring
+94744	43	38	360	2	16591	0		0	0	new	0			The Wayward Warrior
+94745	44	38	3750	2	16591	0		0	0	new	6500			Carving a Path
+94748	44	38	3750	2	16591	0		0	0	new	0			Break Their Chains
+94768	46	38	5050	2	16591	0	1	0	0	new	0	275050,275051		Bring Me His Head
+94829	40	36	2350	1	16591	0		0	0	new	0			What We Lost
+94842	38	36	2850	1	16591	0		0	0	new	2000			Unsavory Plant Food
+94843	38	36	2150	1	16591	0		0	0	new	0			From Seed to Sprout
+94857	39	36	300	1	16591	0		0	0	new	0			If a Tree Falls, and No One Hears...
+94858	40	36	2350	1	16591	0		0	0	new	0			All That's Left
+94861	39	36	3000	1	16591	0		0	0	new	0	274928,274929		Helping Hands
+94877	40	36	3150	1	16591	0		0	0	new	0	274919,274920		Saving Sunnyglade
+94879	40	36	3150	1	16591	0		0	0	new	0			Scraps of Knowledge
+94881	38	36	2850	1	16591	0		0	0	new	0			Curious Trinkets
+94884	41	36	1650	1	16591	0		0	0	new	0			An Unsettling Discovery
+94885	40	36	3150	1	16591	0		0	0	new	2500			Field Marshal's Log
+94886	44	38	375	1	16591	0		0	0	new	0			The Western Front
+94887	47	36	2100	1	16591	0		0	0	new	0			Saving Marshal Ryan
+94888	44	38	3750	1	16591	0		0	0	new	0			No Soldier Left Behind
+94889	44	38	3750	1	16591	0		0	0	new	3000			Carving a Path
+94890	46	38	5050	1	16591	0	1	0	0	new	0	275046,275049		Bring Me His Head
+94891	46	38	4050	1	16591	0		0	0	new	0		275042	News to Farholde
+94892	47	36	4200	1	16591	0		0	0	new	0			Dying Wish
+94893	47	36	4200	1	16591	0		0	0	new	7000			Delivering Closure
+94894	45	38	4850	1	16591	0		0	0	new	0			The Twilight Threat
+94895	38	36	285	2	405	1		0	0	new	0			Lost Shipping Crate
+94907	44	36	3750	1	16591	0		0	0	new	0			A Small Favor
+94923	38	36	2150	1	16591	0		0	0	new	2000			Hats Off
+94924	39	36	3000	1	16591	0		0	0	new	2500			Hunting the Hunters
+94925	39	36	3000	1	16591	0		0	0	new	0			A Fur Trade
+94926	45	38	4850	1	16591	0	1	0	0	new	0		275036	Drop the Hammer
+94927	44	38	4650	1	16591	0		0	0	new	0	275025,275023,275021		Dunston Checks Out
+94928	39	36	300	1	16591	0		0	0	new	0			A Few Furs for Friz
+94931	38	36	2850	1	16591	0		0	0	new	0			Stolen Saws
+94961	40	36	2350		16591	0		0	0	new	0			Biting the Hand
+94962	42	36	4300	2	16591	0	1	0	0	new	0			Bloodmaster's Ring
+94963	40	36	3150		16591	0		0	0	new	5000			Biting the Hand
+94964	43	36	4450	2	16591	0	1	0	0	new	0			Bloodmaster's Ring
+94965	44	36	4650	2	16591	0	1	0	0	new	0	3928,13443		Bloodmaster's Ring
+94992	38	36	2850	1	16591	0		0	0	new	2000			Rescue Roundup
+94999	36	36	700	1	16591	0		0	0	new	0			Eyes for the Watchman
+95033	41	40	330	2	16591	0		0	0	new	0			On the Other Side
+95059	36	36	280	1	16591	0		0	0	new	0			Frazzlespark's Crate
+95062	36	36	280	2	16591	0		0	0	new	0			Frazzlespark's Crate
+95063	45	36	4850	2	16591	0	1	0	0	new	13000	275043,275044,275045		Bloodmaster's Ring
+95064	39	36	3000	1	16591	0		0	0	new	0	274959,274961		Preventative Measures
+95066	39	36	1500	1	16591	0		0	0	new	0		275052	The Rog'mar Situation
+95118	41	36	3300		16591	0		0	0	new	4000			Saltwater Savages
+95119	43	38	3600		16591	0		0	0	new	6000			Unfriendly Competition
+95120	42	36	4300		16591	0	1	0	0	new	3000		274963	WANTED: Old Rot-Chum
+95121	40	36	3150		16591	0		0	0	new	0		274972	A Taste of the Sea
+95122	44	38	3750		16591	0		0	0	new	3000			Unchecked Expansion
+95123	44	38	3750		16591	0		0	0	new	0			A Blast Ye Scurvy Dogs!
+95124	45	38	3900		16591	0		0	0	new	6500			Admiral Lamora
+95141	38	36	285	2	33	0		0	0	new	0			Report to Rog'mar
+95147	37	36	285	1	16591	0		0	0	new	0			The Lost Scout
+95148	37	36	285	1	16591	0		0	0	new	0			Southern Watch Gnoll Report
+95156	37	36	2100	1	16591	0		0	0	new	0			Stuff 'Em and Stick 'Em
+95161	22	15	175	1	16591	0		0	4294967372	new	0	279870		Remember That I Love You
+95162	41	38	3300	2	16591	0		0	0	new	0		274977	Paletusk Harvesting
+95163	40	38	3150	2	16591	0		0	0	new	0			Drive Them Back
+95165	44	38	3750		16591	0		0	0	new	0			See Ya, Scallywags!
+95183	41	38	1650	2	16591	0		0	0	new	0			Step One: Rock
+95184	38	36	2850	1	16591	0		0	0	new	2000			The Sharpest of Blades
+95219	41	40	330	1	16591	0		0	0	new	0			From Port to Port
+95254	42	36	3450		16591	0		0	0	new	3000		16766	WANTED: Trapclaw
+95260	42	38	345		16591	0		0	0	new	0			Terrors From the Deep
+95261	42	38	3450		16591	0		0	0	new	0			It Takes Guts
+95267	42	38	3450		16591	0		0	0	new	0		274948	The Monster Surfaces
+95278	45	38	390	2	16591	0		0	0	new	0			It Is Time, Brother...
+95288	43	38	3600		16591	0		0	0	new	0			Smuggler's Paradise
+95293	42	38	1700		16591	0		0	0	new	0			Smuggler's Special
+95294	42	38	345		16591	0		0	0	new	0			Smuggler's Bargain
+95295	40	36	315		16591	0		0	0	new	0			I Know a Guy
+95296	40	36	315		16591	0		0	0	new	0			Shipping and Handling
+95312	40	36	315		16591	0		0	0	new	0			Coming to Collect
+95321	40	36	3150		16591	0		0	0	new	0			Tazzik's Dues
+95322	40	36	2350		16591	0		0	0	new	0			Get the Goods
+95325	40	36	2350		16591	0		0	0	new	0			We've Been Robbed!
+95326	39	36	3000		16591	0		0	0	new	0			The Big Payback
+95327	40	36	3150		16591	0		0	0		0			All's Well That Ends Well
+95329	38	36	285	1	16591	0		0	0	new	0			Out in the Field
+95330	37	36	285	1	16591	0		0	0	new	0			Love Thy Neighbor
+95331	45	38			16591	0		0	0		0			REUSE ME
+95383	40	36	315		16591	0		0	0	new	0			Shipping and Handling
+95417	40	36	315	2	16591	0		0	0	new	0			The Purple Ones
+95418	40	36	315	2	16591	0		0	0	new	0			Spread the Word
+95420	40	36	315	2	16591	0		0	0	new	0			Land of Giants
+95424	41	36	3300	2	16591	0		0	0	new	5500			Might Makes Right
+95425	42	36	3450	2	16591	0		0	0	new	0			Unworthy Champion
+95426	39	36	3000	1	16591	0		0	0	new	0			Rog'mar Supplies
+95427	41	36	3300	2	16591	0	1	0	0	new	2500			Twilight No More!
+95428	41	36	330	2	16591	0		0	0	new	0			Clugfist's Decree
+95431	41	38	330	2	16591	0		0	0	new	0			Rumblings of Discontent
+95432	43	36	1800	2	16591	0		0	0	new	0			Rise Up!
+95433	46	36	5050	2	16591	0	1	0	0	new	0		275011	Death to the Executioner
+95472	40	36	2350		16591	0		0	0		0		270334	Consolation Prize
+95561	38	36	1450	1	16591	0		0	0	new	0		4539	Apple of My Eye
+95562	41	36	3300	1	16591	0	1	0	0	new	2500			Cut Off the Heads
+95601	40	36	3150	2	16591	0		0	0	new	0			The Purple Ones
+95602	40	36	3150	2	16591	0		0	0	new	0			Sickening Lights
+95603	38	36	2150	1	16591	0		0	0	new	0			Bats in the Belfry
+95613	38	36	2150	1	16591	0		0	0	new	3000			Keeping the Light On
+95615	38	36	2150	1	16591	0		0	0	new	0	274915,274916	274918	In Memoriam
+95642	40	36	3150	1	16591	0		0	0	new	0			Abominable Magics
+95643	40	36	3150	1	16591	0		0	0	new	0			Indiscriminate Purge
+95792	42	36	3450		16591	0		0	0	new	0			Clear 'em Out
+95882	43	38	4450	2	16591	0	1	0	0	new	0		276105	WANTED: Scoutmaster Vargas
+95912	42	38	4300	1	16591	0	1	0	0	new	0	276102,287072		WANTED: Blademaster Kaijo
+95913	38	36	2850	1	16591	0		0	0	new	0	274931,274932		Fit for a Princess
+95934	42	36	3450		16591	0		0	0	new	0			Proof of Profit
+95935	43	36	4450	1	16591	0	1	0	0	new	12000			Hail the Dragonslayer
+95936	43	36	4450	2	16591	0	1	0	0	new	12000			Hail the Dragonslayer
+95943	38	36	2150	1	16591	0		0	0	new	0			Foreman's Plight
+95951	38	36	2850	2	16591	0		0	0	new	2000			Fetch 'n' Fletch
+95957	38	36	285	1	16591	0		0	0	new	0			Drink Up!
+95961	38	36	285	1	16591	0		0	0	new	0			Stepped Out
+95975	41	36	3300	1	16591	0		0	0	new	0			Her World
+95982	38	36	2850		16591	0		0	0	new	0			Not My Circus
+95983	38	36	710	1	16591	0		0	0	new	0			A Feast for Buzzards
+95984	39	36	3000	1	16591	0		0	0	new	0			Song of the Strider
+95986	41	36	3300	1	16591	0	1	0	0	new	0			King of the Wild Plains
+95988	38	36	2850	1	16591	0		0	0	new	0		274935	Goes Down Smooth
+95991	42	38	4300	1	16591	0	1	0	0	new	0		274962	WANTED: Ghostmaw
+95992	42	38	4300	2	16591	0	1	0	0	new	0		274962	WANTED: Ghostmaw
+96009	38	36	2150	1	16591	0		0	0	new	0		274957	High Stakes
+96015	43	38	3600	1	16591	0		0	0	new	0		275028	A Miner Problem
+96026	41	38	2450	2	16591	0		0	0	new	0		251460	Step Two: More Rock
+96063	38	36	2850		16591	0		0	0	new	0		274922	Gaseous Gold
+96067	40	36	2350		16591	0		0	0	new	0			Rock 'em and Sock 'em
+96081	40	36	1550	1	16591	0		0	0	new	0			Wound Dressings
+96082	40	36	1550	1	16591	0		0	0	new	0			Doctor's Orderly
+96083	40	36	315	1	16591	0		0	0	new	0			Clerical Quarantine
+96084	40	36	3150	1	16591	0		0	0	new	0			Something's in the Water
+96085	42	36	4300	1	16591	0	1	0	0	new	0		3928	Upstream Contamination
+96103	38	36	710	2	16591	0		0	0	new	0			A Feast for Buzzards
+96104	39	36	3000	2	16591	0		0	0	new	0			Song of the Strider
+96105	41	36	3300	2	16591	0	1	0	0	new	0			King of the Wild Plains
+96107	40	36	3150	2	16591	0		0	0	new	0			Feathers for Fletching
+96108	40	36	2350	2	16591	0		0	0	new	0			Poison Tips
+96109	40	36	3150	2	16591	0		0	0	new	0		274926	A Hunter's Quiver
+96125	43	38	360	1	16591	0		0	0	new	0			In Need of Relief
+96126	44	38	3750	1	16591	0		0	0	new	0			An Ogre's Captive
+97884	40	36	3150	2	16591	0		0	0	new	5000		280943	Armory of Sunnyglade

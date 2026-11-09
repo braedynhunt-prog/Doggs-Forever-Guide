@@ -1,0 +1,176 @@
+ZONE	/forever/zone=440/tanaris
+10	48	39	4400	3	440	1		0	0	unchanged	0			The Scrimshank Redemption
+32	48	39	5450	2	440	1		0	0	unchanged	0			Rise of the Silithid
+82	47	39	3150	3	440	1		0	0	unchanged	5000			Noxious Lair Investigation
+110	48	39	440	3	440	1		0	0	unchanged	0			Insect Part Analysis
+113	48	39	440	3	440	1		0	0	unchanged	7000			Insect Part Analysis
+162	49	39	5700	1	440	1		0	0	unchanged	0			Rise of the Silithid
+243	46	38	2000	2	440	1		0	0	unchanged	0			Into the Field
+351	48	43	4400	3	440	1		0	0	unchanged	0			Find OOX-17/TN!
+379	46	38	3050	2	440	1		0	0	unchanged	0		8524	Slake That Thirst
+648	48	43	5450	3	440	1		0	0	unchanged	0	9643,9644		Rescue OOX-17/TN!
+654	46	38	4050	2	440	1		0	0	unchanged	0			Tanaris Field Sampling
+841	46	38		2	440	1		0	0	unchanged	0		8524	Another Power Source?
+864	46	38	5050	2	1497	0		0	0	unchanged	13000	9634,9635,11502		Return to Apothecary Zinge
+992	46	38	3050	3	440	1		0	0	unchanged	3500			Gadgetzan Water Survey
+1157	57	54		3	440	1		0	0	unchanged	0			<NYI> <TXT> pestlezugg needs items
+1158	58	54		3	440	1		0	0	unchanged	0			<NYI> <TXT> speak to rabine saturna
+1188	41	29	820	3	400	1		0	0	unchanged	0			Safety First
+1189	41	29	820	3	400	1		0	0	unchanged	0	6726,6727		Safety First
+1560	50	40	5900	3	440	1		0	0	unchanged	0	9638,9642		Tooga's Quest
+1690	43	40	3600	3	440	1		0	0	unchanged	6000			Wastewander Justice
+1691	44	40	3750	3	440	1		0	0	unchanged	6500			More Wastewander Justice
+1707	44	40	2800	3	440	1		0	0	unchanged	0		8484	Water Pouch Bounty
+1878	44	40	375	3	440	1		0	0	unchanged	0		8484	Water Pouch Bounty
+2605	49	44	4550	3	440	1		0	0	unchanged	7000			The Thirsty Goblin
+2606	49	44	455	3	440	1		0	0	unchanged	0			In Good Taste
+2641	49	44	4550	3	440	1		0	0	unchanged	0			Sprinkle's Secret Ingredient
+2661	49	44	455	3	440	1		0	0	unchanged	0			Delivery for Marin
+2662	49	44		3	440	1		0	0	unchanged	7000		8529	Noggenfogger Elixir
+2741	47	42	4200	3	440	1		0	0	unchanged	0		8647	The Super Egg-O-Matic
+2747	60	42		3	440	1		0	0	unchanged	0		9541	An Extraordinary Egg
+2748	60	42		3	440	1		0	0	unchanged	0		9540	A Fine Egg
+2749	60	42		3	440	1		0	0	unchanged	0		9539	An Ordinary Egg
+2750	60	42		3	440	1		0	0	unchanged	900			A Bad Egg
+2764	45	40	2900	3	-121	5		0	0	unchanged	0			Galvan's Finest Pupil
+2768	47	40	6300	3	1176	2	81	0	0	updated	0	9533,9534,270099		Divino-matic Rod
+2771	45	40	3900	3	-121	5		3	0	updated	0			A Good Head On Your Shoulders
+2772	45	40	3900	3	-121	5		0	0	unchanged	0			The World At Your Feet
+2773	45	40	3900	3	-121	5		0	0	unchanged	0			The Mithril Kid
+2781	46	39	5050	3	440	1		0	0	unchanged	13000			WANTED: Caliph Scorpidsting
+2864	45	40	390	3	1176	2	81	0	0	unchanged	0			Tran'rek
+2865	45	40	3900	3	1176	2	81	0	0	unchanged	6500			Scarab Shells
+2872	45	40	390	3	440	1		0	0	unchanged	0			Stoley's Debt
+2873	45	40	3900	3	440	1		0	0	unchanged	5000			Stoley's Shipment
+2874	45	40	3900	3	440	1		0	0	unchanged	5000	9636,9637		Deliver to MacKinley
+2875	45	40	3900	3	440	1		0	0	unchanged	13000			WANTED: Andre Firebeard
+2876	45	40	4850	3	440	1		0	0	unchanged	13000			Ship Schedules
+2882	45	40		3	-221	-2		0	0	unchanged	0		9265	Cuergo's Gold
+2941	48	42	1100	1	357	1		0	0	unchanged	0			The Borrower
+2944	48	42	4400	1	357	1	1	0	0	unchanged	0			The Super Snapper FX
+2946	50	45	4700	1	1537	0	1	0	0	unchanged	0			Seeing What Happens
+2954	50	45	4700	3	440	1	1	0	0	unchanged	0			The Stone Watcher
+2966	50	45	4700	2	1638	1	1	0	0	unchanged	0			Seeing What Happens
+2967	50	45	470	2	1638	1	1	0	0	unchanged	0			Return to Thunder Bluff
+2977	50	45	470	1	1537	0	1	0	0	unchanged	0			Return to Ironforge
+3022	47	42	2100	1	440	1		0	0	unchanged	5000			Handle With Care
+3042	45	40	3900	3	1176	2	81	0	0	unchanged	19500			Troll Temper
+3064	45	40		3	440	1		0	0	unchanged	0			<NYI> <TXT> Pirate Hats
+3161	48	43	4400	3	440	1		0	0	unchanged	0	10827,10826		Gahz'ridian
+3321	50	40	7100	3	-121	5		0	0	unchanged	0		10418	Did You Lose This?
+3362	50	45	4700	3	440	1		0	0	unchanged	7500			Thistleshrub Valley
+3380	51	46	3650	2	1477	2	81	0	0	unchanged	0			The Sunken Temple
+3402	50	40	4700	3	-264	5		0	0	unchanged	7500		10463	The Undermarket
+3444	51	46	4900	3	440	1		0	0	unchanged	0			The Stone Circle
+3445	51	46	3650	1	357	1		0	0	unchanged	0			The Sunken Temple
+3446	51	46	4900	3	1477	2	81	0	0	unchanged	0			Into the Depths
+3447	51	46	6100	3	1477	2	81	0	0	unchanged	0		10773	Secret of the Circle
+3520	44	40	3750	3	440	1		0	0	unchanged	0			Screecher Spirits
+3526	47	30	420	2	-201	5		0	0	unchanged	0			Goblin Engineering
+3527	47	40	5250	3	1176	2	81	0	0	unchanged	0			The Prophecy of Mosh'aru
+3528	53	40	7900	3	1477	2	81	0	0	updated	24000	10749,10750,10751		The God Hakkar
+3629	47	30	420	1	-201	5		0	0	unchanged	0			Goblin Engineering
+3633	47	30	420	3	-201	5		0	0	unchanged	0			Goblin Engineering
+3638	47	30	420	3	-201	5		0	0	unchanged	0			The Pledge of Secrecy
+3639	47	30	3150	3	-201	5		0	0	unchanged	0		10791	Show Your Work
+3644	47	30		3	-201	5		0	0	unchanged	0		10791	Membership Card Renewal
+3912	52	47	5100	3	490	1		0	0	unchanged	0			Meet at the Grave
+3913	52	47	2550	3	490	1		0	0	unchanged	0			A Grave Situation
+3914	52	47	5100	3	490	1		0	0	unchanged	7500			Linken's Sword
+4181	47	30	420	1	-201	5		0	0	unchanged	0			Goblin Engineering
+4324	53	48		3	1584	2	81	0	0	unchanged	0			Yuka Screwspigot
+4450	46	43	5050	3	51	0		0	0	unchanged	0	11860,11861		Ledger from Tanaris
+4493	53	50	530	1	1657	1		0	0	unchanged	0			March of the Silithid
+4494	53	50	530	2	1637	1		0	0	unchanged	0			March of the Silithid
+4496	53	50	5250	3	440	1		0	0	unchanged	0			Bungle in the Jungle
+4504	54	48	5450	3	440	1		0	0	unchanged	16500			Super Sticky
+4507	54	50	5450	3	440	1		0	0	unchanged	0			Pawn Captures Queen
+4508	54	50	540	1	440	1		0	0	unchanged	0			Calm Before the Storm
+4509	54	50	540	2	440	1		0	0	unchanged	0			Calm Before the Storm
+4787	50	40	5900	3	47	0	1	0	0	unchanged	0			The Ancient Egg
+4788	58	40	7750	3	1583	2	81	0	0	unchanged	0			The Final Tablets
+5065	58	40	7750	3	139	0	1	0	0	unchanged	0			The Lost Tablets of Mosh'aru
+5514	57	55	600	2	28	0		0	0	unchanged	0			Mold Rhymes With...
+5538	57	55	600	1	28	0		0	0	unchanged	0			Mold Rhymes With...
+5801	57	55	4500	1	440	1		0	0	unchanged	0			Fire Plume Forged
+5802	57	55	4500	2	440	1		0	0	unchanged	0			Fire Plume Forged
+5863	49	44	4550	3	440	1		0	0	unchanged	0	16738,16739		The Dunemaul Compound
+6610	45	35	3900	3	-304	5		0	0	unchanged	0		16971	Clamlette Surprise
+6611	45	35	970	2	-304	5		0	0	unchanged	0			To Gadgetzan You Go!
+6612	45	35	970	1	-304	5		0	0	unchanged	0			I Know A Guy...
+7652	60	50		3	-121	5		0	0	unchanged	0			A Blue Light Bargain
+7653	60	50		3	-121	5		0	0	unchanged	0		12688	Imperial Plate Belt
+7654	60	50		3	-121	5		0	0	unchanged	0		12700	Imperial Plate Boots
+7655	60	50		3	-121	5		0	0	unchanged	0		12690	Imperial Plate Bracer
+7656	60	50		3	-121	5		0	0	unchanged	0		12705	Imperial Plate Chest
+7657	60	50		3	-121	5		0	0	unchanged	0		12701	Imperial Plate Helm
+7658	60	50		3	-121	5		0	0	unchanged	0		12715	Imperial Plate Leggings
+7659	60	50		3	-121	5		0	0	unchanged	0		12687	Imperial Plate Shoulders
+8181	58	40	6200	3	1977	3	62	0	0	unchanged	0	20218,20219		Confront Yeh'kinya
+8182	58	40	9300	3	440	1	62	0	0	unchanged	0			The Hand of Rastakhan
+8303	60	60		2	1377	1		0	0	unchanged	0			Anachronos
+8305	60	60	6600	2	1377	1		0	0	unchanged	0			Long Forgotten Memories
+8365	45	40	3900	3	440	1		0	0	unchanged	6500			Pirate Hats Ahoy!
+8366	45	40	3900	3	440	1		0	0	unchanged	6500	20640,20641		Southsea Shakedown
+8519	60	60	6600	3	1377	1		0	0	unchanged	0			A Pawn on the Eternal Board
+8555	60	60	660	3	440	1		0	0	unchanged	0			The Charge of the Dragonflights
+8575	60	60	6600	3	16	1		0	0	unchanged	0			Azuregos's Magical Ledger
+8576	60	60	660	3	440	1		0	0	unchanged	0			Translating the Ledger
+8577	60	60	6600	3	440	1		0	0	unchanged	0			Stewvul, Ex-B.F.F.
+8578	60	60	8300	3	2717	3	62	0	0	unchanged	0		18253	Scrying Goggles? No Problem!
+8584	60	60	660	3	440	1		0	0	unchanged	0			Never Ask Me About My Business
+8585	60	60	6600	3	440	1	62	0	0	unchanged	0			The Isle of Dread!
+8586	60	60	6600	3	440	1		0	0	unchanged	27000		21025,21023	Dirge's Kickin' Chimaerok Chops
+8587	60	60	6600	3	440	1		0	0	unchanged	0			Return to Narain
+8597	60	60	6600	3	440	1		0	0	unchanged	0			Draconic for Dummies
+8598	60	60	3300	3	440	1		0	0	unchanged	0			rAnS0m
+8599	60	60	3300	3	440	1		0	0	unchanged	0			Love Song for Narain
+8606	60	60	6600	3	440	1	1	0	0	unchanged	0			Decoy!
+8620	60	60	6600	3	440	1	62	0	0	unchanged	0		21517	The Only Prescription
+8671	60	1		3	-366	9		0	0	unchanged	0		21100	Ragetotem the Elder
+8684	60	1		3	-366	9		0	0	unchanged	0		21100	Dreamseer the Elder
+8728	60	60	6600	3	440	1		0	0	unchanged	0			The Good News and The Bad News
+8729	60	60	9950	3	16	1	62	0	0	unchanged	0	21526,21527		The Wrath of Neptulon
+8730	60	60	9950	3	2677	3	62	0	0	unchanged	0	21530,21529		Nefarius's Corruption
+8741	60	60	6600	3	493	1		0	0	unchanged	0			The Champion Returns
+8742	60	60	9950	3	440	1		0	0	unchanged	0			The Might of Kalimdor
+8747	60	60	6600	3	440	1		0	0	unchanged	0		21196	The Path of the Protector
+8748	60	60	6600	3	440	1		0	0	unchanged	0		21197	The Path of the Protector
+8749	60	60	6600	3	440	1		0	0	unchanged	0		21198	The Path of the Protector
+8750	60	60	6600	3	440	1		0	0	unchanged	0		21199	The Path of the Protector
+8751	60	60	9950	2	440	1		0	0	unchanged	0		21200	The Protector of Kalimdor
+8752	60	60	6600	3	440	1		0	0	unchanged	0		21201	The Path of the Conqueror
+8753	60	60	6600	3	440	1		0	0	unchanged	0		21202	The Path of the Conqueror
+8754	60	60	6600	3	440	1		0	0	unchanged	0		21203	The Path of the Conqueror
+8755	60	60	6600	3	440	1		0	0	unchanged	0		21204	The Path of the Conqueror
+8756	60	60	9950	2	440	1		0	0	unchanged	0		21205	The Qiraji Conqueror
+8757	60	60	6600	3	440	1		0	0	unchanged	0		21206	The Path of the Invoker
+8758	60	60	6600	3	440	1		0	0	unchanged	0		21207	The Path of the Invoker
+8759	60	60	6600	3	440	1		0	0	unchanged	0		21208	The Path of the Invoker
+8760	60	60	6600	3	440	1		0	0	unchanged	0		21209	The Path of the Invoker
+8761	60	60	9950	3	440	1		0	0	unchanged	0		21210	The Grand Invoker
+8764	60	60		3	440	1		0	0	unchanged	0	21210,21205		The Changing of Paths - Protector No More
+8765	60	60		3	440	1		0	0	unchanged	0	21200,21205		The Changing of Paths - Invoker No More
+8766	60	60		3	440	1		0	0	unchanged	0	21200,21210		The Changing of Paths - Conqueror No More
+8802	60	60	9950	3	3428	3		0	0	updated	0	21712,21710,21709		The Savior of Kalimdor
+8827	1	1	10	1	-1001	9		0	0	unchanged	0			Winter's Presents
+8828	1	1	10	2	-1001	9		0	0	unchanged	0			Winter's Presents
+8860	60	1		1	-1006	9		0	0	unchanged	900			New Year Celebrations!
+8861	60	1		2	-1006	9		0	0	unchanged	900			New Year Celebrations!
+8893	47	42		3	440	1		0	0	unchanged	0		8647	The Super Egg-O-Matic
+8921	60	58	6600	3	440	1		0	0	unchanged	0		22320	The Ectoplasmic Distiller
+8922	60	58	6600	1	440	1		0	0	unchanged	0			A Supernatural Device
+8923	60	58	6600	2	440	1		0	0	unchanged	0			A Supernatural Device
+8924	60	58	6600	3	440	1		0	0	unchanged	9000			Hunting for Ectoplasm
+8925	60	58	6600	3	440	1		0	0	unchanged	9000			A Portable Power Source
+8928	60	58	3300	3	440	1	1	0	0	unchanged	0			A Shifty Merchant
+8977	60	58	6600	1	1537	0		0	0	unchanged	0			Return to Deliana
+8978	60	58	6600	2	1637	1		0	0	unchanged	0			Return to Mokvar
+9250	60	60	6600	2	-344	7	62	0	0	unchanged	0			Frame of Atiesh
+9251	60	60	6600	2	-344	7	62	0	0	unchanged	0			Atiesh, the Befouled Greatstaff
+9268	60	40		2	440	1		0	0	updated	0			War at Sea
+95144	38	36	285		440	1		0	0	new	0			Overseas Delivery
+97530	47	40	4200		440	1		0	0	new	3500		281282	Dunemaul Dues
+97534	45	40	2900	2	440	1		0	0	new	0			Gritty Business
+97536	45	40	2900	1	440	1		0	0	new	0			Gnomish Garbage
+97540	50	40	3550		440	1		0	0		0			Oasis

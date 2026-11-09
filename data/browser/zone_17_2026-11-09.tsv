@@ -1,0 +1,295 @@
+ZONE	/forever/zone=17/the-barrens
+63	23	20	1400	2	-82	4		64	162	unchanged	0			Call of Water
+96	23	20	2750	2	-82	4		64	162	unchanged	0		5177	Call of Water
+220	23	20	460	2	-82	4		64	162	unchanged	0		6637	Call of Water
+809	13	4	455	2	14	1		0	0	unchanged	0			Ak'Zeloth
+819	15	11	1050	2	17	1		0	0	unchanged	0			Chen's Empty Keg
+821	15	11	1350	2	17	1		0	0	unchanged	0		4952	Chen's Empty Keg
+822	24	11	970	2	17	1		0	0	unchanged	0		4953	Chen's Empty Keg
+840	12	10	455	2	14	1		0	0	unchanged	0			Conscript of the Horde
+842	12	10	910	2	14	1		0	0	unchanged	0			Crossroads Conscription
+843	23	17	1850	2	17	1		0	0	unchanged	1500			Gann's Reclamation
+844	12	10	910	2	17	1		0	0	unchanged	500			Plainstrider Menace
+845	13	10	910	2	17	1		0	0	unchanged	600			The Zhevra
+846	26	17	2100	2	17	1		0	0	unchanged	2000			Revenge of Gann
+848	15	10	1050	2	17	1		0	0	unchanged	700			Fungal Spores
+849	26	17	2100	2	17	1		0	0	unchanged	2000		5313	Revenge of Gann
+850	16	11	880	2	17	1		0	0	unchanged	800			Kolkar Leaders
+851	18	11	1000	2	17	1		0	0	unchanged	1000			Verog the Dervish
+852	19	11	1100	2	17	1		0	0	unchanged	800		5351	Hezrul Bloodmark
+853	15	10	800	2	17	1		0	0	unchanged	0	2458,2457,2456,2459	5340	Apothecary Zamah
+854	12	9	225	2	215	1		0	32	unchanged	0			Journey to the Crossroads
+855	14	9	1250	2	17	1		0	0	unchanged	0	5346,5344,5345		Centaur Bracers
+857	30	22	2450	2	17	1		0	0	unchanged	2500			The Tear of the Moons
+858	18	13	1350	3	17	1		0	0	unchanged	0			Ignition
+859	18	13			17	1		0	0	unchanged	0			<UNUSED>
+860	10	10	85	2	17	1		0	0	unchanged	0			Sergra Darkthorn
+862	23	15	1850	2	-304	5		0	0	unchanged	0		5487,5478,10919	Dig Rat Stew
+863	18	13	1700	3	17	1		0	0	unchanged	2000	5326,5327		The Escape
+865	18	13	1350	3	17	1		0	0	unchanged	0		5342,5343	Raptor Horns
+866	16	9	1150	3	-24	5		0	0	unchanged	800		5341	Root Samples
+867	15	12	1050	2	17	1		0	0	unchanged	700			Harpy Raiders
+868	22	17	1750	2	17	1		0	0	updated	0	6503,6502		Egg Hunt
+869	13	9	910	2	17	1		0	0	unchanged	600			Raptor Thieves
+870	13	10	680	2	17	1		0	0	unchanged	0			The Forgotten Pools
+871	12	9	910	2	17	1		0	0	unchanged	0			Disrupt the Attacks
+872	15	9	1050	2	17	1		0	0	unchanged	0	5275,5328		The Disruption Ends
+873	27	10	2750	2	17	1		0	0	unchanged	0	5356,5357	5355	Isha Awak
+874	27	9	550	2	17	1		0	0	unchanged	0			Mahren Skyseer
+875	16	12	1150	2	17	1		0	0	unchanged	800			Harpy Lieutenants
+876	20	12	1950	2	17	1		0	0	unchanged	0	5321,5279,5318		Serena Bloodfeather
+877	16	10	1150	2	17	1		0	0	unchanged	0			The Stagnant Oasis
+878	21	14	1650	2	17	1		0	0	unchanged	0			Tribes at War
+879	25	17	1500	2	17	1		0	0	unchanged	0			Betrayal from Within
+880	16	10	1150	2	17	1		0	0	unchanged	800			Altered Beings
+881	16	10	1450	2	17	1		0	0	unchanged	0			Echeyakee
+882	19	10	1800	2	17	1		0	0	unchanged	0			Ishamuhale
+883	22	10	1300	2	17	1		0	0	unchanged	0			Lakota'mani
+884	24	10	1450	2	17	1		0	0	unchanged	0			Owatanka
+885	25	10	1500	2	17	1		0	0	unchanged	0			Washte Pawne
+886	10	10	85	2	17	1		0	0	unchanged	0			The Barrens Oases
+887	14	9	740	3	17	1		0	0	updated	500			Southsea Freebooters
+888	16	9	1150	3	17	1		0	0	updated	800	5337,5320		Stolen Booty
+889	20	14		2	17	1		0	0	unchanged	0			Spirit of the Wind
+890	14	9	100	3	17	1		0	0	updated	0			The Missing Shipment
+891	20	13	1550	2	17	1		0	0	unchanged	0	5309,5310		The Guns of Northwatch
+892	14	9	100	3	17	1		0	0	updated	0			The Missing Shipment
+893	24	17	1950	2	17	1		0	0	unchanged	0	5322,5323		Weapons of Choice
+894	14	10	740	3	17	1		0	0	updated	0			Samophlange
+895	16	11	1150	3	17	1		0	0	updated	800			WANTED: Baron Longshore
+896	18	13	1700	3	17	1		0	0	unchanged	0		5335	Miner's Fortune
+897	24	10	2400	2	17	1		0	0	unchanged	0			The Harvester
+898	20	13	1950	2	17	1		0	0	updated	2500	5311,5312,270011		Free From the Hold
+899	20	14	1950	2	17	1		0	0	unchanged	0	5314,6477		Consumed by Hatred
+900	14	10	490	3	17	1		0	0	unchanged	0			Samophlange
+901	14	10	740	3	17	1		0	0	updated	0			Samophlange
+902	16	10	1150	3	17	1		0	0	updated	0	5324,5325		Samophlange
+903	15	10	1050	2	17	1		0	0	unchanged	700			Prowlers of the Barrens
+905	17	10	1250	2	17	1		0	0	updated	900			The Angry Scytheclaws
+906	25	17	3050	2	17	1		0	0	unchanged	0	5316,5317		Betrayal from Within
+907	18	10	1700	2	17	1		0	0	unchanged	0			Enraged Thunder Lizards
+913	20	10	1950	2	17	1		0	0	unchanged	0	5302,5306	5299	Cry of the Thunderhawk
+924	14	9	1250	2	14	1		0	0	unchanged	0		5420	The Demon Seed
+926	14	1		2	14	1		0	0	unchanged	0		4986	Flawed Power Stone
+959	18	14	1350	3	718	2	81	0	0	unchanged	1000			Trouble at the Docks
+972	20	20		2	-82	4		64	0	unchanged	0		6637	Water Sapta
+1039	30	25	1200	1	331	1		0	0	unchanged	0			The Barrens Port
+1040	30	25	610	1	331	1		0	0	unchanged	0			Passage to Booty Bay
+1060	20	15	1550	2	17	1		0	0	unchanged	0			Letter to Jin'Zil
+1061	17	13	315	2	406	1		0	0	unchanged	0			The Spirits of Stonetalon
+1062	19	13	1450	2	406	1		0	0	unchanged	1100			Goblin Invaders
+1063	18	13	680	2	406	1		0	0	unchanged	0			The Elder Crone
+1068	23	13	1850	2	406	1		0	0	unchanged	1500			Shredding Machines
+1069	20	15	1950	3	17	1		0	0	unchanged	2500			Deepmoss Spider Eggs
+1094	21	16	830	3	406	1		0	0	unchanged	0			Further Instructions
+1095	27	16	1100	3	406	1		0	0	unchanged	0			Further Instructions
+1111	36	30	1400	3	400	1		0	0	unchanged	0			Wharfmaster Dizzywig
+1112	36	30	1400	3	400	1		0	0	unchanged	2000			Parts for Kravel
+1130	30	20		2	1638	1		0	0	unchanged	0			Melor Sends Word
+1145	33	29	1300	2	17	1		0	0	unchanged	0			The Swarm Grows
+1148	35	28	2750	2	400	1		0	0	unchanged	0			Parts of the Swarm
+1153	29	25	2350	2	17	1		0	0	unchanged	2500		6741	A New Ore Sample
+1178	37	29	710	3	400	1		0	0	unchanged	0			Goblin Sponsorship
+1180	37	29	710	3	400	1		0	0	unchanged	0			Goblin Sponsorship
+1184	35	28	1350	2	400	1		0	0	unchanged	1800	6737,6738		Parts of the Swarm
+1221	26	20	2100	3	491	2	81	0	0	updated	0		6755	Blueleaf Tubers
+1270	37	30	2850	2	15	1		0	0	updated	4000		3825	Stinky's Escape
+1358	15	10	1050	2	1497	0		0	0	unchanged	0	10637,10638		Sample for Helbrim
+1361	32	30	640	2	405	1		0	0	unchanged	0			Regthar Deathgate
+1362	32	30	640	2	405	1		0	0	unchanged	0			The Kolkar of Desolace
+1483	21	16	415	3	17	1		0	0	unchanged	0			Ziz Fizziks
+1489	16	10	290	2	718	2	81	0	0	unchanged	0			Hamuul Runetotem
+1491	18	13	1350	3	718	2	81	0	0	unchanged	1000			Smart Drinks
+1492	11	9	440	2	17	1		0	0	unchanged	0			Wharfmaster Dizzywig
+1498	10	10	630	2	-81	4		1	0	updated	0			Path of Defense
+1502	10	10	210	2	-81	4		1	0	unchanged	0			Thun'grim Firegaze
+1503	10	10	840	2	-81	4		1	0	unchanged	0	7326,7328,7327,7329		Forged Steel
+1505	10	10	85	2	-81	4		1	0	updated	0			Veteran Uzzek
+1509	20	20	390	2	-61	4		256	146	unchanged	0			News of Dogran
+1510	20	20	780	2	-61	4		256	146	unchanged	0			News of Dogran
+1511	20	20	1550	2	-61	4		256	146	unchanged	0			Ken'zigla's Draught
+1512	20	20	390	2	-61	4		256	146	unchanged	0			Love's Gift
+1515	20	20	1150	2	-61	4		256	18	unchanged	0			Dogran's Captivity
+1522	10	10	420	2	-82	4		64	162	unchanged	0			Call of Fire
+1523	10	10	420	2	-82	4		64	162	unchanged	0			Call of Fire
+1524	11	10	660	2	-82	4		64	162	unchanged	0			Call of Fire
+1527	13	10	1150	2	-82	4		64	162	updated	0		5176,263412	Call of Fire
+1528	20	20	780	2	-82	4		64	162	unchanged	0			Call of Water
+1529	20	20	780	2	-82	4		64	162	unchanged	0			Call of Water
+1530	22	20	435	2	-82	4		64	162	unchanged	0			Call of Water
+1534	23	20	1400	2	-82	4		64	162	unchanged	0			Call of Water
+1535	22	20	870	2	-82	4		64	162	unchanged	0			Call of Water
+1536	22	20	1300	2	-82	4		64	162	unchanged	0			Call of Water
+1716	20	20	780	1	-61	4		256	65	updated	0			Devourer of Souls
+1718	30	30	610	3	-81	4		1	0	unchanged	0			The Islander
+1719	30	30	2450	3	-81	4		1	0	updated	0			The Affray
+1738	20	20	1550	1	-61	4		256	65	unchanged	0			Heartswood
+1740	25	20	2550	3	-61	4	81	256	0	unchanged	0	6898,15109		The Orb of Soran'ruk
+1758	30	30	610	1	-61	4		256	65	unchanged	0			Tome of the Cabal
+1791	30	30	245	3	-81	4		1	0	unchanged	0			The Windwatcher
+1795	30	30	2450	3	-61	4		256	0	unchanged	0		22244	The Binding
+1796	31	31	2500	3	-61	4		256	0	unchanged	0			Components for the Enchanted Gold Bloodrobe
+1798	30	30	610	1	-61	4		256	65	unchanged	0			Seeking Strahad
+1799	40	35	3150	3	-61	4		256	0	unchanged	0			Fragments of the Orb of Orahil
+1801	30	30	610	2	-61	4		256	18	unchanged	0			Tome of the Cabal
+1804	30	30	2450	1	-61	4		256	65	unchanged	0			Tome of the Cabal
+1805	30	30	2450	2	-61	4		256	18	unchanged	0			Tome of the Cabal
+1823	20	20	155	2	-81	4		1	0	unchanged	0			Speak with Ruga
+1824	20	20	1550	2	-81	4		1	0	unchanged	0		7120	Trial at the Field of Giants
+1825	20	20	780	2	-81	4		1	0	unchanged	0			Speak with Thun'grim
+1838	30	20	3650	2	-81	4		1	0	unchanged	0			Brutal Armor
+1839	30	20	1200	2	-81	4		1	0	unchanged	0			Ula'elek and the Brutal Gauntlets
+1840	30	20	1200	2	-81	4		1	0	unchanged	0			Orm Stonehoof and the Brutal Helm
+1841	30	20	1200	2	-81	4		1	0	unchanged	0			Velora Nitely and the Brutal Legguards
+1848	30	20	3050	2	-81	4		1	0	unchanged	0		7133	Brutal Hauberk
+1858	13	10	455	2	-162	4		8	130	unchanged	0		7298	The Shattered Hand
+1945	26	26	1600	2	-161	4		128	144	unchanged	0			Laughing Sisters
+1946	26	26	2100	2	-161	4		128	0	unchanged	0	7512,9515		Nether-lace Garment
+2381	18	16	1350	2	-162	4		8	146	unchanged	0		7676	Plundering the Plunderers
+2382	16	16	115	2	-162	4		8	146	unchanged	0			Wrenix of Ratchet
+2458	20	20	1150	2	-162	4		8	146	unchanged	0		8066	Deep Cover
+2478	24	20	1950	2	-162	4	1	8	146	unchanged	0		18160	Mission: Possible But Not Probable
+2983	10	10	420	2	-82	4		64	162	unchanged	0			Call of Fire
+2984	10	10	420	2	-82	4		64	34	unchanged	0			Call of Fire
+2985	20	20	780	2	-82	4		64	0	unchanged	0			Call of Water
+2986	20	20	780	2	-82	4		64	0	unchanged	0			Call of Water
+2996	30	30	610	2	-61	4		256	18	unchanged	0			Seeking Strahad
+3001	30	30	610	2	-61	4		256	18	unchanged	0			Seeking Strahad
+3261	18	10	135	2	17	1		0	0	unchanged	0			Jorn Skyseer
+3281	18	9	1350	2	17	1		0	0	unchanged	1000	11853,2694		Stolen Silver
+3301	15	10	1050	2	17	1		0	0	unchanged	0	10820,10821		Mura Runetotem
+3369	25	10	2000	2	17	1		0	0	unchanged	0	10657,10658		In Nightmares
+3370	25	10	2000	1	17	1		0	0	unchanged	0	10657,10658		In Nightmares
+3513	25	15	2550	2	17	1		0	0	unchanged	0			The Runed Scroll
+3514	29	15	2950	2	17	1	1	0	0	updated	0	10653,10654,270038		Horde Presence
+3631	40	40	315	2	-61	4		256	18	unchanged	0			Summon Felsteed
+3633	47	30	420	3	-201	5		0	0	unchanged	0			Goblin Engineering
+3634	47	30	420	1	-201	5		0	0	unchanged	0			Gnome Engineering
+3637	47	30	420	2	-201	5		0	0	unchanged	0			Gnome Engineering
+3646	47	30		3	-201	5		0	0	unchanged	0		10791	Membership Card Renewal
+3861	1	1	10	1	-284	-2		0	0	unchanged	0			CLUCK!
+3921	14	10	490	2	17	1		0	0	unchanged	0			Wenikee Boltbucket
+3922	15	10	1050	2	17	1		0	0	unchanged	0			Nugget Slugs
+3923	18	10	340	2	17	1		0	0	unchanged	0			Rilli Greasygob
+3924	19	10	1800	2	17	1		0	0	unchanged	0	11855,11854		Samophlange Manual
+4021	20	11	1950	2	17	1		0	0	unchanged	2500			Counterattack!
+4146	52	47	5100	2	490	1	1	0	0	unchanged	0			Zapper Fuel
+4147	52	47	2550	2	490	1		0	0	unchanged	0			Marvon's Workshop
+4487	40	40	315	1	-61	4		256	65	unchanged	0			Summon Felsteed
+4488	40	40	315	1	-61	4		256	65	unchanged	0			Summon Felsteed
+4489	40	40	315	2	-61	4		256	18	unchanged	0			Summon Felsteed
+4490	40	40	315	3	-61	4		256	0	unchanged	0			Summon Felsteed
+4502	55	49	5650	3	490	1		0	0	unchanged	8500			Volcanic Activity
+4736	31	31	630	1	-61	4		256	65	unchanged	0			In Search of Menara Voidrender
+4737	31	31	630	2	-61	4		256	18	unchanged	0			In Search of Menara Voidrender
+4738	31	31	630	1	-61	4		256	65	unchanged	0			In Search of Menara Voidrender
+4739	31	31	630	2	-61	4		256	18	unchanged	0			In Search of Menara Voidrender
+4781	34	31	2000	3	-61	4		256	0	unchanged	0			Components for the Enchanted Gold Bloodrobe
+4782	34	31	1350	3	-61	4		256	0	unchanged	0			Components for the Enchanted Gold Bloodrobe
+4783	37	31	2850	3	-61	4		256	0	unchanged	0			Components for the Enchanted Gold Bloodrobe
+4784	37	31	2100	3	-61	4		256	0	unchanged	0			Components for the Enchanted Gold Bloodrobe
+4786	38	31	3550	3	-61	4		256	0	unchanged	0		6900	The Completed Robe
+4921	20	14	1150	2	17	1		0	0	unchanged	900			Lost in Battle
+4962	40	35	2350	3	-61	4		256	0	unchanged	0			Shard of a Felhound
+4963	40	35	2350	3	-61	4		256	0	unchanged	0			Shard of an Infernal
+4964	40	35	3900	3	-61	4		256	0	unchanged	0	15108,15106		The Completed Orb of Dar'Orahil
+4965	35	35	1350	1	-61	4		256	65	unchanged	0			Knowledge of the Orb of Orahil
+4967	35	35	1350	2	-61	4		256	18	unchanged	0			Knowledge of the Orb of Orahil
+4968	35	35	1350	1	-61	4		256	65	unchanged	0			Knowledge of the Orb of Orahil
+4969	35	35	1350	2	-61	4		256	18	unchanged	0			Knowledge of the Orb of Orahil
+4975	40	35	3900	3	-61	4		256	0	unchanged	0	15107,15105		The Completed Orb of Noh'Orahil
+4976	40	35	1550	3	-61	4		256	0	unchanged	0			Returning the Cleansed Orb
+5041	14	9	980	2	17	1		0	0	unchanged	600			Supplies for the Crossroads
+5042	20	14		2	17	1		0	0	unchanged	0			Agamaggan's Strength
+5043	20	14		2	17	1		0	0	unchanged	0			Agamaggan's Agility
+5044	20	14		2	17	1		0	0	unchanged	0			Wisdom of Agamaggan
+5045	20	14		2	17	1		0	0	unchanged	0			Rising Spirit
+5046	20	14		2	17	1		0	0	unchanged	0			Razorhide
+5052	21	14	1250	2	17	1		0	0	unchanged	0			Blood Shards of Agamaggan
+5158	52	48	2550	3	361	1		0	0	unchanged	0			Seeking Spiritual Aid
+5159	54	48	2700	3	361	1		0	0	unchanged	0			Cleansed Water Returns to Felwood
+6127	14	14	740	2	-263	4		1024	32	unchanged	0			The Principal Source
+6128	14	14	740	2	-263	4		1024	32	unchanged	0			Gathering the Cure
+6129	14	14	740	2	-263	4		1024	32	unchanged	0		15866	Curing the Sick
+6361	10	10	210	2	17	1		0	32	unchanged	0			A Bundle of Hides
+6362	10	10	420	2	17	1		0	32	unchanged	175			Ride to Thunder Bluff
+6363	10	10	210	2	17	1		0	32	unchanged	0			Tal the Wind Rider Master
+6364	10	10	1050	2	17	1		0	32	unchanged	350			Return to Jahan
+6365	10	10	210	2	17	1		0	130	unchanged	0			Meats to Orgrimmar
+6382	20	20	390	2	17	1		0	0	unchanged	0			The Ashenvale Hunt
+6384	10	10	420	2	17	1		0	130	unchanged	175			Ride to Orgrimmar
+6385	10	10	210	2	17	1		0	130	unchanged	0			Doras the Wind Rider Master
+6386	10	10	1050	2	17	1		0	130	updated	350			Return to the Crossroads
+6401	18	12	1000	2	406	1		0	0	unchanged	700			Kaya's Alive
+6523	18	12	1350	2	406	1		0	0	unchanged	1000			Protect Kaya
+6541	19	17	145	2	17	1		0	0	unchanged	0			Report to Kadrak
+6542	19	17	145	2	406	1		0	0	unchanged	0			Report to Kadrak
+6543	19	17	1800	2	17	1		0	0	unchanged	2000			The Warsong Reports
+6548	18	12	1350	2	406	1		0	0	unchanged	1000			Avenge My Village
+6626	35	28	3450	3	722	2	81	0	0	unchanged	7500			A Host of Evil
+6629	18	12	1350	2	406	1		0	0	unchanged	1000			Kill Grundig Darkcloud
+6981	26	15	2650	3	718	2	81	0	0	unchanged	0			The Glowing Shard
+7866	34	25	270	2	331	1		0	0	unchanged	0		19154	Outrider Basic Care Package
+7867	44	35	375	2	331	1		0	0	unchanged	0		19155	Outrider Standard Care Package
+7868	60	45	660	2	331	1		0	0	unchanged	0		19153	Outrider Advanced Care Package
+8367	60	51	8300	2	1637	1	41	0	0	unchanged	27000			For Great Honor
+8368	19	10	730	2	3277	6	41	0	0	updated	1100			Battle of Warsong Gulch
+8369	60	51	8300	2	2597	6	41	0	0	unchanged	18000			Invaders of Alterac Valley
+8370	29	20	2350	2	3358	6	41	0	0	updated	2500			Conquering Arathi Basin
+8387	60	51	3300	2	2839	0	41	0	0	unchanged	0			Invaders of Alterac Valley
+8388	60	51	6600	2	1637	1	41	0	0	unchanged	9000			For Great Honor
+8389	19	10	730	2	3277	6	41	0	0	updated	0			Battle of Warsong Gulch
+8390	29	20	1200	2	3358	6	41	0	0	updated	0			Conquering Arathi Basin
+8426	29	20	1200	2	3277	6	41	0	0	updated	2500			Battle of Warsong Gulch
+8427	39	30	1500	2	3277	6	41	0	0	updated	4500			Battle of Warsong Gulch
+8428	49	40		2	3277	6	41	0	0	updated	7000			Battle of Warsong Gulch
+8429	59	50	6400	2	3277	6	41	0	0	updated	9000			Battle of Warsong Gulch
+8430	60	60	6600	2	3277	6	41	0	0	updated	9000			Battle of Warsong Gulch
+8431	29	20	1200	2	3277	6	41	0	0	updated	0			Battle of Warsong Gulch
+8432	39	30	1500	2	3277	6	41	0	0	updated	0			Battle of Warsong Gulch
+8433	49	40	2250	2	3277	6	41	0	0	updated	0			Battle of Warsong Gulch
+8434	59	50	3200	2	3277	6	41	0	0	updated	0			Battle of Warsong Gulch
+8435	60	60	3300	2	3277	6	41	0	0	updated	0			Battle of Warsong Gulch
+8436	39	30	3000	2	3358	6	41	0	0	updated	4500			Conquering Arathi Basin
+8437	49	40		2	3358	6	41	0	0	updated	7000			Conquering Arathi Basin
+8438	59	50	6400	2	45	0	41	0	0	updated	9000			Conquering Arathi Basin
+8439	60	60	6600	2	3358	6	41	0	0	updated	9000			Conquering Arathi Basin
+8440	39	30	1500	2	3358	6	41	0	0	updated	0			Conquering Arathi Basin
+8441	49	40	2250	2	3358	6	41	0	0	updated	0			Conquering Arathi Basin
+8442	59	50	3200	2	3358	6	41	0	0	updated	0			Conquering Arathi Basin
+8443	60	60	3300	2	3358	6	41	0	0	updated	0			Conquering Arathi Basin
+8680	60	1		3	-366	9		0	0	unchanged	0		21100	Windtotem the Elder
+8686	60	1		3	-366	9		0	0	unchanged	0		21100	High Mountain the Elder
+8717	60	1		3	-366	9		0	0	unchanged	0		21100	Moonwarden the Elder
+9267	60	15		2	17	1		0	0	updated	0			Mending Old Wounds
+65602	20	20	1550	1	-61	4		256	65	updated	0			What Is Love?
+79007	22	14	1750	2	17	1		0	0	updated	0		2459,3388	... and that note you found
+79008	22	14	1750	1	40	0		0	0	updated	0		2459,3388	... and that note you found
+79192	24	14	1950	3	17	1		0	0	updated	0	2901,3334	1652,4470,4471,221498	Stepping Stones
+91899	60	1		3	0	-2		0	0	new	0			A Sealed Crate
+91900	60	1		3	0	-2		0	0	new	0			A Sealed Crate
+91901	60	1		3	0	-2		0	0	new	0			A Sealed Crate
+91904	60			3	0	-2		0	0	new	0			A Sealed Crate
+91905	60			3	0	-2		0	0	new	0			A Sealed Crate
+91906	60			3	0	-2		0	0	new	0			A Sealed Crate
+92706	20	15	1950	3	17	1	1	0	0	new	2500			WANTED: Bruuz
+95494	18	14	1350	2	17	1		0	0	new	0			Bruised Pride and Lion Hides
+95495	18	14	135	2	17	1		0	0	new	0			The Hermit Tanner
+95507	18	14	1000	2	17	1		0	0	new	0			Vrang's Game
+95508	18	14	1350	2	17	1		0	0	new	0	269716,269717,269742		Unwelcome Guests
+95621	18	14	1000	2	17	1		0	0	new	1000			Trouble in the Valley
+95774	20	14	1550	2	17	1		0	0	new	900			Her Name Is Olgra
+95819	60	1	660		17	1		0	0	new	900			Sign Me Up!
+96339	60			3	17	1		0	0	new	0		276236	Legacy Reward: Replica Ironforge Air Rifle
+96383	60			3	17	1		0	0	new	0		277714	Legacy Reward: Spectral Bear Cub
+97003	21	15	2050	2	17	1	1	0	0	new	5000	276886,276887,276888,276889		Chol'aruk the Ravener
+97005	21	15	2050	1	17	1	1	0	0	new	5000	276886,276887,276888,276889		Chol'aruk the Ravener
+97250	23	18	2300	2	17	1	1	0	0	new	0	277286,277288,277289		Wrongly Blamed, Justly Corrected
+97253	15	9	1050	3	17	1		0	0	new	700		277332	Parts and Pieces
+98024	13	7	455	2	17	1		0	0	new	300			Journey to the Crossroads
+98093	23	18	1850	2	17	1		0	0	new	0	279391,287064	279391	Field to Clear
+98248	60	10	660	2	17	1		0	0	new	0			Shipping Label
+98887	39	30	1500	2	16606	6	41	0	0	new	4500			Conflict at Darkspear Islands
+98888	39	30		2	16606	6	41	0	0	new	0			Conflict at Darkspear Islands
+98903	39	30	3000	1	16606	6	41	0	0	new	9000			The Battle for Darkspear Islands!
+98906	39	30	3000	2	16606	6	41	0	0	new	9000			The Battle for Darkspear Islands!

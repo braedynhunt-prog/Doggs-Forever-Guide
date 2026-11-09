@@ -1,0 +1,117 @@
+ZONE	/forever/zone=405/desolace
+261	39	34	3000	1	405	1		0	0	unchanged	4500			Down the Scarlet Path
+1052	40	34	1550	1	405	1		0	0	unchanged	0			Down the Scarlet Path
+1277	40	30			405	1		0	0	unchanged	0			<nyi> <TXT> The Centaur Hoofprints
+1361	32	30	640	2	405	1		0	0	unchanged	0			Regthar Deathgate
+1362	32	30	640	2	405	1		0	0	unchanged	0			The Kolkar of Desolace
+1365	35	30	3450	2	405	1		0	0	unchanged	0			Khan Dez'hepah
+1366	31	30	3750	2	405	1		0	0	unchanged	0	6780,6784		Centaur Bounty
+1367	33	30	660	2	405	1		0	0	updated	0			Magram Alliance
+1368	33	30	660	2	405	1		0	0	updated	0			Gelkis Alliance
+1369	33	30	2650	3	405	1		0	0	updated	0			Broken Tears
+1370	35	30	1350	3	405	1		0	0	updated	0	3463,3464,3465		Stealing Supplies
+1371	35	30	2050	3	405	1		0	0	updated	0	269903,269901		Gizmo for Warug
+1373	37	30	2850	3	405	1		0	0	updated	0			Ongeku
+1374	37	30	2850	3	405	1		0	0	unchanged	0			Khan Jehn
+1375	37	30	2850	3	405	1		0	0	unchanged	0			Khan Shaka
+1380	42	30	4300	3	405	1	1	0	0	updated	0	6773,6774		Khan Hratha
+1381	42	30	4300	3	405	1	1	0	0	updated	0	6788,6789		Khan Hratha
+1382	35	30	2050	1	405	1		0	0	updated	0			Strange Alliance
+1384	32	30	2550	1	405	1		0	0	updated	0			Raid on the Kolkar
+1385	35	30	2050	1	405	1		0	0	updated	0			Brutal Politics
+1386	32	30	2550	1	405	1		0	0	updated	0			Assault on the Kolkar
+1387	31	30	3750	1	405	1		0	0	unchanged	0		6790	Centaur Bounty
+1432	30	30	1200	2	1637	1		0	0	unchanged	0			Alliance Relations
+1433	33	30	265	2	405	1		0	0	unchanged	0			Alliance Relations
+1434	33	25	2650	2	405	1		0	0	unchanged	0			Befouled by Satyr
+1435	33	25	2650	2	405	1		0	0	unchanged	0			The Burning of Spirits
+1436	33	30	2650	2	1637	1		0	0	unchanged	0	6744,6745		Alliance Relations
+1437	33	30	1950	1	405	1		0	0	unchanged	0			Vahlarriel's Search
+1438	33	30	2650	1	405	1		0	0	unchanged	0			Vahlarriel's Search
+1439	33	30	2650	1	405	1		0	0	unchanged	0			Search for Tyranis
+1440	33	30	3300	1	405	1		0	0	unchanged	0	9687,9698,9699,11884		Return to Vahlarriel
+1441	33	30	3300	3	405	1		0	0	unchanged	0			<UNUSED>
+1453	33	30	1300	1	1537	0		0	0	unchanged	0			Reclaimers' Business in Desolace
+1454	39	30	3000	1	405	1		0	0	unchanged	0			The Karnitol Shipwreck
+1455	39	30	1500	1	405	1		0	0	unchanged	0			The Karnitol Shipwreck
+1456	39	30	3000	1	405	1		0	0	unchanged	0			The Karnitol Shipwreck
+1457	39	30	2250	1	405	1		0	0	unchanged	0	6791,6792		The Karnitol Shipwreck
+1458	33	30	2650	1	405	1		0	0	unchanged	3500			Reagents for Reclaimers Inc.
+1459	35	30	2750	1	405	1		0	0	unchanged	2500			Reagents for Reclaimers Inc.
+1460	37	30			405	1		0	0	unchanged	0			<UNUSED>
+1461	37	30			405	1		0	0	unchanged	0			<UNUSED>
+1465	33	30	1950	1	405	1		0	0	unchanged	0			Vahlarriel's Search
+1466	40	30	3150	1	405	1		0	0	unchanged	3500			Reagents for Reclaimers Inc.
+1467	40	30	3150	1	405	1		0	0	unchanged	3500	6793,6794		Reagents for Reclaimers Inc.
+1480	33	25	1300	2	405	1		0	0	unchanged	0			The Corrupter
+1481	33	25	2650	2	405	1		0	0	unchanged	0			The Corrupter
+1482	35	25	2750	2	405	1		0	0	unchanged	0			The Corrupter
+1484	33	25	265	2	405	1		0	0	unchanged	0			The Corrupter
+1488	40	26	3900	2	405	1	1	0	0	unchanged	0	6746,6747		The Corrupter
+5361	35	32	2050	2	400	1		0	0	unchanged	2500			Family Tree
+5381	38	32	2850	2	405	1		0	0	unchanged	4500			Hand of Iruxos
+5386	37	32	2100	2	405	1		0	0	unchanged	0	3858,4304,4338		Catch of the Day
+5421	25	25		2	405	1		0	0	unchanged	0		13546	Fish in a Bucket
+5501	39	33	2250	3	405	1		0	0	unchanged	0		15690	Bone Collector
+5561	34	30	2000	3	405	1		0	0	unchanged	0	15697,15698		Kodo Roundup
+5581	38	32	3550	2	405	1		0	0	unchanged	4500	16794,16873		Portals of the Legion
+5741	33	30	2650	3	405	1		0	0	unchanged	3500			Sceptre of Light
+5763	31	28	1250	2	405	1		0	0	unchanged	0			Hunting in Stranglethorn
+5821	35	30	2750	3	405	1		0	0	unchanged	0		15689	Bodyguard for Hire
+5943	38	32	2850	3	405	1		0	0	updated	0	15691,15692,15695,270065		Gizelton Caravan
+6027	38	30	3550	3	405	1		0	0	unchanged	4500	16791,16793		Book of the Ancients
+6132	39	34	2250	3	405	1		0	0	unchanged	4500			Get Me Out of Here!
+6134	39	34	2250	3	405	1		0	0	updated	4500	15864,15865		Ghost-o-plasm Round Up
+6141	39	34	300	1	405	1		0	0	unchanged	0			Brother Anton
+6142	35	31	2750	2	405	1		0	0	unchanged	0	15585,15587,15588		Clam Bait
+6143	36	32	2800	2	405	1		0	0	unchanged	4000			Other Fish to Fry
+6161	36	30	2800	3	405	1		0	0	unchanged	11500		16788,16789	Claim Rackmore's Treasure!
+6567	60	55	3300	2	1637	1		0	0	unchanged	0			The Champion of the Horde
+6568	60	55	4950	2	405	1		0	0	unchanged	0			The Testament of Rexxar
+6601	60	55	4950	2	15	1		0	0	unchanged	0			Ascension...
+6602	60	55	9950	2	1583	2	62	0	0	unchanged	0		16309	Blood of the Black Dragon Champion
+7028	47	41	5250	3	2100	2	81	0	0	unchanged	0	17775,17776,17777,17779		Twisted Evils
+7029	47	41	5250	2	2100	2	81	0	0	unchanged	0	17768,17778,17770		Vyletongue Corruption
+7041	47	41	5250	1	2100	2	81	0	0	unchanged	0	17768,17778,17770		Vyletongue Corruption
+7064	51	45	6100	2	2100	2	81	0	0	unchanged	0	17705,17743,17753		Corruption of Earth and Seed
+7065	51	45	6100	1	2100	2	81	0	0	unchanged	0	17705,17743,17753		Corruption of Earth and Seed
+7067	48	39	5450	3	2100	2	81	0	0	unchanged	14000		17774	The Pariah's Instructions
+8458	33	25	2650		405	1		0	0	updated	0			<UNUSED>
+79229	40	30	1550	3	405	1		0	0	updated	2500			Highway Robbery
+79235	40	30	1550	3	405	1		0	0	updated	0			On the Lam
+79236	40	30	1550	3	405	1		0	0	updated	0			Cherry for Your Thoughts?
+79242	40	30	3900	3	405	1		0	0	updated	10000	277208,277223,277235	212553	No Honor Among Thieves
+92743	40	30	3150	3	405	1		0	0	new	0			A Conqueror's Crown
+92754	35	30	2050		405	1		0	0	new	1800	250979,250985		A New Need for Shadow Protection
+92755	35	30	2050	1	405	1		0	0	new	1800	249486,249489		Mysterious Mysticism
+92811	60	1		1	405	1		0	0	new	0			Economic Warfare
+92812	60	1		3	405	1		0	0	new	0			Economic Warfare
+92814	35	30	2050		405	1		0	0	new	1800	254682,253974		I Need a Tailor
+92817	35	30	2050		405	1		0	0	new	1800	252833,252883		Leather Technique
+92818	35	30	2050	1	405	1		0	0	new	1800	251390,251458		Big, No, MASSIVE Iron Axes
+92841	40	35	315	1	16651	1		0	0	new	0			Valley of Bones
+93034	38	35	285	3	16651	1		0	0	new	0			Valley of Bones
+93035	38	35	1450	3	16651	1		0	0	new	0			Ravaging Ravagers
+93037	40	35	2350	3	16651	1		0	0	new	0			Outing Outcasts
+93041	38	35	710	3	16651	1		0	0	new	0			Facing the Truth
+93044	38	35	2150	2	405	1		0	0	new	0			A Cleansing Cry
+93045	38	35	710	2	405	1		0	0	new	0	271794,271795,271799		Test Your Theory
+93058	42	35	2550	2	16651	1		0	0	new	0			Saving Our Own
+93062	42	35	3450	2	16651	1		0	0	new	0			Bone Burying
+93122	43	35	360	2	16651	1		0	0	new	0			Checking Things Out
+93128	42	35	3450	2	405	1		0	0	new	0	271801,271805,271802		Khan Jehn
+93196	42	35	3450		405	1		0	0	new	0	271803,271804,271800		Khan Jehn
+93224	40	30	2350	1	405	1		0	0	new	0			Carved Centaur Totems
+93225	40	30	2350	2	405	1		0	0	new	0			Carved Centaur Totems
+93226	45	30	390	1	405	1		0	0	new	0			Buying Friendship: Magram
+93227	45	30	390	1	405	1		0	0	new	0			Buying Friendship: Gelkis
+93464	38	30	1450	2	8	0		0	0	new	0			The Visiting Mage
+93465	40	30	3150	2	405	1		0	0	new	5000			Notes on Draenethyst
+93678	40	30	1550		405	1		0	0	new	0			Abridged Notes on Draenethyst
+94841	38	36	285	1	405	1		0	0	new	0			Lost Shipping Crate
+94872	45	30	390	2	405	1		0	0	new	0			Buying Friendship: Magram
+94873	45	30	390	2	405	1		0	0	new	0			Buying Friendship: Gelkis
+94895	38	36	285	2	405	1		0	0	new	0			Lost Shipping Crate
+96222	42	35	4300	3	405	1	1	0	0	new	11500	6773,6774,6788,6789	254432	Khan Hratha
+97265	33	28	2650	2	405	1		0	0	new	3500	277514,277515		Hate the Hatefury
+97284	33	30	2650	1	405	1		0	0	new	6500			Vahlarriel's Vengeance

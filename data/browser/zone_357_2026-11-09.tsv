@@ -1,0 +1,126 @@
+ZONE	/forever/zone=357/feralas
+1059	27	20	2200	1	406	1		0	0	updated	0	6675,6676,270035		Reclaiming the Charred Vale
+1100	34	29	1350	1	400	1	1	0	0	unchanged	0			Lonebrow's Journal
+1101	34	29	3350	1	491	2	81	0	0	updated	0	4197,6742,6725	274084	The Crone of the Kraul
+2766	45	40	3900	3	357	1		0	0	unchanged	0			Find OOX-22/FE!
+2767	45	40	4850	3	357	1		0	0	unchanged	0	9647,9648		Rescue OOX-22/FE!
+2821	46	40	4050	1	357	1		0	0	unchanged	0	9630,9631		The Mark of Quality
+2822	46	40	4050	2	357	1		0	0	unchanged	0	9633,9632		The Mark of Quality
+2844	49	44	3400	1	357	1		0	0	unchanged	0			The Giant Guardian
+2845	49	44	4550	1	357	1		0	0	unchanged	0	9656,9657		Wandering Shay
+2847	45	30	1950	1	-182	5		0	0	unchanged	0			Wild Leather Armor
+2848	45	30	2900	1	-182	5		0	0	unchanged	0		8403	Wild Leather Shoulders
+2849	45	30	2900	1	-182	5		0	0	unchanged	0		8404	Wild Leather Vest
+2850	45	30	2900	1	-182	5		0	0	unchanged	0		8405	Wild Leather Helmet
+2851	45	30	2900	1	-182	5		0	0	unchanged	0		8406	Wild Leather Boots
+2852	45	30	2900	1	-182	5		0	0	unchanged	0		8407	Wild Leather Leggings
+2853	45	30	3900	1	-182	5		0	0	unchanged	0		8408	Master of the Wild Leather
+2854	45	30	1950	2	-182	5		0	0	unchanged	0			Wild Leather Armor
+2855	45	30	2900	2	-182	5		0	0	unchanged	0		8403	Wild Leather Shoulders
+2856	45	30	2900	2	-182	5		0	0	unchanged	0		8404	Wild Leather Vest
+2857	45	30	2900	2	-182	5		0	0	unchanged	0		8405	Wild Leather Helmet
+2858	45	30	2900	2	-182	5		0	0	unchanged	0		8406	Wild Leather Boots
+2859	45	30	2900	2	-182	5		0	0	unchanged	0		8407	Wild Leather Leggings
+2860	45	30	3900	2	-182	5		0	0	unchanged	0		8408	Master of the Wild Leather
+2862	42	39	2550	2	357	1		0	0	unchanged	4500			War on the Woodpaw
+2863	43	39	2700	2	357	1		0	0	unchanged	4500			Alpha Strike
+2866	43	40	2700	1	357	1		0	0	unchanged	0			The Ruins of Solarsal
+2867	43	40	1800	1	357	1		0	0	unchanged	4500			Return to Feathermoon Stronghold
+2869	43	40	2700	1	357	1		0	0	unchanged	4500			Against the Hatecrest
+2870	45	40	2900	1	357	1		0	0	unchanged	5000			Against Lord Shalzaru
+2871	45	40	3900	1	357	1		0	0	unchanged	0	9663,9664		Delivering the Relic
+2879	50	42	4700	1	357	1		0	0	unchanged	0		9307	The Stave of Equinex
+2902	43	39	1800	2	357	1		0	0	unchanged	0			Woodpaw Investigation
+2903	43	39	3600	2	357	1		0	0	unchanged	0	9661,9662		The Battle Plans
+2939	47	42	420	1	357	1		0	0	unchanged	0			In Search of Knowledge
+2940	47	42	420	1	357	1		0	0	unchanged	0			Feralas: A History
+2941	48	42	1100	1	357	1		0	0	unchanged	0			The Borrower
+2942	50	42	4700	1	357	1		0	0	unchanged	0	9654,9655		The Morrow Stone
+2943	48	42	3300	1	357	1		0	0	unchanged	0			Return to Troyas
+2944	48	42	4400	1	357	1	1	0	0	unchanged	0			The Super Snapper FX
+2969	47	38	3150	1	357	1		0	0	unchanged	0			Freedom for All Creatures
+2970	47	38	3150	1	357	1		0	0	unchanged	0			Doling Justice
+2972	47	38	5250	1	357	1		0	0	unchanged	0	10705,10706		Doling Justice
+2973	45	38	3900	2	357	1		0	0	unchanged	6500			A New Cloak's Sheen
+2974	45	38	3900	2	357	1		0	0	unchanged	6500			A Grim Discovery
+2975	43	38	2700	2	357	1		0	0	unchanged	4500			The Ogres of Feralas
+2976	45	37	4850	2	357	1		0	0	unchanged	6500	11858,11859		A Grim Discovery
+2978	43	38	1800	2	357	1		0	0	unchanged	0			The Gordunni Scroll
+2979	46	38	4050	2	357	1		0	0	unchanged	0			Dark Ceremony
+2980	44	38	3750	2	357	1		0	0	unchanged	12500			The Ogres of Feralas
+2981	43	38	890	2	1637	1		0	0	unchanged	0			A Threat in Feralas
+2982	44	39	3750	1	357	1		0	0	unchanged	6500			The High Wilderness
+2987	43	38	3600	2	357	1		0	0	updated	0	9658,9660,287073		Gordunni Cobalt
+3002	47	38	2100	2	357	1		0	0	unchanged	0			The Gordunni Orb
+3062	50	45	5900	2	357	1	1	0	0	unchanged	0	9665,9666		Dark Heart
+3063	50	45	3550	2	357	1		0	0	unchanged	5500			Vengeance on the Northspring
+3121	45	40	1950	2	357	1		0	0	unchanged	0			A Strange Request
+3122	45	40	970	2	357	1		0	0	unchanged	0			Return to Witch Doctor Uzer'i
+3123	47	40	4200	2	357	1		0	0	unchanged	0			Testing the Vessel
+3124	47	40	4200	2	357	1		0	0	unchanged	0			Hippogryph Muisek
+3125	45	40	3900	2	357	1		0	0	unchanged	0			Faerie Dragon Muisek
+3126	50	40	4700	2	357	1		0	0	unchanged	0			Treant Muisek
+3127	50	40	4700	2	357	1	1	0	0	unchanged	0			Mountain Giant Muisek
+3128	50	40	4700	2	357	1		0	0	unchanged	5500			Natural Materials
+3129	50	40	4700	2	357	1		0	0	unchanged	0	9684,9686,9683,10652		Weapons of Spirit
+3130	43	40	360	1	357	1		0	0	unchanged	0			Against the Hatecrest
+3380	51	46	3650	2	1477	2	81	0	0	unchanged	0			The Sunken Temple
+3445	51	46	3650	1	357	1		0	0	unchanged	0			The Sunken Temple
+3567	25	25		3	357	1		0	0	unchanged	0			To the Top
+3787	50	47	1200	1	1519	0		0	0	unchanged	0			Jonespyre's Request
+3788	50	47	470	1	1657	1		0	0	unchanged	0			Jonespyre's Request
+3791	50	47	4700	1	1657	1		0	0	unchanged	0	11888,11889		The Mystery of Morrowgrain
+3792	55	47	560	1	1657	1		0	0	unchanged	0		11022	Morrowgrain to Feathermoon Stronghold
+3841	47	38	1050	1	357	1		0	0	unchanged	0			An Orphan Looking For a Home
+3842	47	38	2100	1	357	1		0	0	updated	0			A Short Incubation
+3843	47	38	4200	1	357	1		0	0	unchanged	0			The Newest Member of the Family
+4041	52	47		3	357	1		0	0	unchanged	0		11243	The Videre Elixir
+4120	52	47	5100	2	357	1		0	0	unchanged	0			The Strength of Corruption
+4124	43	40	360	1	357	1		0	0	unchanged	0			The Missing Courier
+4125	43	40	2700	1	357	1		0	0	unchanged	0			The Missing Courier
+4127	44	40	375	1	357	1		0	0	unchanged	0			Boat Wreckage
+4129	44	40	375	1	357	1		0	0	unchanged	0			The Knife Revealed
+4130	44	40	375	1	357	1		0	0	unchanged	0			Psychometric Reading
+4131	44	40	2800	1	357	1		0	0	unchanged	0			The Woodpaw Gnolls
+4135	46	40	3050	1	357	1		0	0	unchanged	0			The Writhing Deep
+4142	52	47	3800	1	490	1		0	0	unchanged	0			A Visit to Gregan
+4143	52	47	5100	1	490	1	81	0	0	unchanged	7500			Haze of Evil
+4265	46	40	4050	1	357	1		0	0	unchanged	0			Freed from the Hive
+4266	46	40	6050	1	357	1		0	0	unchanged	0	11856,11857		A Hero's Welcome
+4267	46	40	405	1	357	1		0	0	unchanged	0			Rise of the Silithid
+4281	44	40	2800	1	357	1		0	0	unchanged	6500			Thalanaar Delivery
+4297	47	38	4200	1	357	1		0	0	unchanged	0			Food for Baby
+4298	48	37	440	1	357	1		0	0	unchanged	0		11474	Becoming a Parent
+5143	55	40	4200	1	-182	5		0	0	unchanged	0			Tribal Leatherworking
+6567	60	55	3300	2	1637	1		0	0	unchanged	0			The Champion of the Horde
+6568	60	55	4950	2	405	1		0	0	unchanged	0			The Testament of Rexxar
+6601	60	55	4950	2	15	1		0	0	unchanged	0			Ascension...
+6602	60	55	9950	2	1583	2	62	0	0	unchanged	0		16309	Blood of the Black Dragon Champion
+7003	48	45	4400	3	357	1		0	0	unchanged	7000		19040	Zapped Giants
+7441	58	54	7750	3	2557	2	81	0	0	updated	17500	18411,18410		Pusillin and the Elder Azj'Tordin
+7481	60	54	8300	2	2557	2	81	0	0	updated	18000			Elven Legends
+7482	60	54	8300	1	2557	2	81	0	0	updated	18000			Elven Legends
+7488	57	54	7550	1	2557	2	81	0	0	updated	17000		18491	Lethtendris's Web
+7489	57	54	7550	2	2557	2	81	0	0	updated	17000		18491	Lethtendris's Web
+7492	57	54	1500	2	2557	2	81	0	0	unchanged	0			Camp Mojache
+7494	57	54	1500	1	2557	2	81	0	0	unchanged	0			Feathermoon Stronghold
+7721	48	45	4400	3	357	1		0	0	unchanged	7000		19039	Fuel for the Zapping
+7725	55	45	560	3	357	1		0	0	unchanged	2100			Again With the Zapped Giants
+7726	55	45	560	3	357	1		0	0	unchanged	2100			Refuel for the Zapping
+7730	45	39	3900	2	357	1		0	0	unchanged	6500			Zukk'ash Infestation
+7731	47	39	4200	2	357	1		0	0	unchanged	13500			Stinglasher
+7732	48	39	4400	2	357	1		0	0	unchanged	0	19038,19037		Zukk'ash Report
+7733	48	40	4400	1	357	1		0	0	unchanged	7000		19041	Improved Quality
+7734	48	40	4400	2	357	1		0	0	unchanged	7000		19042	Improved Quality
+7735	48	40	2200	1	357	1		0	0	unchanged	7000			Pristine Yeti Hide
+7738	48	40	440	2	357	1		0	0	unchanged	700			Perfect Yeti Hide
+8446	60	60	9950	3	-1	7		0	0	unchanged	0			Shrouded in Nightmare
+8679	60	1		3	-366	9		0	0	unchanged	0		21100	Grimtotem the Elder
+9295	60	45	3300	3	-368	7		0	0	unchanged	0			Letter from the Front
+81924	50	40	5900		-263	4		1024	0	unconfirmed	14500		219326	Wisdom of the Guardians
+92858	43	39	4450	1	357	1	1	0	0	new	3000		277253	WANTED: Ohk'zi
+92878	43	36	4450	2	357	1	1	0	0	new	3000	277220,277216,277221		Lost for Words
+95599	42	35	3450		357	1		0	0		5500			The Old Key
+97378	50	45	4700		357	1		0	0	new	0	281275,281276,281277,281278		Mirrorscale
+98155	29	24	2350	1	400	1		0	0	new	0			Pristine Pesterhide Pelts
+98156	29	24	2350	1	400	1		0	0	new	1300		281295	Packaged Pristine Pelts

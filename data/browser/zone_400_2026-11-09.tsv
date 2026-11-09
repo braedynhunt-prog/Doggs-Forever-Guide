@@ -1,0 +1,101 @@
+ZONE	/forever/zone=400/thousand-needles
+1099	1	1			400	1		0	0	unchanged	0		5858	Goblins Win!
+1100	34	29	1350	1	400	1	1	0	0	unchanged	0			Lonebrow's Journal
+1104	30	28	1850	3	400	1		0	0	unchanged	2500			Salt Flat Venom
+1105	30	28	2450	3	400	1		0	0	unchanged	2500			Hardened Shells
+1106	35	26	1350	3	400	1		0	0	unchanged	0			Martek the Exiled
+1107	35	28	3450	3	400	1	1	0	0	unchanged	7500			Encrusted Tail Fins
+1108	39	28	3000	3	400	1		0	0	unchanged	0			Indurium
+1110	31	28	2500	3	400	1		0	0	unchanged	3000			Rocket Car Parts
+1111	36	30	1400	3	400	1		0	0	unchanged	0			Wharfmaster Dizzywig
+1112	36	30	1400	3	400	1		0	0	unchanged	2000			Parts for Kravel
+1114	36	30	700	3	400	1		0	0	unchanged	1000			Delivery to the Gnomes
+1115	36	30	1400	3	400	1		0	0	unchanged	0			The Rumormonger
+1116	36	30	3500	3	400	1		0	0	unchanged	0			Dream Dust in the Swamp
+1117	36	30	3500	3	400	1		0	0	unchanged	7500			Rumors for Kravel
+1118	43	35	890	3	400	1		0	0	unchanged	0			Back to Booty Bay
+1119	44	35	3750	3	400	1		0	0	unchanged	0			Zanzil's Mixture and a Fool's Stout
+1120	44	35	375	3	400	1		0	0	unchanged	0			Get the Gnomes Drunk
+1121	44	35	375	3	400	1		0	0	unchanged	0			Get the Goblins Drunk
+1122	44	35	1850	3	400	1		0	0	unchanged	0			Report Back to Fizzlebub
+1137	38	28	1450	3	400	1		0	0	unchanged	0	6729,6732		News for Fizzle
+1146	33	29	1950	2	1637	1		0	0	unchanged	0			The Swarm Grows
+1147	35	29	2750	2	400	1		0	0	unchanged	3500			The Swarm Grows
+1148	35	28	2750	2	400	1		0	0	unchanged	0			Parts of the Swarm
+1149	26	25	1050	2	400	1		0	0	unchanged	0			Test of Faith
+1150	30	25	2450	2	400	1		0	0	unchanged	0			Test of Endurance
+1151	30	25	3050	2	400	1	1	0	0	unchanged	0			Test of Strength
+1152	30	26	1200	2	400	1		0	0	unchanged	0			Test of Lore
+1154	30	26	1850	2	400	1		0	0	unchanged	0			Test of Lore
+1159	30	26	1200	2	400	1		0	0	unchanged	0			Test of Lore
+1174	1	1			400	1		0	0	unchanged	0		5857	Gnomes Win!
+1175	33	28	2650	3	400	1		0	0	unchanged	3500			A Bump in the Road
+1176	30	29	1850	3	400	1		0	0	unchanged	2500			Load Lightening
+1178	37	29	710	3	400	1		0	0	unchanged	0			Goblin Sponsorship
+1179	30	28	2450	1	400	1		0	0	unchanged	0			The Brassbolts Brothers
+1180	37	29	710	3	400	1		0	0	unchanged	0			Goblin Sponsorship
+1181	37	29	285	3	400	1		0	0	unchanged	0			Goblin Sponsorship
+1182	37	29	2850	3	400	1		0	0	unchanged	4000			Goblin Sponsorship
+1183	37	29	710	3	400	1		0	0	unchanged	0			Goblin Sponsorship
+1184	35	28	1350	2	400	1		0	0	unchanged	1800	6737,6738		Parts of the Swarm
+1186	37	29	285	3	400	1		0	0	unchanged	0			The Eighteenth Pilot
+1187	41	29	3300	3	400	1		0	0	unchanged	5500			Razzeric's Tweaking
+1188	41	29	820	3	400	1		0	0	unchanged	0			Safety First
+1189	41	29	820	3	400	1		0	0	unchanged	0	6726,6727		Safety First
+1190	41	29	1650	3	400	1		0	0	unchanged	0			Keeping Pace
+1191	41	29		3	400	1		0	0	unchanged	0			Zamek's Distraction
+1192	42	29		3	400	1		0	0	unchanged	600			Indurium Ore
+1194	41	29	1650	3	400	1		0	0	unchanged	0			Rizzle's Schematics
+1196	29	20	590	2	1638	1		0	0	unchanged	0			The Sacred Flame
+1197	29	20	2350	2	1638	1		0	0	unchanged	0	6739,6740		The Sacred Flame
+1394	36	26	4200	2	400	1		0	0	unchanged	0	6804,6806		Final Passage
+1531	30	30	2450	2	-82	4		64	162	unchanged	0		5178	Call of Air
+1532	30	30	2450	2	-82	4		64	162	unchanged	0		5178	Call of Air
+1949	38	30	1450	3	-161	4		128	0	unchanged	0			Hidden Secrets
+1950	30	30	1850	3	-161	4		128	0	unchanged	0			Get the Scoop
+1951	40	30	3150	3	-161	4	81	128	0	unchanged	0			Rituals of Power
+2769	46	40	405	1	400	1	81	0	0	unchanged	0			The Brassbolts Brothers
+2770	50	40	7100	3	1176	2	81	0	0	unchanged	7500		11122	Gahz'rilla
+3841	47	38	1050	1	357	1		0	0	unchanged	0			An Orphan Looking For a Home
+3842	47	38	2100	1	357	1		0	0	updated	0			A Short Incubation
+3843	47	38	4200	1	357	1		0	0	unchanged	0			The Newest Member of the Family
+4323	26	24	2100		400	1		0	0	unchanged	2000			<NYI> <TXT> Get those Hyenas!!!
+4542	25	23	510	2	400	1		0	0	unchanged	175			Message to Freewind Post
+4767	29	25	1750	2	400	1		0	0	unchanged	1900		4265	Wind Rider
+4770	29	25	2350	2	400	1		0	0	unchanged	1900			Homeward Bound
+4821	26	24	2100	2	400	1		0	0	unchanged	1500			Alien Egg
+4841	25	23	2000	2	400	1		0	0	unchanged	1800			Pacify the Centaur
+4865	26	24	1050	2	400	1		0	0	unchanged	0			Serpent Wild
+4881	28	23	2300	2	400	1		0	0	unchanged	0			Assassination Plot
+4904	29	25	2350	2	400	1		0	0	unchanged	0	15469,15468		Free at Last
+4966	28	23	2300	2	400	1		0	0	unchanged	0	15461,15462,15463		Protect Kanati Greycloud
+5062	27	24	2200	2	400	1		0	0	unchanged	2200			Sacred Fire
+5064	28	24	2300	2	400	1		0	0	updated	0	15457,15458,15459		Grimtotem Spying
+5088	28	24	2300	2	400	1	1	0	0	updated	2500	15464,15465,15466,270037		Arikara
+5147	29	25	2350	2	400	1		0	0	updated	0	15471,15470		WANTED: Arnak Grimtotem
+5151	30	24	3050	2	400	1	1	0	0	updated	0	15467,287066	15467	Hypercapacitor Gizmo
+5361	35	32	2050	2	400	1		0	0	unchanged	2500			Family Tree
+5762	31	28	1250	3	400	1		0	0	unchanged	3000			Hemet Nesingwary
+5881	28	23	1150	2	406	1		0	0	unchanged	1200			Calling in the Reserves
+6627	30	26	245	2	400	1		0	0	unchanged	0			Test of Lore
+6628	30	26	245	2	400	1		0	0	unchanged	0			Test of Lore
+8682	60	1		3	-366	9		0	0	unchanged	0		21100	Skyseer the Elder
+8724	60	1		3	-366	9		0	0	unchanged	0		21100	Morningdew the Elder
+79358	43	30	3600	3	-82	4		64	0	updated	6000			Storm, Earth, and Fire
+79360	33	30	3300	2	-82	4	81	64	162	updated	3500			Elemental Aid
+79361	43	30	3600	2	-82	4		64	162	updated	6000			Storm, Earth, and Fire
+79364	33	30	265	2	-82	4		64	0	updated	0			Eyes on the Sky
+79365	40	30		2	-82	4		64	162	unchanged	0			With Wind Beneath Your Wings
+79366	40	30	3150	2	-82	4	1	64	0	updated	5000	212994,212996,212997		Heed My Call
+79442	40	30	3150	2	-82	4		64	162	updated	0	280604,280605,280607	213086	The Tempest's Weapons
+94218	60	1		2	16941	0		0	0	new	0			Craftsman's Writ: Elixir of Defense
+94227	60	1		3	16941	0		0	0	new	0			Craftsman's Writ: Big Bronze Knife
+94236	60	1		3	16941	0		0	0	new	0		284584	Craftsman's Writ: Big Bronze Bomb
+94245	60	1		3	16941	0		0	0	new	0		284584	Craftsman's Writ: Barbaric Gloves
+94254	60	1		3	16941	0		0	0	new	0			Craftsman's Writ: Greater Adept's Robe
+94930	38	36	285	2	400	1		0	0	new	0			Lost Shipping Crate
+96016	40	30	3900	1	-82	4		64	0	new	0	280607,280605,280604	280696	The Tempest's Weapons
+98069	30	25	2450	2	400	1		0	0	new	0			Stolen Freewind Supplies
+98070	30	25	2450	2	400	1		0	0	new	2500			Stop the Screeching
+98155	29	24	2350	1	400	1		0	0	new	0			Pristine Pesterhide Pelts
+98156	29	24	2350	1	400	1		0	0	new	1300		281295	Packaged Pristine Pelts
