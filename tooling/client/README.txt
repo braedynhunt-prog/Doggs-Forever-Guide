@@ -55,3 +55,12 @@ SkillLineAbility 28 lines carry those same rogue/warrior swaps (Shank at 24, Ven
 Arms, Combat, Subtlety, Feral Combat, Assassination, Fury, Protection lines. Item: 281350 Keystone Fragment, 281352 Ancient
 Runestone, 281359 Dormant Runestone reclassified Miscellaneous (15) -> Key (13); 289555 added (quest item, no Wowhead name yet).
 None of the changed spells or items is referenced by the shaman, warrior or druid guide or by any QuestieDB quest.
+
+9 Nov 2026 - build 1.60.1.70862 pulled into 1.60.1.70862/ (wago.tools build of 7 Nov 2026). Tables: the same twelve. Diffed against
+1.60.1.70790: QuestXP, QuestInfo, TaxiNodes, TaxiPath, SkillLine, SkillRaceClassInfo, Talent, TalentTab byte-identical. SpellName +400 rows,
+all NPC/encounter or item spells (Shen'dorei quest spells, Manastorm, Mugg's Fury, "Elixir of Endless ..." consumables, Portal to
+Auberdine/Southshore/Theramore/Menethil/Grom'gol, Ultra/Giga/Cosmic Hogger) - no player shaman, warrior or druid spell added, renamed or
+removed. SpellLevels 95 rows, all test/old spells (Word of Recall (OLD), Zone Recall (OLD), Blizzard, Mana Drain, War Stomp) and NPC spells.
+SkillLineAbility: one row (skill 778, spell 1313392 Summon Shen'dorei Wisp). Item: 267079 and 273845 reclassified to Key (13), 278989 icon
+change, 21 new ids 287960/289081-289334 (quest items, BS chain plans 251340-251354 and Pattern: Trapper's Leather Armor 252772 appear in
+QuestieDB 1.0.12 the same day). Nothing referenced by the guides changed.
