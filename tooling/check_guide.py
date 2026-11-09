@@ -30,7 +30,7 @@ for f in files:
     GA[f] = gl.chapter_ga(txt)
     if txt.count(']]') != 1: warn(f, 0, f"expected exactly one ']]' (found {txt.count(']]')})")
     if not txt.startswith(gl.HEADER): warn(f, 1, 'bad header')
-    if not txt.rstrip().endswith(gl.FOOTER): warn(f, 0, f'bad footer/group (expected {gl.FOOTER[:-1]})')   # variant group since 1 Nov 2026
+    if not txt.rstrip().endswith(gl.footer_for(f)): warn(f, 0, f'bad footer/group (expected {gl.footer_for(f)[:-1]})')   # variant group since 1 Nov 2026; two shaman groups since 9 Nov 2026
     for ln, line in gl.steps(txt):
         RACE[(f, ln)] = gl.race_of(line, GA[f])
         if line.count('[') != line.count(']'): warn(f, ln, f'unbalanced brackets: {line[:80]}')

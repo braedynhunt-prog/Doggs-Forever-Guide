@@ -24,12 +24,26 @@ QDB = os.path.join(BASE, 'tooling', 'qdb')
 ZONES = {'dunmorogh', 'lochmodan', 'ironforge', 'westfall', 'stormwindcity', 'elwynnforest', 'redridgemountains', 'wetlands', 'deadmines', 'stockade', 'duskwood',
          'darkshore', 'teldrassil', 'darnassus', 'hillsbradfoothills', 'silverpineforest', 'ashenvale', 'alteracmountains', 'arathihighlands',
          'stranglethornvale', 'stonetalonmountains', 'barrens', 'tirisfalglades', 'dustwallowmarsh', 'badlands',
-         'zephrasisle', 'moonglade'}   # Moonglade: druid class quests, added 2 Nov 2026. Zephras Isle: Skyborne start, Guidelime map 2521 (Data/MapDB.lua Forever block), added 1 Nov 2026
+         'zephrasisle', 'moonglade',   # Moonglade: druid class quests, added 2 Nov 2026. Zephras Isle: Skyborne start, Guidelime map 2521 (Data/MapDB.lua Forever block), added 1 Nov 2026
+         # 30-60 zones (9 Nov 2026). Dungeon steps keep the outdoor zone in [G] as the 1-30 chapters do; the Classic dungeon maps Guidelime's
+         # MapDB names are listed too in case a chapter needs an interior arrow. Riverglades / Shen'dralas are Forever maps 2548 / 2652 in MapDB.
+         'desolace', 'thousandneedles', 'swampofsorrows', 'hinterlands', 'feralas', 'tanaris', 'searinggorge', 'blastedlands', 'azshara',
+         'felwood', 'ungorocrater', 'westernplaguelands', 'easternplaguelands', 'burningsteppes', 'winterspring', 'silithus', 'deadwindpass',
+         'riverglades', 'shendralas', 'uldaman', 'zulfarrak', 'maraudon', 'templeofatalhakkar', 'blackrockdepths', 'blackrockspire',
+         'blackrockmountain', 'scholomance', 'stratholme', 'diremaul', 'scarletmonastery', 'razorfendowns'}
 # zone display name (as written in [G x,y Zone]) -> Forever map id used by the DB spawn tables
 ZID = {'Dun Morogh': 1, 'Loch Modan': 38, 'Ironforge': 1537, 'Westfall': 40, 'Elwynn Forest': 12, 'Stormwind City': 1519, 'Redridge Mountains': 44,
        'Duskwood': 10, 'Wetlands': 11, 'Darkshore': 148, 'Teldrassil': 141, 'Darnassus': 1657, 'Hillsbrad Foothills': 267, 'Silverpine Forest': 130,
        'Ashenvale': 331, 'Alterac Mountains': 36, 'Arathi Highlands': 45, 'Stranglethorn Vale': 33, 'Stonetalon Mountains': 406, 'The Barrens': 17,
-       'Tirisfal Glades': 85, 'Dustwallow Marsh': 15, 'Badlands': 3, 'Zephras Isle': 16593, 'Moonglade': 493}
+       'Tirisfal Glades': 85, 'Dustwallow Marsh': 15, 'Badlands': 3, 'Zephras Isle': 16593, 'Moonglade': 493,
+       # 30-60 (9 Nov 2026): ids = the QuestieDB spawn-table keys (checked on NPC rows: Ironaya 1337, Gahz'rilla 1176, Theradras 2100,
+       # Avatar of Hakkar 1477, Gandling 2057, Rivendare 2017, Herod 796, Amnennar 722, Drakkisath 1583; City of Dalaran NPCs spawn under 36)
+       'Desolace': 405, 'Thousand Needles': 400, 'Swamp of Sorrows': 8, 'The Hinterlands': 47, 'Feralas': 357, 'Tanaris': 440,
+       'Searing Gorge': 51, 'Blasted Lands': 4, 'Azshara': 16, 'Felwood': 361, "Un'Goro Crater": 490, 'Western Plaguelands': 28,
+       'Eastern Plaguelands': 139, 'Burning Steppes': 46, 'Winterspring': 618, 'Silithus': 1377, 'Deadwind Pass': 41,
+       'Riverglades': 16591, "Shen'dralas": 16651, 'Uldaman': 1337, "Zul'Farrak": 1176, 'Maraudon': 2100,
+       "The Temple of Atal'Hakkar": 1477, 'Blackrock Depths': 1584, 'Blackrock Spire': 1583, 'Blackrock Mountain': 25,
+       'Scholomance': 2057, 'Stratholme': 2017, 'Dire Maul': 2557, 'Scarlet Monastery': 796, 'Razorfen Downs': 722}
 CODES = {'N', 'NX', 'D', 'GA', 'A', 'O', 'OC', 'QA', 'QC', 'QT', 'QS', 'G', 'L', 'XP', 'H', 'F', 'T', 'S', 'P', 'V', 'R', 'CI', 'UI', 'TAR', 'LE', 'SK', 'GG', 'GL', 'GT', 'GI', 'REP', 'SP'}
 RACES = ('Dwarf', 'Human', 'Gnome', 'Night Elf', 'Skyborne')
 RACE_WORDS = ('Shaman', 'Hunter', 'Alliance', 'Dwarf', 'Gnome', 'Human', 'Night Elf', 'Warrior', 'Skyborne', 'Druid')
@@ -264,6 +278,18 @@ if VARIANT:
 
 def chain_files(chain, addon=None):
     return [f for f in chapter_files(addon) if CHAINS[chain](f)]
+
+def chapter_number(path):
+    """'27_Arathi.lua' -> 27, '00a_Northshire.lua' -> 0."""
+    m = re.match(r'(\d+)', os.path.basename(path))
+    return int(m.group(1)) if m else 0
+
+def footer_for(path):
+    """The registerGuide group a chapter file must end with. Since 9 Nov 2026 the shaman addon holds two Guidelime
+    groups: chapters 00a-26 are "Forever Shaman 1-30" and 27+ are "Forever Shaman 30-60" (Guidelime keys saved
+    progress and the [NX] chain by group + title, so the 1-30 group was not renamed). Variants keep one group."""
+    if VARIANT or chapter_number(path) < 27: return FOOTER
+    return '"Forever Shaman 30-60")'
 
 def on_chain(line, ga, chain):
     """True when a step applies to the given race chain."""

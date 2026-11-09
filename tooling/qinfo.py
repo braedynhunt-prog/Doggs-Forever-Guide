@@ -17,7 +17,15 @@ ZN = {1: 'Dun Morogh', 38: 'Loch Modan', 1537: 'Ironforge', 40: 'Westfall', 12: 
       85: 'Tirisfal Glades', 267: 'Hillsbrad Foothills', 130: 'Silverpine Forest', 331: 'Ashenvale', 36: 'Alterac Mountains',
       45: 'Arathi Highlands', 33: 'Stranglethorn Vale', 406: 'Stonetalon Mountains', 400: 'Thousand Needles', 3: 'Badlands',
       719: 'Blackfathom Deeps', 209: 'Shadowfang Keep', 721: 'Gnomeregan', 491: 'Razorfen Kraul', 17: 'The Barrens', 15: 'Dustwallow',
-      16544: 'City of Dalaran', 16591: 'Ruins of Lordaeron(?)', 1497: 'Undercity', 1637: 'Orgrimmar', 1638: 'Thunder Bluff', 14: 'Durotar', 215: 'Mulgore'}
+      16544: 'City of Dalaran', 16591: 'Riverglades', 1497: 'Undercity', 1637: 'Orgrimmar', 1638: 'Thunder Bluff', 14: 'Durotar', 215: 'Mulgore',
+      # 30-60 (9 Nov 2026; Wowhead Forever zone ids, which the QuestieDB spawn tables share)
+      405: 'Desolace', 8: 'Swamp of Sorrows', 47: 'The Hinterlands', 357: 'Feralas', 440: 'Tanaris', 51: 'Searing Gorge', 4: 'Blasted Lands',
+      16: 'Azshara', 361: 'Felwood', 490: "Un'Goro Crater", 28: 'Western Plaguelands', 139: 'Eastern Plaguelands', 46: 'Burning Steppes',
+      618: 'Winterspring', 1377: 'Silithus', 41: 'Deadwind Pass', 16651: "Shen'dralas", 16606: 'Darkspear Islands', 16550: 'The Drowned City',
+      16842: "Krol'dok Stronghold", 16620: 'Alcaz Prison', 16554: 'Blackmaw Hold', 16667: "The Shaper's Terrace", 796: 'Scarlet Monastery',
+      722: 'Razorfen Downs', 1337: 'Uldaman', 1517: 'Uldaman (quest sort)', 1176: "Zul'Farrak", 978: "Zul'Farrak (quest sort)", 2100: 'Maraudon',
+      1477: "The Temple of Atal'Hakkar", 1417: "The Temple of Atal'Hakkar (quest sort)", 1584: 'Blackrock Depths', 1583: 'Blackrock Spire',
+      25: 'Blackrock Mountain', 2057: 'Scholomance', 2017: 'Stratholme', 2557: 'Dire Maul', 16941: "Craftsman's Writs (level 60)"}
 XP = {}; WH = {}
 for f in glob.glob(os.path.join(BASE, 'data', 'zone_*.json')):
     for q in json.load(open(f, encoding='utf-8')).get('quests', []):
