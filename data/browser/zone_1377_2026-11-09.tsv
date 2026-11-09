@@ -1,0 +1,170 @@
+ZONE	/forever/zone=1377/silithus
+1124	55	54	2800	3	493	1		0	0	unchanged	0			Wasteland
+1125	55	54	5650	3	1377	1		0	0	unchanged	0			The Spirits of Southwind
+1126	57	54	6000	3	1377	1		0	0	unchanged	0			Hive in the Tower
+1155	55	54		3	1377	1		0	0	unchanged	0			<NYI> <TXT> bug crystal side quest
+1161	58	55		3	1377	1		0	0	unchanged	0			<NYI> <TXT> gossip shade of ambermoon
+1162	58	55		3	1377	1		0	0	unchanged	0			<NYI> <TXT> speak to hamuul runetotem
+1163	58	55		3	1377	1		0	0	unchanged	0			<NYI> <TXT> speak to tyrande whisperwind
+6842	58	54		3	1377	1		0	0	unchanged	0			<UNUSED>
+6844	57	54	3000	3	1377	1		0	0	unchanged	0			Umber, Archivist
+7784	60	60	9950	2	1637	1		0	0	unchanged	0	19383,19366,19384		The Lord of Blackrock
+7785	60	60		3	-344	7		0	0	unchanged	0			Examine the Vessel
+7786	60	60	9950	3	-344	7	62	0	0	unchanged	0			Thunderaan the Windseeker
+7787	60	60	9950	3	-344	7		0	0	unchanged	0		19019	Rise, Thunderfury!
+8275	55	54	2800	1	1537	0		0	0	unchanged	0			Taking Back Silithus
+8276	55	54	2800	2	1637	1		0	0	unchanged	0			Taking Back Silithus
+8277	55	54	5650	3	1377	1		0	0	unchanged	8500			Deadly Desert Venom
+8278	57	54	6000	3	1377	1		0	0	unchanged	6500	13446,13444		Noggle's Last Hope
+8279	60	54	8300	3	1377	1		0	0	unchanged	9000			The Twilight Lexicon
+8280	55	54	5650	3	1377	1		0	0	unchanged	8500			Securing the Supply Lines
+8281	57	54	6000	3	1377	1		0	0	unchanged	17000			Stepping Up Security
+8282	58	54	6200	3	1377	1		0	0	unchanged	0	13452,13447		Noggle's Lost Satchel
+8283	59	54	8050	3	1377	1	1	0	0	unchanged	18000	20646,20647		Wanted - Deathclasp, Terror of the Sands
+8284	58	54	6200	3	1377	1		0	0	unchanged	9000			The Twilight Mystery
+8285	59	54	4800	3	1377	1		0	0	unchanged	0			The Deserter
+8286	60	60	6600	3	1377	1		0	0	unchanged	0			What Tomorrow Brings
+8287	60	54	6600	3	1377	1		0	0	unchanged	18000			A Terrible Purpose
+8288	60	60	6600	3	2677	3	62	0	0	unchanged	0			Only One May Rise
+8301	60	60	6600	3	1377	1	1	0	0	unchanged	0		20403	The Path of the Righteous
+8302	60	60	660	3	1377	1	1	0	0	unchanged	0		20403	The Hand of the Righteous
+8303	60	60		2	1377	1		0	0	unchanged	0			Anachronos
+8304	60	58	6600	3	1377	1	1	0	0	unchanged	0			Dearest Natalia
+8305	60	60	6600	2	1377	1		0	0	unchanged	0			Long Forgotten Memories
+8306	60	58	9950	3	1377	1	1	0	0	unchanged	27000		20724	Into The Maw of Madness
+8307	57	54	3000	3	-304	5		0	0	unchanged	0			Desert Recipe
+8308	60	58	8300	3	1377	1	1	0	0	unchanged	0		20723	Brann Bronzebeard's Lost Letter
+8309	60	58	8300	3	1377	1	1	0	0	unchanged	27000			Glyph Chasing
+8310	60	58	8300	3	1377	1	1	0	0	unchanged	27000			Breaking the Code
+8313	57	54	6000	3	-304	5		0	0	unchanged	8500			Sharing the Knowledge
+8314	60	58	4950	3	1377	1	1	0	0	unchanged	0			Unraveling the Mystery
+8315	60	58	9950	3	1377	1	62	0	0	unchanged	0			The Calling
+8316	60	58	6600	3	1377	1	62	0	0	unchanged	0		20699,20710	Armaments of War
+8317	57	54	3000	3	-304	5		0	0	unchanged	17000			Kitchen Assistance
+8318	60	57	6600	3	1377	1		0	0	unchanged	18000			Secret Communication
+8319	60	57		3	1377	1		0	0	unchanged	0			Encrypted Twilight Texts
+8320	60	60	6600	3	1377	1		0	0	unchanged	9000			Twilight Geolords
+8321	60	60	6600	3	1377	1		0	0	unchanged	9000	20650,20649		Vyral the Vile
+8323	59	54	6400	3	1377	1		0	0	unchanged	9000			True Believers
+8324	59	54		3	1377	1		0	0	unchanged	4500			Still Believing
+8331	60	60	660	3	1377	1	1	0	0	unchanged	0			Aurel Goldleaf
+8332	60	60	6600	3	1377	1	1	0	0	unchanged	0		20422	Dukes of the Council
+8333	60	60		3	1377	1		0	0	unchanged	0		20422	Medallion of Station
+8341	60	60	6600	3	1377	1	1	0	0	unchanged	0		20451	Lords of the Council
+8342	60	60		3	1377	1		0	0	unchanged	0		20451	Twilight Ring of Lordship
+8343	60	60	660	3	1377	1		0	0	unchanged	0			Goldleaf's Discovery
+8348	60	60	8300	3	1377	1	1	0	0	unchanged	18000		20601	Signet of the Dukes
+8349	60	60	660	3	1377	1	1	0	0	unchanged	0			Bor Wildmane
+8351	60	60	660	3	1377	1	62	0	0	unchanged	0			Bor Wishes to Speak
+8352	60	60	9950	3	1377	1	62	0	0	unchanged	27000		20602	Scepter of the Council
+8361	60	60	6600	3	1377	1	1	0	0	unchanged	9000		20603	Abyssal Contacts
+8362	60	60		3	1377	1	1	0	0	unchanged	0		20603	Abyssal Crests
+8363	60	60		3	1377	1	1	0	0	unchanged	0		20601	Abyssal Signets
+8364	60	60	3300	3	1377	1	62	0	0	unchanged	0		20602	Abyssal Scepters
+8376	60	58	6600	1	1377	1	62	0	0	unchanged	0		20700,20711	Armaments of War
+8377	60	58	6600	3	1377	1	62	0	0	unchanged	0		20702,20713	Armaments of War
+8378	60	58	6600	3	1377	1	62	0	0	unchanged	0		20703,20715	Armaments of War
+8379	60	58	6600	3	1377	1	62	0	0	unchanged	0		20707,20717	Armaments of War
+8380	60	58	6600	2	1377	1	62	0	0	unchanged	0		20701,20712	Armaments of War
+8381	60	58	6600	3	1377	1	62	0	0	unchanged	0		20705,20716	Armaments of War
+8382	60	58	6600	3	1377	1	62	0	0	unchanged	0		20704,20714	Armaments of War
+8444	58	55		3	1377	1		0	0	unchanged	0			<NYI> <TXT> gossip shade of ambermoon
+8445	58	55		3	1377	1		0	0	unchanged	0			<NYI> <TXT> gossip shade of ambermoon
+8496	60	60	660	1	1377	1		0	0	unchanged	0		20800,20805	Bandages for the Field
+8497	60	60	660	1	1377	1		0	0	unchanged	0		20800,21132	Desert Survival Kits
+8498	60	60	660	3	1377	1	1	0	0	unchanged	0		20801,20809	Twilight Battle Orders
+8501	60	60	660	3	1377	1	1	0	0	unchanged	0		20802	Target: Hive'Ashi Stingers
+8502	60	60	660	3	1377	1	1	0	0	unchanged	0		20802	Target: Hive'Ashi Workers
+8507	60	60		1	1377	1	1	0	0	unchanged	0	20808,21132,20809		Field Duty
+8508	60	60		1	1377	1		0	0	unchanged	0		20810	Field Duty Papers
+8519	60	60	6600	3	1377	1		0	0	unchanged	0			A Pawn on the Eternal Board
+8534	60	60	660	3	1377	1	1	0	0	unchanged	0		20801,21133	Hive'Zora Scout Report
+8535	60	60	660	3	1377	1	1	0	0	unchanged	0		20801,20809	Hoary Templar
+8536	60	60	660	3	1377	1	1	0	0	unchanged	0		20801,21133	Earthen Templar
+8537	60	60	660	3	1377	1	1	0	0	unchanged	0		20801,20809	Crimson Templar
+8538	60	60	660	3	1377	1	1	0	0	unchanged	0		21508	The Four Dukes
+8539	60	60	660	3	1377	1	1	0	0	unchanged	0		20802	Target: Hive'Zora Hive Sisters
+8540	60	60	660	1	1377	1		0	0	unchanged	0		20800,21132	Boots for the Guard
+8541	60	60	660	1	1377	1		0	0	unchanged	0		20800,21132	Grinding Stones for the Guard
+8548	60	60	3300	3	1377	1		0	0	unchanged	0	21178,21179,21187		Volunteer's Battlegear
+8556	60	60	6600	3	3428	3	62	1	0	unchanged	0		21393	Signet of Unyielding Strength
+8557	60	60	6600	3	3428	3	62	1	0	unchanged	0		21394	Drape of Unyielding Strength
+8558	60	60	6600	3	3428	3	62	1	0	unchanged	0		21392	Sickle of Unyielding Strength
+8572	60	60	3300	3	1377	1		0	0	unchanged	0	21181,21182,21183		Veteran's Battlegear
+8573	60	60	3300	3	1377	1		0	0	unchanged	0	21188,21190,21180		Champion's Battlegear
+8574	60	60	3300	3	1377	1		0	0	unchanged	0	21184,21185,21186,21189		Stalwart's Battlegear
+8654	60	1		3	-366	9		0	0	unchanged	0		21100	Primestone the Elder
+8687	60	60	660	3	1377	1	1	0	0	unchanged	0		20802	Target: Hive'Zora Tunnelers
+8689	60	60	6600	3	3428	3	62	16	0	unchanged	0		21412	Shroud of Infinite Wisdom
+8690	60	60	6600	2	3428	3	62	64	0	unchanged	0		21400	Cloak of the Gathering Storm
+8691	60	60	6600	3	3428	3	62	128	0	unchanged	0		21415	Drape of Vaulted Secrets
+8692	60	60	6600	3	3428	3	62	1024	0	unchanged	0		21409	Cloak of Unending Life
+8693	60	60	6600	3	3428	3	62	8	0	unchanged	0		21406	Cloak of Veiled Shadows
+8694	60	60	6600	3	3428	3	62	256	0	unchanged	0		21418	Shroud of Unspoken Names
+8695	60	60	6600	1	3428	3	62	0	0	unchanged	0		21397	Cape of Eternal Justice
+8696	60	60	6600	3	3428	3	62	4	0	unchanged	0		21403	Cloak of the Unseen Path
+8697	60	60	6600	3	3428	3	62	16	0	unchanged	0		21411	Ring of Infinite Wisdom
+8698	60	60	6600	2	3428	3	62	64	0	unchanged	0		21399	Ring of the Gathering Storm
+8699	60	60	6600	3	3428	3	62	128	0	unchanged	0		21414	Band of Vaulted Secrets
+8700	60	60	6600	3	3428	3	62	1024	0	unchanged	0		21408	Band of Unending Life
+8701	60	60	6600	3	3428	3	62	8	0	unchanged	0		21405	Band of Veiled Shadows
+8702	60	60	6600	3	3428	3	62	256	0	unchanged	0		21417	Ring of Unspoken Names
+8703	60	60	6600	1	3428	3	62	2	0	unchanged	0		21396	Ring of Eternal Justice
+8704	60	60	6600	3	3428	3	62	4	0	unchanged	0		21402	Signet of the Unseen Path
+8705	60	60	6600	3	3428	3	62	16	0	unchanged	0		21410	Gavel of Infinite Wisdom
+8706	60	60	6600	2	3428	3	62	64	0	unchanged	0		21398	Hammer of the Gathering Storm
+8707	60	60	6600	3	3428	3	62	128	0	unchanged	0		21413	Blade of Vaulted Secrets
+8708	60	60	6600	3	3428	3	62	1024	0	unchanged	0		21407	Mace of Unending Life
+8709	60	60	6600	3	3428	3	62	8	0	unchanged	0		21404	Dagger of Veiled Shadows
+8710	60	60	6600	3	3428	3	62	256	0	unchanged	0		21416	Kris of Unspoken Names
+8711	60	60	6600	1	3428	3	62	2	0	unchanged	0		21395	Blade of Eternal Justice
+8712	60	60	6600	3	3428	3	62	4	0	unchanged	0		21401	Scythe of the Unseen Path
+8719	60	1		3	-366	9		0	0	unchanged	0		21100	Bladesing the Elder
+8731	60	60		2	1377	1	1	0	0	unchanged	0	20808,21266,20809		Field Duty
+8732	60	60		2	1377	1		0	0	unchanged	0		20810	Field Duty Papers
+8737	60	60	660	3	1377	1	1	0	0	unchanged	0		20801,21133	Azure Templar
+8738	60	60	660	3	1377	1	1	0	0	unchanged	0		20801,21133	Hive'Regal Scout Report
+8739	60	60	660	3	1377	1	1	0	0	unchanged	0		20801,20809	Hive'Ashi Scout Report
+8740	60	60	660	3	1377	1	1	0	0	unchanged	0		20801,21133	Twilight Marauders
+8743	60	60		3	1377	1	82	0	0	unchanged	0		21176	Bang a Gong!
+8745	60	60	6600	3	1377	1		0	0	unchanged	0	21523,21522,21521,21520		Treasure of the Timeless One
+8770	60	60	660	3	1377	1	1	0	0	unchanged	0		20802	Target: Hive'Ashi Defenders
+8771	60	60	660	3	1377	1	1	0	0	unchanged	0		20802	Target: Hive'Ashi Sandstalkers
+8772	60	60	660	3	1377	1	1	0	0	unchanged	0		20802	Target: Hive'Zora Waywatchers
+8773	60	60	660	3	1377	1	1	0	0	unchanged	0		20802	Target: Hive'Zora Reavers
+8774	60	60	660	3	1377	1	1	0	0	unchanged	0		20802	Target: Hive'Regal Ambushers
+8775	60	60	660	3	1377	1	1	0	0	unchanged	0		20802	Target: Hive'Regal Spitfires
+8776	60	60	660	3	1377	1	1	0	0	unchanged	0		20802	Target: Hive'Regal Slavemakers
+8777	60	60	660	3	1377	1	1	0	0	unchanged	0		20802	Target: Hive'Regal Burrowers
+8778	60	60	660	1	1377	1		0	0	unchanged	0		20800,20805	The Ironforge Brigade Needs Explosives!
+8779	60	60	660	1	1377	1		0	0	unchanged	0		20800,20805	Scrying Materials
+8780	60	60	660	1	1377	1		0	0	unchanged	0		20800,20805	Armor Kits for the Field
+8781	60	60	660	1	1377	1		0	0	unchanged	0		20800,20805	Arms for the Field
+8782	60	60	660	1	1377	1		0	0	unchanged	0		20800,21132	Uniform Supplies
+8783	60	60	660	1	1377	1		0	0	unchanged	0		20800,21132	Extraordinary Materials
+8785	60	60	660	2	1377	1		0	0	unchanged	0		20800,21386	The Orgrimmar Legion Needs Mojo!
+8786	60	60	660	2	1377	1		0	0	unchanged	0		20800,21386	Arms for the Field
+8787	60	60	660	2	1377	1		0	0	unchanged	0		20800,21386	Armor Kits for the Field
+8791	60	60	9950	3	3429	3	62	0	0	unchanged	0	21504,21507,21505,21506		The Fall of Ossirian
+8800	60	60		3	1377	1		0	0	unchanged	0			Cenarion Battlegear
+8801	60	60	9950	3	3428	3		0	0	updated	0			C'Thun's Legacy
+8802	60	60	9950	3	3428	3		0	0	updated	0	21712,21710,21709		The Savior of Kalimdor
+8804	60	60	660	2	1377	1		0	0	unchanged	0		20800,21266	Desert Survival Kits
+8805	60	60	660	2	1377	1		0	0	unchanged	0		20800,21266	Boots for the Guard
+8806	60	60	660	2	1377	1		0	0	unchanged	0		20800,21266	Grinding Stones for the Guard
+8807	60	60	660	2	1377	1		0	0	unchanged	0		20800,21386	Scrying Materials
+8808	60	60	660	2	1377	1		0	0	unchanged	0		20800,21266	Uniform Supplies
+8809	60	60	660	2	1377	1		0	0	unchanged	0		20800,21266	Extraordinary Materials
+8810	60	60	660	2	1377	1		0	0	unchanged	0		20800,21386	Bandages for the Field
+8829	60	60	660	3	1377	1	1	0	0	unchanged	0		21515	The Ultimate Deception
+8856					1377	1		0	0	unchanged	0		20800,20805	Desert Survival Kits
+8857	60	51	9950	3	1377	1		0	0	unchanged	27000		21528	Secrets of the Colossus - Ashi
+8858	60	51	9950	3	1377	1		0	0	unchanged	27000		21528	Secrets of the Colossus - Regal
+8859	60	51	9950	3	1377	1		0	0	unchanged	27000		21528	Secrets of the Colossus - Zora
+9023	60	60	6600	3	1377	1	62	0	0	unchanged	0	22378,22379,22377,22348,22347,22380		The Perfect Poison
+9248	60	58	6600	3	1377	1		0	0	unchanged	0		22725	A Humble Offering
+9338	60	60		3	1377	1		0	0	unchanged	0			Allegiance to Cenarion Circle
+9415	60	1		1	1377	1		0	0	unchanged	0			Report to Marshal Bluewall
+9416	60	1		2	1377	1		0	0	unchanged	0			Report to General Kirika
+9419	60	1	6600	1	1377	1	41	0	0	unchanged	0	13446,13444		Scouring the Desert
+9422	60	1	6600	2	1377	1	41	0	0	unchanged	0	13446,13444		Scouring the Desert

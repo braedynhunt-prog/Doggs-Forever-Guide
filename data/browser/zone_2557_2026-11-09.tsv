@@ -1,0 +1,62 @@
+ZONE	/forever/zone=2557/dire-maul
+1193	60	56		3	2557	2	81	0	0	unchanged	0			A Broken Trap
+1318	60	56	8300	3	2557	2	81	0	0	updated	0	18366,18367,18368,18369		Unfinished Gordok Business
+5518	60	56	6600	3	2557	2	81	0	0	unchanged	0		18258	The Gordok Ogre Suit
+5519	60	56		3	2557	2	81	0	0	unchanged	0		18258	The Gordok Ogre Suit
+5525	60	56	6600	3	2557	2	81	0	0	unchanged	0			Free Knot!
+5528	60	56		3	2557	2	81	0	0	unchanged	0		18269,18284	The Gordok Taste Test
+7429	60	56	660	3	2557	2	81	0	0	unchanged	0			Free Knot!
+7441	58	54	7750	3	2557	2	81	0	0	updated	17500	18411,18410		Pusillin and the Elder Azj'Tordin
+7461	60	56	9950	3	2557	2	81	0	0	unchanged	0			The Madness Within
+7462	60	56	660	3	2557	2	81	0	0	updated	27000	18420,18421,18424		The Treasure of the Shen'dralar
+7463	60	60	6600	3	2557	2	81	128	0	unchanged	0			Arcane Refreshment
+7481	60	54	8300	2	2557	2	81	0	0	updated	18000			Elven Legends
+7482	60	54	8300	1	2557	2	81	0	0	updated	18000			Elven Legends
+7483	60	54	1650	3	2557	2	81	0	0	updated	0		18329	Libram of Rapidity
+7484	60	54	1650	3	2557	2	81	0	0	unchanged	0		18330	Libram of Focus
+7485	60	54	1650	3	2557	2	81	0	0	unchanged	0		18331	Libram of Protection
+7488	57	54	7550	1	2557	2	81	0	0	updated	17000		18491	Lethtendris's Web
+7489	57	54	7550	2	2557	2	81	0	0	updated	17000		18491	Lethtendris's Web
+7492	57	54	1500	2	2557	2	81	0	0	unchanged	0			Camp Mojache
+7494	57	54	1500	1	2557	2	81	0	0	unchanged	0			Feathermoon Stronghold
+7498	60	54	6600	3	2557	2	81	0	0	updated	0		18465	Garona: A Study on Stealth and Treachery
+7499	60	54	6600	3	2557	2	81	0	0	updated	0		18466	Codex of Defense
+7500	60	54	6600	3	2557	2	81	0	0	updated	0		18468	The Arcanist's Cookbook
+7501	60	54	6600	1	2557	2	81	0	0	updated	0		18472	The Light and How To Swing It
+7502	60	54	6600	3	2557	2	81	0	0	updated	0		18467	Harnessing Shadows
+7503	60	54	6600	3	2557	2	81	0	0	updated	0		18473	The Greatest Race of Hunters
+7504	60	54	6600	3	2557	2	81	0	0	updated	0		18469	Holy Bologna: What the Light Won't Tell You
+7505	60	54	6600	2	2557	2	81	0	0	updated	0		18471	Frost Shock and You
+7506	60	54	6600	3	2557	2	81	0	0	updated	0		18470	The Emerald Dream...
+7507	60	60	9950	3	2557	2	81	0	0	updated	0			Foror's Compendium
+7508	60	60		3	2557	2	81	0	0	unchanged	0			The Forging of Quel'Serrar
+7509	60	60	9950	3	2159	3	62	3	0	updated	0		18348	The Forging of Quel'Serrar
+7631	60	60	6600	3	-61	4	81	256	0	unchanged	0			Dreadsteed of Xoroth
+7643	60	60	4950	1	-141	4	81	2	5	unchanged	0			Ancient Equine Spirit
+7644	60	60	8300	1	-141	4		2	5	unchanged	0			Blessed Arcanite Barding
+7649	60	50	6600	3	-121	5	81	0	0	unchanged	0		12727	Enchanted Thorium Platemail: Volume I
+7650	60	50	6600	3	-121	5	81	0	0	unchanged	0		12726	Enchanted Thorium Platemail: Volume II
+7651	60	50	6600	3	-121	5	81	0	0	unchanged	0		12725	Enchanted Thorium Platemail: Volume III
+7703	60	56	8300	3	2557	2	81	0	0	updated	0	18366,18367,18368,18369		Unfinished Gordok Business
+7877	60	56	660	3	2557	2	81	0	0	updated	27000	18420,18421,18424		The Treasure of the Shen'dralar
+8948	60	58	6600	3	2557	2	81	0	0	unchanged	0			Anthion's Old Friend
+8949	60	58	6600	3	2557	2	81	0	0	unchanged	0	22150,22149		Falrin's Vendetta
+8950	60	58	6600	3	2557	2	81	0	0	unchanged	0			The Instigator's Enchantment
+8951	60	58	9950	1	1537	0	81	0	0	unchanged	0		22107,22111,22112	Anthion's Parting Words
+8952	60	58	9950	1	1537	0	81	0	0	unchanged	0		22061,22017,22016	Anthion's Parting Words
+8953	60	58	9950	3	1537	0	81	0	0	unchanged	0		22064,22067,22068	Anthion's Parting Words
+8954	60	58	9950	1	1537	0	81	0	0	unchanged	0		22087,22092,22093	Anthion's Parting Words
+8955	60	58	9950	1	1537	0	81	0	0	unchanged	0		22084,22085,22082	Anthion's Parting Words
+8956	60	58	9950	1	1537	0	81	0	0	unchanged	0		22003,22007,22008	Anthion's Parting Words
+8957	60	58	9950	2	1637	1	81	0	0	unchanged	0		22096,22100,22101	Anthion's Parting Words
+8958	60	58	9950	1	1537	0	81	0	0	unchanged	0		22076,22072,22073	Anthion's Parting Words
+8959	60	58	9950	1	1537	0	81	0	0	unchanged	0		21995,22000,22001	Anthion's Parting Words
+8967	60	58	8300	3	2557	2	81	0	0	unchanged	0			The Left Piece of Lord Valthalak's Amulet
+8990	60	58	8300	3	2557	2	81	9	0	unchanged	0			The Right Piece of Lord Valthalak's Amulet
+9015	60	58	6600	3	1584	2	81	0	0	unchanged	0			The Challenge
+9016	60	58	9950	2	1637	1	81	0	0	unchanged	0		22107,22111,22112	Anthion's Parting Words
+9017	60	58	9950	2	1637	1	81	0	0	unchanged	0		22061,22017,22016	Anthion's Parting Words
+9019	60	58	9950	3	1637	1	81	0	0	unchanged	0		22084,22085,22082	Anthion's Parting Words
+9020	60	58	9950	2	1637	1	81	0	0	unchanged	0		22003,22007,22008	Anthion's Parting Words
+9021	60	58	9950	2	1637	1	81	0	0	unchanged	0		22076,22072,22073	Anthion's Parting Words
+9022	60	58	9950	2	1637	1	81	0	0	unchanged	0		21995,22000,22001	Anthion's Parting Words

@@ -1,0 +1,257 @@
+ZONE	/forever/zone=139/eastern-plaguelands
+4771	60	57	9950	3	2057	2	81	0	0	updated	27000	15853,15854		Dawn's Gambit
+5065	58	40	7750	3	139	0	1	0	0	unchanged	0			The Lost Tablets of Mosh'aru
+5142	55	50	2800	3	139	0		0	0	unchanged	0			Little Pamela
+5149	55	50	2800	3	139	0		0	0	unchanged	0			Pamela's Doll
+5152	56	50	2900	3	139	0		0	0	unchanged	0			Auntie Marlene
+5153	56	50	4350	3	139	0	1	0	0	unchanged	0			A Strange Historian
+5168	56	50	5800	3	139	0	1	0	0	unchanged	0			Heroes of Darrowshire
+5181	57	50	6000	3	139	0		0	0	unchanged	0			Villains of Darrowshire
+5206	60	50	6600	3	139	0		0	0	unchanged	0			Marauders of Darrowshire
+5210	56	50	2900	3	139	0		0	0	unchanged	0			Brother Carlin
+5211	55	50	5650	3	139	0		0	0	unchanged	0			Defenders of Darrowshire
+5212	60	55	6600	3	2017	2	81	0	0	unchanged	18000			The Flesh Does Not Lie
+5213	60	55	6600	3	2017	2	81	0	0	updated	0	13209,19812		The Active Agent
+5214	60	55	8300	3	2017	2	81	0	0	updated	0		13171	The Great Fras Siabi
+5241	56	50	2900	3	139	0		0	0	unchanged	0			Uncle Carlin
+5243	60	55	6600	3	2017	2	81	0	0	updated	18000	13216,13217	3928,6149	Houses of the Holy
+5245	56	53	5800	1	618	1		0	0	unchanged	0			Troubled Spirits of Kel'Theril
+5246	56	53	5800	1	139	0		0	0	unchanged	0			Fragments of the Past
+5247	57	53	6000	1	139	0	1	0	0	unchanged	0			Fragments of the Past
+5248	58	53	4650	1	139	0		0	0	unchanged	0			Tormented By the Past
+5251	60	55	8300	3	2017	2	81	0	0	unchanged	18000			The Archivist
+5262	60	55	8300	3	2017	2	81	0	0	unchanged	0			The Truth Comes Crashing Down
+5263	60	55	8300	3	2017	2	81	0	0	unchanged	0			Above and Beyond
+5264	60	55	6600	3	139	0	1	0	0	unchanged	0			Lord Maxwell Tyrosus
+5265	60	55	9950	3	139	0	1	0	0	updated	27000	13246,13243,13249		The Argent Hold
+5281	60	55	6600	3	139	0	81	0	0	unchanged	0			The Restless Souls
+5282	60	55	8300	3	2017	2	81	0	0	updated	18000		13315	The Restless Souls
+5462	60	57	4950	3	28	0	1	0	0	unchanged	0			The Dying, Ras Frostwhisper
+5463	60	57	6600	3	2017	2	81	0	0	unchanged	0			Menethil's Gift
+5464	60	57	8300	3	139	0	1	0	0	unchanged	0			Menethil's Gift
+5465	60	57	4950	3	28	0	1	0	0	unchanged	0			Soulbound Keepsake
+5503	55	50	560	3	139	0		0	0	unchanged	0		12846	Argent Dawn Commission
+5508	55	50	560	3	139	0		0	0	unchanged	0		12844	Corruptor's Scourgestones
+5509	55	50	560	3	139	0		0	0	unchanged	0		12844	Invader's Scourgestones
+5510	55	50	560	3	139	0		0	0	unchanged	0		12844	Minion's Scourgestones
+5513	60	55	6600	3	139	0		0	0	unchanged	0			Mantles of the Dawn
+5517	60	55	8300	3	139	0		0	0	unchanged	0		18182	Chromatic Mantle of the Dawn
+5522	60	57	4950	3	46	0	81	0	0	unchanged	0			Leonid Barthalomew
+5529	58	55	6200	3	2057	2	81	0	0	unchanged	9000			Plagued Hatchlings
+5531	60	57	1650	3	2057	2	81	0	0	unchanged	0			Betina Bigglezink
+5532	58	53		3	139	0		0	0	unchanged	0		13812	<NYI> <TXT> Ring of the Dawn
+5542	56	52	5800	3	139	0		0	0	unchanged	0			Demon Dogs
+5543	56	52	5800	3	139	0		0	0	unchanged	0			Blood Tinged Skies
+5544	56	52	5800	3	139	0		0	0	unchanged	0			Carrion Grubbage
+5582	58	55		3	2057	2	81	0	0	unchanged	0			Healthy Dragon Scale
+5601	55	50	560	3	139	0		0	0	unchanged	0			Sister Pamela
+5721	60	55	8300	3	139	0	62	0	0	unchanged	0		15723	The Battle of Darrowshire
+5742	56	52	580	3	139	0		0	0	unchanged	0			Redemption
+5781	57	52	6000	3	139	0		0	0	unchanged	0			Of Forgotten Memories
+5845	58	52	6200	3	139	0		0	0	unchanged	0			Of Lost Honor
+5846	58	52	6200	3	139	0		0	0	unchanged	0			Of Love and Family
+5848	60	52	6600	3	2017	2	81	0	0	unchanged	0			Of Love and Family
+5861	60	52	4950	3	28	0		0	0	unchanged	0			Find Myranda
+5941	60	50	3300	3	139	0		0	0	unchanged	0			Return to Chromie
+5942	60	50	9950	3	139	0		0	0	unchanged	0		15855,15856,15857	Hidden Treasures
+5961	56	54	1450	2	1497	0		0	0	unchanged	0			The Champion of the Banshee Queen
+6021	55	50	4200	3	139	0		0	0	unchanged	8500			Zaeldarr the Outcast
+6022	58	54	6200	2	139	0		0	0	unchanged	9000			To Kill With Purpose
+6024	60	54	6600	3	139	0		0	0	unchanged	9000		15814,15815	Hameya's Plea
+6026	58	54	6200	3	139	0		0	0	unchanged	17500			That's Asking A Lot
+6030	52	50	2550	3	618	1		0	0	unchanged	4000			Duke Nicholas Zverenhoff
+6041	58	54	6200	3	139	0	1	0	0	unchanged	26500	16992,16993	5951,17523	When Smokey Sings, I Get Violent
+6042	58	54	6200	2	139	0		0	0	unchanged	9000			Un-Life's Little Annoyances
+6133	60	54	6600	2	139	0		0	0	unchanged	9000			The Ranger Lord's Behest
+6135	60	56	6600	2	139	0	1	0	0	unchanged	9000	16994,16995		Duskwing, Oh How I Hate Thee...
+6136	60	56	6600	2	139	0	1	0	0	unchanged	9000	17002,17003,17004		The Corpulent One
+6144	60	56	660	2	139	0		0	0	unchanged	0			The Call to Command
+6145	60	56	6600	2	139	0	1	0	0	unchanged	0			The Crimson Courier
+6146	60	56	6600	2	139	0	1	0	0	unchanged	0			Nathanos' Ruse
+6147	60	56	3300	2	139	0	1	0	0	unchanged	0			Return to Nathanos
+6148	60	56	8300	2	139	0	1	0	0	unchanged	18000	16996,16997,16998		The Scarlet Oracle, Demetria
+6163	60	56	6600	2	2017	2	81	0	0	updated	18000	18022,17001		Ramstein
+6164	55	50	1400	3	139	0		0	0	unchanged	0			Augustus' Receipt Book
+6185	60	56	8300	1	139	0	1	0	0	unchanged	0			The Eastern Plagues
+6187	60	56	9950	1	139	0	62	0	0	unchanged	0	16996,16997,16998		Order Must Be Restored
+7621	60	60		3	-262	4		16	0	unchanged	0			A Warning
+7622	60	60	9950	3	-262	4		16	0	unchanged	0		18659	The Balance of Light and Shadow
+7644	60	60	8300	1	-141	4		2	5	unchanged	0			Blessed Arcanite Barding
+7668	60	58	9950	2	-82	4	81	64	0	unchanged	0		18807	The Darkreaver Menace
+8258	60	58	9950	2	-82	4	81	64	0	updated	0		20134	The Darkreaver Menace
+8650	60	1		3	-366	9		0	0	unchanged	0		21100	Snowcrown the Elder
+8688	60	1		3	-366	9		0	0	unchanged	0		21100	Windrun the Elder
+8859	60	51	9950	3	1377	1		0	0	unchanged	27000		21528	Secrets of the Colossus - Zora
+8929	60	58	6600	1	139	0		0	0	unchanged	0			In Search of Anthion
+8930	60	58	6600	2	139	0		0	0	unchanged	0			In Search of Anthion
+8946	60	58	6600	3	139	0		0	0	unchanged	0			Proof of Life
+8947	60	58	6600	3	139	0		0	0	unchanged	0			Anthion's Strange Request
+9033	60	60	6600	3	3456	3	62	0	0	unchanged	0			Echoes of War
+9034	60	60		3	3456	3	62	1	0	unchanged	0		22416	Dreadnaught Breastplate
+9036	60	60		3	3456	3	62	1	0	unchanged	0		22417	Dreadnaught Legplates
+9037	60	60		3	3456	3	62	1	0	unchanged	0		22418	Dreadnaught Helmet
+9038	60	60		3	3456	3	62	1	0	unchanged	0		22419	Dreadnaught Pauldrons
+9039	60	60		3	3456	3	62	1	0	unchanged	0		22420	Dreadnaught Sabatons
+9040	60	60		3	3456	3	62	1	0	unchanged	0		22421	Dreadnaught Gauntlets
+9041	60	60		3	3456	3	62	1	0	unchanged	0		22422	Dreadnaught Waistguard
+9042	60	60		3	3456	3	62	1	0	unchanged	0		22423	Dreadnaught Bracers
+9043	60	60		3	3456	3	62	0	0	unchanged	0		22425	Redemption Tunic
+9044	60	60		1	3456	3	62	0	0	unchanged	0		22427	Redemption Legguards
+9045	60	60		3	3456	3	62	0	0	unchanged	0		22428	Redemption Headpiece
+9046	60	60		1	3456	3	62	0	0	unchanged	0		22429	Redemption Spaulders
+9047	60	60		1	3456	3	62	0	0	unchanged	0		22430	Redemption Boots
+9048	60	60		1	3456	3	62	0	0	unchanged	0		22426	Redemption Handguards
+9049	60	60		1	3456	3	62	0	0	unchanged	0		22431	Redemption Girdle
+9050	60	60		3	3456	3	62	0	0	unchanged	0		22424	Redemption Wristguards
+9054	60	60		3	3456	3	62	0	0	unchanged	0		22436	Cryptstalker Tunic
+9055	60	60		3	3456	3	62	4	0	unchanged	0		22437	Cryptstalker Legguards
+9056	60	60		3	3456	3	62	0	0	unchanged	0		22438	Cryptstalker Headpiece
+9057	60	60		3	3456	3	62	4	0	unchanged	0		22439	Cryptstalker Spaulders
+9058	60	60		3	3456	3	62	4	0	unchanged	0		22440	Cryptstalker Boots
+9059	60	60		3	3456	3	62	4	0	unchanged	0		22441	Cryptstalker Handguards
+9060	60	60		3	3456	3	62	4	0	unchanged	0		22442	Cryptstalker Girdle
+9061	60	60		3	3456	3	62	4	0	unchanged	0		22443	Cryptstalker Wristguards
+9068	60	60		2	3456	3	62	0	0	unchanged	0		22464	Earthshatter Tunic
+9069	60	60		2	3456	3	62	0	0	unchanged	0		22465	Earthshatter Legguards
+9070	60	60		2	3456	3	62	0	0	unchanged	0		22466	Earthshatter Headpiece
+9071	60	60		2	3456	3	62	0	0	unchanged	0		22467	Earthshatter Spaulders
+9072	60	60		2	3456	3	62	0	0	unchanged	0		22468	Earthshatter Boots
+9073	60	60		2	3456	3	62	0	0	unchanged	0		22469	Earthshatter Handguards
+9074	60	60		2	3456	3	62	0	0	unchanged	0		22470	Earthshatter Girdle
+9075	60	60		2	3456	3	62	0	0	unchanged	0		22471	Earthshatter Wristguards
+9077	60	60		3	3456	3	62	0	0	unchanged	0		22476	Bonescythe Breastplate
+9078	60	60		3	3456	3	62	0	0	unchanged	0		22477	Bonescythe Legplates
+9079	60	60		3	3456	3	62	0	0	unchanged	0		22478	Bonescythe Helmet
+9080	60	60		3	3456	3	62	0	0	unchanged	0		22479	Bonescythe Pauldrons
+9081	60	60		3	3456	3	62	0	0	unchanged	0		22480	Bonescythe Sabatons
+9082	60	60		3	3456	3	62	8	0	unchanged	0		22481	Bonescythe Gauntlets
+9083	60	60		3	3456	3	62	8	0	unchanged	0		22482	Bonescythe Waistguard
+9084	60	60		3	3456	3	62	8	0	unchanged	0		22483	Bonescythe Bracers
+9085	60	50		3	-368	7		0	0	unchanged	0	23123,23122		Shadows of Doom
+9086	60	60		3	3456	3	62	0	0	unchanged	0		22488	Dreamwalker Tunic
+9087	60	60		3	3456	3	62	0	0	unchanged	0		22489	Dreamwalker Legguards
+9088	60	60		3	3456	3	62	0	0	unchanged	0		22490	Dreamwalker Headpiece
+9089	60	60		3	3456	3	62	0	0	unchanged	0		22491	Dreamwalker Spaulders
+9090	60	60		3	3456	3	62	0	0	unchanged	0		22492	Dreamwalker Boots
+9091	60	60		3	3456	3	62	0	0	unchanged	0		22493	Dreamwalker Handguards
+9092	60	60		3	3456	3	62	0	0	unchanged	0		22494	Dreamwalker Girdle
+9093	60	60		3	3456	3	62	0	0	unchanged	0		22495	Dreamwalker Wristguards
+9094	60	50		1	0	-2		0	0	unchanged	0	23084,23081,23082,23078		Argent Dawn Gloves
+9095	60	60		3	3456	3	62	0	0	unchanged	0		22496	Frostfire Robe
+9096	60	60		3	3456	3	62	0	0	unchanged	0		22497	Frostfire Leggings
+9097	60	60		3	3456	3	62	128	0	unchanged	0		22498	Frostfire Circlet
+9098	60	60		3	3456	3	62	0	0	unchanged	0		22499	Frostfire Shoulderpads
+9099	60	60		3	3456	3	62	0	0	unchanged	0		22500	Frostfire Sandals
+9100	60	60		3	3456	3	62	0	0	unchanged	0		22501	Frostfire Gloves
+9101	60	60		3	3456	3	62	0	0	unchanged	0		22502	Frostfire Belt
+9102	60	60		3	3456	3	62	0	0	unchanged	0		22503	Frostfire Bindings
+9103	60	60		3	3456	3	62	0	0	unchanged	0		22504	Plagueheart Robe
+9104	60	60		3	3456	3	62	0	0	unchanged	0		22505	Plagueheart Leggings
+9105	60	60		3	3456	3	62	0	0	unchanged	0		22506	Plagueheart Circlet
+9106	60	60		3	3456	3	62	256	0	unchanged	0		22507	Plagueheart Shoulderpads
+9107	60	60		3	3456	3	62	256	0	unchanged	0		22508	Plagueheart Sandals
+9108	60	60		3	3456	3	62	0	0	unchanged	0		22509	Plagueheart Gloves
+9109	60	60		3	3456	3	62	256	0	unchanged	0		22510	Plagueheart Belt
+9110	60	60		3	3456	3	62	0	0	unchanged	0		22511	Plagueheart Bindings
+9111	60	60		3	3456	3	62	0	0	unchanged	0		22512	Robe of Faith
+9112	60	60		3	3456	3	62	16	0	unchanged	0		22513	Leggings of Faith
+9113	60	60		3	3456	3	62	16	0	unchanged	0		22514	Circlet of Faith
+9114	60	60		3	3456	3	62	16	0	unchanged	0		22515	Shoulderpads of Faith
+9115	60	60		3	3456	3	62	0	0	unchanged	0		22516	Sandals of Faith
+9116	60	60		3	3456	3	62	16	0	unchanged	0		22517	Gloves of Faith
+9117	60	60		3	3456	3	62	16	0	unchanged	0		22518	Belt of Faith
+9118	60	60		3	3456	3	62	16	0	unchanged	0		22519	Bindings of Faith
+9120	60	60	9950	3	3456	3		0	0	unchanged	0	23206,23207		The Fall of Kel'Thuzad
+9121	60	60		3	139	0		0	0	unchanged	0			The Dread Citadel - Naxxramas
+9122	60	60		3	139	0		0	0	unchanged	0			The Dread Citadel - Naxxramas
+9123	60	60		3	139	0		0	0	unchanged	0			The Dread Citadel - Naxxramas
+9124	60	55	6600	3	139	0		0	0	unchanged	0		22524	Cryptstalker Armor Doesn't Make Itself...
+9125	60	55		3	139	0		0	0	unchanged	900		22524	Crypt Fiend Parts
+9126	60	55	6600	3	139	0		0	0	unchanged	0		22524	Bonescythe Digs
+9127	60	55		3	139	0		0	0	unchanged	900		22524	Bone Fragments
+9128	60	55	6600	3	139	0		0	0	unchanged	0		22523	The Elemental Equation
+9129	60	55		3	139	0		0	0	unchanged	900		22523	Core of Elements
+9131	60	55	6600	3	139	0		0	0	unchanged	0		22523	Binding the Dreadnaught
+9132	60	55		3	139	0		0	0	unchanged	900		22523	Dark Iron Scraps
+9136	60	55	6600	3	139	0		0	0	unchanged	0	22524,22523		Savage Flora
+9137	60	55		3	139	0		0	0	unchanged	900	22523,22524		Savage Fronds
+9141	60	55	3300	3	139	0		0	0	unchanged	0		22568	They Call Me "The Rooster"
+9142	60	55		3	139	0		0	0	unchanged	0		22568	Craftsman's Writ
+9153	60	50		3	-368	7		0	0	unchanged	0	23123,23122		Under the Shadow
+9154	60	50		3	-368	7		0	0	unchanged	0			Light's Hope Chapel
+9165	60	55		3	139	0		0	0	unchanged	0	22523,22524		Writ of Safe Passage
+9178	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Dense Weightstone
+9179	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Imperial Plate Chest
+9181	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Volcanic Hammer
+9182	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Huge Thorium Battleaxe
+9183	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Radiant Circlet
+9184	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Wicked Leather Headband
+9185	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Rugged Armor Kit
+9186	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Wicked Leather Belt
+9187	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Runic Leather Pants
+9188	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Brightcloth Pants
+9190	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Runecloth Boots
+9191	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Runecloth Bag
+9194	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Runecloth Robe
+9195	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Goblin Sapper Charge
+9196	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Thorium Grenade
+9197	60	55		1	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Gnomish Battle Chicken
+9198	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Thorium Tube
+9200	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Major Mana Potion
+9201	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Greater Arcane Protection Potion
+9202	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Major Healing Potion
+9203	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Flask of Petrification
+9204	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Stonescale Eel
+9205	60	55		3	139	0		0	0	updated	0	22524,22523		Craftsman's Writ - Plated Armorfish
+9206	60	55		3	139	0		0	0	unchanged	0	22524,22523		Craftsman's Writ - Lightning Eel
+9211	60	60		3	139	0		0	0	unchanged	0		22636	The Ice Guard
+9213	60	60		3	139	0		0	0	unchanged	0		22638	The Shadow Guard
+9221	60	55		3	139	0		0	0	unchanged	0	22681,22680,22688,22679,22690,22689		Superior Armaments of Battle - Friend of the Dawn
+9222	60	55		3	139	0		0	0	unchanged	0	22657,22667,22668,22659,22678,22656		Epic Armaments of Battle - Friend of the Dawn
+9223	60	55		3	139	0		0	0	unchanged	0	22681,22680,22688,22679,22690,22689		Superior Armaments of Battle - Honored Amongst the Dawn
+9224	60	55		3	139	0		0	0	unchanged	0	22657,22667,22668,22659,22678,22656		Epic Armaments of Battle - Honored Amongst the Dawn
+9225	60	55		3	139	0		0	0	unchanged	0	22657,22667,22668,22659,22678,22656		Epic Armaments of Battle - Revered Amongst the Dawn
+9226	60	55		3	139	0		0	0	unchanged	0	22681,22680,22688,22679,22690,22689		Superior Armaments of Battle - Revered Amongst the Dawn
+9227	60	55		3	139	0		0	0	unchanged	0	22681,22680,22688,22679,22690,22689		Superior Armaments of Battle - Exalted Amongst the Dawn
+9228	60	55		3	139	0		0	0	unchanged	0	22657,22667,22668,22659,22678,22656		Epic Armaments of Battle - Exalted Amongst the Dawn
+9229	60	60	6600	3	3456	3	62	0	0	unchanged	0			The Fate of Ramaladni
+9230	60	60	6600	3	3456	3	62	0	0	unchanged	0		22707	Ramaladni's Icy Grasp
+9232	60	60	6600	3	3456	3	62	0	0	unchanged	0	22700,22699,22702,22701		The Only Song I Know...
+9233	60	60		3	3456	3	62	0	0	unchanged	0			Omarion's Handbook
+9234	60	60		3	3456	3	62	0	0	unchanged	0		22670	Icebane Gauntlets
+9235	60	60		3	3456	3	62	0	0	unchanged	0		22671	Icebane Bracers
+9236	60	60		3	3456	3	62	0	0	unchanged	0		22669	Icebane Breastplate
+9237	60	60		3	3456	3	62	0	0	unchanged	0		22658	Glacial Cloak
+9238	60	60		1	3456	3	62	0	0	unchanged	0		22655	Glacial Wrists
+9239	60	60		1	3456	3	62	0	0	unchanged	0		22654	Glacial Gloves
+9240	60	60		1	3456	3	62	0	0	unchanged	0		22652	Glacial Vest
+9241	60	60		3	3456	3	62	0	0	unchanged	0		22663	Polar Bracers
+9242	60	60		3	3456	3	62	0	0	unchanged	0		22662	Polar Gloves
+9243	60	60		3	3456	3	62	0	0	unchanged	0		22661	Polar Tunic
+9244	60	60		3	3456	3	62	0	0	unchanged	0		22665	Icy Scale Bracers
+9245	60	60		3	3456	3	62	0	0	unchanged	0		22666	Icy Scale Gauntlets
+9246	60	60		3	3456	3	62	0	0	unchanged	0		22664	Icy Scale Breastplate
+9247	60	1	660	3	-368	7		0	0	unchanged	0	23123,23122		The Keeper's Call
+9295	60	45	3300	3	-368	7		0	0	unchanged	0			Letter from the Front
+9299	60	45	3300	3	-368	7		0	0	unchanged	0			Note from the Front
+9300	60	45	3300	3	-368	7		0	0	unchanged	0			Page from the Front
+9301	60	45	3300	3	-368	7		0	0	unchanged	0			Envelope from the Front
+9302	60	45	3300	3	-368	7		0	0	unchanged	0			Missive from the Front
+9304	60	45	3300	3	-368	7		0	0	unchanged	0			Document from the Front
+9317	60	50		1	0	-2		0	0	unchanged	0		23122	Consecrated Sharpening Stones
+9318	60	50		1	0	-2		0	0	unchanged	0		23123	Blessed Wizard Oil
+9320	60	50		2	0	-2		0	0	unchanged	0		13444	Major Mana Potion
+9321	60	50		1	0	-2		0	0	unchanged	0		13446	Major Healing Potion
+9333	60	50		2	0	-2		0	0	unchanged	0	23084,23081,23082,23078		Argent Dawn Gloves
+9334	60	50		2	0	-2		0	0	unchanged	0		23123	Blessed Wizard Oil
+9335	60	50		2	0	-2		0	0	unchanged	0		23122	Consecrated Sharpening Stones
+9336	60	50		2	0	-2		0	0	unchanged	0		13446	Major Healing Potion
+9337	60	50		1	0	-2		0	0	unchanged	0		13444	Major Mana Potion
+9341	60	50		1	-368	7		0	0	unchanged	0		22999	Tabard of the Argent Dawn
+9343	60	50		2	-368	7		0	0	unchanged	0		22999	Tabard of the Argent Dawn
+9664	60	55	6600	1	139	0	41	0	0	unchanged	9000			Establishing New Outposts
+9665	60	55	6600	2	139	0	41	0	0	unchanged	9000			Bolstering Our Defenses
+84318	57	54	6000		-141	4		2	0	unconfirmed	0			Oi!
+97986	57	53	600		139	0		0	0		0			Argent Arbiter
+97987	57	53	6000	1	139	0		0	0		0	281286,281288		Stormwind's High Order
+98109	57	53	600		139	0		0	0		0			Bleeding Edge

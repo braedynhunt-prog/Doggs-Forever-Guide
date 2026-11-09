@@ -1,0 +1,66 @@
+ZONE	/forever/zone=1584/blackrock-depths
+3801	52	48	510	3	1584	2	81	0	0	unchanged	0			Dark Iron Legacy
+3802	52	48	5100	3	1584	2	81	0	0	unchanged	23000		11000	Dark Iron Legacy
+3907	56	48	7300	2	1584	2	81	0	0	updated	25500	12113,12114,12112,12115		Disharmony of Fire
+3911	54	48	5450		1584	2	1	0	0	updated	24500		12038	The Last Element
+3981	52	48	5100	2	1584	2	81	0	0	unchanged	0			Commander Gor'shak
+3982	54	48	5450	2	1584	2	81	0	0	unchanged	0			What Is Going On?
+4001	54	48	6800	2	1584	2	81	0	0	unchanged	0			What Is Going On?
+4002	54	48	540	2	1584	2	81	0	0	unchanged	0			The Eastern Kingdoms
+4003	59	48	8050	3	1584	2	81	0	0	updated	0			The Royal Rescue
+4004	60	48	9950	3	1584	2	81	0	0	updated	27000	12544,12545		The Princess Saved?
+4024	58	52	6200	3	1584	2	81	0	0	updated	26500	12066,12082,12083		A Taste of Flame
+4063	58	52	6200	2	1584	2	81	0	0	updated	26500	12109,12110,12108,12111		The Rise of the Machines
+4081	52	48	5100	2	1584	2	81	0	0	unchanged	15500			KILL ON SIGHT: Dark Iron Dwarves
+4082	54	50	5450	2	1584	2	81	0	0	unchanged	16500			KILL ON SIGHT: High Ranking Dark Iron Officials
+4083	55	40	5650	3	1584	2	81	0	0	unchanged	0			The Spectral Chalice
+4121	58	52	7750	2	1584	2	81	0	0	unchanged	26500			Precarious Predicament
+4122	58	52	6200	2	1584	2	81	0	0	unchanged	0			Grark Lorkrub
+4123	55	50	5650	3	1584	2	81	0	0	unchanged	8500			The Heart of the Mountain
+4126	55	50	7050	1	1584	2	81	0	0	updated	16500	11964,12000	12003	Hurley Blackbreath
+4128	55	50	560	1	1584	2	81	0	0	unchanged	0			Ragnar Thunderbrew
+4132	58	52	7750	2	1584	2	81	0	0	updated	26500		12059	Operation: Death to Angerforge
+4133	55	50	560	2	1584	2	81	0	0	unchanged	0			Vivian Lagrave
+4134	55	50	5650	2	1584	2	81	0	0	updated	8500	11964,12000	3928,6149	Lost Thunderbrew Recipe
+4136	53	48	2650	3	1584	2	81	0	0	updated	6000	11865,11963,12049		Ribbly Screwspigot
+4201	54	50	5450	3	1584	2	81	0	0	updated	8000	11962,11866		The Love Potion
+4241	54	48	5450	1	1584	2	81	0	0	unchanged	0			Marshal Windsor
+4242	54	48	5450	1	1584	2	81	0	0	unchanged	0	12018,12021,12041		Abandoned Hope
+4263	56	48	5800	1	1584	2	81	0	0	updated	8500	12113,12114,12112,12115		Incendius!
+4264	58	50	6200	1	1584	2	81	0	0	unchanged	0			A Crumpled Up Note
+4282	58	50	6200	1	1584	2	81	0	0	unchanged	9000			A Shred of Hope
+4286	56	50	5800	1	1584	2	81	0	0	unchanged	8500		11883	The Good Stuff
+4295	1	1		3	1584	2	81	0	0	unchanged	0			Rocknot's Ale
+4299	50	50	4700	3	1584	2	81	0	0	unchanged	22000			<NYI> <TXT>The Tomb of the Seven
+4322	58	50	7750	1	1584	2	81	0	0	updated	17500	12061,12062	12065	Jail Break!
+4324	53	48		3	1584	2	81	0	0	unchanged	0			Yuka Screwspigot
+4341	59	50	6400	1	1584	2	81	0	0	unchanged	0			Kharan Mighthammer
+4342	59	50	1600	1	1584	2	81	0	0	unchanged	0			Kharan's Tale
+4361	59	50	6400	1	1584	2	81	0	0	unchanged	0			The Bearer of Bad News
+4362	59	50	8050	1	1584	2	81	0	0	unchanged	0			The Fate of the Kingdom
+4363	59	50	9650	1	1584	2	81	0	0	updated	26500	12548,12543		The Princess's Surprise
+6642	60	60		3	2717	3	81	0	0	unchanged	0			Favor Amongst the Brotherhood, Dark Iron Ore
+6643	60	60		3	2717	3	81	0	0	unchanged	0			Favor Amongst the Brotherhood, Fiery Core
+6644	60	60		3	2717	3	81	0	0	unchanged	0			Favor Amongst the Brotherhood, Lava Core
+6645	60	60		3	2717	3	81	0	0	unchanged	0			Favor Amongst the Brotherhood, Core Leather
+6646	60	60		3	2717	3	81	0	0	unchanged	0			Favor Amongst the Brotherhood, Blood of the Mountain
+7201	54	48	5450	2	1584	2	81	0	0	updated	24500		12038	The Last Element
+7604	60	60	6600	3	1584	2	81	0	0	unchanged	0		18592	A Binding Contract
+8619	60	1		3	-366	9		0	0	unchanged	0		21100	Morndeep the Elder
+8951	60	58	9950	1	1537	0	81	0	0	unchanged	0		22107,22111,22112	Anthion's Parting Words
+8952	60	58	9950	1	1537	0	81	0	0	unchanged	0		22061,22017,22016	Anthion's Parting Words
+8953	60	58	9950	3	1537	0	81	0	0	unchanged	0		22064,22067,22068	Anthion's Parting Words
+8954	60	58	9950	1	1537	0	81	0	0	unchanged	0		22087,22092,22093	Anthion's Parting Words
+8955	60	58	9950	1	1537	0	81	0	0	unchanged	0		22084,22085,22082	Anthion's Parting Words
+8956	60	58	9950	1	1537	0	81	0	0	unchanged	0		22003,22007,22008	Anthion's Parting Words
+8957	60	58	9950	2	1637	1	81	0	0	unchanged	0		22096,22100,22101	Anthion's Parting Words
+8958	60	58	9950	1	1537	0	81	0	0	unchanged	0		22076,22072,22073	Anthion's Parting Words
+8959	60	58	9950	1	1537	0	81	0	0	unchanged	0		21995,22000,22001	Anthion's Parting Words
+9015	60	58	6600	3	1584	2	81	0	0	unchanged	0			The Challenge
+9016	60	58	9950	2	1637	1	81	0	0	unchanged	0		22107,22111,22112	Anthion's Parting Words
+9017	60	58	9950	2	1637	1	81	0	0	unchanged	0		22061,22017,22016	Anthion's Parting Words
+9019	60	58	9950	3	1637	1	81	0	0	unchanged	0		22084,22085,22082	Anthion's Parting Words
+9020	60	58	9950	2	1637	1	81	0	0	unchanged	0		22003,22007,22008	Anthion's Parting Words
+9021	60	58	9950	2	1637	1	81	0	0	unchanged	0		22076,22072,22073	Anthion's Parting Words
+9022	60	58	9950	2	1637	1	81	0	0	unchanged	0		21995,22000,22001	Anthion's Parting Words
+97197	55	46	7050	2	1584	2	81	0	0	new	8500			Fragment of the Firelands

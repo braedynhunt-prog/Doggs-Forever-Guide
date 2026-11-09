@@ -1,0 +1,87 @@
+ZONE	/forever/zone=618/winterspring
+969	60	55	6600	3	618	1	1	0	0	unchanged	9000			Luck Be With You
+975	60	55		3	618	1		0	0	unchanged	0		12384	Cache of Mau'ari
+977	58	52	4650	3	618	1		0	0	unchanged	9000			Are We There, Yeti?
+979	57	52	3000	1	702	1		0	0	unchanged	0			Find Ranshalla
+980	55	51	2800	3	490	1		0	0	unchanged	0			The New Springs
+3512	55	48	4200	3	8	0		0	0	unchanged	0			In Eranikus' Own Words
+3783	56	52	4350	3	618	1		0	0	unchanged	8500			Are We There, Yeti?
+3908	52	47	5100	3	490	1		0	0	unchanged	0			It's a Secret to Everybody
+3909	52	47	5100	3	490	1		0	0	unchanged	0			The Videre Elixir
+3912	52	47	5100	3	490	1		0	0	unchanged	0			Meet at the Grave
+4801	60	55		3	618	1		0	0	unchanged	0		12450	Frostsaber E'ko
+4802	60	55		3	618	1		0	0	unchanged	0		12451	Winterfall E'ko
+4803	60	55		3	618	1		0	0	unchanged	0		12455	Shardtooth E'ko
+4804	60	55		3	618	1		0	0	unchanged	0		12457	Chillwind E'ko
+4805	60	55		3	618	1		0	0	unchanged	0		12459	Ice Thistle E'ko
+4806	60	55		3	618	1		0	0	unchanged	0		12460	Frostmaul E'ko
+4807	60	55		3	618	1		0	0	unchanged	0		12458	Wildkin E'ko
+4808	54	50	2700	3	46	0		0	0	unchanged	0			Felnok Steelspring
+4809	54	50	5450	3	618	1		0	0	unchanged	0			Chillwind Horns
+4810	54	50	2700	3	618	1		0	0	unchanged	0	15862,15863		Return to Tinkee
+4842	56	51	5800	3	618	1		0	0	unchanged	0		15789	Strange Sources
+4861	59	53	3200	1	618	1		0	0	unchanged	0			Enraged Wildkin
+4863	59	53	3200	1	618	1		0	0	unchanged	0			Enraged Wildkin
+4864	59	53	6400	1	618	1		0	0	unchanged	9000			Enraged Wildkin
+4882	59	52	3200	2	618	1		0	0	unchanged	0			Guarding Secrets
+4883	59	52	6400	2	618	1		0	0	unchanged	0	15796,15797		Guarding Secrets
+4901	59	52	4800	1	618	1		0	0	unchanged	0			Guardians of the Altar
+4902	57	52	6000	1	618	1		0	0	unchanged	0	16622,16623		Wildkin of Elune
+4907	60	57	660	3	1583	2	62	0	0	unchanged	0			Tinkee Steamboil
+4970	60	58		1	618	1		0	0	unchanged	0			Frostsaber Provisions
+5047	60	57	6600	3	1583	2	81	0	0	updated	0			Finkle Einhorn, At Your Service!
+5054	56	53	5800	2	618	1	1	0	0	unchanged	0			Ursius of the Shardtooth
+5055	58	53	6200	2	618	1	1	0	0	unchanged	0			Brumeran of the Chillwind
+5056	60	53	8300	2	618	1	1	0	0	unchanged	0	15783,15782		Shy-Rotam
+5057	60	53	3300	2	618	1		0	0	unchanged	0		15704	Past Endeavors
+5063	60	57		3	618	1	1	0	0	updated	0		12752	Cap of the Scarlet Savant
+5067	60	57		3	618	1	1	0	0	updated	0		12756	Leggings of Arcana
+5068	60	57		3	618	1	1	0	0	updated	0		12757	Breastplate of Bloodthirst
+5082	56	52	5800	3	618	1		0	0	unchanged	8500			Threat of the Winterfall
+5083	56	52	2900	3	618	1		0	0	unchanged	0			Winterfall Firewater
+5084	56	52	4350	3	618	1		0	0	unchanged	0			Falling to Corruption
+5085	56	52	4350	3	618	1		0	0	unchanged	0			Mystery Goo
+5086	56	52	5800	3	618	1		0	0	unchanged	0			Toxic Horrors
+5087	57	52	6000	3	618	1		0	0	unchanged	0			Winterfall Runners
+5103	60	55	6600	3	-121	5	81	67	0	unchanged	0			Hot Fiery Death
+5121	59	52	6400	3	618	1	1	0	0	unchanged	0	15784,15786,15787		High Chief Winterfall
+5123	59	52	3200	3	618	1		0	0	unchanged	0			The Final Piece
+5124	60	55	8300	3	618	1	1	0	0	unchanged	0		12699,12631	Fiery Plate Gauntlets
+5126	60	55	660	3	618	1		3	0	unchanged	0			Lorax's Tale
+5127	60	55	8300	3	1583	2	81	3	0	updated	0		12696,9224,12849	The Demon Forge
+5128	59	52	6400	3	618	1		0	0	unchanged	0			Words of the High Chief
+5160	60	57	6600	3	1583	2	81	0	0	unchanged	0			The Matron Protectorate
+5161	60	57	660	3	618	1		0	0	unchanged	0			Wrath of the Blue Flight
+5162	60	57	6600	3	28	0	1	0	0	unchanged	0			Wrath of the Blue Flight
+5163	58	52	7750	3	618	1		0	0	unchanged	9000		15778	Are We There, Yeti?
+5201	60	58		1	618	1		0	0	unchanged	0			Winterfall Intrusion
+5244	56	53	580	1	618	1		0	0	unchanged	0			The Ruins of Kel'Theril
+5245	56	53	5800	1	618	1		0	0	unchanged	0			Troubled Spirits of Kel'Theril
+5248	58	53	4650	1	139	0		0	0	unchanged	0			Tormented By the Past
+5249	56	53	580	1	361	1		0	0	unchanged	0			To Winterspring!
+5250	56	53	580	1	702	1		0	0	unchanged	0			Starfall
+5252	58	53	4650	1	618	1		0	0	unchanged	0			Remorseful Highborne
+5253	58	53	6200	1	618	1		0	0	unchanged	0	15791,15792,15795		The Crystal of Zin-Malor
+5305	60	50	8300	3	-121	5	81	0	0	unchanged	0		12824	Sweet Serenity
+5306	60	50	8300	3	-121	5	81	0	0	unchanged	0		12821	Snakestone of the Shadow Huntress
+5307	60	50	8300	3	-121	5	81	0	0	unchanged	0		12825	Corruption
+5601	55	50	560	3	139	0		0	0	unchanged	0			Sister Pamela
+5981	60	58		1	618	1	1	0	0	unchanged	0			Rampaging Giants
+6028	52	50	2550	1	618	1		0	0	unchanged	4000			The Everlook Report
+6029	52	50	2550	2	618	1		0	0	unchanged	4000			The Everlook Report
+6030	52	50	2550	3	618	1		0	0	unchanged	4000			Duke Nicholas Zverenhoff
+6501	60	50	6600	1	1519	0	62	0	0	unchanged	0			The Dragon's Eye
+6502	60	50	8300	1	1583	2	62	0	0	unchanged	0		16309	Drakefire Amulet
+6603	56	52	580	3	618	1		0	0	unchanged	0			Trouble in Winterspring!
+6604	59	53	640	1	618	1		0	0	unchanged	0			Enraged Wildkin
+6605	54	49	540	2	618	1		0	0	unchanged	0			A Strange One
+6606	60	55	660	2	618	1		0	0	updated	0			A Little Luck
+8464	58	45	6200	3	1216	1		0	0	unchanged	0	21318,21319,21320,21322		Winterfall Activity
+8465	55	45	560	3	361	1		0	0	unchanged	0			Speak to Salfa
+8469	56	50	580	3	361	1		0	0	unchanged	0			Beads for Salfa
+8471	56	50	5800	3	618	1		0	0	unchanged	17000		13446,13444	Winterfall Ritual Totem
+8672	60	1		3	-366	9		0	0	unchanged	0		21100	Stonespire the Elder
+8726	60	1		3	-366	9		0	0	unchanged	0		21100	Brightspear the Elder
+8798	60	55		3	618	1		0	0	unchanged	0			A Yeti of Your Own
+9266	60	40		2	33	0		0	0	updated	0			Making Amends
+92859	60	55	3300		618	1		0	0		0		281234	Shroud of the Winter Wilds
