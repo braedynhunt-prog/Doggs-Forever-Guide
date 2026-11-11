@@ -1,0 +1,3490 @@
+{
+ "_source": "Wowhead Forever drop chances for quest items of the 30-41 route candidates, pulled 11 Nov 2026 (Phase 2 of the 30-60 guide). Item-page numbers are count/outof over all sampled kills; Wowhead Classic shows the same depressed figures for the same items (Bloodscalp Ear 21% vs 17% here), so they are a consistent yardstick rather than the true on-quest rate. Class-quest items (Twisted Totems) are sampled against every player's kills and are far too low to use.",
+ "items": {
+  "1519": {
+   "name": "Bloodscalp Ear",
+   "quests": [
+    189
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 587,
+     "name": "Bloodscalp Warrior",
+     "count": 327,
+     "outof": 1535
+    },
+    {
+     "id": 588,
+     "name": "Bloodscalp Scout",
+     "count": 443,
+     "outof": 2435
+    },
+    {
+     "id": 595,
+     "name": "Bloodscalp Hunter",
+     "count": 426,
+     "outof": 2524
+    },
+    {
+     "id": 597,
+     "name": "Bloodscalp Berserker",
+     "count": 266,
+     "outof": 2285
+    },
+    {
+     "id": 660,
+     "name": "Bloodscalp Witch Doctor",
+     "count": 246,
+     "outof": 1821
+    },
+    {
+     "id": 671,
+     "name": "Bloodscalp Headhunter",
+     "count": 352,
+     "outof": 3194
+    },
+    {
+     "id": 694,
+     "name": "Bloodscalp Axe Thrower",
+     "count": 329,
+     "outof": 1577
+    },
+    {
+     "id": 697,
+     "name": "Bloodscalp Shaman",
+     "count": 366,
+     "outof": 1590
+    },
+    {
+     "id": 699,
+     "name": "Bloodscalp Beastmaster",
+     "count": 69,
+     "outof": 478
+    },
+    {
+     "id": 701,
+     "name": "Bloodscalp Mystic",
+     "count": 412,
+     "outof": 2607
+    },
+    {
+     "id": 702,
+     "name": "Bloodscalp Scavenger",
+     "count": 389,
+     "outof": 1718
+    }
+   ],
+   "overall_pct": 16.7
+  },
+  "1524": {
+   "name": "Skullsplitter Tusk",
+   "quests": [
+    209
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 667,
+     "name": "Skullsplitter Warrior",
+     "count": 404,
+     "outof": 1910
+    },
+    {
+     "id": 669,
+     "name": "Skullsplitter Hunter",
+     "count": 103,
+     "outof": 424
+    },
+    {
+     "id": 670,
+     "name": "Skullsplitter Witch Doctor",
+     "count": 31,
+     "outof": 274
+    },
+    {
+     "id": 672,
+     "name": "Skullsplitter Spiritchaser",
+     "count": 39,
+     "outof": 169
+    },
+    {
+     "id": 696,
+     "name": "Skullsplitter Axe Thrower",
+     "count": 397,
+     "outof": 1843
+    },
+    {
+     "id": 780,
+     "name": "Skullsplitter Mystic",
+     "count": 248,
+     "outof": 1751
+    },
+    {
+     "id": 781,
+     "name": "Skullsplitter Headhunter",
+     "count": 43,
+     "outof": 158
+    },
+    {
+     "id": 782,
+     "name": "Skullsplitter Scout",
+     "count": 101,
+     "outof": 547
+    },
+    {
+     "id": 783,
+     "name": "Skullsplitter Berserker",
+     "count": 38,
+     "outof": 188
+    },
+    {
+     "id": 784,
+     "name": "Skullsplitter Beastmaster",
+     "count": 14,
+     "outof": 73
+    },
+    {
+     "id": 1059,
+     "name": "Ana'thek the Cruel",
+     "count": 2,
+     "outof": 18
+    },
+    {
+     "id": 1061,
+     "name": "Gan'zulah",
+     "count": 8,
+     "outof": 67
+    },
+    {
+     "id": 1062,
+     "name": "Nezzliok the Dire",
+     "count": 15,
+     "outof": 144
+    }
+   ],
+   "overall_pct": 19.1
+  },
+  "2466": {
+   "name": "Skullsplitter Fetish",
+   "quests": [
+    205
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 670,
+     "name": "Skullsplitter Witch Doctor",
+     "count": 43,
+     "outof": 274
+    },
+    {
+     "id": 780,
+     "name": "Skullsplitter Mystic",
+     "count": 347,
+     "outof": 1751
+    }
+   ],
+   "overall_pct": 19.3
+  },
+  "2476": {
+   "name": "Chilled Basilisk Haunch",
+   "quests": [
+    212
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Cold Eye Basilisk",
+   "overall_pct": 2.33
+  },
+  "2633": {
+   "name": "Jungle Remedy",
+   "quests": [
+    204
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 940,
+     "name": "Kurzen Medicine Man",
+     "count": 892,
+     "outof": 2695
+    },
+    {
+     "id": 941,
+     "name": "Kurzen Headshrinker",
+     "count": 314,
+     "outof": 925
+    },
+    {
+     "id": 942,
+     "name": "Kurzen Witch Doctor",
+     "count": 234,
+     "outof": 752
+    }
+   ],
+   "overall_pct": 32.9
+  },
+  "2797": {
+   "name": "Heart of Mokk",
+   "quests": [
+    348
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Mokk the Savage",
+   "overall_pct": 100.0
+  },
+  "2799": {
+   "name": "Gorilla Fang",
+   "quests": [
+    349
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 1108,
+     "name": "Mistvale Gorilla",
+     "count": 66,
+     "outof": 108
+    },
+    {
+     "id": 1114,
+     "name": "Jungle Thunderer",
+     "count": 115,
+     "outof": 224
+    },
+    {
+     "id": 1511,
+     "name": "Enraged Silverback Gorilla",
+     "count": 60,
+     "outof": 66
+    },
+    {
+     "id": 1557,
+     "name": "Elder Mistvale Gorilla",
+     "count": 463,
+     "outof": 1086
+    },
+    {
+     "id": 1558,
+     "name": "Silverback Patriarch",
+     "count": 6,
+     "outof": 14
+    },
+    {
+     "id": 1559,
+     "name": "King Mukla",
+     "count": 4,
+     "outof": 13
+    },
+    {
+     "id": 2521,
+     "name": "Skymane Gorilla",
+     "count": 1,
+     "outof": 5
+    },
+    {
+     "id": 5260,
+     "name": "Groddoc Ape",
+     "count": 16,
+     "outof": 47
+    },
+    {
+     "id": 5262,
+     "name": "Groddoc Thunderer",
+     "count": 3,
+     "outof": 9
+    },
+    {
+     "id": 6513,
+     "name": "Un'Goro Stomper",
+     "count": 11,
+     "outof": 38
+    },
+    {
+     "id": 6514,
+     "name": "Un'Goro Gorilla",
+     "count": 5,
+     "outof": 21
+    },
+    {
+     "id": 6516,
+     "name": "Un'Goro Thunderer",
+     "count": 11,
+     "outof": 29
+    },
+    {
+     "id": 6585,
+     "name": "Uhk'loc",
+     "count": 1,
+     "outof": 1
+    },
+    {
+     "id": 9622,
+     "name": "U'cha",
+     "count": 1,
+     "outof": 4
+    },
+    {
+     "id": 14491,
+     "name": "Kurmokk",
+     "count": 1,
+     "outof": 1
+    }
+   ],
+   "overall_pct": 45.9
+  },
+  "2843": {
+   "name": "Dirty Knucklebones",
+   "quests": [
+    500
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 2252,
+     "name": "Crushridge Ogre",
+     "count": 575,
+     "outof": 2455
+    },
+    {
+     "id": 2253,
+     "name": "Crushridge Brute",
+     "count": 318,
+     "outof": 1513
+    },
+    {
+     "id": 2254,
+     "name": "Crushridge Mauler",
+     "count": 22,
+     "outof": 598
+    },
+    {
+     "id": 2255,
+     "name": "Crushridge Mage",
+     "count": 15,
+     "outof": 156
+    },
+    {
+     "id": 2256,
+     "name": "Crushridge Enforcer",
+     "count": 20,
+     "outof": 242
+    },
+    {
+     "id": 2287,
+     "name": "Crushridge Warmonger",
+     "count": 21,
+     "outof": 372
+    },
+    {
+     "id": 2416,
+     "name": "Crushridge Plunderer",
+     "count": 1,
+     "outof": 9
+    }
+   ],
+   "overall_pct": 18.2
+  },
+  "3404": {
+   "name": "Buzzard Wing",
+   "quests": [
+    703
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 1809,
+     "name": "Carrion Vulture",
+     "count": 1,
+     "outof": 7
+    },
+    {
+     "id": 2578,
+     "name": "Young Mesa Buzzard",
+     "count": 102,
+     "outof": 325
+    },
+    {
+     "id": 2579,
+     "name": "Mesa Buzzard",
+     "count": 81,
+     "outof": 293
+    },
+    {
+     "id": 2580,
+     "name": "Elder Mesa Buzzard",
+     "count": 30,
+     "outof": 108
+    },
+    {
+     "id": 2829,
+     "name": "Starving Buzzard",
+     "count": 46,
+     "outof": 191
+    },
+    {
+     "id": 2830,
+     "name": "Buzzard",
+     "count": 98,
+     "outof": 297
+    },
+    {
+     "id": 2831,
+     "name": "Giant Buzzard",
+     "count": 321,
+     "outof": 1042
+    },
+    {
+     "id": 2931,
+     "name": "Zaricotl",
+     "count": 1,
+     "outof": 8
+    },
+    {
+     "id": 4692,
+     "name": "Dread Swoop",
+     "count": 169,
+     "outof": 548
+    },
+    {
+     "id": 4693,
+     "name": "Dread Flyer",
+     "count": 77,
+     "outof": 208
+    },
+    {
+     "id": 4694,
+     "name": "Dread Ripper",
+     "count": 13,
+     "outof": 32
+    },
+    {
+     "id": 4695,
+     "name": "Carrion Horror",
+     "count": 166,
+     "outof": 474
+    },
+    {
+     "id": 5428,
+     "name": "Roc",
+     "count": 21,
+     "outof": 69
+    },
+    {
+     "id": 5429,
+     "name": "Fire Roc",
+     "count": 66,
+     "outof": 153
+    },
+    {
+     "id": 5430,
+     "name": "Searing Roc",
+     "count": 11,
+     "outof": 20
+    },
+    {
+     "id": 5982,
+     "name": "Black Slayer",
+     "count": 118,
+     "outof": 306
+    },
+    {
+     "id": 12676,
+     "name": "Sharptalon",
+     "count": 85,
+     "outof": 550
+    },
+    {
+     "id": 222243,
+     "name": "Zopilote",
+     "count": 5,
+     "outof": 8
+    },
+    {
+     "id": 263343,
+     "name": "Low Plains Buzzard",
+     "count": 541,
+     "outof": 1744
+    },
+    {
+     "id": 7376,
+     "name": "Sky Shadow",
+     "count": 4287,
+     "outof": 10721
+    },
+    {
+     "id": 8299,
+     "name": "Spiteflayer",
+     "count": 135,
+     "outof": 380
+    },
+    {
+     "id": 8207,
+     "name": "Greater Firebird",
+     "count": 62,
+     "outof": 123
+    }
+   ],
+   "overall_pct": 36.6
+  },
+  "3615": {
+   "name": "Kurzen's Head",
+   "quests": [
+    202
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Colonel Kurzen",
+   "overall_pct": 92.86
+  },
+  "3616": {
+   "name": "Mind's Eye",
+   "quests": [
+    206,
+    591
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Mai'Zoth",
+   "overall_pct": 81.82
+  },
+  "3626": {
+   "name": "Head of Baron Vardus",
+   "quests": [
+    523,
+    566
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Baron Vardus",
+   "overall_pct": 72.0
+  },
+  "3672": {
+   "name": "Head of Nagaz",
+   "quests": [
+    537
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Nagaz",
+   "overall_pct": 60.53
+  },
+  "3684": {
+   "name": "Perenolde Tiara",
+   "quests": [
+    543
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Grel'borg the Miser",
+   "overall_pct": 60.26
+  },
+  "3712": {
+   "name": "Turtle Meat",
+   "quests": [
+    555,
+    7321
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 2408,
+     "name": "Snapjaw",
+     "count": 2544,
+     "outof": 7796
+    },
+    {
+     "id": 2505,
+     "name": "Saltwater Snapjaw",
+     "count": 55,
+     "outof": 147
+    },
+    {
+     "id": 4142,
+     "name": "Sparkleshell Tortoise",
+     "count": 1152,
+     "outof": 3861
+    },
+    {
+     "id": 4143,
+     "name": "Sparkleshell Snapper",
+     "count": 1265,
+     "outof": 3913
+    },
+    {
+     "id": 4144,
+     "name": "Sparkleshell Borer",
+     "count": 257,
+     "outof": 751
+    },
+    {
+     "id": 4396,
+     "name": "Mudrock Tortoise",
+     "count": 168,
+     "outof": 478
+    },
+    {
+     "id": 4397,
+     "name": "Mudrock Spikeshell",
+     "count": 184,
+     "outof": 478
+    },
+    {
+     "id": 4398,
+     "name": "Mudrock Burrower",
+     "count": 19,
+     "outof": 51
+    },
+    {
+     "id": 4399,
+     "name": "Mudrock Borer",
+     "count": 7,
+     "outof": 12
+    },
+    {
+     "id": 4400,
+     "name": "Mudrock Snapjaw",
+     "count": 6,
+     "outof": 22
+    },
+    {
+     "id": 4824,
+     "name": "Aku'mai Fisher",
+     "count": 41,
+     "outof": 346
+    },
+    {
+     "id": 4825,
+     "name": "Aku'mai Snapjaw",
+     "count": 571,
+     "outof": 4280
+    },
+    {
+     "id": 4887,
+     "name": "Ghamoo-ra",
+     "count": 70,
+     "outof": 2288
+    },
+    {
+     "id": 5431,
+     "name": "Surf Glider",
+     "count": 1,
+     "outof": 8
+    },
+    {
+     "id": 7977,
+     "name": "Gammerita",
+     "count": 12,
+     "outof": 26
+    },
+    {
+     "id": 13599,
+     "name": "Stolid Snapjaw",
+     "count": 3,
+     "outof": 7
+    },
+    {
+     "id": 14123,
+     "name": "Steeljaw Snapper",
+     "count": 84,
+     "outof": 224
+    },
+    {
+     "id": 260809,
+     "name": "Highland Tortoise",
+     "count": 45,
+     "outof": 185
+    },
+    {
+     "id": 260810,
+     "name": "Highland Snapper",
+     "count": 169,
+     "outof": 530
+    },
+    {
+     "id": 263615,
+     "name": "Krek the Noxious",
+     "count": 13,
+     "outof": 37
+    },
+    {
+     "id": 6352,
+     "name": "Coralshell Lurker",
+     "count": 2640,
+     "outof": 6346
+    },
+    {
+     "id": 6369,
+     "name": "Coralshell Tortoise",
+     "count": 267,
+     "outof": 624
+    },
+    {
+     "id": 13896,
+     "name": "Scalebeard",
+     "count": 193,
+     "outof": 544
+    },
+    {
+     "id": 8213,
+     "name": "Ironback",
+     "count": 104,
+     "outof": 273
+    },
+    {
+     "id": 14223,
+     "name": "Cranky Benj",
+     "count": 11,
+     "outof": 63
+    }
+   ],
+   "overall_pct": 29.7
+  },
+  "3720": {
+   "name": "Yeti Fur",
+   "quests": [
+    565
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 2248,
+     "name": "Cave Yeti",
+     "count": 704,
+     "outof": 8678
+    },
+    {
+     "id": 2249,
+     "name": "Ferocious Yeti",
+     "count": 512,
+     "outof": 5748
+    },
+    {
+     "id": 2250,
+     "name": "Mountain Yeti",
+     "count": 72,
+     "outof": 2003
+    },
+    {
+     "id": 2251,
+     "name": "Giant Yeti",
+     "count": 88,
+     "outof": 2929
+    },
+    {
+     "id": 2452,
+     "name": "Skhowl",
+     "count": 1,
+     "outof": 4
+    },
+    {
+     "id": 4504,
+     "name": "Frostmaw",
+     "count": 1,
+     "outof": 261
+    }
+   ],
+   "overall_pct": 7.0
+  },
+  "3876": {
+   "name": "Fang of Bhag'thera",
+   "quests": [
+    193
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Bhag'thera",
+   "overall_pct": 92.0
+  },
+  "3877": {
+   "name": "Talon of Tethis",
+   "quests": [
+    197
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Tethis",
+   "overall_pct": 84.21
+  },
+  "3879": {
+   "name": "Paw of Sin'Dall",
+   "quests": [
+    188
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Sin'Dall",
+   "overall_pct": 90.3
+  },
+  "3880": {
+   "name": "Head of Bangalash",
+   "quests": [
+    208
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "King Bangalash",
+   "overall_pct": 88.46
+  },
+  "3897": {
+   "name": "Dizzy's Eye",
+   "quests": [
+    576
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 1561,
+     "name": "Bloodsail Raider",
+     "count": 4,
+     "outof": 370
+    },
+    {
+     "id": 1562,
+     "name": "Bloodsail Mage",
+     "count": 3,
+     "outof": 351
+    },
+    {
+     "id": 1563,
+     "name": "Bloodsail Swashbuckler",
+     "count": 14,
+     "outof": 533
+    },
+    {
+     "id": 1564,
+     "name": "Bloodsail Warlock",
+     "count": 16,
+     "outof": 444
+    },
+    {
+     "id": 1565,
+     "name": "Bloodsail Sea Dog",
+     "count": 1,
+     "outof": 149
+    },
+    {
+     "id": 1653,
+     "name": "Bloodsail Elder Magus",
+     "count": 1,
+     "outof": 148
+    },
+    {
+     "id": 2545,
+     "name": "\"Pretty Boy\" Duncan",
+     "count": 1,
+     "outof": 53
+    },
+    {
+     "id": 2546,
+     "name": "Fleet Master Firallon",
+     "count": 1,
+     "outof": 13
+    },
+    {
+     "id": 2547,
+     "name": "Ironpatch",
+     "count": 1,
+     "outof": 12
+    },
+    {
+     "id": 2548,
+     "name": "Captain Keelhaul",
+     "count": 1,
+     "outof": 17
+    },
+    {
+     "id": 2549,
+     "name": "Garr Salthoof",
+     "count": 1,
+     "outof": 13
+    },
+    {
+     "id": 2550,
+     "name": "Captain Stillwater",
+     "count": 1,
+     "outof": 10
+    },
+    {
+     "id": 2551,
+     "name": "Brutus",
+     "count": 1,
+     "outof": 7
+    },
+    {
+     "id": 4505,
+     "name": "Bloodsail Deckhand",
+     "count": 1,
+     "outof": 169
+    },
+    {
+     "id": 4506,
+     "name": "Bloodsail Swabby",
+     "count": 1,
+     "outof": 163
+    }
+   ],
+   "overall_pct": 2.0
+  },
+  "3910": {
+   "name": "Snuff",
+   "quests": [
+    587
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 1561,
+     "name": "Bloodsail Raider",
+     "count": 86,
+     "outof": 370
+    },
+    {
+     "id": 1562,
+     "name": "Bloodsail Mage",
+     "count": 70,
+     "outof": 351
+    },
+    {
+     "id": 1563,
+     "name": "Bloodsail Swashbuckler",
+     "count": 177,
+     "outof": 533
+    },
+    {
+     "id": 1564,
+     "name": "Bloodsail Warlock",
+     "count": 131,
+     "outof": 444
+    },
+    {
+     "id": 1565,
+     "name": "Bloodsail Sea Dog",
+     "count": 27,
+     "outof": 149
+    },
+    {
+     "id": 1653,
+     "name": "Bloodsail Elder Magus",
+     "count": 36,
+     "outof": 148
+    },
+    {
+     "id": 2545,
+     "name": "\"Pretty Boy\" Duncan",
+     "count": 4,
+     "outof": 53
+    },
+    {
+     "id": 2546,
+     "name": "Fleet Master Firallon",
+     "count": 1,
+     "outof": 13
+    },
+    {
+     "id": 2547,
+     "name": "Ironpatch",
+     "count": 4,
+     "outof": 12
+    },
+    {
+     "id": 2548,
+     "name": "Captain Keelhaul",
+     "count": 3,
+     "outof": 17
+    },
+    {
+     "id": 2549,
+     "name": "Garr Salthoof",
+     "count": 2,
+     "outof": 13
+    },
+    {
+     "id": 2550,
+     "name": "Captain Stillwater",
+     "count": 1,
+     "outof": 10
+    },
+    {
+     "id": 2551,
+     "name": "Brutus",
+     "count": 3,
+     "outof": 7
+    },
+    {
+     "id": 4505,
+     "name": "Bloodsail Deckhand",
+     "count": 51,
+     "outof": 169
+    },
+    {
+     "id": 4506,
+     "name": "Bloodsail Swabby",
+     "count": 32,
+     "outof": 163
+    }
+   ],
+   "overall_pct": 25.6
+  },
+  "3917": {
+   "name": "Singing Blue Crystal",
+   "quests": [
+    600
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 674,
+     "name": "Venture Co. Strip Miner",
+     "count": 441,
+     "outof": 1357
+    },
+    {
+     "id": 675,
+     "name": "Venture Co. Foreman",
+     "count": 51,
+     "outof": 140
+    },
+    {
+     "id": 676,
+     "name": "Venture Co. Surveyor",
+     "count": 51,
+     "outof": 126
+    },
+    {
+     "id": 677,
+     "name": "Venture Co. Tinkerer",
+     "count": 21,
+     "outof": 75
+    },
+    {
+     "id": 4723,
+     "name": "Foreman Cozzle",
+     "count": 6,
+     "outof": 234
+    },
+    {
+     "id": 14492,
+     "name": "Verifonix",
+     "count": 1,
+     "outof": 5
+    }
+   ],
+   "overall_pct": 29.5
+  },
+  "3918": {
+   "name": "Singing Crystal Shard",
+   "quests": [
+    605
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 688,
+     "name": "Stone Maw Basilisk",
+     "count": 113,
+     "outof": 269
+    },
+    {
+     "id": 689,
+     "name": "Crystal Spine Basilisk",
+     "count": 1677,
+     "outof": 4405
+    },
+    {
+     "id": 690,
+     "name": "Cold Eye Basilisk",
+     "count": 171,
+     "outof": 514
+    },
+    {
+     "id": 1550,
+     "name": "Thrashtail Basilisk",
+     "count": 41,
+     "outof": 113
+    },
+    {
+     "id": 1551,
+     "name": "Ironjaw Basilisk",
+     "count": 3,
+     "outof": 97
+    }
+   ],
+   "overall_pct": 37.1
+  },
+  "3919": {
+   "name": "Mistvale Giblets",
+   "quests": [
+    606
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Elder Mistvale Gorilla",
+   "overall_pct": 27.9
+  },
+  "3923": {
+   "name": "Water Elemental Bracers",
+   "quests": [
+    601
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Lesser Water Elemental",
+   "overall_pct": 36.01
+  },
+  "3924": {
+   "name": "Maury's Clubbed Foot",
+   "quests": [
+    609
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Maury \"Club Foot\" Wilkins",
+   "overall_pct": 63.27
+  },
+  "3925": {
+   "name": "Jon-Jon's Golden Spyglass",
+   "quests": [
+    609
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Jon-Jon the Crow",
+   "overall_pct": 61.54
+  },
+  "3926": {
+   "name": "Chucky's Huge Ring",
+   "quests": [
+    609
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Chucky \"Ten Thumbs\"",
+   "overall_pct": 56.92
+  },
+  "3930": {
+   "name": "Maury's Key",
+   "quests": [
+    613
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 678,
+     "name": "Mosh'Ogg Mauler",
+     "count": 2,
+     "outof": 49
+    },
+    {
+     "id": 679,
+     "name": "Mosh'Ogg Shaman",
+     "count": 2,
+     "outof": 42
+    },
+    {
+     "id": 680,
+     "name": "Mosh'Ogg Lord",
+     "count": 1,
+     "outof": 7
+    },
+    {
+     "id": 709,
+     "name": "Mosh'Ogg Warmonger",
+     "count": 3,
+     "outof": 65
+    },
+    {
+     "id": 710,
+     "name": "Mosh'Ogg Spellcrafter",
+     "count": 1,
+     "outof": 47
+    },
+    {
+     "id": 723,
+     "name": "Mosh'Ogg Butcher",
+     "count": 1,
+     "outof": 1
+    }
+   ],
+   "overall_pct": 4.7
+  },
+  "4016": {
+   "name": "Zanzil's Mixture",
+   "quests": [
+    621,
+    1127
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 1488,
+     "name": "Zanzil Zombie",
+     "count": 87,
+     "outof": 280
+    },
+    {
+     "id": 1489,
+     "name": "Zanzil Hunter",
+     "count": 96,
+     "outof": 287
+    },
+    {
+     "id": 1490,
+     "name": "Zanzil Witch Doctor",
+     "count": 109,
+     "outof": 280
+    },
+    {
+     "id": 1491,
+     "name": "Zanzil Naga",
+     "count": 79,
+     "outof": 312
+    },
+    {
+     "id": 2530,
+     "name": "Yenniku",
+     "count": 10,
+     "outof": 27
+    },
+    {
+     "id": 2534,
+     "name": "Zanzil the Outcast",
+     "count": 5,
+     "outof": 23
+    },
+    {
+     "id": 2535,
+     "name": "Maury \"Club Foot\" Wilkins",
+     "count": 12,
+     "outof": 49
+    },
+    {
+     "id": 2536,
+     "name": "Jon-Jon the Crow",
+     "count": 11,
+     "outof": 39
+    },
+    {
+     "id": 2537,
+     "name": "Chucky \"Ten Thumbs\"",
+     "count": 12,
+     "outof": 65
+    }
+   ],
+   "overall_pct": 30.9
+  },
+  "4027": {
+   "name": "Catelyn's Blade",
+   "quests": [
+    610
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "\"Pretty Boy\" Duncan",
+   "overall_pct": 37.74
+  },
+  "4029": {
+   "name": "Akiris Reed",
+   "quests": [
+    617
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 1907,
+     "name": "Naga Explorer",
+     "count": 364,
+     "outof": 1252
+    }
+   ],
+   "overall_pct": 29.1
+  },
+  "4034": {
+   "name": "Stone of the Tides",
+   "quests": [
+    611
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Gazban",
+   "overall_pct": 100.0
+  },
+  "4104": {
+   "name": "Snapjaw Crocolisk Skin",
+   "quests": [
+    577
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Snapjaw Crocolisk",
+   "overall_pct": 34.72
+  },
+  "4105": {
+   "name": "Elder Crocolisk Skin",
+   "quests": [
+    628
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Elder Saltwater Crocolisk",
+   "overall_pct": 73.29
+  },
+  "4106": {
+   "name": "Tumbled Crystal",
+   "quests": [
+    213
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Venture Co. Geologist",
+   "overall_pct": 31.63
+  },
+  "4435": {
+   "name": "Mote of Myzrael",
+   "quests": [
+    642
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 2572,
+     "name": "Drywhisker Kobold",
+     "count": 501,
+     "outof": 1570
+    },
+    {
+     "id": 2573,
+     "name": "Drywhisker Surveyor",
+     "count": 276,
+     "outof": 918
+    },
+    {
+     "id": 2574,
+     "name": "Drywhisker Digger",
+     "count": 471,
+     "outof": 1612
+    }
+   ],
+   "overall_pct": 30.4
+  },
+  "4469": {
+   "name": "Rod of Order",
+   "quests": [
+    652
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Fozruk",
+   "overall_pct": 90.57
+  },
+  "4503": {
+   "name": "Witherbark Tusk",
+   "quests": [
+    691
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 2552,
+     "name": "Witherbark Troll",
+     "count": 13,
+     "outof": 92
+    },
+    {
+     "id": 2553,
+     "name": "Witherbark Shadowcaster",
+     "count": 4,
+     "outof": 81
+    },
+    {
+     "id": 2554,
+     "name": "Witherbark Axe Thrower",
+     "count": 172,
+     "outof": 2119
+    },
+    {
+     "id": 2555,
+     "name": "Witherbark Witch Doctor",
+     "count": 126,
+     "outof": 1779
+    },
+    {
+     "id": 2556,
+     "name": "Witherbark Headhunter",
+     "count": 210,
+     "outof": 2537
+    },
+    {
+     "id": 2557,
+     "name": "Witherbark Shadow Hunter",
+     "count": 77,
+     "outof": 824
+    },
+    {
+     "id": 2558,
+     "name": "Witherbark Berserker",
+     "count": 12,
+     "outof": 105
+    },
+    {
+     "id": 218029,
+     "name": "Witherbark Champion",
+     "count": 1,
+     "outof": 5
+    },
+    {
+     "id": 2605,
+     "name": "Zalas Witherbark",
+     "count": 4,
+     "outof": 50
+    }
+   ],
+   "overall_pct": 8.2
+  },
+  "4506": {
+   "name": "Stromgarde Badge",
+   "quests": [
+    682
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 2588,
+     "name": "Syndicate Prowler",
+     "count": 100,
+     "outof": 905
+    },
+    {
+     "id": 2590,
+     "name": "Syndicate Conjuror",
+     "count": 37,
+     "outof": 258
+    },
+    {
+     "id": 2591,
+     "name": "Syndicate Magus",
+     "count": 26,
+     "outof": 127
+    }
+   ],
+   "overall_pct": 12.6
+  },
+  "4515": {
+   "name": "Marez's Head",
+   "quests": [
+    684
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Marez Cowl",
+   "overall_pct": 46.3
+  },
+  "4516": {
+   "name": "Otto's Head",
+   "quests": [
+    685
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Otto",
+   "overall_pct": 76.92
+  },
+  "4517": {
+   "name": "Falconcrest's Head",
+   "quests": [
+    685
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Lord Falconcrest",
+   "overall_pct": 92.86
+  },
+  "4518": {
+   "name": "Torn Scroll Fragment",
+   "quests": [
+    692
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Enraged Rock Elemental",
+   "overall_pct": 3.79
+  },
+  "4519": {
+   "name": "Crumpled Scroll Fragment",
+   "quests": [
+    692
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Enraged Rock Elemental",
+   "overall_pct": 5.83
+  },
+  "4520": {
+   "name": "Singed Scroll Fragment",
+   "quests": [
+    692
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Enraged Rock Elemental",
+   "overall_pct": 5.83
+  },
+  "4522": {
+   "name": "Witherbark Medicine Pouch",
+   "quests": [
+    691
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Witherbark Witch Doctor",
+   "overall_pct": 11.07
+  },
+  "4525": {
+   "name": "Trelane's Wand of Invocation",
+   "quests": [
+    693
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Kor'gresh Coldrage",
+   "overall_pct": 68.97
+  },
+  "4527": {
+   "name": "Azure Agate",
+   "quests": [
+    694
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Boulderfist Shaman",
+   "overall_pct": 6.56
+  },
+  "4612": {
+   "name": "Black Drake's Heart",
+   "quests": [
+    706
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 2725,
+     "name": "Scalding Whelp",
+     "count": 5,
+     "outof": 178
+    },
+    {
+     "id": 2726,
+     "name": "Scorched Guardian",
+     "count": 3,
+     "outof": 35
+    }
+   ],
+   "overall_pct": 3.8
+  },
+  "4616": {
+   "name": "Ryedol's Lucky Pick",
+   "quests": [
+    719
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 2739,
+     "name": "Shadowforge Tunneler",
+     "count": 20,
+     "outof": 236
+    },
+    {
+     "id": 2740,
+     "name": "Shadowforge Darkweaver",
+     "count": 12,
+     "outof": 176
+    },
+    {
+     "id": 2742,
+     "name": "Shadowforge Chanter",
+     "count": 1,
+     "outof": 32
+    },
+    {
+     "id": 2743,
+     "name": "Shadowforge Warrior",
+     "count": 3,
+     "outof": 80
+    },
+    {
+     "id": 2744,
+     "name": "Shadowforge Commander",
+     "count": 10,
+     "outof": 159
+    }
+   ],
+   "overall_pct": 6.7
+  },
+  "4621": {
+   "name": "Ambassador Infernus' Bracer",
+   "quests": [
+    762
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Ambassador Infernus",
+   "overall_pct": 85.71
+  },
+  "4626": {
+   "name": "Small Stone Shard",
+   "quests": [
+    710
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 2735,
+     "name": "Lesser Rock Elemental",
+     "count": 635,
+     "outof": 1894
+    }
+   ],
+   "overall_pct": 33.5
+  },
+  "4627": {
+   "name": "Large Stone Slab",
+   "quests": [
+    711
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Rock Elemental",
+   "overall_pct": 22.89
+  },
+  "4628": {
+   "name": "Bracers of Rock Binding",
+   "quests": [
+    712
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Greater Rock Elemental",
+   "overall_pct": 26.17
+  },
+  "4630": {
+   "name": "Scrap Metal",
+   "quests": [
+    733
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 2701,
+     "name": "Dustbelcher Ogre",
+     "count": 19,
+     "outof": 259
+    },
+    {
+     "id": 2715,
+     "name": "Dustbelcher Brute",
+     "count": 15,
+     "outof": 198
+    },
+    {
+     "id": 2716,
+     "name": "Dustbelcher Wyrmhunter",
+     "count": 36,
+     "outof": 215
+    },
+    {
+     "id": 2717,
+     "name": "Dustbelcher Mauler",
+     "count": 40,
+     "outof": 180
+    },
+    {
+     "id": 2718,
+     "name": "Dustbelcher Shaman",
+     "count": 30,
+     "outof": 87
+    },
+    {
+     "id": 2719,
+     "name": "Dustbelcher Lord",
+     "count": 1,
+     "outof": 2
+    },
+    {
+     "id": 2720,
+     "name": "Dustbelcher Ogre Mage",
+     "count": 6,
+     "outof": 15
+    },
+    {
+     "id": 2906,
+     "name": "Dustbelcher Warrior",
+     "count": 20,
+     "outof": 144
+    },
+    {
+     "id": 2907,
+     "name": "Dustbelcher Mystic",
+     "count": 5,
+     "outof": 97
+    }
+   ],
+   "overall_pct": 14.4
+  },
+  "4640": {
+   "name": "Sign of the Earth",
+   "quests": [
+    732,
+    782
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Boss Tho'grun",
+   "overall_pct": 92.86
+  },
+  "4641": {
+   "name": "Hand of Dagun",
+   "quests": [
+    735,
+    736
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Dagun the Ravenous",
+   "overall_pct": 80.0
+  },
+  "4644": {
+   "name": "The Legacy Heart",
+   "quests": [
+    735,
+    736
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Mogh the Undying",
+   "overall_pct": 100.0
+  },
+  "4646": {
+   "name": "Star of Xil'yeh",
+   "quests": [
+    735,
+    736
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Grel'borg the Miser",
+   "overall_pct": 3.85
+  },
+  "4847": {
+   "name": "Lotwil's Shackles of Elemental Binding",
+   "quests": [
+    778
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Fam'retor Guardian",
+   "overall_pct": 87.1
+  },
+  "5040": {
+   "name": "Shadow Hunter Knife",
+   "quests": [
+    691
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Witherbark Shadow Hunter",
+   "overall_pct": 7.52
+  },
+  "5794": {
+   "name": "Salty Scorpid Venom",
+   "quests": [
+    1104
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4139,
+     "name": "Scorpid Terror",
+     "count": 456,
+     "outof": 1231
+    },
+    {
+     "id": 4140,
+     "name": "Scorpid Reaver",
+     "count": 1822,
+     "outof": 4266
+    },
+    {
+     "id": 5937,
+     "name": "Vile Sting",
+     "count": 1,
+     "outof": 1
+    }
+   ],
+   "overall_pct": 41.5
+  },
+  "5795": {
+   "name": "Hardened Tortoise Shell",
+   "quests": [
+    1105
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4142,
+     "name": "Sparkleshell Tortoise",
+     "count": 1569,
+     "outof": 3861
+    },
+    {
+     "id": 4143,
+     "name": "Sparkleshell Snapper",
+     "count": 1479,
+     "outof": 3913
+    },
+    {
+     "id": 4144,
+     "name": "Sparkleshell Borer",
+     "count": 306,
+     "outof": 751
+    }
+   ],
+   "overall_pct": 39.3
+  },
+  "5796": {
+   "name": "Encrusted Tail Fin",
+   "quests": [
+    1107
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 871,
+     "name": "Saltscale Warrior",
+     "count": 226,
+     "outof": 341
+    },
+    {
+     "id": 873,
+     "name": "Saltscale Oracle",
+     "count": 65,
+     "outof": 105
+    },
+    {
+     "id": 875,
+     "name": "Saltscale Tide Lord",
+     "count": 47,
+     "outof": 82
+    },
+    {
+     "id": 877,
+     "name": "Saltscale Forager",
+     "count": 141,
+     "outof": 197
+    },
+    {
+     "id": 879,
+     "name": "Saltscale Hunter",
+     "count": 196,
+     "outof": 303
+    }
+   ],
+   "overall_pct": 65.7
+  },
+  "5797": {
+   "name": "Indurium Flake",
+   "quests": [
+    1108
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 2892,
+     "name": "Stonevault Seer",
+     "count": 2,
+     "outof": 12
+    },
+    {
+     "id": 2893,
+     "name": "Stonevault Bonesnapper",
+     "count": 290,
+     "outof": 1254
+    },
+    {
+     "id": 2894,
+     "name": "Stonevault Shaman",
+     "count": 85,
+     "outof": 319
+    },
+    {
+     "id": 6733,
+     "name": "Stonevault Basher",
+     "count": 1,
+     "outof": 9
+    }
+   ],
+   "overall_pct": 23.7
+  },
+  "5803": {
+   "name": "Speck of Dream Dust",
+   "quests": [
+    1116
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 740,
+     "name": "Adolescent Whelp",
+     "count": 138,
+     "outof": 504
+    },
+    {
+     "id": 741,
+     "name": "Dreaming Whelp",
+     "count": 136,
+     "outof": 440
+    },
+    {
+     "id": 742,
+     "name": "Green Wyrmkin",
+     "count": 13,
+     "outof": 35
+    },
+    {
+     "id": 744,
+     "name": "Green Scalebane",
+     "count": 30,
+     "outof": 90
+    },
+    {
+     "id": 745,
+     "name": "Scalebane Captain",
+     "count": 58,
+     "outof": 152
+    },
+    {
+     "id": 746,
+     "name": "Elder Dragonkin",
+     "count": 5,
+     "outof": 33
+    },
+    {
+     "id": 14445,
+     "name": "Lord Captain Wyrmak",
+     "count": 1,
+     "outof": 1
+    }
+   ],
+   "overall_pct": 30.4
+  },
+  "5847": {
+   "name": "Mirefin Head",
+   "quests": [
+    1177
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4358,
+     "name": "Mirefin Puddlejumper",
+     "count": 207,
+     "outof": 726
+    },
+    {
+     "id": 4359,
+     "name": "Mirefin Murloc",
+     "count": 229,
+     "outof": 809
+    },
+    {
+     "id": 4360,
+     "name": "Mirefin Warrior",
+     "count": 106,
+     "outof": 471
+    },
+    {
+     "id": 4361,
+     "name": "Mirefin Muckdweller",
+     "count": 259,
+     "outof": 1008
+    },
+    {
+     "id": 4362,
+     "name": "Mirefin Coastrunner",
+     "count": 289,
+     "outof": 1203
+    },
+    {
+     "id": 4363,
+     "name": "Mirefin Oracle",
+     "count": 124,
+     "outof": 518
+    },
+    {
+     "id": 14230,
+     "name": "Burgle Eye",
+     "count": 1,
+     "outof": 4
+    }
+   ],
+   "overall_pct": 25.6
+  },
+  "5848": {
+   "name": "Hollow Vulture Bone",
+   "quests": [
+    1176
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4154,
+     "name": "Salt Flats Scavenger",
+     "count": 3370,
+     "outof": 4737
+    },
+    {
+     "id": 4158,
+     "name": "Salt Flats Vulture",
+     "count": 570,
+     "outof": 749
+    }
+   ],
+   "overall_pct": 71.8
+  },
+  "5883": {
+   "name": "Forked Mudrock Tongue",
+   "quests": [
+    1204
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4396,
+     "name": "Mudrock Tortoise",
+     "count": 200,
+     "outof": 478
+    },
+    {
+     "id": 4397,
+     "name": "Mudrock Spikeshell",
+     "count": 181,
+     "outof": 478
+    },
+    {
+     "id": 4398,
+     "name": "Mudrock Burrower",
+     "count": 15,
+     "outof": 51
+    },
+    {
+     "id": 4399,
+     "name": "Mudrock Borer",
+     "count": 4,
+     "outof": 12
+    },
+    {
+     "id": 4400,
+     "name": "Mudrock Snapjaw",
+     "count": 7,
+     "outof": 22
+    }
+   ],
+   "overall_pct": 39.1
+  },
+  "5884": {
+   "name": "Unpopped Darkmist Eye",
+   "quests": [
+    1206
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4376,
+     "name": "Darkmist Spider",
+     "count": 557,
+     "outof": 641
+    },
+    {
+     "id": 4377,
+     "name": "Darkmist Lurker",
+     "count": 306,
+     "outof": 383
+    },
+    {
+     "id": 4378,
+     "name": "Darkmist Recluse",
+     "count": 541,
+     "outof": 637
+    },
+    {
+     "id": 4379,
+     "name": "Darkmist Silkspinner",
+     "count": 233,
+     "outof": 310
+    },
+    {
+     "id": 4380,
+     "name": "Darkmist Widow",
+     "count": 7,
+     "outof": 11
+    }
+   ],
+   "overall_pct": 82.9
+  },
+  "5938": {
+   "name": "Pristine Crawler Leg",
+   "quests": [
+    1258
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 922,
+     "name": "Silt Crawler",
+     "count": 72,
+     "outof": 116
+    },
+    {
+     "id": 1088,
+     "name": "Monstrous Crawler",
+     "count": 12,
+     "outof": 112
+    }
+   ],
+   "overall_pct": 36.8
+  },
+  "6065": {
+   "name": "Khadgar's Essays on Dimensional Convergence",
+   "quests": [
+    1364
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 764,
+     "name": "Swampwalker",
+     "count": 10,
+     "outof": 197
+    },
+    {
+     "id": 765,
+     "name": "Swampwalker Elder",
+     "count": 6,
+     "outof": 57
+    },
+    {
+     "id": 766,
+     "name": "Tangled Horror",
+     "count": 8,
+     "outof": 141
+    },
+    {
+     "id": 1081,
+     "name": "Mire Lord",
+     "count": 1,
+     "outof": 21
+    },
+    {
+     "id": 14448,
+     "name": "Molt Thorn",
+     "count": 1,
+     "outof": 8
+    }
+   ],
+   "overall_pct": 6.1
+  },
+  "6067": {
+   "name": "Centaur Ear",
+   "quests": [
+    1366,
+    1387
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4632,
+     "name": "Kolkar Centaur",
+     "count": 88,
+     "outof": 633
+    },
+    {
+     "id": 4633,
+     "name": "Kolkar Scout",
+     "count": 92,
+     "outof": 592
+    },
+    {
+     "id": 4634,
+     "name": "Kolkar Mauler",
+     "count": 90,
+     "outof": 800
+    },
+    {
+     "id": 4635,
+     "name": "Kolkar Windchaser",
+     "count": 90,
+     "outof": 876
+    },
+    {
+     "id": 4636,
+     "name": "Kolkar Battle Lord",
+     "count": 77,
+     "outof": 655
+    },
+    {
+     "id": 4637,
+     "name": "Kolkar Destroyer",
+     "count": 78,
+     "outof": 766
+    },
+    {
+     "id": 4638,
+     "name": "Magram Scout",
+     "count": 148,
+     "outof": 555
+    },
+    {
+     "id": 4639,
+     "name": "Magram Outrunner",
+     "count": 141,
+     "outof": 561
+    },
+    {
+     "id": 4640,
+     "name": "Magram Wrangler",
+     "count": 455,
+     "outof": 1783
+    },
+    {
+     "id": 4641,
+     "name": "Magram Windchaser",
+     "count": 407,
+     "outof": 1750
+    },
+    {
+     "id": 4642,
+     "name": "Magram Stormer",
+     "count": 287,
+     "outof": 1213
+    },
+    {
+     "id": 4643,
+     "name": "Magram Pack Runner",
+     "count": 29,
+     "outof": 154
+    },
+    {
+     "id": 4644,
+     "name": "Magram Marauder",
+     "count": 164,
+     "outof": 699
+    },
+    {
+     "id": 4645,
+     "name": "Magram Mauler",
+     "count": 137,
+     "outof": 604
+    },
+    {
+     "id": 4646,
+     "name": "Gelkis Outrunner",
+     "count": 95,
+     "outof": 514
+    },
+    {
+     "id": 4647,
+     "name": "Gelkis Scout",
+     "count": 84,
+     "outof": 490
+    },
+    {
+     "id": 4648,
+     "name": "Gelkis Stamper",
+     "count": 160,
+     "outof": 807
+    },
+    {
+     "id": 4649,
+     "name": "Gelkis Windchaser",
+     "count": 132,
+     "outof": 734
+    },
+    {
+     "id": 4651,
+     "name": "Gelkis Earthcaller",
+     "count": 39,
+     "outof": 225
+    },
+    {
+     "id": 4652,
+     "name": "Gelkis Mauler",
+     "count": 7,
+     "outof": 58
+    },
+    {
+     "id": 4653,
+     "name": "Gelkis Marauder",
+     "count": 7,
+     "outof": 44
+    },
+    {
+     "id": 4654,
+     "name": "Maraudine Scout",
+     "count": 26,
+     "outof": 327
+    },
+    {
+     "id": 4655,
+     "name": "Maraudine Wrangler",
+     "count": 40,
+     "outof": 381
+    },
+    {
+     "id": 4656,
+     "name": "Maraudine Mauler",
+     "count": 27,
+     "outof": 271
+    },
+    {
+     "id": 4657,
+     "name": "Maraudine Windchaser",
+     "count": 25,
+     "outof": 278
+    },
+    {
+     "id": 4658,
+     "name": "Maraudine Stormer",
+     "count": 9,
+     "outof": 53
+    },
+    {
+     "id": 4659,
+     "name": "Maraudine Marauder",
+     "count": 6,
+     "outof": 81
+    },
+    {
+     "id": 5402,
+     "name": "Khan Hratha",
+     "count": 2,
+     "outof": 21
+    },
+    {
+     "id": 5600,
+     "name": "Khan Dez'hepah",
+     "count": 2,
+     "outof": 145
+    },
+    {
+     "id": 5601,
+     "name": "Khan Jehn",
+     "count": 13,
+     "outof": 59
+    },
+    {
+     "id": 5602,
+     "name": "Khan Shaka",
+     "count": 2,
+     "outof": 4
+    },
+    {
+     "id": 6068,
+     "name": "Warug's Bodyguard",
+     "count": 18,
+     "outof": 64
+    },
+    {
+     "id": 6069,
+     "name": "Maraudine Khan Guard",
+     "count": 4,
+     "outof": 55
+    },
+    {
+     "id": 6070,
+     "name": "Maraudine Khan Advisor",
+     "count": 2,
+     "outof": 14
+    },
+    {
+     "id": 12976,
+     "name": "Kolkar Waylayer",
+     "count": 2,
+     "outof": 31
+    },
+    {
+     "id": 12977,
+     "name": "Kolkar Ambusher",
+     "count": 4,
+     "outof": 43
+    },
+    {
+     "id": 255560,
+     "name": "Magram Guardian",
+     "count": 52,
+     "outof": 282
+    },
+    {
+     "id": 255561,
+     "name": "Gelkis Guardian",
+     "count": 2,
+     "outof": 33
+    }
+   ],
+   "overall_pct": 18.3
+  },
+  "6072": {
+   "name": "Khan Jehn's Head",
+   "quests": [
+    1374
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Khan Jehn",
+   "overall_pct": 1.92
+  },
+  "6073": {
+   "name": "Khan Shaka's Head",
+   "quests": [
+    1375
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Khan Shaka",
+   "overall_pct": 33.33
+  },
+  "6077": {
+   "name": "Maraudine Key Fragment",
+   "quests": [
+    1380,
+    1381,
+    96222
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Khan Hratha",
+   "overall_pct": 100.0
+  },
+  "6079": {
+   "name": "Crude Charm",
+   "quests": [
+    1384
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4632,
+     "name": "Kolkar Centaur",
+     "count": 90,
+     "outof": 633
+    },
+    {
+     "id": 4633,
+     "name": "Kolkar Scout",
+     "count": 97,
+     "outof": 592
+    },
+    {
+     "id": 4634,
+     "name": "Kolkar Mauler",
+     "count": 72,
+     "outof": 800
+    },
+    {
+     "id": 4635,
+     "name": "Kolkar Windchaser",
+     "count": 106,
+     "outof": 876
+    },
+    {
+     "id": 4636,
+     "name": "Kolkar Battle Lord",
+     "count": 65,
+     "outof": 655
+    },
+    {
+     "id": 4637,
+     "name": "Kolkar Destroyer",
+     "count": 66,
+     "outof": 766
+    },
+    {
+     "id": 12976,
+     "name": "Kolkar Waylayer",
+     "count": 1,
+     "outof": 31
+    },
+    {
+     "id": 12977,
+     "name": "Kolkar Ambusher",
+     "count": 1,
+     "outof": 43
+    }
+   ],
+   "overall_pct": 11.3
+  },
+  "6190": {
+   "name": "Draenethyst Shard",
+   "quests": [
+    1373
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Ongeku",
+   "overall_pct": 61.7
+  },
+  "6245": {
+   "name": "Karnitol's Satchel",
+   "quests": [
+    1456
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4716,
+     "name": "Slitherblade Tidehunter",
+     "count": 32,
+     "outof": 396
+    },
+    {
+     "id": 4719,
+     "name": "Slitherblade Sea Witch",
+     "count": 28,
+     "outof": 419
+    }
+   ],
+   "overall_pct": 7.4
+  },
+  "6246": {
+   "name": "Hatefury Claw",
+   "quests": [
+    1458
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4670,
+     "name": "Hatefury Rogue",
+     "count": 123,
+     "outof": 847
+    },
+    {
+     "id": 4671,
+     "name": "Hatefury Trickster",
+     "count": 183,
+     "outof": 910
+    },
+    {
+     "id": 4672,
+     "name": "Hatefury Felsworn",
+     "count": 108,
+     "outof": 835
+    },
+    {
+     "id": 4673,
+     "name": "Hatefury Betrayer",
+     "count": 200,
+     "outof": 1091
+    },
+    {
+     "id": 4674,
+     "name": "Hatefury Shadowstalker",
+     "count": 193,
+     "outof": 1157
+    },
+    {
+     "id": 4675,
+     "name": "Hatefury Hellcaller",
+     "count": 183,
+     "outof": 1080
+    },
+    {
+     "id": 14225,
+     "name": "Prince Kellen",
+     "count": 1,
+     "outof": 11
+    }
+   ],
+   "overall_pct": 16.7
+  },
+  "6247": {
+   "name": "Hatefury Horn",
+   "quests": [
+    1458
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4670,
+     "name": "Hatefury Rogue",
+     "count": 130,
+     "outof": 847
+    },
+    {
+     "id": 4671,
+     "name": "Hatefury Trickster",
+     "count": 179,
+     "outof": 910
+    },
+    {
+     "id": 4672,
+     "name": "Hatefury Felsworn",
+     "count": 98,
+     "outof": 835
+    },
+    {
+     "id": 4673,
+     "name": "Hatefury Betrayer",
+     "count": 205,
+     "outof": 1091
+    },
+    {
+     "id": 4674,
+     "name": "Hatefury Shadowstalker",
+     "count": 195,
+     "outof": 1157
+    },
+    {
+     "id": 4675,
+     "name": "Hatefury Hellcaller",
+     "count": 191,
+     "outof": 1080
+    },
+    {
+     "id": 14225,
+     "name": "Prince Kellen",
+     "count": 1,
+     "outof": 11
+    }
+   ],
+   "overall_pct": 16.8
+  },
+  "6248": {
+   "name": "Scorpashi Venom",
+   "quests": [
+    1459
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4696,
+     "name": "Scorpashi Snapper",
+     "count": 322,
+     "outof": 920
+    },
+    {
+     "id": 4697,
+     "name": "Scorpashi Lasher",
+     "count": 74,
+     "outof": 198
+    },
+    {
+     "id": 4699,
+     "name": "Scorpashi Venomlash",
+     "count": 16,
+     "outof": 76
+    }
+   ],
+   "overall_pct": 34.5
+  },
+  "6249": {
+   "name": "Aged Kodo Hide",
+   "quests": [
+    1459
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4700,
+     "name": "Aged Kodo",
+     "count": 205,
+     "outof": 273
+    }
+   ],
+   "overall_pct": 75.1
+  },
+  "6250": {
+   "name": "Felhound Brain",
+   "quests": [
+    1466
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4678,
+     "name": "Mana Eater",
+     "count": 14,
+     "outof": 16
+    },
+    {
+     "id": 4681,
+     "name": "Mage Hunter",
+     "count": 80,
+     "outof": 103
+    },
+    {
+     "id": 4685,
+     "name": "Ley Hunter",
+     "count": 56,
+     "outof": 95
+    }
+   ],
+   "overall_pct": 70.1
+  },
+  "6251": {
+   "name": "Nether Wing",
+   "quests": [
+    1466
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4679,
+     "name": "Nether Maiden",
+     "count": 61,
+     "outof": 99
+    },
+    {
+     "id": 4682,
+     "name": "Nether Sister",
+     "count": 29,
+     "outof": 54
+    },
+    {
+     "id": 4684,
+     "name": "Nether Sorceress",
+     "count": 59,
+     "outof": 144
+    }
+   ],
+   "overall_pct": 50.2
+  },
+  "6252": {
+   "name": "Doomwarder Blood",
+   "quests": [
+    1466
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4680,
+     "name": "Doomwarder Captain",
+     "count": 141,
+     "outof": 171
+    },
+    {
+     "id": 5760,
+     "name": "Lord Azrethoc",
+     "count": 5,
+     "outof": 24
+    },
+    {
+     "id": 14226,
+     "name": "Kaskk",
+     "count": 1,
+     "outof": 1
+    }
+   ],
+   "overall_pct": 75.0
+  },
+  "6767": {
+   "name": "Tyranis' Pendant",
+   "quests": [
+    1439
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 5643,
+     "name": "Tyranis Malem",
+     "count": 112,
+     "outof": 129
+    }
+   ],
+   "overall_pct": 86.8
+  },
+  "8173": {
+   "name": "Thick Armor Kit",
+   "quests": [
+    2848,
+    2855
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Olaf",
+   "overall_pct": 13.33
+  },
+  "15750": {
+   "name": "Sceptre of Light",
+   "quests": [
+    5741
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Burning Blade Seer",
+   "overall_pct": 90.4
+  },
+  "15803": {
+   "name": "Book of the Ancients",
+   "quests": [
+    6027
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Lord Kragaru",
+   "overall_pct": 92.07
+  },
+  "15849": {
+   "name": "Ghost-o-plasm",
+   "quests": [
+    6134
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Centaur Spectre",
+   "overall_pct": 100.0
+  },
+  "15878": {
+   "name": "Rackmore's Silver Key",
+   "quests": [
+    6161
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "note": "NO DROPPED-BY"
+  },
+  "15881": {
+   "name": "Rackmore's Golden Key",
+   "quests": [
+    6161
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4711,
+     "name": "Slitherblade Naga",
+     "count": 77,
+     "outof": 878
+    },
+    {
+     "id": 4712,
+     "name": "Slitherblade Sorceress",
+     "count": 20,
+     "outof": 563
+    },
+    {
+     "id": 4713,
+     "name": "Slitherblade Warrior",
+     "count": 38,
+     "outof": 381
+    },
+    {
+     "id": 4714,
+     "name": "Slitherblade Myrmidon",
+     "count": 46,
+     "outof": 945
+    },
+    {
+     "id": 4715,
+     "name": "Slitherblade Razortail",
+     "count": 28,
+     "outof": 466
+    },
+    {
+     "id": 4716,
+     "name": "Slitherblade Tidehunter",
+     "count": 6,
+     "outof": 447
+    },
+    {
+     "id": 4718,
+     "name": "Slitherblade Oracle",
+     "count": 15,
+     "outof": 302
+    },
+    {
+     "id": 4719,
+     "name": "Slitherblade Sea Witch",
+     "count": 4,
+     "outof": 477
+    },
+    {
+     "id": 14229,
+     "name": "Accursed Slitherblade",
+     "count": 1,
+     "outof": 2
+    }
+   ],
+   "overall_pct": 5.3
+  },
+  "213127": {
+   "name": "Partial Mystical Notes",
+   "quests": [
+    95384
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Skullsplitter Mystic",
+   "overall_pct": 8.4
+  },
+  "216616": {
+   "name": "Compound Cage Key",
+   "quests": [
+    97047
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 813,
+     "name": "Colonel Kurzen",
+     "count": 1,
+     "outof": 80
+    },
+    {
+     "id": 939,
+     "name": "Kurzen Elite",
+     "count": 146,
+     "outof": 1287
+    },
+    {
+     "id": 978,
+     "name": "Kurzen Subchief",
+     "count": 39,
+     "outof": 723
+    }
+   ],
+   "overall_pct": 8.9
+  },
+  "254432": {
+   "name": "Carved Centaur Totem",
+   "quests": [
+    92811,
+    92812,
+    93224,
+    93225
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4632,
+     "name": "Kolkar Centaur",
+     "count": 139,
+     "outof": 569
+    },
+    {
+     "id": 4633,
+     "name": "Kolkar Scout",
+     "count": 116,
+     "outof": 534
+    },
+    {
+     "id": 4634,
+     "name": "Kolkar Mauler",
+     "count": 172,
+     "outof": 679
+    },
+    {
+     "id": 4635,
+     "name": "Kolkar Windchaser",
+     "count": 165,
+     "outof": 766
+    },
+    {
+     "id": 4636,
+     "name": "Kolkar Battle Lord",
+     "count": 140,
+     "outof": 584
+    },
+    {
+     "id": 4637,
+     "name": "Kolkar Destroyer",
+     "count": 194,
+     "outof": 689
+    },
+    {
+     "id": 4638,
+     "name": "Magram Scout",
+     "count": 127,
+     "outof": 498
+    },
+    {
+     "id": 4639,
+     "name": "Magram Outrunner",
+     "count": 112,
+     "outof": 504
+    },
+    {
+     "id": 4640,
+     "name": "Magram Wrangler",
+     "count": 415,
+     "outof": 1566
+    },
+    {
+     "id": 4641,
+     "name": "Magram Windchaser",
+     "count": 448,
+     "outof": 1558
+    },
+    {
+     "id": 4642,
+     "name": "Magram Stormer",
+     "count": 269,
+     "outof": 1074
+    },
+    {
+     "id": 4643,
+     "name": "Magram Pack Runner",
+     "count": 34,
+     "outof": 140
+    },
+    {
+     "id": 4644,
+     "name": "Magram Marauder",
+     "count": 161,
+     "outof": 618
+    },
+    {
+     "id": 4645,
+     "name": "Magram Mauler",
+     "count": 146,
+     "outof": 527
+    },
+    {
+     "id": 4646,
+     "name": "Gelkis Outrunner",
+     "count": 98,
+     "outof": 482
+    },
+    {
+     "id": 4647,
+     "name": "Gelkis Scout",
+     "count": 117,
+     "outof": 456
+    },
+    {
+     "id": 4648,
+     "name": "Gelkis Stamper",
+     "count": 192,
+     "outof": 758
+    },
+    {
+     "id": 4649,
+     "name": "Gelkis Windchaser",
+     "count": 145,
+     "outof": 696
+    },
+    {
+     "id": 4651,
+     "name": "Gelkis Earthcaller",
+     "count": 40,
+     "outof": 215
+    },
+    {
+     "id": 4652,
+     "name": "Gelkis Mauler",
+     "count": 19,
+     "outof": 51
+    },
+    {
+     "id": 4653,
+     "name": "Gelkis Marauder",
+     "count": 13,
+     "outof": 38
+    },
+    {
+     "id": 4654,
+     "name": "Maraudine Scout",
+     "count": 72,
+     "outof": 282
+    },
+    {
+     "id": 4655,
+     "name": "Maraudine Wrangler",
+     "count": 93,
+     "outof": 319
+    },
+    {
+     "id": 4656,
+     "name": "Maraudine Mauler",
+     "count": 63,
+     "outof": 236
+    },
+    {
+     "id": 4657,
+     "name": "Maraudine Windchaser",
+     "count": 69,
+     "outof": 254
+    },
+    {
+     "id": 4658,
+     "name": "Maraudine Stormer",
+     "count": 8,
+     "outof": 52
+    },
+    {
+     "id": 4659,
+     "name": "Maraudine Marauder",
+     "count": 23,
+     "outof": 71
+    },
+    {
+     "id": 6069,
+     "name": "Maraudine Khan Guard",
+     "count": 17,
+     "outof": 49
+    },
+    {
+     "id": 6070,
+     "name": "Maraudine Khan Advisor",
+     "count": 7,
+     "outof": 13
+    },
+    {
+     "id": 12976,
+     "name": "Kolkar Waylayer",
+     "count": 11,
+     "outof": 30
+    },
+    {
+     "id": 12977,
+     "name": "Kolkar Ambusher",
+     "count": 9,
+     "outof": 38
+    },
+    {
+     "id": 253274,
+     "name": "Magram Necrokhan",
+     "count": 1,
+     "outof": 1
+    },
+    {
+     "id": 254283,
+     "name": "Outcast Scout",
+     "count": 3,
+     "outof": 21
+    },
+    {
+     "id": 254284,
+     "name": "Outcast Marauder",
+     "count": 10,
+     "outof": 47
+    },
+    {
+     "id": 255238,
+     "name": "Magram Outrunner",
+     "count": 6,
+     "outof": 29
+    },
+    {
+     "id": 255560,
+     "name": "Magram Guardian",
+     "count": 90,
+     "outof": 250
+    },
+    {
+     "id": 255561,
+     "name": "Gelkis Guardian",
+     "count": 7,
+     "outof": 29
+    },
+    {
+     "id": 262838,
+     "name": "Magram Marauder",
+     "count": 8,
+     "outof": 41
+    }
+   ],
+   "overall_pct": 25.5
+  },
+  "258530": {
+   "name": "Lucky Lure",
+   "quests": [
+    93430
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Lost One Fisherman",
+   "overall_pct": 17.1
+  },
+  "258774": {
+   "name": "Gimashi's Findings",
+   "quests": [
+    93465
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Gimashi",
+   "overall_pct": 100.0
+  },
+  "274044": {
+   "name": "Twisted Fire Totem",
+   "quests": [
+    79358,
+    79361
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 2701,
+     "name": "Dustbelcher Ogre",
+     "count": 16,
+     "outof": 283
+    },
+    {
+     "id": 2715,
+     "name": "Dustbelcher Brute",
+     "count": 9,
+     "outof": 214
+    },
+    {
+     "id": 2716,
+     "name": "Dustbelcher Wyrmhunter",
+     "count": 2,
+     "outof": 245
+    },
+    {
+     "id": 2717,
+     "name": "Dustbelcher Mauler",
+     "count": 1,
+     "outof": 202
+    },
+    {
+     "id": 2718,
+     "name": "Dustbelcher Shaman",
+     "count": 1,
+     "outof": 101
+    },
+    {
+     "id": 2719,
+     "name": "Dustbelcher Lord",
+     "count": 1,
+     "outof": 2
+    },
+    {
+     "id": 2720,
+     "name": "Dustbelcher Ogre Mage",
+     "count": 1,
+     "outof": 21
+    },
+    {
+     "id": 2892,
+     "name": "Stonevault Seer",
+     "count": 1,
+     "outof": 17
+    },
+    {
+     "id": 2893,
+     "name": "Stonevault Bonesnapper",
+     "count": 88,
+     "outof": 1355
+    },
+    {
+     "id": 2894,
+     "name": "Stonevault Shaman",
+     "count": 23,
+     "outof": 356
+    },
+    {
+     "id": 2906,
+     "name": "Dustbelcher Warrior",
+     "count": 22,
+     "outof": 161
+    },
+    {
+     "id": 2907,
+     "name": "Dustbelcher Mystic",
+     "count": 17,
+     "outof": 115
+    },
+    {
+     "id": 2944,
+     "name": "Boss Tho'grun",
+     "count": 1,
+     "outof": 47
+    },
+    {
+     "id": 2945,
+     "name": "Murdaloc",
+     "count": 2,
+     "outof": 38
+    },
+    {
+     "id": 6733,
+     "name": "Stonevault Basher",
+     "count": 1,
+     "outof": 11
+    }
+   ],
+   "overall_pct": 5.9
+  },
+  "274045": {
+   "name": "Twisted Earth Totem",
+   "quests": [
+    79358,
+    79361
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 755,
+     "name": "Lost One Mudlurker",
+     "count": 70,
+     "outof": 334
+    },
+    {
+     "id": 757,
+     "name": "Lost One Fisherman",
+     "count": 45,
+     "outof": 304
+    },
+    {
+     "id": 759,
+     "name": "Lost One Hunter",
+     "count": 31,
+     "outof": 544
+    },
+    {
+     "id": 760,
+     "name": "Lost One Muckdweller",
+     "count": 27,
+     "outof": 489
+    },
+    {
+     "id": 761,
+     "name": "Lost One Seer",
+     "count": 2,
+     "outof": 96
+    },
+    {
+     "id": 762,
+     "name": "Lost One Riftseeker",
+     "count": 3,
+     "outof": 121
+    },
+    {
+     "id": 763,
+     "name": "Lost One Chieftain",
+     "count": 1,
+     "outof": 4
+    },
+    {
+     "id": 1106,
+     "name": "Lost One Cook",
+     "count": 1,
+     "outof": 2
+    },
+    {
+     "id": 5622,
+     "name": "Ongeku",
+     "count": 1,
+     "outof": 52
+    }
+   ],
+   "overall_pct": 9.3
+  },
+  "274046": {
+   "name": "Twisted Water Totem",
+   "quests": [
+    79358,
+    79361
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4358,
+     "name": "Mirefin Puddlejumper",
+     "count": 28,
+     "outof": 791
+    },
+    {
+     "id": 4359,
+     "name": "Mirefin Murloc",
+     "count": 29,
+     "outof": 868
+    },
+    {
+     "id": 4360,
+     "name": "Mirefin Warrior",
+     "count": 29,
+     "outof": 509
+    },
+    {
+     "id": 4361,
+     "name": "Mirefin Muckdweller",
+     "count": 43,
+     "outof": 1058
+    },
+    {
+     "id": 4362,
+     "name": "Mirefin Coastrunner",
+     "count": 48,
+     "outof": 1241
+    },
+    {
+     "id": 4363,
+     "name": "Mirefin Oracle",
+     "count": 33,
+     "outof": 562
+    }
+   ],
+   "overall_pct": 4.2
+  },
+  "274047": {
+   "name": "Twisted Air Totem",
+   "quests": [
+    79358,
+    79361
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 4654,
+     "name": "Maraudine Scout",
+     "count": 64,
+     "outof": 327
+    },
+    {
+     "id": 4655,
+     "name": "Maraudine Wrangler",
+     "count": 65,
+     "outof": 381
+    },
+    {
+     "id": 4656,
+     "name": "Maraudine Mauler",
+     "count": 29,
+     "outof": 271
+    },
+    {
+     "id": 4657,
+     "name": "Maraudine Windchaser",
+     "count": 40,
+     "outof": 278
+    },
+    {
+     "id": 4658,
+     "name": "Maraudine Stormer",
+     "count": 4,
+     "outof": 53
+    },
+    {
+     "id": 4659,
+     "name": "Maraudine Marauder",
+     "count": 3,
+     "outof": 81
+    }
+   ],
+   "overall_pct": 14.7
+  },
+  "277957": {
+   "name": "Primitive Key",
+   "quests": [
+    97329
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026",
+   "npcs": [
+    {
+     "id": 588,
+     "name": "Bloodscalp Scout",
+     "count": 34,
+     "outof": 2742
+    },
+    {
+     "id": 595,
+     "name": "Bloodscalp Hunter",
+     "count": 34,
+     "outof": 2830
+    },
+    {
+     "id": 597,
+     "name": "Bloodscalp Berserker",
+     "count": 19,
+     "outof": 2545
+    },
+    {
+     "id": 660,
+     "name": "Bloodscalp Witch Doctor",
+     "count": 6,
+     "outof": 1991
+    },
+    {
+     "id": 671,
+     "name": "Bloodscalp Headhunter",
+     "count": 24,
+     "outof": 3534
+    },
+    {
+     "id": 699,
+     "name": "Bloodscalp Beastmaster",
+     "count": 7,
+     "outof": 537
+    },
+    {
+     "id": 701,
+     "name": "Bloodscalp Mystic",
+     "count": 37,
+     "outof": 2939
+    }
+   ],
+   "overall_pct": 0.9
+  },
+  "277986": {
+   "name": "Drum of Crude Oil",
+   "quests": [
+    97420
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
+   "dropped_by": "Venture Co. Mechanic",
+   "overall_pct": 1.58
+  }
+ }
+}

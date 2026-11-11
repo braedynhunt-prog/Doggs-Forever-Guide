@@ -109,6 +109,20 @@
    "notes": "Pulled 5 Nov 2026: Eldrun Stormbreaker 258098 (shaman, rows to level 40), Gremlock Pilsnor 1699 = Daryl Riknussun 5159 (cooking), Paxton Ganter 1700 = Grimnur Stonebrand 5161 (fishing), Thamner Pol 2326 = Nissa Firestone 5150 (first aid). Weapon masters (Buliwyf Stonehand 11865, Woo Ping 11867) have no training list on Wowhead, so weapon-skill prices stay unverified. 9 Nov 2026: every trainer re-pulled (all Eldrun rows to 60) and the 30-60 route trainers added: Ultham Ironhorn 4772 (Apprentice Riding raw 1052631 = 100g at Friendly), Telonis 4212 (LW to Expert), Drakk Stonehand 11097 (LW to Artisan), Thorkaf Dragoneye 7867 (Dragonscale recipes); Peter Galen 7866, Brumn Winterhoof 7869, Caryssia Moonhunter 7870, Farseer Maret Firetend 270263, Pratt McGrubben 7852, Dirge Quikcleave 8125, Nat Pagle 12919, Old Man Heming 2626, Deneb Walker 2805, Shandrina 3955 and Kelsey Yance 2664 carry no teaches list on Wowhead Forever (vendor prices are not on the NPC pages; book and recipe prices come from the item tooltip sell price x4). First Aid recipe costs read 5% higher than on 5 Nov (100 -> 105); whether the game shows 1s or 1s 5c is on the test list."
   },
   {
+   "id": "drop_rates",
+   "path": "data/drop_rates.json",
+   "source": "Wowhead Forever drop chances for the quest items of the 30-60 route candidates: item pages' dropped-by listviews (count/outof per dropper, browser) plus the nether tooltip Drop Chance for single-dropper items; compiled by the Phase 2 script of 11 Nov 2026",
+   "local_read": "\"pulled\" below",
+   "pulled": "2026-11-11",
+   "upstream": {"method": "browser only (www.wowhead.com returns 403 to a shell)", "read": "stale when the newest wowf build's created_at date is after \"pulled\" (a proxy: rates are sampled live and move without a build)"},
+   "pull": [
+    "open https://www.wowhead.com/forever/item=<id> in Chrome (a tab already on wowhead.com; a freshly created tab sometimes refuses to navigate) and, from that tab, fetch('/forever/item=<id>') for up to a dozen items 3 s apart with a 15 s abort timeout; extract the \"dropped-by\" Listview data (count, outof per NPC)",
+    "python tooling/fetch_tooltips.py --from-file <single-dropper ids> for the items with one dropper (Drop Chance is on the tooltip)",
+    "rebuild data/drop_rates.json from the raw TSVs (one ITEM<tab><id><tab><json> line per item) and the tooltip file; set \"pulled\" here"
+   ],
+   "notes": "11 Nov 2026: 54 item pages (7 batches) + 52 tooltips = 106 items. count/outof counts every sampled kill, including players not on the quest, so it understates the on-quest rate; Wowhead Classic shows the same depressed figures for the same items (Bloodscalp Ear 21% vs 17%), so the numbers are a consistent yardstick for the 60/30 drop-quest rule. Class-quest items (Twisted Totems 274044-274047) read 4-15% because every player's kills are in the denominator; unusable. The bot check (\"Let's confirm you are human\") appeared after about 45 pages and cleared on its own in about 5 minutes."
+  },
+  {
    "id": "foreverdb_stats",
    "path": "weights/enh_weights.py (_AGI_PER_CRIT, _INT_CRIT)",
    "source": "foreverdb.net/stats/shaman: per-level Agility-per-1%-crit and Intellect-per-1%-spell-crit for shamans from the Forever client's PlayerExpectedStat table, plus 2 AP per Str (ChrClasses); third-party extraction, cross-checked against Braedyn's character sheet at 21 on 8 Nov 2026",

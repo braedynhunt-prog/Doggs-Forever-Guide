@@ -169,6 +169,17 @@ def check_trainer_costs(src, latest):
     return 'OK', head, [], []
 
 
+def check_drop_rates(src, latest):
+    # 11 Nov 2026: data/drop_rates.json carries one "pulled" date for the whole file
+    d = json.load(open(rel(src['path']), encoding='utf-8'))
+    n = len(d.get('items', {}))
+    build_date = latest[1][:10]
+    head = '%s: %d items, pulled %s; client build %s of %s' % (src['path'], n, src['pulled'], latest[0], build_date)
+    if src['pulled'] < build_date:
+        return 'STALE', head, [], src['pull']
+    return 'OK', head, [], []
+
+
 def main():
     ap = argparse.ArgumentParser(description='Read-only freshness check of the guide data sources.')
     ap.add_argument('--quiet', action='store_true', help='print only non-OK rows')
@@ -189,7 +200,7 @@ def main():
         return run
 
     checks = [('questiedb', check_questiedb), ('client', with_wago(check_client)), ('wowhead_xp', with_wago(check_wowhead)),
-              ('item_tooltips', with_wago(check_item_tooltips)), ('trainer_costs', with_wago(check_trainer_costs)), ('forever_db', check_forever_db),
+              ('item_tooltips', with_wago(check_item_tooltips)), ('trainer_costs', with_wago(check_trainer_costs)), ('drop_rates', with_wago(check_drop_rates)), ('forever_db', check_forever_db),
               ('pandaquest_forever', check_pandaquest), ('probe', check_probe), ('polestar', check_polestar),
               ('foreverdb_stats', check_page_build), ('wclbox_spells', check_page_build)]
     code = 0
