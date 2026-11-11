@@ -311,6 +311,10 @@
   "id": 4138,
   "tooltip": "Blackwater Tunic | Item Level 45 | Binds when picked upChestMail248 Armor | +7 Strength | +15 Spirit | Durability 100 / 100Sell Price: 1g 1s 40c"
  },
+ "Blademaster's Banner": {
+  "id": 271425,
+  "tooltip": "Blademaster's Banner | Item Level 1 | Quest Item | Max Stack: 20 | Dropped by: Blademaster Kaijo | Drop Chance: 88.46%"
+ },
  "Bladewhisper's Namesake": {
   "id": 287072,
   "tooltip": "Bladewhisper's Namesake | Item Level 42 | Binds when picked upThrownThrown |     31 - 59 Damage |     Speed 2.10 | (21.43 damage per second) | +4 StaminaEquip: +8 Attack Power against Humanoids. | Sell Price: 98s 57c"
@@ -571,6 +575,10 @@
   "id": 2476,
   "tooltip": "Chilled Basilisk Haunch | Item Level 1 | Quest Item | Max Stack: 20 | Dropped by: Cold Eye Basilisk | Drop Chance: 2.33%"
  },
+ "Chogg's Head": {
+  "id": 265750,
+  "tooltip": "Chogg's Head | Item Level 1 | Quest Item | Dropped by: Chogg'Zac | Drop Chance: 80.00%"
+ },
  "Chucky's Huge Ring": {
   "id": 3926,
   "tooltip": "Chucky's Huge Ring | Item Level 1 | Quest Item | Unique | Dropped by: Chucky \"Ten Thumbs\" | Drop Chance: 56.92%"
@@ -766,6 +774,10 @@
  "Daggerfang's Daggerfang": {
   "id": 281257,
   "tooltip": "Daggerfang's Daggerfang | Item Level 16 | Binds when picked upOne-HandDagger |     9 - 18 Damage |     Speed 1.70 | (7.94 damage per second) | +2 Agility | Durability 35 / 35Sell Price: 7s 83c"
+ },
+ "Damaged Locket": {
+  "id": 266252,
+  "tooltip": "Damaged Locket | Item Level 1 | Quest Item\"The locket is sealed shut by a broken clasp.\" |  | Max Stack: 20 | Dropped by: Converted Farmer | Drop Chance: 75.76%"
  },
  "Dank Shoulderpads": {
   "id": 270098,
@@ -1483,6 +1495,10 @@
   "id": 15849,
   "tooltip": "Ghost-o-plasm | Item Level 1 | Quest Item\"Gross!\" |  | Max Stack: 20 | Dropped by: Centaur Spectre | Drop Chance: 100.00%"
  },
+ "Ghostmaw's Fang": {
+  "id": 271828,
+  "tooltip": "Ghostmaw's Fang | Item Level 1 | Quest Item | Max Stack: 20 | Dropped by: Ghostmaw | Drop Chance: 81.95%"
+ },
  "Giantstone Medallion": {
   "id": 281321,
   "tooltip": "Giantstone Medallion | Item Level 32 | Binds when picked upNeck+10 SpiritSell Price: 26s 19c"
@@ -1682,6 +1698,10 @@
  "Grip of Fear": {
   "id": 271208,
   "tooltip": "Grip of Fear | Item Level 22 | Binds when picked upHandsMail119 Armor | +6 Strength | +6 Intellect | Durability 35 / 35Requires Level 17 | Sell Price: 6s 86c | Dropped by: The Abandoned | Drop Chance: 32.78%"
+ },
+ "Gronok's Key": {
+  "id": 272190,
+  "tooltip": "Gronok's Key | Item Level 1 | Quest Item | Dropped by: Gronok the Butcher | Drop Chance: 91.30%"
  },
  "Grubbis Paws": {
   "id": 9445,
@@ -2070,6 +2090,10 @@
  "Khan Shaka's Head": {
   "id": 6073,
   "tooltip": "Khan Shaka's Head | Item Level 1 | Quest Item | Dropped by: Khan Shaka | Drop Chance: 33.33%"
+ },
+ "Kilgar's Head": {
+  "id": 265837,
+  "tooltip": "Kilgar's Head | Item Level 1 | Quest Item | Max Stack: 20 | Dropped by: Overlord Kilgar | Drop Chance: 100.00%"
  },
  "Kimbra Boots": {
   "id": 6191,
@@ -2542,6 +2566,10 @@
  "Old Leather Jacket": {
   "id": 280505,
   "tooltip": "Old Leather Jacket | Item Level 39 | Binds when picked upChestLeather109 Armor | +15 Strength | +2 Agility | +2 Stamina | Durability 85 / 85Sell Price: 42s 66c"
+ },
+ "Ombassa's Hide": {
+  "id": 281052,
+  "tooltip": "Ombassa's Hide | Item Level 1 | Quest Item | Unique | Dropped by: Ombassa | Drop Chance: 99.40%"
  },
  "Onu's Patience": {
   "id": 281292,
@@ -3087,6 +3115,10 @@
   "id": 274963,
   "tooltip": "Rot-Covered Harpoon | Item Level 42 | Binds when picked upTwo-HandPolearm |     62 - 94 Damage |     Speed 2.50 | (31.20 damage per second) | Durability 85 / 85Chance on hit: Diseases target for 24 Nature damage every 1 sec for 7 sec. Deals 2 times as much damage to Aquatic enemies. | Sell Price: 1g 58s 86c"
  },
+ "Rot-Covered Harpoon [268341]": {
+  "id": 268341,
+  "tooltip": "Rot-Covered Harpoon | Item Level 1 | Quest Item | Unique | Dropped by: Old Rot-Chum | Drop Chance: 94.54%"
+ },
  "Rotmender's Leggings": {
   "id": 271207,
   "tooltip": "Rotmender's Leggings | Item Level 22 | Binds when picked upLegsCloth35 Armor | +5 Stamina | Restores +4 mana per 5 sec. | Durability 50 / 50Requires Level 17 |  | Rotmender's Raiment (0/5)Rotmender's Garb | Rotmender's Sash | Rotmender's Leggings | Rotmender's Treads | Rotmender's Gloves | (2) Set : +5 Shadow Resistance. | (3) Set : +10 Intellect. | (4) Set : When your Mana falls below 15%, restore 200 Mana over 10 sec. Restores twice as much Mana in Haunted and Wasteland areas. May only occur once every 5 min. (5m cooldown) | (5) Set : Grants your healing spells a chance to heal for an additional 40 Health every 3 sec for 15 sec. (2s cooldown) | Sell Price: 9s 11c | Dropped by: The Abandoned | Drop Chance: 32.35%"
@@ -3130,6 +3162,10 @@
  "Rustic Belt": {
   "id": 2172,
   "tooltip": "Rustic Belt | Item Level 5 | Binds when picked upWaistMail38 Armor | Durability 18 / 18Sell Price: 7c"
+ },
+ "Ruzzgot's Shipment": {
+  "id": 268810,
+  "tooltip": "Ruzzgot's Shipment | Item Level 1 | Quest Item | Max Stack: 20 | Dropped by: Venture Co. Agent | Drop Chance: 20.44%"
  },
  "Ryedol's Hammer": {
   "id": 4978,
@@ -3218,6 +3254,10 @@
  "Scuffed Cuffs": {
   "id": 263311,
   "tooltip": "Scuffed Cuffs | Item Level 11 | Binds when picked upWristMail50 Armor | +1 Strength | Durability 20 / 20Sell Price: 97c"
+ },
+ "Sea Monster's Head": {
+  "id": 268633,
+  "tooltip": "Sea Monster's Head | Item Level 1 | Quest Item | Unique | Dropped by: Monstrous Threshadon | Drop Chance: 94.39%"
  },
  "Seadog's Battered Cuffs": {
   "id": 270091,
@@ -3475,6 +3515,10 @@
   "id": 4104,
   "tooltip": "Snapjaw Crocolisk Skin | Item Level 1 | Quest Item | Max Stack: 20 | Dropped by: Snapjaw Crocolisk | Drop Chance: 34.72%"
  },
+ "Snargl's Snout": {
+  "id": 265357,
+  "tooltip": "Snargl's Snout | Item Level 1 | Quest Item | Unique | Dropped by: Snargl | Drop Chance: 86.47%"
+ },
  "Snow Boots": {
   "id": 6173,
   "tooltip": "Snow Boots | Item Level 5 | Binds when picked upFeetCloth7 Armor | Durability 20 / 20Sell Price: 7c"
@@ -3498,6 +3542,10 @@
  "Songblade Stabilizer": {
   "id": 271768,
   "tooltip": "Songblade Stabilizer | Item Level 33 | Binds when picked upWaistMail117 Armor | +6 Stamina | Durability 35 / 35Equip: Increases your chance to Dodge an attack by 0.4%. | Sell Price: 17s 84c"
+ },
+ "Sootfur's Pelt": {
+  "id": 265738,
+  "tooltip": "Sootfur's Pelt | Item Level 1 | Quest Item | Max Stack: 20 | Dropped by: Sootfur | Drop Chance: 76.34%"
  },
  "Soothing Spices": {
   "id": 3713,
@@ -3931,6 +3979,10 @@
   "id": 272124,
   "tooltip": "Translated Tale of I'lalai | Item Level 1 | Unique\"A compilation of the translated workings by Loremaster Dibbs, recounting the tale of the lost troll city, I'lalai the Drowned City.\" | <Right Click to Read> |"
  },
+ "Trapclaw's Pincer": {
+  "id": 268586,
+  "tooltip": "Trapclaw's Pincer | Item Level 1 | Quest Item | Unique | Dropped by: Trapclaw | Drop Chance: 90.81%"
+ },
  "Traveled Gloves": {
   "id": 277223,
   "tooltip": "Traveled Gloves | Item Level 45 | Binds when picked upHandsLeather76 Armor | +9 Strength | Durability 30 / 30Equip: Increases damage and healing done by magical spells and effects by up to 11. | Sell Price: 41s 42c"
@@ -4290,6 +4342,10 @@
  "Yeti Skinner": {
   "id": 287069,
   "tooltip": "Yeti Skinner | Item Level 34 | Binds when picked upThrownThrown |     21 - 39 Damage |     Speed 1.90 | (15.79 damage per second) | Durability 200 / 200Equip: Increased Skinning +2. | Equip: +7 Attack Power. | \"Serves as a Skinning Knife.\" | Sell Price: 49s 32c"
+ },
+ "Zac's Head": {
+  "id": 265751,
+  "tooltip": "Zac's Head | Item Level 1 | Quest Item | Dropped by: Chogg'Zac | Drop Chance: 82.16%"
  },
  "Zealous Shadowshard Pendant": {
   "id": 17772,
