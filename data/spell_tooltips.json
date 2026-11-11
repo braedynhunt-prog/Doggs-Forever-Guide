@@ -1,0 +1,130 @@
+{
+ "pulled": "2026-11-11",
+ "endpoint": "https://nether.wowhead.com/forever/tooltip/spell/<id>",
+ "note": "Cast tooltips are rendered for a level-60 viewer (Rockbiter 194 / 355, Windfury 104 / 221 are the level-60 values). 16281-16284 (Flurry ranks) return 404.",
+ "spell_pages": {
+  "note": "Read in Chrome from www.wowhead.com/forever/spell=<id> (Spell Details table) on 2026-11-11.",
+  "15568": "Rockbiter passive (rank learned at 16): Mod Melee Attack Power, value 88",
+  "15569": "Rockbiter passive (rank learned at 24): Mod Melee Attack Power, value 129",
+  "16311": "Rockbiter passive (rank learned at 34): Mod Melee Attack Power, value 211",
+  "8233": "Windfury Weapon R1 passive: Mod Melee Attack Power, value 46; Add Extra Attacks, value 2",
+  "8236": "Windfury Weapon R2 passive: Mod Melee Attack Power, value 119; Add Extra Attacks, value 2",
+  "10412": "Earth Shock R5: School Damage (Nature), value 242, SP mod 0.386",
+  "17364": "Stormstrike: effect 1 Normalized Weapon Damage; effect 2 Mod All Damage Done % by Caster 20% (Lightning Bolt, Chain Lightning, Earth Shock)",
+  "1223031": "Improved Stormstrike: effect 1 Dummy value 20, server-side script; Trait 134203 rank 1 value 50, rank 2 value 100"
+ },
+ "items": {
+  "8017": {
+   "name": "Rockbiter Weapon",
+   "tooltip": "Rockbiter Weapon Level 60 15 Mana Instant Requires Shaman Requires level 1 Requires Melee Weapon Imbue the Shaman's weapon, increasing melee attack power by 50 and allowing melee attacks to cause additional threat when using that weapon. Lasts for 60 minutes."
+  },
+  "8018": {
+   "name": "Rockbiter Weapon",
+   "tooltip": "Rockbiter Weapon Level 60 25 Mana Instant Requires Shaman Requires level 8 Requires Melee Weapon Imbue the Shaman's weapon, increasing melee attack power by 79 and allowing melee attacks to cause additional threat when using that weapon. Lasts for 60 minutes."
+  },
+  "8019": {
+   "name": "Rockbiter Weapon",
+   "tooltip": "Rockbiter Weapon Level 60 50 Mana Instant Requires Shaman Requires level 16 Requires Melee Weapon Imbue the Shaman's weapon, increasing melee attack power by 118 and allowing melee attacks to cause additional threat when using that weapon. Lasts for 60 minutes."
+  },
+  "10399": {
+   "name": "Rockbiter Weapon",
+   "tooltip": "Rockbiter Weapon Level 60 75 Mana Instant Requires Shaman Requires level 24 Requires Melee Weapon Imbue the Shaman's weapon, increasing melee attack power by 194 and allowing melee attacks to cause additional threat when using that weapon. Lasts for 60 minutes."
+  },
+  "16314": {
+   "name": "Rockbiter Weapon",
+   "tooltip": "Rockbiter Weapon Level 60 100 Mana Instant Requires Shaman Requires level 34 Requires Melee Weapon Imbue the Shaman's weapon, increasing melee attack power by 355 and allowing melee attacks to cause additional threat when using that weapon. Lasts for 60 minutes."
+  },
+  "16315": {
+   "name": "Rockbiter Weapon",
+   "tooltip": "Rockbiter Weapon Level 60 125 Mana Instant Requires Shaman Requires level 44 Requires Melee Weapon Imbue the Shaman's weapon, increasing melee attack power by 522 and allowing melee attacks to cause additional threat when using that weapon. Lasts for 60 minutes."
+  },
+  "16316": {
+   "name": "Rockbiter Weapon",
+   "tooltip": "Rockbiter Weapon Level 60 150 Mana Instant Requires Shaman Requires level 54 Requires Melee Weapon Imbue the Shaman's weapon, increasing melee attack power by 686 and allowing melee attacks to cause additional threat when using that weapon. Lasts for 60 minutes."
+  },
+  "8232": {
+   "name": "Windfury Weapon",
+   "tooltip": "Windfury Weapon Level 60 90 Mana Instant Requires Shaman Requires level 30 Requires Melee Weapon Imbue the Shaman's weapon with wind. Each hit has a 20% chance of granting you 2 extra attacks with 104 extra melee attack power. When applied to main hand, disables any benefit you personally receive from Windfury Totem. Lasts for 60 minutes."
+  },
+  "8235": {
+   "name": "Windfury Weapon",
+   "tooltip": "Windfury Weapon Level 60 115 Mana Instant Requires Shaman Requires level 40 Requires Melee Weapon Imbue the Shaman's weapon with wind. Each hit has a 20% chance of granting you 2 extra attacks with 221 extra melee attack power. When appied to main hand, disables any benefit you personally receive from Windfury Totem. Lasts for 60 minutes."
+  },
+  "10486": {
+   "name": "Windfury Weapon",
+   "tooltip": "Windfury Weapon Level 60 140 Mana Instant Requires Shaman Requires level 50 Requires Melee Weapon Imbue the Shaman's weapon with wind. Each hit has a 20% chance of granting you 2 extra attacks with 315 extra melee attack power. When applied to main hand, disables any benefit you personally receive from Windfury Totem. Lasts for 60 minutes."
+  },
+  "16362": {
+   "name": "Windfury Weapon",
+   "tooltip": "Windfury Weapon Level 60 165 Mana Instant Requires Shaman Requires level 60 Requires Melee Weapon Imbue the Shaman's weapon with wind. Each hit has a 20% chance of granting you 2 extra attacks with 433 extra melee attack power. When applied to main hand, disables any benefit you personally receive from Windfury Totem. Lasts for 60 minutes."
+  },
+  "17364": {
+   "name": "Stormstrike",
+   "tooltip": "Stormstrike Talent 8% of base mana Melee Range Instant 6 sec cooldown Requires Shaman Requires level 40 Instantly strike for 150% weapon damage and increase the damage you deal to the target with your next Lightning Bolt, Chain Lightning, or Earth Shock spell by 20% for 12 sec."
+  },
+  "1223031": {
+   "name": "Improved Stormstrike",
+   "tooltip": "Improved Stormstrike Talent Requires Shaman Requires level 1 When you Stormstrike, you have a 20% chance to gain 50% mana regeneration while casting spells for 15 sec, and Stormstrike's cooldown has a 20% chance to reset each time you Dodge or Parry."
+  },
+  "16256": {
+   "name": "Flurry",
+   "tooltip": "Flurry Talent Requires Shaman Requires level 1 Increases your attack speed by 1% for your next 3 swings after dealing a melee critical strike."
+  },
+  "8042": {
+   "name": "Earth Shock",
+   "tooltip": "Earth Shock Level 60 30 Mana 20 yd range Instant 6 sec cooldown Requires Shaman Requires level 4 Instantly shocks the target with concussive force, causing 21 to 24 Nature damage. It also interrupts spellcasting and prevents any spell in that school from being cast for 2 sec. Causes a high amount of threat."
+  },
+  "8044": {
+   "name": "Earth Shock",
+   "tooltip": "Earth Shock Level 60 50 Mana 20 yd range Instant 6 sec cooldown Requires Shaman Requires level 8 Instantly shocks the target with concussive force, causing 38 to 41 Nature damage. It also interrupts spellcasting and prevents any spell in that school from being cast for 2 sec. Causes a high amount of threat."
+  },
+  "8045": {
+   "name": "Earth Shock",
+   "tooltip": "Earth Shock Level 60 85 Mana 20 yd range Instant 6 sec cooldown Requires Shaman Requires level 14 Instantly shocks the target with concussive force, causing 69 to 74 Nature damage. It also interrupts spellcasting and prevents any spell in that school from being cast for 2 sec. Causes a high amount of threat."
+  },
+  "8046": {
+   "name": "Earth Shock",
+   "tooltip": "Earth Shock Level 60 145 Mana 20 yd range Instant 6 sec cooldown Requires Shaman Requires level 24 Instantly shocks the target with concussive force, causing 131 to 140 Nature damage. It also interrupts spellcasting and prevents any spell in that school from being cast for 2 sec. Causes a high amount of threat."
+  },
+  "10412": {
+   "name": "Earth Shock",
+   "tooltip": "Earth Shock Level 60 240 Mana 20 yd range Instant 6 sec cooldown Requires Shaman Requires level 36 Instantly shocks the target with concussive force, causing 241 to 256 Nature damage. It also interrupts spellcasting and prevents any spell in that school from being cast for 2 sec. Causes a high amount of threat."
+  },
+  "10413": {
+   "name": "Earth Shock",
+   "tooltip": "Earth Shock Level 60 345 Mana 20 yd range Instant 6 sec cooldown Requires Shaman Requires level 48 Instantly shocks the target with concussive force, causing 380 to 402 Nature damage. It also interrupts spellcasting and prevents any spell in that school from being cast for 2 sec. Causes a high amount of threat."
+  },
+  "10414": {
+   "name": "Earth Shock",
+   "tooltip": "Earth Shock Level 60 450 Mana 20 yd range Instant 6 sec cooldown Requires Shaman Requires level 60 Instantly shocks the target with concussive force, causing 534 to 562 Nature damage. It also interrupts spellcasting and prevents any spell in that school from being cast for 2 sec. Causes a high amount of threat."
+  },
+  "324": {
+   "name": "Lightning Shield",
+   "tooltip": "Lightning Shield 45 Mana Instant Requires Shaman Requires level 8 The caster is surrounded by 3 balls of lightning. When a spell, melee or ranged attack hits the caster, the attacker will be struck for 13 Nature damage. This expends one lightning ball. Only one ball will fire every few seconds. Lasts 10 min. (3.5s cooldown)"
+  },
+  "325": {
+   "name": "Lightning Shield",
+   "tooltip": "Lightning Shield 80 Mana Instant Requires Shaman Requires level 16 The caster is surrounded by 3 balls of lightning. When a spell, melee or ranged attack hits the caster, the attacker will be struck for 24 Nature damage. This expends one lightning ball. Only one ball will fire every few seconds. Lasts 10 min. (3.5s cooldown)"
+  },
+  "905": {
+   "name": "Lightning Shield",
+   "tooltip": "Lightning Shield 125 Mana Instant Requires Shaman Requires level 24 The caster is surrounded by 3 balls of lightning. When a spell, melee or ranged attack hits the caster, the attacker will be struck for 40 Nature damage. This expends one lightning ball. Only one ball will fire every few seconds. Lasts 10 min. (3.5s cooldown)"
+  },
+  "945": {
+   "name": "Lightning Shield",
+   "tooltip": "Lightning Shield 180 Mana Instant Requires Shaman Requires level 32 The caster is surrounded by 3 balls of lightning. When a spell, melee or ranged attack hits the caster, the attacker will be struck for 64 Nature damage. This expends one lightning ball. Only one ball will fire every few seconds. Lasts 10 min. (3.5s cooldown)"
+  },
+  "8134": {
+   "name": "Lightning Shield",
+   "tooltip": "Lightning Shield 240 Mana Instant Requires Shaman Requires level 40 The caster is surrounded by 3 balls of lightning. When a spell, melee or ranged attack hits the caster, the attacker will be struck for 96 Nature damage. This expends one lightning ball. Only one ball will fire every few seconds. Lasts 10 min. (3.5s cooldown)"
+  },
+  "10431": {
+   "name": "Lightning Shield",
+   "tooltip": "Lightning Shield 305 Mana Instant Requires Shaman Requires level 48 The caster is surrounded by 3 balls of lightning. When a spell, melee or ranged attack hits the caster, the attacker will be struck for 134 Nature damage. This expends one lightning ball. Only one ball will fire every few seconds. Lasts 10 min. (3.5s cooldown)"
+  },
+  "10432": {
+   "name": "Lightning Shield",
+   "tooltip": "Lightning Shield 370 Mana Instant Requires Shaman Requires level 56 The caster is surrounded by 3 balls of lightning. When a spell, melee or ranged attack hits the caster, the attacker will be struck for 178 Nature damage. This expends one lightning ball. Only one ball will fire every few seconds. Lasts 10 min. (3.5s cooldown)"
+  }
+ }
+}

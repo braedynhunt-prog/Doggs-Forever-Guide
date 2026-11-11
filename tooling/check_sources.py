@@ -200,7 +200,7 @@ def main():
         return run
 
     checks = [('questiedb', check_questiedb), ('client', with_wago(check_client)), ('wowhead_xp', with_wago(check_wowhead)),
-              ('item_tooltips', with_wago(check_item_tooltips)), ('trainer_costs', with_wago(check_trainer_costs)), ('drop_rates', with_wago(check_drop_rates)), ('forever_db', check_forever_db),
+              ('item_tooltips', with_wago(check_item_tooltips)), ('trainer_costs', with_wago(check_trainer_costs)), ('drop_rates', with_wago(check_drop_rates)), ('spell_tooltips', with_wago(check_drop_rates)), ('forever_db', check_forever_db),
               ('pandaquest_forever', check_pandaquest), ('probe', check_probe), ('polestar', check_polestar),
               ('foreverdb_stats', check_page_build), ('wclbox_spells', check_page_build)]
     code = 0
