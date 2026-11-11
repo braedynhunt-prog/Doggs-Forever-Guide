@@ -39,8 +39,14 @@ def base_stats(level: int):
 
 # Shaman base mana by level: wowsims/sod gives 505 @25, 975 @40, 1255 @50, 1520 @60.  Level 1 ~ 55
 # (vanilla).  Quadratic through 1/25/40.  UNCERTAIN at 10-20 by maybe +-15%.
-_mana_f = _quad_through((1, 55), (25, 505), (40, 975))
-def base_mana(level):  return max(50.0, _mana_f(level))
+# 11 Nov 2026: replaced by the client's per-level table (foreverdb.net/stats/shaman, PlayerExpectedStat, build
+# 1.60.1.70888; the quadratic read 180 / 272 / 381 / 646 at 10 / 15 / 20 / 30 against 175 / 260 / 370 / 665). Base mana
+# enters the printed pool and fights-per-drink, and Stormstrike's cost (8% of base mana); kills/hour without Stormstrike
+# do not depend on it.
+_BASE_MANA = [55, 61, 68, 91, 100, 110, 121, 133, 161, 175, 190, 206, 223, 241, 260, 280, 301, 323, 346, 370,
+              395, 421, 448, 476, 505, 535, 566, 598, 631, 665, 699, 733, 767, 786, 820, 854, 888, 922, 941, 975,
+              1009, 1028, 1062, 1096, 1115, 1149, 1183, 1202, 1236, 1255, 1289, 1323, 1342, 1376, 1395, 1414, 1448, 1467, 1501, 1520]
+def base_mana(level):  return float(_BASE_MANA[max(1, min(60, int(level))) - 1])
 # Shaman base health: sod 257 @25, 610 @40, 1280 @60; level 1 ~ 50.
 _hp_f = _quad_through((1, 50), (25, 257), (40, 610))
 def base_health(level): return max(40.0, _hp_f(level))
@@ -199,13 +205,18 @@ class Scenario:
 
     def drink(self):
         if self.drink_rate is not None: return self.drink_rate
-        # Refreshing Spring Water 145/18s (L5), Ice Cold Milk 420/21s (L15), Moonberry 1344/30s (L25)
-        if self.level >= 25: return 1344 / 30
+        # Refreshing Spring Water 145/18s (L5), Ice Cold Milk 420/21s (L15). 11 Nov 2026 (Forever tooltips): Sweet Nectar
+        # 1345/27s (L25; was "Moonberry 1344/30s"), Moonberry Juice 1915/30s (L35), Morning Glory Dew 2821/30s (L45).
+        if self.level >= 45: return 2821 / 30
+        if self.level >= 35: return 1915 / 30
+        if self.level >= 25: return 1345 / 27
         if self.level >= 15: return 420 / 21
         return 145 / 18
 
     def food(self):
         if self.food_hp is not None: return self.food_hp
+        if self.level >= 45: return 2065   # Homemade Cherry Pie (Forever tooltip, 11 Nov 2026)
+        if self.level >= 35: return 1338   # Cured Ham Steak / Fine Aged Cheddar (Forever: requires 35)
         if self.level >= 15: return 234    # Freshly Baked Bread etc (Forever tooltips: 234 over 21 s)
         return 59                          # Tough Jerky 59 over 18 s (level 5 food)
 
@@ -377,6 +388,36 @@ def weights(s: Scenario, h=2.0, optimise_policy=True):
 # ---------------------------------------------------------------------------------------
 # 4. Bands
 # ---------------------------------------------------------------------------------------
+# 11 Nov 2026: the talents of Braedyn's levelling sheet at each band (docs/forever-shaman-leveling-sheet.html; legal on
+# Forever's tree per wowsims/forever shaman.json and WCLBox): 10-14 Thundering Strikes, 15-17 Mental Dexterity, 18-19
+# Ancestral Knowledge 2, 20 Shamanistic Focus, 21-23 Elemental Weapons, 24 Anticipation 1, 25 Stormstrike, 26-27 Improved
+# Ghost Wolf, 28-29 Flurry 2, 30-31 Improved Stormstrike, 32 Spirit Weapons, 33-37 Tidal Focus, 38-40 Mindfulness.
+# Improved Ghost Wolf and Spirit Weapons have no term in the model.
+SHEET_TALENTS = {
+    25: dict(md=3, ts=5, sf=1, ak=2, ew=3, ant=1, ss=1),
+    30: dict(md=3, ts=5, sf=1, ak=2, ew=3, ant=1, ss=1, flurry=2, iss=1),
+    40: dict(md=3, ts=5, sf=1, ak=2, ew=3, ant=1, ss=1, flurry=2, iss=2, tf=5, mind=3),
+}
+# Level-40 gear from the 30-60 route plan's picks (weights/tooltips/2026-11-11.json): Wild Headdress, Prisoner Handwraps,
+# Apprentice Sorcerer's Slacks, Doomsayer's Robe, Wingborne Boots, Coldwater Ring, Arathi Armbands, Violet Sash, Chainlink
+# Towel, Explorers' League Commendation. No shoulders or second ring (the plan names none).
+GEAR_40 = dict(str=7, agi=5, sta=20, int=35, spi=85, sp=53)
+# Live tooltips 11 Nov 2026. Rage of the Storm 280604: 102-154, speed 3.60, +16 Str +15 Sta, Equip +10% Stormstrike damage
+# (the 28 Oct reading was 3.20 speed, +15 Sta +12 Int). Bonebiter 6830: 105-159, speed 3.40, +20 Str +10 Sta.
+WEAPONS_40 = {
+    "Rage of the Storm": dict(weapon_dps=35.56, weapon_speed=3.6, gear=dict(str=16, sta=15), ss_item_bonus=0.10),
+    "Bonebiter": dict(weapon_dps=38.82, weapon_speed=3.4, gear=dict(str=20, sta=10), ss_item_bonus=0.0),
+}
+
+def scenario_40(weapon="Rage of the Storm", imbue="rockbiter", talents=None):
+    w = WEAPONS_40[weapon]
+    gear = dict(GEAR_40)
+    for k, v in w["gear"].items():
+        gear[k] = gear.get(k, 0) + v
+    return Scenario(level=40, weapon_dps=w["weapon_dps"], weapon_speed=w["weapon_speed"], gear=gear,
+                    talents=dict(SHEET_TALENTS[40] if talents is None else talents), imbue=imbue,
+                    ss_item_bonus=w["ss_item_bonus"])
+
 def band_scenarios():
     return {
         10: Scenario(level=10, weapon_dps=8.33, weapon_speed=2.7,
@@ -389,15 +430,32 @@ def band_scenarios():
                      gear=dict(str=26, agi=24, sta=14, int=6, spi=16, ap=18),    # Smite's Hammer + the Deadmines/HoT set in the guide
                      talents=dict(md=3, ts=5, sf=1, ak=2)),
         # 1 Nov 2026: bands 25 and 30 added for the 23-31 chapters (Blackfathom, Stockade, Gnomeregan, Razorfen Kraul).
-        # Gear sums from weights/tooltips/2026-11-01.json. Flurry (21-25) is not modelled (no haste term); the 30 band
-        # adds Elemental Weapons 3/3 (26-28).
+        # Gear sums from weights/tooltips/2026-11-01.json. 11 Nov 2026: talents now the sheet's (25: Elemental Weapons 3,
+        # Anticipation 1, Stormstrike; 30: + Flurry 2, Improved Stormstrike 1); they were md 3 ts 5 sf 1 ak 2 (+ ew 3 at 30).
         25: Scenario(level=25, weapon_dps=19.71, weapon_speed=3.5,
                      gear=dict(str=25, agi=22, sta=10, int=8, spi=15, ap=18, sp=5),  # Smite's, Defias Armor/Belt, Gold-flecked, Deepgrave,
-                     talents=dict(md=3, ts=5, sf=1, ak=2)),                           # Loch Walkers, Bravo's, Spiritwraith, both rings, Choker
+                     talents=dict(SHEET_TALENTS[25])),                                # Loch Walkers, Bravo's, Spiritwraith, both rings, Choker
         30: Scenario(level=30, weapon_dps=22.88, weapon_speed=3.3,
                      gear=dict(str=26, agi=12, sta=30, int=8, spi=19, ap=18, sp=25),  # Twilight Maul, Defender's Helm, Naga Gloves, Bands of
-                     talents=dict(md=3, ts=5, sf=1, ew=3, ak=2)),                     # Serra'kis, Thresher Cape + the rest of the 25 set
+                     talents=dict(SHEET_TALENTS[30])),                                # Serra'kis, Thresher Cape + the rest of the 25 set
+        # 11 Nov 2026: level 40, Rage of the Storm + Rockbiter (the model's pick, see the tables this file prints).
+        40: scenario_40(),
     }
+
+def with_imbue(sc, imbue, frac=None):
+    s2 = copy.deepcopy(sc); s2.imbue = imbue; s2.rockbiter_frac = frac
+    return s2
+
+def optimum(sc):
+    """(kills/hour, verbose dict) at the kill-speed optimum policy."""
+    k, n, ls = best_policy(sc)
+    s2 = copy.deepcopy(sc); s2.policy_shocks, s2.policy_ls = n, ls
+    return k, kills_per_hour(s2, verbose=True)
+
+def compare_row(label, sc):
+    k, v = optimum(sc)
+    return (f"   {label:46s} kills/h {k:6.1f}  fight {v['T']:4.1f}s  white {v['white_dps']:5.1f} (Windfury {v['wf_dps']:4.1f})  "
+            f"AP {v['ap']:4.0f}  Stormstrike {v['ss_dmg']:3.0f} x{v['n_ss']:.1f}  ES {v['es_dmg']:3.0f} x{v['shocks']:.1f}")
 
 if __name__ == "__main__":
     for lvl, sc in band_scenarios().items():
@@ -416,12 +474,22 @@ if __name__ == "__main__":
               f"pool {v['pool']:.0f}  fights/drink {v['k']:.1f}  fight-share {v['cycle_fight_share']:.2f}  heal mana/cycle {v['heal_mana_cycle']:.0f}")
             print("   naked+gear: Str %.0f Agi %.0f Sta %.0f Int %.0f Spi %.0f" % (v['Str'], v['Agi'], v['Sta'], v['Int'], v['Spi']))
             print("   " + "  ".join(f"{k}={w[k]:.2f}" for k in ["wdps", "str", "ap", "int", "agi", "spi", "sta", "sp", "exp", "hitpct", "critpct", "mace_bonus"]))
-    sys.exit(0)
-    for lvl, sc in band_scenarios().items():
-        w, kph = weights(sc)
-        v = kills_per_hour(sc, verbose=True)
-        print(f"\n=== Level {lvl} ===  kills/h {kph:.0f}  fight {v['T']:.1f}s  white dps {v['white_dps']:.1f}  AP {v['ap']:.0f} "
-              f"(Rockbiter {v['rockbiter']:.0f})  crit {v['crit']:.1f}%  ES {v['es_dmg']:.0f} x{v['shocks']:.1f}/fight  "
-              f"pool {v['pool']:.0f}  fights/drink {v['k']:.1f}  fight-share {v['cycle_fight_share']:.2f}  heal mana/cycle {v['heal_mana_cycle']:.0f}")
-        print("   naked+gear: Str %.0f Agi %.0f Sta %.0f Int %.0f Spi %.0f" % (v['Str'], v['Agi'], v['Sta'], v['Int'], v['Spi']))
-        print("   " + "  ".join(f"{k}={w[k]:.2f}" for k in ["wdps", "str", "ap", "int", "agi", "spi", "sta", "sp", "exp", "hitpct", "critpct", "mace_bonus"]))
+    bands = band_scenarios()
+    print("\n##### imbue: Rockbiter vs Windfury on the band's scenario (kill-speed optimum policy) #####")
+    print("   growth = how far the imbue's AP has grown inside its rank: model = linear to the next rank, floor = the passive")
+    print("   aura's base value, max = the level-60 tooltip value")
+    for lvl in (30, 40):
+        for imbue in ("rockbiter", "windfury"):
+            for frac, lab in ((None, "model"), (0.0, "floor"), (1.0, "max")):
+                print(compare_row(f"L{lvl} {imbue:9s} growth {lab}", with_imbue(bands[lvl], imbue, frac)))
+    print("\n##### level 40 weapon: Rage of the Storm vs Bonebiter (sheet talents, kill-speed optimum policy) #####")
+    for imbue in ("rockbiter", "windfury"):
+        for weapon in WEAPONS_40:
+            print(compare_row(f"{weapon} + {imbue}", scenario_40(weapon, imbue)))
+            no_ss = dict(SHEET_TALENTS[40], ss=0, iss=0)
+            print(compare_row(f"{weapon} + {imbue}, no Stormstrike", scenario_40(weapon, imbue, no_ss)))
+    print("\n##### level 40 weights by weapon and imbue (AP = 1, kill-speed optimum policy) #####")
+    for imbue in ("rockbiter", "windfury"):
+        for weapon in WEAPONS_40:
+            w, kph = weights(scenario_40(weapon, imbue))
+            print(f"   {weapon + ' + ' + imbue:30s} " + "  ".join(f"{k}={w[k]:.2f}" for k in ["wdps", "str", "int", "agi", "spi", "sp", "exp", "hitpct", "critpct"]))
