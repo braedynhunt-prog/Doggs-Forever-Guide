@@ -64,3 +64,5 @@ removed. SpellLevels 95 rows, all test/old spells (Word of Recall (OLD), Zone Re
 SkillLineAbility: one row (skill 778, spell 1313392 Summon Shen'dorei Wisp). Item: 267079 and 273845 reclassified to Key (13), 278989 icon
 change, 21 new ids 287960/289081-289334 (quest items, BS chain plans 251340-251354 and Pattern: Trapper's Leather Armor 252772 appear in
 QuestieDB 1.0.12 the same day). Nothing referenced by the guides changed.
+
+11 Nov 2026 - build 1.60.1.70888 pulled into 1.60.1.70888/ (wago.tools build of 10 Nov 2026). Tables: the same twelve. Diffed against 1.60.1.70862: eleven tables byte-identical; Item: 271629 reclassified Quest (12) -> Miscellaneous (15, subclass 4) and one new id 290333 (class 2 subclass 3, a ranged weapon). Nothing referenced by the guides changed.
