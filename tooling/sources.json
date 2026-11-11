@@ -120,7 +120,7 @@
     "python tooling/fetch_tooltips.py --from-file <single-dropper ids> for the items with one dropper (Drop Chance is on the tooltip)",
     "rebuild data/drop_rates.json from the raw TSVs (one ITEM<tab><id><tab><json> line per item) and the tooltip file; set \"pulled\" here"
    ],
-   "notes": "11 Nov 2026: 54 item pages (7 batches) + 52 tooltips = 106 items. count/outof counts every sampled kill, including players not on the quest, so it understates the on-quest rate; Wowhead Classic shows the same depressed figures for the same items (Bloodscalp Ear 21% vs 17%), so the numbers are a consistent yardstick for the 60/30 drop-quest rule. Class-quest items (Twisted Totems 274044-274047) read 4-15% because every player's kills are in the denominator; unusable. The bot check (\"Let's confirm you are human\") appeared after about 45 pages and cleared on its own in about 5 minutes."
+   "notes": "11 Nov 2026: 54 item pages (7 batches) + 52 tooltips = 106 items. count/outof counts every sampled kill, including players not on the quest, so it understates the on-quest rate; Wowhead Classic shows the same depressed figures for the same items (Bloodscalp Ear 21% vs 17%), so the numbers are a consistent yardstick for the 60/30 drop-quest rule. Class-quest items (Twisted Totems 274044-274047) read 4-15% because every player's kills are in the denominator; unusable. The bot check (\"Let's confirm you are human\") appeared after about 45 pages and cleared on its own in about 5 minutes. 11 Nov 2026 (late pull, Phase 3): +60 items = 166 (Riverglades and Powderfuse Port quest items, Badlands Power Stones and Reagent Run items, Sealed Folder, Alterac Signet Ring, Singed Note, Illegible Recipe). New entry shapes: \"objects\" (contained-in-object listview: the item is looted from a ground object, count/outof per object) and \"sold_by\" (vendor item, cost in copper). overall_pct is the sum over every listed dropper, so it understates a quest whose route kills only the good droppers (Mudfin Murloc Head 14.9% overall, 22% on the two Mudfin mobs; Saltwater Murloc Eye 28% overall, 35-36% on Oracle / Warrior): read the per-mob rows when applying the drop rule."
   },
   {
    "id": "foreverdb_stats",
@@ -164,6 +164,21 @@
     "update the tables in weights/enh_weights.py if a value changed and re-run the model into weights/weights_<date>.txt"
    ],
    "notes": "11 Nov 2026: 28 tooltips. The cast tooltips show level-60 values; the passive auras on the spell pages give the value at the rank's level (Rockbiter 88 / 129 / 211, Windfury 46 / 119). Stormstrike's tooltip says Requires level 40 while the talent is tier 4 (15 points) on WCLBox and in wowsims/forever's tree."
+  },
+  {
+   "id": "wowhead_quest_links",
+   "path": "data/wowhead_quest_links.json",
+   "source": "Wowhead Forever quest pages: level, required level, side, Start and End NPC / object / item and the Series box, for the quests QuestieDB leaves without a starter or ender (the Riverglades incl. Powderfuse Port, and 29 other round-1 quests of the 30-60 guide)",
+   "local_read": "\"pulled\" below",
+   "pulled": "2026-11-11",
+   "upstream": {"method": "browser only (www.wowhead.com returns 403 to a shell)", "read": "stale when the newest wowf build's created_at date is after \"pulled\" (a proxy); drop a quest from the file once QuestieDB links its starter and ender"},
+   "pull": [
+    "open any https://www.wowhead.com/forever/quest=<id> page in Chrome and, from that tab, fetch('/forever/quest=<id>') for each id about 4 s apart with a 15 s abort timeout; about 30 pages pass before a 405, which clears in 200-400 s (let the loop wait and retry)",
+    "parse the quick-facts markup ([ul][li]Level: ... Side: ... Start: [url=/forever/npc=<id>...] End: ...[/ul]) and the <table class=\"series\"> quest ids",
+    "to get the result out: put it in localStorage, open https://www.wowhead.com/robots.txt in a second tab and trigger one blob download there (first download per tab works; it lands as a GUID .tmp in Downloads); verify length and the sum*31 mod 1e9+7 hash",
+    "rewrite data/wowhead_quest_links.json (one row per quest) and set \"pulled\" here and in the file"
+   ],
+   "notes": "11 Nov 2026: 139 quests in one tab, about 25 minutes with four rate-limit waits. NPCs and objects that have no spawn in QuestieDB (Groundskeeper Lomar 219, Karana 254775, Farmer Elbrim, Hurley, Marshal Ryan, the WANTED! posters...) were read from the NPC / object pages' g_mapperData in the same pull; those coordinates live in the build doc and the chapter lines, not in this file. The Series box is Wowhead's listing order, not proof of a prerequisite. The Riverglades zone listview gives no side for the Powderfuse Port quests; the quest pages say Both."
   }
  ]
 }

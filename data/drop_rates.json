@@ -3485,6 +3485,1281 @@
    "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
    "dropped_by": "Venture Co. Mechanic",
    "overall_pct": 1.58
+  },
+  "267266": {
+   "name": "Mudfin Murloc Head",
+   "quests": [
+    94842
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 255899,
+     "name": "Murloc Tideskimmer",
+     "count": 10,
+     "outof": 1657
+    },
+    {
+     "id": 258573,
+     "name": "Mudfin Oracle",
+     "count": 350,
+     "outof": 1576
+    },
+    {
+     "id": 258574,
+     "name": "Mudfin Warrior",
+     "count": 353,
+     "outof": 1551
+    }
+   ],
+   "overall_pct": 14.9
+  },
+  "266425": {
+   "name": "Twilight Charm",
+   "quests": [
+    94881
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 254560,
+     "name": "Twilight Shadowmancer",
+     "count": 522,
+     "outof": 2288
+    },
+    {
+     "id": 256798,
+     "name": "Twilight Neophyte",
+     "count": 784,
+     "outof": 2826
+    }
+   ],
+   "overall_pct": 25.5
+  },
+  "266427": {
+   "name": "Field Marshal's Log",
+   "quests": [
+    94885
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 254560,
+     "name": "Twilight Shadowmancer",
+     "count": 36,
+     "outof": 2288
+    },
+    {
+     "id": 256798,
+     "name": "Twilight Neophyte",
+     "count": 44,
+     "outof": 2826
+    },
+    {
+     "id": 256952,
+     "name": "Twilight Raider",
+     "count": 51,
+     "outof": 2935
+    },
+    {
+     "id": 260996,
+     "name": "Twilight Subjugator",
+     "count": 1,
+     "outof": 406
+    }
+   ],
+   "overall_pct": 1.6
+  },
+  "266888": {
+   "name": "Prized Lion Hide",
+   "quests": [
+    94925,
+    96109
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 259054,
+     "name": "Wildplains Patriarch",
+     "count": 389,
+     "outof": 816
+    },
+    {
+     "id": 259055,
+     "name": "Wildplains Huntress",
+     "count": 816,
+     "outof": 1676
+    }
+   ],
+   "overall_pct": 48.4
+  },
+  "8009": {
+   "name": "Dentrium Power Stone",
+   "quests": [
+    2418
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 4844,
+     "name": "Shadowforge Surveyor",
+     "count": 38,
+     "outof": 335
+    },
+    {
+     "id": 4845,
+     "name": "Shadowforge Ruffian",
+     "count": 23,
+     "outof": 166
+    },
+    {
+     "id": 4846,
+     "name": "Shadowforge Digger",
+     "count": 51,
+     "outof": 451
+    },
+    {
+     "id": 4847,
+     "name": "Shadowforge Relic Hunter",
+     "count": 1,
+     "outof": 54
+    },
+    {
+     "id": 4848,
+     "name": "Shadowforge Darkcaster",
+     "count": 4,
+     "outof": 22
+    },
+    {
+     "id": 4849,
+     "name": "Shadowforge Archaeologist",
+     "count": 4,
+     "outof": 27
+    },
+    {
+     "id": 7030,
+     "name": "Shadowforge Geologist",
+     "count": 2,
+     "outof": 49
+    },
+    {
+     "id": 7091,
+     "name": "Shadowforge Ambusher",
+     "count": 4,
+     "outof": 16
+    },
+    {
+     "id": 7290,
+     "name": "Shadowforge Sharpshooter",
+     "count": 5,
+     "outof": 37
+    }
+   ],
+   "overall_pct": 11.4
+  },
+  "8052": {
+   "name": "An'Alleum Power Stone",
+   "quests": [
+    2418
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 4844,
+     "name": "Shadowforge Surveyor",
+     "count": 33,
+     "outof": 335
+    },
+    {
+     "id": 4845,
+     "name": "Shadowforge Ruffian",
+     "count": 23,
+     "outof": 166
+    },
+    {
+     "id": 4846,
+     "name": "Shadowforge Digger",
+     "count": 43,
+     "outof": 451
+    },
+    {
+     "id": 4847,
+     "name": "Shadowforge Relic Hunter",
+     "count": 8,
+     "outof": 54
+    },
+    {
+     "id": 4848,
+     "name": "Shadowforge Darkcaster",
+     "count": 3,
+     "outof": 22
+    },
+    {
+     "id": 4849,
+     "name": "Shadowforge Archaeologist",
+     "count": 1,
+     "outof": 27
+    },
+    {
+     "id": 7030,
+     "name": "Shadowforge Geologist",
+     "count": 4,
+     "outof": 49
+    },
+    {
+     "id": 7091,
+     "name": "Shadowforge Ambusher",
+     "count": 5,
+     "outof": 16
+    },
+    {
+     "id": 7290,
+     "name": "Shadowforge Sharpshooter",
+     "count": 2,
+     "outof": 37
+    }
+   ],
+   "overall_pct": 10.5
+  },
+  "7846": {
+   "name": "Crag Coyote Fang",
+   "quests": [
+    2258,
+    2500
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 2727,
+     "name": "Crag Coyote",
+     "count": 189,
+     "outof": 462
+    },
+    {
+     "id": 2728,
+     "name": "Feral Crag Coyote",
+     "count": 118,
+     "outof": 504
+    },
+    {
+     "id": 2729,
+     "name": "Elder Crag Coyote",
+     "count": 346,
+     "outof": 1771
+    },
+    {
+     "id": 2730,
+     "name": "Rabid Crag Coyote",
+     "count": 2,
+     "outof": 9
+    }
+   ],
+   "overall_pct": 23.9
+  },
+  "7847": {
+   "name": "Buzzard Gizzard",
+   "quests": [
+    2258,
+    2500
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 2829,
+     "name": "Starving Buzzard",
+     "count": 67,
+     "outof": 237
+    },
+    {
+     "id": 2830,
+     "name": "Buzzard",
+     "count": 101,
+     "outof": 355
+    },
+    {
+     "id": 2831,
+     "name": "Giant Buzzard",
+     "count": 327,
+     "outof": 1167
+    }
+   ],
+   "overall_pct": 28.1
+  },
+  "7848": {
+   "name": "Rock Elemental Shard",
+   "quests": [
+    2258,
+    2500
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 92,
+     "name": "Rock Elemental",
+     "count": 130,
+     "outof": 974
+    },
+    {
+     "id": 2735,
+     "name": "Lesser Rock Elemental",
+     "count": 266,
+     "outof": 2114
+    },
+    {
+     "id": 2736,
+     "name": "Greater Rock Elemental",
+     "count": 40,
+     "outof": 691
+    },
+    {
+     "id": 2745,
+     "name": "Ambassador Infernus",
+     "count": 1,
+     "outof": 15
+    },
+    {
+     "id": 2752,
+     "name": "Rumbler",
+     "count": 1,
+     "outof": 1
+    },
+    {
+     "id": 2791,
+     "name": "Enraged Rock Elemental",
+     "count": 57,
+     "outof": 378
+    },
+    {
+     "id": 2919,
+     "name": "Fam'retor Guardian",
+     "count": 1,
+     "outof": 34
+    },
+    {
+     "id": 8278,
+     "name": "Smoldar",
+     "count": 18,
+     "outof": 408
+    }
+   ],
+   "overall_pct": 11.1
+  },
+  "213422": {
+   "name": "Illegible Recipe",
+   "quests": [
+    79624
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 2562,
+     "name": "Boulderfist Ogre",
+     "count": 133,
+     "outof": 1307
+    },
+    {
+     "id": 2564,
+     "name": "Boulderfist Enforcer",
+     "count": 202,
+     "outof": 1850
+    },
+    {
+     "id": 2566,
+     "name": "Boulderfist Brute",
+     "count": 28,
+     "outof": 867
+    },
+    {
+     "id": 2567,
+     "name": "Boulderfist Magus",
+     "count": 10,
+     "outof": 347
+    },
+    {
+     "id": 2569,
+     "name": "Boulderfist Mauler",
+     "count": 19,
+     "outof": 229
+    },
+    {
+     "id": 2570,
+     "name": "Boulderfist Shaman",
+     "count": 18,
+     "outof": 269
+    },
+    {
+     "id": 2571,
+     "name": "Boulderfist Lord",
+     "count": 2,
+     "outof": 102
+    }
+   ],
+   "overall_pct": 8.3
+  },
+  "267073": {
+   "name": "Twilight Finger Bone",
+   "quests": [
+    94961
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 254560,
+     "name": "Twilight Shadowmancer",
+     "count": 408,
+     "outof": 2288
+    },
+    {
+     "id": 256798,
+     "name": "Twilight Neophyte",
+     "count": 517,
+     "outof": 2826
+    },
+    {
+     "id": 256952,
+     "name": "Twilight Raider",
+     "count": 482,
+     "outof": 2935
+    },
+    {
+     "id": 260969,
+     "name": "Twilight Instigator",
+     "count": 1,
+     "outof": 487
+    }
+   ],
+   "overall_pct": 16.5
+  },
+  "268344": {
+   "name": "Saltwater Murloc Eye",
+   "quests": [
+    95121
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 255898,
+     "name": "Murloc Oracle",
+     "count": 647,
+     "outof": 1792
+    },
+    {
+     "id": 255899,
+     "name": "Murloc Tideskimmer",
+     "count": 204,
+     "outof": 1657
+    },
+    {
+     "id": 256801,
+     "name": "Murloc Warrior",
+     "count": 594,
+     "outof": 1698
+    }
+   ],
+   "overall_pct": 28.1
+  },
+  "268345": {
+   "name": "Sand Crawler Meat",
+   "quests": [
+    95121
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 255901,
+     "name": "Sand Crawler",
+     "count": 745,
+     "outof": 1943
+    },
+    {
+     "id": 256807,
+     "name": "Shore Crawler",
+     "count": 338,
+     "outof": 1622
+    }
+   ],
+   "overall_pct": 30.4
+  },
+  "268632": {
+   "name": "Beast Entrails",
+   "quests": [
+    95261
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 255851,
+     "name": "Mature Paletusk",
+     "count": 261,
+     "outof": 1080
+    },
+    {
+     "id": 255901,
+     "name": "Sand Crawler",
+     "count": 177,
+     "outof": 1943
+    },
+    {
+     "id": 256807,
+     "name": "Shore Crawler",
+     "count": 327,
+     "outof": 1622
+    },
+    {
+     "id": 257017,
+     "name": "Twilight Worg",
+     "count": 49,
+     "outof": 327
+    },
+    {
+     "id": 258331,
+     "name": "Young Paletusk",
+     "count": 67,
+     "outof": 169
+    },
+    {
+     "id": 258522,
+     "name": "Sootfur",
+     "count": 4,
+     "outof": 131
+    },
+    {
+     "id": 259046,
+     "name": "Freshwater Crocolisk",
+     "count": 71,
+     "outof": 445
+    },
+    {
+     "id": 259054,
+     "name": "Wildplains Patriarch",
+     "count": 89,
+     "outof": 816
+    },
+    {
+     "id": 259055,
+     "name": "Wildplains Huntress",
+     "count": 198,
+     "outof": 1676
+    },
+    {
+     "id": 259267,
+     "name": "Plains Coyote",
+     "count": 76,
+     "outof": 1460
+    },
+    {
+     "id": 259269,
+     "name": "High Plains Buzzard",
+     "count": 66,
+     "outof": 281
+    },
+    {
+     "id": 260235,
+     "name": "Trapclaw",
+     "count": 16,
+     "outof": 185
+    },
+    {
+     "id": 262037,
+     "name": "Roosting Duskbat",
+     "count": 5,
+     "outof": 307
+    },
+    {
+     "id": 263307,
+     "name": "Glade Viper",
+     "count": 138,
+     "outof": 1627
+    },
+    {
+     "id": 263343,
+     "name": "Low Plains Buzzard",
+     "count": 169,
+     "outof": 2056
+    },
+    {
+     "id": 263348,
+     "name": "Roving Tallstrider",
+     "count": 146,
+     "outof": 1235
+    },
+    {
+     "id": 263380,
+     "name": "Ghostmaw",
+     "count": 12,
+     "outof": 205
+    },
+    {
+     "id": 266862,
+     "name": "Juvenile Paletusk",
+     "count": 20,
+     "outof": 45
+    },
+    {
+     "id": 268831,
+     "name": "Plains Prowler",
+     "count": 89,
+     "outof": 267
+    }
+   ],
+   "overall_pct": 12.5
+  },
+  "268796": {
+   "name": "Smuggled Goods",
+   "quests": [
+    95288
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 257901,
+     "name": "Eastsea Buccaneer",
+     "count": 496,
+     "outof": 1624
+    },
+    {
+     "id": 257910,
+     "name": "Eastsea Musketeer",
+     "count": 482,
+     "outof": 1546
+    }
+   ],
+   "overall_pct": 30.9
+  },
+  "266156": {
+   "name": "Fresh Manure",
+   "quests": [
+    94842
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 626594,
+     "name": "Fresh Manure",
+     "count": 410,
+     "outof": 410
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "266251": {
+   "name": "Discarded Doll",
+   "quests": [
+    94858
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 622001,
+     "name": "Discarded Doll",
+     "count": 60,
+     "outof": 60
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "266424": {
+   "name": "Twilight Page",
+   "quests": [
+    94879
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 623246,
+     "name": "Twilight Page",
+     "count": 597,
+     "outof": 597
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "266884": {
+   "name": "Robbie's Hat",
+   "quests": [
+    94923
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 624202,
+     "name": "Hollow Clam Shell",
+     "count": 66,
+     "outof": 66
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "266889": {
+   "name": "Komuk's Warmaul",
+   "quests": [
+    94926
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 259056,
+     "name": "Komuk",
+     "count": 4,
+     "outof": 4
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "266897": {
+   "name": "Saw Blade",
+   "quests": [
+    94931
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 624265,
+     "name": "Stolen Tools",
+     "count": 793,
+     "outof": 793
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "267223": {
+   "name": "Pawprint Tracing",
+   "quests": [
+    94615
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 625779,
+     "name": "Track",
+     "count": 146,
+     "outof": 146
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "268346": {
+   "name": "Eastsea Powder Keg",
+   "quests": [
+    95123
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 629451,
+     "name": "Powder Keg",
+     "count": 670,
+     "outof": 670
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "268506": {
+   "name": "Lamora's Loot",
+   "quests": [
+    95124
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 629472,
+     "name": "Admiral's Treasure Chest",
+     "count": 126,
+     "outof": 126
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "268536": {
+   "name": "Bundle of Hay",
+   "quests": [
+    95156
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 629484,
+     "name": "Hay Bale",
+     "count": 401,
+     "outof": 401
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "268664": {
+   "name": "Rotflesh Mushroom",
+   "quests": [
+    95261
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 630588,
+     "name": "Rotflesh Mushroom",
+     "count": 1135,
+     "outof": 1135
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "271431": {
+   "name": "Fresh Apple",
+   "quests": [
+    95561
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 645233,
+     "name": "Fresh Apple",
+     "count": 657,
+     "outof": 657
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "271611": {
+   "name": "Cubic Draconia",
+   "quests": [
+    95934
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 648590,
+     "name": "Cubic Draconia",
+     "count": 127,
+     "outof": 127
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "271612": {
+   "name": "Head of Scaldaron",
+   "quests": [
+    95935
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 263141,
+     "name": "Scaldaron",
+     "count": 7,
+     "outof": 29
+    }
+   ],
+   "overall_pct": 24.1
+  },
+  "271620": {
+   "name": "Foreman's Crate",
+   "quests": [
+    95943
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 645449,
+     "name": "Foreman's Crate",
+     "count": 136,
+     "outof": 136
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "271653": {
+   "name": "Goblin Degreaser",
+   "quests": [
+    95988
+   ],
+   "source": "wowhead.com/forever/item page, sold-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "sold_by": [
+    {
+     "id": 260565,
+     "name": "Kor'gar",
+     "cost": [
+      [
+       4210
+      ]
+     ]
+    }
+   ]
+  },
+  "271654": {
+   "name": "Expired Poison",
+   "quests": [
+    95988
+   ],
+   "source": "wowhead.com/forever/item page, sold-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "sold_by": [
+    {
+     "id": 260560,
+     "name": "Krikshank",
+     "cost": [
+      [
+       1578
+      ]
+     ]
+    }
+   ]
+  },
+  "271657": {
+   "name": "Fresh Chum",
+   "quests": [
+    95988
+   ],
+   "source": "wowhead.com/forever/item page, sold-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "sold_by": [
+    {
+     "id": 260487,
+     "name": "Gritta Chumwater",
+     "cost": [
+      [
+       8421
+      ]
+     ]
+    }
+   ]
+  },
+  "271823": {
+   "name": "Wildflower",
+   "quests": [
+    95975
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 648994,
+     "name": "Wildflower",
+     "count": 683,
+     "outof": 683
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "271877": {
+   "name": "Wood Bundle",
+   "quests": [
+    96009
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 645516,
+     "name": "Bundle of Wood",
+     "count": 696,
+     "outof": 1610
+    }
+   ],
+   "overall_pct": 43.2
+  },
+  "272004": {
+   "name": "Marsh Gas Vial",
+   "quests": [
+    96063
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 649232,
+     "name": "Marsh Gas Vent",
+     "count": 1763,
+     "outof": 1763
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "274975": {
+   "name": "Rog'mar Supply Crate",
+   "quests": [
+    95426
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 654618,
+     "name": "Rog'mar Supply Crate",
+     "count": 699,
+     "outof": 699
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "277953": {
+   "name": "Stolen Shipment",
+   "quests": [
+    97328
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-object listview (count/outof), 11 Nov 2026 (late pull)",
+   "objects": [
+    {
+     "id": 661518,
+     "name": "Stolen Shipment",
+     "count": 3088,
+     "outof": 3088
+    }
+   ],
+   "overall_pct": 100.0
+  },
+  "3505": {
+   "name": "Alterac Signet Ring",
+   "quests": [
+    512
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 2242,
+     "name": "Syndicate Spy",
+     "count": 172,
+     "outof": 1638
+    },
+    {
+     "id": 2243,
+     "name": "Syndicate Sentry",
+     "count": 115,
+     "outof": 740
+    },
+    {
+     "id": 2245,
+     "name": "Syndicate Saboteur",
+     "count": 29,
+     "outof": 295
+    },
+    {
+     "id": 2246,
+     "name": "Syndicate Assassin",
+     "count": 59,
+     "outof": 553
+    },
+    {
+     "id": 2247,
+     "name": "Syndicate Enforcer",
+     "count": 48,
+     "outof": 330
+    },
+    {
+     "id": 2319,
+     "name": "Syndicate Wizard",
+     "count": 82,
+     "outof": 983
+    },
+    {
+     "id": 14221,
+     "name": "Gravis Slipknot",
+     "count": 4,
+     "outof": 47
+    }
+   ],
+   "overall_pct": 11.1
+  },
+  "213421": {
+   "name": "Singed Note",
+   "quests": [
+    95534
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 11 Nov 2026 (late pull)",
+   "npcs": [
+    {
+     "id": 2318,
+     "name": "Argus Shadow Mage",
+     "count": 42,
+     "outof": 471
+    },
+    {
+     "id": 2319,
+     "name": "Syndicate Wizard",
+     "count": 126,
+     "outof": 983
+    }
+   ],
+   "overall_pct": 11.6
+  },
+  "266157": {
+   "name": "Jumbo Crawfish Shell",
+   "quests": [
+    94842
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Jumbo Crawfish",
+   "overall_pct": 43.45
+  },
+  "271432": {
+   "name": "Coyote Pelt",
+   "quests": [
+    95913
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Plains Coyote",
+   "overall_pct": 16.58
+  },
+  "271778": {
+   "name": "Intact Tallstrider Beak",
+   "quests": [
+    95984,
+    96104
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Roving Tallstrider",
+   "overall_pct": 15.95
+  },
+  "271650": {
+   "name": "Crawler Spittle",
+   "quests": [
+    95988
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Shore Crawler",
+   "overall_pct": 12.21
+  },
+  "4482": {
+   "name": "Sealed Folder",
+   "quests": [
+    658
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Forsaken Courier",
+   "overall_pct": 78.02
+  },
+  "280203": {
+   "name": "Jameson's Training Sword",
+   "quests": [
+    98233
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Corrosive Swamp Ooze",
+   "overall_pct": 35.23
+  },
+  "265357": {
+   "name": "Snargl's Snout",
+   "quests": [
+    94533,
+    94679
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Snargl",
+   "overall_pct": 86.47
+  },
+  "265738": {
+   "name": "Sootfur's Pelt",
+   "quests": [
+    94617
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Sootfur",
+   "overall_pct": 76.34
+  },
+  "265750": {
+   "name": "Chogg's Head",
+   "quests": [
+    95427,
+    95562
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Chogg'Zac",
+   "overall_pct": 80.0
+  },
+  "265751": {
+   "name": "Zac's Head",
+   "quests": [
+    95427,
+    95562
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Chogg'Zac",
+   "overall_pct": 82.16
+  },
+  "265837": {
+   "name": "Kilgar's Head",
+   "quests": [
+    94768,
+    94890
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Overlord Kilgar",
+   "overall_pct": 100.0
+  },
+  "266252": {
+   "name": "Damaged Locket",
+   "quests": [
+    94858
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Converted Farmer",
+   "overall_pct": 75.76
+  },
+  "268341": {
+   "name": "Rot-Covered Harpoon",
+   "quests": [
+    95120
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Old Rot-Chum",
+   "overall_pct": 94.54
+  },
+  "268586": {
+   "name": "Trapclaw's Pincer",
+   "quests": [
+    95254
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Trapclaw",
+   "overall_pct": 90.81
+  },
+  "268633": {
+   "name": "Sea Monster's Head",
+   "quests": [
+    95267
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Monstrous Threshadon",
+   "overall_pct": 94.39
+  },
+  "268810": {
+   "name": "Ruzzgot's Shipment",
+   "quests": [
+    95326
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Venture Co. Agent",
+   "overall_pct": 20.44
+  },
+  "271425": {
+   "name": "Blademaster's Banner",
+   "quests": [
+    95912
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Blademaster Kaijo",
+   "overall_pct": 88.46
+  },
+  "271828": {
+   "name": "Ghostmaw's Fang",
+   "quests": [
+    95991,
+    95992
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Ghostmaw",
+   "overall_pct": 81.95
+  },
+  "272190": {
+   "name": "Gronok's Key",
+   "quests": [
+    96126
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Gronok the Butcher",
+   "overall_pct": 91.3
+  },
+  "281052": {
+   "name": "Ombassa's Hide",
+   "quests": [
+    95986,
+    96105
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026 (late pull)",
+   "dropped_by": "Ombassa",
+   "overall_pct": 99.4
   }
  }
 }
