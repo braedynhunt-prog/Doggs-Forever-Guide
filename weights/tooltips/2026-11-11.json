@@ -103,6 +103,10 @@
   "id": 16608,
   "tooltip": "Aquarius Belt | Item Level 16 | Binds when picked upWaistLeather40 Armor | +2 Stamina | +2 Intellect | Durability 20 / 20Classes: DruidSell Price: 1s 93c"
  },
+ "Arachnid Gloves": {
+  "id": 10777,
+  "tooltip": "Arachnid Gloves | Item Level 42 | Binds when picked upHandsLeather79 Armor | <Random enchantment> | +10 Nature Resistance | Durability 35 / 35Requires Level 37 | Sell Price: 38s 89c | Dropped by: Tuten'kash | Drop Chance: 30.95%"
+ },
  "Arathi Armbands": {
   "id": 270080,
   "tooltip": "Arathi Armbands | Item Level 40 | Binds when picked upWristLeather48 Armor | +7 Strength | +5 Agility | Durability 30 / 30Sell Price: 30s 62c"
@@ -130,6 +134,10 @@
  "Archer's Leggings": {
   "id": 270097,
   "tooltip": "Archer's Leggings | Item Level 46 | Binds when picked upLegsMail222 Armor | +17 Agility | +6 StaminaSell Price: 1g 26s 92c"
+ },
+ "Archmagister's Faceted Pendant": {
+  "id": 273049,
+  "tooltip": "Archmagister's Faceted Pendant | Item Level 35 | Binds when picked upNeck+6 IntellectRequires Level 30 | Equip: +12 Attack Power. |  | Use: Increase experience gained from slaying Undead by 10% for 5 min. (6 Hrs Cooldown) | Sell Price: 35s 20c | Dropped by: Shade of the Archmage | Drop Chance: 35.65%"
  },
  "Arcmetal Shoulders": {
   "id": 16793,
@@ -170,6 +178,10 @@
  "Balanced Quarterstaff": {
   "id": 257343,
   "tooltip": "Balanced Quarterstaff | Item Level 13 | Binds when picked upTwo-HandStaff |     15 - 24 Damage |     Speed 2.20 | (8.86 damage per second) | +2 Stamina | +2 Spirit | Durability 50 / 50Sell Price: 6s 21c"
+ },
+ "Band of Crimson Light": {
+  "id": 274295,
+  "tooltip": "Band of Crimson Light | Item Level 42 | Binds when picked up | Unique-EquippedFingerRequires Level 37 | Equip: Increases healing done by up to 18 and damage done by up to 6 for all magical spells and effects. | Equip: Your spells pierce 3 Magical Resistance. | Sell Price: 63s 27c | Dropped by: Herod | Drop Chance: 24.11%"
  },
  "Band of Thorns": {
   "id": 5007,
@@ -327,6 +339,10 @@
   "id": 11193,
   "tooltip": "Blazewind Breastplate | Item Level 57 | Binds when picked upChestLeather148 Armor | +3 Strength | +23 Agility | +5 Stamina | Durability 85 / 85Sell Price: 1g 69s 38c"
  },
+ "Blightleaf Rope": {
+  "id": 273039,
+  "tooltip": "Blightleaf Rope | Item Level 34 | Binds when picked upWaistCloth28 Armor | +10 Intellect | Restores +5 health per 5 sec. | Durability 30 / 30Requires Level 29 | Equip: Increases damage and healing done by magical spells and effects by up to 7. | Sell Price: 15s | Dropped by: Fel Ancient | Drop Chance: 30.81%"
+ },
  "Blood-Stained Bandit Mask": {
   "id": 253596,
   "tooltip": "Blood-Stained Bandit Mask | Item Level 1 | Quest Item | Max Stack: 10 | Dropped by: Bandit Highwayman | Drop Chance: 33.74%"
@@ -362,6 +378,10 @@
  "Bonebiter": {
   "id": 6830,
   "tooltip": "Bonebiter | Item Level 44 | Binds when picked upTwo-HandAxe |     105 - 159 Damage |     Speed 3.40 | (38.82 damage per second) | +20 Strength | +10 Stamina | Durability 100 / 100Sell Price: 2g 25s 4c"
+ },
+ "Bonefingers": {
+  "id": 10765,
+  "tooltip": "Bonefingers | Item Level 43 | Binds when picked upHandsLeather81 Armor | +9 Stamina | +9 Intellect | Restores +4 mana per 5 sec. | Durability 30 / 30Requires Level 38 | Sell Price: 42s | Dropped by: Amnennar the Coldbringer | Drop Chance: 26.45%"
  },
  "Bonerust Leggings": {
   "id": 271209,
@@ -402,6 +422,10 @@
  "Branchclaw Gauntlets": {
   "id": 17770,
   "tooltip": "Branchclaw Gauntlets | Item Level 49 | Binds when picked upHandsPlate295 Armor | +9 Strength | +5 Stamina | Restores +4 mana per 5 sec. | Restores +4 health per 5 sec. | Durability 40 / 40Sell Price: 76s 87c"
+ },
+ "Branded Leather Bracers": {
+  "id": 19508,
+  "tooltip": "Branded Leather Bracers | Item Level 42 | Binds when picked upWristLeather55 Armor | +6 Stamina | Durability 30 / 30Requires Level 37 | Equip: +20 Attack Power. | Sell Price: 38s 89c | Dropped by: High Inquisitor Fairbanks | Drop Chance: 33.99%"
  },
  "Brass-Banded Bracers": {
   "id": 257331,
@@ -567,6 +591,10 @@
   "id": 6087,
   "tooltip": "Chausses of Westfall | Item Level 24 | Binds when picked upLegsMail173 Armor | +11 Strength | +5 Stamina | Durability 75 / 75Sell Price: 17s 30c"
  },
+ "Cherry Grog": {
+  "id": 4600,
+  "tooltip": "Cherry Grog | Item Level 35Requires Level 25 |  | Use: A strong alcoholic beverage. |  | Max Stack: 20Sell Price: 85c | Dropped by: Stomper Kreeg | Drop Chance: 12.85%"
+ },
  "Chestplate of Kor": {
   "id": 6721,
   "tooltip": "Chestplate of Kor | Item Level 24 | Binds when picked upChestMail180 Armor | +4 Strength | +4 Stamina | +4 Spirit | Durability 90 / 90Sell Price: 14s 18c"
@@ -586,6 +614,10 @@
  "Cilice of Regret": {
   "id": 263403,
   "tooltip": "Cilice of Regret | Item Level 11 | Binds when picked upWaistMail65 Armor | +1 Strength | Durability 20 / 20Sell Price: 97c"
+ },
+ "City Guard's Tarnished Blade": {
+  "id": 286996,
+  "tooltip": "City Guard's Tarnished Blade | Item Level 34 | Binds when equippedOne-HandSword |     39 - 73 Damage |     Speed 2.50 | (22.40 damage per second) | +6 Stamina | Durability 90 / 90Requires Level 29 | Equip: Increases damage and healing done by magical spells and effects by up to 5. | Sell Price: 76s 95c"
  },
  "Civinad Robes": {
   "id": 9623,
@@ -610,6 +642,10 @@
  "Cloak of the People's Militia": {
   "id": 3511,
   "tooltip": "Cloak of the People's Militia | Item Level 15 | Binds when picked upBack14 Armor | +2 AgilitySell Price: 2s 67c"
+ },
+ "Coldbringer Spine": {
+  "id": 274381,
+  "tooltip": "Coldbringer Spine | Item Level 43 | Binds when picked upTwo-HandStaff |     63 - 95 Damage |     Speed 2.80 | (28.21 damage per second) | +20 Spirit | Durability 100 / 100Requires Level 38 | Equip: Improves your chance to hit by 1.0%. | Equip: Increases damage done by Frost spells and effects by up to 59. | Sell Price: 2g 8s 20c | Dropped by: Amnennar the Coldbringer | Drop Chance: 29.68%"
  },
  "Coldridge Hammer": {
   "id": 3103,
@@ -843,9 +879,21 @@
   "id": 2816,
   "tooltip": "Death Speaker Scepter | Item Level 33 | Binds when picked upMain HandMace |     28 - 52 Damage |     Speed 2.80 | (14.29 damage per second) | Restores +12 health per 5 sec. | Durability 90 / 90Requires Level 28 | Equip: Increases healing done by magical spells and effects by up to 68. | Equip: Increases damage done by Shadow spells and effects by up to 28. | Sell Price: 71s 75c | Dropped by: Death Speaker Jargba | Drop Chance: 33.96%"
  },
+ "Deathchill Armor": {
+  "id": 10764,
+  "tooltip": "Deathchill Armor | Item Level 43 | Binds when picked upChestMail266 Armor | +3 Stamina | +9 Intellect | +15 Spirit | Durability 120 / 120Requires Level 39 | Equip: Increases healing done by up to 20 and damage done by up to 7 for all magical spells and effects. | Sell Price: 1g 2c | Dropped by: Amnennar the Coldbringer | Drop Chance: 25.38%"
+ },
+ "Deathmage Sash": {
+  "id": 10771,
+  "tooltip": "Deathmage Sash | Item Level 41 | Binds when picked upWaistCloth33 Armor | +15 Intellect | Durability 30 / 30Requires Level 36 | Equip: Increases damage and healing done by magical spells and effects by up to 7. | Sell Price: 28s 58c | Dropped by: Mordresh Fire Eye | Drop Chance: 27.41%"
+ },
  "Debt Collector": {
   "id": 273827,
   "tooltip": "Debt Collector | Item Level 31 | Binds when picked upMain HandSword |     21 - 39 Damage |     Speed 2.30 | (13.04 damage per second) | Durability 90 / 90Requires Level 26 | Equip: Increases damage and healing done by magical spells and effects by up to 34. |  | Equip: Grants 6 health and 2 mana every 5 sec for 15 sec when one of your spells is resisted. | Sell Price: 61s 64c | Dropped by: Bazil Thredd | Drop Chance: 23.99%"
+ },
+ "Decaying Flesh Bands": {
+  "id": 274380,
+  "tooltip": "Decaying Flesh Bands | Item Level 42 | Binds when picked upWristCloth27 Armor | +9 Agility | -6 Stamina | -6 Spirit | +13 Nature Resistance | Durability 30 / 30Requires Level 37 | Sell Price: 30s 73c | Dropped by: Plaguemaw the Rotting | Drop Chance: 33.02%"
  },
  "Deepblaze": {
   "id": 279896,
@@ -927,6 +975,10 @@
   "id": 277226,
   "tooltip": "Disjointed Shoes | Item Level 28 | Binds when picked upFeetLeather62 Armor | Durability 40 / 40Equip: Increases damage and healing done by magical spells and effects by up to 5. | Equip: +12 Attack Power. | Sell Price: 14s 31c"
  },
+ "Dog Training Gloves": {
+  "id": 7756,
+  "tooltip": "Dog Training Gloves | Item Level 36 | Binds when picked upHandsLeather71 Armor | Durability 30 / 30Requires Level 31 | Equip: +24 Attack Power. | Equip: +21 Attack Power against Beasts. | Sell Price: 24s 6c | Dropped by: Houndmaster Loksey | Drop Chance: 30.22%"
+ },
  "Doomcaller's Pants": {
   "id": 270074,
   "tooltip": "Doomcaller's Pants | Item Level 42 | Binds when picked upLegsLeather101 Armor | +13 Strength | +9 Intellect | Durability 65 / 65Sell Price: 64s 22c"
@@ -962,6 +1014,10 @@
  "Dragonslayer's Lance": {
   "id": 209874,
   "tooltip": "Dragonslayer's Lance | Item Level 25 | Binds when picked up | UniqueAdded in Season of Discovery. May not be in WoW: Forever."
+ },
+ "Drape of Shifting Energy": {
+  "id": 273045,
+  "tooltip": "Drape of Shifting Energy | Item Level 32 | Binds when picked upBack24 Armor | +7 SpiritRequires Level 27 | Equip: +12 Attack Power. | Sell Price: 19s 55c | Dropped by: Arcanic Enigma | Drop Chance: 36.97%"
  },
  "Dreamer's Leggings": {
   "id": 270016,
@@ -1299,6 +1355,10 @@
   "id": 3464,
   "tooltip": "Feathered Arrow | Item Level 35AmmoArrowAdds 9.5 damage per second |  | Max Stack: 200Sell Price: 8c"
  },
+ "Felbough Arm": {
+  "id": 273037,
+  "tooltip": "Felbough Arm | Item Level 34 | Binds when picked upTwo-HandPolearm |     69 - 104 Damage |     Speed 3.00 | (28.83 damage per second) | +10 Agility | +9 Nature Resistance | Durability 100 / 100Requires Level 29 | Equip: Improves your chance to hit by 1.0%. | Sell Price: 1g 2s 92c | Dropped by: Fel Ancient | Drop Chance: 34.13%"
+ },
  "Fen Keeper Robe": {
   "id": 3558,
   "tooltip": "Fen Keeper Robe | Item Level 25 | Binds when picked upChestCloth39 Armor | +9 Spirit | Durability 65 / 65Sell Price: 10s 44c"
@@ -1391,6 +1451,10 @@
   "id": 5248,
   "tooltip": "Flash Wand | Item Level 37 | Binds when picked upRangedWand |     27 - 52 Nature Damage |     Speed 1.30 | (30.38 damage per second) | +4 Intellect | +3 Spirit | Durability 55 / 55Sell Price: 68s 49c"
  },
+ "Fleshhide Shoulders": {
+  "id": 10774,
+  "tooltip": "Fleshhide Shoulders | Item Level 42 | Binds when picked upShoulderLeather95 Armor | +5 Strength | +6 Agility | +15 Stamina | Durability 60 / 60Requires Level 37 | Sell Price: 58s 3c | Dropped by: Glutton | Drop Chance: 32.17%"
+ },
  "Flint and Tinder": {
   "id": 4471,
   "tooltip": "Flint and Tinder | Item Level 5Sell Price: 33c"
@@ -1459,6 +1523,10 @@
   "id": 270050,
   "tooltip": "Fury Ring | Item Level 34 | Binds when picked upFinger+6 Strength | +2 SpiritSell Price: 25s 18c"
  },
+ "Garb of Fallen Felbark": {
+  "id": 273038,
+  "tooltip": "Garb of Fallen Felbark | Item Level 34 | Binds when picked upChestLeather110 Armor | +9 Agility | +7 Stamina | +13 Intellect | Durability 100 / 100Requires Level 29 | Sell Price: 41s 31c | Dropped by: Fel Ancient | Drop Chance: 35.01%"
+ },
  "Garb of Florid Feathers": {
   "id": 273026,
   "tooltip": "Garb of Florid Feathers | Item Level 31 | Binds when picked upChestLeather105 Armor | +9 Agility | +15 Intellect | Durability 100 / 100Requires Level 26 | Sell Price: 28s 94c | Dropped by: Shadetooth | Drop Chance: 29.97%"
@@ -1470,6 +1538,10 @@
  "Garrison Cloak": {
   "id": 9699,
   "tooltip": "Garrison Cloak | Item Level 33 | Binds when picked upBack23 Armor | +3 Agility | +6 StaminaSell Price: 18s 12c"
+ },
+ "Gauntlets of Divinity": {
+  "id": 7724,
+  "tooltip": "Gauntlets of Divinity | Item Level 44 | Binds when picked upHandsMail168 Armor | +7 Stamina | Durability 40 / 40Requires Level 39 | Equip: +32 Attack Power. | Sell Price: 54s 1c | Dropped by: Scarlet Commander Mograine | Drop Chance: 23.08%"
  },
  "Gaze Dreamer Pants": {
   "id": 6903,
@@ -1535,9 +1607,17 @@
   "id": 9698,
   "tooltip": "Gloves of Insight | Item Level 33 | Binds when picked upHandsLeather61 Armor | +7 Stamina | Durability 30 / 30Equip: Increases damage and healing done by magical spells and effects by up to 7. | Sell Price: 15s 4c"
  },
+ "Glowing Eye of Mordresh": {
+  "id": 10769,
+  "tooltip": "Glowing Eye of Mordresh | Item Level 41 | Binds when picked upNeck+8 IntellectRequires Level 36 | Equip: Increases healing done by up to 20 and damage done by up to 7 for all magical spells and effects. | Sell Price: 57s 16c | Dropped by: Mordresh Fire Eye | Drop Chance: 36.79%"
+ },
  "Glowing Thresher Cape": {
   "id": 6901,
   "tooltip": "Glowing Thresher Cape | Item Level 29 | Binds when picked upBack23 Armor | +8 SpiritRequires Level 24 | Equip: Increases healing done by up to 7 and damage done by up to 3 for all magical spells and effects. | Sell Price: 14s 70c | Dropped by: Old Serra'kis | Drop Chance: 31.09%"
+ },
+ "Glutton's Cleaver": {
+  "id": 10772,
+  "tooltip": "Glutton's Cleaver | Item Level 42 | Binds when picked upOne-HandAxe |     40 - 75 Damage |     Speed 2.00 | (28.75 damage per second) | Durability 75 / 75Requires Level 37 | Chance on hit: Wounds the target causing them to bleed for 70 damage over 7 sec. | Sell Price: 1g 54s 35c | Dropped by: Glutton | Drop Chance: 36.39%"
  },
  "Gnarled Short Staff": {
   "id": 1010,
@@ -1803,6 +1883,10 @@
   "id": 4641,
   "tooltip": "Hand of Dagun | Item Level 1 | Quest Item | Unique | Dropped by: Dagun the Ravenous | Drop Chance: 80.00%"
  },
+ "Hand of Righteousness": {
+  "id": 7721,
+  "tooltip": "Hand of Righteousness | Item Level 44 | Binds when picked upMain HandMace |     37 - 70 Damage |     Speed 2.70 | (19.81 damage per second) | +7 Stamina | +8 Spirit | Durability 90 / 90Requires Level 39 | Equip: Increases healing done by up to 94 and damage done by up to 31 for all magical spells and effects. | Sell Price: 1g 80s 3c | Dropped by: High Inquisitor Whitemane | Drop Chance: 30.57%"
+ },
  "Hardened Root Staff": {
   "id": 1317,
   "tooltip": "Hardened Root Staff | Item Level 27 | Binds when picked upTwo-HandStaff |     36 - 54 Damage |     Speed 3.30 | (13.64 damage per second) | +1 Strength | +9 Spirit | Durability 75 / 75Equip: Increases damage and healing done by magical spells and effects by up to 20. | Sell Price: 42s 18c"
@@ -1859,6 +1943,14 @@
   "id": 271766,
   "tooltip": "Heavehammer | Item Level 33 | Binds when picked upTwo-HandMace |     73 - 110 Damage |     Speed 3.30 | (27.73 damage per second) | +60 Armor | Durability 100 / 100Equip: +32 Attack Power. | Sell Price: 88s 57c"
  },
+ "Heavy Kodo Meat": {
+  "id": 12204,
+  "tooltip": "Heavy Kodo Meat | Item Level 35Crafting Reagent |  | Max Stack: 20Sell Price: 1s 12c"
+ },
+ "Heavy Kodo Stew": {
+  "id": 12215,
+  "tooltip": "Heavy Kodo Stew | Item Level 35Requires Level 25 |  | Use: Restores 841 health over 27 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 10 Stamina for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 3s"
+ },
  "Heavy Linen Bandage": {
   "id": 2581,
   "tooltip": "Heavy Linen Bandage | Item Level 1Requires First Aid (20) |  | Use: Heals 114 damage over 6 sec. |  | Max Stack: 20Sell Price: 20c"
@@ -1866,6 +1958,10 @@
  "Hellion Boots": {
   "id": 6791,
   "tooltip": "Hellion Boots | Item Level 40 | Binds when picked upFeetCloth36 Armor | +3 Agility | +5 Intellect | +9 Spirit | Durability 35 / 35Sell Price: 34s 64c"
+ },
+ "Herod's Shoulder": {
+  "id": 7718,
+  "tooltip": "Herod's Shoulder | Item Level 42 | Binds when picked upShoulderMail196 Armor | +15 Stamina | Durability 70 / 70Requires Level 37 | Equip: +12 Attack Power. | Sell Price: 69s 76c | Dropped by: Herod | Drop Chance: 24.40%"
  },
  "Hi-Tech Supergun": {
   "id": 9487,
@@ -1939,6 +2035,10 @@
   "id": 1179,
   "tooltip": "Ice Cold Milk | Item Level 15Requires Level 5 |  | Use: Restores 437 mana over 21 sec.  Must remain seated while drinking. |  | Max Stack: 20Sell Price: 6c"
  },
+ "Icemetal Barbute": {
+  "id": 10763,
+  "tooltip": "Icemetal Barbute | Item Level 43 | Binds when picked upHeadPlate341 Armor | +14 Strength | +7 Stamina | +10 Intellect | +10 Frost Resistance | Durability 80 / 80Requires Level 40 | Sell Price: 87s 35c | Dropped by: Amnennar the Coldbringer | Drop Chance: 27.04%"
+ },
  "Icicle Rod": {
   "id": 2950,
   "tooltip": "Icicle Rod | Item Level 25 | Binds when picked upTwo-HandStaff |     38 - 57 Damage |     Speed 3.80 | (12.50 damage per second) | +4 Intellect | Durability 75 / 75Equip: Increases damage and healing done by magical spells and effects by up to 18. | Equip: Increases damage done by Frost spells and effects by up to 10. | Sell Price: 34s 76c"
@@ -1962,6 +2062,10 @@
  "Infiltrator Buckler": {
   "id": 7330,
   "tooltip": "Infiltrator Buckler | Item Level 33 | Binds when equippedOff HandShield628 Armor | 13 Block | <Random enchantment> | Durability 85 / 85Requires Level 28 | Sell Price: 39s 23c"
+ },
+ "Inquisitor's Shawl": {
+  "id": 19507,
+  "tooltip": "Inquisitor's Shawl | Item Level 42 | Binds when picked upShoulderCloth46 Armor | +13 Intellect | Durability 45 / 45Requires Level 37 | Equip: Increases healing done by up to 22 and damage done by up to 7 for all magical spells and effects. | Sell Price: 46s 30c | Dropped by: High Inquisitor Fairbanks | Drop Chance: 29.08%"
  },
  "Insulated Sage Gloves": {
   "id": 3759,
@@ -2171,6 +2275,10 @@
   "id": 4623,
   "tooltip": "Lesser Stoneshield Potion | Item Level 43Requires Level 33 |  | Use: Increases armor by 1000 for 1.5 min. (2 Min Cooldown) |  | Max Stack: 5Sell Price: 3s 75c"
  },
+ "Library Walkers": {
+  "id": 274294,
+  "tooltip": "Library Walkers | Item Level 39 | Binds when picked upFeetCloth35 Armor | +9 Intellect | Durability 35 / 35Requires Level 34 | Equip: Increases healing done by up to 13 and damage done by up to 5 for all magical spells and effects. | Sell Price: 31s 27c | Dropped by: Arcanist Doan | Drop Chance: 27.36%"
+ },
  "Lightning's Grasp": {
   "id": 280607,
   "tooltip": "Lightning's Grasp | Item Level 40 | Binds when picked upMain HandFist Weapon |     28 - 52 Damage |     Speed 2.20 | (18.18 damage per second) | +6 Intellect | Durability 65 / 65Equip: Increases damage and healing done by magical spells and effects by up to 46. |  | Equip: Increases the critical strike chance of your Lightning Bolt spell by 1%. | Sell Price: 1g 31s 33c"
@@ -2182,6 +2290,10 @@
  "Loch Walkers": {
   "id": 270019,
   "tooltip": "Loch Walkers | Item Level 24 | Binds when picked upFeetLeather58 Armor | +4 Agility | +3 Spirit | Durability 40 / 40Sell Price: 7s 31c"
+ },
+ "Loksey's Training Stick": {
+  "id": 7710,
+  "tooltip": "Loksey's Training Stick | Item Level 36 | Binds when picked upTwo-HandStaff |     77 - 117 Damage |     Speed 3.10 | (31.29 damage per second) | Durability 100 / 100Requires Level 31 | Equip: +28 Attack Power. |  | Chance on hit: Discipline the target, dealing 91 Physical damage. Canines and Hyenas are Stunned and sit for 3 sec. | Sell Price: 1g 19s 37c | Dropped by: Houndmaster Loksey | Drop Chance: 34.34%"
  },
  "Long Bayonet": {
   "id": 4840,
@@ -2242,6 +2354,14 @@
  "Mana Potion": {
   "id": 3827,
   "tooltip": "Mana Potion | Item Level 32Requires Level 22 |  | Use: Restores 455 to 585 mana. (2 Min Cooldown) |  | Max Stack: 5Sell Price: 1s 20c"
+ },
+ "Manascale Treads": {
+  "id": 273042,
+  "tooltip": "Manascale Treads | Item Level 33 | Binds when picked upFeetMail157 Armor | +7 Strength | +7 Intellect | Durability 60 / 60Requires Level 28 | Equip: Improves your chance to get a critical strike by 0.5%. | Sell Price: 31s 18c | Dropped by: Mana Devourer | Drop Chance: 34.75%"
+ },
+ "Mantle of Doan": {
+  "id": 7712,
+  "tooltip": "Mantle of Doan | Item Level 39 | Binds when picked upShoulderCloth39 Armor | +6 Intellect | +8 Spirit | Durability 45 / 45Requires Level 34 | Equip: Increases damage and healing done by magical spells and effects by up to 7. | Sell Price: 30s 63c | Dropped by: Arcanist Doan | Drop Chance: 32.08%"
  },
  "Mantle of Honor": {
   "id": 3560,
@@ -2427,6 +2547,10 @@
   "id": 3919,
   "tooltip": "Mistvale Giblets | Item Level 1 | Quest Item | Max Stack: 20 | Dropped by: Elder Mistvale Gorilla | Drop Chance: 27.90%"
  },
+ "Mograine's Might": {
+  "id": 7723,
+  "tooltip": "Mograine's Might | Item Level 44 | Binds when picked upTwo-HandMace |     105 - 159 Damage |     Speed 3.40 | (38.82 damage per second) | +8 Strength | +14 Stamina | +16 Intellect | Durability 100 / 100Requires Level 39 | Sell Price: 2g 25s 4c | Dropped by: Scarlet Commander Mograine | Drop Chance: 27.35%"
+ },
  "Monastic Hammer": {
   "id": 270005,
   "tooltip": "Monastic Hammer | Item Level 19 | Binds when picked upMain HandMace |     9 - 18 Damage |     Speed 2.10 | (6.43 damage per second) | +2 Intellect | Durability 55 / 55Equip: Increases damage and healing done by magical spells and effects by up to 12. | Sell Price: 12s 53c"
@@ -2450,6 +2574,10 @@
  "Moonstone Wand": {
   "id": 15204,
   "tooltip": "Moonstone Wand | Item Level 18 | Binds when picked upRangedWand |     17 - 32 Arcane Damage |     Speed 1.80 | (13.61 damage per second) | +2 Intellect | Durability 40 / 40Sell Price: 7s 79c"
+ },
+ "Mordresh's Lifeless Skull": {
+  "id": 10770,
+  "tooltip": "Mordresh's Lifeless Skull | Item Level 41 | Binds when picked upHeld In Off-hand+5 SpiritRequires Level 36 | Equip: Increases damage done by Shadow spells and effects by up to 16. | Sell Price: 57s 16c | Dropped by: Mordresh Fire Eye | Drop Chance: 35.45%"
  },
  "Morning Glory Dew": {
   "id": 8766,
@@ -2482,6 +2610,10 @@
  "Murloc-hide Gloves": {
   "id": 270004,
   "tooltip": "Murloc-hide Gloves | Item Level 14 | Binds when picked upHandsLeather43 Armor | +2 Agility | Durability 20 / 20Sell Price: 2s 29c"
+ },
+ "Mystery Stew": {
+  "id": 12214,
+  "tooltip": "Mystery Stew | Item Level 25Requires Level 15 |  | Use: Restores 531 health over 24 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 5 Stamina for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 3s"
  },
  "Mystic Heavy Armor Kit": {
   "id": 252452,
@@ -2739,6 +2871,10 @@
   "id": 7606,
   "tooltip": "Polar Gauntlets | Item Level 22 | Binds when picked upHandsMail109 Armor | +4 Strength | +2 Spirit | Durability 30 / 30Sell Price: 5s 64c"
  },
+ "Ponderous Orb": {
+  "id": 273052,
+  "tooltip": "Ponderous Orb | Item Level 35 | Binds when picked upHeld In Off-hand+2 Intellect | +8 SpiritRequires Level 30 | Equip: Increases healing done by up to 11 and damage done by up to 4 for all magical spells and effects. | Sell Price: 35s 58c | Dropped by: Shade of the Archmage | Drop Chance: 30.96%"
+ },
  "Prelacy Cape": {
   "id": 7004,
   "tooltip": "Prelacy Cape | Item Level 26 | Binds when picked upBack20 Armor | +3 SpiritEquip: Increases healing done by up to 7 and damage done by up to 2 for all magical spells and effects. | Sell Price: 9s 20c"
@@ -2827,6 +2963,10 @@
   "id": 280604,
   "tooltip": "Rage of the Storm | Item Level 40 | Binds when picked upTwo-HandMace |     102 - 154 Damage |     Speed 3.60 | (35.56 damage per second) | +16 Strength | +15 Stamina | Durability 100 / 100Equip: Increases the damage dealt by your Stormstrike ability by 10%. | Sell Price: 1g 62s 35c"
  },
+ "Raging Berserker's Helm": {
+  "id": 7719,
+  "tooltip": "Raging Berserker's Helm | Item Level 42 | Binds when picked upHeadMail213 Armor | +13 Strength | +8 Stamina | Durability 70 / 70Requires Level 37 | Equip: Improves your chance to get a critical strike by 1.0%. | Sell Price: 69s 76c | Dropped by: Herod | Drop Chance: 25.96%"
+ },
  "Rainbow Fin Albacore": {
   "id": 5095,
   "tooltip": "Rainbow Fin Albacore | Item Level 15Requires Level 5 |  | Use: Restores 59 health over 18 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 1 Spell Damage for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 3c"
@@ -2863,6 +3003,10 @@
   "id": 270039,
   "tooltip": "Raptorclaw Shoulders | Item Level 29 | Binds when picked upShoulderLeather69 Armor | +3 Intellect | Durability 50 / 50Equip: Increases damage and healing done by magical spells and effects by up to 7. | Sell Price: 14s 84c"
  },
+ "Ravager": {
+  "id": 7717,
+  "tooltip": "Ravager | Item Level 42 | Binds when picked upTwo-HandAxe |     104 - 157 Damage |     Speed 3.50 | (37.29 damage per second) | Durability 100 / 100Requires Level 37 | Chance on hit: Attack all nearby enemies, dealing weapon damage plus 5 every 3 sec for 9 sec, and reducing your own movement speed by 80%. | Sell Price: 1g 92s 93c | Dropped by: Herod | Drop Chance: 24.68%"
+ },
  "Razormaw Shorts": {
   "id": 281309,
   "tooltip": "Razormaw Shorts | Item Level 30 | Binds when picked upLegsLeather82 Armor | +8 Agility | +6 Stamina | Durability 65 / 65Sell Price: 23s 21c"
@@ -2887,6 +3031,10 @@
   "id": 274972,
   "tooltip": "Recipe: Briny Seafood Stew | Item Level 50 | Binds when picked upRequires Cooking (200) | Use: Teaches you how to cook Briny Seafood Stew. | Sell Price: 5s | Briny Seafood Stew | Item Level 35 | Requires Level 25 |  | Use: Restores 841 health over 27 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 14 Spell Damage for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 12c | Requires Murloc Eye (2), Tender Crab Meat, Hot Spices"
  },
+ "Recipe: Heavy Kodo Stew": {
+  "id": 12240,
+  "tooltip": "Recipe: Heavy Kodo Stew | Item Level 40 | Binds when picked upRequires Cooking (200) | Use: Teaches you how to cook Heavy Kodo Stew. | Sell Price: 17s 50c | Heavy Kodo Stew | Item Level 35 | Requires Level 25 |  | Use: Restores 841 health over 27 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 10 Stamina for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 3s | Requires Heavy Kodo Meat (2), Soothing Spices, Refreshing Spring Water"
+ },
  "Recipe: Lean Venison": {
   "id": 5489,
   "tooltip": "Recipe: Lean Venison | Item Level 25 | Binds when picked upRequires Cooking (110) | Use: Teaches you how to cook Lean Venison. | Sell Price: 3s | Lean Venison | Item Level 25 | Requires Level 15 |  | Use: Restores 531 health over 24 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 5 Strength for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 95c | Requires Stag Meat, Mild Spices (4)"
@@ -2902,6 +3050,10 @@
  "Recipe: Mithril Head Trout": {
   "id": 17062,
   "tooltip": "Recipe: Mithril Head Trout | Item Level 30Requires Cooking (175) | Use: Teaches you how to cook Mithril Head Trout. | Sell Price: 5s 50c | Mithril Head Trout | Item Level 35 | Requires Level 25 |  | Use: Restores 841 health over 27 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 20 Attack Power for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 6c | Requires Raw Mithril Head Trout"
+ },
+ "Recipe: Mystery Stew": {
+  "id": 12233,
+  "tooltip": "Recipe: Mystery Stew | Item Level 35 | Binds when picked upRequires Cooking (175) | Use: Teaches you how to cook Mystery Stew. | Sell Price: 7s 50c | Mystery Stew | Item Level 25 | Requires Level 15 |  | Use: Restores 531 health over 24 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 5 Stamina for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 3s | Requires Mystery Meat, Skin of Dwarven Stout"
  },
  "Recipe: Pincer Bites": {
   "id": 263513,
@@ -3063,6 +3215,10 @@
   "id": 4120,
   "tooltip": "Robe of Crystal Waters | Item Level 40 | Binds when picked upChestCloth53 Armor | +8 Stamina | +10 Intellect | +9 Spirit | Durability 70 / 70Sell Price: 41s 92c"
  },
+ "Robe of Doan": {
+  "id": 7711,
+  "tooltip": "Robe of Doan | Item Level 39 | Binds when picked upChestCloth52 Armor | +4 Stamina | +8 Spirit | Durability 70 / 70Requires Level 34 | Equip: Increases damage done by Fire spells and effects by up to 16. | Sell Price: 40s 84c | Dropped by: Arcanist Doan | Drop Chance: 31.87%"
+ },
  "Robe of Solomon": {
   "id": 3555,
   "tooltip": "Robe of Solomon | Item Level 25 | Binds when picked upChestCloth39 Armor | +7 Stamina | +3 Spirit | Durability 65 / 65Sell Price: 10s 32c"
@@ -3074,6 +3230,10 @@
  "Robes of the Disgraced Thane": {
   "id": 270261,
   "tooltip": "Robes of the Disgraced Thane | Item Level 18 | Binds when picked upChestCloth35 Armor | +4 Spirit | Durability 65 / 65Requires Level 13 | Equip: Increases damage and healing done by magical spells and effects by up to 8. | Sell Price: 5s 3c | Dropped by: Durgen Dirgehammer | Drop Chance: 24.86%"
+ },
+ "Robes of the Lich": {
+  "id": 10762,
+  "tooltip": "Robes of the Lich | Item Level 43 | Binds when picked upChestCloth62 Armor | +20 Stamina | Durability 80 / 80Requires Level 38 | Equip: Increases damage done by Frost spells and effects by up to 14. | Equip: Increases damage done by Shadow spells and effects by up to 14. | Sell Price: 66s 68c | Dropped by: Amnennar the Coldbringer | Drop Chance: 27.30%"
  },
  "Rock Elemental Shard": {
   "id": 7848,
@@ -3126,6 +3286,10 @@
  "Rotmender's Treads": {
   "id": 271214,
   "tooltip": "Rotmender's Treads | Item Level 24 | Binds when picked upFeetCloth29 Armor | +7 Stamina | Durability 35 / 35Requires Level 19 | Equip: Increases healing done by up to 15 and damage done by up to 5 for all magical spells and effects. |  | Rotmender's Raiment (0/5)Rotmender's Garb | Rotmender's Sash | Rotmender's Leggings | Rotmender's Treads | Rotmender's Gloves | (2) Set : +5 Shadow Resistance. | (3) Set : +10 Intellect. | (4) Set : When your Mana falls below 15%, restore 200 Mana over 10 sec. Restores twice as much Mana in Haunted and Wasteland areas. May only occur once every 5 min. (5m cooldown) | (5) Set : Grants your healing spells a chance to heal for an additional 40 Health every 3 sec for 15 sec. (2s cooldown) | Sell Price: 8s 31c | Dropped by: Rath'mael | Drop Chance: 32.40%"
+ },
+ "Roused Nature Footwraps": {
+  "id": 286991,
+  "tooltip": "Roused Nature Footwraps | Item Level 32 | Binds when equippedFeetLeather73 Armor | +6 Stamina | +9 Spirit | Durability 50 / 50Requires Level 27 | Equip: Increases healing done by up to 13 and damage done by up to 4 for all magical spells and effects. | Sell Price: 25s 26c"
  },
  "Royal Dagger": {
   "id": 281297,
@@ -3387,6 +3551,10 @@
   "id": 16791,
   "tooltip": "Silkstream Cuffs | Item Level 38 | Binds when picked upWristCloth22 Armor | +4 Stamina | +5 Intellect | +4 Spirit | Durability 25 / 25Sell Price: 19s 12c"
  },
+ "Silky Spider Cape": {
+  "id": 10776,
+  "tooltip": "Silky Spider Cape | Item Level 42 | Binds when picked upBack30 Armor | +10 StaminaRequires Level 37 | Equip: Reduces the duration of all movement impairing effects on you by 7%. | Sell Price: 46s 30c | Dropped by: Tuten'kash | Drop Chance: 33.73%"
+ },
  "Silver Defias Belt": {
   "id": 832,
   "tooltip": "Silver Defias Belt | Item Level 15 | Binds when equippedWaistMail81 Armor | +2 Strength | +2 Stamina | Durability 25 / 25Requires Level 10 | Sell Price: 2s 3c | Dropped by: Defias Pathstalker | Drop Chance: 2.44%"
@@ -3458,6 +3626,10 @@
  "Slain Baron's Signet": {
   "id": 279867,
   "tooltip": "Slain Baron's Signet | Item Level 23 | Binds when picked upFinger+3 StaminaEquip: Increased Defense +1. | Sell Price: 8s 15c"
+ },
+ "Slitherwrap Girdle": {
+  "id": 273041,
+  "tooltip": "Slitherwrap Girdle | Item Level 33 | Binds when picked upWaistLeather61 Armor | +9 Agility | +6 Stamina | Durability 35 / 35Requires Level 28 | Equip: When struck in combat, drain 2 mana from the attacker. (100ms cooldown) | Sell Price: 17s 32c | Dropped by: Mana Devourer | Drop Chance: 29.74%"
  },
  "Small Brown Pouch": {
   "id": 4496,
@@ -3590,6 +3762,10 @@
  "Spiked Shell Band": {
   "id": 273839,
   "tooltip": "Spiked Shell Band | Item Level 27 | Binds when picked up | Unique-EquippedFinger+5 StaminaRequires Level 22 | Equip: When struck in combat, inflicts 2 Nature damage to the attacker. | Sell Price: 16s 36c | Dropped by: Ghamoo-ra | Drop Chance: 31.82%"
+ },
+ "Spine of the Devourer": {
+  "id": 273040,
+  "tooltip": "Spine of the Devourer | Item Level 33 | Binds when picked upTwo-HandStaff |     59 - 90 Damage |     Speed 3.60 | (20.69 damage per second) | +14 Stamina | Durability 100 / 100Requires Level 28 | Equip: Increases damage and healing done by magical spells and effects by up to 36. | Equip: Your spells pierce 3 Magical Resistance. | Sell Price: 85s 58c | Dropped by: Mana Devourer | Drop Chance: 35.50%"
  },
  "Spiritwraith Drape": {
   "id": 271097,
@@ -3759,6 +3935,10 @@
   "id": 2459,
   "tooltip": "Swiftness Potion | Item Level 15Requires Level 5 |  | Use: Increases run speed by 50% for 15 sec. (2 Min Cooldown) |  | Max Stack: 5Sell Price: 25c | Dropped by: Eric \"The Swift\" | Drop Chance: 6.67%"
  },
+ "Swine Fists": {
+  "id": 10760,
+  "tooltip": "Swine Fists | Item Level 42 | Binds when picked upHandsLeather79 Armor | +8 Strength | +8 Agility | Durability 30 / 30Requires Level 37 | Equip: Spells and attacks against Swine deal 2 Nature damage. | Sell Price: 38s 89c | Dropped by: Plaguemaw the Rotting | Drop Chance: 34.19%"
+ },
  "Swinetusk Shank": {
   "id": 6691,
   "tooltip": "Swinetusk Shank | Item Level 35 | Binds when picked upMain HandDagger |     16 - 30 Damage |     Speed 1.50 | (15.33 damage per second) | +6 Stamina | +4 Spirit | Durability 65 / 65Requires Level 30 | Equip: Increases damage and healing done by magical spells and effects by up to 40. | Sell Price: 86s 81c | Dropped by: Agathelos the Raging | Drop Chance: 28.80%"
@@ -3815,9 +3995,17 @@
   "id": 9587,
   "tooltip": "Thawpelt Sack | Item Level 45 | Binds when picked up | Unique | 14 Slot BagSell Price: 62s 50c"
  },
+ "The Coldbringer's Eye": {
+  "id": 276916,
+  "tooltip": "The Coldbringer's Eye | Item Level 1 | Quest Item | Unique"
+ },
  "The Legacy Heart": {
   "id": 4644,
   "tooltip": "The Legacy Heart | Item Level 1 | Quest Item | Unique | Dropped by: Mogh the Undying | Drop Chance: 100.00%"
+ },
+ "The Lost Magic of the Runemasters": {
+  "id": 273169,
+  "tooltip": "The Lost Magic of the Runemasters | Item Level 1 | Quest Item | Unique"
  },
  "Thelsamar Axe": {
   "id": 3154,
@@ -4011,6 +4199,10 @@
   "id": 9624,
   "tooltip": "Triprunner Dungarees | Item Level 37 | Binds when picked upLegsLeather101 Armor | +3 Strength | +18 Agility | +6 Stamina | Durability 75 / 75Sell Price: 52s 52c"
  },
+ "Triune Amulet": {
+  "id": 7722,
+  "tooltip": "Triune Amulet | Item Level 44 | Binds when picked upNeck+7 Stamina | +7 SpiritRequires Level 39 | Equip: Increases damage and healing done by magical spells and effects by up to 8. | Sell Price: 72s 1c | Dropped by: High Inquisitor Whitemane | Drop Chance: 34.01%"
+ },
  "Trogg Slicer": {
   "id": 6186,
   "tooltip": "Trogg Slicer | Item Level 18 | Binds when picked upTwo-HandSword |     32 - 49 Damage |     Speed 3.40 | (11.91 damage per second) | +5 Spirit | Durability 60 / 60Sell Price: 13s 72c"
@@ -4151,6 +4343,22 @@
   "id": 251962,
   "tooltip": "Violet Sash | Item Level 36 | Binds when picked upWaistCloth27 Armor | +9 Intellect | Durability 25 / 25Equip: Increases damage and healing done by magical spells and effects by up to 6. | Sell Price: 15s 85c"
  },
+ "Violet Sorcerer's Leggings": {
+  "id": 286988,
+  "tooltip": "Violet Sorcerer's Leggings | Item Level 34 | Binds when equippedLegsCloth44 Armor | +13 Intellect | +5 Spirit | Durability 65 / 65Requires Level 29 | Equip: Increases damage and healing done by magical spells and effects by up to 12. |  | Violet Sorcerer's Vestments (0/5)Violet Sorcerer's Mantle | Violet Sorcerer's Leggings | Violet Sorcerer's Sandals | Violet Sorcerer's Wraps | Violet Sorcerer's Robes | (2) Set : +5 Arcane Resistance. | (3) Set : +10 Spirit. | (4) Set : Chance on damaging spell to allow 15% of your Mana regeneration to continue while casting for 15 sec. This Mana Regeneration is doubled in Strongholds and Cities. | (5) Set : Chance on damaging spell to summon an Arcane elemental to aid you in combat. (15s cooldown) | Sell Price: 32s 17c"
+ },
+ "Violet Sorcerer's Mantle": {
+  "id": 273051,
+  "tooltip": "Violet Sorcerer's Mantle | Item Level 35 | Binds when picked upShoulderCloth38 Armor | +9 Intellect | Durability 50 / 50Requires Level 30 | Equip: Your spells pierce 4 Magical Resistance. |  | Violet Sorcerer's Vestments (0/5)Violet Sorcerer's Mantle | Violet Sorcerer's Leggings | Violet Sorcerer's Sandals | Violet Sorcerer's Wraps | Violet Sorcerer's Robes | (2) Set : +5 Arcane Resistance. | (3) Set : +10 Spirit. | (4) Set : Chance on damaging spell to allow 15% of your Mana regeneration to continue while casting for 15 sec. This Mana Regeneration is doubled in Strongholds and Cities. | (5) Set : Chance on damaging spell to summon an Arcane elemental to aid you in combat. (15s cooldown) | Sell Price: 26s 59c | Dropped by: Shade of the Archmage | Drop Chance: 29.91%"
+ },
+ "Violet Sorcerer's Robes": {
+  "id": 273044,
+  "tooltip": "Violet Sorcerer's Robes | Item Level 32 | Binds when picked upChestCloth49 Armor | +15 Intellect | Durability 80 / 80Requires Level 27 | Equip: Increases damage and healing done by magical spells and effects by up to 9. |  | Equip: When damaged, has a chance to reduce threat level on all enemies by a small amount for 10 sec. (Proc chance: 5%) |  | Violet Sorcerer's Vestments (0/5)Violet Sorcerer's Mantle | Violet Sorcerer's Leggings | Violet Sorcerer's Sandals | Violet Sorcerer's Wraps | Violet Sorcerer's Robes | (2) Set : +5 Arcane Resistance. | (3) Set : +10 Spirit. | (4) Set : Chance on damaging spell to allow 15% of your Mana regeneration to continue while casting for 15 sec. This Mana Regeneration is doubled in Strongholds and Cities. | (5) Set : Chance on damaging spell to summon an Arcane elemental to aid you in combat. (15s cooldown) | Sell Price: 25s 97c | Dropped by: Arcanic Enigma | Drop Chance: 32.86%"
+ },
+ "Violet Sorcerer's Wraps": {
+  "id": 286989,
+  "tooltip": "Violet Sorcerer's Wraps | Item Level 33 | Binds when equippedHandsCloth31 Armor | +9 Intellect | Durability 30 / 30Requires Level 28 | Equip: Improves your chance to hit by 1.0%. |  | Violet Sorcerer's Vestments (0/5)Violet Sorcerer's Mantle | Violet Sorcerer's Leggings | Violet Sorcerer's Sandals | Violet Sorcerer's Wraps | Violet Sorcerer's Robes | (2) Set : +5 Arcane Resistance. | (3) Set : +10 Spirit. | (4) Set : Chance on damaging spell to allow 15% of your Mana regeneration to continue while casting for 15 sec. This Mana Regeneration is doubled in Strongholds and Cities. | (5) Set : Chance on damaging spell to summon an Arcane elemental to aid you in combat. (15s cooldown) | Sell Price: 14s 68c"
+ },
  "Viridian Band": {
   "id": 11982,
   "tooltip": "Viridian Band | Item Level 23 | Binds when equippedFinger<Random enchantment>Requires Level 18 | Sell Price: 10s 62c"
@@ -4162,6 +4370,10 @@
  "Vuldren Hide Bracers": {
   "id": 257280,
   "tooltip": "Vuldren Hide Bracers | Item Level 5 | Binds when picked upWristLeather15 Armor | Durability 16 / 16Sell Price: 6c"
+ },
+ "Wand of Mana Concentration": {
+  "id": 273043,
+  "tooltip": "Wand of Mana Concentration | Item Level 32 | Binds when picked upRangedWand |     37 - 69 Arcane Damage |     Speed 1.70 | (31.18 damage per second) | +4 Intellect | Restores +2 mana per 5 sec. | Durability 65 / 65Requires Level 27 | Sell Price: 47s 22c | Dropped by: Arcanic Enigma | Drop Chance: 29.61%"
  },
  "Wandering Boots": {
   "id": 6095,
@@ -4222,6 +4434,10 @@
  "Whisperwind Headdress": {
   "id": 6688,
   "tooltip": "Whisperwind Headdress | Item Level 34 | Binds when picked upHeadLeather89 Armor | +11 Stamina | +11 Spirit | Durability 50 / 50Requires Level 29 | Equip: Increases damage and healing done by magical spells and effects by up to 7. | Sell Price: 29s 67c | Dropped by: Earthcaller Halmgar | Drop Chance: 48.54%"
+ },
+ "Whitemane's Chapeau": {
+  "id": 7720,
+  "tooltip": "Whitemane's Chapeau | Item Level 44 | Binds when picked upHeadCloth52 Armor | +9 Stamina | +10 Intellect | +12 Spirit | Durability 50 / 50Requires Level 39 | Equip: Increases healing done by up to 20 and damage done by up to 7 for all magical spells and effects. |  | Equip: Reduces the cast time of spells and effects that revive targets by 20%. | Sell Price: 54s 1c | Dropped by: High Inquisitor Whitemane | Drop Chance: 34.01%"
  },
  "Wild Harvest": {
   "id": 247841,
@@ -4334,6 +4550,10 @@
  "Wrangling Spaulders": {
   "id": 15698,
   "tooltip": "Wrangling Spaulders | Item Level 38 | Binds when picked upShoulderMail167 Armor | +8 Strength | +2 Agility | +6 Stamina | Durability 60 / 60Sell Price: 42s 73c"
+ },
+ "X'caliboar": {
+  "id": 10758,
+  "tooltip": "X'caliboar | Item Level 42 | Binds when picked upTwo-HandSword |     98 - 148 Damage |     Speed 3.30 | (37.27 damage per second) | +20 Strength | +7 Stamina | Durability 100 / 100Requires Level 37 | Chance on hit: Unleash a mighty swing, dealing 33 to 51 Holy damage. Deals 3 times as much damage to Undead and Swine. | Sell Price: 1g 92s 93c | Dropped by: Ragglesnout | Drop Chance: 37.93%"
  },
  "Yeti Fur Cloak": {
   "id": 2805,
