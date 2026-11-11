@@ -51,6 +51,10 @@
   "id": 10824,
   "tooltip": "Amberglow Talisman | Item Level 44 | Binds when picked upNeck+1 Agility | +7 Stamina | +10 SpiritSell Price: 72s 1c"
  },
+ "An'Alleum Power Stone": {
+  "id": 8052,
+  "tooltip": "An'Alleum Power Stone | Item Level 1 | Quest Item | Max Stack: 20"
+ },
  "Anchorhold Buckler": {
   "id": 15865,
   "tooltip": "Anchorhold Buckler | Item Level 39 | Binds when picked upOff HandShield728 Armor | 16 Block | +6 Intellect | Durability 85 / 85Equip: Increases damage and healing done by magical spells and effects by up to 5. | Sell Price: 65s 62c"
@@ -371,6 +375,10 @@
   "id": 270006,
   "tooltip": "Boots of the People's Militia | Item Level 17 | Binds when picked upFeetLeather50 Armor | Durability 35 / 35Equip: Increases damage and healing done by magical spells and effects by up to 4. | Sell Price: 3s 2c"
  },
+ "Bottle of Powderfuse Port": {
+  "id": 274948,
+  "tooltip": "Bottle of Powderfuse Port | Item Level 42 | Binds when picked upMain HandDagger |     20 - 38 Damage |     Speed 1.80 | (16.11 damage per second) | +7 Intellect | Durability 55 / 55Equip: Increases healing done by up to 63 and damage done by up to 21 for all magical spells and effects. | Sell Price: 1g 29s 47c"
+ },
  "Bouquet of Auberdine Flowers": {
   "id": 281318,
   "tooltip": "Bouquet of Auberdine Flowers | Item Level 29 | Binds when picked upHeld In Off-hand+4 Stamina | +4 IntellectSell Price: 15s 78c"
@@ -466,6 +474,10 @@
  "Buzz Saw": {
   "id": 1937,
   "tooltip": "Buzz Saw | Item Level 23 | Binds when picked upOne-HandSword |     24 - 46 Damage |     Speed 2.30 | (15.22 damage per second) | +3 Agility | +3 Stamina | Durability 60 / 60Requires Level 18 | Sell Price: 25s 51c | Dropped by: Sneed's Shredder | Drop Chance: 28.71%"
+ },
+ "Buzzard Gizzard": {
+  "id": 7847,
+  "tooltip": "Buzzard Gizzard | Item Level 1 | Quest Item | Max Stack: 20"
  },
  "Buzzer Blade": {
   "id": 2169,
@@ -651,9 +663,21 @@
   "id": 274932,
   "tooltip": "Coyote Hide Wraps | Item Level 38 | Binds when picked upWristLeather47 Armor | +5 Stamina | Durability 30 / 30Equip: Increases damage and healing done by magical spells and effects by up to 6. | Sell Price: 24s 33c"
  },
+ "Coyote Pelt": {
+  "id": 271432,
+  "tooltip": "Coyote Pelt | Item Level 1 | Quest Item | Max Stack: 20 | Dropped by: Plains Coyote | Drop Chance: 16.58%"
+ },
  "Craftsman's Dagger": {
   "id": 2218,
   "tooltip": "Craftsman's Dagger | Item Level 13 | Binds when picked upOne-HandDagger |     8 - 15 Damage |     Speed 1.70 | (6.76 damage per second) | +1 Agility | Durability 30 / 30Sell Price: 5s 1c"
+ },
+ "Crag Coyote Fang": {
+  "id": 7846,
+  "tooltip": "Crag Coyote Fang | Item Level 1 | Quest Item | Max Stack: 20"
+ },
+ "Crawler Spittle": {
+  "id": 271650,
+  "tooltip": "Crawler Spittle | Item Level 1 | Quest Item | Max Stack: 20 | Dropped by: Shore Crawler | Drop Chance: 12.21%"
  },
  "Crescent of Forlorn Spirits": {
   "id": 2044,
@@ -854,6 +878,10 @@
  "Demonhide Bracers": {
   "id": 270033,
   "tooltip": "Demonhide Bracers | Item Level 27 | Binds when picked upWristLeather39 Armor | +3 Strength | +4 Agility | Durability 30 / 30Sell Price: 10s 20c"
+ },
+ "Dentrium Power Stone": {
+  "id": 8009,
+  "tooltip": "Dentrium Power Stone | Item Level 1 | Quest Item | Max Stack: 20"
  },
  "Deprecated Dwarven Apprentice Pants": {
   "id": 113,
@@ -1059,6 +1087,10 @@
   "id": 263425,
   "tooltip": "Elegant Cuffs | Item Level 10 | Binds when picked upWristCloth8 Armor | Durability 16 / 16Sell Price: 30c"
  },
+ "Elementalist's Guard": {
+  "id": 280696,
+  "tooltip": "Elementalist's Guard | Item Level 40 | Binds when picked upOff HandShield1078 Armor | 20 Block | +9 Stamina | +6 Intellect | Restores +2 mana per 5 sec. | Durability 100 / 100Sell Price: 82s 81c"
+ },
  "Elite Peacekeeper's Leggings": {
   "id": 257342,
   "tooltip": "Elite Peacekeeper's Leggings | Item Level 13 | Binds when picked upLegsMail113 Armor | +3 Strength | Durability 50 / 50Sell Price: 2s 90c"
@@ -1262,6 +1294,10 @@
  "Ferine Leggings": {
   "id": 6690,
   "tooltip": "Ferine Leggings | Item Level 34 | Binds when picked upLegsLeather96 Armor | +12 Intellect | Durability 65 / 65Requires Level 29 | Equip: +26 Attack Power. | Sell Price: 39s 46c | Dropped by: Agathelos the Raging | Drop Chance: 33.10%"
+ },
+ "Field Marshal's Log": {
+  "id": 266427,
+  "tooltip": "Field Marshal's Log | Item Level 1 | Binds when picked up | Unique | This Item Begins a QuestRequires Level 36 | \"A log with the official Farholde seal found off a Twilight's Hammer cultist.\" |"
  },
  "Fiery Blaze Enchantment": {
   "id": 5421,
@@ -1891,6 +1927,10 @@
   "id": 263411,
   "tooltip": "Idol of Shifting Tides | Item Level 16 | Binds when picked upRelicIdolClasses: DruidEquip: Reduces the mana cost of shapeshifting spells by 40. | Sell Price: 2s 34c"
  },
+ "Illegible Recipe": {
+  "id": 213422,
+  "tooltip": "Illegible Recipe | Item Level 1 | Binds when picked up | This Item Begins a QuestAdded in Season of Discovery. May not be in WoW: Forever."
+ },
  "Impaling Harpoon": {
   "id": 5200,
   "tooltip": "Impaling Harpoon | Item Level 22 | Binds when picked upTwo-HandPolearm |     36 - 55 Damage |     Speed 2.40 | (18.96 damage per second) | +9 Agility | +5 Intellect | Durability 70 / 70Requires Level 17 | Sell Price: 28s 22c | Dropped by: Captain Greenskin | Drop Chance: 31.74%"
@@ -1906,6 +1946,10 @@
  "Insulated Sage Gloves": {
   "id": 3759,
   "tooltip": "Insulated Sage Gloves | Item Level 33 | Binds when picked upHandsCloth28 Armor | +7 Stamina | +6 Intellect | Durability 25 / 25Sell Price: 12s 16c"
+ },
+ "Intact Tallstrider Beak": {
+  "id": 271778,
+  "tooltip": "Intact Tallstrider Beak | Item Level 1 | Quest Item | Dropped by: Roving Tallstrider | Drop Chance: 15.95%"
  },
  "Intrepid Explorer's Chainmail": {
   "id": 279881,
@@ -1983,6 +2027,10 @@
   "id": 281308,
   "tooltip": "Jameson's Backup Sword | Item Level 42 | Binds when picked upTwo-HandSword |     72 - 109 Damage |     Speed 2.90 | (31.21 damage per second) | +11 Strength | +11 Spirit | Durability 85 / 85Sell Price: 1g 65s 58c"
  },
+ "Jameson's Training Sword": {
+  "id": 280203,
+  "tooltip": "Jameson's Training Sword | Item Level 1 | Quest Item | Unique | Dropped by: Corrosive Swamp Ooze | Drop Chance: 35.23%"
+ },
  "Jimmied Handcuffs": {
   "id": 3228,
   "tooltip": "Jimmied Handcuffs | Item Level 28 | Binds when picked upWristMail92 Armor | +3 Strength | +8 Stamina | Durability 40 / 40Requires Level 23 | Sell Price: 13s 36c | Dropped by: Bruegal Ironknuckle | Drop Chance: 36.04%"
@@ -1990,6 +2038,10 @@
  "Jon-Jon's Golden Spyglass": {
   "id": 3925,
   "tooltip": "Jon-Jon's Golden Spyglass | Item Level 1 | Quest Item | Unique | Dropped by: Jon-Jon the Crow | Drop Chance: 61.54%"
+ },
+ "Jumbo Crawfish Shell": {
+  "id": 266157,
+  "tooltip": "Jumbo Crawfish Shell | Item Level 1 | Quest Item | Max Stack: 10 | Dropped by: Jumbo Crawfish | Drop Chance: 43.45%"
  },
  "Jungle Boots": {
   "id": 17688,
@@ -2094,6 +2146,10 @@
  "Lesser Stoneshield Potion": {
   "id": 4623,
   "tooltip": "Lesser Stoneshield Potion | Item Level 43Requires Level 33 |  | Use: Increases armor by 1000 for 1.5 min. (2 Min Cooldown) |  | Max Stack: 5Sell Price: 3s 75c"
+ },
+ "Lightning's Grasp": {
+  "id": 280607,
+  "tooltip": "Lightning's Grasp | Item Level 40 | Binds when picked upMain HandFist Weapon |     28 - 52 Damage |     Speed 2.20 | (18.18 damage per second) | +6 Intellect | Durability 65 / 65Equip: Increases damage and healing done by magical spells and effects by up to 46. |  | Equip: Increases the critical strike chance of your Lightning Bolt spell by 1%. | Sell Price: 1g 31s 33c"
  },
  "Lightstep Leggings": {
   "id": 15456,
@@ -2395,6 +2451,10 @@
   "id": 9518,
   "tooltip": "Mud's Crushers | Item Level 36 | Binds when picked upHandsLeather64 Armor | +11 Strength | Durability 30 / 30Sell Price: 18s 99c"
  },
+ "Mudfin Murloc Head": {
+  "id": 267266,
+  "tooltip": "Mudfin Murloc Head | Item Level 1 | Quest Item | Max Stack: 20"
+ },
  "Murloc-hide Gloves": {
   "id": 270004,
   "tooltip": "Murloc-hide Gloves | Item Level 14 | Binds when picked upHandsLeather43 Armor | +2 Agility | Durability 20 / 20Sell Price: 2s 29c"
@@ -2478,6 +2538,10 @@
  "Old Blanchy's Blanket": {
   "id": 2165,
   "tooltip": "Old Blanchy's Blanket | Item Level 10 | Binds when picked upBack9 ArmorSell Price: 45c"
+ },
+ "Old Leather Jacket": {
+  "id": 280505,
+  "tooltip": "Old Leather Jacket | Item Level 39 | Binds when picked upChestLeather109 Armor | +15 Strength | +2 Agility | +2 Stamina | Durability 85 / 85Sell Price: 42s 66c"
  },
  "Onu's Patience": {
   "id": 281292,
@@ -2675,6 +2739,10 @@
   "id": 265140,
   "tooltip": "Pristine Shriekling Feather | Item Level 1 | Quest Item\"These feathers are soft and just slightly oily. Perfect for insulation against the cool, damp climates of Shadowgale Forest.\" |  | Max Stack: 20 | Dropped by: Shadowgale Shriekling | Drop Chance: 28.53%"
  },
+ "Prized Lion Hide": {
+  "id": 266888,
+  "tooltip": "Prized Lion Hide | Item Level 1 | Quest Item | Max Stack: 20"
+ },
  "Prodigious Shadowshard Pendant": {
   "id": 17773,
   "tooltip": "Prodigious Shadowshard Pendant | Item Level 44 | Binds when picked upNeck+6 Shadow ResistanceEquip: Increases damage and healing done by magical spells and effects by up to 9. | Sell Price: 60s 1c"
@@ -2786,6 +2854,10 @@
  "Recipe: Barbecued Buzzard Wing": {
   "id": 4609,
   "tooltip": "Recipe: Barbecued Buzzard Wing | Item Level 35 | Binds when picked upRequires Cooking (175) | Use: Teaches you how to cook a Barbecued Buzzard Wing. | Sell Price: 2s 50c | Barbecued Buzzard Wing | Item Level 35 | Requires Level 25 |  | Use: Restores 841 health over 27 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 10 Intellect for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 3s | Requires Buzzard Wing, Hot Spices"
+ },
+ "Recipe: Briny Seafood Stew": {
+  "id": 274972,
+  "tooltip": "Recipe: Briny Seafood Stew | Item Level 50 | Binds when picked upRequires Cooking (200) | Use: Teaches you how to cook Briny Seafood Stew. | Sell Price: 5s | Briny Seafood Stew | Item Level 35 | Requires Level 25 |  | Use: Restores 841 health over 27 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 14 Spell Damage for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 12c | Requires Murloc Eye (2), Tender Crab Meat, Hot Spices"
  },
  "Recipe: Lean Venison": {
   "id": 5489,
@@ -2955,6 +3027,10 @@
   "id": 4982,
   "tooltip": "Ripped Prospector Belt | Item Level 38 | Binds when picked upWaistLeather54 Armor | Durability 30 / 30Sell Price: 9s 61c"
  },
+ "Riverglades Marsh Gas": {
+  "id": 274922,
+  "tooltip": "Riverglades Marsh Gas | Item Level 38 | Binds when picked upUse: Reduces movement speed by 50% and increases Fire damage taken by all targets in a 5 yard radius by 15 for 15 sec. (15 Sec Cooldown) |  | Max Stack: 5Sell Price: 2s 4c"
+ },
  "Robe of Crystal Waters": {
   "id": 4120,
   "tooltip": "Robe of Crystal Waters | Item Level 40 | Binds when picked upChestCloth53 Armor | +8 Stamina | +10 Intellect | +9 Spirit | Durability 70 / 70Sell Price: 41s 92c"
@@ -2970,6 +3046,10 @@
  "Robes of the Disgraced Thane": {
   "id": 270261,
   "tooltip": "Robes of the Disgraced Thane | Item Level 18 | Binds when picked upChestCloth35 Armor | +4 Spirit | Durability 65 / 65Requires Level 13 | Equip: Increases damage and healing done by magical spells and effects by up to 8. | Sell Price: 5s 3c | Dropped by: Durgen Dirgehammer | Drop Chance: 24.86%"
+ },
+ "Rock Elemental Shard": {
+  "id": 7848,
+  "tooltip": "Rock Elemental Shard | Item Level 1 | Quest Item | Max Stack: 20"
  },
  "Rock Pulverizer": {
   "id": 4983,
@@ -3002,6 +3082,10 @@
  "Rose Mantle": {
   "id": 5274,
   "tooltip": "Rose Mantle | Item Level 27 | Binds when picked upShoulderCloth30 Armor | +5 Intellect | Durability 40 / 40Equip: Increases damage and healing done by magical spells and effects by up to 5. | Sell Price: 10s 3c"
+ },
+ "Rot-Covered Harpoon": {
+  "id": 274963,
+  "tooltip": "Rot-Covered Harpoon | Item Level 42 | Binds when picked upTwo-HandPolearm |     62 - 94 Damage |     Speed 2.50 | (31.20 damage per second) | Durability 85 / 85Chance on hit: Diseases target for 24 Nature damage every 1 sec for 7 sec. Deals 2 times as much damage to Aquatic enemies. | Sell Price: 1g 58s 86c"
  },
  "Rotmender's Leggings": {
   "id": 271207,
@@ -3146,6 +3230,10 @@
  "Seal of Wrynn": {
   "id": 2933,
   "tooltip": "Seal of Wrynn | Item Level 31 | Binds when picked up | Unique-EquippedFinger+3 Strength | +3 Agility | +4 Stamina | +4 Intellect | +3 SpiritSell Price: 23s 71c"
+ },
+ "Sealed Folder": {
+  "id": 4482,
+  "tooltip": "Sealed Folder | Item Level 1 | Quest Item | Unique | Dropped by: Forsaken Courier | Drop Chance: 78.02%"
  },
  "Seawolf Gloves": {
   "id": 4509,
@@ -3551,6 +3639,10 @@
   "id": 4741,
   "tooltip": "Stromgarde Cavalry Leggings | Item Level 37 | Binds when picked upLegsMail192 Armor | +8 Strength | +2 Agility | +6 Stamina | Durability 75 / 75Sell Price: 54s 38c"
  },
+ "Stromgarde Hood": {
+  "id": 278567,
+  "tooltip": "Stromgarde Hood | Item Level 39 | Binds when picked upHeadCloth42 Armor | +8 Stamina | +110 Armor | Durability 45 / 45Equip: Improves your chance to hit by 0.5%. | Sell Price: 31s 98c"
+ },
  "Stromgarde Librarian Leggings": {
   "id": 270056,
   "tooltip": "Stromgarde Librarian Leggings | Item Level 37 | Binds when picked upLegsCloth43 Armor | +6 Stamina | +9 Intellect | Durability 55 / 55Equip: Increases damage and healing done by magical spells and effects by up to 9. | Sell Price: 35s 24c"
@@ -3606,6 +3698,10 @@
  "Swashbuckler Sash": {
   "id": 9636,
   "tooltip": "Swashbuckler Sash | Item Level 45 | Binds when picked upWaistCloth33 Armor | +10 Strength | +9 Stamina | Durability 25 / 25Sell Price: 31s 54c"
+ },
+ "Sweat-Stained Shirt": {
+  "id": 270334,
+  "tooltip": "Sweat-Stained Shirt | Item Level 1 | Binds when picked upShirtSell Price: 55s"
  },
  "Sweet Nectar": {
   "id": 1708,
@@ -3738,6 +3834,10 @@
  "Tidal Bracers": {
   "id": 270076,
   "tooltip": "Tidal Bracers | Item Level 40 | Binds when picked upWristLeather48 Armor | +5 Strength | +5 Agility | +3 Stamina | Durability 30 / 30Sell Price: 30s 62c"
+ },
+ "Tidebringer's Claw": {
+  "id": 280605,
+  "tooltip": "Tidebringer's Claw | Item Level 40 | Binds when picked upMain HandFist Weapon |     30 - 57 Damage |     Speed 2.40 | (18.13 damage per second) | +5 Stamina | Durability 65 / 65Equip: Increases healing done by up to 86 and damage done by up to 28 for all magical spells and effects. |  | Equip: Increases the critical strike chance of your Healing Wave and Lesser Healing Wave spells by 2%. | Sell Price: 1g 30s 35c"
  },
  "Tiger Band": {
   "id": 6749,
@@ -3903,6 +4003,10 @@
   "id": 274920,
   "tooltip": "Twilight Carver | Item Level 40 | Binds when picked upOne-HandSword |     39 - 73 Damage |     Speed 2.50 | (22.40 damage per second) | +4 Stamina | Durability 75 / 75Equip: +10 Attack Power. | Sell Price: 1g 4s 84c"
  },
+ "Twilight Charm": {
+  "id": 266425,
+  "tooltip": "Twilight Charm | Item Level 1 | Quest Item | Max Stack: 25"
+ },
  "Twilight Lord Girdle": {
   "id": 273846,
   "tooltip": "Twilight Lord Girdle | Item Level 30 | Binds when picked upWaistMail123 Armor | +8 Strength | +6 Block Value | +5 Shadow Resistance | Durability 40 / 40Requires Level 25 | Sell Price: 16s 75c | Dropped by: Twilight Lord Kelris | Drop Chance: 10.20%"
@@ -3938,6 +4042,10 @@
  "Unbalanced Fighting Stick": {
   "id": 274940,
   "tooltip": "Unbalanced Fighting Stick | Item Level 40 | Binds when picked upTwo-HandPolearm |     69 - 104 Damage |     Speed 3.00 | (28.83 damage per second) | +13 Strength | +8 Stamina | Durability 85 / 85Sell Price: 1g 34s 70c"
+ },
+ "Undermine Clam Chowder": {
+  "id": 16766,
+  "tooltip": "Undermine Clam Chowder | Item Level 45Requires Level 35 |  | Use: Restores 1338 health over 30 sec.  Must remain seated while eating. |  | Max Stack: 20Sell Price: 1s"
  },
  "Undertow Legguards": {
   "id": 270077,
