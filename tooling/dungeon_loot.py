@@ -105,7 +105,7 @@ def band_group_lines(bw, head, con_word, tail=''):
     """Report header for a profile whose bands use different weight sets (feral: bear 10/15, cat 20/25/30): one line per
     group of bands with the same sets. None when every band uses one set (the caller keeps its 'every band' line)."""
     groups = []
-    for b in BANDS:
+    for b in [b for b in BANDS if b in bw]:   # feral has no 40 band
         for g in groups:
             if bw[g[0]] == bw[b]:
                 g.append(b)
@@ -328,7 +328,7 @@ def build(only=None, profile=None, variant=None, sink=None):
                 c = client.get(iid)
                 if not c:
                     continue
-                u = prof.client_usable.get((c[0], c[1]))
+                u = prof.client_usable_at(band).get((c[0], c[1]))
                 if not u or (u[1] is not None and c[2] not in u[1]):
                     continue
                 k = kept.setdefault(iid, dict(id=iid, name=item[str(iid)][0] or '?', droppers=set(), cls=c, typ=u[0]))
@@ -340,7 +340,7 @@ def build(only=None, profile=None, variant=None, sink=None):
             for lname, (name, rec) in tt_name.items():
                 if lname in green.get(p2, set()):
                     it = parse(name, rec)
-                    if not usable(it)[0]:
+                    if not prof.usable_at(it, band)[0]:
                         continue
                     base.setdefault(prof.slot_group.get(it['slot'], it['slot']), {})[name] = score(it, wc)
 
@@ -360,7 +360,7 @@ def build(only=None, profile=None, variant=None, sink=None):
             if t:
                 it = parse(t[0], t[1])
                 k['it'] = it
-                k['usable'] = usable(it)
+                k['usable'] = prof.usable_at(it, band)
                 k['req'] = it['req'] or req
                 k['sc'], k['sk'] = score(it, wc), score(it, wk)
                 g = prof.slot_group.get(it['slot'], it['slot'])

@@ -97,14 +97,15 @@ def parse(name, rec):
     it["thrown"] = it["slot"] is None and "Thrown" in head
     return it
 
-def usable(it):
-    """Returns (usable_now, note) for a 2H Enhancement shaman below 40."""
+def usable(it, level=None):
+    """Returns (usable_now, note) for a 2H Enhancement shaman. Mail counts from level 40 (11 Nov 2026: level = the
+    chapter's weights band; None = below 40, as every caller before the 40 band)."""
     slot, cls = it["slot"], it["cls"]
     if slot is None or slot == "Relic":   # Relic (druid idol, 2 Nov 2026) parsed as no slot before
         return False, "not equipment"
     if slot in ("Shirt", "Tabard", "Trinket"):
         return False, "cosmetic"
-    if cls == "Mail":
+    if cls == "Mail" and (level is None or level < 40):
         return False, "mail (40+)"
     if cls in ("Sword", "Polearm", "Bow", "Gun", "Crossbow", "Wand"):
         return False, f"{cls.lower()} (shaman can't use)"
@@ -159,9 +160,23 @@ def main():
     # 8 Nov 2026: Spi 1.0 -> 2.5, SP 1.5 -> 2.0, Int 1.55 -> 1.65, Agi 0.85 -> 0.8 (sheet readings; see profiles.py / docs/audit-2026-11-08.md)
     w_eff = dict(wdps=14.0, str=2.0, ap=1.0, int=1.65, agi=0.8, spi=2.5, sta=0.0, sp=2.0, exp=3.0)
     w_spam = dict(wdps=14.0, str=2.0, ap=1.0, int=1.65, agi=0.8, spi=1.5, sta=0.0, sp=1.0, exp=1.0)
+    # 11 Nov 2026: --band N scores with that band's sets from profiles.enh_band_weights() (Int/Agi from the model) and
+    # that level's rules (Mail from 40, req <= N in the slot table). No flag = the level-20 output as before.
+    band = 20
+    if "--band" in sys.argv:
+        i = sys.argv.index("--band")
+        if i + 1 >= len(sys.argv):
+            sys.exit("--band needs a level band (10/15/20/25/30/40)")
+        band = int(sys.argv[i + 1])
+    if band != 20:
+        from profiles import enh_band_weights
+        bw = enh_band_weights()
+        if band not in bw:
+            sys.exit("unknown band %d (known: %s)" % (band, ", ".join(map(str, sorted(bw)))))
+        w_eff, w_spam = bw[band]
     wsets = {"central": w_eff, "conservative": w_spam}
 
-    print("WEIGHTS (level 20, AP = 1; mace term dropped 1 Nov 2026):")
+    print(f"WEIGHTS (level {band}, AP = 1; mace term dropped 1 Nov 2026):")
     for nm, w in wsets.items():
         print(f"  {nm:12s} " + "  ".join(f"{k}={w[k]:.2f}" for k in ["wdps", "str", "ap", "int", "agi", "spi", "sta", "sp", "exp"]))
 
@@ -181,24 +196,24 @@ def main():
     for it in items:
         if it["quest"]: byq.setdefault(it["quest"], []).append(it)
 
-    print("\nPER-QUEST REWARD RANKING (score = AP-equivalent; level-20 weights, central | conservative)")
+    print(f"\nPER-QUEST REWARD RANKING (score = AP-equivalent; level-{band} weights, central | conservative)")
     for q in sorted(byq):
         rows = byq[q]
-        if not any(usable(r)[0] for r in rows):
+        if not any(usable(r, band)[0] for r in rows):
             continue
         print(f"\nquest {q}  (guide: {guide.get(q, '?')})")
         ranked = sorted(rows, key=lambda r: -score(r, w_eff))
         for r in ranked:
-            u, note = usable(r)
+            u, note = usable(r, band)
             se, ss = score(r, w_eff), score(r, w_spam)
             flag = "" if u else f"  [{note}]"
             print(f"   {se:6.1f} | {ss:6.1f}   {r['name']:34s} {str(r['slot']):12s} {str(r['cls'] or ''):8s} {fmt_stats(r)}{flag}")
 
     # ---- slot-by-slot best usable at level <= 20 from the whole pool
-    print("\nSLOT BY SLOT, everything usable with req <= 20 (central weights; conservative in brackets)")
+    print(f"\nSLOT BY SLOT, everything usable with req <= {band} (central weights; conservative in brackets)")
     slots = ["Two-Hand", "Head", "Neck", "Shoulder", "Back", "Chest", "Wrist", "Hands", "Waist", "Legs", "Feet", "Finger"]
     for sl in slots:
-        rows = [r for r in items if r["slot"] == sl and usable(r)[0] and r["req"] <= 20 and score(r, w_eff) > 0]
+        rows = [r for r in items if r["slot"] == sl and usable(r, band)[0] and r["req"] <= band and score(r, w_eff) > 0]
         rows.sort(key=lambda r: -score(r, w_eff))
         print(f"\n{sl}:")
         for r in rows[:8]:

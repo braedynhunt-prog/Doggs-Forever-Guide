@@ -337,7 +337,7 @@ def build(profile=None, variant=None):
                     r = dict(id=iid, name=nm, tt=t is not None)
                     if t:
                         it = parse(t[0], t[1])
-                        u, note = usable(it)
+                        u, note = prof.usable_at(it, band)
                         r.update(it=it, u=u, note=note, sc=score(it, wc), sk=score(it, wk))
                     else:
                         missing_choice_ids.add(iid)
@@ -532,7 +532,7 @@ def emit(prof, variant, out_path):
                              central=None, conservative=None, describe=None)
                     if t:
                         it = parse(t[0], t[1])
-                        u, note = prof.usable(it)
+                        u, note = prof.usable_at(it, band)
                         r.update(it=it, slot=it['slot'], cls=it['cls'], usable=u, note=note, central=round(prof.score(it, wc), 2),
                                  conservative=round(prof.score(it, wk), 2), describe=prof.describe(it, band))
                     else:

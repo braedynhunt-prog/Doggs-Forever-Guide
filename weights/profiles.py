@@ -1,8 +1,11 @@
 """Gear-weight profiles for the guide tooling (registry; added 1 Nov 2026 for the generator-built warrior variant).
 
 PROFILES = {'enh': ENH, 'prot': PROT, 'feral': FERAL}. Each profile gives:
-  weights(band)     -> (central, conservative) weight dicts for a level band (BANDS 10/15/20/25/30)
+  weights(band)     -> (central, conservative) weight dicts for a level band (BANDS 10/15/20/25/30/40; 40 is enh and
+                       prot only, added 11 Nov 2026 for the 30-60 guide)
   usable(item)      -> (bool, note) on a score_items.parse() item dict
+  usable_at(item, band) / client_usable_at(band)
+                    -> the same rules at a band: enh wears Mail from the 40 band, the other profiles do not change
   score(item, w)    -> AP-equivalent score
   secondary         usable() note that marks a secondary slot: such items count as "best" only when nothing else is
                     usable (enh: the 1H shield set; prot: the ranged pull slot)
@@ -27,7 +30,7 @@ import score_items  # noqa: E402
 import prot_weights  # noqa: E402
 import feral_weights  # noqa: E402
 
-BANDS = (10, 15, 20, 25, 30)
+BANDS = (10, 15, 20, 25, 30, 40)
 
 
 def nearest_band(level):
@@ -76,6 +79,7 @@ ENH_USABLE = {
     (4, 1):  ('cloth', (16,)),            # cloth only as a cloak
     (4, 0):  ('misc', (2, 11, 12)),       # neck, ring, trinket
 }
+ENH_USABLE_40 = {**ENH_USABLE, (4, 3): ('mail', None)}   # 11 Nov 2026: Mail from the 40 band
 PROT_USABLE = {
     (2, 0):  ('1H axe', None),
     (2, 4):  ('1H mace', None),
@@ -156,14 +160,22 @@ def describe(it, w, feral=False):
 
 class Profile:
     def __init__(self, name, label, class_word, class_tag, usable, score, weights, secondary, client_usable,
-                 slot_suffix, slot_group):
+                 slot_suffix, slot_group, usable_level=None, client_usable_by_band=None):
         self.name, self.label, self.class_word, self.class_tag = name, label, class_word, class_tag
+        self._usable_level, self._client_by_band = usable_level, client_usable_by_band or {}
         self.usable, self.score, self._weights, self.secondary = usable, score, weights, secondary
         self.client_usable, self.slot_suffix, self.slot_group = client_usable, slot_suffix, slot_group
         self.nothing_text = 'nothing for a %s - vendor' % class_word
 
     def weights(self, band):
         return self._weights()[band]
+
+    def usable_at(self, it, band):
+        """usable() with the chapter's band: only enh changes with level (Mail from 40)."""
+        return self._usable_level(it, band) if self._usable_level else self.usable(it)
+
+    def client_usable_at(self, band):
+        return self._client_by_band.get(band, self.client_usable)
 
     def band_weights(self):
         return self._weights()
@@ -177,7 +189,8 @@ class Profile:
 ENH = Profile('enh', '2H Enhancement shaman', 'shaman', 'Shaman', score_items.usable, score_items.score, enh_band_weights,
               '1H (shield set only)', ENH_USABLE,
               {k: ' (shield set)' for k in ('1H axe', '1H mace', 'dagger', 'fist weapon')},
-              {'Main Hand': '1H weapon (shield set)', 'One-Hand': '1H weapon (shield set)'})
+              {'Main Hand': '1H weapon (shield set)', 'One-Hand': '1H weapon (shield set)'},
+              usable_level=lambda it, band: score_items.usable(it, level=band), client_usable_by_band={40: ENH_USABLE_40})
 
 PROT = Profile('prot', 'Protection warrior (1H + shield)', 'warrior', 'Warrior', prot_weights.usable, prot_weights.score,
                lambda: {b: (prot_weights.CENTRAL, prot_weights.CONSERVATIVE) for b in BANDS},
