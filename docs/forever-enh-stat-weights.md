@@ -82,3 +82,62 @@ Crafted sets (README numbers): **Totemic Leather beats Brawler's in every slot**
 - Model output (AP = 1, kill-speed optimum = shock on cooldown + Lightning Shield at every band from 15): L15 `int 1.63 agi 0.58 spi 4.77 sp 3.51`; L20 `int 1.67 agi 0.82 spi 4.12 sp 3.00 exp 5.55 hit/crit 6.40`; L25 `int 1.72 agi 0.81 spi 3.13 sp 3.24`; L30 `int 1.69 agi 0.90 spi 2.93 sp 2.74`. One shock per fight at 20: `spi 2.46 sp 1.76`; Lightning Shield only: `spi 1.85 sp 1.18`.
 - Central set now `Int 1.65, Agi 0.8 (0.6 at 15), Spi 2.5, SP 2.0` (the one-shock case, since the model's on-cooldown optimum assumes you drink every pool dry and never wait); conservative `Spi 1.5, SP 1.0, Exp 1`. Applied to `weights/profiles.py`, `weights/score_items.py`, `weights/README.txt`, the Pawn string in `docs/forever-addons.md` and the LOF Enhancement row (`Str 1.0, Agi 0.4, Sta 0.125, Int 0.825, Spi 1.25, AP 0.5, SP 1.0, Dmg 1.0, Hit 3, Crit 3, Armor 0.01, DPS 7`).
 - Consequence for the guide: Spirit pieces score 2.5x and spell-damage pieces 1.33x what they did; `tooling/gear_calls.py` lists the calls that flip (docs/audit-2026-11-08.md). Stat order for rule 6 per point: weapon dps > Spirit ~ Str > spell damage > Int > Agi.
+
+## 11 Nov 2026 update - Windfury, Stormstrike, Flurry and a level-40 band; imbue, weapon and talent verdicts
+Plan: `docs/weights-40-plan-2026-11-11.md`. Run: `weights/weights_2026-11-11.txt`. Data: `data/spell_tooltips.json` (manifest row `spell_tooltips`), WCLBox talent page and foreverdb.net at build 1.60.1.70888, live item tooltips.
+
+**What the brief had wrong (checked 11 Nov, logged in `lessons.md`).** Rage of the Storm is 102-154, speed 3.60, 35.56 dps, +16 Str +15 Sta, +10% Stormstrike damage (the "+15 Sta +12 Int, 3.20 speed" line was a 28 Oct reading). Elemental Weapons 3/3 adds 40% to Windfury's attack power as well as 20% to Rockbiter's. Improved Stormstrike is 50% / 100% per rank (Wowhead spell page: base value 20, rank curve 50 / 100). Flurry is 6% per rank. Tidal Focus gives +1% hit per rank and Mindfulness 17 / 33 / 50% mana regeneration while casting, so the Restoration points are not model-neutral. Stormstrike is tier 4 (15 points) on WCLBox and in the wowsims tree; its tooltip still says "Requires level 40".
+
+**Imbue attack power grows with level.** The cast tooltips are rendered for a level-60 viewer. The passive auras on the Wowhead spell pages give the value at the rank's level: Rockbiter 88 (16) / 129 (24) / 211 (34) against tooltips of 118 / 194 / 355, Windfury 46 (30) / 119 (40) against 104 / 221. That confirms the floor and max columns the model has used since September; how fast the value climbs between them is still the linear convention, and every imbue row is printed at floor, model and max.
+
+**Model changes (`weights/enh_weights.py`).** `Scenario.imbue` (Rockbiter or Windfury), talents `ss`, `iss`, `flurry`, `ant`, `tf`, `mind`, `ils`, `mq`, and `weapon_speed` is now used. Windfury: 20% per landed hit of 2 extra white swings carrying the rank's AP; no Rockbiter AP. Stormstrike: 150% of normalized weapon damage (weapon damage + AP x 3.3 / 14, as wowsims/forever reads the spell), a yellow strike, one in the first cooldown window and one per 6 s after, 8% of base mana, +20% on every Earth Shock after the pull shock; Rage of the Storm multiplies the strike by 1.1. Improved Stormstrike and Mindfulness give regeneration while casting (the fight plus the 5-second tail); in the central case they do not stack. Flurry: 6% per rank on the swings that follow a crit within 3 swings. Tidal Focus: melee hit and cheaper heals. Tables: Earth Shock R5/R6, Lightning Shield R5/R6, Healing Wave efficiency from 32, Rockbiter's level-34 rank 211-355 (was 211-260), crit rows for 35 and 40, client base mana per level, Sweet Nectar / Moonberry Juice / Morning Glory Dew. Bands 25 and 30 now use the sheet's talents; band 40 is new (route-plan gear: Str 7, Agi 5, Int 35, Spi 85, SP 53 before the weapon).
+
+**Regression.** Bands 10 / 15 / 20: kills/hour and every weight identical to `weights_2026-11-08.txt`; only the printed pool and fights-per-drink move with the client base mana (L10 309 -> 304, L15 500 -> 487, L20 767 -> 757). `sensitivity.py` output is byte-identical.
+
+**Weights (AP = 1, shock on cooldown + Lightning Shield, the optimum at every band).**
+
+| band | wdps | Int | Agi | Spi | SP | Exp | +1% hit | +1% crit |
+|---|---|---|---|---|---|---|---|---|
+| 25 | 14.45 | 1.67 | 0.80 | 3.48 | 2.46 | 4.56 | 7.43 | 7.43 |
+| 30 | 13.97 | 1.65 | 0.95 | 4.63 | 2.03 | 4.10 | 8.63 | 9.69 |
+| 40 | 14.71 | 1.69 | 1.12 | 5.40 | 1.98 | 4.15 | 0.00 | 14.19 |
+
+At 40 hit is worth nothing once Tidal Focus 5/5 has removed the 5% miss, and crit is worth more because it also drives Stormstrike and Flurry. The profiles still take only Int and Agi from the model (`weights/profiles.py`, `BANDS` now ends at 40) and hold Str 2, Spi 2.5, SP 2.0, Exp 3, wdps 14. The 8 Nov numbers for 25 and 30 (Int 1.72 / 1.69, Agi 0.81 / 0.90) are superseded; the 1-30 gear reports keep every pick and flag.
+
+**Imbue verdict: no kill-speed case for Windfury at 30 or 40.** Kills/hour, model growth (floor - max):
+
+| band | Rockbiter | Windfury |
+|---|---|---|
+| 30 | 198.0 (192.8 - 201.4) | 196.6 (196.6 - 199.1) |
+| 40, Rage of the Storm | 222.4 (214.5 - 227.5) | 218.2 (218.2 - 221.3) |
+
+Windfury gives up 200-360 AP on every swing and every Stormstrike for extra attacks that carry +64 AP at 30 and +167 at 40 (rank value x 1.4). The two are within 2% of each other, inside what the model can resolve, and Rockbiter is the steadier one. Chapters 22 and 24 of the 1-30 guide say "Windfury on the 2H from 30"; the model does not support that line and does not refute it. Not edited here (no guide edit in this plan).
+
+**Weapon verdict at 40: Rage of the Storm, by a hair.** Rage 222.4 against Bonebiter 220.1 with Rockbiter, 218.2 against 217.8 with Windfury; without Stormstrike Bonebiter leads 170.3 to 167.5. The linear score (`python weights/score_items.py --band 40`: Bonebiter 583.5, Rage of the Storm 529.8) cannot see the Stormstrike bonus or the 3.6 speed that normalized Stormstrike rewards. A 1% gap means either is fine; Bonebiter is worth carrying if it arrives first, not worth a dungeon run on its own.
+
+**Talent check (`weights/talent_check.py`), kills/hour.**
+
+| build | 25 | 30 | 40 | vs sheet at 30 / 40 |
+|---|---|---|---|---|
+| A sheet as written | 216.1 | 198.0 | 222.4 | |
+| B Flurry 5/5 first (26-30), Ancestral Knowledge 3 for Anticipation | 216.1 | 187.2 | 224.0 | -5.5% / +0.7% |
+| C Enhancement only to 40 (Flurry 5, Mental Quickness 2, Improved Lightning Shield 3) | 216.1 | 198.0 | 228.2 | 0 / +2.6% |
+| D Tidal Focus straight after Stormstrike | 216.1 | 189.0 | 224.0 | -4.5% / +0.7% |
+| E Flurry in place of Improved Ghost Wolf | 216.1 | 199.2 | 224.0 | +0.6% / +0.7% |
+| F sheet to 37, Flurry 5/5 in place of Mindfulness | 216.1 | 198.0 | 224.0 | 0 / +0.7% |
+
+- The sheet's order to 32 is sound. Stormstrike (55 kills/hour at 40) and Shamanistic Focus (32) carry the build; Improved Stormstrike at 30-31 is the regeneration engine, and the builds that delay it lose 5% at 30.
+- **Mindfulness 3/3 at 38-40 duplicates Improved Stormstrike 2/2** unless the two stack: removing either one costs nothing in the central case, removing both costs 6%. If they stack the sheet gains 11% (247.4) and is the best build here. One point at 38 and a look at the regeneration while casting settles it; until then the three points are a coin flip against Flurry.
+- Flurry is weak at these crit rates (0.5 kills/hour per point at 40); Tidal Focus is worth about 1 per point, all of it from the hit.
+- Improved Ghost Wolf, Spirit Weapons and Toughness have no term in the model. Builds B, D and E look better than they play because they skip Improved Ghost Wolf.
+- Every difference in the table except the two -5% rows is under 3%, which is inside the model's resolution. Recommendation: keep the sheet; decide 38-40 from the stacking test.
+
+**Limits of the model at these levels.** With Stormstrike the fights last 4.5-6.5 s. The model's continuous counts (a shock every 6 s plus the pull shock, three Lightning Shield orbs per fight) overstate damage in fights that short, so the absolute kills/hour at 25-40 are high; the comparisons share the bias. Windfury's variance, Flurry procs from Windfury and Stormstrike crits, and the dodge/parry reset of Improved Stormstrike are not modelled.
+
+**In-game test list.**
+1. Stormstrike offered in tier 4 at 25 (two client-derived sources say yes; the tooltip says level 40).
+2. Rockbiter's AP on the character sheet now and one level later (how fast it grows inside a rank); the same for Windfury at 30. This decides the imbue rows.
+3. Improved Stormstrike rank 1 in the talent pane: 50%.
+4. At 38: does Mindfulness add to Improved Stormstrike's regeneration while casting?
+5. Tidal Focus: does the hit show on the character sheet for melee, spells or both?
+6. Windfury's extra attacks: do they carry the +AP on both attacks (tooltip wording says so)?

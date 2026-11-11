@@ -37,3 +37,12 @@ Open until checked in game: whether the Spirit regen has a level term (re-read a
 levels on), expertise rating-to-% below 60 (decides expertise 1..5), Rockbiter AP growth inside a rank,
 Earth Shock's spell-power coefficient below top rank (0.386 at R7 on Wowhead). Settled 8 Nov 2026: regen
 formula, crit per Agi / Int, base crit, Earth Shock and Lightning Shield ranks. See the .md.
+
+11 Nov 2026: level-40 band and the Windfury / Stormstrike / Flurry terms
+  enh_weights.py        now has an imbue switch (Rockbiter or Windfury), Stormstrike, Improved Stormstrike, Flurry, Anticipation,
+                        Tidal Focus, Mindfulness, Improved Lightning Shield and Mental Quickness, bands 10/15/20/25/30/40, and prints
+                        imbue and level-40 weapon tables after the bands. Bands 10/15/20 reproduce weights_2026-11-08.txt.
+  talent_check.py       the levelling sheet's talent order against five alternatives at 25/30/40 (python weights/talent_check.py)
+  score_items.py        --band N scores with that band's weights and rules (Mail from 40); no flag = level 20 as before
+  weights_2026-11-11.txt the run: model, talent check, sensitivity. Write-up: docs/forever-enh-stat-weights.md, 11 Nov section.
+  Spell data behind it: data/spell_tooltips.json (manifest row spell_tooltips).
