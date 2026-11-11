@@ -1,6 +1,6 @@
 {
  "_source": "Wowhead Forever NPC pages (https://www.wowhead.com/forever/npc=<id>), listviews teaches-ability / teaches-recipe field trainingcost (copper); read in Chrome 5 Nov 2026, client 1.60.1.70790. All rows kept (9 Nov 2026, for the 30-60 guide). level = Wowhead level or learnedat (skill; 9999 = Wowhead placeholder). Buliwyf Stonehand 11865 and Woo Ping 11867 pages carry no training list, so weapon-skill prices stay unverified. 9 Nov 2026: re-pulled every trainer and added the 30-60 route trainers and vendors (riding, Leatherworking ranks and specialisations, Expert books, Artisan Cooking/Fishing, Aerie Peak shaman trainer); \"sells\" lists hold vendor prices in copper (Wowhead \"cost\"). Riding costs are Wowhead raw values (x0.95 at Friendly = 100g / 1,000g). 9 Nov 2026: re-pulled every trainer and added the 30-60 route trainers and vendors (riding, Leatherworking ranks and specialisations, Expert books, Artisan Cooking/Fishing, Aerie Peak shaman trainer); \"sells\" lists hold vendor prices in copper (Wowhead \"cost\"). Riding costs are Wowhead raw values (x0.95 at Friendly = 100g / 1,000g). 9 Nov 2026: re-pulled every trainer and added the 30-60 route trainers and vendors (riding, Leatherworking ranks and specialisations, Expert books, Artisan Cooking/Fishing, Aerie Peak shaman trainer); \"sells\" lists hold vendor prices in copper (Wowhead \"cost\"). Riding costs are Wowhead raw values (x0.95 at Friendly = 100g / 1,000g). 9 Nov 2026: re-pulled every trainer and added the 30-60 route trainers and vendors (riding, Leatherworking ranks and specialisations, Expert books, Artisan Cooking/Fishing, Aerie Peak shaman trainer); \"sells\" lists hold vendor prices in copper (Wowhead \"cost\"). Riding costs are Wowhead raw values (x0.95 at Friendly = 100g / 1,000g). 9 Nov 2026: re-pulled every trainer and added the 30-60 route trainers and vendors (riding, Leatherworking ranks and specialisations, Expert books, Artisan Cooking/Fishing, Aerie Peak shaman trainer); \"sells\" lists hold vendor prices in copper (Wowhead \"cost\"). Riding costs are Wowhead raw values (x0.95 at Friendly = 100g / 1,000g). 9 Nov 2026: re-pulled every trainer and added the 30-60 route trainers and vendors (riding, Leatherworking ranks and specialisations, Expert books, Artisan Cooking/Fishing, Aerie Peak shaman trainer); \"sells\" lists hold vendor prices in copper (Wowhead \"cost\"). Riding costs are Wowhead raw values (x0.95 at Friendly = 100g / 1,000g).",
- "258098": {"name": "Eldrun Stormbreaker", "pulled": "2026-11-09", "spells": [
+ "258098": {"name": "Eldrun Stormbreaker", "pulled": "2026-11-11", "spells": [
   {"id": 131, "name": "Water Breathing", "rank": null, "level": 22, "cost": 3000},
   {"id": 324, "name": "Lightning Shield", "rank": 1, "level": 8, "cost": 100},
   {"id": 325, "name": "Lightning Shield", "rank": 2, "level": 16, "cost": 1800},
@@ -166,7 +166,7 @@
   {"id": 1239243, "name": "Riptide", "rank": 3, "level": 60, "cost": 1600},
   {"id": 1325256, "name": "Mana Tide Totem", "rank": 4, "level": 58, "cost": 33684}
  ]},
- "1466": {"name": "Gretta Finespindle", "pulled": "2026-11-09", "spells": [
+ "1466": {"name": "Gretta Finespindle", "pulled": "2026-11-11", "spells": [
   {"id": 2108, "name": "Apprentice Leatherworking", "rank": null, "level": 9999, "cost": 10},
   {"id": 2153, "name": "Handstitched Leather Pants", "rank": null, "level": 15, "cost": 50},
   {"id": 2160, "name": "Embossed Leather Vest", "rank": null, "level": 35, "cost": 100},
@@ -179,13 +179,13 @@
   {"id": 9060, "name": "Light Leather Quiver", "rank": null, "level": 25, "cost": 100},
   {"id": 9062, "name": "Small Leather Ammo Pouch", "rank": null, "level": 25, "cost": 100},
   {"id": 9065, "name": "Light Leather Bracers", "rank": null, "level": 45, "cost": 150},
-  {"id": 1229432, "name": "Camp Tent", "rank": 1, "level": 20, "cost": 100},
-  {"id": 1255143, "name": "Moonglow Boots", "rank": null, "level": 35, "cost": 500},
-  {"id": 1255144, "name": "Murloc Scale Shoes", "rank": null, "level": 35, "cost": 500},
-  {"id": 1255145, "name": "Dark Leather Boots", "rank": null, "level": 35, "cost": 500},
-  {"id": 1255146, "name": "Black Whelp Slippers", "rank": null, "level": 35, "cost": 500}
+  {"id": 1229432, "name": "Camp Tent", "rank": 1, "level": 20, "cost": 105},
+  {"id": 1255143, "name": "Moonglow Boots", "rank": null, "level": 35, "cost": 526},
+  {"id": 1255144, "name": "Murloc Scale Shoes", "rank": null, "level": 35, "cost": 526},
+  {"id": 1255145, "name": "Dark Leather Boots", "rank": null, "level": 35, "cost": 526},
+  {"id": 1255146, "name": "Black Whelp Slippers", "rank": null, "level": 35, "cost": 526}
  ]},
- "1699": {"name": "Gremlock Pilsnor", "pulled": "2026-11-09", "spells": [
+ "1699": {"name": "Gremlock Pilsnor", "pulled": "2026-11-11", "spells": [
   {"id": 2539, "name": "Spiced Wolf Meat", "rank": null, "level": 10, "cost": 50},
   {"id": 2541, "name": "Coyote Steak", "rank": null, "level": 50, "cost": 100},
   {"id": 2544, "name": "Crab Cake", "rank": null, "level": 75, "cost": 200},
@@ -197,12 +197,12 @@
   {"id": 21175, "name": "Spider Sausage", "rank": null, "level": 200, "cost": 4000},
   {"id": 1229737, "name": "Basic Campfire", "rank": 1, "level": 20, "cost": 105}
  ]},
- "1700": {"name": "Paxton Ganter", "pulled": "2026-11-09", "spells": [
+ "1700": {"name": "Paxton Ganter", "pulled": "2026-11-11", "spells": [
   {"id": 7620, "name": "Apprentice Fishing", "rank": null, "level": 1, "cost": 100},
   {"id": 7731, "name": "Journeyman Fishing", "rank": null, "level": 1, "cost": 500},
   {"id": 1229745, "name": "Fish Bowl", "rank": 1, "level": 20, "cost": 105}
  ]},
- "2326": {"name": "Thamner Pol", "pulled": "2026-11-09", "spells": [
+ "2326": {"name": "Thamner Pol", "pulled": "2026-11-11", "spells": [
   {"id": 3273, "name": "Apprentice First Aid", "rank": null, "level": 9999, "cost": 100},
   {"id": 3274, "name": "Journeyman First Aid", "rank": null, "level": 50, "cost": 500},
   {"id": 3276, "name": "Heavy Linen Bandage", "rank": null, "level": 40, "cost": 105},
@@ -217,15 +217,15 @@
   {"id": 1259342, "name": "Simple Poultice", "rank": null, "level": 90, "cost": 263},
   {"id": 1259347, "name": "Woolen Tourniquet", "rank": null, "level": 120, "cost": 1263}
  ]},
- "2626": {"name": "Old Man Heming", "pulled": "2026-11-09", "spells": [
+ "2626": {"name": "Old Man Heming", "pulled": "2026-11-11", "spells": [
  ]},
- "2664": {"name": "Kelsey Yance", "pulled": "2026-11-09", "spells": [
+ "2664": {"name": "Kelsey Yance", "pulled": "2026-11-11", "spells": [
  ]},
- "2805": {"name": "Deneb Walker", "pulled": "2026-11-09", "spells": [
+ "2805": {"name": "Deneb Walker", "pulled": "2026-11-11", "spells": [
  ]},
- "3955": {"name": "Shandrina", "pulled": "2026-11-09", "spells": [
+ "3955": {"name": "Shandrina", "pulled": "2026-11-11", "spells": [
  ]},
- "4212": {"name": "Telonis", "pulled": "2026-11-09", "spells": [
+ "4212": {"name": "Telonis", "pulled": "2026-11-11", "spells": [
   {"id": 2108, "name": "Apprentice Leatherworking", "rank": null, "level": 9999, "cost": 10},
   {"id": 2153, "name": "Handstitched Leather Pants", "rank": null, "level": 15, "cost": 50},
   {"id": 2159, "name": "Fine Leather Cloak", "rank": null, "level": 50, "cost": 250},
@@ -282,7 +282,7 @@
   {"id": 20648, "name": "Medium Leather", "rank": null, "level": 75, "cost": 500},
   {"id": 20649, "name": "Heavy Leather", "rank": null, "level": 125, "cost": 1000},
   {"id": 20650, "name": "Thick Leather", "rank": null, "level": 175, "cost": 4000},
-  {"id": 1229432, "name": "Camp Tent", "rank": 1, "level": 20, "cost": 100},
+  {"id": 1229432, "name": "Camp Tent", "rank": 1, "level": 20, "cost": 105},
   {"id": 1255075, "name": "Mender's Leather Belt", "rank": null, "level": 150, "cost": 2000},
   {"id": 1255076, "name": "Skycaller's Leather Belt", "rank": null, "level": 150, "cost": 2000},
   {"id": 1255077, "name": "Skirmisher's Leather Belt", "rank": null, "level": 150, "cost": 2000},
@@ -290,16 +290,16 @@
   {"id": 1255079, "name": "Stalker's Leather Belt", "rank": null, "level": 150, "cost": 2000},
   {"id": 1255080, "name": "Skulker's Leather Belt", "rank": null, "level": 150, "cost": 2000},
   {"id": 1255081, "name": "Prowler's Leather Belt", "rank": null, "level": 150, "cost": 2000},
-  {"id": 1255143, "name": "Moonglow Boots", "rank": null, "level": 35, "cost": 500},
-  {"id": 1255144, "name": "Murloc Scale Shoes", "rank": null, "level": 35, "cost": 500},
-  {"id": 1255145, "name": "Dark Leather Boots", "rank": null, "level": 35, "cost": 500},
-  {"id": 1255146, "name": "Black Whelp Slippers", "rank": null, "level": 35, "cost": 500}
+  {"id": 1255143, "name": "Moonglow Boots", "rank": null, "level": 35, "cost": 526},
+  {"id": 1255144, "name": "Murloc Scale Shoes", "rank": null, "level": 35, "cost": 526},
+  {"id": 1255145, "name": "Dark Leather Boots", "rank": null, "level": 35, "cost": 526},
+  {"id": 1255146, "name": "Black Whelp Slippers", "rank": null, "level": 35, "cost": 526}
  ]},
- "4772": {"name": "Ultham Ironhorn", "pulled": "2026-11-09", "spells": [
+ "4772": {"name": "Ultham Ironhorn", "pulled": "2026-11-11", "spells": [
   {"id": 33388, "name": "Apprentice Riding", "rank": null, "level": 9999, "cost": 1052631},
   {"id": 33391, "name": "Journeyman Riding", "rank": null, "level": 9999, "cost": 10526315}
  ]},
- "5127": {"name": "Fimble Finespindle", "pulled": "2026-11-09", "spells": [
+ "5127": {"name": "Fimble Finespindle", "pulled": "2026-11-11", "spells": [
   {"id": 2108, "name": "Apprentice Leatherworking", "rank": null, "level": 9999, "cost": 10},
   {"id": 2153, "name": "Handstitched Leather Pants", "rank": null, "level": 15, "cost": 50},
   {"id": 2159, "name": "Fine Leather Cloak", "rank": null, "level": 50, "cost": 250},
@@ -336,7 +336,7 @@
   {"id": 9194, "name": "Heavy Leather Ammo Pouch", "rank": null, "level": 125, "cost": 500},
   {"id": 20648, "name": "Medium Leather", "rank": null, "level": 75, "cost": 500},
   {"id": 20649, "name": "Heavy Leather", "rank": null, "level": 125, "cost": 1000},
-  {"id": 1229432, "name": "Camp Tent", "rank": 1, "level": 20, "cost": 100},
+  {"id": 1229432, "name": "Camp Tent", "rank": 1, "level": 20, "cost": 105},
   {"id": 1255075, "name": "Mender's Leather Belt", "rank": null, "level": 150, "cost": 2000},
   {"id": 1255076, "name": "Skycaller's Leather Belt", "rank": null, "level": 150, "cost": 2000},
   {"id": 1255077, "name": "Skirmisher's Leather Belt", "rank": null, "level": 150, "cost": 2000},
@@ -344,12 +344,12 @@
   {"id": 1255079, "name": "Stalker's Leather Belt", "rank": null, "level": 150, "cost": 2000},
   {"id": 1255080, "name": "Skulker's Leather Belt", "rank": null, "level": 150, "cost": 2000},
   {"id": 1255081, "name": "Prowler's Leather Belt", "rank": null, "level": 150, "cost": 2000},
-  {"id": 1255143, "name": "Moonglow Boots", "rank": null, "level": 35, "cost": 500},
-  {"id": 1255144, "name": "Murloc Scale Shoes", "rank": null, "level": 35, "cost": 500},
-  {"id": 1255145, "name": "Dark Leather Boots", "rank": null, "level": 35, "cost": 500},
-  {"id": 1255146, "name": "Black Whelp Slippers", "rank": null, "level": 35, "cost": 500}
+  {"id": 1255143, "name": "Moonglow Boots", "rank": null, "level": 35, "cost": 526},
+  {"id": 1255144, "name": "Murloc Scale Shoes", "rank": null, "level": 35, "cost": 526},
+  {"id": 1255145, "name": "Dark Leather Boots", "rank": null, "level": 35, "cost": 526},
+  {"id": 1255146, "name": "Black Whelp Slippers", "rank": null, "level": 35, "cost": 526}
  ]},
- "5150": {"name": "Nissa Firestone", "pulled": "2026-11-09", "spells": [
+ "5150": {"name": "Nissa Firestone", "pulled": "2026-11-11", "spells": [
   {"id": 3273, "name": "Apprentice First Aid", "rank": null, "level": 9999, "cost": 100},
   {"id": 3274, "name": "Journeyman First Aid", "rank": null, "level": 50, "cost": 500},
   {"id": 3276, "name": "Heavy Linen Bandage", "rank": null, "level": 40, "cost": 105},
@@ -364,7 +364,7 @@
   {"id": 1259342, "name": "Simple Poultice", "rank": null, "level": 90, "cost": 263},
   {"id": 1259347, "name": "Woolen Tourniquet", "rank": null, "level": 120, "cost": 1263}
  ]},
- "5159": {"name": "Daryl Riknussun", "pulled": "2026-11-09", "spells": [
+ "5159": {"name": "Daryl Riknussun", "pulled": "2026-11-11", "spells": [
   {"id": 2539, "name": "Spiced Wolf Meat", "rank": null, "level": 10, "cost": 50},
   {"id": 2541, "name": "Coyote Steak", "rank": null, "level": 50, "cost": 100},
   {"id": 2544, "name": "Crab Cake", "rank": null, "level": 75, "cost": 200},
@@ -376,35 +376,37 @@
   {"id": 21175, "name": "Spider Sausage", "rank": null, "level": 200, "cost": 4000},
   {"id": 1229737, "name": "Basic Campfire", "rank": 1, "level": 20, "cost": 105}
  ]},
- "5161": {"name": "Grimnur Stonebrand", "pulled": "2026-11-09", "spells": [
+ "5161": {"name": "Grimnur Stonebrand", "pulled": "2026-11-11", "spells": [
   {"id": 7620, "name": "Apprentice Fishing", "rank": null, "level": 1, "cost": 100},
   {"id": 7731, "name": "Journeyman Fishing", "rank": null, "level": 1, "cost": 500},
   {"id": 1229745, "name": "Fish Bowl", "rank": 1, "level": 20, "cost": 105}
  ]},
- "6291": {"name": "Balthus Stoneflayer", "pulled": "2026-11-09", "spells": [
+ "6291": {"name": "Balthus Stoneflayer", "pulled": "2026-11-11", "spells": [
   {"id": 8613, "name": "Apprentice Skinning", "rank": null, "level": 9999, "cost": 10},
   {"id": 8617, "name": "Journeyman Skinning", "rank": null, "level": 50, "cost": 500},
   {"id": 8618, "name": "Expert Skinning", "rank": null, "level": 125, "cost": 5000},
   {"id": 10768, "name": "Artisan Skinning", "rank": null, "level": 200, "cost": 50000},
   {"id": 1229517, "name": "Camp Chair", "rank": 1, "level": 20, "cost": 105}
  ]},
- "7852": {"name": "Pratt McGrubben", "pulled": "2026-11-09", "spells": [
+ "7852": {"name": "Pratt McGrubben", "pulled": "2026-11-11", "spells": [
  ]},
- "7866": {"name": "Peter Galen", "pulled": "2026-11-09", "spells": [
+ "7866": {"name": "Peter Galen", "pulled": "2026-11-11", "spells": [
  ]},
- "7867": {"name": "Thorkaf Dragoneye", "pulled": "2026-11-09", "spells": [
+ "7867": {"name": "Thorkaf Dragoneye", "pulled": "2026-11-11", "spells": [
   {"id": 10619, "name": "Dragonscale Gauntlets", "rank": null, "level": 225, "cost": 9000},
   {"id": 10650, "name": "Dragonscale Breastplate", "rank": null, "level": 255, "cost": 9000},
   {"id": 24654, "name": "Blue Dragonscale Leggings", "rank": null, "level": 300, "cost": 45000},
   {"id": 24655, "name": "Green Dragonscale Gauntlets", "rank": null, "level": 280, "cost": 27000}
  ]},
- "7869": {"name": "Brumn Winterhoof", "pulled": "2026-11-09", "spells": [
+ "7869": {"name": "Brumn Winterhoof", "pulled": "2026-11-11", "spells": [
  ]},
- "7870": {"name": "Caryssia Moonhunter", "pulled": "2026-11-09", "spells": [
+ "7870": {"name": "Caryssia Moonhunter", "pulled": "2026-11-11", "spells": [
+  {"id": 10621, "name": "Wolfshead Helm", "rank": null, "level": 225, "cost": 9000},
+  {"id": 10647, "name": "Feathered Breastplate", "rank": null, "level": 250, "cost": 9000}
  ]},
- "8125": {"name": "Dirge Quikcleave", "pulled": "2026-11-09", "spells": [
+ "8125": {"name": "Dirge Quikcleave", "pulled": "2026-11-11", "spells": [
  ]},
- "11096": {"name": "Randal Worth", "pulled": "2026-11-09", "spells": [
+ "11096": {"name": "Randal Worth", "pulled": "2026-11-11", "spells": [
   {"id": 2108, "name": "Apprentice Leatherworking", "rank": null, "level": 9999, "cost": 10},
   {"id": 2153, "name": "Handstitched Leather Pants", "rank": null, "level": 15, "cost": 50},
   {"id": 2160, "name": "Embossed Leather Vest", "rank": null, "level": 35, "cost": 100},
@@ -417,13 +419,13 @@
   {"id": 9060, "name": "Light Leather Quiver", "rank": null, "level": 25, "cost": 100},
   {"id": 9062, "name": "Small Leather Ammo Pouch", "rank": null, "level": 25, "cost": 100},
   {"id": 9065, "name": "Light Leather Bracers", "rank": null, "level": 45, "cost": 150},
-  {"id": 1229432, "name": "Camp Tent", "rank": 1, "level": 20, "cost": 100},
-  {"id": 1255143, "name": "Moonglow Boots", "rank": null, "level": 35, "cost": 500},
-  {"id": 1255144, "name": "Murloc Scale Shoes", "rank": null, "level": 35, "cost": 500},
-  {"id": 1255145, "name": "Dark Leather Boots", "rank": null, "level": 35, "cost": 500},
-  {"id": 1255146, "name": "Black Whelp Slippers", "rank": null, "level": 35, "cost": 500}
+  {"id": 1229432, "name": "Camp Tent", "rank": 1, "level": 20, "cost": 105},
+  {"id": 1255143, "name": "Moonglow Boots", "rank": null, "level": 35, "cost": 526},
+  {"id": 1255144, "name": "Murloc Scale Shoes", "rank": null, "level": 35, "cost": 526},
+  {"id": 1255145, "name": "Dark Leather Boots", "rank": null, "level": 35, "cost": 526},
+  {"id": 1255146, "name": "Black Whelp Slippers", "rank": null, "level": 35, "cost": 526}
  ]},
- "11097": {"name": "Drakk Stonehand", "pulled": "2026-11-09", "spells": [
+ "11097": {"name": "Drakk Stonehand", "pulled": "2026-11-11", "spells": [
   {"id": 2108, "name": "Apprentice Leatherworking", "rank": null, "level": 9999, "cost": 10},
   {"id": 2153, "name": "Handstitched Leather Pants", "rank": null, "level": 15, "cost": 50},
   {"id": 2159, "name": "Fine Leather Cloak", "rank": null, "level": 50, "cost": 250},
@@ -488,7 +490,7 @@
   {"id": 20649, "name": "Heavy Leather", "rank": null, "level": 125, "cost": 1000},
   {"id": 20650, "name": "Thick Leather", "rank": null, "level": 175, "cost": 4000},
   {"id": 22331, "name": "Rugged Leather", "rank": null, "level": 225, "cost": 5000},
-  {"id": 1229432, "name": "Camp Tent", "rank": 1, "level": 20, "cost": 100},
+  {"id": 1229432, "name": "Camp Tent", "rank": 1, "level": 20, "cost": 105},
   {"id": 1255075, "name": "Mender's Leather Belt", "rank": null, "level": 150, "cost": 2000},
   {"id": 1255076, "name": "Skycaller's Leather Belt", "rank": null, "level": 150, "cost": 2000},
   {"id": 1255077, "name": "Skirmisher's Leather Belt", "rank": null, "level": 150, "cost": 2000},
@@ -496,13 +498,176 @@
   {"id": 1255079, "name": "Stalker's Leather Belt", "rank": null, "level": 150, "cost": 2000},
   {"id": 1255080, "name": "Skulker's Leather Belt", "rank": null, "level": 150, "cost": 2000},
   {"id": 1255081, "name": "Prowler's Leather Belt", "rank": null, "level": 150, "cost": 2000},
-  {"id": 1255143, "name": "Moonglow Boots", "rank": null, "level": 35, "cost": 500},
-  {"id": 1255144, "name": "Murloc Scale Shoes", "rank": null, "level": 35, "cost": 500},
-  {"id": 1255145, "name": "Dark Leather Boots", "rank": null, "level": 35, "cost": 500},
-  {"id": 1255146, "name": "Black Whelp Slippers", "rank": null, "level": 35, "cost": 500}
+  {"id": 1255143, "name": "Moonglow Boots", "rank": null, "level": 35, "cost": 526},
+  {"id": 1255144, "name": "Murloc Scale Shoes", "rank": null, "level": 35, "cost": 526},
+  {"id": 1255145, "name": "Dark Leather Boots", "rank": null, "level": 35, "cost": 526},
+  {"id": 1255146, "name": "Black Whelp Slippers", "rank": null, "level": 35, "cost": 526}
  ]},
- "12919": {"name": "Nat Pagle", "pulled": "2026-11-09", "spells": [
+ "12919": {"name": "Nat Pagle", "pulled": "2026-11-11", "spells": [
  ]},
- "270263": {"name": "Farseer Maret Firetend", "pulled": "2026-11-09", "spells": [
+ "270263": {"name": "Farseer Maret Firetend", "pulled": "2026-11-11", "spells": [
+  {"id": 131, "name": "Water Breathing", "rank": null, "level": 22, "cost": 3000},
+  {"id": 324, "name": "Lightning Shield", "rank": 1, "level": 8, "cost": 100},
+  {"id": 325, "name": "Lightning Shield", "rank": 2, "level": 16, "cost": 1800},
+  {"id": 332, "name": "Healing Wave", "rank": 2, "level": 6, "cost": 100},
+  {"id": 370, "name": "Purge", "rank": 1, "level": 12, "cost": 800},
+  {"id": 421, "name": "Chain Lightning", "rank": 1, "level": 32, "cost": 8000},
+  {"id": 526, "name": "Cure Poison", "rank": null, "level": 16, "cost": 1800},
+  {"id": 529, "name": "Lightning Bolt", "rank": 2, "level": 8, "cost": 100},
+  {"id": 546, "name": "Water Walking", "rank": null, "level": 28, "cost": 6000},
+  {"id": 547, "name": "Healing Wave", "rank": 3, "level": 12, "cost": 800},
+  {"id": 548, "name": "Lightning Bolt", "rank": 3, "level": 14, "cost": 900},
+  {"id": 556, "name": "Astral Recall", "rank": null, "level": 30, "cost": 7000},
+  {"id": 905, "name": "Lightning Shield", "rank": 3, "level": 24, "cost": 3500},
+  {"id": 913, "name": "Healing Wave", "rank": 4, "level": 18, "cost": 2000},
+  {"id": 915, "name": "Lightning Bolt", "rank": 4, "level": 20, "cost": 2200},
+  {"id": 930, "name": "Chain Lightning", "rank": 2, "level": 40, "cost": 12000},
+  {"id": 939, "name": "Healing Wave", "rank": 5, "level": 24, "cost": 3500},
+  {"id": 943, "name": "Lightning Bolt", "rank": 5, "level": 26, "cost": 4000},
+  {"id": 945, "name": "Lightning Shield", "rank": 4, "level": 32, "cost": 8000},
+  {"id": 959, "name": "Healing Wave", "rank": 6, "level": 32, "cost": 8000},
+  {"id": 1064, "name": "Chain Heal", "rank": 1, "level": 40, "cost": 12000},
+  {"id": 2008, "name": "Ancestral Spirit", "rank": 1, "level": 12, "cost": 800},
+  {"id": 2484, "name": "Earthbind Totem", "rank": null, "level": 6, "cost": 100},
+  {"id": 2860, "name": "Chain Lightning", "rank": 3, "level": 48, "cost": 22000},
+  {"id": 2870, "name": "Cure Disease", "rank": null, "level": 22, "cost": 3000},
+  {"id": 5675, "name": "Mana Spring Totem", "rank": 1, "level": 26, "cost": 4000},
+  {"id": 5730, "name": "Stoneclaw Totem", "rank": 1, "level": 8, "cost": 100},
+  {"id": 6041, "name": "Lightning Bolt", "rank": 6, "level": 32, "cost": 8000},
+  {"id": 6196, "name": "Far Sight", "rank": null, "level": 26, "cost": 4000},
+  {"id": 6363, "name": "Searing Totem", "rank": 2, "level": 20, "cost": 2200},
+  {"id": 6364, "name": "Searing Totem", "rank": 3, "level": 30, "cost": 7000},
+  {"id": 6365, "name": "Searing Totem", "rank": 4, "level": 40, "cost": 12000},
+  {"id": 6375, "name": "Healing Stream Totem", "rank": 2, "level": 30, "cost": 7000},
+  {"id": 6377, "name": "Healing Stream Totem", "rank": 3, "level": 40, "cost": 12000},
+  {"id": 6390, "name": "Stoneclaw Totem", "rank": 2, "level": 18, "cost": 2000},
+  {"id": 6391, "name": "Stoneclaw Totem", "rank": 3, "level": 28, "cost": 6000},
+  {"id": 6392, "name": "Stoneclaw Totem", "rank": 4, "level": 38, "cost": 11000},
+  {"id": 6495, "name": "Sentry Totem", "rank": null, "level": 34, "cost": 9000},
+  {"id": 8004, "name": "Lesser Healing Wave", "rank": 1, "level": 20, "cost": 2200},
+  {"id": 8005, "name": "Healing Wave", "rank": 7, "level": 40, "cost": 12000},
+  {"id": 8008, "name": "Lesser Healing Wave", "rank": 2, "level": 28, "cost": 6000},
+  {"id": 8010, "name": "Lesser Healing Wave", "rank": 3, "level": 36, "cost": 10000},
+  {"id": 8012, "name": "Purge", "rank": 2, "level": 32, "cost": 8000},
+  {"id": 8017, "name": "Rockbiter Weapon", "rank": 1, "level": 1, "cost": 10},
+  {"id": 8018, "name": "Rockbiter Weapon", "rank": 2, "level": 8, "cost": 100},
+  {"id": 8019, "name": "Rockbiter Weapon", "rank": 3, "level": 16, "cost": 1800},
+  {"id": 8024, "name": "Flametongue Weapon", "rank": 1, "level": 10, "cost": 400},
+  {"id": 8027, "name": "Flametongue Weapon", "rank": 2, "level": 18, "cost": 2000},
+  {"id": 8030, "name": "Flametongue Weapon", "rank": 3, "level": 26, "cost": 4000},
+  {"id": 8033, "name": "Frostbrand Weapon", "rank": 1, "level": 20, "cost": 2200},
+  {"id": 8038, "name": "Frostbrand Weapon", "rank": 2, "level": 28, "cost": 6000},
+  {"id": 8042, "name": "Earth Shock", "rank": 1, "level": 4, "cost": 100},
+  {"id": 8044, "name": "Earth Shock", "rank": 2, "level": 8, "cost": 100},
+  {"id": 8045, "name": "Earth Shock", "rank": 3, "level": 14, "cost": 900},
+  {"id": 8046, "name": "Earth Shock", "rank": 4, "level": 24, "cost": 3500},
+  {"id": 8050, "name": "Flame Shock", "rank": 1, "level": 10, "cost": 400},
+  {"id": 8052, "name": "Flame Shock", "rank": 2, "level": 18, "cost": 2000},
+  {"id": 8053, "name": "Flame Shock", "rank": 3, "level": 28, "cost": 6000},
+  {"id": 8056, "name": "Frost Shock", "rank": 1, "level": 20, "cost": 2200},
+  {"id": 8058, "name": "Frost Shock", "rank": 2, "level": 34, "cost": 9000},
+  {"id": 8075, "name": "Strength of Earth Totem", "rank": 1, "level": 10, "cost": 400},
+  {"id": 8134, "name": "Lightning Shield", "rank": 5, "level": 40, "cost": 12000},
+  {"id": 8143, "name": "Tremor Totem", "rank": null, "level": 18, "cost": 2000},
+  {"id": 8154, "name": "Stoneskin Totem", "rank": 2, "level": 14, "cost": 900},
+  {"id": 8155, "name": "Stoneskin Totem", "rank": 3, "level": 24, "cost": 3500},
+  {"id": 8160, "name": "Strength of Earth Totem", "rank": 2, "level": 24, "cost": 3500},
+  {"id": 8161, "name": "Strength of Earth Totem", "rank": 3, "level": 38, "cost": 11000},
+  {"id": 8166, "name": "Poison Cleansing Totem", "rank": null, "level": 22, "cost": 3000},
+  {"id": 8170, "name": "Disease Cleansing Totem", "rank": null, "level": 38, "cost": 11000},
+  {"id": 8177, "name": "Grounding Totem", "rank": null, "level": 30, "cost": 7000},
+  {"id": 8181, "name": "Frost Resistance Totem", "rank": 1, "level": 24, "cost": 3500},
+  {"id": 8184, "name": "Fire Resistance Totem", "rank": 1, "level": 28, "cost": 6000},
+  {"id": 8190, "name": "Magma Totem", "rank": 1, "level": 26, "cost": 4000},
+  {"id": 8227, "name": "Flametongue Totem", "rank": 1, "level": 28, "cost": 6000},
+  {"id": 8232, "name": "Windfury Weapon", "rank": 1, "level": 30, "cost": 7000},
+  {"id": 8235, "name": "Windfury Weapon", "rank": 2, "level": 40, "cost": 12000},
+  {"id": 8249, "name": "Flametongue Totem", "rank": 2, "level": 38, "cost": 11000},
+  {"id": 8512, "name": "Windfury Totem", "rank": 1, "level": 32, "cost": 8000},
+  {"id": 8835, "name": "Grace of Air Totem", "rank": 1, "level": 42, "cost": 16000},
+  {"id": 10391, "name": "Lightning Bolt", "rank": 7, "level": 38, "cost": 11000},
+  {"id": 10392, "name": "Lightning Bolt", "rank": 8, "level": 44, "cost": 18000},
+  {"id": 10395, "name": "Healing Wave", "rank": 8, "level": 48, "cost": 22000},
+  {"id": 10396, "name": "Healing Wave", "rank": 9, "level": 56, "cost": 30000},
+  {"id": 10399, "name": "Rockbiter Weapon", "rank": 4, "level": 24, "cost": 3500},
+  {"id": 10406, "name": "Stoneskin Totem", "rank": 4, "level": 34, "cost": 9000},
+  {"id": 10407, "name": "Stoneskin Totem", "rank": 5, "level": 44, "cost": 18000},
+  {"id": 10408, "name": "Stoneskin Totem", "rank": 6, "level": 54, "cost": 29000},
+  {"id": 10412, "name": "Earth Shock", "rank": 5, "level": 36, "cost": 10000},
+  {"id": 10413, "name": "Earth Shock", "rank": 6, "level": 48, "cost": 22000},
+  {"id": 10414, "name": "Earth Shock", "rank": 7, "level": 60, "cost": 34000},
+  {"id": 10427, "name": "Stoneclaw Totem", "rank": 5, "level": 48, "cost": 22000},
+  {"id": 10428, "name": "Stoneclaw Totem", "rank": 6, "level": 58, "cost": 32000},
+  {"id": 10431, "name": "Lightning Shield", "rank": 6, "level": 48, "cost": 22000},
+  {"id": 10432, "name": "Lightning Shield", "rank": 7, "level": 56, "cost": 30000},
+  {"id": 10437, "name": "Searing Totem", "rank": 5, "level": 50, "cost": 24000},
+  {"id": 10438, "name": "Searing Totem", "rank": 6, "level": 60, "cost": 34000},
+  {"id": 10442, "name": "Strength of Earth Totem", "rank": 4, "level": 52, "cost": 27000},
+  {"id": 10447, "name": "Flame Shock", "rank": 4, "level": 40, "cost": 12000},
+  {"id": 10448, "name": "Flame Shock", "rank": 5, "level": 52, "cost": 27000},
+  {"id": 10456, "name": "Frostbrand Weapon", "rank": 3, "level": 38, "cost": 11000},
+  {"id": 10462, "name": "Healing Stream Totem", "rank": 4, "level": 50, "cost": 24000},
+  {"id": 10463, "name": "Healing Stream Totem", "rank": 5, "level": 60, "cost": 34000},
+  {"id": 10466, "name": "Lesser Healing Wave", "rank": 4, "level": 44, "cost": 18000},
+  {"id": 10467, "name": "Lesser Healing Wave", "rank": 5, "level": 52, "cost": 27000},
+  {"id": 10468, "name": "Lesser Healing Wave", "rank": 6, "level": 60, "cost": 34000},
+  {"id": 10472, "name": "Frost Shock", "rank": 3, "level": 46, "cost": 20000},
+  {"id": 10473, "name": "Frost Shock", "rank": 4, "level": 58, "cost": 32000},
+  {"id": 10478, "name": "Frost Resistance Totem", "rank": 2, "level": 38, "cost": 11000},
+  {"id": 10479, "name": "Frost Resistance Totem", "rank": 3, "level": 54, "cost": 29000},
+  {"id": 10486, "name": "Windfury Weapon", "rank": 3, "level": 50, "cost": 24000},
+  {"id": 10495, "name": "Mana Spring Totem", "rank": 2, "level": 36, "cost": 10000},
+  {"id": 10496, "name": "Mana Spring Totem", "rank": 3, "level": 46, "cost": 20000},
+  {"id": 10497, "name": "Mana Spring Totem", "rank": 4, "level": 56, "cost": 30000},
+  {"id": 10526, "name": "Flametongue Totem", "rank": 3, "level": 48, "cost": 22000},
+  {"id": 10537, "name": "Fire Resistance Totem", "rank": 2, "level": 42, "cost": 16000},
+  {"id": 10538, "name": "Fire Resistance Totem", "rank": 3, "level": 58, "cost": 32000},
+  {"id": 10585, "name": "Magma Totem", "rank": 2, "level": 36, "cost": 10000},
+  {"id": 10586, "name": "Magma Totem", "rank": 3, "level": 46, "cost": 20000},
+  {"id": 10587, "name": "Magma Totem", "rank": 4, "level": 56, "cost": 30000},
+  {"id": 10595, "name": "Nature Resistance Totem", "rank": 1, "level": 30, "cost": 7000},
+  {"id": 10600, "name": "Nature Resistance Totem", "rank": 2, "level": 44, "cost": 18000},
+  {"id": 10601, "name": "Nature Resistance Totem", "rank": 3, "level": 60, "cost": 34000},
+  {"id": 10605, "name": "Chain Lightning", "rank": 4, "level": 56, "cost": 30000},
+  {"id": 10613, "name": "Windfury Totem", "rank": 2, "level": 42, "cost": 16000},
+  {"id": 10614, "name": "Windfury Totem", "rank": 3, "level": 52, "cost": 27000},
+  {"id": 10622, "name": "Chain Heal", "rank": 2, "level": 46, "cost": 20000},
+  {"id": 10623, "name": "Chain Heal", "rank": 3, "level": 54, "cost": 29000},
+  {"id": 10627, "name": "Grace of Air Totem", "rank": 2, "level": 56, "cost": 30000},
+  {"id": 15107, "name": "Windwall Totem", "rank": 1, "level": 36, "cost": 10000},
+  {"id": 15111, "name": "Windwall Totem", "rank": 2, "level": 46, "cost": 20000},
+  {"id": 15112, "name": "Windwall Totem", "rank": 3, "level": 56, "cost": 30000},
+  {"id": 15207, "name": "Lightning Bolt", "rank": 9, "level": 50, "cost": 24000},
+  {"id": 15208, "name": "Lightning Bolt", "rank": 10, "level": 56, "cost": 30000},
+  {"id": 16314, "name": "Rockbiter Weapon", "rank": 5, "level": 34, "cost": 9000},
+  {"id": 16315, "name": "Rockbiter Weapon", "rank": 6, "level": 44, "cost": 18000},
+  {"id": 16316, "name": "Rockbiter Weapon", "rank": 7, "level": 54, "cost": 29000},
+  {"id": 16339, "name": "Flametongue Weapon", "rank": 4, "level": 36, "cost": 10000},
+  {"id": 16341, "name": "Flametongue Weapon", "rank": 5, "level": 46, "cost": 20000},
+  {"id": 16342, "name": "Flametongue Weapon", "rank": 6, "level": 56, "cost": 30000},
+  {"id": 16355, "name": "Frostbrand Weapon", "rank": 4, "level": 48, "cost": 22000},
+  {"id": 16356, "name": "Frostbrand Weapon", "rank": 5, "level": 58, "cost": 32000},
+  {"id": 16362, "name": "Windfury Weapon", "rank": 4, "level": 60, "cost": 34000},
+  {"id": 16387, "name": "Flametongue Totem", "rank": 4, "level": 58, "cost": 32000},
+  {"id": 17354, "name": "Mana Tide Totem", "rank": 2, "level": 38, "cost": 1100},
+  {"id": 17359, "name": "Mana Tide Totem", "rank": 3, "level": 48, "cost": 1600},
+  {"id": 20608, "name": "Reincarnation", "rank": null, "level": 30, "cost": 7000},
+  {"id": 20609, "name": "Ancestral Spirit", "rank": 2, "level": 24, "cost": 3500},
+  {"id": 20610, "name": "Ancestral Spirit", "rank": 3, "level": 36, "cost": 10000},
+  {"id": 20776, "name": "Ancestral Spirit", "rank": 4, "level": 48, "cost": 22000},
+  {"id": 20777, "name": "Ancestral Spirit", "rank": 5, "level": 60, "cost": 34000},
+  {"id": 36936, "name": "Totemic Recall", "rank": null, "level": 20, "cost": 7000},
+  {"id": 66842, "name": "Call of the Elements", "rank": null, "level": 20, "cost": 7000},
+  {"id": 66843, "name": "Call of the Ancestors", "rank": null, "level": 30, "cost": 7000},
+  {"id": 66844, "name": "Call of the Spirits", "rank": null, "level": 40, "cost": 7000},
+  {"id": 408341, "name": "Fire Nova", "rank": 1, "level": 12, "cost": 800},
+  {"id": 408342, "name": "Fire Nova", "rank": 2, "level": 22, "cost": 3000},
+  {"id": 408343, "name": "Fire Nova", "rank": 3, "level": 32, "cost": 8000},
+  {"id": 408344, "name": "Fire Nova", "rank": 4, "level": 42, "cost": 16000},
+  {"id": 408345, "name": "Fire Nova", "rank": 5, "level": 52, "cost": 27000},
+  {"id": 437009, "name": "Totemic Call", "rank": null, "level": 22, "cost": 3000},
+  {"id": 1239242, "name": "Riptide", "rank": 2, "level": 50, "cost": 800},
+  {"id": 1239243, "name": "Riptide", "rank": 3, "level": 60, "cost": 1600},
+  {"id": 1325256, "name": "Mana Tide Totem", "rank": 4, "level": 58, "cost": 33684}
  ]}
 }
