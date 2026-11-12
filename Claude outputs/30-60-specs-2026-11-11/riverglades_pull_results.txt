@@ -1,0 +1,69 @@
+# Wowhead Forever pull results, 11 Nov 2026 (browser; main session). count/outof per source; apply the drop rule to the per-mob rate of the mobs the route actually kills.
+# Item pages: dropped-by = mob drops, contained-in-object = ground object (object id and name; look its spawns up in tooling/qdb/object.json, zone key 16591), sold-by = vendor (npc id, name, cost in copper).
+ITEMS
+267266 Mudfin Murloc Head | dropped-by[3 rows, 713/4784 = 14.9%: 255899 Murloc Tideskimmer 10/1657; 258573 Mudfin Oracle 350/1576; 258574 Mudfin Warrior 353/1551] | objective-of[1]
+266425 Twilight Charm | dropped-by[2 rows, 1306/5114 = 25.5%: 254560 Twilight Shadowmancer 522/2288; 256798 Twilight Neophyte 784/2826] | objective-of[1]
+266427 Field Marshal's Log | dropped-by[4 rows, 132/8455 = 1.6%: 254560 Twilight Shadowmancer 36/2288; 256798 Twilight Neophyte 44/2826; 256952 Twilight Raider 51/2935; 260996 Twilight Subjugator 1/406] | starts[1] | objective-of[1]
+266888 Prized Lion Hide | dropped-by[2 rows, 1205/2492 = 48.4%: 259054 Wildplains Patriarch 389/816; 259055 Wildplains Huntress 816/1676] | objective-of[2]
+8009 Dentrium Power Stone | dropped-by[9 rows, 132/1157 = 11.4%: 4844 Shadowforge Surveyor 38/335; 4845 Shadowforge Ruffian 23/166; 4846 Shadowforge Digger 51/451; 4847 Shadowforge Relic Hunter 1/54; 4848 Shadowforge Darkcaster 4/22; 4849 Shadowforge Archaeologist 4/27; 7030 Shadowforge Geologist 2/49; 7091 Shadowforge Ambusher 4/16] | objective-of[1]
+8052 An'Alleum Power Stone | dropped-by[9 rows, 122/1157 = 10.5%: 4844 Shadowforge Surveyor 33/335; 4845 Shadowforge Ruffian 23/166; 4846 Shadowforge Digger 43/451; 4847 Shadowforge Relic Hunter 8/54; 4848 Shadowforge Darkcaster 3/22; 4849 Shadowforge Archaeologist 1/27; 7030 Shadowforge Geologist 4/49; 7091 Shadowforge Ambusher 5/16] | objective-of[1]
+7846 Crag Coyote Fang | dropped-by[4 rows, 655/2746 = 23.9%: 2727 Crag Coyote 189/462; 2728 Feral Crag Coyote 118/504; 2729 Elder Crag Coyote 346/1771; 2730 Rabid Crag Coyote 2/9] | objective-of[2]
+7847 Buzzard Gizzard | dropped-by[4 rows, 494/1759 = 28.1%: 2829 Starving Buzzard 67/237; 2830 Buzzard 101/355; 2831 Giant Buzzard 327/1167; 6013 Wayward Buzzard -1/0] | objective-of[2]
+7848 Rock Elemental Shard | dropped-by[9 rows, 513/4615 = 11.1%: 92 Rock Elemental 130/974; 2735 Lesser Rock Elemental 266/2114; 2736 Greater Rock Elemental 40/691; 2745 Ambassador Infernus 1/15; 2752 Rumbler 1/1; 2791 Enraged Rock Elemental 57/378; 2919 Fam'retor Guardian 1/34; 232422 Earth Elemental -1/0] | objective-of[2]
+213422 Illegible Recipe | dropped-by[7 rows, 412/4971 = 8.3%: 2562 Boulderfist Ogre 133/1307; 2564 Boulderfist Enforcer 202/1850; 2566 Boulderfist Brute 28/867; 2567 Boulderfist Magus 10/347; 2569 Boulderfist Mauler 19/229; 2570 Boulderfist Shaman 18/269; 2571 Boulderfist Lord 2/102] | starts[1] | objective-of[1]
+267073 Twilight Finger Bone | dropped-by[4 rows, 1408/8536 = 16.5%: 254560 Twilight Shadowmancer 408/2288; 256798 Twilight Neophyte 517/2826; 256952 Twilight Raider 482/2935; 260969 Twilight Instigator 1/487] | objective-of[1]
+268344 Saltwater Murloc Eye | dropped-by[6 rows, 1442/5147 = 28.0%: 255898 Murloc Oracle 647/1792; 255899 Murloc Tideskimmer 204/1657; 255900 Murloc Raider -1/0; 255903 Murloc Hunter -1/0; 255904 Murloc Tidebringer -1/0; 256801 Murloc Warrior 594/1698] | objective-of[1]
+268345 Sand Crawler Meat | dropped-by[2 rows, 1083/3565 = 30.4%: 255901 Sand Crawler 745/1943; 256807 Shore Crawler 338/1622] | objective-of[1]
+268632 Beast Entrails | dropped-by[20 rows, 1979/15877 = 12.5%: 255851 Mature Paletusk 261/1080; 255901 Sand Crawler 177/1943; 256807 Shore Crawler 327/1622; 257017 Twilight Worg 49/327; 258331 Young Paletusk 67/169; 258522 Sootfur 4/131; 258617 Snort -1/0; 259046 Freshwater Crocolisk 71/445] | objective-of[1]
+268796 Smuggled Goods | dropped-by[2 rows, 978/3170 = 30.9%: 257901 Eastsea Buccaneer 496/1624; 257910 Eastsea Musketeer 482/1546] | objective-of[1]
+266156 Fresh Manure | contained-in-object[1 rows, 410/410 = 100.0%: 626594 Fresh Manure 410/410] | objective-of[1]
+266251 Discarded Doll | contained-in-object[1 rows, 60/60 = 100.0%: 622001 Discarded Doll 60/60] | objective-of[1]
+266424 Twilight Page | contained-in-object[1 rows, 597/597 = 100.0%: 623246 Twilight Page 597/597] | objective-of[1]
+266884 Robbie's Hat | contained-in-object[1 rows, 66/66 = 100.0%: 624202 Hollow Clam Shell 66/66] | objective-of[1]
+266889 Komuk's Warmaul | dropped-by[1 rows, 4/4 = 100.0%: 259056 Komuk 4/4] | starts[1] | objective-of[1]
+266897 Saw Blade | contained-in-object[1 rows, 793/793 = 100.0%: 624265 Stolen Tools 793/793] | objective-of[1]
+267223 Pawprint Tracing | contained-in-object[1 rows, 146/146 = 100.0%: 625779 Track 146/146] | objective-of[1]
+268346 Eastsea Powder Keg | contained-in-object[1 rows, 670/670 = 100.0%: 629451 Powder Keg 670/670] | objective-of[1]
+268506 Lamora's Loot | contained-in-object[1 rows, 126/126 = 100.0%: 629472 Admiral's Treasure Chest 126/126] | objective-of[1]
+268536 Bundle of Hay | contained-in-object[1 rows, 401/401 = 100.0%: 629484 Hay Bale 401/401] | objective-of[1]
+268664 Rotflesh Mushroom | contained-in-object[1 rows, 1135/1135 = 100.0%: 630588 Rotflesh Mushroom 1135/1135] | objective-of[1]
+271431 Fresh Apple | contained-in-object[1 rows, 657/657 = 100.0%: 645233 Fresh Apple 657/657] | objective-of[1]
+271611 Cubic Draconia | contained-in-object[1 rows, 127/127 = 100.0%: 648590 Cubic Draconia 127/127] | objective-of[1]
+271612 Head of Scaldaron | dropped-by[1 rows, 7/29 = 24.1%: 263141 Scaldaron 7/29] | starts[1] | objective-of[1]
+271620 Foreman's Crate | contained-in-object[1 rows, 136/136 = 100.0%: 645449 Foreman's Crate 136/136] | objective-of[1]
+271653 Goblin Degreaser | sold-by[260565 Kor'gar cost [[4210]]] | objective-of[1]
+271654 Expired Poison | sold-by[260560 Krikshank cost [[1578]]] | objective-of[1]
+271657 Fresh Chum | sold-by[260487 Gritta Chumwater cost [[8421]]] | objective-of[1]
+271823 Wildflower | contained-in-object[1 rows, 683/683 = 100.0%: 648994 Wildflower 683/683] | objective-of[1]
+271877 Wood Bundle | contained-in-object[1 rows, 696/1610 = 43.2%: 645516 Bundle of Wood 696/1610] | objective-of[1]
+272004 Marsh Gas Vial | contained-in-object[1 rows, 1763/1763 = 100.0%: 649232 Marsh Gas Vent 1763/1763] | objective-of[1]
+274975 Rog'mar Supply Crate | contained-in-object[1 rows, 699/699 = 100.0%: 654618 Rog'mar Supply Crate 699/699] | objective-of[1]
+281228 Filled Freshwater Phial | created-by-spell[1] | objective-of[1]
+277953 Stolen Shipment | contained-in-object[1 rows, 3088/3088 = 100.0%: 661518 Stolen Shipment 3088/3088] | objective-of[1]
+3505 Alterac Signet Ring | dropped-by[7 rows, 509/4586 = 11.1%: 2242 Syndicate Spy 172/1638; 2243 Syndicate Sentry 115/740; 2245 Syndicate Saboteur 29/295; 2246 Syndicate Assassin 59/553; 2247 Syndicate Enforcer 48/330; 2319 Syndicate Wizard 82/983; 14221 Gravis Slipknot 4/47] | objective-of[1]
+213421 Singed Note | dropped-by[2 rows, 168/1454 = 11.6%: 2318 Argus Shadow Mage 42/471; 2319 Syndicate Wizard 126/983] | starts[1] | objective-of[1]
+
+
+# Positions from Wowhead NPC/object page maps (x,y in the zone named by its Wowhead id; 16591 = Riverglades) for rows QuestieDB has without a spawn. Mark each 'Wowhead map, not in qdb' in the spec; verify.py's tar check will flag them.
+OBJECTS
+628948 {"name":"WANTED!","map":"{\"16591\":[{\"count\":2,\"coords\":[[78.4,54],[78.5,53.9]],\"uiMapId\":2548,\"uiMapName\":\"Riverglades\"}]}"}
+645166 {"name":"WANTED!","map":"{\"16591\":[{\"count\":1,\"coords\":[[65.6,80.9]],\"uiMapId\":2548,\"uiMapName\":\"Riverglades\"}]}"}
+630887 {"name":"Venture Co. Ledger","map":"{\"33\":[{\"count\":1,\"coords\":[[42.7,18.5]],\"uiMapId\":1434,\"uiMapName\":\"Stranglethorn Vale\"}]}"}
+629761 {"name":"Painted Hide","map":"{\"16591\":[{\"count\":2,\"coords\":[[72.3,61.8],[72.5,61.9]],\"uiMapId\":2548,\"uiMapName\":\"Riverglades\"}]}"}
+625582 {"name":"Fuzzle's Treasure","map":"{\"16591\":[{\"count\":1,\"coords\":[[41.7,47.7]],\"uiMapId\":2548,\"uiMapName\":\"Riverglades\"}]}"}
+
+NPC MAPS
+219 Groundskeeper Lomar | {"45":[{"count":1,"coords":[[27,57]],"uiMapId":1417,"uiMapName":"Arathi Highlands"}]}
+254775 Karana | {"8":[{"count":8,"coords":[[24.8,32.4],[24.8,32.6],[26,31.4],[26.2,32.4],[26.4,32.6],[26.8,32.4],[26.8,33],[26.8,33.6]],"uiMapId":1435,"uiMapName":"Swamp of Sorrows"}]}
+262399 Gelinda Coppergleam | {"16591":[{"count":1,"coords":[[30.2,69]],"uiMapId":2548,"uiMapName":"Riverglades"}]}
+258697 Farmer Elbrim | {"16591":[{"count":1,"coords":[[52.6,42.4]],"uiMapId":2548,"uiMapName":"Riverglades"}]}
+263316 Picked Carcass | {"16591":[{"count":3,"coords":[[61.4,58.6],[61.6,58.4],[61.6,58.8]],"uiMapId":2548,"uiMapName":"Riverglades"}]}
+260391 Captain Haynes | {"16591":[{"count":1,"coords":[[91.2,39.6]],"uiMapId":2548,"uiMapName":"Riverglades"}]}
+259254 Lost Horse | {"16591":[{"count":3,"coords":[[53.6,66.4],[54.3,67.3],[55.1,70.4]],"uiMapId":2548,"uiMapName":"Riverglades"}]}
+258963 Hurley | {"16591":[{"count":7,"coords":[[40.7,63.1],[41,63.9],[41.4,64.6],[41.5,65],[42.4,68],[42.6,68.2],[46,71]],"uiMapId":2548,"uiMapName":"Riverglades"}]}
+258935 Curly | {"16591":[{"count":1,"coords":[[46,71]],"uiMapId":2548,"uiMapName":"Riverglades"}]}
+257250 Marshal Ryan | {"16591":[{"count":2,"coords":[[26.2,40.4],[26.2,40.8]],"uiMapId":2548,"uiMapName":"Riverglades"}]}
+260390 Captain Bentcoin | {"16591":[{"count":2,"coords":[[91.2,39.4],[91.2,39.6]],"uiMapId":2548,"uiMapName":"Riverglades"}]}
+259051 Watcher Fredericks | {"16591":[{"count":1,"coords":[[36.4,75.8]],"uiMapId":2548,"uiMapName":"Riverglades"}]}
+
+# Single-dropper tooltips (11 Nov): Jumbo Crawfish Shell 43.45%; Coyote Pelt 16.58%; Intact Tallstrider Beak 15.95%; Crawler Spittle 12.21%; Snargl's Snout 86.47%; Sootfur's Pelt 76.34%; Chogg's Head 80.00%; Zac's Head 82.16%; Kilgar's Head 100%; Damaged Locket 75.76% (Converted Farmer); Blademaster's Banner 88.46%; Ghostmaw's Fang 81.95%; Gronok's Key 91.30%; Ombassa's Hide 99.40%; Rot-Covered Harpoon 268341 94.54% (Old Rot-Chum); Trapclaw's Pincer 90.81%; Sea Monster's Head 94.39% (Monstrous Threshadon); Ruzzgot's Shipment 20.44% (Venture Co. Agent).

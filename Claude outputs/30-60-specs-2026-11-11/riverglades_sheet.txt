@@ -1,0 +1,505 @@
+94613 My Kingdom for a Horse | quest level 38 (Wowhead page L38) | req 36 | 285 XP | money 0c | side Alliance
+   start: npc 257558 Demar Brant @ Riverglades 66.7,81.0
+   end:   npc 258317 Benjy Wheeler @ Riverglades 55.0,72.8
+   Wowhead series (order as listed, * = this quest): *>94615>94617
+   text: Go to Wheeler's Grange to inquire about the missing horses.
+94614 Freshwater Fiends | quest level 38 (Wowhead page L38) | req 36 | 2850 XP | money 2000c | side Alliance
+   start: npc 258317 Benjy Wheeler @ Riverglades 55.0,72.8
+   end:   npc 258317 Benjy Wheeler @ Riverglades 55.0,72.8
+   text: Kill 8 Mudfin Oracles and 8 Mudfin Warriors along the river near Wheeler's Grange.
+94615 Foal Play | quest level 38 (Wowhead page L38) | req 36 | 1450 XP | money 0c | side Alliance
+   start: npc 258317 Benjy Wheeler @ Riverglades 55.0,72.8
+   end:   npc 258317 Benjy Wheeler @ Riverglades 55.0,72.8
+   Wowhead series (order as listed, * = this quest): 94613>*>94617
+   text: Search near the stables at Wheeler's Grange for evidence of the missing horses' whereabouts.
+94617 Coyote Huntin' | quest level 38 (Wowhead page L38) | req 36 | 2850 XP | money 0c | side Alliance
+   start: npc 258317 Benjy Wheeler @ Riverglades 55.0,72.8
+   end:   npc 258317 Benjy Wheeler @ Riverglades 55.0,72.8
+   Wowhead series (order as listed, * = this quest): 94613>94615>*
+   text: Kill the coyote known as Sootfur, and bring its pelt back to Benjy Wheeler.
+94618 Wheeler's Fleeing Steeds | quest level 38 (Wowhead page L38) | req 36 | 1450 XP | money 0c | side Alliance
+   start: npc 258317 Benjy Wheeler @ Riverglades 55.0,72.8
+   end:   npc 259254 Lost Horse @ NO SPAWN IN QDB
+   text: Find one of the horses that fled Wheeler's Grange after the coyote attack and give it some feed.
+94678 Gnoll Infestation | quest level 38 (Wowhead page L38) | req 36 | 2850 XP | money 0c | side Alliance
+   start: npc 259353 Cedric Dalton @ Riverglades 39.4,74.6
+   end:   npc 259353 Cedric Dalton @ Riverglades 39.4,74.6
+   text: Kill 8 Redridge Mystics, 8 Redridge Trappers, and 6 Redridge Brutes for Cedric Dalton at Southern Watch.
+94679 Snargl's Snout | quest level 40 (Wowhead page L40) | req 36 | 3150 XP | money 0c | side Alliance
+   start: npc 259353 Cedric Dalton @ Riverglades 39.4,74.6
+   end:   npc 259353 Cedric Dalton @ Riverglades 39.4,74.6
+   text: Locate Snargl in the Bristle Hills, kill him, and bring his snout to Cedric Dalton at Southern Watch.
+   rewards: choice [(274938, 'Gnollhide Tunic'), (274939, 'Southern Watch Leggings'), (274940, 'Unbalanced Fighting Stick'), (274941, 'Bristle Hills Mystic Robe')] fixed []
+94829 What We Lost | quest level 40 (Wowhead page L40) | req 36 | 2350 XP | money 0c | side Alliance
+   start: npc 258697 Farmer Elbrim @ NO SPAWN IN QDB
+   end:   npc 258697 Farmer Elbrim @ NO SPAWN IN QDB
+   Wowhead series (order as listed, * = this quest): *>94858
+   text: Collect 5 Farmers' Mementos from Twilight Raiders and place them on the graves west of Elbrim's Farm.
+94842 Unsavory Plant Food | quest level 38 (Wowhead page L38) | req 36 | 2850 XP | money 2000c | side Alliance
+   start: npc 256438 Halligan Turner @ Riverglades 41.0,62.8
+   end:   npc 256438 Halligan Turner @ Riverglades 41.0,62.8
+   text: Gather 4 Jumbo Crawfish Shells, 4 pieces of Fresh Manure, and 8 Mudfin Murloc Heads for Halligan Turner.
+94843 From Seed to Sprout | quest level 38 (Wowhead page L38) | req 36 | 2150 XP | money 0c | side Alliance
+   start: npc 256438 Halligan Turner @ Riverglades 41.0,62.8
+   end:   npc 256438 Halligan Turner @ Riverglades 41.0,62.8
+   text: Plant 5 saplings around the lumber camp with Halligan Turner's tree sprouting kit.
+94857 If a Tree Falls, and No One Hears... | quest level 39 (Wowhead page L39) | req 36 | 300 XP | money 0c | side Alliance
+   start: npc 258935 Curly @ NO SPAWN IN QDB
+   end:   npc 258963 Hurley @ NO SPAWN IN QDB
+   text: Go to Turner's Logging Camp and get help.
+94858 All That's Left | quest level 40 (Wowhead page L40) | req 36 | 2350 XP | money 0c | side Alliance
+   start: npc 258697 Farmer Elbrim @ NO SPAWN IN QDB
+   end:   npc 258697 Farmer Elbrim @ NO SPAWN IN QDB
+   Wowhead series (order as listed, * = this quest): 94829>*
+   text: Find Farmer Elbrim's family's possessions in the nearby barn and return them to him.
+94861 Helping Hands | quest level 39 (Wowhead page L39) | req 36 | 3000 XP | money 0c | side Alliance
+   start: npc 258963 Hurley @ NO SPAWN IN QDB
+   end:   npc 256438 Halligan Turner @ Riverglades 41.0,62.8
+   text: Go with Hurley to save Curly.
+   rewards: choice [(274928, "Curly's Chopper"), (274929, "Hurley's Felling Axe")] fixed []
+94877 Saving Sunnyglade | quest level 40 (Wowhead page L40) | req 36 | 3150 XP | money 0c | side Alliance
+   start: npc 257558 Demar Brant @ Riverglades 66.7,81.0
+   end:   npc 257558 Demar Brant @ Riverglades 66.7,81.0
+   text: Defeat 8 Twilight Raiders, 8 Twilight Shadowmancers, and 8 Twilight Neophytes within Sunnyglade for Demar Brant.
+   rewards: choice [(274919, "Neophyte's Wand"), (274920, 'Twilight Carver')] fixed []
+94879 Scraps of Knowledge | quest level 40 (Wowhead page L40) | req 36 | 3150 XP | money 0c | side Alliance
+   start: npc 257591 Ashe Amberhall @ Riverglades 66.7,81.1
+   end:   npc 257591 Ashe Amberhall @ Riverglades 66.7,81.1
+   text: Collect 5 Twilight Pages from within Sunnyglade for Ashe Amberall in Farholde Keep.
+94881 Curious Trinkets | quest level 38 (Wowhead page L38) | req 36 | 2850 XP | money 0c | side Alliance
+   start: npc 257591 Ashe Amberhall @ Riverglades 66.7,81.1
+   end:   npc 257591 Ashe Amberhall @ Riverglades 66.7,81.1
+   text: Retrieve 25 Twilight Charms from Twilight Shadowmancers and Twilight Neophytes in Sunnyglade for Ashe Amberhall in Farholde Keep.
+94884 An Unsettling Discovery | quest level 41 (Wowhead page L41) | req 36 | 1650 XP | money 0c | side Alliance
+   start: npc 256831 Apprentice Claire @ Riverglades 47.6,47.2
+   end:   npc 257591 Ashe Amberhall @ Riverglades 66.7,81.1
+   text: Bring the Filled Crystal Catalyst to Ashe Amberhall in Farholde Keep.
+94885 Field Marshal's Log | quest level 40 (Wowhead page L40) | req 36 | 3150 XP | money 2500c | side Alliance
+   start: none listed
+   end:   npc 257558 Demar Brant @ Riverglades 66.7,81.0
+   Wowhead series (order as listed, * = this quest): *>94887>94892>94893
+   text: Deliver the Field Marshal's Log to Demar Brant in Farholde Keep.
+94886 The Western Front | quest level 44 (Wowhead page L44) | req 38 | 375 XP | money 0c | side Alliance
+   start: npc 257558 Demar Brant @ Riverglades 66.7,81.0
+   end:   npc 258023 Sergeant Riftan @ Riverglades 30.4,49.0
+   text: Find Sergeant Riftan near the Twilight's Shroud to the west.
+94887 Saving Marshal Ryan | quest level 47 (Wowhead page L47) | req 36 | 2100 XP | money 0c | side Alliance
+   start: npc 257558 Demar Brant @ Riverglades 66.7,81.0
+   end:   npc 257250 Marshal Ryan @ NO SPAWN IN QDB
+   Wowhead series (order as listed, * = this quest): 94885>*>94892>94893
+   text: Find Marshal Ryan within the Twilight's Shroud.
+94888 No Soldier Left Behind | quest level 44 (Wowhead page L44) | req 38 | 3750 XP | money 0c | side Alliance
+   start: npc 258023 Sergeant Riftan @ Riverglades 30.4,49.0
+   end:   npc 258023 Sergeant Riftan @ Riverglades 30.4,49.0
+   text: Rescue 5 Farholde Scouts within the Twilight's Shroud for Sergeant Riftan.
+94889 Carving a Path | quest level 44 (Wowhead page L44) | req 38 | 3750 XP | money 3000c | side Alliance
+   start: npc 258023 Sergeant Riftan @ Riverglades 30.4,49.0
+   end:   npc 258023 Sergeant Riftan @ Riverglades 30.4,49.0
+   text: Defeat 8 Twilight Fanatics, 8 Twilight Corrupters, and 8 Twilight Champions within the Twilight's Shroud for Sergeant Riftan.
+94890 Bring Me His Head | quest level 46 (Wowhead page L46) | req 38 | 5050 XP | money 0c | side Alliance
+   start: npc 258023 Sergeant Riftan @ Riverglades 30.4,49.0
+   end:   npc 258023 Sergeant Riftan @ Riverglades 30.4,49.0
+   Wowhead series (order as listed, * = this quest): *>94891
+   text: Defeat Overlord Kilgar within the Twilight's Shroud and bring his head to Sergeant Riftan.
+   rewards: choice [(275046, 'Twilight Overlord Drape'), (275049, 'Farholde Bastion')] fixed []
+94891 News to Farholde | quest level 46 (Wowhead page L46) | req 38 | 4050 XP | money 0c | side Alliance
+   start: npc 258023 Sergeant Riftan @ Riverglades 30.4,49.0
+   end:   npc 257591 Ashe Amberhall @ Riverglades 66.7,81.1
+   Wowhead series (order as listed, * = this quest): 94890>*
+   text: Return to Ashe Amberhall in Farholde Keep.
+   rewards: choice [] fixed [(275042, 'Farholde Keep Tabard')]
+94892 Dying Wish | quest level 47 (Wowhead page L47) | req 36 | 4200 XP | money 0c | side Alliance
+   start: npc 257250 Marshal Ryan @ NO SPAWN IN QDB
+   end:   npc 257558 Demar Brant @ Riverglades 66.7,81.0
+   Wowhead series (order as listed, * = this quest): 94885>94887>*>94893
+   text: Return Marshal Ryan's crest to Knight Commander Demar Brant in Farholde Keep.
+94893 Delivering Closure | quest level 47 (Wowhead page L47) | req 36 | 4200 XP | money 7000c | side Alliance
+   start: npc 257558 Demar Brant @ Riverglades 66.7,81.0
+   end:   npc 278088 Abigail Lawson @ Stormwind City 50.2,53.2 (+1 more spawns)
+   Wowhead series (order as listed, * = this quest): 94885>94887>94892>*
+   text: Deliver Marshal Ryan's Crest to Abigail Lawson in the Cathedral Square of Stormwind City.
+94894 The Twilight Threat | quest level 45 (Wowhead page L45) | req 38 | 4850 XP | money 0c | side Alliance
+   start: npc 257558 Demar Brant @ Riverglades 66.7,81.0
+   end:   npc 1748 Highlord Bolvar Fordragon @ Stormwind City 80.2,38.4
+   text: Deliver Kilgar's Head to Bolvar Fordragon within Stormwind Keep in Stormwind City.
+94907 A Small Favor | quest level 44 (Wowhead page L44) | req 36 | 3750 XP | money 0c | side Alliance
+   start: npc 257591 Ashe Amberhall @ Riverglades 66.7,81.1
+   end:   npc 257591 Ashe Amberhall @ Riverglades 66.7,81.1
+   Wowhead series (order as listed, * = this quest): *>94984
+   text: Summon a Twilight's Thrall from a conduit within the Twilight Shroud and capture it with Amberhall's Soulstone.
+94923 Hats Off | quest level 38 (Wowhead page L38) | req 36 | 2150 XP | money 2000c | side Alliance
+   start: npc 259049 Robbie Holmsby @ Riverglades 43.4,82.6
+   end:   npc 259049 Robbie Holmsby @ Riverglades 43.4,82.6
+   text: Find Robbie's Hat somewhere along the river near the murlocs.
+94924 Hunting the Hunters | quest level 39 (Wowhead page L39) | req 36 | 3000 XP | money 2500c | side Alliance
+   start: npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   end:   npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   text: Kill 12 Rog'mar Poachers for Watcher Cornelius.
+94925 A Fur Trade | quest level 39 (Wowhead page L39) | req 36 | 3000 XP | money 0c | side Alliance
+   start: npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   end:   npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   Wowhead series (order as listed, * = this quest): 93788>*>93976>94928>95288>95293
+   text: Bring 8 Prized Lion Hides to Watcher Terral.
+94926 Drop the Hammer | quest level 45 (Wowhead page L45) | req 38 | 4850 XP | money 0c | side Alliance
+   start: none listed
+   end:   npc 257558 Demar Brant @ Riverglades 66.7,81.0
+   text: Take Komuk's Maul to Farholde Keep as proof of the ogre's demise.
+   rewards: choice [] fixed [(275036, 'Pauldron of Order')]
+94927 Dunston Checks Out | quest level 44 (Wowhead page L44) | req 38 | 4650 XP | money 0c | side Alliance
+   start: npc 259057 Dunston Willis @ Riverglades 68.6,12.8
+   end:   npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   text: Help Dunston break out of Bolder'ok then return to Watcher Cornelius.
+   rewards: choice [(275025, "Dunston's Ogre Duster"), (275023, "Bolder'ok Loincloth"), (275021, 'Prisoner Handwraps')] fixed []
+94928 A Few Furs for Friz | quest level 39 (Wowhead page L39) | req 36 | 300 XP | money 0c | side Alliance
+   start: npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   end:   npc 255897 Friz Frazzlespark @ Riverglades 77.2,52.9
+   Wowhead series (order as listed, * = this quest): 93788>94925>93976>*>95288>95293
+   text: Deliver the Bundle of Lion Hides to Friz Frazzlespark at Powderfuse Port.
+94931 Stolen Saws | quest level 38 (Wowhead page L38) | req 36 | 2850 XP | money 0c | side Alliance
+   start: npc 256438 Halligan Turner @ Riverglades 41.0,62.8
+   end:   npc 256438 Halligan Turner @ Riverglades 41.0,62.8
+   text: Recover 8 Saw Blades from the gnoll camps in Bristle Hills for Halligan Turner at the lumber mill.
+94961 Biting the Hand | quest level 40 (Wowhead page L40) | req 36 | 2350 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 259158 Fuzzle @ Riverglades 45.6,47.8 (+2 more spawns)
+   end:   npc 259158 Fuzzle @ Riverglades 45.6,47.8 (+2 more spawns)
+   Wowhead series (order as listed, * = this quest): *>94963
+   tooltip: Biting the Hand ; Bring 20 Twilight Finger Bones to Fuzzle. ; ; Requirements: ; - Twilight Finger Bone x 20
+94963 Biting the Hand | quest level 40 (Wowhead page L40) | req 36 | 3150 XP | money 5000c | side Both
+   start: npc 259158 Fuzzle @ Riverglades 45.6,47.8 (+2 more spawns)
+   end:   object 625582 Fuzzle's Treasure @ NO SPAWN IN QDB
+   Wowhead series (order as listed, * = this quest): 94961>*
+   text: <Fuzzle snarls.>
+94992 Rescue Roundup | quest level 38 (Wowhead page L38) | req 36 | 2850 XP | money 2000c | side Alliance
+   start: npc 259254 Lost Horse @ NO SPAWN IN QDB
+   end:   npc 258317 Benjy Wheeler @ Riverglades 55.0,72.8
+   text: Bring the lost horse back to Wheeler's Grange.
+94999 Eyes for the Watchman | quest level 36 (Wowhead page L36) | req 36 | 700 XP | money 0c | side Alliance
+   start: npc 259050 Eleanor Holmsby @ Riverglades 43.4,82.2
+   end:   npc 259051 Watcher Fredericks @ NO SPAWN IN QDB
+   text: Deliver Eleanor's care package to Watcher Fredericks at Southern Watch.
+95059 Frazzlespark's Crate | quest level 36 (Wowhead page L36) | req 36 | 280 XP | money 0c | side Alliance
+   start: npc 255897 Friz Frazzlespark @ Riverglades 77.2,52.9
+   end:   npc 257558 Demar Brant @ Riverglades 66.7,81.0
+   text: Deliver Frazzlespark's Crate to Knight Commander Demar Brant in Farholde Keep.
+95064 Preventative Measures | quest level 39 (Wowhead page L39) | req 36 | 3000 XP | money 0c | side Alliance
+   start: npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   end:   npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   text: Kill 12 Rog'mar Trainees for Watcher Cornelius at Terral's Watch.
+   rewards: choice [(274959, 'Farholde Horns'), (274961, 'Brute Slayer Band')] fixed []
+95066 The Rog'mar Situation | quest level 39 (Wowhead page L39) | req 36 | 1500 XP | money 0c | side Alliance
+   start: npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   end:   npc 257558 Demar Brant @ Riverglades 66.7,81.0
+   text: Deliver the report to Demar Brant in Farholde Keep.
+   rewards: choice [] fixed [(275052, 'Orc Bone Bow')]
+95118 Saltwater Savages | quest level 41 (Wowhead page L41) | req 36 | 3300 XP | money 4000c | side Both
+   start: npc 259961 Wharfmaster Whizzbuzz @ Riverglades 79.3,52.8 (+1 more spawns)
+   end:   npc 259961 Wharfmaster Whizzbuzz @ Riverglades 79.3,52.8 (+1 more spawns)
+   text: Kill 8 Murloc Oracles and 8 Murloc Warriors along the Eastwind Shore.
+95119 Unfriendly Competition | quest level 43 (Wowhead page L43) | req 38 | 3600 XP | money 6000c | side Both
+   start: npc 259961 Wharfmaster Whizzbuzz @ Riverglades 79.3,52.8 (+1 more spawns)
+   end:   npc 259961 Wharfmaster Whizzbuzz @ Riverglades 79.3,52.8 (+1 more spawns)
+   text: Kill 10 Eastsea Buccaneers and 10 Eastsea Musketeers along the Eastwind Shore, north of Powderfuse Port.
+95120 WANTED: Old Rot-Chum | quest level 42 (Wowhead page L42) | req 36 | 4300 XP | money 3000c | side Both | NOT IN QDB quest.json
+   start: object 628948 WANTED! @ NO SPAWN IN QDB
+   end:   npc 259961 Wharfmaster Whizzbuzz @ Riverglades 79.3,52.8 (+1 more spawns)
+   tooltip: WANTED: Old Rot-Chum Level 42 ; Bring proof of Old Rot-Chum's demise to Wharfmaster Whizzbuzz. ; ; Requirements: ; - Rot-Covered Harpoon
+   rewards: choice [] fixed [(274963, 'Rot-Covered Harpoon')]
+95121 A Taste of the Sea | quest level 40 (Wowhead page L40) | req 36 | 3150 XP | money 0c | side Both
+   start: npc 259962 Fimbo Greasemitz @ Riverglades 79.0,54.2
+   end:   npc 259962 Fimbo Greasemitz @ Riverglades 79.0,54.2
+   text: Gather 12 Murloc Eyes and 6 pieces of Sand Crawler Meat for Fimbo Greasemitz.
+   rewards: choice [] fixed [(274972, 'Recipe: Briny Seafood Stew')]
+95122 Unchecked Expansion | quest level 44 (Wowhead page L44) | req 38 | 3750 XP | money 3000c | side Both | NOT IN QDB quest.json
+   start: npc 259961 Wharfmaster Whizzbuzz @ Riverglades 79.3,52.8 (+1 more spawns)
+   end:   npc 259961 Wharfmaster Whizzbuzz @ Riverglades 79.3,52.8 (+1 more spawns)
+   tooltip: Unchecked Expansion ; Kill 8 Eastsea Raiders and 8 Eastsea Bombardiers for Wharfmaster Whizzbuzz. ; ; Requirements: ; - Eastsea Raider x 8 ; - Eastsea Bombardier x 8
+95123 A Blast Ye Scurvy Dogs! | quest level 44 (Wowhead page L44) | req 38 | 3750 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 259961 Wharfmaster Whizzbuzz @ Riverglades 79.3,52.8 (+1 more spawns)
+   end:   npc 259961 Wharfmaster Whizzbuzz @ Riverglades 79.3,52.8 (+1 more spawns)
+   tooltip: A Blast Ye Scurvy Dogs! ; Steal 5 Eastsea Powder Kegs for Wharfmaster Whizzbuzz. ; ; Requirements: ; - Eastsea Powder Keg x 5
+95124 Admiral Lamora | quest level 45 (Wowhead page L45) | req 38 | 3900 XP | money 6500c | side Both | NOT IN QDB quest.json
+   start: npc 259961 Wharfmaster Whizzbuzz @ Riverglades 79.3,52.8 (+1 more spawns)
+   end:   npc 259961 Wharfmaster Whizzbuzz @ Riverglades 79.3,52.8 (+1 more spawns)
+   tooltip: Admiral Lamora ; Slay Admiral Lamora, locate his stash of loot, and return it to Wharfmaster Whizzbuzz. ; ; Requirements: ; - Admiral Lamora ; - Lamora's Loot
+95147 The Lost Scout | quest level 37 (Wowhead page L37) | req 36 | 285 XP | money 0c | side Alliance
+   start: npc 260026 Scout Bolain @ Riverglades 23.1,66.9
+   end:   npc 259353 Cedric Dalton @ Riverglades 39.4,74.6
+   Wowhead series (order as listed, * = this quest): *>95148
+   text: Deliver Bolain's message to Captain Dalton at Southern Watch.
+95148 Southern Watch Gnoll Report | quest level 37 (Wowhead page L37) | req 36 | 285 XP | money 0c | side Alliance
+   start: npc 259353 Cedric Dalton @ Riverglades 39.4,74.6
+   end:   npc 257558 Demar Brant @ Riverglades 66.7,81.0
+   Wowhead series (order as listed, * = this quest): 95147>*
+   text: Deliver the Southern Watch Gnoll Report to the knight commander at Farholde Keep.
+95156 Stuff 'Em and Stick 'Em | quest level 37 (Wowhead page L37) | req 36 | 2100 XP | money 0c | side Alliance
+   start: npc 260080 Ember Bladewhisper @ Riverglades 66.1,79.6
+   end:   npc 260080 Ember Bladewhisper @ Riverglades 66.1,79.6
+   text: Collect 3 Bundles of Hay for Ember at the training grounds.
+95161 Remember That I Love You | quest level 22 (Wowhead page L22) | req 15 | 175 XP | money 0c | side Alliance
+   start: npc 14450 Orphan Matron Nightingale @ Stormwind City 56.3,54.0
+   end:   npc 228 Avette Fellwood @ zone 10 73.0,44.4
+   Wowhead series (order as listed, * = this quest): 92415>*
+   text: Deliver the Blood-Stained Letter to Avette Fellwood in Duskwood.
+   qdb prerequisites: group None single [92415]
+   rewards: choice [(279870, 'Tarnished Locket')] fixed []
+95165 See Ya, Scallywags! | quest level 44 (Wowhead page L44) | req 38 | 3750 XP | money 0c | side Both
+   start: npc 259961 Wharfmaster Whizzbuzz @ Riverglades 79.3,52.8 (+1 more spawns)
+   end:   npc 259961 Wharfmaster Whizzbuzz @ Riverglades 79.3,52.8 (+1 more spawns)
+   text: Plant a remote explosive charge on each of the Eastsea's three boats.
+95184 The Sharpest of Blades | quest level 38 (Wowhead page L38) | req 36 | 2850 XP | money 2000c | side Alliance
+   start: npc 260080 Ember Bladewhisper @ Riverglades 66.1,79.6
+   end:   npc 260080 Ember Bladewhisper @ Riverglades 66.1,79.6
+   text: Bring 8 Solid Sharpening Stones to Ember Bladewhisper at the Farholde training grounds.
+95219 From Port to Port | quest level 41 (Wowhead page L41) | req 40 | 330 XP | money 0c | side Alliance
+   start: npc 255897 Friz Frazzlespark @ Riverglades 77.2,52.9
+   end:   npc 7941 Mardrack Greenwell @ Feralas 31.0,43.1
+   text: Deliver the Cask of Powderfuse Port to Mardrack Greenwell at Feathermoon Stronghold in Feralas.
+95254 WANTED: Trapclaw | quest level 42 (Wowhead page L42) | req 36 | 3450 XP | money 3000c | side Both
+   start: object 628948 WANTED! @ NO SPAWN IN QDB
+   end:   npc 259962 Fimbo Greasemitz @ Riverglades 79.0,54.2
+   text: Bring Trapclaw's Pincer to Fimbo Greasemitz.
+   rewards: choice [] fixed [(16766, 'Undermine Clam Chowder')]
+95260 Terrors From the Deep | quest level 42 (Wowhead page L42) | req 38 | 345 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: object 629761 (NOT IN QDB)
+   end:   npc 260231 Argo Brinewhistle @ Riverglades 79.5,52.5
+   tooltip: Terrors From the Deep ; Find someone at Powderfuse Port who can identify the monster from the painted hide.
+95261 It Takes Guts | quest level 42 (Wowhead page L42) | req 38 | 3450 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 260231 Argo Brinewhistle @ Riverglades 79.5,52.5
+   end:   npc 260231 Argo Brinewhistle @ Riverglades 79.5,52.5
+   tooltip: It Takes Guts ; Collect 15 Beast Entrails and 8 Rotflesh Mushrooms for Argo Brinewhistle. ; ; Requirements: ; - Beast Entrails x 15 ; - Rotflesh Mushroom x 8
+95267 The Monster Surfaces | quest level 42 (Wowhead page L42) | req 38 | 3450 XP | money 0c | side Both
+   start: npc 260231 Argo Brinewhistle @ Riverglades 79.5,52.5
+   end:   npc 260231 Argo Brinewhistle @ Riverglades 79.5,52.5
+   text: Use the Big Ball o' Bait to lure out the sea monster. Then, bring its head to Argo Brinewhistle.
+   rewards: choice [] fixed [(274948, 'Bottle of Powderfuse Port')]
+95288 Smuggler's Paradise | quest level 43 (Wowhead page L43) | req 38 | 3600 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 255897 Friz Frazzlespark @ Riverglades 77.2,52.9
+   end:   npc 255897 Friz Frazzlespark @ Riverglades 77.2,52.9
+   Wowhead series (order as listed, * = this quest): 93788>94925>93976>94928>*>95293
+   tooltip: Smuggler's Paradise ; Collect 8 Smuggled Goods for Friz Frazzlespark at Powderfuse Port. ; ; Requirements: ; - Smuggled Goods x 8
+95293 Smuggler's Special | quest level 42 (Wowhead page L42) | req 38 | 1700 XP | money 0c | side Both
+   start: npc 255897 Friz Frazzlespark @ Riverglades 77.2,52.9
+   end:   npc 260390 Captain Bentcoin @ NO SPAWN IN QDB
+   Wowhead series (order as listed, * = this quest): 93788>94925>93976>94928>95288>*
+   text: Deliver The Friz Special to Captain Bentcoin in Eastwind Shore.
+95294 Smuggler's Bargain | quest level 42 (Wowhead page L42) | req 38 | 345 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 260391 Captain Haynes @ NO SPAWN IN QDB
+   end:   npc 255897 Friz Frazzlespark @ Riverglades 77.2,52.9
+   Wowhead series (order as listed, * = this quest): *>95296>95383>95312>95321>95472
+   tooltip: Smuggler's Bargain ; Return to Friz Frazzlespark in Powderfuse Port.
+95295 I Know a Guy | quest level 40 (Wowhead page L40) | req 36 | 315 XP | money 0c | side Both
+   start: npc 255897 Friz Frazzlespark @ Riverglades 77.2,52.9
+   end:   npc 3945 Caravaneer Ruzzgot @ Stranglethorn Vale 27.4,74.1
+   Wowhead series (order as listed, * = this quest): *>95322>95325
+   text: Speak to Friz's contact in Booty Bay.
+95296 Shipping and Handling | quest level 40 (Wowhead page L40) | req 36 | 315 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 255897 Friz Frazzlespark @ Riverglades 77.2,52.9
+   end:   npc 260405 Wharfmaster Steamfizzle @ Tanaris 67.6,23.1
+   Wowhead series (order as listed, * = this quest): 95294>*>95383>95312>95321>95472
+   tooltip: Shipping and Handling ; Speak with Wharfmaster Steamfizzle at Steamwheedle Port in Tanaris. ; ; Requirements: ; - Money: 10
+95312 Coming to Collect | quest level 40 (Wowhead page L40) | req 36 | 315 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 260857 Tazzik @ Tanaris 67.4,23.9 (+1 more spawns)
+   end:   npc 220984 Fizbuz Mithril @ Tanaris 51.6,27.4 (+1 more spawns)
+   Wowhead series (order as listed, * = this quest): 95294>95296>95383>*>95321>95472
+   tooltip: Coming to Collect ; Speak with Fizbuz Mithril in Gadgetzan.
+95321 Tazzik's Dues | quest level 40 (Wowhead page L40) | req 36 | 3150 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 220984 Fizbuz Mithril @ Tanaris 51.6,27.4 (+1 more spawns)
+   end:   npc 260857 Tazzik @ Tanaris 67.4,23.9 (+1 more spawns)
+   Wowhead series (order as listed, * = this quest): 95294>95296>95383>95312>*>95472
+   tooltip: Tazzik's Dues ; Confront Tazzik in Steamwheedle Port in Tanaris. ; ; Requirements: ; - Tazzik confronted
+95322 Get the Goods | quest level 40 (Wowhead page L40) | req 36 | 2350 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 3945 Caravaneer Ruzzgot @ Stranglethorn Vale 27.4,74.1
+   end:   npc 3945 Caravaneer Ruzzgot @ Stranglethorn Vale 27.4,74.1
+   Wowhead series (order as listed, * = this quest): 95295>*>95325
+   tooltip: Get the Goods ; Find the Bloodsail Trunk outside of Booty Bay in Stranglethorn Vale. ; ; Requirements: ; - Bloodsail Trunk examined
+95325 We've Been Robbed! | quest level 40 (Wowhead page L40) | req 36 | 2350 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 3945 Caravaneer Ruzzgot @ Stranglethorn Vale 27.4,74.1
+   end:   object 630887 (NOT IN QDB)
+   Wowhead series (order as listed, * = this quest): 95295>95322>*
+   tooltip: We've Been Robbed! ; Find the Venture Co. Ledger in the Venture Co. Camp near Lake Nezferiti in Stranglethorn.
+95326 The Big Payback | quest level 39 (Wowhead page L39) | req 36 | 3000 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: object 630887 (NOT IN QDB)
+   end:   npc 3945 Caravaneer Ruzzgot @ Stranglethorn Vale 27.4,74.1
+   tooltip: The Big Payback ; Kill the Venture Co. Agent and take back Ruzzgot's Shipment for him in Booty Bay. ; ; Requirements: ; - Ruzzgot's Shipment
+95327 All's Well That Ends Well | quest level 40 (Wowhead page L40) | req 36 | 3150 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 3945 Caravaneer Ruzzgot @ Stranglethorn Vale 27.4,74.1
+   end:   npc 255897 Friz Frazzlespark @ Riverglades 77.2,52.9
+   tooltip: All's Well That Ends Well ; Return to Friz Frazzlespark at Powderfuse Port in the Riverglades.
+95329 Out in the Field | quest level 38 (Wowhead page L38) | req 36 | 285 XP | money 0c | side Alliance
+   start: npc 257558 Demar Brant @ Riverglades 66.7,81.0
+   end:   npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   text: Go to Terral's Watch to get a status report from Watcher Cornelius.
+95330 Love Thy Neighbor | quest level 37 (Wowhead page L37) | req 36 | 285 XP | money 0c | side Alliance
+   start: npc 259863 Cassandra Wheeler @ Riverglades 64.6,82.8
+   end:   npc 256438 Halligan Turner @ Riverglades 41.0,62.8
+   text: Deliver Cassandra's surplus farm goods to Halligan Turner at Turner's Logging Camp.
+95331 REUSE ME | quest level 45 (Wowhead page L45) | req 38 | None XP | money 0c | side None | NOT IN QDB quest.json
+   start: none listed
+   end:   none listed
+   tooltip: REUSE ME
+95383 Shipping and Handling | quest level 40 (Wowhead page L40) | req 36 | 315 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 260405 Wharfmaster Steamfizzle @ Tanaris 67.6,23.1
+   end:   npc 260857 Tazzik @ Tanaris 67.4,23.9 (+1 more spawns)
+   Wowhead series (order as listed, * = this quest): 95294>95296>*>95312>95321>95472
+   tooltip: Shipping and Handling ; Deliver Friz's Secret Stash to Tazzik in Steamwheedle Port.
+95426 Rog'mar Supplies | quest level 39 (Wowhead page L39) | req 36 | 3000 XP | money 0c | side Alliance
+   start: npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   end:   npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   text: Retrieve 8 Horde Supply Shipment from the training camps north of Rog'mar.
+95472 Consolation Prize | quest level 40 (Wowhead page L40) | req 36 | 2350 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 260857 Tazzik @ Tanaris 67.4,23.9 (+1 more spawns)
+   end:   npc 255897 Friz Frazzlespark @ Riverglades 77.2,52.9
+   Wowhead series (order as listed, * = this quest): 95294>95296>95383>95312>95321>*
+   tooltip: Consolation Prize ; Bring Tazzik's Sweaty Shirt to Friz Frazzlespark in Powderfuse Port.
+   rewards: choice [] fixed [(270334, 'Sweat-Stained Shirt')]
+95561 Apple of My Eye | quest level 38 (Wowhead page L38) | req 36 | 1450 XP | money 0c | side Alliance
+   start: npc 263089 Tessa Dawnbright @ Riverglades 63.8,82.2
+   end:   npc 263089 Tessa Dawnbright @ Riverglades 63.8,82.2
+   Wowhead series (order as listed, * = this quest): 95951>*>95955>95913>95961
+   text: Collect 6 Fresh Apples for Tessa Dawnbright in Farholde Keep.
+   rewards: choice [] fixed [(4539, 'Goldenbark Apple')]
+95562 Cut Off the Heads | quest level 41 (Wowhead page L41) | req 36 | 3300 XP | money 2500c | side Alliance
+   start: npc 256831 Apprentice Claire @ Riverglades 47.6,47.2
+   end:   npc 256831 Apprentice Claire @ Riverglades 47.6,47.2
+   text: Kill Chogg'Zac in the caves beneath Sunnyglade and retrieve their heads for Apprentice Claire.
+95603 Bats in the Belfry | quest level 38 (Wowhead page L38) | req 36 | 2150 XP | money 0c | side Alliance
+   start: npc 262031 Sister Rowland @ Riverglades 61.7,83.3
+   end:   npc 262031 Sister Rowland @ Riverglades 61.7,83.3
+   text: Kill 5 Roosting Duskbats in the Farholde Cathedral for Sister Rowland.
+95613 Keeping the Light On | quest level 38 (Wowhead page L38) | req 36 | 2150 XP | money 3000c | side Alliance
+   start: npc 262031 Sister Rowland @ Riverglades 61.7,83.3
+   end:   npc 262031 Sister Rowland @ Riverglades 61.7,83.3
+   text: Bring 5 Holy Candles to Sister Rowland in Farholde Keep.
+95615 In Memoriam | quest level 38 (Wowhead page L38) | req 36 | 2150 XP | money 0c | side Alliance
+   start: npc 262031 Sister Rowland @ Riverglades 61.7,83.3
+   end:   npc 262031 Sister Rowland @ Riverglades 61.7,83.3
+   text: Place 3 Memorial Candles on graves in the chapel graveyard for Sister Rowland at Farholde Keep.
+   rewards: choice [(274915, 'Sacristan Band'), (274916, 'Verger Greaves')] fixed [(274918, 'Warding Candle')]
+95642 Abominable Magics | quest level 40 (Wowhead page L40) | req 36 | 3150 XP | money 0c | side Alliance
+   start: npc 256831 Apprentice Claire @ Riverglades 47.6,47.2
+   end:   npc 256831 Apprentice Claire @ Riverglades 47.6,47.2
+   text: Absorb 25 samples into the Crystal Catalyst from Twilight's Hammer cultists and Twilight Ritual Circles in the cave underneath Sunnyglade for Apprentice Claire.
+95643 Indiscriminate Purge | quest level 40 (Wowhead page L40) | req 36 | 3150 XP | money 0c | side Alliance
+   start: npc 256831 Apprentice Claire @ Riverglades 47.6,47.2
+   end:   npc 256831 Apprentice Claire @ Riverglades 47.6,47.2
+   text: Kill 5 Twilight Ritualists and 5 Empowered Brutes within the caves underneath Sunnyglade.
+95792 Clear 'em Out | quest level 42 (Wowhead page L42) | req 36 | 3450 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 262399 Gelinda Coppergleam @ NO SPAWN IN QDB
+   end:   npc 262399 Gelinda Coppergleam @ NO SPAWN IN QDB
+   tooltip: Clear 'em Out ; Kill 8 Cinderscale Whelps and 4 Cinderscale Warriors for Gelinda Coppergleam. ; ; Requirements: ; - Cinderscale Whelp x 8 ; - Cinderscale Warrior x 4
+95912 WANTED: Blademaster Kaijo | quest level 42 (Wowhead page L42) | req 38 | 4300 XP | money 0c | side Alliance
+   start: object 707245 Wanted @ Riverglades 65.9,81.1
+   end:   npc 260080 Ember Bladewhisper @ Riverglades 66.1,79.6
+   text: Bring the Blademaster's Banner to Ember Bladewhisper in Farholde Keep.
+   rewards: choice [(276102, 'Bladewind'), (287072, "Bladewhisper's Namesake")] fixed []
+95913 Fit for a Princess | quest level 38 (Wowhead page L38) | req 36 | 2850 XP | money 0c | side Alliance
+   start: npc 263089 Tessa Dawnbright @ Riverglades 63.8,82.2
+   end:   npc 263089 Tessa Dawnbright @ Riverglades 63.8,82.2
+   Wowhead series (order as listed, * = this quest): 95951>95561>95955>*>95961
+   text: Collect 3 Coyote Pelts for Tessa Dawnbright in Farholde Keep.
+   rewards: choice [(274931, 'Fur-Lined Bracers'), (274932, 'Coyote Hide Wraps')] fixed []
+95934 Proof of Profit | quest level 42 (Wowhead page L42) | req 36 | 3450 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 262399 Gelinda Coppergleam @ NO SPAWN IN QDB
+   end:   npc 262399 Gelinda Coppergleam @ NO SPAWN IN QDB
+   tooltip: Proof of Profit ; Find a piece of Cubic Draconia for Gelinda Coppergleam. ; ; Requirements: ; - Cubic Draconia
+95935 Hail the Dragonslayer | quest level 43 (Wowhead page L43) | req 36 | 4450 XP | money 12000c | side Alliance
+   start: none listed
+   end:   npc 259353 Cedric Dalton @ Riverglades 39.4,74.6
+   text: Take the Head of Scaldaron to Cedric Dalton at the Southern Watch.
+95943 Foreman's Plight | quest level 38 (Wowhead page L38) | req 36 | 2150 XP | money 0c | side Alliance
+   start: npc 260070 Bertrand Ironbrow @ Riverglades 63.4,80.5
+   end:   npc 260070 Bertrand Ironbrow @ Riverglades 63.4,80.5
+   text: Locate the Foreman's Crate and return it to Bertrand Ironbrow in Farholde Keep.
+95957 Drink Up! | quest level 38 (Wowhead page L38) | req 36 | 285 XP | money 0c | side Alliance
+   start: npc 255894 Innkeeper Zizplink @ Riverglades 78.8,54.0
+   end:   npc 263120 Gray Dawnbright @ Riverglades 78.8,54.2
+   Wowhead series (order as listed, * = this quest): 95988>*>95975
+   text: Deliver Zizplink's Frothing Mug to Gray Dawnbright in Powderfuse Port.
+95961 Stepped Out | quest level 38 (Wowhead page L38) | req 36 | 285 XP | money 0c | side Alliance
+   start: npc 263089 Tessa Dawnbright @ Riverglades 63.8,82.2
+   end:   npc 263120 Gray Dawnbright @ Riverglades 78.8,54.2
+   Wowhead series (order as listed, * = this quest): 95951>95561>95955>95913>*
+   text: Find Gray Dawnbright in Powderfuse Port.
+95975 Her World | quest level 41 (Wowhead page L41) | req 36 | 3300 XP | money 0c | side Alliance
+   start: npc 263120 Gray Dawnbright @ Riverglades 78.8,54.2
+   end:   npc 263089 Tessa Dawnbright @ Riverglades 63.8,82.2
+   Wowhead series (order as listed, * = this quest): 95988>95957>*
+   text: Gather 20 Wildflowers and deliver them to Tessa Dawnbright in Farholde Keep.
+95982 Not My Circus | quest level 38 (Wowhead page L38) | req 36 | 2850 XP | money 0c | side Both
+   start: npc 260540 Jasper Geartoggle @ Riverglades 75.9,52.8 (+1 more spawns)
+   end:   npc 260540 Jasper Geartoggle @ Riverglades 75.9,52.8 (+1 more spawns)
+   text: Bring 10 Briny Seafood Stew to Jasper Geartoggle in Powderfuse Port.
+95983 A Feast for Buzzards | quest level 38 (Wowhead page L38) | req 36 | 710 XP | money 0c | side Alliance
+   start: npc 263316 Picked Carcass @ NO SPAWN IN QDB
+   end:   npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   Wowhead series (order as listed, * = this quest): *>95984>95986
+   text: Bring the Gnawed Skull to Watcher Cornelius at Terral's Watch.
+95984 Song of the Strider | quest level 39 (Wowhead page L39) | req 36 | 3000 XP | money 0c | side Alliance
+   start: npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   end:   npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   Wowhead series (order as listed, * = this quest): 95983>*>95986
+   text: Bring an Intact Tallstrider Beak to Watcher Cornelius at Terral's Watch.
+95986 King of the Wild Plains | quest level 41 (Wowhead page L41) | req 36 | 3300 XP | money 0c | side Alliance
+   start: npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   end:   npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   Wowhead series (order as listed, * = this quest): 95983>95984>*
+   text: Use the Tallstrider Call to call forth the leader of the lion pride. Slay the beast and retrieve its hide for Watcher Cornelius at Terral's Watch.
+95988 Goes Down Smooth | quest level 38 (Wowhead page L38) | req 36 | 2850 XP | money 0c | side Alliance
+   start: npc 255894 Innkeeper Zizplink @ Riverglades 78.8,54.0
+   end:   npc 255894 Innkeeper Zizplink @ Riverglades 78.8,54.0
+   Wowhead series (order as listed, * = this quest): *>95957>95975
+   text: Gather 3 Crawler Spittle, Fresh Chum, Goblin Degreaser, and Expired Poison for Innkeeper Zizplink in Powderfuse Port.
+   rewards: choice [] fixed [(274935, "Tessa's Tonic")]
+95991 WANTED: Ghostmaw | quest level 42 (Wowhead page L42) | req 38 | 4300 XP | money 0c | side Alliance
+   start: object 645166 WANTED! @ NO SPAWN IN QDB
+   end:   npc 259859 Wheatley @ zone 10 60.8,12.3; Riverglades 63.7,84.8
+   text: Bring Ghostmaw's Fang to Wheatley in Farholde Keep.
+   rewards: choice [] fixed [(274962, 'Crocskin Waders')]
+96009 High Stakes | quest level 38 (Wowhead page L38) | req 36 | 2150 XP | money 0c | side Alliance
+   start: npc 260070 Bertrand Ironbrow @ Riverglades 63.4,80.5
+   end:   npc 260070 Bertrand Ironbrow @ Riverglades 63.4,80.5
+   text: Collect 10 Wood Bundles from Turner's Logging Camp for Bertrand Ironbrow in Farholde Keep.
+   rewards: choice [] fixed [(274957, 'Lumber Luggers')]
+96015 A Miner Problem | quest level 43 (Wowhead page L43) | req 38 | 3600 XP | money 0c | side Alliance
+   start: npc 258023 Sergeant Riftan @ Riverglades 30.4,49.0
+   end:   npc 258023 Sergeant Riftan @ Riverglades 30.4,49.0
+   text: Defeat 5 Ogre Miners and 5 Twilight Subjugators in the cave near the Twilight's Shroud for Sergeant Riftan.
+   rewards: choice [] fixed [(275028, 'Twilight Mine Light')]
+96063 Gaseous Gold | quest level 38 (Wowhead page L38) | req 36 | 2850 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 263367 Sleebo Fizzlespout @ Riverglades 69.5,50.3 (+1 more spawns)
+   end:   npc 263367 Sleebo Fizzlespout @ Riverglades 69.5,50.3 (+1 more spawns)
+   tooltip: Gaseous Gold ; Gather 5 Marsh Gas Vials for Sleebo Fizzlespout. ; ; Requirements: ; - Marsh Gas Vial x 8
+   rewards: choice [] fixed [(274922, 'Riverglades Marsh Gas')]
+96067 Rock 'em and Sock 'em | quest level 40 (Wowhead page L40) | req 36 | 2350 XP | money 0c | side Both | NOT IN QDB quest.json
+   start: npc 263367 Sleebo Fizzlespout @ Riverglades 69.5,50.3 (+1 more spawns)
+   end:   npc 263367 Sleebo Fizzlespout @ Riverglades 69.5,50.3 (+1 more spawns)
+   tooltip: Rock 'em and Sock 'em ; Help Sleebo test his creation. ; ; Requirements: ; - Fight G45-B4G in a stress test of Sleebo's engine.
+96081 Wound Dressings | quest level 40 (Wowhead page L40) | req 36 | 1550 XP | money 0c | side Alliance
+   start: npc 263613 Brother Lowley @ Riverglades 65.4,79.1
+   end:   npc 263613 Brother Lowley @ Riverglades 65.4,79.1
+   text: Gather 20 Mageweave Cloth for Brother Lowley at Farholde Keep.
+96082 Doctor's Orderly | quest level 40 (Wowhead page L40) | req 36 | 1550 XP | money 0c | side Alliance
+   start: npc 263613 Brother Lowley @ Riverglades 65.4,79.1
+   end:   npc 263613 Brother Lowley @ Riverglades 65.4,79.1
+   text: Bandage up 3 Wounded Soldiers for Brother Lowley.
+96083 Clerical Quarantine | quest level 40 (Wowhead page L40) | req 36 | 315 XP | money 0c | side Alliance
+   start: npc 263613 Brother Lowley @ Riverglades 65.4,79.1
+   end:   npc 262031 Sister Rowland @ Riverglades 61.7,83.3
+   text: Speak to Sister Rowland at the chapel in Farholde Keep.
+96084 Something's in the Water | quest level 40 (Wowhead page L40) | req 36 | 3150 XP | money 0c | side Alliance
+   start: npc 262031 Sister Rowland @ Riverglades 61.7,83.3
+   end:   npc 262031 Sister Rowland @ Riverglades 61.7,83.3
+   text: Collect a sample of drinking water from the plains for Sister Rowland at the chapel in Farholde Keep.
+96085 Upstream Contamination | quest level 42 (Wowhead page L42) | req 36 | 4300 XP | money 0c | side Alliance
+   start: npc 262031 Sister Rowland @ Riverglades 61.7,83.3
+   end:   npc 262031 Sister Rowland @ Riverglades 61.7,83.3
+   text: Find whatever creature is causing the drinking water contamination and eliminate it. Then, return to Sister Rowland at the chapel in Farholde Keep.
+   rewards: choice [] fixed [(3928, 'Superior Healing Potion')]
+96125 In Need of Relief | quest level 43 (Wowhead page L43) | req 38 | 360 XP | money 0c | side Alliance
+   start: npc 259352 Watcher Cornelius @ Riverglades 59.4,63.8
+   end:   npc 259057 Dunston Willis @ Riverglades 68.6,12.8
+   text: Find Dunston Willis somewhere among the ogres in Bolder'ok.
+96126 An Ogre's Captive | quest level 44 (Wowhead page L44) | req 38 | 3750 XP | money 0c | side Alliance
+   start: npc 259057 Dunston Willis @ Riverglades 68.6,12.8
+   end:   npc 259057 Dunston Willis @ Riverglades 68.6,12.8
+   text: Find Gronok the Butcher, kill him, and bring Dunston the key to his shackles.

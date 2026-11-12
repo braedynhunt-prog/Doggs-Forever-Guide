@@ -1,0 +1,25 @@
+# Extra Wowhead Forever pages read 11 Nov 2026 (late), after the spec agents asked for them. id|level|req|side|Start|End|series
+95786|L40|r30|Alliance|S:n739|E:n2277|       An Acquaintance in Southshore: starts at Brother Nimetz (739, Rebel Camp), ends at Loremaster Dibbs (2277, Southshore). 3,150 XP + 50s.
+95789|L40|r34|Both|S:n773|E:n773|           Shady Saltseers: Krazek to Krazek (Booty Bay). Open to Alliance.
+95791|L40|r34|Both|S:n773|E:n773|           The Saltseer Captain: Krazek to Krazek.
+95799|L40|r30|Alliance|S:n2277|E:n2916|     Findings for the Explorer's League: Dibbs to Historian Karnik (2916, Ironforge).
+97617|L40|r35|Alliance|S:n269577|E:n269577| Safety Checks (Badlands).
+92459|L33|r24|Alliance|S:n269127|E:n252085|92432>92458>*   Friend of the Kirin Tor: follow-up of 92458, not an alternative.
+94929|L38|r36|Alliance|S:n5476|E:n257558|   Deliver the Second Shipment: Watcher Biggs (Swamp) to Demar Brant (Farholde Keep).
+95315|L38|r36|Alliance|S:n2700|E:n257558|   The Riverglades Report: Captain Nials (Refuge Pointe) to Demar Brant.
+93443|L36|r36|Alliance|S:o658116|E:n255897| Lost Shipping Crate (Stranglethorn sort): object start, ends at Friz Frazzlespark (Powderfuse Port).
+94841|L38|r36|Alliance|S:o656789|E:n255897| Lost Shipping Crate (Desolace sort): object start, ends at Friz Frazzlespark.
+575|L31|r26|Both|S:n2495|E:n2495|           Supply and Demand: Drizzlik, Booty Bay.
+
+# Item pages (count/outof)
+270343 I'lalai Fetish (95788, 5 needed): Risen Sentry 211/2310 (9.1%); Profane Necromancer 189/1085 (17.4%); Undying Offering 37/388 (9.5%). Dungeon drop: grind/luck, one run, abandon if short.
+270333 Saltseer artifact (95789, 10 needed): Saltseer Murderer 938/2372 (39.5%); Cultist 383/945 (40.5%); Manhunter 660/1618 (40.8%); Coroner 125/300 (41.7%).
+6196 Noboru's Cudgel (starts 1392): Noboru the Cudgel 34/38 (89.5%): 1392 is plain by the named-mob rule.
+7666 Shattered Necklace (starts 2198): Shadowforge Surveyor 39/335, Ruffian 22/166, Digger 54/451, Stonevault Rockchewer 36/234 ... about 12-15%.
+212553 (79242's fixed reward): 404 on Wowhead, as on the tooltip endpoint.
+
+# NPC page
+1261 Veron Amberstill <Ram Breeder> sells: Gray Ram 5864 at 200000 and at 421052; Brown Ram 5872 at 200000 and at 400000; White Ram 5873 at 200000 and at 400000; Swift rams at 2000000.
+  Two price rows per ram (20g and 40g, raw copper). So the mount is Apprentice Riding 100g (raw 1,052,631) PLUS a ram at 20g or 40g: which row the game uses is a test-list item. The gold plan's "100g" is the riding skill alone.
+219 Groundskeeper Lomar: Arathi Highlands 27,57 (Wowhead map; not in qdb). Starts and ends 92867.
+254775 Karana: Swamp of Sorrows 26.0,31.4 and seven more points within 24.8-26.8, 31.4-33.6 (the Harborage).
