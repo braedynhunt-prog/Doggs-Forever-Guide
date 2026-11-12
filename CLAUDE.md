@@ -1,11 +1,11 @@
 # WoW Forever Atlas
 
-Braedyn's levelling guide for his Dwarf Shaman (2H Enhancement) on WoW Forever, Alliance, built as a Guidelime addon, plus the data and tooling that produce it. The guide covers 1-30 today; 30-40 is built after launch from live data.
+Braedyn's levelling guide for his Dwarf Shaman (2H Enhancement) on WoW Forever, Alliance, built as a Guidelime addon, plus the data and tooling that produce it. The guide covers 1-42 since 11 Nov 2026: chapters `00a`-`26` (group "Forever Shaman 1-30") and `27`-`41` (group "Forever Shaman 30-60", round 1; record `docs/30-40-build-2026-11-11.md`). 40-50 and 50-60 are the next rounds.
 
 Owner: Braedyn. He plays the guide and reports what breaks; you keep the files correct.
 
 ## Layout
-- `guide/Guidelime_ForeverShaman/` — the addon: one `.lua` per chapter (`00a`…`26`), TOCs. `Guidelime_ForeverShaman.zip` beside it is the installable copy; rebuild it after any guide edit.
+- `guide/Guidelime_ForeverShaman/` — the addon: one `.lua` per chapter (`00a`…`41`), TOCs. `Guidelime_ForeverShaman.zip` beside it is the installable copy; rebuild it after any guide edit.
 - `tooling/` — Python scripts and the data they read. `tooling/qdb/{quest,npc,object,item}.json` is the decoded QuestieDB **Forever** database (`qdb_classic/` is the old Classic one). `check_guide.py` is the static flow check; `tarcheck.py` checks `[TAR]` positions against DB spawns. Read `tooling/README` before using any of them.
 - `data/` — Wowhead quest-atlas scrape (`quests.json`, `entities.json`, `zone_*.json`). Source of quest XP. Wowhead now blocks the scraper; treat this as a frozen snapshot.
 - `weights/` — stat-weight model for a 2H Enhancement shaman (`enh_weights.py`, `score_items.py`).

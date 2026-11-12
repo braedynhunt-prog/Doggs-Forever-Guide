@@ -42,7 +42,12 @@
     {"match": "Journeyman Skinning", "skill": "Skinning", "rank": 150},
     {"match": "Journeyman Mining", "skill": "Mining", "rank": 150},
     {"match": "Journeyman Skinning/Mining", "skill": "Mining", "rank": 150},
-    {"match": "Expert Cookbook", "skill": "Cooking", "rank": 225}
+    {"match": "Expert Cookbook", "skill": "Cooking", "rank": 225},
+    {"match": "Expert Fishing - The Bass and You", "skill": "Fishing", "rank": 225},
+    {"match": "Fish to 150", "skill": "Fishing", "target": 150},
+    {"match": "Fish to 200", "skill": "Fishing", "target": 200},
+    {"match": "learn Expert Skinning", "skill": "Skinning", "rank": 225},
+    {"match": "learn Artisan Skinning", "skill": "Skinning", "rank": 300}
   ],
   "gates": [
     {"match": "Recipe: Beer Basted Boar Ribs", "skill": "Cooking", "min": 25, "mode": "target", "source": "Forever tooltip item 2889 (28 Oct 2026)"},
@@ -79,6 +84,17 @@
     {"match": "Camping 101: Fishing", "skill": "Fishing", "min": 1, "mode": "learned", "source": "Forever quest; whether it is offered without Fishing is on the in-game test list"},
     {"match": "Camping 101: First Aid", "skill": "First Aid", "min": 1, "mode": "learned", "source": "Forever quest; needs the profession"},
     {"match": "Camping 101: Skinning", "skill": "Skinning", "min": 20, "mode": "learned", "source": "guide text says 'once Skinning is 20' - unverified; progress assumed"},
-    {"match": "Camping 101: Mining", "skill": "Mining", "min": 20, "mode": "learned", "source": "guide text says 'at Mining 20' - unverified; progress assumed"}
+    {"match": "Camping 101: Mining", "skill": "Mining", "min": 20, "mode": "learned", "source": "guide text says 'at Mining 20' - unverified; progress assumed"},
+    {"match": "Recipe: Roast Raptor", "skill": "Cooking", "min": 175, "mode": "learned", "source": "Forever tooltip item 12228 (11 Nov 2026); chapter 30, bought early, learned at 175"},
+    {"match": "Recipe: Jungle Stew", "skill": "Cooking", "min": 175, "mode": "learned", "source": "Forever tooltip item 12231 (11 Nov 2026); chapter 30, bought early"},
+    {"match": "Recipe: Rockscale Cod", "skill": "Cooking", "min": 175, "mode": "learned", "source": "Forever tooltip item 6369 (11 Nov 2026); chapter 31, optional"},
+    {"match": "Recipe: Cooked Glossy Mightfish", "skill": "Cooking", "min": 225, "mode": "learned", "source": "Forever tooltip item 13940 (11 Nov 2026): Cooking 225, the food needs level 35; chapter 31, optional"},
+    {"match": "Recipe: Mystery Stew", "skill": "Cooking", "min": 175, "mode": "learned", "source": "Forever tooltip item 12233 (11 Nov 2026); chapter 33, optional"},
+    {"match": "Recipe: Heavy Kodo Stew", "skill": "Cooking", "min": 200, "mode": "learned", "source": "Forever tooltip item 12240 (11 Nov 2026); chapter 33, optional"},
+    {"match": "Recipe: Plain Ol' Paletusk", "skill": "Cooking", "min": 185, "mode": "learned", "source": "Forever tooltip item 274977 (11 Nov 2026); chapter 38, optional"},
+    {"match": "Recipe: Briny Seafood Stew", "skill": "Cooking", "min": 200, "mode": "learned", "source": "Forever tooltip item 274972 (11 Nov 2026); chapter 41, reward of the optional A Taste of the Sea"},
+    {"match": "Expert Fishing - The Bass and You", "skill": "Fishing", "min": 125, "mode": "target", "source": "Forever tooltip item 16083 (11 Nov 2026): Fishing 125, level 20; chapter 31 (he had 127 on 9 Nov)"},
+    {"match": "learn Expert Skinning", "skill": "Skinning", "min": 125, "mode": "learned", "source": "tooling/trainer_costs.json 6291 Balthus Stoneflayer (learnedat 125, 50s); chapter 27, optional line 'once Skinning is 125'"},
+    {"match": "learn Artisan Skinning", "skill": "Skinning", "min": 200, "mode": "learned", "source": "tooling/trainer_costs.json 6291 Balthus Stoneflayer (learnedat 200, 5g); chapter 39d, optional line 'once Skinning is 200'"}
   ]
 }

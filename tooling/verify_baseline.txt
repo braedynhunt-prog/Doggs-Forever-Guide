@@ -42,3 +42,156 @@ money  24_Gnomeregan.lua:60  quest: "3 silver" quoted but 2951 The Sparklematic 
 money  02_LochModan.lua:41  vendor: "10c" for Mild Spices: tooltip sell price 1c gives 4c - 7c
 money  19_Wetlands2.lua:57  vendor: no vendor item named "Dragonslayer's Lance" in tooling/qdb/item.json
 money  02_LochModan.lua:53  trainer: Buliwyf Stonehand (11865) is not in tooling/trainer_costs.json
+questnpc  27_HillsbradAlterac.lua:15  [QA95787] Take Two With Water: DB lists no starter at all; line has [TAR2277 Loremaster Dibbs]
+questnpc  27_HillsbradAlterac.lua:16  [QA95788] Magics of the Drowned City: DB lists no starter at all; line has [TAR2277 Loremaster Dibbs]
+questnpc  27_HillsbradAlterac.lua:17  [QA95798] The Web of Magic: DB lists no starter at all; line has [TAR2277 Loremaster Dibbs]
+questnpc  29_Arathi.lua:35  [QA92867] Ground to Keep: DB lists no starter at all; line has [TAR219 Groundskeeper Lomar]
+questnpc  29_Arathi.lua:41  [QT92867] Ground to Keep: DB lists no finisher at all; line has [TAR219 Groundskeeper Lomar]
+questnpc  30_StranglethornNorth.lua:46  [QA95786] An Acquaintance in Southshore: DB lists no starter at all; line has [TAR739 Brother Nimetz]
+questnpc  31_BootyBayDrownedCity.lua:65  [QT95789] Shady Saltseers: DB lists no finisher at all; line has [TAR773 Krazek]
+questnpc  31_BootyBayDrownedCity.lua:70  [QT95787] Take Two With Water: DB lists no finisher at all; line has [TAR2277 Loremaster Dibbs]
+questnpc  31_BootyBayDrownedCity.lua:70  [QT95786] An Acquaintance in Southshore: DB lists no finisher at all; line has [TAR2277 Loremaster Dibbs]
+questnpc  31_BootyBayDrownedCity.lua:70  [QA95799] Findings for the Explorer's League: DB lists no starter at all; line has [TAR2277 Loremaster Dibbs]
+questnpc  31_BootyBayDrownedCity.lua:71  [QT95788] Magics of the Drowned City: DB lists no finisher at all; line has [TAR2277 Loremaster Dibbs]
+questnpc  31_BootyBayDrownedCity.lua:73  [QT95798] The Web of Magic: DB lists no finisher at all; line has [TAR252019 Abra Cadabra]
+questnpc  31_BootyBayDrownedCity.lua:75  [QT97130] Ancient Gurubashi Secrets: DB lists no finisher at all; line has [TAR31439 Archmage Timear]
+questnpc  31_BootyBayDrownedCity.lua:79  [QT95799] Findings for the Explorer's League: DB lists no finisher at all; line has [TAR2916 Historian Karnik]
+questnpc  33_Desolace.lua:22  [QA97284] Vahlarriel's Vengeance: DB lists no starter at all; line has [TAR5642 Vahlarriel Demonslayer]
+questnpc  33_Desolace.lua:53  [QT97284] Vahlarriel's Vengeance: DB lists no finisher at all; line has [TAR5642 Vahlarriel Demonslayer]
+questnpc  37_SwampOfSorrows.lua:19  [QT93585] This Light of Mine: DB lists no finisher at all; line has [TAR1776 Magtoor]
+questnpc  37_SwampOfSorrows.lua:20  [QA93429] Blood of My Blood: DB lists no starter at all; line has [TAR254775 Karana]
+questnpc  37_SwampOfSorrows.lua:24  [QA1392] Noboru the Cudgel: starter in the DB is item 6196; line has [TAR5477 Noboru the Cudgel] (fine if the TAR is just the nearby NPC)
+questnpc  37_SwampOfSorrows.lua:41  [QT93429] Blood of My Blood: DB lists no finisher at all; line has [TAR254775 Karana]
+questnpc  38_RivergladesI.lua:14  [QA94678] Gnoll Infestation: DB lists no starter at all; line has [TAR259353 Cedric Dalton]
+questnpc  38_RivergladesI.lua:15  [QA94999] Eyes for the Watchman: DB lists no starter at all; line has [TAR259050 Eleanor Holmsby]
+questnpc  38_RivergladesI.lua:16  [QA94923] Hats Off: DB lists no starter at all; line has [TAR259049 Robbie Holmsby]
+questnpc  38_RivergladesI.lua:17  [QT94999] Eyes for the Watchman: DB lists no finisher at all; line has [TAR259051 Watcher Fredericks]
+questnpc  38_RivergladesI.lua:22  [QA94861] Helping Hands: DB lists no starter at all; line has [TAR258963 Hurley]
+questnpc  38_RivergladesI.lua:26  [QT94861] Helping Hands: DB lists no finisher at all; line has [TAR256438 Halligan Turner]
+questnpc  38_RivergladesI.lua:32  [QA95147] The Lost Scout: DB lists no starter at all; line has [TAR260026 Scout Bolain]
+questnpc  38_RivergladesI.lua:33  [QT94678] Gnoll Infestation: DB lists no finisher at all; line has [TAR259353 Cedric Dalton]
+questnpc  38_RivergladesI.lua:33  [QT95147] The Lost Scout: DB lists no finisher at all; line has [TAR259353 Cedric Dalton]
+questnpc  38_RivergladesI.lua:33  [QA95148] Southern Watch Gnoll Report: DB lists no starter at all; line has [TAR259353 Cedric Dalton]
+questnpc  38_RivergladesI.lua:40  [QT95148] Southern Watch Gnoll Report: DB lists no finisher at all; line has [TAR257558 Demar Brant]
+questnpc  38_RivergladesI.lua:41  [QA94613] My Kingdom for a Horse: DB lists no starter at all; line has [TAR257558 Demar Brant]
+questnpc  38_RivergladesI.lua:41  [QA95329] Out in the Field: DB lists no starter at all; line has [TAR257558 Demar Brant]
+questnpc  38_RivergladesI.lua:41  [QA94877] Saving Sunnyglade: DB lists no starter at all; line has [TAR257558 Demar Brant]
+questnpc  38_RivergladesI.lua:43  [QA95156] Stuff 'Em and Stick 'Em: DB lists no starter at all; line has [TAR260080 Ember Bladewhisper]
+questnpc  38_RivergladesI.lua:45  [QA95943] Foreman's Plight: DB lists no starter at all; line has [TAR260070 Bertrand Ironbrow]
+questnpc  38_RivergladesI.lua:45  [QA96009] High Stakes: DB lists no starter at all; line has [TAR260070 Bertrand Ironbrow]
+questnpc  38_RivergladesI.lua:47  [QA95615] In Memoriam: DB lists no starter at all; line has [TAR262031 Sister Rowland]
+questnpc  38_RivergladesI.lua:48  [QA96082] Doctor's Orderly: DB lists no starter at all; line has [TAR263613 Brother Lowley]
+questnpc  38_RivergladesI.lua:49  [QA95330] Love Thy Neighbor: DB lists no starter at all; line has [TAR259863 Cassandra Wheeler]
+questnpc  38_RivergladesI.lua:55  [QT96082] Doctor's Orderly: DB lists no finisher at all; line has [TAR263613 Brother Lowley]
+questnpc  38_RivergladesI.lua:55  [QA96083] Clerical Quarantine: DB lists no starter at all; line has [TAR263613 Brother Lowley]
+questnpc  38_RivergladesI.lua:60  [QT95561] Apple of My Eye: DB lists no finisher at all; line has [TAR263089 Tessa Dawnbright]
+questnpc  38_RivergladesI.lua:61  [QA95961] Stepped Out: DB lists no starter at all; line has [TAR263089 Tessa Dawnbright]
+questnpc  38_RivergladesI.lua:63  [QT95615] In Memoriam: DB lists no finisher at all; line has [TAR262031 Sister Rowland]
+questnpc  38_RivergladesI.lua:63  [QT96083] Clerical Quarantine: DB lists no finisher at all; line has [TAR262031 Sister Rowland]
+questnpc  38_RivergladesI.lua:63  [QA96084] Something's in the Water: DB lists no starter at all; line has [TAR262031 Sister Rowland]
+questnpc  38_RivergladesI.lua:66  [QA94615] Foal Play: DB lists no starter at all; line has [TAR258317 Benjy Wheeler]
+questnpc  38_RivergladesI.lua:72  [QT94992] Rescue Roundup: DB lists no finisher at all; line has [TAR258317 Benjy Wheeler]
+questnpc  38_RivergladesI.lua:78  [QT94923] Hats Off: DB lists no finisher at all; line has [TAR259049 Robbie Holmsby]
+questnpc  38_RivergladesI.lua:87  [QT95329] Out in the Field: DB lists no finisher at all; line has [TAR259352 Watcher Cornelius]
+questnpc  38_RivergladesI.lua:88  [QA94924] Hunting the Hunters: DB lists no starter at all; line has [TAR259352 Watcher Cornelius]
+questnpc  38_RivergladesI.lua:88  [QA95064] Preventative Measures: DB lists no starter at all; line has [TAR259352 Watcher Cornelius]
+questnpc  38_RivergladesI.lua:88  [QA95426] Rog'mar Supplies: DB lists no starter at all; line has [TAR259352 Watcher Cornelius]
+questnpc  38_RivergladesI.lua:90  [QA94925] A Fur Trade: DB lists no starter at all; line has [TAR259352 Watcher Cornelius]
+questnpc  38_RivergladesI.lua:91  [QA95983] A Feast for Buzzards: DB lists no starter at all; line has [TAR263316 Picked Carcass]
+questnpc  38_RivergladesI.lua:99  [QT94924] Hunting the Hunters: DB lists no finisher at all; line has [TAR259352 Watcher Cornelius]
+questnpc  38_RivergladesI.lua:99  [QT95064] Preventative Measures: DB lists no finisher at all; line has [TAR259352 Watcher Cornelius]
+questnpc  38_RivergladesI.lua:99  [QT95426] Rog'mar Supplies: DB lists no finisher at all; line has [TAR259352 Watcher Cornelius]
+questnpc  38_RivergladesI.lua:99  [QT95983] A Feast for Buzzards: DB lists no finisher at all; line has [TAR259352 Watcher Cornelius]
+questnpc  38_RivergladesI.lua:100  [QA95066] The Rog'mar Situation: DB lists no starter at all; line has [TAR259352 Watcher Cornelius]
+questnpc  38_RivergladesI.lua:101  [QT94925] A Fur Trade: DB lists no finisher at all; line has [TAR259352 Watcher Cornelius]
+questnpc  38_RivergladesI.lua:101  [QA94928] A Few Furs for Friz: DB lists no starter at all; line has [TAR259352 Watcher Cornelius]
+questnpc  38_RivergladesI.lua:119  [QT94877] Saving Sunnyglade: DB lists no finisher at all; line has [TAR257558 Demar Brant]
+questnpc  38_RivergladesI.lua:119  [QT95066] The Rog'mar Situation: DB lists no finisher at all; line has [TAR257558 Demar Brant]
+questnpc  38_RivergladesI.lua:120  [QT94885] Field Marshal's Log: DB lists no finisher at all; line has [TAR257558 Demar Brant]
+questnpc  38_RivergladesI.lua:120  [QA94887] Saving Marshal Ryan: DB lists no starter at all; line has [TAR257558 Demar Brant]
+questnpc  38_RivergladesI.lua:121  [QT94879] Scraps of Knowledge: DB lists no finisher at all; line has [TAR257591 Ashe Amberhall]
+questnpc  38_RivergladesI.lua:125  [QT96084] Something's in the Water: DB lists no finisher at all; line has [TAR262031 Sister Rowland]
+questnpc  39c_Alterac.lua:29  [QA522] Assassin's Contract: starter in the DB is item 3668; line has [TAR2434 Shadowy Assassin] (fine if the TAR is just the nearby NPC)
+questnpc  39c_Alterac.lua:46  [QT96773] The Coldbringer's Eye: DB lists no finisher at all; line has [TAR20735 Archmage Lan'dalock]
+questnpc  40_RivergladesII.lua:12  [QT95315] The Riverglades Report: DB lists no finisher at all; line has [TAR257558 Demar Brant]
+questnpc  40_RivergladesII.lua:12  [QA94886] The Western Front: DB lists no starter at all; line has [TAR257558 Demar Brant]
+questnpc  40_RivergladesII.lua:13  [QA94907] A Small Favor: DB lists no starter at all; line has [TAR257591 Ashe Amberhall]
+questnpc  40_RivergladesII.lua:16  [QA96085] Upstream Contamination: DB lists no starter at all; line has [TAR262031 Sister Rowland]
+questnpc  40_RivergladesII.lua:23  [QA96126] An Ogre's Captive: DB lists no starter at all; line has [TAR259057 Dunston Willis]
+questnpc  40_RivergladesII.lua:26  [QT96126] An Ogre's Captive: DB lists no finisher at all; line has [TAR259057 Dunston Willis]
+questnpc  40_RivergladesII.lua:26  [QA94927] Dunston Checks Out: DB lists no starter at all; line has [TAR259057 Dunston Willis]
+questnpc  40_RivergladesII.lua:29  [QT94927] Dunston Checks Out: DB lists no finisher at all; line has [TAR259352 Watcher Cornelius]
+questnpc  40_RivergladesII.lua:37  [QT94886] The Western Front: DB lists no finisher at all; line has [TAR258023 Sergeant Riftan]
+questnpc  40_RivergladesII.lua:37  [QA94888] No Soldier Left Behind: DB lists no starter at all; line has [TAR258023 Sergeant Riftan]
+questnpc  40_RivergladesII.lua:37  [QA94889] Carving a Path: DB lists no starter at all; line has [TAR258023 Sergeant Riftan]
+questnpc  40_RivergladesII.lua:37  [QA96015] A Miner Problem: DB lists no starter at all; line has [TAR258023 Sergeant Riftan]
+questnpc  40_RivergladesII.lua:44  [QT94887] Saving Marshal Ryan: DB lists no finisher at all; line has [TAR257250 Marshal Ryan]
+questnpc  40_RivergladesII.lua:44  [QA94892] Dying Wish: DB lists no starter at all; line has [TAR257250 Marshal Ryan]
+questnpc  40_RivergladesII.lua:47  [QT94888] No Soldier Left Behind: DB lists no finisher at all; line has [TAR258023 Sergeant Riftan]
+questnpc  40_RivergladesII.lua:47  [QT94889] Carving a Path: DB lists no finisher at all; line has [TAR258023 Sergeant Riftan]
+questnpc  40_RivergladesII.lua:47  [QT96015] A Miner Problem: DB lists no finisher at all; line has [TAR258023 Sergeant Riftan]
+questnpc  40_RivergladesII.lua:51  [QT94907] A Small Favor: DB lists no finisher at all; line has [TAR257591 Ashe Amberhall]
+questnpc  40_RivergladesII.lua:52  [QT94892] Dying Wish: DB lists no finisher at all; line has [TAR257558 Demar Brant]
+questnpc  40_RivergladesII.lua:56  [QT96085] Upstream Contamination: DB lists no finisher at all; line has [TAR262031 Sister Rowland]
+questnpc  41_PowderfusePort.lua:12  [QA95792] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:12  [QA95934] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:17  [QT95792] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:18  [QT95934] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:21  [QA95260] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:25  [QT95260] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:27  [QA95122] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:27  [QA95123] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:27  [QA95124] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:31  [QT95961] Stepped Out: DB lists no finisher at all; line has [TAR263120 Gray Dawnbright]
+questnpc  41_PowderfusePort.lua:33  [QT94928] A Few Furs for Friz: DB lists no finisher at all; line has [TAR255897 Friz Frazzlespark]
+questnpc  41_PowderfusePort.lua:34  [QA95288] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:52  [QT95122] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:52  [QT95123] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:53  [QT95124] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:56  [QT95288] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:58  [QA95294] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:61  [QA96063] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:61  [QA96067] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:64  [QT96063] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:64  [QT96067] ?: quest not in the Forever DB (not checkable)
+questnpc  41_PowderfusePort.lua:73  [QT95118] Saltwater Savages: DB lists no finisher at all; line has [TAR259961 Wharfmaster Whizzbuzz]
+questnpc  41_PowderfusePort.lua:77  [QT95294] ?: quest not in the Forever DB (not checkable)
+tar  28_CityOfDalaran.lua:22  Seeking Remnant (247003) has no spawn in Alterac Mountains (no spawn data in the DB at all)
+tar  29_Arathi.lua:35  [TAR219 Groundskeeper Lomar] not in the Forever DB
+tar  29_Arathi.lua:41  [TAR219 Groundskeeper Lomar] not in the Forever DB
+tar  31_BootyBayDrownedCity.lua:52  Saltseer Coroner (260353) has no spawn in Stranglethorn Vale (no spawn data in the DB at all)
+tar  31_BootyBayDrownedCity.lua:52  Captain Dreadrise (260042) has no spawn in Stranglethorn Vale (no spawn data in the DB at all)
+tar  31_BootyBayDrownedCity.lua:53  Saltseer Manhunter (270912) has no spawn in Stranglethorn Vale (no spawn data in the DB at all)
+tar  31_BootyBayDrownedCity.lua:54  Risen Sentry (258792) has no spawn in Stranglethorn Vale (no spawn data in the DB at all)
+tar  34_ScarletMonastery.lua:33  Houndmaster Loksey (3974) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
+tar  34_ScarletMonastery.lua:37  Arcanist Doan (6487) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
+tar  34_ScarletMonastery.lua:42  Herod (3975) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
+tar  34_ScarletMonastery.lua:48  Scarlet Commander Mograine (3976) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
+tar  34_ScarletMonastery.lua:50  High Inquisitor Whitemane (3977) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
+tar  37_SwampOfSorrows.lua:20  Karana (254775) has no spawn in Swamp of Sorrows (no spawn data in the DB at all)
+tar  37_SwampOfSorrows.lua:41  Karana (254775) has no spawn in Swamp of Sorrows (no spawn data in the DB at all)
+tar  38_RivergladesI.lua:17  Watcher Fredericks (259051) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  38_RivergladesI.lua:20  Curly (258935) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  38_RivergladesI.lua:22  Hurley (258963) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  38_RivergladesI.lua:71  Lost Horse (259254) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  38_RivergladesI.lua:75  Mudfin Warrior (258574) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  38_RivergladesI.lua:91  Picked Carcass (263316) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  38_RivergladesI.lua:92  Wildplains Patriarch (259054) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  38_RivergladesI.lua:113  Twilight Ritualist (262169) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  38_RivergladesI.lua:113  Empowered Brute (261711) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  39b_RazorfenDowns.lua:23  Belnistrasz (8516) has no spawn in The Barrens (no spawn data in the DB at all)
+tar  39b_RazorfenDowns.lua:24  Belnistrasz (8516) has no spawn in The Barrens (no spawn data in the DB at all)
+tar  39b_RazorfenDowns.lua:26  Belnistrasz (8516) has no spawn in The Barrens (no spawn data in the DB at all)
+tar  39b_RazorfenDowns.lua:34  Amnennar the Coldbringer (7358) has no spawn in The Barrens (no spawn data in the DB at all)
+tar  40_RivergladesII.lua:41  Farholde Scout [G29.3,45.7] is 20.7 from the nearest spawn 43.0,61.2
+tar  40_RivergladesII.lua:42  Twilight Thrall (258652) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  40_RivergladesII.lua:44  Marshal Ryan (257250) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  41_PowderfusePort.lua:12  Gelinda Coppergleam (262399) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  41_PowderfusePort.lua:14  Cinderscale Whelp (262473) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  41_PowderfusePort.lua:14  Cinderscale Warrior (262477) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  41_PowderfusePort.lua:17  Gelinda Coppergleam (262399) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  41_PowderfusePort.lua:18  Gelinda Coppergleam (262399) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  41_PowderfusePort.lua:46  Eastsea Bombardier (257916) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  41_PowderfusePort.lua:57  Captain Bentcoin (260390) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  41_PowderfusePort.lua:58  Captain Haynes (260391) has no spawn in Riverglades (no spawn data in the DB at all)
+tar  41_PowderfusePort.lua:70  Monstrous Threshadon (260244) has no spawn in Riverglades (no spawn data in the DB at all)
