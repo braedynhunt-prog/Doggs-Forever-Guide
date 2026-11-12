@@ -22,7 +22,7 @@ At [TAR256438 Halligan Turner] in the camp, [QA94931 Stolen Saws] (2,850 XP: 8 S
 At [TAR258963 Hurley] beside him, [QT94857] (300 XP) [QA94861 Helping Hands] (3,000 XP: go with Hurley to save Curly; Wowhead lists no series, so that it follows 94857 is unverified) [G40.7,63.1 Riverglades]
 Go with Hurley to Curly and keep him alive until the quest completes (Wowhead's map draws his walk from the camp to Curly; the event itself is unverified) [QC94861] [G46.0,71.0 Riverglades]
 Back at the camp, plant 5 saplings round Turner's Logging Camp with the Tree Sprouting Kit (the planting spots are not in the data) [QC94843] [G41.0,62.8 Riverglades]
-[OC][A Shaman] |cffffcc00Gear (94861):|r Hurley's Felling Axe (2H axe, 27.73 dps, +7 Str) is below your two-hander (Bonebiter or Rock Pulverizer): take it to vendor (1g 28s 96c); Curly's Chopper is one-handed
+[OC][A Shaman] |cffffcc00Gear (94861):|r Hurley's Felling Axe (2H axe, 27.73 dps, +7 Str) is below your two-hander (Ravager, Rock Pulverizer or the Defender of Dalaran): take it to vendor (1g 28s 96c); Curly's Chopper is one-handed
 At [TAR256438 Halligan Turner], [QT94861] (3,000 XP) [QT94843] (2,150 XP) [G41.0,62.8 Riverglades]
 
 [OC]|cffffffffThe Bristle Hills|r  -  west to the gnoll camps (x16-31 y55-68): Mystics 36, Trappers 36-37, Brutes 37-38, most of them at the south-west end round 17-21,67-68
