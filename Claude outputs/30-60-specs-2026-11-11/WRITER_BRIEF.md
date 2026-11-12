@@ -4,6 +4,7 @@ You are a subagent working for the main session on Braedyn's WoW Forever levelli
 
 ## Hard limits
 - The only file you create or edit is your chapter: `guide\Guidelime_ForeverShaman\<file>.lua` (name in your prompt and in TITLES.md). No other guide file, no TOC, no data file, no `lessons.md`, no `CLAUDE.md`, no docs, no git command that changes anything (no add, commit, stash, checkout, restore).
+- Do not run `tooling/tip.py`, `tooling/fetch_tooltips.py`, `tooling/gear_calls.py` or `tooling/dungeon_loot.py`: they write tracked files (a cache or a report). For an item's stats read `weights/tooltips/2026-11-11.json` (keyed by item name, each entry has "id" and "tooltip") or fetch the nether tooltip yourself into your scratch folder.
 - No browser, no wowhead.com pages. `nether.wowhead.com/forever/tooltip/item/<id>` or `/quest/<id>` from a shell is fine, one request per second.
 - Python on this PC wants Windows paths (C:/...). In a Bash heredoc a backslash escape becomes a control byte: write the Lua with the Write tool, never through a heredoc, and make later changes with the Edit tool.
 - Keep your scratch files, if any, in a folder of your own under the scratchpad path given in your prompt.
