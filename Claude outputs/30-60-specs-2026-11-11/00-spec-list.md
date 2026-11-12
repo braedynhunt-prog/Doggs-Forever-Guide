@@ -26,21 +26,22 @@ Round A of the Phase 3 build (`docs/30-60-build-plan-2026-11-11.md`). No guide f
 | 35 Badlands | 35 (38 for Murdaloc) | 35.7 | 8,010 | - | 4s | 35.9 |
 | 37 Swamp of Sorrows and the Booty Bay hop | 37 | 35.9 | 37,320 | - | 1g 43s | 36.7 |
 | 38 Riverglades I | 37 | 36.7 | 71,935 | 6,150 | 1g 15s | 38.2 |
-| level-40 block: Arathi, Faldir's Cove, the Heed My Call ritual | 38 | 38.2 | 19,940 | - | 1g 60s | 38.6 |
-| level-40 block: Razorfen Downs | 39 | 38.6 | 7,985 | - | 75s | 38.7 |
-| level-40 block: Alterac, Rage of the Storm | 40 | 38.7 | 36,490 | - | 3g 05s | 39.4 |
-| level-40 block: Ironforge (training, mail, mount) | 40 | 39.4 | - | - | - | 39.4 |
-| level-40 block: Uldaman | 40 | 39.4 | 30,665 | 15,850 | 65s | 39.9 |
+| 39 Storm, Heed, Tempest (Arathi, Faldir's Cove, the ritual) | 38 | 38.2 | 19,940 | - | 1g 60s | 38.6 |
+| 39b Razorfen Downs | 39 | 38.6 | 7,985 | - | 75s | 38.7 |
+| 39c The Tempest's Weapons (Alterac) | 39 | 38.7 | 32,190 | - | 3g 05s | 39.3 |
+| 39d Level 40: Ironforge (training, Mail, mount) | 40 | 39.3 | 4,300 | - | - | 39.4 |
+| 39e Uldaman | 40 | 39.4 | 30,665 | 15,850 | 65s | 39.9 |
 | 40 Riverglades II | 40 | 39.9 | 30,120 | 4,300 | 30s | 40.4 |
 | 41 Powderfuse Port | 41 | 40.4 | 37,945 | 12,245 | 2g 25s | 41.1 |
 | **total** | | | **460,265** | **86,495** | **19g 95s** | |
 
 The estimate counts quest XP only. Five dungeon runs add kill XP it does not see, and Braedyn ran three levels ahead of the 1-30 guide, so the real curve should sit above this one. Where "level in" is under "wants", the chapter's level-check line says which legs to do first and what to carry forward. Quests whose XP is paid in a later chapter are counted where they are handed in (two Dalaran quests in 30; the Drowned City hand-ins in 31; 3636 and 96773 in the Alterac chapter).
 
-## Open questions for Braedyn
-1. **Order of the level-40 block.** On quest XP he leaves Riverglades I at about 38.2, not 40. Proposed order: Arathi / Faldir's Cove / the ritual, then Razorfen Downs, then Alterac (ends in Ironforge), then the Ironforge level-40 stop (training, mail, mount), then Uldaman, then hearth to Farholde Keep. The specs are still in the old order (39 Ironforge first, 39b Uldaman, 39c, 39d, 39e) and get one more pass to reorder and rename them once this is confirmed. 3636 Bring the Light needs level 39 at pickup and is written "if 39".
-2. **Uldaman's outdoor chain.** Three pieces of the Uldaman quest web stand outside the instance portal behind elites: 722 Amulet of Secrets (Magregan, amulet 58%: written as a one-kill luck `[O]` with 723-726 behind it, 12,550 XP), 762 An Ambassador of Evil (Infernus, level 42 elite at Angor Fortress, 4,650 XP + 1g 25s) and 1139 The Lost Tablets of Will behind it (inside the dungeon, 5,850 XP + 1g 30s). The spec has 762 and 1139 out (elite outdoors; and 1139 needs two Thelsamar - Ironforge round trips before the run, about 25-30 minutes). "Every dungeon with all its quests" reads the other way. Braedyn's call: in as part of the Uldaman chapter (the group kills Magregan and Infernus, the Ironforge legs are done before the run), or out.
-3. **Chapter 40 is thin** (11 quests, 30,120 XP) after the elite rule: Overlord Kilgar's chain (13,950 XP), Komuk (4,850) and Blademaster Kaijo (4,300, level 42 elite, found in the last pull) are out. Nothing to decide unless the elite rule is to bend here.
+## Answered in the last round (Braedyn, 11 Nov)
+1. **The level-40 block is reordered** and its specs renamed to the play order: 39 Storm, Heed, Tempest (Arathi, Faldir's Cove, the ritual) - 39b Razorfen Downs - 39c The Tempest's Weapons (Alterac, ends in Ironforge) - 39d Level 40: Ironforge (training, Mail, mount) - 39e Uldaman (ends with the hearth to Farholde Keep). The block starts when chapter 38 is done, whatever his level. 3636 Bring the Light is taken only if he is 39 at the block's Stormwind stop.
+2. **Uldaman's outdoor chain** pays XP and money only (722-726: 12,550 XP; 762: 4,650 XP + 1g 25s; 1139: 5,850 XP + 1g 30s; no item he would wear). It stands as specced: 762 and 1139 out, the amulet chain a one-kill optional. Braedyn can still overrule.
+3. **Chapter 40 stays thin** (11 quests, 30,120 XP): "if we have enough XP then leave it out".
+- 6626 A Host of Evil (elites outside the Razorfen Downs door) is part of the dungeon run: required, with the group.
 
 ## Settled by the specs and the pulls (no decision needed)
 - Chapters 31 and 31b are one chapter: Booty Bay and the Drowned City. Entrance: an underwater cave at about 21.4,27.9 Stranglethorn Vale by the isle of water elementals (community guides; unverified in game).
@@ -51,13 +52,13 @@ The estimate counts quest XP only. Five dungeon runs add kill XP it does not see
 - Farseer Maret Firetend at Aerie Peak is a trainer stop in chapter 29.
 - Out by the drop rule on the 11 Nov rates, out by a gate, already done in 1-30, added quests, gear corrections: as in the first spec list (git history of this file) and in each spec's Out and Deviations sections below.
 
-## Still to do before the writers start
-- The reorder / rename pass on the level-40 block (question 1) and whatever question 2 changes.
-- One consistency pass by the main session: every `[N]` / `[NX]` title pair, carried-in / carried-out lists between neighbouring chapters, hearth lines, and the training rows each Ironforge stop buys.
-- Not in any data yet (test list): City of Dalaran entrance and key; the Dutiful Steps throw spot; Mail trainer; ram price row; the Twilight Ritual Circle, the conduit for 94907 and two cave entrances in the Riverglades; 97328's prerequisite; the three Eastsea boats; roads (the data has none).
+## Before the writers start
+- `TITLES.md` in this folder is the authoritative table of file names, `[N]` / `[NX]` strings, start and end points, hearths, carried quests and training stops; it overrides the spec headers.
+- Not in any data yet (in-game test list): City of Dalaran entrance and key; the Dutiful Steps throw spot; who teaches Mail; which ram price row applies; the Twilight Ritual Circle, the conduit for 94907 and two cave entrances in the Riverglades; 97328's prerequisite; the three Eastsea boats; the position of the two ground objects inside Scarlet Monastery and Razorfen Downs; roads (the data has none).
+- Round B on Braedyn's go: one Opus agent per chapter file, in waves of four or five; the main session reviews every chapter against its spec and runs check_guide, verify, tarcheck and gold.
 
 ## Per-chapter extracts
-(Sections 8 Totals, 6 Out, 5 Gear calls and 10 Deviations of each spec, verbatim, in play order. The level-40 block appears in its proposed order.)
+(Sections 8 Totals, 6 Out, 5 Gear calls and 10 Deviations of each spec, verbatim, in play order.)
 
 ### Spec 27 - Hillsbrad / Alterac 31-33 (drafted 11 Nov 2026; revised to DECISIONS.md the same night)  (`27.md`)
 **Totals**
@@ -69,8 +70,8 @@ The estimate counts quest XP only. Five dungeon runs add kill XP it does not see
 **Out**
 - 6609 I Got Nothin' Left! - quest.json row [3] req 35 and [17] requiredSkill = [356, 225] (Fishing 225; he has 127). 6607 Nat Pagle has the same gate ([17] = [356, 225], req 35), so the Artisan Fishing chain is out of round 1.
 - 6625 Alliance Trauma - row [3] req 35 and [17] = [129, 225] (First Aid 225; he was 76 on 9 Nov). Round 2.
-- Moved, not out (DECISIONS.md 6): 537 Dark Council, 522 Assassin's Contract / 523 Baron's Demise, 551 The Ensorcelled Parchment / 554 Stormpike's Deciphering -> chapter 39e at 40.
-- 95534 Strahnbrad Mystery - a drop start from the Argus Shadow Mages and Syndicate Wizards at Strahnbrad. The route no longer kills them in 27, so there is no line here; it is a possible note for 39e (Needs pull 213421).
+- Moved, not out (DECISIONS.md 6): 537 Dark Council, 522 Assassin's Contract / 523 Baron's Demise, 551 The Ensorcelled Parchment / 554 Stormpike's Deciphering -> chapter 39c at 40.
+- 95534 Strahnbrad Mystery - a drop start from the Argus Shadow Mages and Syndicate Wizards at Strahnbrad. The route no longer kills them in 27, so there is no line here; it is a possible note for 39c (Needs pull 213421).
 - 500 Crushridge Bounty - Dirty Knucklebones (2843): Crushridge Ogre 575/2455 = 23.4%, Brute 318/1513 = 21.0% (drop_rates.json). Under 30%, so out, and 504 Crushridge Warmongers (prerequisite 500; 15 ELITE Warmongers L39-40) goes with it.
 - 512 Noble Deaths - 7 Alterac Signet Rings (3505) from Syndicate L35-39. They are multi-droppers with no rate in drop_rates.json, and the reward is XP + 40s only. Plain only at >= 60% (Needs pull); 510 does not need it.
 - 565 Bartolo's Yeti Fur Cloak - yeti fur 7% (route plan); it was also an [O] in 23.
@@ -99,11 +100,11 @@ The estimate counts quest XP only. Five dungeon runs add kill XP it does not see
 - 659 removed (done in 1-30); 555 removed (done in 23).
 - 6609 and 6625 removed from the Ironforge loop: both need level 35 and skill 225 ([17] = [356,225] / [129,225]). 6609 is out of round 1; 6625 goes to round 2.
 - 1050 added to the Ironforge loop (the plan said carried; there is no `[QA1050` in 00-26).
-- 537, 522/523 and 551/554 moved to chapter 39e at level 40 (DECISIONS.md 6; Nagaz and Vardus are L40 non-elite and the Ruins hold L38-39 Syndicate Assassins). 511 > 514 > 525 stay; Maleb's 537 offer is left for 39e.
+- 537, 522/523 and 551/554 moved to chapter 39c at level 40 (DECISIONS.md 6; Nagaz and Vardus are L40 non-elite and the Ruins hold L38-39 Syndicate Assassins). 511 > 514 > 525 stay; Maleb's 537 offer is left for 39c.
 - 97130 and 96773 are req 34: not picked up here (97130 in chapter 31, 96773 in chapter 34, per DECISIONS.md).
 - 510 Foreboding Plans added (same object as 511: a free 1,350 XP delivery); 512 behind it is out pending the ring rate.
 - 98463 Talk of the Town pickup added here (the plan's chapter 31 assumes it was carried from Barkeep Kelly).
-- 96800, 95787, 95788 and 95798 pickups placed (the plan says 27 picks them up). Hand-ins of 96800 (Olvek) and 95798 (Abra Cadabra) need a later Dalaran visit; the 39e Alterac leg passes the crater.
+- 96800, 95787, 95788 and 95798 pickups placed (the plan says 27 picks them up). Hand-ins of 96800 (Olvek) and 95798 (Abra Cadabra) need a later Dalaran visit; the 39c Alterac leg passes the crater.
 - Totals: **8,760 XP, 0 money** against the plan's 34,600 / 3.00g. The plan counted 92457/92458, 659, 554 and the Syndicate block here; the main session's level table already uses the revised entry levels.
 
 ### Spec 28 - City of Dalaran (dungeon chapter, 32-34) (drafted 11 Nov 2026; revised to DECISIONS.md the same night)  (`28.md`)
@@ -139,7 +140,7 @@ The estimate counts quest XP only. Five dungeon runs add kill XP it does not see
 
 ### Spec: chapter 29 Arathi Highlands 32-34 (drafted 11 Nov 2026, revised the same night to DECISIONS.md)  (`29.md`)
 **Totals**
-- Plain hand-ins: 6 (681, 658, 657, 660, 661, 92872) + 1 pickup (79358, XP paid in 39c).
+- Plain hand-ins: 6 (681, 658, 657, 660, 661, 92872) + 1 pickup (79358, XP paid in 39).
 - Plain XP: 2,500 + 2,800 + 0 (657 blank) + 2,850 + 3,550 + 2,850 = **14,550** (11,700 if 92872 goes out over its throw spot).
 - `[O]` XP: 685 3,900 + 684 3,750 + 92867 3,000 = **10,650**.
 - Quest money: plain **0** (all 0 in zone_45/zone_267); optional **45s** (92867). Vendor: Lightstep Leggings 44s 42c if sold. Spend: Maret's ranks (80s or 90s per spell, only what is new), Expert Leatherworking 50s if 125.
@@ -148,9 +149,9 @@ The estimate counts quest XP only. Five dungeon runs add kill XP it does not see
 - 691 Worth Its Weight in Gold and 693-697 (Skuerto chain) - drop rule (tusks 8%, pouch 11%, knife 7.5%); 693 needs 691.
 - 635/642/651/652/653 Myzrael chain, 687 - out per chapter 27's plan section (motes 30% + Fozruk elite; 687 needs 653+688).
 - **79624 Anyone Can Cook - drop rule: Illegible Recipe 213422 at 8.3%** (412/4971 over 7 Boulderfist droppers, Wowhead pull 11 Nov in riverglades_pull_results.txt), under 30% = out, with 79677 A Quick Grocery Run and 79678 Taste Testing behind it (whose reward, Shawarmageddon 213105, is a one-hand mace anyway).
-- 95315 The Riverglades Report - req 36; picked up at Captain Nials on the level-40 Arathi stop (39c, decision list).
+- 95315 The Riverglades Report - req 36; picked up at Captain Nials on the level-40 Arathi stop (39, decision list).
 - 636 Legends of the Earth - Wowhead "<NYI>".
-- 662-670 Faldir's Cove - chapter 31 if he is 35 there, else 39c (decision 7); not in this chapter.
+- 662-670 Faldir's Cove - chapter 31 if he is 35 there, else 39 (decision 7); not in this chapter.
 - 79975/79976 (Sleeping Bag chain Arathi steps) - not reachable yet (Leg 3 note).
 **Gear calls**
 What he likely wears (from 1-30 picks; chapter 28's Dalaran loot may change the chest/head): head Defender's Leather Helm 24.0 [24.0] (13:38 / 26:60), or from Razorfen Kraul Whisperwind Headdress 41.5 [23.5] / Geomancer Headdress 43.0 [25.0]; chest Snapbrook Armor 30.5 [21.5] (21:56), Raptorbane Armor 31.0 [31.0] counting its +15 AP vs beasts (16.0 otherwise; 18:66), or crafted Totemic Leather Armor 28.9 [23.9]; wrist Bands of Serra'kis 12.0 (20:10) or Staghide Armguards 2.8 / Demonhide Bracers 9.8; legs Triprunner Dungarees 23.1 (24:96).
@@ -163,8 +164,8 @@ What he likely wears (from 1-30 picks; chapter 28's Dalaran loot may change the 
 1. **685 Otto and Falconcrest: plain -> `[O]` GROUP 3+** (decision 2; Otto 2599 L38 and Falconcrest 2597 L40 are qdb rank 1 elites in an elite quarter; kept for Arathi Armbands +6.8).
 2. **92867 Ground to Keep: plain -> `[O]` GROUP 3+** (decision 2; all four targets rank 1 elites; Lomar at 27,57 from the Wowhead map; Old Leather Jacket +0.9 to +3.0).
 3. **92872 Dutiful Steps: plain but conditional** on the throw spot (cove shore guessed); out if the spot is behind the Boulderfist elite camp.
-4. **79358 XP is not counted here** (3,600 + 60s at the 39c hand-in); the plan's 8 plain / 21,450 XP / 0.45g becomes 6 plain / 14,550 XP / 0 (the 45s was 92867's).
-5. **79192 / Thoradin's Wall is not visited**: qdb chains 79192 -> 79980 -> 79974 (Stonetalon) -> 79975 (Loch Modan dam) before the Arathi Messenger Bag; suggested slot 39c.
+4. **79358 XP is not counted here** (3,600 + 60s at the 39 hand-in); the plan's 8 plain / 21,450 XP / 0.45g becomes 6 plain / 14,550 XP / 0 (the 45s was 92867's).
+5. **79192 / Thoradin's Wall is not visited**: qdb chains 79192 -> 79980 -> 79974 (Stonetalon) -> 79975 (Loch Modan dam) before the Arathi Messenger Bag; suggested slot 39.
 6. **658 rate is 78.02% (Forever tooltip)**, not "Classic 100%"; the courier is moved to the end of the loop because she and her four guards are level 35 against an entry level of ~31.9.
 7. **Aerie Peak is now a plain stop** (Maret is a real shaman trainer); Expert Leatherworking inside it stays conditional on 125. The road is from Hillsbrad after the 661 hand-in, not out of Arathi (Hammerfall's L50 guards).
 8. **79624 out at 8.3%** (the plan left it "out unless the reward is a recipe").
@@ -173,7 +174,7 @@ What he likely wears (from 1-30 picks; chapter 28's Dalaran loot may change the 
 ### Spec 30 - Stranglethorn north 33-35 (drafted 11 Nov 2026; revised the same night to DECISIONS.md and pull_extras.txt)  (`30.md`)
 **Totals**
 - Plain quests (20): 583 245; 185 1,250; 186 1,300; 187 2,050; 188 2,850; 190 1,250; 191 1,300; 192 2,150; 194 1,350; 195 1,400; 215 1,300; 200 1,350; 328 1,400; 329 1,400; 330 285; 331 2,850; 203 1,950; 204 2,700; 574 2,850; 207 3,550 = **34,780 XP**, quest money **0** (all 0 in data/zone_33.json money).
-- Also plain: 97328 Anything of Value 2,750 XP + 18s; 92456 A Green Sample 3,950 + 0 and 92489 Power Overwhelming 3,950 + 1g (chapter 28's quests, handed in here). **Chapter total: 23 plain hand-ins, 45,430 XP, 1g 18s quest money.** Picked up, XP in 31b: 95786 (3,150 + 50s). If 192 is abandoned under 34: 22 / 43,280.
+- Also plain: 97328 Anything of Value 2,750 XP + 18s; 92456 A Green Sample 3,950 + 0 and 92489 Power Overwhelming 3,950 + 1g (chapter 28's quests, handed in here). **Chapter total: 23 plain hand-ins, 45,430 XP, 1g 18s quest money.** Picked up, XP in 31: 95786 (3,150 + 50s). If 192 is abandoned under 34: 22 / 43,280.
 - [O]: 202 Colonel Kurzen 3,150 XP (GROUP 2+, gear-conditional).
 - Vendor spend: [O] recipes 50s + 30s. Vendor income from rewards (Cleaver 63s 96c if not the Mantle, Pauldrons 38s 4c, Scepter 83s 84c, Tiger Gloves 21s 36c if not worn) ~1g 50s-2g 7s of sale value (tooltip sell prices).
 - Plan table said 26 quests / 48,025 / 0.32g; the difference is D1-D4 plus the Stormwind hand-ins (D8).
@@ -214,7 +215,7 @@ What he likely wears (from 1-30 picks; chapter 28's Dalaran loot may change the 
 - D6 Plan said "Roast Raptor (Nerrist, Booty Bay / Corporal Bluth)": Nerrist 1148 stands at 32.7,29.2 (Grom'gol, Horde); the Alliance seller is Corporal Bluth 734 (Rebel Camp), who also sells Recipe: Jungle Stew 12231. Both need Cooking 175 (tooltips 11 Nov).
 - D7 Plan said "hearth stays Southshore until 31" - unchanged; entry is now Southshore - Stormwind (stop) - Darkshire, then the road south.
 - D8 (DECISIONS 1, coordinator) Chapter 28 is required: 92456 and 92489 are handed in on the Stormwind stop of Leg 0 (+7,900 XP, +1g).
-- D9 (pull_extras.txt) **95786 An Acquaintance in Southshore** added: pickup at Brother Nimetz (plan listed it under 31's out with an unknown starter); carried out to 31b.
+- D9 (pull_extras.txt) **95786 An Acquaintance in Southshore** added: pickup at Brother Nimetz (plan listed it under 31's out with an unknown starter); carried out to 31.
 - D10 The chapter ends in Booty Bay without a hearth (plan: Southshore hearth until 31; 31 binds Booty Bay).
 
 ### Spec: chapter 31 Booty Bay and the Drowned City 33-35 (11 Nov 2026; merged from the 31 and 31b drafts the same night)  (`31.md`)
@@ -224,7 +225,7 @@ What he likely wears (from 1-30 picks; chapter 28's Dalaran loot may change the 
 - Spending: Expert Fishing 1g (plain); optional recipes 1g 60s + 22s; flights Booty Bay - Southshore (twice with Leg C), Southshore - Ironforge (prices not in the data).
 **Out**
 - 201 Investigate the Camp, 198 Supplies to Private Thorsen: start at Krazek, targets in northern Stranglethorn (201 trigger 35.65,10.59) - return trips north (chapter 30 D4).
-- 663-669 Faldir's Cove: moved to chapter 39c (decision 7) - not out. 662 Deep Sea Salvage: XP-only (1H) - 39c's call.
+- 663-669 Faldir's Cove: moved to chapter 39 (decision 7) - not out. 662 Deep Sea Salvage: XP-only (1H) - 39's call.
 - 595 > 597 > 599 > 604 > 608 Bloodsail, 79236 / 79242 Tokal: moved to chapter 37 (decision 5; section below).
 - 587 Up to Snuff 25.6%, 576 Keep An Eye Out 2.0% (behind 597, req 37).
 - 605 Singing Blue Shards 37.1% but XP-only; 600 behind it 29.5%.
@@ -241,10 +242,10 @@ What he likely wears (from 1-30 picks; chapter 28's Dalaran loot may change the 
 - 95791: no upgrade - Mutinous Cuffs 14.0 | 7.0 < Arathi Armbands 18.8; South Seas Shroud 7.5 | 4.5 only if his cloak scores lower, else sell (40s 43c vs 26s 86c).
 - 95799: **Intrepid Explorer's Chainmail** 279881 (mail chest +12 Agi +8 Sta +16 Spi; band 40 53.4 | 37.4) - keep for 40, when it beats the Robe of Crystal Waters (39.4 at band 40); Ancient Voodoo Pouch 279880 is an off-hand (2H build: no). Short on bag space: sell (96s 3c).
 - 2904 [O]: vendor - Fairywing Mantle 17.9 < Palm Frond Mantle 26.5 (30); Technician's Bracers 14.6 < Arathi Armbands 18.8; Fire-welded Bracers mail. Sell Fairywing Mantle (16s 30c).
-- 664 / 666 (cove, now 39c) for the record: Seawolf Gloves 24.9; 666's Servomechanic Sledgehammer needs Engineering (100), vendor.
+- 664 / 666 (cove, now 39) for the record: Seawolf Gloves 24.9; 666's Servomechanic Sledgehammer needs Engineering (100), vendor.
 **Deviations from the route plan**
 1. **Chapters 31 and 31b merged** into one required chapter (coordinator, 11 Nov); band 33-35 (plan 35-36 + 35-40).
-2. **Faldir's Cove (663-669) moved to chapter 39c** at 40 (decision 7; single path, no cove legs here even at 35).
+2. **Faldir's Cove (663-669) moved to chapter 39** at 40 (decision 7; single path, no cove legs here even at 35).
 3. **Bloodsail 595-608 and Tokal 79236 / 79242 moved to chapter 37** (decision 5; req 37 for Bloodsail).
 4. **Hearth bound Booty Bay** at the start (decision 8).
 5. **201 out** (starts at Krazek; Nesingwary target); 97328 handed in by chapter 30.
@@ -252,7 +253,7 @@ What he likely wears (from 1-30 picks; chapter 28's Dalaran loot may change the 
 7. **97130 optional**: req 34, and Timear is passed before the run only on the optional Alterac leg (chapter 27 is 31-33).
 8. 213 and 575 / 577 / 628 out (575 was missing from the plan; 628 is an elite); 666's Sledgehammer needs Engineering 100.
 9. 95788 kept `[O]` grind/luck at 9-17% per mob (decision; the general drop rule would put it out).
-10. Plain XP 12,815 against the plan's 42,625 (31) + 10,200 (Drowned City): Bloodsail (14,170) to 37, cove (15,590) to 39c, optional-test failures.
+10. Plain XP 12,815 against the plan's 42,625 (31) + 10,200 (Drowned City): Bloodsail (14,170) to 37, cove (15,590) to 39, optional-test failures.
 11. Plan's "Nerrist, Booty Bay" (professions thread) is wrong: Nerrist 1148 is at 32.7,29.2 (Grom'gol, Horde).
 
 ### Spec 32 - Dustwallow Marsh 36-37 (drafted 11 Nov 2026)  (`32.md`)
@@ -325,7 +326,7 @@ Pool reconciliation (`pool30.py L28-41 405`, 57 rows): every row is placed above
 - 5501 Bone Collector: Kodobone Necklace (+7 Sta +4 Spi) fixed, 10.0 [6.0] - below Giantstone Medallion 25.0 (22 `[O]`) / Thermaplugg Medal 25.0 (24 loot); vendor 49s 12c unless the neck is empty.
 - 6134 Ghost-o-plasm Round Up: Condor Bracers (cloth +6 Sta +7 SP) 14.0 [7.0] vs Anchorhold Buckler (shield, not used, 19.9). Arathi Armbands 18.8 (29) stay; take the Anchorhold Buckler for the vendor (65s 62c).
 - 6027 Book of the Ancients: Silkstream Cuffs (cloth +4 Sta +5 Int +4 Spi) 18.2 [14.2] vs Arcmetal Shoulders (mail 40+, 8.5). Arathi Armbands 18.8 [18.8] stay (a tie on central, better on conservative); take Arcmetal Shoulders for the vendor (43s 53c) - or Silkstream if your wrist is weaker than 18.
-- Twisted Air Totems: no reward here (79358 hands in at Veyric in chapter 39c).
+- Twisted Air Totems: no reward here (79358 hands in at Veyric in chapter 39, Storm, Heed, Tempest).
 **Deviations from the route plan**
 - **Nat Pagle fish out**: 6609 and 6607 need Fishing 225 (quest.json row [17] = [356, 225]) and level 35, so 6607 is not in his log in round 1; the Sar'theris Strand step is not placed (the fishing spots exist: object 400008 at 35.3,31.7 / 36.1,32.8 by the Karnitol wreck, for round 2).
 - **Travel**: the Theramore -> Nijel's Point flight cannot be used on the first trip (undiscovered); entry by Astranaar + Stonetalon road.
@@ -337,8 +338,8 @@ Pool reconciliation (`pool30.py L28-41 405`, 57 rows): every row is placed above
 
 ### Spec 34 - Scarlet Monastery 36-38 (required dungeon chapter, drafted 11 Nov 2026, revised to DECISIONS.md the same night)  (`34.md`)
 **Totals**
-- Plain (decision 1): 1052 1,550; 1053 4,700; 1050 3,550; 96800 2,850 (45s) = **4 quests, 12,650 XP, 45s**; `[O]` XP 0. If the pull makes 96800 grind/luck, it moves to `[O]`: plain 3 quests, 9,800 XP, 0 money; `[O]` 2,850 + 45s.
-- Counts in the level budget (required chapter). 96773's 4,100 + 55s is counted in 39e.
+- Plain (decision 1): 1052 1,550; 1053 4,700; 1050 3,550; 96800 2,850 (45s) = **4 quests, 12,650 XP, 45s**; `[O]` XP 0.
+- Counts in the level budget (required chapter). 96773's 4,100 + 55s is counted in 39c.
 **Out**
 - 1048, 1049, 1051, 1113, 1160: Horde (side 2).
 - 79946, 79963, 79970: paladin (reqclass 2).
@@ -360,15 +361,15 @@ Pool reconciliation (`pool30.py L28-41 405`, 57 rows): every row is placed above
 **Deviations from the route plan**
 - The plan says "Getting there: Southshore hearth"; the hearth is Nijel's Point after 33, so the way in is the Auberdine flight + boat to Southshore and chapter 08's trek; the way out is the Southshore -> Ironforge flight, which also takes over chapter 35's opening travel.
 - Adds the Dalaran-crater stop: 96773 pickup (req 34, cannot be taken in 27) and the 96800 hand-in at Olvek.
-- Decision 1: SM is a required chapter; 1053 / 1050 / 96800 are plain. 6626 belongs to Razorfen Downs (39d).
+- Decision 1: SM is a required chapter; 1053 / 1050 / 96800 are plain. 6626 belongs to Razorfen Downs (39b).
 - Gear: adds scored boss-loot roll calls (Mograine's Might ties Bonebiter; Whitemane's Chapeau, Triune Amulet and Mantle of Doan are upgrades).
-- No training stop here (35's leg 1 trains). The Syndicate block (537, 522 / 523, 551 / 554) is done in 39e at 40 (decision 6), not on this trip.
+- No training stop here (35's leg 1 trains). The Syndicate block (537, 522 / 523, 551 / 554) is done on the block's Alterac leg, 39c (decision 6), not on this trip.
 
 ### Spec 35 - Badlands (drafted 11 Nov 2026; revised the same night to specs/DECISIONS.md)  (`35.md`)
 **Totals**
 - Plain at 38+ (7 quests, **14,310 XP**, 4s): 707 710, 738 1,450, 720 1,350, 718 2,150, 703 2,350, 739 3,450, 704 2,850.
-- Plain under 38 (5 quests, 8,010 XP, 4s): 739 and 704 (6,300) move to 39b.
-- Optional: none. Picked up for 39b: 721 (2,750), 709 (3,150).
+- Plain under 38 (5 quests, 8,010 XP, 4s): 739 and 704 (6,300) move to 39e.
+- Optional: none. Picked up for 39e: 721 (2,750), 709 (3,150).
 - Ironforge reputation: 707 25.
 **Out**
 - **2418 Power Stones** - Dentrium 11.4%, An'Alleum 10.5% (11 Nov pull): drop rule (<30%); the droppers are also Shadowforge elites outside the instance (decision 2). No follow-up.
@@ -383,21 +384,21 @@ Pool reconciliation (`pool30.py L28-41 405`, 57 rows): every row is placed above
 - 719 A Dwarf and His Tools - 6.7%; drop rule.
 - 732 / 717 Tremors of the Earth - req 40 (Boss Tho'grun 92.86%, needs 718): round 2.
 - 733 Scrounging - 14.4%; drop rule.
-- 735 / 737 - Star of Xil'yeh 3.85%; drop rule (behind 727, 39b).
+- 735 / 737 - Star of Xil'yeh 3.85%; drop rule (behind 727, 39e).
 - 1108 Indurium - 23.7% and needs 1106; drop rule.
-- 3375 Replacement Phial - behind 2201 (39b: out).
-- Moved, not out: 721 hand-in onward, 722-726, 709's tablet and hand-in, 727, 1360 -> 39b.
+- 3375 Replacement Phial - behind 2201 (39e: out).
+- Moved, not out: 721 hand-in onward, 722-726, 709's tablet and hand-in, 727, 1360 -> 39e (1360's pickup is in 39d, Krom Stoutarm, Ironforge).
 **Gear calls**
 - 739 Murdaloc (fixed): Rock Pulverizer 2H mace 31.22 dps +34 AP = 471.1. **Below Bonebiter 583.5** (chapter 34, now required): vendor (1g 60s 78c). Upgrade only if Bonebiter did not drop his way (then over Defender of Dalaran 470.1 by 1, Dark Hearted Hammer 429.3 by 42).
-- 704 Agmond's Fate: **Prospector Gloves** (leather +8 Int +9 SP) 31.5 | 22.5 over Restorer's Fine Gloves (cloth) 28.0 | 16.0; Excavator Gauntlets (mail +8 Str +8 Spi) 36.0 | 28.0 is mail - not before 40, and Traveled Gloves 40.0 (79242, chapter 39c) replaces either soon after 40, so take Prospector and wear it now. Replaces Seawolf Gloves 25.4 / Gemmed Gloves 28.2 / Tiger Hunter Gloves 23.0. If 704 was carried to 39b (he is 40 there): Excavator Gauntlets (39b's call). The Wowhead atlas comment "no longer Prospector Gloves" conflicts with data/zone_1337.json itemchoices and qdb, which still list 4980 - test list.
+- 704 Agmond's Fate: **Prospector Gloves** (leather +8 Int +9 SP) 31.5 | 22.5 over Restorer's Fine Gloves (cloth) 28.0 | 16.0; Excavator Gauntlets (mail +8 Str +8 Spi) 36.0 | 28.0 is mail - not before 40, and Traveled Gloves 40.0 (79242, chapter 39c) replaces either soon after 40, so take Prospector and wear it now. Replaces Seawolf Gloves 25.4 / Gemmed Gloves 28.2 / Tiger Hunter Gloves 23.0. If 704 was carried to 39e (he is 40 there): Excavator Gauntlets (39e's call). The Wowhead atlas comment "no longer Prospector Gloves" conflicts with data/zone_1337.json itemchoices and qdb, which still list 4980 - test list.
 - 703: food + recipe. 707, 718, 720, 738: no choice.
 **Deviations from the route plan**
 - Entry from Ironforge after chapter 34 (plan: fly Thelsamar from Kalimdor); no training stop (34 trains 34/36).
 - Bind Thelsamar (decision 8; plan: hearth stays Nijel's Point).
 - 2418 out (11.4 / 10.5%; plan: "plain if 30%+"), 2500 out (23.9 / 28.1 / 11.1%) and 17 / 2501 with it.
-- Uldaman-linked legs moved to 39b (decision 4): 721's hand-in at Hammertoe, 722-726, 709's tablet and hand-in, 727, 1360. Only 709's and 721's pickups stay here (both on this pass, both carried).
-- 762 An Ambassador of Evil: not in this chapter (plan had it in the chain); 39b decides (out there).
-- Level check: the 739 camp (39-42) waits for 39b if he is under 38; plan assumed 38-39 on entry.
+- Uldaman-linked legs moved to 39e (decision 4): 721's hand-in at Hammertoe, 722-726, 709's tablet and hand-in, 727, 1360 (pickup in 39d). Only 709's and 721's pickups stay here (both on this pass, both carried).
+- 762 An Ambassador of Evil: not in this chapter (plan had it in the chain); 39e decides (out there).
+- Level check: the 739 camp (39-42) waits for 39e if he is under 38; plan assumed 38-39 on entry.
 - Twisted Fire Totem droppers: the Dustbelcher Warriors at the 718 crate added (Wowhead 13.7%; qdb lists only the troggs).
 - 703's Badlands rate ~31% (budget ~13), not 37% (~11).
 - 97617 out pending a pull; 708, 2501, 3375 added to the out list.
@@ -406,7 +407,7 @@ Pool reconciliation (`pool30.py L28-41 405`, 57 rows): every row is placed above
 ### Spec 37 - Swamp of Sorrows and Booty Bay 37-38 (drafted 11 Nov 2026; revised to DECISIONS.md the same night)  (`37.md`)
 **Totals**
 - Plain quests turned in here: **15** - Swamp: 93585 2,700; 93429 2,750; 1396 2,850; 1421 2,750; 1398 3,450; 1425 2,550; 1393 2,850; 1389 2,750; 1392 2,250 (= 24,900). Booty Bay: 595 2,450; 597 2,450; 599 820; 604 3,600; 79235 1,550; 79236 1,550 (= 12,420). **Plain XP 37,320.**
-- Picked up and carried: 94929 (285, chapter 38), 79242 (3,900 + 1g, chapter 39c).
+- Picked up and carried: 94929 (285, chapter 38), 79242 (3,900 + 1g, chapter 39).
 - [O] XP: 0.
 - Quest money: 93429 18s + 1393 85s + 595 40s = **1g 43s**.
 - Spend: Cherry Grog 3s 40c.
@@ -424,7 +425,7 @@ Pool reconciliation (`pool30.py L28-41 405`, 57 rows): every row is placed above
 **Gear calls**
 - 1393: Visionary Buckler (shield; 17.5, off-hand - not used in the 2H build): vendor (sell 62s 68c).
 - 595-604, 1392, 79235, 79236: no item rewards (zone_8 / zone_33 itemchoices and itemrewards empty).
-- 608 (not taken): Blackwater Cap (cloth head +17 Int +6 SP) **40.7** [34.7] is below Saltseer's Helm 48.3 (31b, 95789 - dungeon chapters are required now, decision 1) and Wild Headdress 42.1 ([O] 29) -> **no upgrade -> 608 out** (decision 5's condition). For the record: Blackwater Tunic (mail chest +7 Str +15 Spi) 51.5 [36.5] is mail (wearable only from 40) and below Doomsayer's Robe 57.0 (chapter 35, 709); Blackwater Scimitar is a sword.
+- 608 (not taken): Blackwater Cap (cloth head +17 Int +6 SP) **40.7** [34.7] is below Saltseer's Helm 48.3 (31, 95789 - dungeon chapters are required now, decision 1) and Wild Headdress 42.1 ([O] 29) -> **no upgrade -> 608 out** (decision 5's condition). For the record: Blackwater Tunic (mail chest +7 Str +15 Spi) 51.5 [36.5] is mail (wearable only from 40) and below Doomsayer's Robe 57.0 (chapter 35, 709); Blackwater Scimitar is a sword.
 **Deviations from the route plan**
 - Hearth: no Nethergarde bind (no inn); hearth stays Thelsamar (decision 8).
 - No Nat Pagle Mahi Mahi step: 6607/6609 need Fishing 225 (quest row [17] = [356, 225]) and level 35 (main session).
@@ -436,13 +437,13 @@ Pool reconciliation (`pool30.py L28-41 405`, 57 rows): every row is placed above
 - 1425 titled "Deliver the First Shipment" (Wowhead Forever).
 - Plan XP for 37 was 26,280 (counting 1363 330 and 1364 3,300); now 37,320 with Noboru and the Booty Bay hop.
 
-### Spec 38 - Riverglades I 37-40 (drafted 11 Nov 2026, revised late 11 Nov)  (`38.md`)
+### Spec 38 - Riverglades I 37-38 (drafted 11 Nov 2026, revised late 11 Nov; Addendum 2 applied)  (`38.md`)
 **Totals**
 - Plain quests turned in: **38** - 94929 285; 94999 700; 94857 300; 94861 3,000; 94843 2,150; 94931 2,850; 94678 2,850; 95147 285; 95148 285; 94613 285; 95329 285; 95330 285; 95603 2,150; 95613 2,150; 95615 2,150; 96082 1,550; 96083 315; 95156 2,100; 95561 1,450; 94615 1,450; 94617 2,850; 94614 2,850; 94618 1,450; 94992 2,850; 96009 2,150; 95943 2,150; 94923 2,150; 94924 3,000; 95064 3,000; 95426 3,000; 95983 710; 95066 1,500; 96084 3,150; 94877 3,150; 94879 3,150; 95642 3,150; 95643 3,150; 94884 1,650 = **71,935 XP**.
 - `[O]` (Braedyn's call): 94925 3,000 (+ 94928 300 in chapter 41).
 - Conditional (Log drop, 1.6%): 94885 3,150 + 25s here; the rest in 40 / round 2.
 - Quest money (plain): 94923 20s + 94614 20s + 94992 20s + 95613 30s + 94924 25s = **1g 15s**. Purchases: Holy Candles 35s; `[O]` Recipe: Plain Ol' Paletusk 20s.
-- Expected level: enters ~37.3-37.7, leaves ~38.7 on quest XP alone (DECISIONS.md / main session).
+- Expected level: enters ~37.3-37.7, leaves ~38.2 on quest XP alone (Addendum 2).
 **Out**
 - 94842 Unsavory Plant Food - drop rule: Mudfin Murloc Head 22% (Oracle 350/1576, Warrior 353/1551) < 30%. Nothing behind it (no series, no qdb dependant).
 - 94881 Curious Trinkets - drop rule: Twilight Charm 25.5% (Shadowmancer 522/2288, Neophyte 784/2826), 25 needed. Nothing behind it.
@@ -457,9 +458,9 @@ Pool reconciliation (`pool30.py L28-41 405`, 57 rows): every row is placed above
 - 95935 Hail the Dragonslayer - decision 3 (Scaldaron L43 rare elite, head 24.1%).
 - Not in this chapter (chapter 40 or 41 or round 2): 96081 (to 40), 96085 (40), 95912/95991/96125/96126/94927 (40), the Twilight's Shroud chain (40; 94890/94891/94894/94926 out there by decision 2), 95059 Frazzlespark's Crate (starts at Friz, chapter 41 -> Demar), 95219 (round 2), 95161 (level 22 - done in 1-30: 14_Duskwood.lua:18 `[QT95161]`), the 33 side-Both quests (chapter 41).
 **Gear calls**
-1. **94679 Snargl's Snout - elite test (decision 2), OUT.** Rewards at band 40: Bristle Hills Mystic Robe (cloth chest) 42.6 [30.6], Gnollhide Tunic (leather chest) 39.8 [28.8], Southern Watch Leggings (mail legs, 40+) 26.0 [26.0], Unbalanced Fighting Stick (polearm, unusable). Worn: chest Doomsayer's Robe 57.0 (709, chapter 35); legs Triprunner Dungarees 26.2 (1-30 pick; the Lightstep Leggings of 29 are taken to sell) or Apprentice Sorcerer's Slacks 73.7 (31b). Nothing is an upgrade (the Leggings are 0.2 below Triprunner) -> out.
+1. **94679 Snargl's Snout - elite test (decision 2), OUT.** Rewards at band 40: Bristle Hills Mystic Robe (cloth chest) 42.6 [30.6], Gnollhide Tunic (leather chest) 39.8 [28.8], Southern Watch Leggings (mail legs, 40+) 26.0 [26.0], Unbalanced Fighting Stick (polearm, unusable). Worn: chest Doomsayer's Robe 57.0 (709, chapter 35); legs Triprunner Dungarees 26.2 (1-30 pick; the Lightstep Leggings of 29 are taken to sell) or Apprentice Sorcerer's Slacks 73.7 (31). Nothing is an upgrade (the Leggings are 0.2 below Triprunner) -> out.
 2. **95615 In Memoriam** (choice + fixed Warding Candle): **Verger Greaves** (mail feet +7 Str +8 SP) 30.0 [22.0], usable from 40, over Sacristan Band (ring +7 Sta +2 SP) 4.0 [2.0]. Replaces Everlast Boots 28.5 [16.5] (35, if taken) or Kodo Rustler Boots 26.0 [21.0] (33) - a small upgrade **once he is 40** (wear it after the ding). Warding Candle: keep (5 charges, removes 1 Curse/Bane and 1 Disease).
-3. **95064 Preventative Measures** (choice): Farholde Horns (mail head +13 Sta +12 AP) 12.0 [12.0]; Brute Slayer Band (ring +6 Int) 10.1 [10.1]. Neither beats Saltseer's Helm 48.3 (31b) / Wild Headdress 42.6 (29) or Coldwater Ring 27.6 / Tiger Band 22.5. **Take Farholde Horns to sell** (44s 92c vs 40s 5c).
+3. **95064 Preventative Measures** (choice): Farholde Horns (mail head +13 Sta +12 AP) 12.0 [12.0]; Brute Slayer Band (ring +6 Int) 10.1 [10.1]. Neither beats Saltseer's Helm 48.3 (31) / Wild Headdress 42.6 (29) or Coldwater Ring 27.6 / Tiger Band 22.5. **Take Farholde Horns to sell** (44s 92c vs 40s 5c).
 4. **94877 Saving Sunnyglade** (choice): Neophyte's Wand (wand - can't use), Twilight Carver (1H sword - can't use). **Take Twilight Carver to sell** (1g 4s 84c vs 86s 60c).
 5. **94861 Helping Hands** (choice): Hurley's Felling Axe (2H axe 27.73 dps +7 Str) 402.2; Curly's Chopper (1H axe 21.5 dps) 301.0. His 2H at this point is Bonebiter 583.5 (34 `[O]`) or Rock Pulverizer 471.1 (35) / Defender of Dalaran 469.8 (28) - no upgrade. **Take Hurley's Felling Axe to sell** (1g 28s 96c vs 1g 2s 79c).
 6. **96009 High Stakes** (fixed): Lumber Luggers (leather hands +11 Str) 22.0 [22.0] < Prospector Gloves 31.5 (35) / Traveled Gloves 40.0 (39, conditional) - vendor (23s 1c).
@@ -468,142 +469,146 @@ Pool reconciliation (`pool30.py L28-41 405`, 57 rows): every row is placed above
 **Deviations from the route plan**
 - Plan: chapter 38 = the quest-level 36-40 block, ~52 quests, 104k XP. Spec: **38 plain quests, 71,935 XP** - decision 2 removes 94679 (Snargl L40 elite) and 95562 (Chogg'Zac L41 elite); the drop rule removes 94842, 94881, 95913 (+95961 conditional), 95984 (+95986), 95988 (+95957, 95975), 94829 (+94858); 95184 has no buyable source; 94925 is `[O]`; 94885 is a 1.6% drop-start (conditional block); 96081 moved to 40.
 - Moved **into** 38 across the split (location): 94884 An Unsettling Discovery (L41) - same giver as 95642. (95562 was moved too, then removed by decision 2.)
-- Level: the plan had him at 39-40 here; DECISIONS.md puts entry at ~37.7 and exit at ~38.7 on quest XP, so the title is 37-40 and the end line forks (step 59). 95986 King of the Wild Plains (L41) would have joined Leg E but is out.
+- Level: the plan had him at 39-40 here; DECISIONS.md / Addendum 2 put entry at ~37.7 and exit at ~38.2 on quest XP, so the title is 37-38 and the chapter ends straight into chapter 39 (no level fork).
+- Entry: from Booty Bay (chapter 37's last leg), not Nethergarde Keep; hearth Thelsamar until the Farholde bind.
+- 95986 King of the Wild Plains (L41) would have joined Leg E but is out.
 - The plan's 94679 picks (Gnollhide / Mystic Robe) are moot: the quest is out (elite, no upgrade).
 - New `[O]` vendor step (not in the plan): Recipe: Plain Ol' Paletusk (+10 Str = the trout's +20 AP; Cooking 185) at Martha Wellsworth - an equal, the thread stays Mithril Head Trout.
 - Hearth: plan says bind Farholde Keep - confirmed by qdb (Barracks Master Harlan, innkeeper flag).
 
-### Spec 39c - Storm, Heed, Tempest (drafted 11 Nov 2026 per DECISIONS.md's level-40 block)  (`39c.md`)
+### Spec 39 - Storm, Heed, Tempest (drafted 11 Nov 2026; reordered to DECISIONS.md Addendum 2 - first chapter of the block, was 39c)  (`39.md`)
 **Totals**
-- Plain quests turned in (Case 1): 79358 3,600; 79242 3,900; 670 3,150; 667 4,650 = **4 quests, 15,300 XP**; money 60s + 1g = **1g 60s**.
-- Case 2 instead of 670/667: 663 690; 664 3,150; 665 3,150; 666 3,900; 668 1,550 = 12,440 -> **7 quests, 19,940 XP**, money 1g 60s (669 3,150 / 670 / 667 move to 39e).
-- Picked up for later: 96135 (3,150 + 50s, 39e), 95315 (285, chapter 40).
-- [O] XP: 0 (the ritual is counted with 96135 in 39e; see Unsure).
+- Plain quests turned in: 79358 3,600; 79242 3,900; 663 690; 664 3,150; 665 3,150; 666 3,900; 668 1,550 = **7 quests, 19,940 XP**; money 60s + 1g = **1g 60s**.
+- Picked up: 96135 (3,150 + 50s, 39c), 669 (3,150, 39c), 95315 (285, chapter 40), 3636 if 39 (4,300, 39d).
+- [O] XP: 0.
 **Out**
-- 662 Deep Sea Salvage (31.md: XP-only optional, Black Water Hammer 1H).
-- 79365 With Wind Beneath Your Wings (Horde side; brief correction).
-- Horde shaman copies 79360 / 79361 / 79364 / 79442.
+- 662 Deep Sea Salvage (XP-only optional, 1H reward).
+- 94893 Delivering Closure at the Stormwind stop: chain not far enough (section 3).
+- 79365 (Horde side); Horde shaman copies 79360 / 79361 / 79364 / 79442.
 **Gear calls**
-- **79242 -> Traveled Gloves** (leather +9 Str +11 SP) **40.0 [29.0]** if his gloves score under 40: Prospector Gloves 31.5 (35, 704) / Excavator Gauntlets mail 36.0 (35, 704's mail choice) / Seawolf Gloves 25.4 (31 or Leg C) / Ironforge Agent's Gloves 26.3. If chapter 38 gave Prisoner Handwraps (94927; cloth +12 Spi +15 SP, 60.0) nothing here is an upgrade: take **Soldier's Visor** to sell (81s 38c; it is **plate**, unwearable - score_items lists it as usable, a gap in usable()). Determined Band (+8 Sta, +9 AP) 9.0 [9.0], sells 66s 95c.
-- **667 -> Coldwater Ring** (+3 Int +9 Spi) **27.6 [18.6]** over Seafire Band (+2 Str +2 Agi +10 Sta) 6.2 [6.2]; replaces Tiger Band 22.5 (26). (Purified Ring 29.8 from 3636 comes in 39e: with both he wears Purified + Coldwater.) Case 2: 667 is done in 39e - the call moves with it.
-- **664 (Case 2) Seawolf Gloves** (fixed, leather +11 Str +3 Agi) 25.4 [25.4]: vendor - Traveled Gloves 40.0 (Leg B, same chapter) beats it.
-- 666 (Case 2): Sledgehammer for the sell price (Engineering 100 required; Zapper is a wand).
-- 79358, 96135, 95315, 663, 665, 668, 669, 670: no item rewards (zone files).
+- **79242 -> Traveled Gloves** (leather +9 Str +11 SP) **40.0 [29.0]** if his gloves score under 40: Prospector Gloves 31.5 (35, 704) / Ironforge Agent's Gloves 26.3 / Seawolf Gloves 25.4 (this chapter). If chapter 38 gave Prisoner Handwraps (94927, 60.0) nothing is an upgrade: take Soldier's Visor to sell (81s 38c; plate). Determined Band 9.0, sells 66s 95c.
+- **664 Seawolf Gloves** (fixed) 25.4 [25.4]: vendor - Traveled Gloves (Leg C) beats it.
+- **666/668**: Servomechanic Sledgehammer for the sell price (Engineering 100); Zapper is a wand.
+- 79358, 96135, 95315, 663, 665, 669, 3636 (pickup): no reward here.
+- Excavator Gauntlets (35's mail choice, 36.0) cannot be worn before 40.
 **Deviations from the route plan**
-- Split from the old chapter 39 (DECISIONS.md level-40 block).
-- 95315 The Riverglades Report added (decision list).
-- 79242 is now plain (in the log from chapter 37's Booty Bay hop) rather than conditional.
-- Faldir's Cove: Case 2 (663-669 here, 669/670/667 in 39e) added per decision 7.
-- Travel to Thousand Needles: Theramore - Ratchet flight and the Barrens road (Gadgetzan / Thalanaar undiscovered); the plan said "Theramore -> the Great Lift road, or Gadgetzan if known".
+- Block reordered (Addendum 2): this chapter now opens the block from Farholde Keep at ~38.2 instead of following the level-40 Ironforge stop.
+- Faldir's Cove's 663-669 here (chapter 31 no longer does the cove); 669 -> 670 -> 667 finish in 39c.
+- 95315 added; 79242 plain (in the log from 37).
+- Travel to Thousand Needles by Theramore - Ratchet and the Barrens road.
+- Stormwind stop for 3636 at 39 only.
 
-### Spec 39d - Razorfen Downs (required dungeon chapter, run at level 40; drafted 11 Nov 2026 as 34b, moved here by DECISIONS.md decision 4)  (`39d.md`)
+### Spec 39b - Razorfen Downs (required dungeon chapter, second chapter of the level-40 block; drafted 11 Nov 2026 as 34b, then 39d, renamed 39b by DECISIONS.md Addendum 2)  (`39b.md`)
 **Totals**
-- Plain quests turned in here: 6626 3,450 (75s), 3523 285, 3525 4,250 = **3 quests, 7,985 XP, 75s**. `[O]` XP: 0 (96773 becomes `[O]` only if the pull says its item is a grind/luck drop).
-- Completed here, handed in and counted in 39e: 3636 4,300 (0 money); 96773 4,100 + 55s.
-- Chapter total with those: 16,385 XP, 1g 30s.
+- Plain quests turned in here (either case): 6626 3,450 (75s), 3523 285, 3525 4,250 = **3 quests, 7,985 XP, 75s**. `[O]` XP: 0.
+- Completed here, handed in and counted later: 96773 4,100 + 55s (39c); 3636 4,300, 0 money (39d) **only if taken**.
+- Chapter total with those: **with 3636: 16,385 XP, 1g 30s**; **without 3636: 12,085 XP, 1g 30s**.
 **Out**
 - 3341 Bring the End, 6521 / 6522 An Unholy Alliance, 97196 The Coldbringer's Eye (Horde copy): side 2.
 - 93604 Agamaggan's Blood: not in the Forever DB (qdb) and its zone-file side is unset.
+- 3636 when he was 38 at the Stormwind stop: not taken (silent), the run goes on without it; no later Downs run (rule 2).
 **Gear calls**
-What he likely wears at 40: Bonebiter 583.5 or Rage of the Storm (39e; the 11 Nov verdict), Traveled Gloves 40.0 (79242, 39c) or Prisoner Handwraps 60.0 (chapter 38), Violet Sash 26.9 or a chapter-38 waist, Giantstone Medallion 25.0 or Triune Amulet 33.5 (SM loot), cloth chest from 35's Doomsayer's Robe 57.0 if 709 was done.
+Mail: he cannot wear mail until 40 (Mail skill at 40, SkillRaceClassInfo row 145; 39d trains it), so a mail drop here is picked up and **worn after 39d's Ironforge stop**. What he likely wears now: Bonebiter 583.5 (34), Traveled Gloves 40.0 (79242, chapter 39) or Prisoner Handwraps 60.0 (chapter 38), Violet Sash 26.9 or a chapter-38 waist, Giantstone Medallion 25.0 or Triune Amulet 33.5 (SM loot), Doomsayer's Robe 57.0 (35, 709) or another cloth chest.
 - 3525 Extinguishing the Idol: Dragonclaw Ring (+7 Sta, 5 health per 5 sec) 0.0 -> vendor (40s 84c) unless a ring slot is empty.
-- 3636 (reward at the Stormwind hand-in in 39e; the call moves with the hand-in, listed here for the writer of 39e): **Purified Ring** (+12 Int +5 SP) **30.3 [25.3]** over Amberglow Talisman (neck +1 Agi +7 Sta +10 Spi) 26.1 [16.1]; Vanquisher's Sword is the fixed reward (sword, unusable; sells 1g 80s 3c). Purified Ring replaces Tiger Band 22.5 (Coldwater Ring 27.6 from 667 stays in the other slot).
+- 3636 (only if taken; reward at the Stormwind hand-in in **39d** - the call belongs on that line): **Purified Ring** (+12 Int +5 SP) **30.3 [25.3]** over Amberglow Talisman (neck +1 Agi +7 Sta +10 Spi) 26.1 [16.1]; Vanquisher's Sword is the fixed reward (sword, unusable; sells 1g 80s 3c). Purified Ring replaces Tiger Band 22.5.
 - 6626, 96773, 3523: money or nothing.
 - Boss loot (`[OC]` roll calls; drop chances from the tooltips):
-  - **Deathchill Armor** (mail chest +3 Sta +9 Int +15 Spi +7 SP, req 39; Amnennar 25.4%) **66.7 [44.7]** - the best chest scored at 40 (Prismscale Hauberk 64.3 is round 2; Doomsayer's Robe 57.0): roll, wear at once.
-  - **Deathmage Sash** (cloth waist +15 Int +7 SP, req 36; Mordresh Fire Eye 27.4%) **39.3 [32.3]** - beats Violet Sash 26.9 and the scored waists below 39: roll.
-  - Boar Champion's Belt (mail waist +15 Str +6 Sta, req 37; Ragglesnout, rare, 27.6%; not in the dated cache - live tooltip 11 Nov, by hand 30.0 at Str 2.0) - second waist choice after the Sash.
+  - **Deathchill Armor** (mail chest +3 Sta +9 Int +15 Spi +7 SP, req 39; Amnennar 25.4%) **66.7 [44.7]** - the best chest scored at 40 (Prismscale Hauberk 64.3 is round 2; Doomsayer's Robe 57.0): roll, **wear it from 40** (Mail).
+  - **Deathmage Sash** (cloth waist +15 Int +7 SP, req 36; Mordresh Fire Eye 27.4%) **39.3 [32.3]** - beats Violet Sash 26.9: roll, wear at once.
+  - Boar Champion's Belt (mail waist +15 Str +6 Sta, req 37; Ragglesnout, rare, 27.6%; not in the dated cache - live tooltip 11 Nov, by hand 30.0 at Str 2.0) - second waist choice after the Sash, wearable from 40.
   - Glowing Eye of Mordresh (neck +8 Int +7 SP, req 36; 36.8%) 27.5 [20.5] - over Giantstone 25.0, below Triune Amulet 33.5.
   - Swine Fists (leather hands +8 Str +8 Agi, req 37; Plaguemaw, rare, 34.2%) 25.0 - below Traveled Gloves 40.0: pass.
   - Pass: Coldbringer Spine (staff 444.9), X'caliboar (2H sword, unusable), Coldrage Dagger and Glutton's Cleaver (1H), Icemetal Barbute (plate), Robes of the Lich (+20 Sta, 0), Bonefingers 15.2, Fleshhide Shoulders 16.7, Silky Spider Cape (+10 Sta), Arachnid Gloves (Nature resistance, random enchantment), Decaying Flesh Bands 10.1, Mordresh's Lifeless Skull (off-hand). Not scored (no tooltip in the cache): Plaguerot Sprig, Savage Boar's Guard (shield), Carapace of Tuten'kash (plate), Lady Falther'ess' Finger (wand).
 **Deviations from the route plan**
-- Moved from an optional chapter after 34 (the plan's "RFD chapter at 37-39", then this agent's 34b) to the required 39d at level 40, on 39c's Barrens / Thousand Needles leg (decisions 1 and 4).
+- Moved from an optional chapter after 34 (the plan's "RFD chapter at 37-39", then 34b) to the required 39b, the second chapter of the level-40 block (decisions 1 and 4, Addendum 2), run at about 38.6-40.
 - Adds 3523 / 3525 (Belnistrasz, 4,535 XP): in the zone pool (side Both), not in the plan.
-- 96773 is picked up in chapter 34 (Dalaran crater; req 34), not in 27; its hand-in and 3636's are written in 39e.
+- 96773 is picked up in chapter 34 (Dalaran crater; req 34), not in 27; its hand-in is in 39c and 3636's in 39d.
+- 3636 is conditional on level 39 at the block's Stormwind stop (Addendum 2).
 - 6626 counted as a plain dungeon quest though its targets stand outside the door (stated ruling above).
 
-### Spec 39e - The Tempest's Weapons / Alterac (drafted 11 Nov 2026 per DECISIONS.md's level-40 block)  (`39e.md`)
+### Spec 39c - The Tempest's Weapons / Alterac (drafted 11 Nov 2026; reordered to DECISIONS.md Addendum 2 - third chapter of the block, was 39e)  (`39c.md`)
 **Totals**
-- Plain quests turned in (Case 1, Eye dropped): 96135 3,150; 96016 3,900; 537 3,150; 522 710; 523 3,900; 551 780; 554 1,550; 3636 4,300; 96773 4,100 = **9 quests, 25,540 XP**; money 50s + 50s + 1g + 50s + 55s = **3g 05s**.
-- Without 96773 (no Eye): 8 quests, 21,440 XP, 2g 50s.
-- Case 2 adds 669 3,150; 670 3,150; 667 4,650 = +10,950 XP (3 quests), no money.
+- Plain quests turned in: 669 3,150; 670 3,150; 667 4,650; 96135 3,150; 96016 3,900; 537 3,150; 522 710; 523 3,900; 551 780; 554 1,550; 96773 4,100 = **11 quests, 32,190 XP**.
+- Money: 96135 50s + 537 50s + 523 1g + 554 50s + 96773 55s = **3g 05s**.
 - [O] XP: 0.
-- Spend: flights (Ratchet - Theramore or the Booty Bay boat and Booty Bay - Refuge Pointe; Refuge Pointe - Southshore; Southshore - Ironforge; Stormwind - Farholde Keep).
+- Spend: Booty Bay - Refuge Pointe, Refuge Pointe - Southshore, Southshore - Ironforge flights; the boat.
 **Out**
-- 512 Noble Deaths (7 Alterac Signet Rings 3505 from Syndicate L35-39: multi-dropper, no rate in drop_rates.json; XP + 40s only - 27.md).
-- 95534 Strahnbrad Mystery (drop start 213421 from Argus Shadow Mages / Syndicate Wizards; no rate - Needs pull; plain only at >= 60%).
+- 512 Noble Deaths (Alterac Signet Rings 3505: multi-dropper, no rate; XP + 40s only - 27.md).
+- 95534 Strahnbrad Mystery (drop start 213421, no rate - Needs pull; plain only at >= 60%).
 - 79365 With Wind Beneath Your Wings (Horde side).
-- Crushridge elites and Muckrake / Glommus (elite) targets: no quest in the route.
+- Crushridge elites, Muckrake / Glommus (elite): no quest in the route.
 **Gear calls**
-- **96016 -> Rage of the Storm** (2H mace 102-154, 3.60, 35.56 dps, +16 Str +15 Sta, +10% Stormstrike damage) **529.8 [529.8]**. Verdict quoted from docs/forever-enh-stat-weights.md (11 Nov), not re-derived: "Weapon verdict at 40: Rage of the Storm, by a hair. Rage 222.4 against Bonebiter 220.1 with Rockbiter, 218.2 against 217.8 with Windfury; without Stormstrike Bonebiter leads 170.3 to 167.5. The linear score (Bonebiter 583.5, Rage of the Storm 529.8) cannot see the Stormstrike bonus or the 3.6 speed that normalized Stormstrike rewards. A 1% gap means either is fine; Bonebiter is worth carrying if it arrives first, not worth a dungeon run on its own." With Windfury (decision 9) the gap is 218.2 vs 217.8. Runner-ups (1H fists, shield set only): Lightning's Grasp 356.7 [310.7], Tidebringer's Claw 309.8 [281.8]. Replaces his round-1 2H: most likely Rock Pulverizer 471.1 (35, 739) or Dwarven Charge 460.9 (39b, 2240) - both below.
+- **96016 -> Rage of the Storm** (2H mace 102-154, 3.60, 35.56 dps, +16 Str +15 Sta, +10% Stormstrike damage) **529.8 [529.8]**. Verdict quoted from docs/forever-enh-stat-weights.md (11 Nov): "Weapon verdict at 40: Rage of the Storm, by a hair. Rage 222.4 against Bonebiter 220.1 with Rockbiter, 218.2 against 217.8 with Windfury; without Stormstrike Bonebiter leads 170.3 to 167.5. The linear score (Bonebiter 583.5, Rage of the Storm 529.8) cannot see the Stormstrike bonus or the 3.6 speed that normalized Stormstrike rewards. A 1% gap means either is fine; Bonebiter is worth carrying if it arrives first, not worth a dungeon run on its own." He carries Windfury from 40 (decision 9): 218.2 vs 217.8. Runner-ups (1H fists, shield set only): Lightning's Grasp 356.7 [310.7], Tidebringer's Claw 309.8 [281.8]. Replaces his current 2H: most likely Rock Pulverizer 471.1 (35, 739); Dwarven Charge 460.9 comes later in 39e and stays below it. Required level: none on the tooltip, qdb 30 (header note).
 - Elementalist's Guard (fixed shield, 10.1, not used): vendor 82s 81c.
-- **3636 -> Purified Ring** (+12 Int +5 SP) **30.3 [25.3]** over Amberglow Talisman (neck +1 Agi +7 Sta +10 Spi) 26.1 [16.1]. Rings then: Purified Ring + Coldwater Ring 27.6 (667), dropping Tiger Band 22.5. Amberglow only if his neck scores under 26.1 and he keeps two better rings (Mindburst Medallion 34.6 is round 2). Vanquisher's Sword (fixed, 1H sword - cannot use): vendor 1g 80s 3c.
-- **667 (Case 2) -> Coldwater Ring** 27.6 [18.6] over Seafire Band 6.2 (as in 39c).
-- 537, 522, 523, 551, 554, 96773, 96135, 669, 670: no item rewards (zone files).
+- **667 -> Coldwater Ring** (+3 Int +9 Spi) **27.6 [18.6]** over Seafire Band 6.2; replaces Tiger Band 22.5 (26). Purified Ring (3636, 30.3) joins it in 39d if he held 3636.
+- 669, 670, 96135, 537, 522, 523, 551, 554, 96773: no item rewards (zone files).
 **Deviations from the route plan**
-- Split from the old chapter 39 (DECISIONS.md level-40 block); second Arathi pass because 96135 ends and 96016 starts at Veyric.
-- The Syndicate block (537, 522 / 523, 551 / 554) moved here from chapter 27 (decision 6); 554's hand-in at Stormpike placed on the way home through Ironforge.
-- 96773 handed in here (Dalaran crater on the Alterac loop); 3636 handed in at Stormwind on the way home.
-- Ending: flight Stormwind -> Farholde Keep instead of the plan's "back to Farholde Keep" by hearth (same destination, picks up two hand-ins on the way).
-- Case 2 of decision 7: 669 -> 670 -> 667 finished here via the Ratchet - Booty Bay boat.
+- Block reordered (Addendum 2): this chapter comes after Razorfen Downs and before the level-40 Ironforge stop; Rage of the Storm is taken at ~39.4.
+- Faldir's Cove's last legs (669 at Seahorn by the Ratchet - Booty Bay boat, 670, 667) are always here; no Case 1.
+- The Syndicate block (537, 522 / 523, 551 / 554) moved here from chapter 27 (decision 6); 554 handed in at Stormpike on arrival in Ironforge.
+- 96773 handed in here (normal quest, ground-object Eye).
+- Ends in Ironforge (Addendum 2), not with the hearth; 3636 moves to 39d's tram trip.
 
-### Spec 39 - Level 40: Ironforge (drafted 11 Nov 2026; rebuilt as the first chapter of the level-40 block per DECISIONS.md the same night)  (`39.md`)
+### Spec 39d - Level 40: Ironforge (drafted 11 Nov 2026; reordered to DECISIONS.md Addendum 2 - fourth chapter of the block, was 39)  (`39d.md`)
 **Totals**
-- Plain quests turned in: 0. Picked up: 3636 (4,300 at hand-in in 39e).
-- Quest money: 0.
-- Spend: training 4g 30s (40 row; 6g 50s with an open 38 row; +2g 40s / +1g 10s for the later ranks), Artisan Skinning 5g, riding 100g + ram 20g/40g (optional).
-- Gold check: `python tooling/gold.py 39_Level40.lua:<line>` once 27-38 exist; the plan expected 35-45g at 40 after training, so the mount is short unless he farmed at the Gold break (chapter 37).
+- Plain quests turned in: 3636 (only if picked up in 39): **1 quest, 4,300 XP, 0 money** (0 / 0 without it).
+- Picked up: 2398 (315 + 5s), 1360 (3,600 + 60s) - counted in 39e.
+- Spend: training 6g 50s (38 + 40 rows; 10g 00s with laters; 4g 30s if 35 trained 38), Artisan Skinning 5g, riding 100g + ram 20g/40g (optional).
 **Out**
-- Nothing is taken out here. Trainer ranks not on the sheet are listed under step 1 as "do not buy".
+- 762 An Ambassador of Evil and 1139 The Lost Tablets of Will (Addendum 2; 39e's spec gives the reasons).
+- Trainer ranks off the sheet (step 4 "do not buy").
+- 94893 Delivering Closure on the Stormwind trip: the chain reaches it only after chapter 40.
 **Gear calls**
-- 3636: handed in in 39e (Purified Ring 29.8 [24.8] over Amberglow Talisman 25.9 [15.9] - 34b's figures; re-scored in 39e).
-- No reward in this chapter. Mail opens: the main session may want a one-line `[OC]` "mail you carried from earlier chapters goes on now" if 35/38 told him to carry mail (35's 704 Excavator Gauntlets 36.0 at band 40; 38's 95615 Verger Greaves 30.0) - their chapters own those calls.
+- **3636 -> Purified Ring** (+12 Int +5 SP) **30.3 [25.3]** over Amberglow Talisman (neck +1 Agi +7 Sta +10 Spi) 26.1 [16.1]. Rings: Purified Ring + Coldwater Ring 27.6 (39c), dropping Tiger Band 22.5. Amberglow only if his neck scores under 26.1. Vanquisher's Sword (fixed, 1H sword - cannot use): vendor 1g 80s 3c.
+- Mail opens (step 6 note). 2398 / 1360 rewards are 39e's.
 **Deviations from the route plan**
-- The level-40 chapter is split into 39 / 39b / 39c / 39d / 39e (DECISIONS.md level-40 block); this file holds only the Ironforge stop.
-- Exit at Thelsamar by road through Amberstill (the plan went Ironforge -> Amberstill -> Arathi); Uldaman (39b) is next.
-- 3636 picked up here via the tram (DECISIONS.md: "if a Stormwind hop fits here").
-- Imbue: Windfury Weapon 2 is a must (decision 9; the plan text said Rockbiter until the AP readings).
-- Riding: 100g at Friendly, 94g 74s at Honored (plan: 90g at Honored), plus a ram at 20g or 40g (plan: price unknown).
-- Training total: only the 40 row (and an open 38 row): chapters 27, 31, 34 and 35 train 32-38 now.
+- Block reordered (Addendum 2): the level-40 Ironforge stop is the fourth chapter of the block, after Alterac; it starts in Ironforge and ends at Thelsamar for Uldaman.
+- 3636 is handed in here via the tram (picked up in 39 only at level 39).
+- Uldaman pickups 2398 and 1360 here; 762 out.
+- Imbue: Windfury Weapon 2 a must (decision 9).
+- Riding: 100g at Friendly, 94g 74s at Honored, plus a ram at 20g or 40g.
+- Training covers the 38 and 40 rows (no training at the block's start).
 
-### Spec 39b - Uldaman (level 40; drafted 11 Nov 2026 from the old spec 36 to specs/DECISIONS.md)  (`39b.md`)
+### Spec 39e - Uldaman (drafted 11 Nov 2026 from the old spec 36; revised to DECISIONS.md and its Addendum 2: last chapter of the level-40 block)  (`39e.md`)
 **Totals**
-- Plain (normal-labelled, 9 quests): 721 2,750; 709 3,150; 727 780; 1360 3,600 + 60s; 2398 315 + 5s; 2240 3,900; 2278 4,200; 2279 5,250; 2439 420 = **24,365 XP, 65s**.
+- Plain (normal-labelled, 9 quests): 721 2,750; 709 3,150; 727 780; 1360 3,600 + 60s; 2398 315 + 5s; 2240 3,900; 2278 4,200; 2279 5,250; 2439 420 = **24,365 XP, 65s**. Of these, 2278 / 2279 / 2439 (9,870) need 40 at the Discs; at 39: 6 quests, 14,495 XP.
 - Plus, if carried from 35 (under 38 there): 739 3,450 + 704 2,850 = 6,300 plain.
 - Optional (grind/luck): 722 3,150, 723 2,350, 724 3,150, 725 1,550, 726 2,350 (amulet chain, 12,550; Ironforge rep 225) and 2198 3,300 = **15,850 XP**.
 - Money: 65s plain.
 **Out**
-- **762 An Ambassador of Evil** (4,650 + 1g 25s, rep 150) - Ambassador Infernus (2745) is a level-42 elite in the open Badlands (Angor Fortress 42.1,28.9; Wowhead type Group): decision 2, elite outside a dungeon stays only for a scored upgrade. Rewards at band 40: Dwarf Captain's Sword (sword, unusable), Thane's Hammer (1H, 337.7, not a 2H), Ironforge Agent's Gloves 26.3 (below Prospector 31.5 / Excavator 36.0 / Traveled 40.0) - **no upgrade -> out**, and **1139 The Lost Tablets of Will** (5,850 + 1g 30s; preQuestSingle [762]) with it. 1139's reward Medal of Valor (+12 AP) 12.0 is below Explorers' League Commendation 22.5 (1050, chapter 34) - no upgrade either.
-  - The 1139 re-check the main session asked for: with everything at 40, 1139 in the same single run needs 723 -> Ryedol -> Ironforge (724-726, take 762) -> Angor Fortress (Infernus) -> Ironforge (hand in 762, take 1139) -> back to the portal: **two Thelsamar - Ironforge round trips before the run** (flight both ways plus the Loch Modan - Badlands ride, roughly 12-15 minutes each mounted; estimate, not measured) with the group waiting, for 4,650 + 5,850 XP and 2g 55s. Not worth writing; and decision 2 removes 762 anyway.
+- **762 An Ambassador of Evil** (4,650 + 1g 25s, rep 150) - Ambassador Infernus (2745) is a level-42 elite in the open Badlands (Angor Fortress 42.1,28.9; Wowhead type Group): decision 2, elite outside a dungeon stays only for a scored upgrade. Rewards at band 40: Dwarf Captain's Sword (sword, unusable), Thane's Hammer (1H, 337.7, not a 2H), Ironforge Agent's Gloves 26.3 (below Traveled Gloves 40.0) - **no upgrade -> out**, and **1139 The Lost Tablets of Will** (5,850 + 1g 30s; preQuestSingle [762]) with it; its Medal of Valor (+12 AP) 12.0 is below Explorers' League Commendation 22.5 (1050, chapter 34). Braedyn asked; the main session answered from the data; this stands unless he overrides.
+  - If he overrides: 1139 in the same single run needs 723 -> Ryedol -> Ironforge (724-726, take 762) -> Angor Fortress (Infernus, GROUP 3+) -> Ironforge (hand in 762, take 1139) -> back to the portal: two Thelsamar - Ironforge round trips before the run (roughly 12-15 minutes each mounted; estimate) with the group waiting, for 10,500 XP and 2g 55s.
 - 2199 Lore for a Price (5 Silver Bars; no Mining) - XP-only optional; 2200 / 2201 / 2204 / 2361 need a second Uldaman run after the Ironforge hand-in (rule 2); 3375 behind 2201.
 - 17 Uldaman Reagent Run and 2501 - behind 2500 (out in 35 on the 11 Nov rates).
 - 2963 Portents of Uldum (behind 2439) - req 45; round 2.
 - 735 / 737 behind 727 - Star of Xil'yeh 3.85%.
 **Gear calls**
-- 709 Solution to Doom: **Doomsayer's Robe** (cloth chest +18 Spi +6 SP) 57.0 | 33.0 over Doomcaller's Pants (leather legs +13 Str +9 Int) 41.2 | 41.2 and Fists of Impending Doom (mail hands +7 Int +20 AP) 31.8 | 31.8. Robe replaces Old Leather Jacket 32.2 / Baroque Apron 29.5 (+25..28). Pants only if his legs score under ~15 (not with Apprentice Sorcerer's Slacks 73.7 from 31b, now required); the conservative set prefers the pants - say so. Fists: +0.3 over Prospector Gloves 31.5 and below Excavator 36.0 - no.
-- 2240 The Hidden Chamber: Dwarven Charge (2H axe) 460.9, Guardian Staff (2H staff) 449.8, Explorer's League Lodestar (off-hand) 10.0 - **none beats Bonebiter 583.5** (34) or Rock Pulverizer 471.1. Take **Guardian Staff** for vendor value (1g 62s 91c vs 1g 60s 78c).
-- 704 (only if carried): **Excavator Gauntlets** (mail +8 Str +8 Spi) 36.0 | 28.0 over Prospector Gloves 31.5 | 22.5 (mail is wearable at 40); Traveled Gloves 40.0 (79242, 39c) replaces it next chapter.
-- 739 (only if carried): Rock Pulverizer 471.1 - vendor (Bonebiter 583.5).
+- 709 Solution to Doom: **Doomsayer's Robe** (cloth chest +18 Spi +6 SP) 57.0 | 33.0 over Doomcaller's Pants (leather legs +13 Str +9 Int) 41.2 | 41.2 and Fists of Impending Doom (mail hands +7 Int +20 AP) 31.8 | 31.8. Robe replaces Old Leather Jacket 32.2 / Baroque Apron 29.5 (+25..28) unless a mail chest from 39d's Mail stop or the block scores higher (none in this spec's data). Pants only if his legs score under ~15 (not with Apprentice Sorcerer's Slacks 73.7 from 31); the conservative set prefers the pants - say so. Fists are below Traveled Gloves 40.0.
+- 2240 The Hidden Chamber: Dwarven Charge (2H axe) 460.9, Guardian Staff (2H staff) 449.8, Explorer's League Lodestar (off-hand) 10.0 - **none beats Rage of the Storm 529.8 (39c) or Bonebiter 583.5 (34)**. Take **Guardian Staff** for vendor value (1g 62s 91c vs 1g 60s 78c).
+- 704 (only if carried): Excavator Gauntlets (mail) 36.0, Prospector Gloves 31.5, Restorer's Fine Gloves 28.0 - all below Traveled Gloves 40.0 (chapter 39): take the best sell price, Excavator Gauntlets (33s 77c).
+- 739 (only if carried): Rock Pulverizer 471.1 - vendor.
 - 2439: Thawpelt Sack (bag); potion choice free.
 - 2198 / 721-727 / 1360 / 2398 / 2278 / 2279: no item choice.
 - Boss loot: not scored here (run tooling/dungeon_loot.py once the chapter is written).
 **Deviations from the route plan**
-- Run at level 40 from chapter 39 (decision 4); required chapter (decision 1); 2278 / 2279 / 2439 in.
+- Run as the last chapter of the level-40 block (decision 4, Addendum 2); required chapter (decision 1); 2278 / 2279 / 2439 in at 40.
 - Outer-cave legs moved here from 35: 721's hand-in, 722-726 (now luck-gated), 709's tablet and hand-in, 727, 1360.
-- 762 and 1139 out (decision 2; 1139's single-run variant costed above). Plan had both.
+- 762 and 1139 out (decision 2; single-run variant costed in section 6). Plan had both.
 - 17 out (2500 out at 23.9 / 28.1 / 11.1%).
 - Talvash chain cut to 2198 (luck); 2199+ out (second run / XP-only).
-- Dwarven Charge is not an upgrade (Bonebiter from the required SM chapter).
+- Dwarven Charge is not an upgrade (Bonebiter / Rage of the Storm).
 - 2439 The Platinum Discs added (Thawpelt Sack, a bag).
-- Ends in Ironforge (39c leaves from there for Refuge Pointe).
+- Ends with the Ironforge hand-ins and the hearth to Farholde Keep (chapter 40).
 
 ### Spec 40 - Riverglades II 40-41 (drafted 11 Nov 2026, revised late 11 Nov)  (`40.md`)
 **Totals**
-- Plain quests turned in here: **12** - 95315 285; 94886 375; 94907 3,750; 95912 4,300; 96085 4,300; 96081 1,550; 96125 360; 96126 3,750; 94927 4,650; 94888 3,750; 94889 3,750; 96015 3,600 = **34,420 XP**.
+- Plain quests turned in here: **11** - 95315 285; 94886 375; 94907 3,750; 96085 4,300; 96081 1,550; 96125 360; 96126 3,750; 94927 4,650; 94888 3,750; 94889 3,750; 96015 3,600 = **30,120 XP**.
+- **What the chapter is now:** a short clean-up at 40 - Riftan's three Shroud quests and the mine cave, Dunston's three-step rescue in Bolder'ok, the chapel's water quest, Lowley's cloth and Ashe's thrall; every elite-target quest is out (Kaijo, Komuk, Kilgar and its two follow-ups, Scaldaron), and Ghostmaw is the only `[O]` GROUP step. Braedyn accepted the thin chapter ("if we have enough XP then leave it out").
 - `[O]`: 95991 4,300 (GROUP 2+, Crocskin Waders).
 - Conditional (Field Marshal's Log, no XP counted): 94887 2,100, 94892 4,200 (here), 94893 4,200 + 70s (Stormwind).
 - Quest money (plain): 94889 30s = **30s**. (Plan said "Riverglades II's 12g": the zone JSON gives money only to 94889 in this block besides 95935's 1g 20s (out) and the conditional 94893 70s.)
 **Out**
+- 95912 WANTED: Blademaster Kaijo - decision 2 (Kaijo L42 elite; sword / thrown rewards).
 - 95935 Hail the Dragonslayer - decision 3 (Scaldaron L43 rare elite, head 24.1%).
 - 94926 Drop the Hammer - decision 2 (Komuk L45 elite; plate reward, no upgrade).
 - 94890 Bring Me His Head - decision 2 (Overlord Kilgar L46 elite; no upgrade); with it 94891 News to Farholde and 94894 The Twilight Threat (both need Kilgar's Head 265837).
@@ -615,14 +620,14 @@ What he likely wears at 40: Bonebiter 583.5 or Rage of the Storm (39e; the 11 No
 **Gear calls**
 1. **94927 Dunston Checks Out** (choice): **Prisoner Handwraps** (cloth hands +12 Spi +15 SP) **60.0 [33.0]** over Bolder'ok Loincloth (cloth legs +13 Spi +9 SP) 50.5 [28.5] and Dunston's Ogre Duster (1H mace 29.81 dps, 437.3 - 1H, not used by the 2H build). Replaces Traveled Gloves 40.0 (39, conditional) / Prospector Gloves 31.5 (35) / Excavator Gauntlets 36.0 (35's mail choice, from 40) - +20 or more. Exception: if his legs are Southern Watch Leggings 26.0 or Triprunner 26.2 (no Slacks 73.7 / Doomcaller's 41.2) the Loincloth gains +24.3 against the Handwraps' +20.0 over Traveled Gloves - take the Loincloth then; against Prospector Gloves (+28.5) the Handwraps still win.
 2. **94926 Drop the Hammer - elite test (decision 2), OUT.** Komuk L45 elite; the fixed reward Pauldron of Order is **plate** (shoulder +11 Str +7 Spi; score_items' usable() does not flag plate, it scores 39.5) - unusable, no upgrade.
-3. **95912 WANTED: Blademaster Kaijo** (choice): Bladewind (2H sword - shaman can't use), Bladewhisper's Namesake (thrown - can't use). **Take Bladewind to sell** (1g 68s 43c vs 98s 57c).
-4. **96015 A Miner Problem** (fixed): Twilight Mine Light (cloth head +12 Sta +13 SP, +4 Mining) 26.0 [13.0] < Saltseer's Helm 48.3 (31b) / Wild Headdress 42.6 (29) - vendor (50s 18c).
+3. **95912 WANTED: Blademaster Kaijo - elite test (decision 2), OUT.** Kaijo L42 elite; Bladewind (2H sword) and Bladewhisper's Namesake (thrown) are both unusable for a shaman - no upgrade.
+4. **96015 A Miner Problem** (fixed): Twilight Mine Light (cloth head +12 Sta +13 SP, +4 Mining) 26.0 [13.0] < Saltseer's Helm 48.3 (31) / Wild Headdress 42.6 (29) - vendor (50s 18c).
 5. **94890 Bring Me His Head - elite test (decision 2), OUT.** Overlord Kilgar L46 elite; Twilight Overlord Drape (cloak +9 Sta +4 SP) 8.0 [4.0] < Glowing Thresher Cape 26.0 / Brilliant Cloak 20.4; Farholde Bastion (shield) unusable for the 2H build. 94891's Farholde Keep Tabard is cosmetic, 94894 has no reward. All three out.
-6. **95991 WANTED: Ghostmaw - elite test (decision 2): `[O]` GROUP 2+ with Crocskin Waders** (leather legs +8 Str +11 Sta +6 Spi, +47 armor) 31.0 [25.0]: +4.8 over Triprunner Dungarees 26.2 (his likely legs from 1-30); not an upgrade if he holds Apprentice Sorcerer's Slacks 73.7 (31b, grind/luck) or Doomcaller's Pants 41.2 (35's runner-up) - the line says so.
+6. **95991 WANTED: Ghostmaw - elite test (decision 2): `[O]` GROUP 2+ with Crocskin Waders** (leather legs +8 Str +11 Sta +6 Spi, +47 armor) 31.0 [25.0]: +4.8 over Triprunner Dungarees 26.2 (his likely legs from 1-30); not an upgrade if he holds Apprentice Sorcerer's Slacks 73.7 (31, grind/luck) or Doomcaller's Pants 41.2 (35's runner-up) - the line says so.
 7. **96085 Upstream Contamination** (fixed): Superior Healing Potion - keep.
 - 94893 (conditional) has no reward in the zone JSON.
 **Deviations from the route plan**
-- Plan: ~24 quests, 82k XP, "Riverglades II's 12g". Spec: **12 plain, 34,420 XP, 30s** - decision 2 removes 94926 (Komuk L45 elite, plate), 94890 + 94891 + 94894 (Kilgar L46 elite, no upgrade); decision 3 removes 95935; the 94885 chain is a 1.6% drop-start (conditional); 94884 moved to 38 (95562 moved, then out); 95986 out (16% beak chain); 95219/94984 round 2; 95315 added (39c pickup). The plan's 12g money figure is not supported by zone_16591.json (largest single amounts: 95935 1g 20s, 94893 70s).
+- Plan: ~24 quests, 82k XP, "Riverglades II's 12g". Spec: **11 plain, 30,120 XP, 30s** - decision 2 removes 95912 (Kaijo L42 elite, unusable rewards), 94926 (Komuk L45 elite, plate), 94890 + 94891 + 94894 (Kilgar L46 elite, no upgrade); decision 3 removes 95935; the 94885 chain is a 1.6% drop-start (conditional); 94884 moved to 38 (95562 moved, then out); 95986 out (16% beak chain); 95219/94984 round 2; 95315 added (chapter 39 pickup). The plan's 12g money figure is not supported by zone_16591.json (largest single amounts: 95935 1g 20s, 94893 70s).
 - Plan's gear notes corrected: Pauldron of Order is plate (quest now out); Verger Greaves from 38 are worn from 40.
 - 95219 From Port to Port: plan called it the Powderfuse flight hop; it is a Feralas delivery (BRIEF) and chapter 41 / round 2's.
 

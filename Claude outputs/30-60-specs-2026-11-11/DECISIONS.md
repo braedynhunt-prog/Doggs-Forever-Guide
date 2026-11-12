@@ -37,3 +37,26 @@ The exact split is the spec agent's to adjust if the travel says otherwise; say 
 
 ## Report back
 A short list only: what changed in each spec file (quests moved in/out with ids, new totals: plain count, plain XP, optional XP, money), anything a decision made impossible, anything still unsure. No full chapter report.
+
+## Addendum 2 (Braedyn, 11 Nov, after the reconciled list): the level-40 block is reordered and renamed
+On quest XP he leaves Riverglades I (chapter 38) at about 38.2, not 40, so the block no longer starts with the level-40 Ironforge stop. The block now starts when chapter 38 is finished, whatever his level. The main session renamed the spec files to the play order:
+
+| play order | new file | chapter | was |
+|---|---|---|---|
+| 1 | 39.md (`39_StormHeedTempest.lua`) | Storm, Heed, Tempest: Arathi, Faldir's Cove, the Barrens road, the Heed My Call ritual | 39c.md |
+| 2 | 39b.md (`39b_RazorfenDowns.lua`) | Razorfen Downs | 39d.md |
+| 3 | 39c.md (`39c_Alterac.lua`) | The Tempest's Weapons: Veyric, Faldir's Cove's last legs, Alterac, Rage of the Storm; ends in Ironforge | 39e.md |
+| 4 | 39d.md (`39d_Level40.lua`) | Level 40: Ironforge (and the Stormwind tram): training, Mail, riding and the ram, the Uldaman pickups | 39.md |
+| 5 | 39e.md (`39e_Uldaman.lua`) | Uldaman; ends with the Ironforge hand-ins and the hearth to Farholde Keep | 39b.md |
+
+`[NX]` order for the round: 27, 28, 29, 30, 31, 32, 33, 34, 35, 37, 38, 39, 39b, 39c, 39d, 39e, 40, 41. Every reference to the old labels inside a spec must be changed to the new ones.
+
+Consequences to write in:
+- **Start of the block**: from Farholde Keep fly Lakeshire - Stormwind (stop: 3636 Bring the Light at Archbishop Benedictus **only if he is level 39**, its required level; if he is 38 it is skipped and Razorfen Downs runs without it; 94893's hand-in if the Field Marshal's Log chain is in the log), then on to Refuge Pointe (through Ironforge). No training stop here.
+- **Faldir's Cove is always done in the block** (single path; chapter 31 no longer touches it): 663-668 and the 669 pickup on the first Arathi visit (new 39); 669 handed in and 670 taken at Seahorn in Booty Bay on the way back from Kalimdor (the Ratchet - Booty Bay boat); 670 and 667 at the cove on the second Arathi visit (new 39c). Drop every "Case 1".
+- **3636 and 96773** are handed in after Razorfen Downs: 96773 at Lan'dalock on the Alterac leg (new 39c), 3636 at Benedictus on new 39d's Stormwind tram trip (3636 only if it was picked up).
+- **New 39c ends in Ironforge** (554 hand-in) and **new 39d starts there**: level-check "this chapter wants level 40": Windfury Weapon rank 2 and the other level-40 ranks, Mail (SkillRaceClassInfo row 145), Apprentice Riding and the ram; if he is still 39 he trains what he can, runs Uldaman (the Platinum Discs 2278 / 2279 need 40 at pickup: say what to do at 39) and returns to train. Uldaman pickups in new 39d: 2398 The Lost Dwarves (Prospector Stormpike) and 1360 Reclaimed Treasures (Krom Stoutarm). 762 and 1139 stay out and the amulet chain 722-726 stays the one-kill optional (Braedyn was asked; unless he says otherwise this stands).
+- **New 39e (Uldaman) starts at Thelsamar** after new 39d, ends with the Ironforge hand-ins, then the hearth to Farholde Keep; chapter 40 starts there.
+- Rage of the Storm is taken in new 39c at about 39.4 on quest XP: check its required level in the tooltip (weights/tooltips/2026-11-11.json, id 280604) and say what he swings until he can equip it.
+- Facts from the last pull (pull_extras.txt, third section): The Lost Magic of the Runemasters and The Coldbringer's Eye are ground objects (96800 and 96773 are normal quests); Blademaster Kaijo is a level 42 elite (95912 out); Gronok the Butcher (44) and Admiral Lamora (45) are not elite; Farholde Scouts stand from 44.2,63.6.
+- Chapter 40 stays thin on purpose (Braedyn: "if we have enough XP then leave it out").
