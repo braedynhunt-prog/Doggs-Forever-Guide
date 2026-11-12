@@ -1,0 +1,145 @@
+ZONE	/forever/zone=1/dun-morogh
+170	2	1	170	1	1	0		0	0	unchanged	0	6185,2172,6173		A New Threat
+179	1	1	80	1	1	0		0	0	unchanged	0	719,6171,2547		Dwarven Outfitters
+182	4	1	355	1	1	0		0	0	unchanged	0	2047,2048,2195,5761	961	The Troll Cave
+183	3	1	250	1	1	0		0	0	unchanged	0	79,61		The Boar Hunter
+218	5	1	560	1	1	0		0	0	unchanged	0	6176,5581		The Stolen Journal
+233	3	1	190	1	1	0		0	0	unchanged	0			Coldridge Valley Mail Delivery
+234	4	1	270	1	1	0		0	0	updated	0	247840,247841,247846		Coldridge Valley Mail Delivery
+282	5	1	335	1	1	0		0	0	unchanged	0			Senir's Observations
+287	9	7	590	1	1	0		0	0	unchanged	0	3216,2900		Frostmane Hold
+291	10	1	420	1	1	0		0	0	unchanged	175			The Reports
+308	7	1		1	1	0		0	0	unchanged	0			Distracting Jarven
+310	6	2	135	1	1	0		0	0	unchanged	0			Bitter Rivals
+311	7	2	630	1	1	0		0	0	unchanged	175			Return to Marleth
+312	12	7	910	1	1	0		0	0	unchanged	0	6177,10550		Tundra MacGrann's Stolen Stash
+313	7	4	630	1	1	0		0	0	unchanged	175			The Grizzled Den
+314	12	6	910	1	1	0	1	0	0	unchanged	0	10549,2817,3103		Protecting the Herd
+315	9	5	780	1	1	0		0	0	unchanged	0	2905,2326		The Perfect Stout
+317	6	2	680	1	1	0		0	0	unchanged	250			Stocking Jetsteam
+318	7	2	160	1	1	0		0	0	unchanged	0			Evershine
+319	8	2	530	1	1	0		0	0	unchanged	0			A Favor for Evershine
+320	8	2	880	1	1	0		0	0	unchanged	0	1011,1010,10547		Return to Bellowfiz
+384	7	5	630	1	-304	5		0	0	unchanged	175		2888,2889	Beer Basted Boar Ribs
+400	5	2	110	1	1	0		0	0	unchanged	25			Tools for Steelgrill
+403	1	1		1	1	0		0	0	unchanged	0			Guarded Thunderbrew Barrel
+412	10	7	840	1	1	0		0	0	unchanged	0	3152,3153		Operation Recombobulation
+413	10	8	420	1	1	0		0	0	unchanged	0			Shimmer Stout
+414	10	8	630	1	38	0		0	0	unchanged	0			Stout to Kadrell
+415	10	8	85	1	1	0		0	0	unchanged	0		3087	Rejold's New Brew
+417	11	8	660	1	1	0		0	0	unchanged	0	2218,1009		A Pilot's Revenge
+419	10	8	420	1	1	0		0	0	unchanged	0		3151	The Lost Pilot
+420	5	1	335	1	1	0		0	0	unchanged	0			Senir's Observations
+431	10	5		2	85	0		0	0	unchanged	0		3080	Candles of Beckoning
+432	9	5	590	1	1	0		0	0	unchanged	200			Those Blasted Troggs!
+433	11	6	660	1	1	0		0	0	unchanged	300			The Public Servant
+466	22	20	1750	1	1	0		0	0	unchanged	0		3565	Search for Incendicite
+467	23	20	460	1	1	0		0	0	unchanged	0			Stonegear's Search
+1517	4	4	270	2	-82	4		64	162	unchanged	0			Call of Earth
+1518	4	4	445	2	-82	4		64	162	unchanged	0		5175	Call of Earth
+1520	4	4	180	2	-82	4		64	162	unchanged	0			Call of Earth
+1521	4	4	445	2	-82	4		64	162	unchanged	0		5175	Call of Earth
+1599	4	1	355	1	-61	4		256	65	unchanged	0			Beginnings
+1653	21	20	830	1	-141	4	81	2	5	unchanged	0			The Test of Righteousness
+1654	22	20	870	1	-141	4	81	2	5	unchanged	0			The Test of Righteousness
+1679	10	10	85	1	-81	4		1	0	unchanged	0			Muren Stormpike
+1783	13	12	680	1	-141	4		2	4	unchanged	0			The Tome of Divinity
+1784	13	12	680	1	-141	4		2	4	unchanged	0			The Tome of Divinity
+1806	22	20	2200	1	-141	4		2	5	unchanged	0		6953	The Test of Righteousness
+1879	10	10	85	1	-161	4		128	65	unchanged	0			Speak with Bink
+2160	5	1	110	1	1	0		0	0	unchanged	0	117,159		Supplies to Tannok
+2218	10	10	420	1	-162	4		8	0	unchanged	175			Road to Salvation
+2238	10	10	840	1	-162	4		8	0	unchanged	0			Simple Subterfugin'
+2239	10	10	840	1	-162	4		8	0	unchanged	0		7298	Onin's Report
+2299	16	16	115	1	-162	4		8	0	unchanged	0			To Hulfdan!
+2926	27	20	2200	1	721	2	81	0	0	unchanged	2200			Gnogaine
+2927	27	20	220	1	721	2	81	0	0	unchanged	0			The Day After
+2962	30	20	2450	1	721	2	81	0	0	unchanged	2500			The Only Cure is More Green Glow
+2997	12	12	90	1	-141	4		2	4	unchanged	0			Tome of Divinity
+3106	1	1	40	1	-81	4		1	4	unchanged	0			Simple Rune
+3107	1	1	40	1	-141	4		2	4	unchanged	0			Consecrated Rune
+3108	1	1	40	1	-261	4		4	4	unchanged	0			Etched Rune
+3109	1	1	40	1	-162	4		8	4	unchanged	0			Encrypted Rune
+3110	1	1	40	1	-262	4		16	4	unchanged	0			Hallowed Rune
+3112	1	1	40	1	-81	4		1	65	unchanged	0			Simple Memorandum
+3113	1	1	40	1	-162	4		8	64	unchanged	0			Encrypted Memorandum
+3114	1	1	40	1	-161	4		128	64	unchanged	0			Glyphic Memorandum
+3115	1	1	40	1	-61	4		256	64	unchanged	0			Tainted Memorandum
+3361	3	3	250	1	1	0		0	0	unchanged	50			A Refugee's Quandary
+3364	5	4	225	1	1	0		0	0	unchanged	0			Scalding Mornbrew Delivery
+3365	5	4	450	1	1	0		0	0	unchanged	50			Bring Back the Mug
+4126	55	50	7050	1	1584	2	81	0	0	updated	16500	11964,12000,270123	12003	Hurley Blackbreath
+4128	55	50	560	1	1584	2	81	0	0	unchanged	0			Ragnar Thunderbrew
+5541	6	5	540	1	1	0		0	0	unchanged	125			Ammo for Rumbleshot
+5625	4	5	270	1	-262	4		16	68	unchanged	0		16605	Garments of the Light
+5626	4	5	90	1	-262	4		16	68	unchanged	0			In Favor of the Light
+5630	10	10	210	1	-262	4		16	8	unchanged	0			Returning Home
+5637	10	10	210	1	-262	4		16	5	updated	0			Desperate Prayer
+5841	1	1		1	1	0		0	0	unchanged	0	13584,13583,13582		Welcome!
+6064	10	10	840	1	-261	4		4	4	updated	0			Taming the Beast
+6074	10	10	85	1	-261	4		4	4	unchanged	0			The Hunter's Path
+6075	10	10	85	1	-261	4		4	4	unchanged	0			The Hunter's Path
+6076	10	10	85	1	-261	4		4	4	unchanged	0			The Hunter's Path
+6084	10	10	840	1	-261	4		4	4	updated	0			Taming the Beast
+6085	10	10	840	1	-261	4		4	4	updated	0			Taming the Beast
+6086	10	10	420	1	-261	4		4	4	updated	0			Training the Beast
+6722	10	10	85	1	131	0		0	8	unchanged	0			The Hunter's Path
+8149	60	30	6600	1	-1005	9		0	0	unchanged	0		20009	Honoring a Hero
+8653	60	1		3	-366	9		0	0	unchanged	0		21100	Goldwell the Elder
+8827	1	1	10	1	-1001	9		0	0	unchanged	0			Winter's Presents
+8828	1	1	10	2	-1001	9		0	0	unchanged	0			Winter's Presents
+8860	60	1		1	-1006	9		0	0	unchanged	900			New Year Celebrations!
+8861	60	1		2	-1006	9		0	0	unchanged	900			New Year Celebrations!
+9261	10	1	630	1	-368	7		0	0	unchanged	250			Investigate the Scourge of Ironforge
+94373	4	4	270	1	-82	4		64	4	new	0			Call of Earth
+94374	4	4	270	1	-82	4		64	4	new	0			Call of Earth
+94375	4	4	445	1	-82	4		64	4	new	0		5175	Call of Earth
+94449	10	10	420	1	-82	4		64	4	new	0			Call of Fire
+94465	11	10	660	1	-82	4		64	4	new	0			Call of Fire
+94468	14	10	1250	1	-82	4		64	4	new	0		5176,263412	Call of Fire
+94472	4	4		1	-82	4		64	0	new	0		6635	Earth Sapta
+94776	10	10	210	1	-262	4		16	1	new	0			Divine Grace
+94824	10	10	210	1	-262	4		16	72	new	0			Confounding Flash
+95041	10	7	630	1	1	0		0	0	new	0			Data Hoarders
+95212	10	7	630	1	1	0		0	0	new	0			Never Saddle on Quality
+95213	10	7	85	1	1	0		0	0	new	0			Stolen Blasting Powder
+95214	10	7	840	1	1	0		0	0	new	0			Stolen Blasting Powder
+95217	10	7	630	1	1	0		0	0	new	175		277673	The Quarry's Smith
+96031	6	4	270	1	-666	-2		76	68	new	0			Camping 101: Leatherworking
+96044	6	4	270	1	-666	-2		0	68	new	0			Camping 101: Blacksmithing
+96046	6	4	270	1	-666	-2		0	68	new	0			Camping 101: Mining
+96047	6	4	270	1	-666	-2		0	76	new	0			Camping 101: First Aid
+96050	6	4	270	1	-666	-2		0	76	new	0			Camping 101: Fishing
+96055	6	4	270	1	-666	-2		0	0	new	0			Camping 101: Herbalism
+96056	6	4	270	1	-666	-2		0	68	new	0			Camping 101: Skinning
+96057	6	4	270	1	-666	-2		0	76	new	0			Camping 101: Tailoring
+96058	6	4	270	1	-666	-2		0	68	new	0			Camping 101: Engineering
+96243	4	4	180	1	-82	4		64	68	new	0			Call of Earth
+96390	13	9	910	1	1	0		0	0	new	0			Nip 'Em in the Bud
+96391	15	9	1050	1	1	0		0	0	new	700			Underground Map
+96392	13	9	680	1	1	0		0	0	new	0			Farsen's Watch
+96393	16	9	1450	1	16919	2	81	0	0	new	800	279894,279895,279896		Old Ironforge Incursion
+96408	13	9	680	1	1	0		0	0	new	0			A Visitor to Dun Morogh
+96608	6	4	405	1	-666	-2		0	68	new	0			The Great Outdoors
+96628	6	4	405	1	-666	-2		0	68	new	0			The Adventurer
+96629	6	4	270	1	-666	-2		0	68	new	0			Camping 101: Cooking
+97017	40	40	1550	1	1	0		0	4	new	0	5872,5864,5873		Your First Riding Ram
+97018	40	40		1	1	0		0	4	new	0			Learning to Ride
+97046	40	40	1550	1	1	0		0	64	new	0	8563,8595,13321,13322		Your First Mechanostrider
+97188	40	40		1	1	0		0	64	new	0			Learning to Ride
+97277	6	4	405	1	77	0		0	0	new	0		277977	Grund and Gozwin
+98319	8	4	350	1	1	0		0	0	new	0			Secure the Mountain
+98321	7	4	630	1	1	0		0	0	new	45			Flintfire's Shipment
+98322	8	4	70	1	1	0		0	0	new	0			Secure the Mountain
+98323	8	4	70	1	1	0		0	0	new	0			Secure the Mountain
+98326	9	5	780	1	1	0		0	0	new	0		281322	Frosthowl
+98423	16	9	1150	1	1	0		0	0	new	1600			The Treaty of Understanding
+98574	1	1	40	1	-262	4		16	64	new	0			Hallowed Memorandum
+98581	1	1	40	1	-82	4		64	4	new	0			Archaic Rune
+99158	8	5	70	1	1	0		0	0	new	0			Dawn in the Mountains
+99159	8	5	350	1	1	0		0	0	new	0			Finding Warmth
+99160	8	5	530	1	1	0		0	0	new	0			Rime's Wrath
+99161	8	5	700	1	1	0		0	0	new	0		286737	Rime's Wrath
+99162	8	5	700	1	1	0		0	0	new	0			Treacherous Cold
+99207	60	60		1	1	0		0	64	new	0			Swift as the Wind
+99209	60	60		1	1	0		0	4	new	0			Swift as the Wind

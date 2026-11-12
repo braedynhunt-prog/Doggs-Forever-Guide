@@ -1,0 +1,69 @@
+ZONE	/forever/zone=44/redridge-mountains
+19	25	18	2550	1	44	0	1	0	0	unchanged	0	1276,6093		Tharil'zun
+20	21	18	1650	1	44	0		0	0	unchanged	1300			Blackrock Menace
+34	24	18	1950	1	44	0		0	0	unchanged	1700		2562	An Unwelcome Guest
+65	18	14	1350	1	40	0		0	0	unchanged	0			The Defias Brotherhood
+89	20	15	1550	1	44	0		0	0	unchanged	0	1310,1303,1304		The Everstill Bridge
+91	23	17	1850	1	44	0		0	0	unchanged	1500			Solomon's Law
+92	18	15	1350	1	44	0		0	0	unchanged	1000		1082,2699	Redridge Goulash
+94	21	20	1250	1	44	0		0	0	unchanged	0			A Watchful Eye
+115	23	18	2300	1	44	0	1	0	0	unchanged	3000			Shadow Magic
+116	15	12	1050	1	44	0		0	0	updated	0		1270,10456	Dry Times
+118	18	14	340	1	44	0		0	0	unchanged	0			The Price of Shoes
+119	18	13	680	1	44	0		0	0	unchanged	500			Return to Verner
+120	14	14	490	1	44	0		0	0	unchanged	0			Messenger to Stormwind
+121	14	14	245	1	44	0		0	0	unchanged	150			Messenger to Stormwind
+122	18	14	1700	1	44	0		0	0	unchanged	0	6092,1302		Underbelly Scales
+124	20	15	1150	1	44	0		0	0	unchanged	900			A Baying of Gnolls
+125	16	15	880	1	44	0		0	0	unchanged	0		2313	The Lost Tools
+126	25	15	2000	1	44	0		0	0	unchanged	0	1319,2910		Howling in the Hills
+127	21	16	1250	1	44	0		0	0	unchanged	1000		3663,3680,1322	Selling Fish
+128	25	20	2000	1	44	0		0	0	unchanged	1800			Blackrock Bounty
+129	15	12	540	1	44	0		0	0	unchanged	0			A Free Lunch
+130	15	12	270	1	44	0		0	0	unchanged	0			Visit the Herbalist
+131	15	12	270	1	44	0		0	0	unchanged	0		1326	Delivering Daffodils
+132	18	14	680	1	40	0		0	0	unchanged	0			The Defias Brotherhood
+143	14	14	490	1	44	0		0	0	unchanged	0			Messenger to Westfall
+144	14	14	245	1	44	0		0	0	unchanged	150			Messenger to Westfall
+145	18	18	1000	1	44	0		0	0	unchanged	0			Messenger to Darkshire
+146	18	18	340	1	44	0		0	0	unchanged	250			Messenger to Darkshire
+150	20	20	1550	1	44	0		0	0	unchanged	0		3567	Murloc Poachers
+169	26	15	2650	1	44	0	1	0	0	updated	4000			WANTED: Gath'Ilzogg
+178	23	15	1400	1	44	0		0	0	unchanged	1200		1970	Theocritus' Retrieval
+180	26	15	2650	1	44	0		0	0	updated	4000			WANTED: Lieutenant Fangore
+219	25	19	2550	1	44	0		0	0	unchanged	0	3555,1275,3431		Missing In Action
+244	16	11	290	1	44	0		0	0	unchanged	200			Encroaching Gnolls
+246	17	11	950	1	44	0		0	0	unchanged	700			Assessing the Threat
+248	22	20	1300	1	44	0	1	0	0	unchanged	0			Looking Further
+249	27	20	2750	1	44	0	1	0	0	updated	0	5274,270033,270034		Morganth
+345	24	20	485	1	1519	0		0	0	unchanged	0			Ink Supplies
+347	24	20	970	1	1519	0		0	0	unchanged	0			Rethban Ore
+386	25	22	2000	1	717	2	81	0	0	updated	0	3400,1317,270027		What Comes Around...
+1097	15	9	105	1	1519	0		0	0	unchanged	0			Elmore's Task
+1618	16	1	1150	1	-121	5		11	0	updated	0		6735	Gearing Redridge
+1698	20	20	155	1	-81	4		1	0	unchanged	0			Yorus Barleybrew
+1699	22	20	1300	1	-81	4		1	0	unchanged	0			The Rethban Gauntlet
+1702	22	20	435	1	-81	4		1	0	unchanged	0		6970	The Shieldsmith
+2281	16	16	115	1	-162	4		8	0	unchanged	0			Redridge Rendezvous
+2282	20	16	1550	1	-162	4		8	0	unchanged	0		7907	Alther's Mill
+3741	15	12	1350	1	44	0		0	0	unchanged	0			Hilary's Necklace
+3861	1	1	10	1	-284	-2		0	0	unchanged	0			CLUCK!
+4183	54	48	4100	1	46	0		0	0	unchanged	0			The True Masters
+4184	54	48	4100	1	46	0		0	0	unchanged	0			The True Masters
+4186	54	48	5450	1	46	0		0	0	unchanged	0			The True Masters
+4223	54	48	540	1	46	0		0	0	unchanged	0			The True Masters
+91899	60	1		3	0	-2		0	0	new	0			A Sealed Crate
+91900	60	1		3	0	-2		0	0	new	0			A Sealed Crate
+91901	60	1		3	0	-2		0	0	new	0			A Sealed Crate
+91902	60				0	-2		0	0	new	0			A Sealed Crate
+91904	60			3	0	-2		0	0	new	0			A Sealed Crate
+91905	60			3	0	-2		0	0	new	0			A Sealed Crate
+91906	60			3	0	-2		0	0	new	0			A Sealed Crate
+95772	31	24	3150	1	16732	2	81	0	0	new	0			Songblade Search
+95795	31	24	3150	1	16732	2	81	0	0	new	0	271769,271768		Fallen in the Fen
+95816	60	1	660		44	0		0	0	new	900			Sign Me Up!
+95999	25	16	2550	1	44	0	1	0	0	new	3500	277218,277234,277226		WANTED: Incinerator Gar'im
+98247	60	10	660	1	44	0		0	0	new	0			Shipping Label
+98386	21	15	1650	1	44	0		0	0	new	700			Alther's Mill
+98387	21	18	1650	1	44	0		0	0	new	1300			Blackrock Blockade
+98407	17	11	950	1	44	0		0	0	new	0			Show of Force

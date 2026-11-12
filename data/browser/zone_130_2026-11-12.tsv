@@ -1,0 +1,90 @@
+ZONE	/forever/zone=130/silverpine-forest
+63	23	20	1400	2	-82	4		64	0	unchanged	0			Call of Water
+96	23	20	2750	2	-82	4		64	0	unchanged	0		5177	Call of Water
+99	15	9	1350	2	130	0	1	0	0	unchanged	0	3586,3570,5242		Arugal's Folly
+100	23	20	185	2	-82	4		64	0	updated	0			Call of Water
+264	15	12	540	2	1638	1		0	0	unchanged	0			Until Death Do Us Part
+421	11	9	880	2	130	0		0	0	updated	400			Prove Your Worth
+422	11	9	880	2	130	0		0	0	unchanged	0			Arugal's Folly
+423	14	9	980	2	130	0		0	0	unchanged	600			Arugal's Folly
+424	15	9	1050	2	130	0		0	0	unchanged	700			Arugal's Folly
+425	12	10	680	2	130	0		0	0	unchanged	350	3453,3583		Ivar the Foul
+428	12	10	225	2	130	0		0	0	unchanged	0			Lost Deathstalkers
+429	11	10	440	2	130	0		0	0	updated	0			Wild Hearts
+430	11	10	660	2	130	0		0	0	updated	40			Return to Quinn
+435	11	10	880	2	130	0		0	0	unchanged	0		3455	Escorting Erland
+437	14	10	980	2	130	0		0	0	unchanged	600		3454	The Dead Fields
+438	16	10	880	2	130	0		0	0	unchanged	0			The Decrepit Ferry
+439	16	10	290	2	130	0		0	0	unchanged	0			Rot Hide Clues
+440	16	10	580	2	130	0		0	0	unchanged	0			The Engraved Ring
+441	16	10	580	2	130	0		0	0	unchanged	0			Raleigh and the Undercity
+442	24	10	1950	2	130	0	1	0	0	updated	0	3461,3462,270020,276722		Assault on Fenris Isle
+443	17	10	1250	2	130	0		0	0	unchanged	900			Rot Hide Ichor
+444	17	10	315	2	130	0		0	0	unchanged	0			Rot Hide Origins
+445	10	9	630	2	85	0		0	0	unchanged	250			Delivery to Silverpine Forest
+446	16	10	290	2	130	0		0	0	unchanged	0		3251	Thule Ravenclaw
+447	12	9	910	2	130	0		0	0	unchanged	500		3448	A Recipe For Death
+448	16	10	580	2	130	0		0	0	unchanged	0	3240,2863	2313	Report to Hadrec
+449	11	10	440	2	130	0		0	0	unchanged	200			The Deathstalkers' Report
+450	15	9	1350	2	130	0	1	0	0	unchanged	1400			A Recipe For Death
+451	18	9	2050	2	130	0		0	0	updated	0	3451,3582,276723	2458,2459	A Recipe For Death
+452	15	12	1350	2	130	0	1	0	0	unchanged	1400	3450,2818,3449		Pyrewood Ambush
+460	17	12	630	2	130	0		0	0	unchanged	0			Resting in Pieces
+461	18	12	680	2	130	0		0	0	unchanged	500			The Hidden Niche
+477	14	10	980	2	130	0		0	0	unchanged	0			Border Crossings
+478	14	10	740	2	130	0		0	0	unchanged	500			Maps and Runes
+479	16	10	1150	2	130	0		0	0	unchanged	800			Ambermill Investigations
+480	22	10	1750	2	130	0		0	0	unchanged	0	3452,3585		The Weaver
+481	14	10	100	2	130	0		0	0	unchanged	0			Dalar's Analysis
+482	14	10	100	2	130	0		0	0	unchanged	0			Dalaran's Intentions
+491	18	12	1700	2	130	0		0	0	unchanged	0	3457,3458,3581		Wand to Bethor
+493	20	19	1150	2	130	0		0	0	unchanged	900			Journey to Hillsbrad Foothills
+516	21	16	1250	2	130	0		0	0	updated	0		5252	Beren's Peril
+530	20	10	1550	2	130	0		0	0	unchanged	1200		3235	A Husband's Revenge
+1014	27	18	3300	2	209	2	81	0	0	unchanged	0		6414	Arugal Must Die
+1098	25	18	2000	2	209	2	81	0	0	updated	1800	3324,270023,270024		Deathstalkers in Shadowfang
+1103	23	20		2	-82	4		64	0	unchanged	0			Call of Water
+1359	15	10	105	2	1497	0		0	0	unchanged	0			Zinge's Delivery
+1898	13	10	230	2	-162	4		8	16	unchanged	0			The Deathstalkers
+3221	12	10	90	2	130	0		0	0	unchanged	0			Speak with Renferrel
+3301	15	10	1050	2	17	1		0	0	unchanged	0	10820,10821		Mura Runetotem
+6321	10	10	210	2	130	0		0	16	unchanged	0			Supplying the Sepulcher
+6322	10	10	210	2	130	0		0	16	unchanged	0			Michael Garrett
+6323	10	10	420	2	130	0		0	16	unchanged	175			Ride to the Undercity
+6324	10	10	1050	2	130	0		0	16	unchanged	350			Return to Podrig
+8577	60	60	6600	3	440	1		0	0	unchanged	0			Stewvul, Ex-B.F.F.
+8578	60	60	8300	3	2717	3	62	0	0	unchanged	0		18253	Scrying Goggles? No Problem!
+8645	60	1		3	-366	9		0	0	unchanged	0		21100	Obsidian the Elder
+78261	23	1	1850	3	-162	4		8	0	updated	0			The Horn of Xelthos
+78307	23	1	2300	3	-162	4		8	0	updated	3000		277210,203994	The Horn of Xelthos
+78676	35	25	3450	3	-162	4		8	0	updated	0			The Eye of Bhossca
+78699	35	25	3450	3	-162	4		8	0	updated	7500		277246,210979	The Eye of Bhossca
+91858	22	18	435	2	-141	4		2	16	new	350			Diplomatic Incident
+91859	22	18	435	2	-141	4		2	16	new	350			A Curious Pair
+91860	22	18	435	2	-141	4		2	16	new	350			A Grim Fate
+91861	22	18	435	2	-141	4		2	16	new	0			Into Fenris Keep
+91862	22	18	1750	2	-141	4		2	16	new	1400			Lumina Windsinger
+91920	11	10	440	2	130	0		0	0	new	0		4597,4596	Wild Eyes
+91921	11	10	660	2	130	0		0	0	new	0			Return to Quinn (Again)
+92401	22	15	2200	2	16611	2	81	0	0	new	0	251485,251486		A Frightened Request
+92432	33	30	660	1	36	0		0	0	new	0			An Alarming Request
+92434	34	30	270	2	36	0		0	0	new	0			Blood in the Streets
+92457	33	24	3950	1	16544	2	81	0	0	new	0	279837,279838		Starving Arcane
+92458	33	24	3950	1	16544	2	81	0	0	new	0	279839,279840,279841		Heart of Disruption
+92459	33	24	265	1	36	0		0	0	new	0			Friend of the Kirin Tor
+94503	23	20	185	1	-82	4		64	4	new	0			Call of Water
+94505	23	20	2750	1	-82	4		64	4	new	0		5177	Call of Water
+95034	24	18	195	2	-141	4		2	16	new	0			The Debt
+95036	25	20	1000	2	-141	4	81	2	16	new	0			A Moon-Kissed Blade
+95111	25	20	1000	2	-141	4		2	16	new	0			An Underrated Talent
+95126	25	20	1000	2	-141	4		2	16	new	0		268484	The Moonsilver Blade
+95140	26	20	2650	2	-141	4	1	2	16	new	0		267369	Old Fire-Eye
+95883	23	20	1400	2	130	0		0	0	new	0			The Tortured Soul
+95884	23	20	185	2	130	0		0	0	new	0			The Offering Stone
+95885	23	20	1850	2	130	0	1	0	0	new	0		281673	The Offering of Blood
+95981	20	10	1550	2	130	0		0	0	new	0		281265	Watching the Roads
+96204	22	18	1750	2	-141	4		2	16	new	1400			The Windshaper's Wrath
+96984	33	24	3950	2	16544	2	81	0	0	new	0	279842,279843,279844		Heart of Disruption
+97287	33	24	265	2	36	0		0	0	new	0			Shrewd Negotiations
+98298	16	9	1150	2	130	0		0	0	new	800		281315	Arugal's Folly
+98299	20	9	1550	2	130	0		0	0	new	1200			Stop the Spread

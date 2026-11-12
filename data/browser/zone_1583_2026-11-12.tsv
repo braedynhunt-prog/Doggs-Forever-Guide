@@ -1,0 +1,58 @@
+ZONE	/forever/zone=1583/blackrock-spire
+4701	59	55	6400	1	1583	2	81	0	0	unchanged	18000	15824,15825,15827		Put Her Down
+4724	59	55	6400	2	1583	2	81	0	0	unchanged	18000	15824,15825,15827		The Pack Mistress
+4729	59	55	6400	3	1583	2	81	0	0	unchanged	9000		12264	Kibler's Exotic Pets
+4734	60	57	8300	3	1583	2	81	0	0	unchanged	18000		12144	Egg Freezing
+4735	60	57	9950	3	1583	2	62	0	0	unchanged	27000			Egg Collection
+4742	60	57	8300	3	1583	2	81	0	0	unchanged	0			Seal of Ascension
+4743	60	57	9950	3	1583	2	81	0	0	unchanged	0		12344	Seal of Ascension
+4764	60	57	1650	1	1583	2	81	0	0	unchanged	0			Doomrigger's Clasp
+4765	60	57	6600	1	1583	2		0	0	unchanged	27000	15861,15860		Delivery to Ridgewell
+4766	60	57	660	1	1583	2	81	0	0	unchanged	0			Mayara Brightwing
+4768	60	57	8300	2	1583	2	81	0	0	unchanged	27000	15861,15860		The Darkstone Tablet
+4769	60	57	660	2	1583	2	81	0	0	unchanged	0			Vivian Lagrave and the Darkstone Tablet
+4788	58	40	7750	3	1583	2	81	0	0	unchanged	0			The Final Tablets
+4862	59	55	6400	3	1583	2	81	0	0	unchanged	9000		12529	En-Ay-Es-Tee-Why
+4866	60	55	9950	3	1583	2	81	0	0	unchanged	18000		15873	Mother's Milk
+4867	60	55	9950	3	1583	2	81	0	0	unchanged	0		15867	Urok Doomhowl
+4903	60	55	8300	2	1583	2	81	0	0	unchanged	18000	13958,13959,13961,13962,13963		Warlord's Command
+4907	60	57	660	3	1583	2	62	0	0	unchanged	0			Tinkee Steamboil
+4974	60	55	9950	2	1583	2	81	0	0	unchanged	27000	13966,13968,13965		For The Horde!
+4981	59	55	6400	2	1583	2	81	0	0	unchanged	0			Operative Bijou
+4982	59	55	6400	2	1583	2	81	0	0	unchanged	0			Bijou's Belongings
+4983	59	55	6400	2	1583	2	81	0	0	unchanged	18000	15858,15859		Bijou's Reconnaissance Report
+5001	59	55	6400	1	1583	2	81	0	0	unchanged	0			Bijou's Belongings
+5002	59	55	6400	1	1583	2	81	0	0	unchanged	18000			Message to Maxwell
+5047	60	57	6600	3	1583	2	81	0	0	unchanged	0			Pip Quickwit, At Your Service!
+5081	60	55	8300	1	1583	2	81	0	0	unchanged	18000	13958,13959,13961,13962,13963		Maxwell's Mission
+5089	60	55	6600	1	1583	2	81	0	0	unchanged	0			General Drakkisath's Command
+5102	60	55	9950	1	1583	2	81	0	0	unchanged	27000	13966,13968,13965		General Drakkisath's Demise
+5103	60	55	6600	3	-121	5	81	67	0	unchanged	0			Hot Fiery Death
+5127	60	55	8300	3	1583	2	81	3	0	updated	0		12696,9224,12849	The Demon Forge
+5160	60	57	6600	3	1583	2	81	0	0	unchanged	0			The Matron Protectorate
+6502	60	50	8300	1	1583	2	81	0	0	unchanged	0		16309	Drakefire Amulet
+6569	60	55	6600	2	1583	2	62	0	0	unchanged	0			Oculus Illusions
+6602	60	55	9950	2	1583	2	62	0	0	unchanged	0		16309	Blood of the Black Dragon Champion
+7761	60	55	6600	3	1583	2	81	0	0	unchanged	0			Blackhand's Command
+8644	60	1		3	-366	9		0	0	unchanged	0		21100	Stonefort the Elder
+8951	60	58	9950	1	1537	0	81	0	0	unchanged	0		22107,22111,22112	Anthion's Parting Words
+8952	60	58	9950	1	1537	0	81	0	0	unchanged	0		22061,22017,22016	Anthion's Parting Words
+8953	60	58	9950	3	1537	0	81	0	0	unchanged	0		22064,22067,22068	Anthion's Parting Words
+8954	60	58	9950	1	1537	0	81	0	0	unchanged	0		22087,22092,22093	Anthion's Parting Words
+8955	60	58	9950	1	1537	0	81	0	0	unchanged	0		22084,22085,22082	Anthion's Parting Words
+8956	60	58	9950	1	1537	0	81	0	0	unchanged	0		22003,22007,22008	Anthion's Parting Words
+8957	60	58	9950	2	1637	1	81	0	0	unchanged	0		22096,22100,22101	Anthion's Parting Words
+8958	60	58	9950	1	1537	0	81	0	0	unchanged	0		22076,22072,22073	Anthion's Parting Words
+8959	60	58	9950	1	1537	0	81	0	0	unchanged	0		21995,22000,22001	Anthion's Parting Words
+8966	60	58	8300	3	1583	2	81	0	0	unchanged	0			The Left Piece of Lord Valthalak's Amulet
+8989	60	58	8300	3	1583	2	81	0	0	unchanged	0			The Right Piece of Lord Valthalak's Amulet
+8995	60	58	9950	3	1583	2	62	0	0	unchanged	0			Mea Culpa, Lord Valthalak
+8996	60	58	660	3	25	0		0	0	unchanged	0		22057,22344	Return to Bodley
+9016	60	58	9950	2	1637	1	81	0	0	unchanged	0		22107,22111,22112	Anthion's Parting Words
+9017	60	58	9950	2	1637	1	81	0	0	unchanged	0		22061,22017,22016	Anthion's Parting Words
+9019	60	58	9950	3	1637	1	81	0	0	unchanged	0		22084,22085,22082	Anthion's Parting Words
+9020	60	58	9950	2	1637	1	81	0	0	unchanged	0		22003,22007,22008	Anthion's Parting Words
+9021	60	58	9950	2	1637	1	81	0	0	unchanged	0		22076,22072,22073	Anthion's Parting Words
+9022	60	58	9950	2	1637	1	81	0	0	unchanged	0		21995,22000,22001	Anthion's Parting Words
+84377	60	60	9950		1519	0		0	0	unconfirmed	43350			End of the Dark Horde
+98325	60	55	660	2	1583	2	81	0	0	new	900			Blood and Thunder

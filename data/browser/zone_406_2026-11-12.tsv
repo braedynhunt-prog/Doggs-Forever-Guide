@@ -1,0 +1,78 @@
+ZONE	/forever/zone=406/stonetalon-mountains
+1056	18	18	680	1	331	1		0	0	unchanged	0			Journey to Stonetalon Peak
+1057	27	20	2200	1	406	1		0	0	updated	0			Reclaiming the Charred Vale
+1058	26	20	2100	2	406	1		0	0	unchanged	0	6664,6665		Jin'Zil's Forest Magic
+1059	27	20	2200	1	406	1		0	0	updated	0	6675,6676,270035		Reclaiming the Charred Vale
+1060	20	15	1550	2	17	1		0	0	unchanged	0			Letter to Jin'Zil
+1061	17	13	315	2	406	1		0	0	unchanged	0			The Spirits of Stonetalon
+1062	19	13	1450	2	406	1		0	0	unchanged	1100			Goblin Invaders
+1063	18	13	680	2	406	1		0	0	unchanged	0			The Elder Crone
+1068	23	13	1850	2	406	1		0	0	unchanged	1500			Shredding Machines
+1070	21	17	830	1	331	1		0	0	unchanged	0			On Guard in Stonetalon
+1071	21	17	1650	1	406	1		0	0	unchanged	0			A Gnome's Respite
+1072	21	17	830	1	406	1		0	0	unchanged	0			An Old Colleague
+1073	21	17	1650	1	406	1		0	0	unchanged	0			Ineptitude + Chemicals = Fun
+1074	21	17	830	1	406	1		0	0	unchanged	0			Ineptitude + Chemicals = Fun
+1075	21	17	830	1	406	1		0	0	unchanged	0			A Scroll from Mauren
+1076	21	17	1650	1	406	1		0	0	unchanged	0			Devils in Westfall
+1077	21	17	830	1	406	1		0	0	unchanged	0			Special Delivery for Gaxim
+1078	26	17	2100	1	406	1		0	0	unchanged	0		6677	Retrieval for Mauren
+1079	22	17	2200	1	406	1		0	0	unchanged	0			Covert Ops - Alpha
+1080	22	17	2200	1	406	1		0	0	unchanged	0			Covert Ops - Beta
+1081	28	17	3400	1	406	1		0	0	unchanged	0	7334,7335,7336	6678	Reception from Tyrande
+1082	22	17	870	1	406	1		0	0	unchanged	0			Update for Sentinel Thenysil
+1083	26	20	2100	1	406	1		0	0	unchanged	2000			Enraged Spirits
+1084	28	22	2300	1	406	1		0	0	unchanged	2500			Wounded Ancients
+1085	21	17	165	1	331	1		0	0	unchanged	0			On Guard in Stonetalon
+1087	25	20	1500	2	406	1		0	0	unchanged	0			Cenarius' Legacy
+1088	29	20	2350	2	406	1		0	0	unchanged	0			Ordanus
+1089	29	20	2950	2	406	1	1	0	0	unchanged	0		6669,6670,6671	The Den
+1090	22	17	2200	3	406	1	1	0	0	updated	1400			Gerenzo's Orders
+1091	22	17	175	1	406	1		0	0	unchanged	0			Kaela's Update
+1092	22	17	1300	3	406	1		0	0	unchanged	0		6666	Gerenzo's Orders
+1093	21	16	1650	3	406	1		0	0	unchanged	0			Super Reaper 6000
+1094	21	16	830	3	406	1		0	0	unchanged	0			Further Instructions
+1095	27	16	1100	3	406	1		0	0	unchanged	0			Further Instructions
+1096	27	16	2200	3	406	1		0	0	unchanged	2200	6667,6668		Gerenzo Wrenchwhistle
+1152	30	26	1200	2	400	1		0	0	unchanged	0			Test of Lore
+1154	30	26	1850	2	400	1		0	0	unchanged	0			Test of Lore
+1159	30	26	1200	2	400	1		0	0	unchanged	0			Test of Lore
+1483	21	16	415	3	17	1		0	0	unchanged	0			Ziz Fizziks
+1510	20	20	780	2	-61	4		256	146	unchanged	0			News of Dogran
+1511	20	20	1550	2	-61	4		256	146	unchanged	0			Ken'zigla's Draught
+2931	28	25	230	1	721	2	81	0	0	unchanged	0			Castpipe's Task
+5881	28	23	1150	2	406	1		0	0	unchanged	1200			Calling in the Reserves
+6282	26	18	2100	2	406	1		0	0	updated	2000			Harpies Threaten
+6283	26	18	2100	2	406	1	1	0	0	updated	0	16990,16987,270028		Bloodfury Bloodline
+6284	21	15	1650	2	406	1	1	0	0	unchanged	0	16891,16894		Arachnophobia
+6301	23	17	1400	2	406	1		0	0	unchanged	1200			Cycle of Rebirth
+6381	25	17	2000	2	406	1		0	0	unchanged	0	16985,16986		New Life
+6393	25	19	2000	2	406	1		0	0	unchanged	1800			Elemental War
+6401	18	12	1000	2	406	1		0	0	unchanged	700			Kaya's Alive
+6421	18	14	1350	2	406	1		0	0	unchanged	1000			Boulderslide Ravine
+6461	19	13	1450	2	406	1		0	0	unchanged	1100			Blood Feeders
+6481	20	14	1550	2	406	1	1	0	0	updated	0	16981,1306,270010		Earthen Arise
+6523	18	12	1350	2	406	1		0	0	unchanged	1000			Protect Kaya
+6542	19	17	145	2	406	1		0	0	unchanged	0			Report to Kadrak
+6548	18	12	1350	2	406	1		0	0	unchanged	1000			Avenge My Village
+6562	22	17	435	2	719	2	81	0	0	updated	0			Trouble in the Deeps
+6567	60	55	3300	2	1637	1		0	0	unchanged	0			The Champion of the Horde
+6568	60	55	4950	2	405	1		0	0	unchanged	0			The Testament of Rexxar
+6601	60	55	4950	2	15	1		0	0	unchanged	0			Ascension...
+6602	60	55	9950	2	1583	2	62	0	0	unchanged	0		16309	Blood of the Black Dragon Champion
+6627	30	26	245	2	400	1		0	0	unchanged	0			Test of Lore
+6629	18	12	1350	2	406	1		0	0	unchanged	1000			Kill Grundig Darkcloud
+78270	23	1		3	-162	4		8	0	unchanged	0		210186	Goblin Lockpicks
+79192	24	14	1950	3	17	1		0	0	updated	0	2901,3334	1652,4470,4471,221498	Stepping Stones
+79974	32	14	2550	3	406	1		0	0	updated	0		5432,20709	Wet Job
+79980	24	14	195	3	406	1		0	0	updated	0	3463,217314,217315	3464,3465,216619	Scramble
+80001	40	1		3	406	1		0	0	unchanged	0		4471	Rekindle
+86574	24	20	1950	1	406	1		0	0	new	1700		281251	Stonetalon Supply Run
+86576	26	18	2100	2	406	1		0	0	new	2000		281252	Bloodfury Trinkets
+94216	60	1		3	16941	0		0	0	new	0		284584	Craftsman's Writ: Elixir of Lesser Agility
+94225	60	1		3	16941	0		0	0	new	0			Craftsman's Writ: Rough Bronze Leggings
+94234	60	1		3	16941	0		0	0	new	0		284584	Craftsman's Writ: Shadow Goggles
+94243	60	1		3	16941	0		0	0	new	0			Craftsman's Writ: Heavy Quiver
+94252	60	1		3	16941	0		0	0	new	0			Craftsman's Writ: Red Woolen Boots
+97446	40	40		2	406	1		0	32	new	0	275993,15290,15277,277960		Your First Riding Kodo
+97538	26	20	2100	2	406	1		0	0	new	2000			Pigments for Paints

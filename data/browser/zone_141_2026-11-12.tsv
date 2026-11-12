@@ -1,0 +1,133 @@
+ZONE	/forever/zone=141/teldrassil
+456	2	1	170	1	141	1		0	0	unchanged	35	5394,11187		The Balance of Nature
+457	3	1	250	1	141	1		0	0	unchanged	50	5405,6058		The Balance of Nature
+458	1	1	40	1	141	1		0	0	updated	0	247840,247841,247846		The Woodland Protector
+459	3	1	250	1	141	1		0	0	unchanged	0	5398,5399,11190	961	The Woodland Protector
+475	6	4	270	1	141	1		0	0	unchanged	0			A Troubling Breeze
+476	6	4	540	1	141	1		0	0	unchanged	125			Gnarlpine Corruption
+483	9	4	780	1	141	1		0	0	unchanged	300	9599,9603		The Relics of Wakening
+486	12	4	1150	1	141	1		0	0	unchanged	0	5459,5587		Ursal the Mauler
+487	8	5	700	1	141	1		0	0	unchanged	225			The Road to Darnassus
+488	5	4	450	1	141	1		0	0	unchanged	100		5457	Zenn's Bidding
+489	7	4	630	1	141	1		0	0	unchanged	175			Seek Redemption!
+490	8	5	700	1	141	1		0	4294967308	updated	225			Bounty: Gnarlpine Furbolg
+916	4	3	355	1	141	1		0	0	unchanged	0	10544,5392,5393,5586		Webwood Venom
+917	5	1	560	1	141	1		0	0	unchanged	0	5395,4907,11189		Webwood Egg
+918	7	4	630	1	141	1		0	0	unchanged	0		4604	Timberling Seeds
+919	7	4	790	1	141	1		0	0	unchanged	350	5606,6061		Timberling Sprouts
+920	5	1	45	1	141	1		0	0	unchanged	0			Tenaron's Summons
+921	5	1	335	1	141	1		0	0	unchanged	0			Crown of the Earth
+922	7	4	315	1	141	1		0	0	updated	0			Rellian Greenspyre
+923	9	4	980	1	141	1		0	0	unchanged	600		5605	Tumors
+927	12	5	455	1	141	1		0	0	unchanged	0			The Moss-twined Heart
+928	5	1	225	1	141	1		0	0	unchanged	0			Crown of the Earth
+929	5	1	335	1	141	1		0	0	unchanged	0			Crown of the Earth
+930	10	4	840	1	141	1		0	0	unchanged	350			The Glowing Fruit
+931	10	4	840	1	141	1		0	0	unchanged	350			The Shimmering Frond
+932	8	4	700	1	141	1		0	0	updated	0	5419,2571		Twisted Hatred
+933	9	1	780	1	141	1		0	0	unchanged	0			Crown of the Earth
+934	11	1	660		141	1		0	0	unchanged	0			Crown of the Earth
+935	11	1	1100	1	141	1		0	0	unchanged	0	5596,5595		Crown of the Earth
+937	11	6	440	1	141	1		0	0	unchanged	0	5592,5591		The Enchanted Glade
+938	12	7	910	1	141	1		0	0	unchanged	0	5590,5593,5618		Mist
+940	11	6	440	1	141	1		0	0	updated	0		281250	Teldrassil
+941	12	9	910	1	141	1		0	0	unchanged	0		5218	Planting the Heart
+978	55	52	5650	1	702	1		0	0	unchanged	8500			Moontouched Wildkin
+979	57	52	3000	1	702	1		0	0	unchanged	0			Find Ranshalla
+997	5	4	225	1	141	1		0	0	unchanged	50			Denalan's Earth
+1581	8	4	700	1	-181	5		0	0	updated	225		2449,785	Elixirs for the Bladeleafs
+1684	10	10	85	1	-81	4		1	0	unchanged	0			Elanaria
+2159	5	1	110	1	141	1		0	0	unchanged	0	2070,159		Dolanaar Delivery
+2241	10	10	420	1	-162	4		8	0	unchanged	0			The Apple Falls
+2259	16	16	115	1	-162	4		8	0	unchanged	0			Erion Shadewhisper
+2399	10	4	85	1	141	1		0	0	unchanged	0		5205	The Sprouted Fronds
+2438	6	1	405	1	141	1		0	0	unchanged	100			The Emerald Dreamcatcher
+2459	8	1	880	1	141	1		0	0	unchanged	450			Ferocitas the Dream Eater
+2498	9	4	80	1	141	1		0	0	unchanged	0			Return to Denalan
+2499	9	4	980	1	141	1	1	0	0	unchanged	600	5458,5589		Oakenscowl
+2541	8	3	700	1	141	1		0	0	unchanged	0			The Sleeping Druid
+2561	10	3	1050	1	141	1		0	0	unchanged	0	9598,18957		Druid of the Claw
+2939	47	42	420	1	357	1		0	0	unchanged	0			In Search of Knowledge
+2940	47	42	420	1	357	1		0	0	unchanged	0			Feralas: A History
+2941	48	42	1100	1	357	1		0	0	unchanged	0			The Borrower
+2943	48	42	3300	1	357	1		0	0	unchanged	0			Return to Troyas
+2944	48	42	4400	1	357	1	1	0	0	unchanged	0			The Super Snapper FX
+3022	47	42	2100	1	440	1		0	0	unchanged	5000			Handle With Care
+3116	1	1	40	1	-81	4		1	9	unchanged	0			Simple Sigil
+3117	1	1	40	1	-261	4		4	8	unchanged	0			Etched Sigil
+3118	1	1	40	1	-162	4		8	8	unchanged	0			Encrypted Sigil
+3119	1	1	40	1	-262	4		16	8	unchanged	0			Hallowed Sigil
+3120	1	1	40	1	-263	4		1024	8	unchanged	0			Verdant Sigil
+3519	4	2	90	1	141	1		0	0	unchanged	0			A Friend in Need
+3521	4	2	355	1	141	1		0	0	unchanged	0			Iverron's Antidote
+3522	4	2	445	1	141	1		0	0	unchanged	0	10655,10656		Iverron's Antidote
+3661	47	42	4200	1	702	1		0	0	unchanged	13500			Favored of Elune?
+4161	7	1	630	1	-304	5		0	0	unchanged	85		5482,5472	Recipe of the Kaldorei
+4495	4	2	270	1	141	1		0	0	unchanged	0			A Good Friend
+4901	59	52	4800	1	618	1		0	0	unchanged	0			Guardians of the Altar
+4902	57	52	6000	1	618	1		0	0	unchanged	0	16622,16623		Wildkin of Elune
+5250	56	53	580	1	702	1		0	0	updated	0			Starfall
+5621	4	5	270	1	-262	4		16	8	unchanged	0		16604	Garments of the Moon
+5622	4	5	90	1	-262	4		16	8	unchanged	0			In Favor of Elune
+5629	10	10	210	1	-262	4		16	8	unchanged	0			Returning Home
+5636	10	10	210	1	-262	4		16	4	updated	0			Desperate Prayer
+5842	1	1		1	141	1		0	0	unchanged	0	13584,13583,13582		Welcome!
+5925	10	10	85	1	-263	4		1024	8	unchanged	0			Heeding the Call
+6063	10	10	840	1	-261	4		4	8	updated	0			Taming the Beast
+6071	10	10	85	1	-261	4		4	8	unchanged	0			The Hunter's Path
+6072	10	10	85	1	-261	4		4	8	updated	0			The Hunter's Path
+6073	10	10	85	1	-261	4		4	8	unchanged	0			The Hunter's Path
+6101	10	10	840	1	-261	4		4	8	updated	0			Taming the Beast
+6102	10	10	840	1	-261	4		4	8	updated	0			Taming the Beast
+6103	10	10	420	1	-261	4		4	8	updated	0			Training the Beast
+6341	10	10	210	1	148	1		0	8	unchanged	0			The Bounty of Teldrassil
+6342	10	10	420	1	148	1		0	8	unchanged	0			Flight to Auberdine
+6343	10	10	1050	1	148	1		0	8	unchanged	250			Return to Nessa
+6344	10	10	210	1	1657	1		0	8	unchanged	0			Nessa Shadowsong
+6721	10	10	85	1	1537	0		0	8	unchanged	0			The Hunter's Path
+6722	10	10	85	1	131	0		0	8	unchanged	0			The Hunter's Path
+7383	11	1	660	1	141	1		0	0	unchanged	0			Crown of the Earth
+8715	60	1		3	-366	9		0	0	unchanged	0		21100	Bladeleaf the Elder
+8733	60	60	6600	3	1477	2		0	0	unchanged	0			Eranikus, Tyrant of the Dream
+8734	60	60	1650	3	141	1		0	0	unchanged	0			Tyrande and Remulos
+9319	60	50	4950	3	-369	9		0	0	unchanged	0		23083,23247	A Light in Dark Places
+9322	60	1	3300	3	-369	9		0	0	unchanged	0		23379,23247	Wild Fires in Kalimdor
+9323	60	1	3300	3	-369	9		0	0	unchanged	0		23324,23247	Wild Fires in the Eastern Kingdoms
+9324	60	50	4950	1	-369	9		0	0	unchanged	7000		23247,23247	Stealing Orgrimmar's Flame
+9325	60	50	4950	1	-369	9		0	0	unchanged	7000		23246,23247	Stealing Thunder Bluff's Flame
+9326	60	50	4950	1	-369	9		0	0	unchanged	7000	23435,23327,23326,23211	23247	Stealing the Undercity's Flame
+9367	60	1	660	1	-369	9		0	0	unchanged	0		23247,23246	The Festival of Fire
+9386	60	50		3	-369	9		0	0	unchanged	0		23247	A Light in Dark Places
+9388	25	1	1500	3	-369	9		0	0	unchanged	0	23435,23327,23326,23211		Flickering Flames in Kalimdor
+9389	25	1	1500	3	-369	9		0	0	unchanged	0	23435,23327,23326,23211		Flickering Flames in the Eastern Kingdoms
+87288	7	4	630	1	141	1		0	4294967304	new	0		280088	Soft Saber Pelts
+94775	10	10	210	1	-262	4		16	1	new	0			Divine Grace
+94823	10	10	210	1	-262	4		16	64	new	0			Confounding Flash
+96606	6	4	405	1	-666	-2		0	8	new	0			The Great Outdoors
+96630	6	4	405	1	-666	-2		0	8	new	0			The Adventurer
+96634	6	4	270	1	-666	-2		0	8	new	0			Camping 101: Cooking
+97236	5	1	450	1	141	1		0	0	new	100			Fang of Githyiss
+97938	6	4	270	1	-666	-2		0	72	new	0			Camping 101: Alchemy
+97939	6	4	270	1	-666	-2		0	0	new	0			Camping 101: Blacksmithing
+97940	6	4	270	1	-666	-2		0	72	new	0			Camping 101: Enchanting
+97941	6	4	270	1	-666	-2		0	0	new	0			Camping 101: Engineering
+97942	6	4	270	1	-666	-2		0	8	new	0			Camping 101: First Aid
+97943	6	4	270	1	-666	-2		0	8	new	0			Camping 101: Fishing
+97944	6	4	270	1	-666	-2		0	8	new	0			Camping 101: Herbalism
+97946	6	4	270	1	-666	-2		1036	8	new	0			Camping 101: Leatherworking
+97948	6	4	270	1	-666	-2		0	8	new	0			Camping 101: Mining
+97949	6	4	270	1	-666	-2		0	8	new	0			Camping 101: Skinning
+97950	6	4	270	1	-666	-2		0	72	new	0			Camping 101: Tailoring
+97977	3	1	250	1	141	1		0	4294967304	new	50			Nature's Call
+97979	1	1	40	1	-676	-2		0	8	new	8			The Goddess Provides
+98046	11	1	90	1	141	1		0	8	new	0			Crown of the Earth
+98065	11	1	90	1	141	1		0	4294967304	new	0			Crown of the Earth
+98391	10	5	85	1	1657	1		0	4294967304	new	0			The Sisterhood of Elune
+98392	12	6	910	1	141	1		0	4294967304	new	0			Darkness in the Glade
+98398	12	6	90	1	141	1		0	4294967308	new	0			The Oracle Tree
+98403	12	4	910	1	141	1	1	0	4294967304	new	0		282284	Twisted Hatred
+99046	9	4	80	1	141	1		0	4294967304	new	0			The Lost Runner
+99047	9	4	80	1	141	1		0	4294967308	new	0			Not Dead Yet
+99050	10	4	840	1	141	1		0	4294967304	new	85			The Great Tree Provides
+99053	10	4	840	1	141	1		0	4294967308	new	0	286734,286735		Escaping Ban'ethil
+99073	10	4	85	1	141	1		0	4294967304	new	0			Easing Suffering

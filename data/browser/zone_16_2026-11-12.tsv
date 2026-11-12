@@ -1,0 +1,131 @@
+ZONE	/forever/zone=16/azshara
+2744	60	45	6600	3	4	0		0	0	unchanged	0			The Demon Hunter
+3141	57	45	600	3	16	1		0	0	unchanged	0			Loramus
+3381	48	45	2200	3	16	1		0	0	unchanged	0			A Meeting with the Master
+3382	57	48	600	3	16	1		0	0	unchanged	0			A Crew Under Fire
+3383	55	48	5650	3	16	1		0	0	unchanged	0			<UNUSED>
+3384	55	48	560	3	16	1		0	0	unchanged	0			<UNUSED>
+3401	48	53		3	16	1		0	0	unchanged	0			<UNUSED>
+3403	48	53		3	16	1		0	0	unchanged	0			<UNUSED>
+3404	48	53		3	16	1		0	0	unchanged	0			<UNUSED>
+3405	48	55		3	16	1		0	0	unchanged	0			<UNUSED>
+3421	55	45		3	16	1		0	0	unchanged	0			Return Trip
+3422	45	45		3	16	1		0	0	unchanged	0			<UNUSED>
+3423	45	45		3	16	1		0	0	unchanged	0			<UNUSED>
+3424	45	45		3	16	1		0	0	unchanged	0			<UNUSED>
+3425	48	48		3	16	1		0	0	unchanged	0			<UNUSED>
+3449	52	45	2550	1	1537	0		0	0	unchanged	0			Arcane Runes
+3461	52	45	7600	1	1537	0		0	0	unchanged	0	10707,10708		Return to Tymor
+3503	55	45		3	16	1		0	0	unchanged	0			Meeting with the Master
+3504	53	44	2650	2	1637	1		0	0	updated	0			Betrayed
+3505	53	44	3950	2	16	1		0	0	updated	0			Betrayed
+3506	56	44	4350	2	1637	1		0	0	unchanged	0			Betrayed
+3507	56	44	7300	2	1637	1		0	0	unchanged	0	10709,11120		Betrayed
+3508	58	45	3100	3	16	1		0	0	unchanged	0			Breaking the Ward
+3509	58	45	6200	3	16	1		0	0	unchanged	0			The Name of the Beast
+3510	58	45	6200	3	16	1	1	0	0	unchanged	26500			The Name of the Beast
+3511	58	45	3100	3	16	1		0	0	unchanged	0			The Name of the Beast
+3515	42	45	3450	3	16	1		0	0	unchanged	0			<UNUSED>
+3517	52	45	5100	2	16	1		0	0	updated	0			Stealing Knowledge
+3518	52	45	2550	2	16	1		0	0	updated	0			Delivery to Magatha Grimtotem
+3529	52	45		3	16	1		0	0	unchanged	0			<UNUSED>
+3541	52	45	2550	2	16	1		0	0	unchanged	4000			Delivery to Jes'rimon
+3542	52	45	2550	2	16	1		0	0	unchanged	6000			Delivery to Andron Gant
+3561	52	45	2550	2	16	1		0	0	unchanged	4000			Delivery to Archmage Xylem
+3562	52	45	6350	2	16	1		0	0	updated	6000			Magatha's Payment to Jediga
+3563	52	45	6350	2	16	1		0	0	updated	6000			Jes'rimon's Payment to Jediga
+3564	52	45	6350	2	16	1		0	0	updated	7500			Andron's Payment to Jediga
+3565	52	45	3800	2	16	1		0	0	unchanged	6000			Xylem's Payment to Jediga
+3601	53	47	6550	3	16	1		0	0	unchanged	800		10830	Kim'jael Indeed!
+3602	58	45	7750	3	16	1	1	0	0	unchanged	26500			Azsharite
+3621	58	45	4650	3	16	1		0	0	unchanged	0			The Formation of Felbane
+5141	55	40	4200	1	-182	5		0	0	unchanged	0			Dragonscale Leatherworking
+5534	53	47	6550	3	16	1		0	0	unchanged	16000			Kim'jael's "Missing" Equipment
+5535	47	45	4200	3	16	1		0	0	unchanged	5000			Spiritual Unrest
+5536	47	45	4200	3	16	1		0	0	unchanged	7000			A Land Filled with Hatred
+6804	56	55	4350	3	16	1		0	0	unchanged	0			Poisoned Water
+6805	57	55	6000	3	16	1		0	0	unchanged	0			Stormers and Rumblers
+6821	60	55	8300	3	16	1	62	0	0	unchanged	0			Eye of the Emberseer
+6822	60	55	9950	3	16	1	62	0	0	unchanged	0			The Molten Core
+6823	60	55	9950	3	16	1		0	0	unchanged	0			Agent of Hydraxis
+6824	60	55	9950	3	16	1	62	0	0	unchanged	0			Hands of the Enemy
+7486	60	55	9950	3	16	1		0	0	unchanged	0	18399,18398		A Hero's Reward
+8151	52	50	510	3	-261	4		4	0	unchanged	0			The Hunter's Charm
+8153	52	50	5100	3	-261	4		4	0	unchanged	0			Courser Antlers
+8231	52	50	5100	3	-261	4		4	0	unchanged	0			Wavethrashing
+8232	52	50	6350	3	-261	4	81	4	0	updated	0	19991,19992,20083	20083,19991,19992	The Green Drake
+8234	52	50	5100	3	-162	4		8	0	unchanged	6000			Sealed Azure Bag
+8235	52	50	5100	3	-162	4		8	0	unchanged	7500			Encoded Fragments
+8236	52	50	6350	3	-162	4	81	8	0	updated	7500	19982,19984,20255	19984,20255,19982	The Azure Key
+8250	52	50	510	3	-161	4		128	0	unchanged	0			Magecraft
+8251	52	50	5100	3	-161	4		128	0	unchanged	0			Magic Dust
+8252	52	50	5100	3	-161	4		128	0	unchanged	7500			The Siren's Coral
+8253	52	50	6350	3	-161	4	81	128	0	updated	15500	20035,20036,20037	20035,20037,20036	Destroy Morphaz
+8254	52	50	510	3	-262	4		16	0	unchanged	0			Cenarion Aid
+8255	52	50	5100	3	-262	4		16	0	unchanged	0			Of Coursers We Know
+8256	52	50	5100	3	-262	4		16	0	unchanged	0			The Ichor of Undeath
+8257	52	50	6350	3	-262	4	81	16	0	updated	15500	19990,20006,20082	19990,20082,20006	Blood of Morphaz
+8575	60	60	6600	3	16	1		0	0	unchanged	0			Azuregos's Magical Ledger
+8720	60	1		3	-366	9		0	0	unchanged	0		21100	Skygleam the Elder
+8729	60	60	9950	3	16	1	62	0	0	unchanged	0	21526,21527		The Wrath of Neptulon
+9362	60	60	6600	3	-161	4		128	0	unchanged	0			Warlord Krellian
+9364	60	60	6600	3	-161	4		128	0	unchanged	0			Fragmented Magic
+86746	53	47	5250	1	16	1		0	0	new	8000			The Legashi Threat
+86747	53	47	530		16	1		0	0	new	0			Legashi Horns
+86752	53	47	530		16	1		0	0	new	0			Report to Rageroar
+86777	53	47	5250		16	1		0	0	new	0	259892,260166,260167		Master Feardred
+86791	53	47	530		16	1		0	0	new	0			Missing Blackmaw Scouts
+86792	54	47	5450		16	1		0	0	new	4000			Thinning Their Forces
+86796	54	47	5450		16	1		0	0	new	6000			Later, Satyr
+86797	53	47	530		16	1		0	0	new	0			Return to Rageroar
+86798	55	47	560		1216	1		0	0	new	0			Timbermaw Reinforcements
+86799	53	47	530		16	1		0	0	new	0			Encroaching Corruption
+86804	53	47	3950		16	1		0	0	new	0			An Unlikely Source
+86812	53	47	3950		16	1		0	0	new	0		255731	Transmuted Tincture
+86813	53	47	2650		16	1		0	0	new	0	260171,260168,260169		Potential Panacea
+86814	55	47	7050		16	1	1	0	0	new	4000	260183,260184,260185		Blackmaw Counter-Offensive
+86925	53	47	5250		16	1		0	0	new	0			Toil and Trouble
+86926	53	47	5250		16	1		0	0	new	0			Felfire Burn, Cauldron Bubble
+86927	53	47	5250		16	1		0	0	new	0		236754	Running Firewater
+87346	55	47	5650		16	1		0	0	new	0			Chieftain Bloodmaw
+88807	48	45	4400	1	16	1		0	0	new	7000			Slay the Spitelash
+88809	52	45	5100	1	16	1		0	0	new	7500			Preserving Eldarath
+88812	55	47	5650	1	16	1		0	0	new	8500			Reclaiming Ravencrest
+88813	55	47	5650	1	16	1		0	0	new	0	260208,260209		The Head of the Serpent
+88821	51	47	490	1	16	1		0	0	new	0			Making Contact
+88857	47	45	4200	1	16	1		0	0	new	5000			Saving a Sentinel
+88884	52	47	5100	1	16	1		0	0	new	0			Highborne Tablets
+88917	52	47	5100	1	16	1		0	0	new	0			Slithering Looters
+89001	48	45	4400	1	16	1		0	0	new	0			Home on the Range
+89013	48	45	4400	1	16	1		0	0	new	0		290333,250999,250955	Gettin' Buzzed
+89015	56	50	5800	1	16	1	1	0	0	new	0	260210,260211,260212		Deadliest Catch
+89037	52	47	5100	1	16	1		0	0	new	0	260180,260181,260182		Murloc Thieves
+89038	55	47	5650	1	16	1		0	0	new	4000			A Monumental Task
+89053	55	47	5650	1	16	1		0	0	new	0	260201,260205,260207		Your Final Reward
+89228	48	45	4400	1	16	1		0	0	new	7000			Winter Frontier Fishery
+89470	55	47	2800	1	16	1		0	0	new	8500			Ill Tidings
+90813	53	50	6550	1	16	1		0	0	new	0		243299	Pay Dirt!
+91488	48	45	4400	2	16	1		0	0	new	0			Home on the Range
+91497	53	44	5250	2	16	1		0	0	new	0			Seals of the Sin'dorei
+91500	55	44	4200	2	16	1		0	0	new	0			An Explosive Gambit
+91531	55	44	5650	2	1637	1		0	0	new	4000	10709,11120,287075		Revenge Exacted
+91538	55	44	560	2	16	1		0	0	new	0			Sin'dorei Tome of Summoning
+91547	55	44	560	2	16	1		0	0	new	0			Sin'dorei Tome of Summoning
+91568	51	45	4900	2	16	1		0	0	new	1900			Long Walks on the Beach
+91569	53	45	3950	2	16	1		0	0	new	0			Blue Gold
+91607	53	50	6550	2	16	1		0	0	new	0		243299	Pay Dirt!
+91608	48	45	4400	2	16	1		0	0	new	0		290333,250999,250955	Gettin' Buzzed
+91610	48	45	4400	2	16	1		0	0	new	0		259890	Winter Frontier Fishery
+91611	56	50	5800	2	16	1	1	0	0	new	0	260210,260211,260212		Deadliest Catch
+91685	54	45	6800	2	16	1	1	0	0	new	16500	260172,260178,260179		Ley of the Land
+91734	52	44	510	2	16	1		0	0	new	0			Remote Contact
+91735	52	44	510	2	16	1		0	0	new	0			Remote Contact
+91737	52	44	510	2	16	1		0	0	new	0			Remote Contact
+91877	55	55	560		16	1		0	0	new	0			Demon Hunter's Hunter
+92069	58	45	6200		16554	2	81	0	0	new	0	260213,260214,260215		Claws That Rend, Tusks that Gore
+92070	55	47	5650		16554	2	81	0	0	new	0	279893		A Lost Memento
+92345	55	45	560	1	16	1		0	0	new	0			Beneath Nordrassil
+92346	55	45	560	2	16	1		0	0	new	0			Beneath Nordrassil
+94316	60	1			16941	0		0	0	new	0			Craftsman's Writ: Potion of Demonslaying
+97327	60	55	6600		16554	2	81	0	0	new	9000			Blackmaw Pouches
+98096	47	45	420		16	1		0	0	new	0			Sisters In Duty

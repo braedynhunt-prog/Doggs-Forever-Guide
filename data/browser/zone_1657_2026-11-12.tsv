@@ -1,0 +1,170 @@
+ZONE	/forever/zone=1657/darnassus
+26	16	16	115	1	-263	4		1024	4294967304	unchanged	0			A Lesson to Learn
+162	49	39	5700	1	440	1		0	0	unchanged	0			Rise of the Silithid
+730	14	14	490	1	1657	1		0	0	unchanged	0			Trouble In Darkshore?
+741	20	15	1150	1	148	1		0	0	unchanged	0	5629,5630,11936		The Absent Minded Prospector
+922	7	4	315	1	141	1		0	0	updated	0			Rellian Greenspyre
+923	9	4	980	1	141	1		0	0	unchanged	600		5605	Tumors
+935	11	1	1100	1	141	1		0	0	unchanged	0	5596,5595		Crown of the Earth
+940	11	6	440	1	141	1		0	0	updated	0		281250	Teldrassil
+942	20	15	1550	1	148	1		0	0	unchanged	0			The Absent Minded Prospector
+952	17	6	1250	1	148	1		0	0	updated	0			Grove of the Ancients
+1015	55	54	560	1	1519	0		0	0	unchanged	0			The New Frontier
+1019	55	54	560	1	1537	0		0	0	unchanged	0			The New Frontier
+1037	30	25	610	1	331	1		0	0	unchanged	0			Velinde Starsong
+1038	30	25	610	1	331	1		0	0	unchanged	0			Velinde's Effects
+1039	30	25	1200	1	331	1		0	0	unchanged	0			The Barrens Port
+1044	30	25	3050	1	331	1		0	0	unchanged	0	5817,5818		Answered Questions
+1047	55	54	560	1	1657	1		0	0	unchanged	0			The New Frontier
+1081	28	17	3400	1	406	1		0	0	unchanged	0	7334,7335,7336	6678	Reception from Tyrande
+1142	30	25	3050	1	491	2	81	0	0	updated	0	6751,6752,270047		Mortality Wanes
+1198	24	18	2400	1	719	2	81	0	0	unchanged	0			In Search of Thaelrid
+1199	25	20	2550	1	719	2	81	0	0	updated	0	6998,7000,270025	270025	Twilight Falls
+1200	27	18	3300	1	719	2	81	0	0	updated	6500	7001,7002,270031,270032		Blackfathom Villainy
+1582	18	8	1350	1	-182	5		0	0	unchanged	0		6710	Moonglow Vest
+1683	10	10	840	1	-81	4		1	0	updated	0			Vorlus Vilehoof
+1684	10	10	85	1	-81	4		1	0	unchanged	0			Elanaria
+1686	10	10	840	1	-81	4		1	0	unchanged	0			The Shade of Elura
+1692	10	10	420	1	-81	4		1	0	unchanged	0			Smith Mathiel
+1693	10	10	630	1	-81	4		1	0	unchanged	0	6966,6968,6969,6967		Weapons of Elunite
+1698	20	20	155	1	-81	4		1	0	unchanged	0			Yorus Barleybrew
+1703	28	20	1150	1	-81	4		1	8	unchanged	0			Mathiel
+1710	30	20	1850	1	-81	4		1	0	unchanged	0			Sunscorched Shells
+1711	30	20	3050	1	-81	4		1	0	unchanged	0		6973	Mathiel's Armor
+2241	10	10	420	1	-162	4		8	0	unchanged	0			The Apple Falls
+2242	10	10	840	1	-162	4		8	0	unchanged	0		7298	Destiny Calls
+2259	16	16	115	1	-162	4		8	0	unchanged	0			Erion Shadewhisper
+2260	16	16	580	1	-162	4		8	0	unchanged	0			Erion's Behest
+2498	9	4	80	1	141	1		0	0	unchanged	0			Return to Denalan
+2518	12	5	1150	1	1657	1		0	0	unchanged	1000			Tears of the Moon
+2519	10	5	85	1	1657	1		0	0	unchanged	0			The Temple of the Moon
+2520	12	5	910	1	1657	1		0	0	unchanged	0	9600,9601		Sathrah's Sacrifice
+2853	45	30	3900	1	-182	5		0	0	unchanged	0		8408	Master of the Wild Leather
+2925	30	24	245	1	721	2	81	0	0	unchanged	0			Klockmort's Essentials
+2972	47	38	5250	1	357	1		0	0	unchanged	0	10705,10706		Doling Justice
+3370	25	10	2000	1	17	1		0	0	unchanged	0	10657,10658		In Nightmares
+3378	50	40	5900	1	51	0		0	0	unchanged	14500	10745,10746		Prayer to Elune
+3622	41	41		3	1657	1		0	0	unchanged	0			<UNUSED>
+3763	50	47	470	1	1657	1		0	0	unchanged	0			Assisting Arch Druid Staghelm
+3764	50	47	4700	1	1657	1		0	0	unchanged	14500			Un'Goro Soil
+3781	50	47	470	1	1657	1		0	0	unchanged	0		11022	Morrowgrain Research
+3785	50	47	4700	1	1657	1		0	0	unchanged	0		11887	Morrowgrain Research
+3788	50	47	470	1	1657	1		0	0	unchanged	0			Jonespyre's Request
+3789	50	47	470	1	1519	0		0	0	unchanged	0			Assisting Arch Druid Staghelm
+3790	50	47	470	1	1537	0		0	0	unchanged	0			Assisting Arch Druid Staghelm
+3791	50	47	4700	1	1657	1		0	0	unchanged	0	11888,11889		The Mystery of Morrowgrain
+3792	55	47	560	1	1657	1		0	0	unchanged	0		11022	Morrowgrain to Feathermoon Stronghold
+3803	55	47	560	1	1657	1		0	0	unchanged	0		11887	Morrowgrain to Darnassus
+4267	46	40	405	1	357	1		0	0	unchanged	0			Rise of the Silithid
+4493	53	50	530	1	1657	1		0	0	unchanged	0			March of the Silithid
+4508	54	50	540	1	440	1		0	0	unchanged	0			Calm Before the Storm
+4510	54	50	8150	1	1657	1		0	0	unchanged	0	11870,11871,11872		Calm Before the Storm
+4902	57	52	6000	1	618	1		0	0	unchanged	0	16622,16623		Wildkin of Elune
+4986	56	51	5800	1	28	0		0	0	unchanged	0		15804	Glyphed Oaken Branch
+5061	16	16	1150	1	-263	4		1024	4294967304	updated	0		16608,263411	Aquatic Form
+5091	50	50	470	1	1657	1		0	0	unchanged	0			A Call to Arms: The Plaguelands!
+5253	58	53	6200	1	618	1		0	0	unchanged	0	15791,15792,15795		The Crystal of Zin-Malor
+5627	10	10		1	-262	4		16	8	unchanged	0			Stars of Elune
+5628	10	10	210	1	-262	4		16	8	unchanged	0			Returning Home
+5629	10	10	210	1	-262	4		16	8	unchanged	0			Returning Home
+5630	10	10	210	1	-262	4		16	8	unchanged	0			Returning Home
+5631	10	10	210	1	-262	4		16	8	unchanged	0			Returning Home
+5633	10	10	210	1	-262	4		16	8	unchanged	0			Returning Home
+5640	10	10	210	1	-262	4		16	4	updated	0			Desperate Prayer
+5647	20	20	390	1	-262	4		16	4	updated	0			Chastise
+5672	20	20		1	-262	4		16	8	unchanged	0			Elune's Grace
+5673	20	20	390	1	-262	4		16	8	unchanged	0			Elune's Grace
+5674	20	20	390	1	-262	4		16	8	updated	0			Elune's Grace
+5675	20	20	390	1	-262	4		16	8	unchanged	0			Elune's Grace
+5678	20	20	390	1	-262	4		16	1	unchanged	0			Arcane Feedback
+5921	10	10	210	1	-263	4		1024	8	unchanged	0			Moonglade
+5923	10	10	85	1	-263	4		1024	8	unchanged	0			Heeding the Call
+5924	10	10	85	1	-263	4		1024	8	unchanged	0			Heeding the Call
+5925	10	10	85	1	-263	4		1024	8	unchanged	0			Heeding the Call
+5931	10	10	85	1	-263	4		1024	8	unchanged	0			Back to Darnassus
+6001	10	10	840	1	-263	4		1024	8	updated	0			Body and Heart
+6071	10	10	85	1	-261	4		4	8	unchanged	0			The Hunter's Path
+6103	10	10	420	1	-261	4		4	8	updated	0			Training the Beast
+6121	14	14	100	1	-263	4		1024	4294967304	updated	0			Lessons Anew
+6125	14	14	980	1	-263	4		1024	4294967304	updated	0			Power over Poison
+6344	10	10	210	1	1657	1		0	8	unchanged	0			Nessa Shadowsong
+6761	55	54	560	1	1657	1		0	0	unchanged	0			The New Frontier
+6762	55	54	1400	1	1657	1		0	0	unchanged	0			Rabine Saturna
+7494	57	54	1500	1	2557	2	81	0	0	updated	0			Feathermoon Stronghold
+7792	60	12	660	1	1657	1		0	0	unchanged	0			A Donation of Wool
+7798	60	26	1650	1	1657	1		0	0	unchanged	0			A Donation of Silk
+7799	60	40	3300	1	1657	1		0	0	unchanged	0			A Donation of Mageweave
+7800	60	50	6600	1	1657	1		0	0	unchanged	0			A Donation of Runecloth
+7801	60	50		1	1657	1		0	0	unchanged	0			Additional Runecloth
+8151	52	50	510	3	-261	4		4	0	unchanged	0			The Hunter's Charm
+8233	52	50	510	3	-162	4		8	0	unchanged	0			A Simple Request
+8357	60	10		1	-1003	9		0	0	unchanged	0		20496	Dancing for Marzipan
+8371	60	51	8300	1	-25	6	41	0	0	updated	27000			Concerted Efforts
+8372	19	10	1450	1	3277	6	41	0	0	updated	1100			Fight for Warsong Gulch
+8374	29	20	2350	1	3358	6	41	0	0	updated	2500			Claiming Arathi Basin
+8375	60	51	8300	1	2839	0	41	0	0	updated	18000			Remember Alterac Valley!
+8383	60	51	3300	1	2839	0	41	0	0	unchanged	0			Remember Alterac Valley!
+8384	29	20	1200	1	45	0	41	0	0	updated	0			Claiming Arathi Basin
+8385	60	51	6600	1	1537	0	41	0	0	unchanged	0			Concerted Efforts
+8386	19	10	730	1	3277	6	41	0	0	updated	0			Fight for Warsong Gulch
+8391	39	30	1500	1	3358	6	41	0	0	updated	0			Claiming Arathi Basin
+8392	49	40		1	3358	6	41	0	0	updated	0			Claiming Arathi Basin
+8393	39	30	3000	1	3358	6	41	0	0	updated	4500			Claiming Arathi Basin
+8394	49	40		1	3358	6	41	0	0	updated	7000			Claiming Arathi Basin
+8395	59	50	6400	1	3358	6	41	0	0	updated	9000			Claiming Arathi Basin
+8396	60	60	6600	1	3358	6	41	0	0	updated	9000			Claiming Arathi Basin
+8397	59	50	3200	1	3358	6	41	0	0	updated	0			Claiming Arathi Basin
+8398	60	60	3300	1	3358	6	41	0	0	updated	0			Claiming Arathi Basin
+8399	29	20	2350	1	3277	6	41	0	0	updated	2500			Fight for Warsong Gulch
+8400	39	30	3000	1	3277	6	41	0	0	updated	4500			Fight for Warsong Gulch
+8401	49	40		1	3277	6	41	0	0	updated	7000			Fight for Warsong Gulch
+8402	59	50	6400	1	3277	6	41	0	0	updated	9000			Fight for Warsong Gulch
+8403	60	60	6600	1	3277	6	41	0	0	updated	9000			Fight for Warsong Gulch
+8404	29	20	1200	1	0	-2		0	0	updated	0			Fight for Warsong Gulch
+8405	39	30	3000	1	0	-2		0	0	updated	4500			Fight for Warsong Gulch
+8406	49	40		1	0	-2		0	0	updated	0			Fight for Warsong Gulch
+8407	59	50	3200	1	3277	6	41	0	0	updated	0			Fight for Warsong Gulch
+8408	60	60	3300	1	0	-2		0	0	updated	0			Fight for Warsong Gulch
+8417	52	50	510	3	-81	4		1	0	unchanged	0			A Troubled Spirit
+8718	60	1		3	-366	9		0	0	unchanged	0		21100	Bladeswift the Elder
+8797	60	1	660	1	-365	7		0	0	unchanged	0			The Alliance Needs Your Help!
+8830	60	1		1	-367	7		0	0	unchanged	0			One Commendation Signet
+8831	60	1		1	-367	7		0	0	unchanged	0			Ten Commendation Signets
+8867	60	1		3	-366	9		0	0	unchanged	0		21711	Lunar Fireworks
+8870	60	1		1	-366	9		0	0	unchanged	0			The Lunar Festival
+8871	60	1		1	-366	9		0	0	unchanged	0			The Lunar Festival
+8872	60	1		1	-366	9		0	0	unchanged	0			The Lunar Festival
+8873	60	1		2	-366	9		0	0	unchanged	0			The Lunar Festival
+8874	60	1		2	-366	9		0	0	unchanged	0			The Lunar Festival
+8875	60	1		2	-366	9		0	0	unchanged	0			The Lunar Festival
+8883	60	1	660	3	-366	9		0	0	unchanged	0			Valadar Starsong
+8899	60	1		1	-1004	9		0	0	unchanged	0			Dearest Colara,
+8981	60	1		2	-1004	9		0	0	unchanged	0	22218,22200	21812	Gift Giving
+8993	60	1		1	-1004	9		0	0	unchanged	0	22218,22200	21812	Gift Giving
+9063	52	50	510	3	-263	4		1024	40	unchanged	0			Torwa Pathfinder
+9094	60	50		1	0	-2		0	0	unchanged	0	23084,23081,23082,23078		Argent Dawn Gloves
+9154	60	50		3	-368	7		0	0	unchanged	0			Light's Hope Chapel
+9262	10	1	630	1	-368	7		0	0	unchanged	250			Investigate the Scourge of Darnassus
+9317	60	50		1	0	-2		0	0	unchanged	0		23122	Consecrated Sharpening Stones
+9318	60	50		1	0	-2		0	0	unchanged	0		23123	Blessed Wizard Oil
+9321	60	50		1	0	-2		0	0	unchanged	0		13446	Major Healing Potion
+9337	60	50		1	0	-2		0	0	unchanged	0		13444	Major Mana Potion
+9341	60	50		1	-368	7		0	0	unchanged	0		22999	Tabard of the Argent Dawn
+78916	25	25		1	719	2		0	0	updated	0	211451,211450,211449		The Heart of the Void
+92344	55	45	5650	1	16554	2	81	0	0	new	0			Get to the Roots of It
+92345	55	45	560	1	16	1		0	0	new	0			Beneath Nordrassil
+95511	40	40	1550	1	1657	1		0	8	new	0	8629,8631,8632,274706		Your First Feline Friend
+97074	40	40		1	1657	1		0	8	new	0			Learning to Ride
+97943	6	4	270	1	-666	-2		0	8	new	0			Camping 101: Fishing
+97950	6	4	270	1	-666	-2		0	72	new	0			Camping 101: Tailoring
+98046	11	1	90	1	141	1		0	8	new	0			Crown of the Earth
+98065	11	1	90	1	141	1		0	4294967304	new	0			Crown of the Earth
+98067	11	1	660	1	1657	1		0	0	new	0			Eyes of the Sentinels
+98096	47	45	420		16	1		0	0	new	0			Sisters In Duty
+98391	10	5	85	1	1657	1		0	4294967304	new	0			The Sisterhood of Elune
+98393	20	20	390	1	-263	4		1024	4294967304	new	0			The Great Cat Spirit
+98397	20	20	155	1	-263	4		1024	4294967304	new	0			To Darnassus
+98895	39	30	1500	1	16606	6	41	0	0	new	4500			Darkspear Islands Clash
+98896	39	30		1	16606	6	41	0	0	new	0			Darkspear Islands Clash
+98897	49	40			16606	6	41	0	0	new	7000			Darkspear Islands Clash
+99205	60	60		1	1657	1		0	8	new	0			Swift as the Wind
