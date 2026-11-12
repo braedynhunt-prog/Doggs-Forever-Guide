@@ -1,0 +1,34 @@
+#WOWHEAD_MAPS 2026-11-11
+n255906	Snargl | L40 Elite | zone 44 n=2 centre 45.5,17.9 x45.4-45.7 y17.6-18.2 first 45.4,18.2 / 45.7,17.6 ; zone 16591 n=3 centre 16.5,72.7 x16-16.9 y72.4-73.2 first 16,73.2 / 16.6,72.6 / 16.9,72.4
+n256899	Chogg'Zac | L41 Elite | zone 16591 n=3 centre 45.5,51.4 x45-45.8 y50.5-52.3 first 45,50.5 / 45.8,51.4 / 45.8,52.3
+n262169	Twilight Ritualist | L39 - 41  | zone 16591 n=22 centre 47.8,49.6 x45-50.3 y46.8-52.1 first 45,50.4 / 45.3,51.5 / 45.6,51.9
+n261711	Empowered Brute | L38 - 39  | zone 16591 n=17 centre 47.7,50.1 x44.9-50.3 y48-52.1 first 44.9,51 / 45.2,52.1 / 45.6,51.7
+n259054	Wildplains Patriarch | L38 - 39  | zone 16591 n=25 centre 59.4,53.8 x57.2-61.6 y51.4-57.3 first 57.2,51.8 / 57.4,52.6 / 57.8,52.2
+n258574	Mudfin Warrior | L37 - 38  | zone 16591 n=22 centre 48.1,72.8 x43.1-52 y57-82.7 first 43.1,59 / 43.4,59.6 / 43.6,57.7
+n256881	Overlord Kilgar | L46 Elite | zone 16591 n=5 centre 26.3,44.1 x26-26.6 y43.3-44.7 first 26,43.3 / 26.1,44.3 / 26.2,44.6
+n262473	Cinderscale Whelp | L39 - 40  | zone 16591 n=12 centre 30.1,72.2 x29.1-31.9 y69.4-74.8 first 29.1,72.4 / 29.2,70.4 / 29.3,73.1
+n262477	Cinderscale Warrior | L41 - 42  | zone 16591 n=13 centre 29.8,72.6 x29.3-30.7 y70.4-74.6 first 29.3,70.4 / 29.4,70.7 / 29.4,72.1
+n257916	Eastsea Bombardier | L43 - 44  | zone 16591 n=27 centre 81.9,33.0 x77.7-90.5 y25.4-42.2 first 77.7,32.1 / 78,33.9 / 78.2,34.5
+n260244	Monstrous Threshadon | L42  | zone 16591 n=2 centre 74.4,72.5 x74.4-74.4 y72.4-72.5 first 74.4,72.4 / 74.4,72.5
+n263141	Scaldaron | L43 Rare Elite | zone 16591 n=3 centre 30.8,72.5 x30.4-31.3 y72.2-73 first 30.4,72.2 / 30.7,72.4 / 31.3,73
+n259056	Komuk | L45 Elite | zone 16591 n=1 centre 70.7,32.6 x70.7-70.7 y32.6-32.6 first 70.7,32.6
+n260235	Trapclaw | L42  | zone 16591 n=7 centre 82.8,51.7 x81.2-86.2 y50.4-53.5 first 81.2,50.4 / 81.2,50.9 / 81.8,53.5
+n257001	Old Rot-Chum | L42 Elite | zone 16591 n=6 centre 77.1,73.3 x75.7-78 y71.4-77 first 75.7,77 / 76.8,73.9 / 77.4,72.3
+o624265	Stolen Tools |  | zone 16591 n=20 centre 19.8,68.6 x17.4-22.5 y64-72 first 17.4,72 / 17.5,71.9 / 17.7,70.4
+o624202	Hollow Clam Shell |  | zone 16591 n=1 centre 49.2,78.7 x49.2-49.2 y78.7-78.7 first 49.2,78.7
+o625779	Track |  | zone 16591 n=3 centre 54.6,78.1 x54.2-54.8 y77.9-78.5 first 54.2,77.9 / 54.8,77.9 / 54.8,78.5
+o629484	Hay Bale |  | zone 16591 n=9 centre 54.8,75.7 x53.7-55.9 y74.4-76.9 first 53.7,75.3 / 53.7,75.5 / 53.9,76.9
+o645233	Fresh Apple |  | zone 16591 n=9 centre 63.4,83.4 x61.1-65.6 y81.3-86.1 first 61.1,86.1 / 61.3,83.3 / 61.9,86.1
+o645449	Foreman's Crate |  | zone 16591 n=1 centre 51.1,57.1 x51.1-51.1 y57.1-57.1 first 51.1,57.1
+o645516	Bundle of Wood |  | zone 16591 n=28 centre 38.9,62.1 x37.2-41.6 y57.8-65.8 first 37.2,63.5 / 37.3,61.4 / 37.3,61.5
+o654618	Rog'mar Supply Crate |  | zone 16591 n=20 centre 59.9,36.3 x57.2-62.5 y32.1-40.6 first 57.2,36.3 / 57.3,36.9 / 57.6,36.2
+o623246	Twilight Page |  | zone 16591 n=25 centre 46.5,49.7 x43.3-49.5 y45.2-55.9 first 43.3,47.7 / 44,47.2 / 44.2,50.4
+o648590	Cubic Draconia |  | zone 16591 n=2 centre 30.1,73.3 x30.1-30.1 y73.2-73.5 first 30.1,73.2 / 30.1,73.5
+o629451	Powder Keg |  | zone 16591 n=14 centre 79.0,34.8 x77.7-80.5 y30.9-37.5 first 77.7,33.7 / 77.8,31.8 / 78.2,34.7
+o629472	Admiral's Treasure Chest |  | zone 16591 n=2 centre 90.5,29.4 x90.5-90.5 y29.2-29.5 first 90.5,29.2 / 90.5,29.5
+o649232	Marsh Gas Vent |  | zone 16591 n=18 centre 61.8,58.4 x59.4-64.2 y54.8-61 first 59.4,59.2 / 59.6,59.2 / 60.2,58.4
+o661518	Stolen Shipment |  | zone 33 n=19 centre 24.6,10.8 x22.8-25.9 y8.1-13 first 22.8,11.1 / 22.9,12.2 / 23.2,13
+o626594	Fresh Manure |  | zone 16591 n=12 centre 45.7,80.4 x44.4-46.7 y78.6-81.8 first 44.4,79 / 44.6,78.6 / 45,81.7
+o658116	MISSING
+o656789	MISSING
+#END
