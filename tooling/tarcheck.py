@@ -8,7 +8,9 @@ N = json.load(open(os.path.join(BASE, 'tooling', 'qdb', 'npc.json'), encoding='u
 ZID = {'Dun Morogh': 1, 'Loch Modan': 38, 'Ironforge': 1537, 'Westfall': 40, 'Elwynn Forest': 12, 'Stormwind City': 1519, 'Redridge Mountains': 44,
        'Duskwood': 10, 'Wetlands': 11, 'Darkshore': 148, 'Teldrassil': 141, 'Darnassus': 1657, 'Hillsbrad Foothills': 267, 'Silverpine Forest': 130,
        'Ashenvale': 331, 'Alterac Mountains': 36, 'Arathi Highlands': 45, 'Stranglethorn Vale': 33, 'Stonetalon Mountains': 406, 'The Barrens': 17,
-       'Tirisfal Glades': 85, 'Dustwallow Marsh': 15, 'Badlands': 3, 'Zephras Isle': 16593, 'Moonglade': 493}
+       'Tirisfal Glades': 85, 'Dustwallow Marsh': 15, 'Badlands': 3, 'Zephras Isle': 16593, 'Moonglade': 493,
+       # 11 Nov 2026: the zones the 30-60 chapters add (ids as tooling/guidelib.py ZID)
+       'Desolace': 405, 'Swamp of Sorrows': 8, 'Blasted Lands': 4, 'The Hinterlands': 47, 'Thousand Needles': 400, 'Riverglades': 16591}
 import glob
 # 28 Oct 2026: with no arguments, check every chapter in the addon folder (CLAUDE.md says to run it bare after [G] edits)
 # 1 Nov 2026: the addon folder is guidelib.ADDON (FOREVER_GUIDE overrides it, e.g. a variant's output folder)
