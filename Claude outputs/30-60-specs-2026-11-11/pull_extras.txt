@@ -23,3 +23,13 @@
   Two price rows per ram (20g and 40g, raw copper). So the mount is Apprentice Riding 100g (raw 1,052,631) PLUS a ram at 20g or 40g: which row the game uses is a test-list item. The gold plan's "100g" is the riding skill alone.
 219 Groundskeeper Lomar: Arathi Highlands 27,57 (Wowhead map; not in qdb). Starts and ends 92867.
 254775 Karana: Swamp of Sorrows 26.0,31.4 and seven more points within 24.8-26.8, 31.4-33.6 (the Harborage).
+
+# Third small pull, 11 Nov 2026 (late), after the spec revisions
+273169 The Lost Magic of the Runemasters (96800): ground object 650929, 191/191. 96800 is a normal dungeon quest.
+276916 The Coldbringer's Eye (96773): ground object 660624, 230/230. 96773 is a normal dungeon quest.
+97329 Where's the Key?: starts and ends at npc 268992; Wowhead series 97329 > 97328 > 97331 > 97332 (97328's prerequisite still unverified).
+95798, 95799, 95788: Wowhead shows no series box. 95288 series: 93788 > 94925 > 93976 > 94928 > 95288 > 95293.
+263071 Blademaster Kaijo: level 42 ELITE, Riverglades 57.4,36.8 (5 points). 95912 fails decision 2 (reward is a sword): out.
+263749 Gronok the Butcher: level 44, not elite, 67.4,19.2. 257861 Admiral Lamora: level 45, not elite, 90.5,29.3.
+257926 Farholde Scout: level 38-39, 17 points from 44.2,63.6.
+Captain Dreadrise (260042 and 270884): elite, no map (inside the Drowned City).
