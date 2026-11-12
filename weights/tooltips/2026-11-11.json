@@ -1263,6 +1263,10 @@
   "id": 16084,
   "tooltip": "Expert First Aid - Under Wraps | Item Level 30Requires First Aid (125) |  | Use: Teaches you how to be an expert in first aid, allowing a maximum of 225 first aid skill. | Sell Price: 25s"
  },
+ "Expert Fishing - The Bass and You": {
+  "id": 16083,
+  "tooltip": "Expert Fishing - The Bass and You | Item Level 30Requires Level 20 | Requires Fishing (125) |  | Use: Teaches you how to be an Expert Fisherman, allowing a maximum of 225 fishing skill. | Sell Price: 25s"
+ },
  "Exploding Shot": {
   "id": 3465,
   "tooltip": "Exploding Shot | Item Level 36AmmoBulletAdds 9.5 damage per second |  | Max Stack: 200Sell Price: 9c"
@@ -1978,6 +1982,10 @@
  "Hiking Boots": {
   "id": 263420,
   "tooltip": "Hiking Boots | Item Level 8 | Binds when picked upFeetMail61 Armor | Durability 30 / 30Sell Price: 36c"
+ },
+ "Holy Candle": {
+  "id": 17028,
+  "tooltip": "Holy Candle | Item Level 48 | Max Stack: 20Sell Price: 1s 75c"
  },
  "Homemade Cherry Pie": {
   "id": 8950,
@@ -3031,9 +3039,17 @@
   "id": 274972,
   "tooltip": "Recipe: Briny Seafood Stew | Item Level 50 | Binds when picked upRequires Cooking (200) | Use: Teaches you how to cook Briny Seafood Stew. | Sell Price: 5s | Briny Seafood Stew | Item Level 35 | Requires Level 25 |  | Use: Restores 841 health over 27 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 14 Spell Damage for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 12c | Requires Murloc Eye (2), Tender Crab Meat, Hot Spices"
  },
+ "Recipe: Cooked Glossy Mightfish": {
+  "id": 13940,
+  "tooltip": "Recipe: Cooked Glossy Mightfish | Item Level 45Requires Cooking (225) | Use: Teaches you how to cook Cooked Glossy Mightfish. | Sell Price: 40s | Cooked Glossy Mightfish | Item Level 45 | Requires Level 35 |  | Use: Restores 1338 health over 30 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 30 Attack Power for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 8c | Requires Raw Glossy Mightfish, Soothing Spices"
+ },
  "Recipe: Heavy Kodo Stew": {
   "id": 12240,
   "tooltip": "Recipe: Heavy Kodo Stew | Item Level 40 | Binds when picked upRequires Cooking (200) | Use: Teaches you how to cook Heavy Kodo Stew. | Sell Price: 17s 50c | Heavy Kodo Stew | Item Level 35 | Requires Level 25 |  | Use: Restores 841 health over 27 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 10 Stamina for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 3s | Requires Heavy Kodo Meat (2), Soothing Spices, Refreshing Spring Water"
+ },
+ "Recipe: Jungle Stew": {
+  "id": 12231,
+  "tooltip": "Recipe: Jungle Stew | Item Level 35 | Binds when picked upRequires Cooking (175) | Use: Teaches you how to cook Jungle Stew. | Sell Price: 7s 50c | Jungle Stew | Item Level 45 | Requires Level 35 |  | Use: Restores 1338 health over 30 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 15 Agility for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 3s | Requires Tiger Meat, Refreshing Spring Water, Shiny Red Apple (2)"
  },
  "Recipe: Lean Venison": {
   "id": 5489,
@@ -3058,6 +3074,18 @@
  "Recipe: Pincer Bites": {
   "id": 263513,
   "tooltip": "Recipe: Pincer Bites | Item Level 15Requires Cooking (35) | Use: Teaches you how to cook Pincer Bites. | Sell Price: 50c | Pincer Bites | Item Level 15 | Requires Level 5 |  | Use: Restores 59 health over 18 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 1 Intellect for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 1s | Requires Crawler Claw, Simple Flour"
+ },
+ "Recipe: Plain Ol' Paletusk": {
+  "id": 274977,
+  "tooltip": "Recipe: Plain Ol' Paletusk | Item Level 1 | Binds when picked upRequires Cooking (185) | Use: Teaches you how to cook Plain Ol' Paletusk. | Sell Price: 5s | Plain Ol' Paletusk | Item Level 35 | Requires Level 25 |  | Use: Restores 841 health over 27 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 10 Strength for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 75c | Requires Chunk of Boar Meat (2), Mild Spices"
+ },
+ "Recipe: Roast Raptor": {
+  "id": 12228,
+  "tooltip": "Recipe: Roast Raptor | Item Level 35 | Binds when picked upRequires Cooking (175) | Use: Teaches you how to cook Roast Raptor. | Sell Price: 12s 50c | Roast Raptor | Item Level 25 | Requires Level 15 |  | Use: Restores 531 health over 24 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 5 Intellect for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 3s | Requires Raptor Flesh, Hot Spices"
+ },
+ "Recipe: Rockscale Cod": {
+  "id": 6369,
+  "tooltip": "Recipe: Rockscale Cod | Item Level 30Requires Cooking (175) | Use: Teaches you how to cook Rockscale Cod. | Sell Price: 5s 50c | Rockscale Cod | Item Level 35 | Requires Level 25 |  | Use: Restores 841 health over 27 sec.  Must remain seated while eating. If you spend at least 10 sec eating, you will become well fed and gain 12 Fishing Skill for 15 min. Additionally, experience gained from kills is increased by 5%. |  | Max Stack: 20Sell Price: 6c | Requires Raw Rockscale Cod"
  },
  "Recipe: Skywall Souffle": {
   "id": 263511,
