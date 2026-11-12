@@ -105,6 +105,8 @@ def usable(it, level=None):
         return False, "not equipment"
     if slot in ("Shirt", "Tabard", "Trinket"):
         return False, "cosmetic"
+    if cls == "Plate":                     # 11 Nov 2026: Pauldron of Order was scored as wearable (no plate rule before)
+        return False, "plate (shaman can't wear)"
     if cls == "Mail" and (level is None or level < 40):
         return False, "mail (40+)"
     if cls in ("Sword", "Polearm", "Bow", "Gun", "Crossbow", "Wand"):
