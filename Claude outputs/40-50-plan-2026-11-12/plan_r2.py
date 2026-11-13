@@ -18,7 +18,13 @@ AERIE = {1449, 1450, 1451}
 ULDUM_OUT, ULDUM_BACK = {2963, 2946, 2954}, {2977, 2964}
 TYMOR_OUT, TYMOR_BACK = {3448, 3449, 3450, 3451}, {3461}
 CAPE_EXTRA = {1469, 2990}          # Rhapsody's Tale to Stormwind; Thadius Grimshade at Nethergarde (opens Nekrum's Medallion)
-ELSE = FRIZ_STV | FRIZ_TAN | FRIZ_BACK | SW | AERIE | ULDUM_OUT | ULDUM_BACK | TYMOR_OUT | TYMOR_BACK | CAPE_EXTRA | {95219, 2769, 3520, 2992}
+# 13 Nov, second revision: a quest is counted in the chapter that hands it in (tooling/route_xp.py zone check), and
+# the chapters are ordered by required level: Zul'Farrak and the eastern trip (Searing Gorge, the Explorers' League
+# pickups, the Nethergarde and crater hand-ins) come before Tanaris II, Maraudon, Azshara and Un'Goro.
+DARN = {2972, 4267, 2939, 2940, 162, 3022}   # handed in at Darnassus / Rut'theran on the way to Azshara (chapter 55)
+EAST = {2846, 2991, 2992, 96770, 2963, 3448, 3450, 3451}   # chapter 52: Tabetha, Nethergarde, the crater, Ironforge at 45
+MOVED = DARN | EAST | {2861, 2874, 2941, 2864, 3520, 98233, 95326}
+ELSE = FRIZ_STV | FRIZ_TAN | FRIZ_BACK | SW | AERIE | ULDUM_OUT | ULDUM_BACK | TYMOR_OUT | TYMOR_BACK | CAPE_EXTRA | MOVED | {95219, 2769, 3520, 2992}
 c = lambda q, cat: q['cat'] == cat and q['id'] not in ELSE
 EXTRA = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'chapters_r2.json'), encoding='utf-8'))
 # 13 Nov 2026 revision (Braedyn's answers): the Stormwind leg comes before Aerie Peak (1449 needs 1448), the Badlands
@@ -28,19 +34,19 @@ SEL = {
  '42': lambda q: c(q, '16591'),
  '43': lambda q: q['cat'] == '16842',
  '44': lambda q: q['id'] in SW | AERIE or (c(q, '1519') and q['lv'] <= 45) or c(q, '10'),
- '45': lambda q: q['id'] in FRIZ_STV or (c(q, '33') and q['lv'] <= 42),
- '46': lambda q: q['id'] in FRIZ_TAN or (c(q, '440') and q['lv'] <= 46),
+ '45': lambda q: q['id'] in FRIZ_STV | {95326} or (c(q, '33') and q['lv'] <= 42),
+ '46': lambda q: q['id'] in FRIZ_TAN | {2864} or (c(q, '440') and q['lv'] <= 46),
  '47': lambda q: q['id'] == 95219 or (c(q, '357') and q['lv'] <= 45),
- '48': lambda q: q['id'] in FRIZ_BACK or c(q, '47') or q['id'] in ULDUM_OUT - {2946, 2954} or q['id'] in {3448, 3450, 3451},
- '49': lambda q: c(q, '51'),
- '50': lambda q: q['id'] in CAPE_EXTRA or (c(q, '33') and q['lv'] >= 43),
- '51': lambda q: c(q, '357') and q['lv'] >= 46,
- '52': lambda q: q['cat'] == '2100',
- '53': lambda q: q['id'] in {2946, 2954, 3520} or (c(q, '440') and q['lv'] >= 47 and q['rq'] <= 48),
- '54': lambda q: q['cat'] == '1176' or q['id'] == 2769,
- '55': lambda q: q['id'] in (3449, 5141) or c(q, '16'),
- '56': lambda q: c(q, '490'),
- '57': lambda q: q['id'] in ULDUM_BACK | TYMOR_BACK | {2992},
+ '48': lambda q: q['id'] in FRIZ_BACK or c(q, '47'),
+ '49': lambda q: q['id'] in CAPE_EXTRA | {2874} or (c(q, '33') and q['lv'] >= 43),
+ '50': lambda q: q['id'] in {98233, 2861} or (c(q, '357') and q['lv'] >= 46),
+ '51': lambda q: (q['cat'] == '1176' and q['id'] not in MOVED) or q['id'] in {2769, 3520},
+ '52': lambda q: c(q, '51') or q['id'] in EAST,
+ '53': lambda q: q['id'] in {2946, 2954} or (c(q, '440') and q['lv'] >= 47 and q['rq'] <= 48),
+ '54': lambda q: q['cat'] == '2100',
+ '55': lambda q: q['id'] in (3449, 5141) or q['id'] in DARN or c(q, '16'),
+ '56': lambda q: q['id'] == 2941 or c(q, '490'),
+ '57': lambda q: q['id'] in ULDUM_BACK | TYMOR_BACK,
 }
 W = rx.load_quests()
 used, chapters = set(), []
@@ -54,7 +60,7 @@ unplaced = [q for q in P.values() if q['id'] not in used and q['v'] in REQ + OPT
 # ---- route file
 lines = ['# Round 2 (levels 42-50) of the 30-60 guide: required quests per chapter, 12 Nov 2026.', '# python tooling/route_xp.py docs/40-50-route-2026-11-12.txt', 'start 42.0', 'share 0.65']
 for ch in chapters:
-    lines.append(f"== {ch['n']} {ch['title']} | wants {ch['wants']}")
+    lines.append(f"== {ch['n']} {ch['title']} | wants {ch['wants']} | zones {' '.join(str(z) for z in ch.get('visits', []))}")
     if ch['req']: lines.append(' '.join(str(q['id']) for q in ch['req']))
     if ch['opt']: lines.append('opt: ' + ' '.join(str(q['id']) for q in ch['opt']))
 open(ROUTE, 'w', encoding='utf-8', newline='\n').write('\n'.join(lines) + '\n')

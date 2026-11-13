@@ -15,7 +15,6 @@
 617	OUT	Akiris Reed 31.3% - XP-only optional (Scorching Sash is cloth)
 621	OUT	Zanzil's Mixture 30.6% - XP-only optional
 1258	OUT	Pristine Crawler Leg 36% - XP-only optional (left out of round 1 for the same reason)
-98233	OUT	Jameson's Training Sword 35% - XP-only optional (round 1 ruling)
 642	OUT	Mote of Myzrael 30.4% and the Myzrael chain ends in elites
 1104	OUT	Shimmering Flats, level 30: grey at 42
 1105	OUT	Shimmering Flats, level 30: grey at 42
@@ -200,4 +199,25 @@
 88917	PLAIN	Lady Sesspira's Key from one named mob (level 52, Normal on Wowhead; 37.5% of only 16 sampled kills): one kill, kill her again if it does not drop - she gates the rest of Saria Fairmoon's chain
 732	JUDGE-OUT	the Badlands trip is dropped (Braedyn, 13 Nov): with Forbidden Knowledge out and the Black Box unsourced it held one required quest (this one, 3,600 XP, Boss Tho'grun in the far west)
 2993	LATER	handed in at Aerie Peak after The Divination: round 3
-95327	COND	given by Caravaneer Ruzzgot, where The Big Payback (95326) ends; that quest starts at the ledger where We've Been Robbed! ends and is out (Ruzzgot's Shipment 29.3%). No series on Wowhead, so the link is not proven: taken only if he offers it
+624	LATER	the scroll lies on the Bloodsail ship south of Booty Bay (object 2554, 29.2,88.6) and the three hand-ins are in the Swamp of Sorrows (22.9,48.2), Dustwallow (31.1,66.1) and on the Hinterlands coast (80.8,46.8), in that order: no round-2 chapter reaches them in time. The scroll is picked up in chapter 50 and carried; round 3 (13 Nov zone check)
+580	LATER	12 Pupellyverbos Port lie on the Hinterlands coast (object 2068, 73-82,46-95) among level 48-50 turtles, beside Cortello's Treasure: done with it in round 3 (13 Nov zone check)
+3841	LATER	runs Darnassus - Thousand Needles (Quentin 78.4,74.7) - the Hinterlands (Agnar Beastamer): after the Darnassus stop of chapter 55 no chapter goes there; round 3 (13 Nov zone check)
+7066	LATER	handed in to Keeper Remulos in Moonglade (zone 493), which round 2 never reaches: taken from Zaetar's Spirit after the Princess and carried to round 3 (13 Nov zone check)
+3908	LATER	Linken sends it to Donova Snowden in Winterspring (31.3,45.2): accepted in Un'Goro and carried to round 3 (13 Nov zone check)
+92345	LATER	ends at Darnassus (npc 4217) after Azshara; the Darnassus stop comes before Azshara. 560 XP, carried to round 3 (13 Nov zone check)
+2769	COND	405 XP breadcrumb from Klockmort Spannerspan (Ironforge) to Wizzle Brassbolts at the Mirage Raceway (Thousand Needles 78.1,77.1), a ride north of Gadgetzan; it only opens the optional Gahz'rilla. Taken only if he wants Gahz'rilla
+2766	COND	starts from the OOX-22/FE Distress Beacon: 0.34% per kill over 70 Feralas mob types (Wowhead item page, 1,413 of 419,697 kills, 13 Nov) - rule 12. Taken only if the beacon drops; the rescue is handed in at Booty Bay
+485	COND	starts from the OOX-09/HL Distress Beacon: 0.58% per kill over 49 Hinterlands mob types (Wowhead item page, 509 of 87,752 kills, 13 Nov) - rule 12. Taken only if the beacon drops; the rescue is handed in at Booty Bay
+351	COND	starts from the OOX-17/TN Distress Beacon: 0.41% per kill over 82 Tanaris mob types (Wowhead item page, 1,085 of 263,968 kills, 13 Nov) - rule 12. Taken only if the beacon drops; the rescue is handed in at Booty Bay
+2876	COND	starts from the Ship Schedule, found in 13.4% of Pirate's Footlockers (80 of 595), which 5.6% of the Southsea pirates drop (609 of 10,817; Wowhead item pages 13 Nov): about 0.75% per kill - rule 12. Taken only if it turns up while killing pirates for the other quests
+95326	PLAIN	fill (Braedyn, 13 Nov: mix by judgement - a kill budget of about 25 or less on mobs the route passes). One Ruzzgot's Shipment at 29.29% from the Venture Co. Agents (level 39, 19 spawns) at the ledger where We've Been Robbed! ends: budget about 4 kills
+95327	PLAIN	given by Caravaneer Ruzzgot where The Big Payback (95326) ends; with that quest in (fill, 13 Nov) it is counted. No series on Wowhead, so the offer is on the test list
+606	PLAIN	fill (Braedyn, 13 Nov: mix by judgement). Five Mistvale Giblets at 25.76% from Elder Mistvale Gorillas (level 40-41, 28 spawns south of Booty Bay): budget about 19 kills
+609	COND	three named ogres at the Ruins of Aboraz (level 43-44, not elite): Maury's Clubbed Foot 70.4%, Jon-Jon's Golden Spyglass 58.9%, Chucky's Huge Ring 59.4% - one kill each (rule 12), so all three at once is about one in four. Taken in chapter 45, tried in chapter 50, abandoned if a piece is missing
+2880	PLAIN	fill (Braedyn, 13 Nov: mix by judgement). Five Troll Tribal Necklaces: Vilebranch Witch Doctor 51% and Axe Thrower 32% (level 45-47, not elite) stand at the Altar of Zul, where The Altar of Zul takes him anyway: budget about 13-17 kills
+89001	PLAIN	fill (Braedyn, 13 Nov: mix by judgement). Five Mosshoof Hides: Mosshoof Runner 45% (81 of 180; level 45-47, 29 spawns near Talrendis Point): budget about 11 kills; leave the level 52-53 Coursers
+98233	PLAIN	fill (Braedyn, 13 Nov: mix by judgement). Jameson's Training Sword 35.34% from Corrosive Swamp Oozes (level 38-40) beside Tabetha's farm, where Tiara of the Deep takes him anyway: budget about 3 kills; Guard Jameson is in Theramore
+3445	LATER	needs level 46 and is given at Feathermoon (Angelas Moonbreeze), which the route leaves at about 44.5; with The Stone Circle behind it, round 3 (13 Nov level check)
+86616	LATER	needs level 45 at Aerie Peak; the Hinterlands chapter is played at about 43.5-44: round 3's return to Aerie Peak (13 Nov level check)
+594	COND	the bottle on the Stranglethorn beach starts it and it needs level 45; the Cape chapter is played at about 44: taken only if he is 45 by then
+3444	LATER	follows The Sunken Temple (3445), which needs level 46 at Feathermoon and is left for round 3 (13 Nov level check)

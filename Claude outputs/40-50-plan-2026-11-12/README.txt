@@ -27,3 +27,8 @@ To rebuild the plan after a ruling changes (from the repo root; R = this folder)
 Verdicts: PLAIN, DUN-normal, DUN-boss (one boss holds the item) are required and counted. DUN-grind, GROUP-OPT, COND
 (conditional), ASK (Braedyn's call), GATE (profession gate) are listed as optional and not counted. LATER = round 3.
 OUT and JUDGE-OUT are silent in the guide.
+
+13 Nov 2026, second revision: chapters_r2.json carries "visits" per chapter (the map ids of the zones the chapter goes to);
+plan_r2.py writes them into the route file as '| zones ...' and tooling/route_xp.py checks every hand-in against them. A quest is
+selected into the chapter that hands it in (the DARN, EAST and MOVED sets in plan_r2.py). The chapters are ordered by required
+level: after a ruling changes, read the last lines of route_xp.py (required levels enforced) before trusting the table.

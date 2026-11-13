@@ -60,12 +60,12 @@
 1477	1475	Into The Temple of Atal'Hakkar	50	38	7100	0	DUN-normal		DUNGEON	0	
 1477	1446	Jammal'an the Prophet	53	38	6550	0	DUN-rate?	Head of Jammal'an no rate	DUNGEON DROP	54	Head 85.2 Helm of Exile (+11 Agi +18 Int +17 Spi)
 1477	3528	The God Hakkar	53	40	7900	24000	OUT	chain behind 4787 The Ancient Egg (the Ancient Egg (Hinterlands 57.6,86.8) )	DUNGEON	0	One-Hand 503.2 Lifeforce Dirk (35.9 dps +11 Sta)
-1477	3446	Into the Depths	51	46	4900	0	DUN-normal		DUNGEON	0	
-1477	3447	Secret of the Circle	51	46	6100	0	DUN-normal		DUNGEON	0	
+1477	3446	Into the Depths	51	46	4900	0	LATER	behind 3444 The Stone Circle, which is left for round 3	DUNGEON	0	
+1477	3447	Secret of the Circle	51	46	6100	0	LATER	behind 3444 The Stone Circle, which is left for round 3	DUNGEON	0	
 1477	3373	The Essence of Eranikus	55	48	2800	0	DUN-normal		DUNGEON	0	
 15	1204	Mudrock Soup and Bugs	38	33	2850	0	OUT	below the bracket and nothing kept behind it	PRECHAIN DROP	43	
 15	1258	... and Bugs	40	33	3150	0	OUT	Pristine Crawler Leg 36% - XP-only optional (left out of round 1 for the same reason)	DROP	44	Chest 29.5 Baroque Apron (+6 Str +6 Sta +7 Spi)
-15	98233	Sword in the Slime	42	36	3450	5500	OUT	Jameson's Training Sword 35% - XP-only optional (round 1 ruling)	DROP	40	
+15	98233	Sword in the Slime	42	36	3450	5500	PLAIN	fill (Braedyn, 13 Nov: mix by judgement). Jameson's Training Sword 35.34% from Corrosive Swamp Oozes (level 38-40) beside Tabetha's farm, where Tiara of the Deep takes him anyway: budget about 3 kills; Guard Jameson is in Theramore	DROP	40	
 15	95194	Our Man in Theramore	53	48	1300	0	PLAIN			0	
 15	95196	Watch Yer Back	53	48	1300	0	PLAIN			0	
 15	95198	The Return of the King?	53	48	1300	0	PLAIN			0	
@@ -117,13 +117,13 @@
 16	98096	Sisters In Duty	47	45	420	0	PLAIN		SIDE?	0	
 16	3381	A Meeting with the Master	48	45	2200	0	OUT	no giver in the DB or on Wowhead	NOTINQDB NOSTART NOEND	0	
 16	88807	Slay the Spitelash	48	45	4400	7000	PLAIN			48	
-16	89001	Home on the Range	48	45	4400	0	OUT	drop under 30%: Mosshoof Hide 29.2% (2 droppers, best Mosshoof Runner 45% of 180)	DROP	53	
+16	89001	Home on the Range	48	45	4400	0	PLAIN	fill (Braedyn, 13 Nov: mix by judgement). Five Mosshoof Hides: Mosshoof Runner 45% (81 of 180; level 45-47, 29 spawns near Talrendis Point): budget about 11 kills; leave the level 52-53 Coursers	DROP	53	
 16	89013	Gettin' Buzzed	48	45	4400	0	PLAIN	Wild Honey 60.27% (drop_rates.json 11 Nov)	DROP	49	
 16	89228	Winter Frontier Fishery	48	45	4400	7000	PLAIN			0	
 16	88809	Preserving Eldarath	52	45	5100	7500	OUT	drop under 30%: Eldarath Relic 14.4% (3 droppers, best Spitelash Serpent Guard 27% of 91)	DROP	52	
 16	3421	Return Trip	55	45	0	0	OUT	no XP, nothing kept behind it	NOXP	0	
 16	3503	Meeting with the Master	55	45	0	0	OUT	no XP, nothing kept behind it	NOXP	0	
-16	92345	Beneath Nordrassil	55	45	560	0	PLAIN			0	
+16	92345	Beneath Nordrassil	55	45	560	0	LATER	ends at Darnassus (npc 4217) after Azshara; the Darnassus stop comes before Azshara. 560 XP, carried to round 3 (13 Nov zone check)		0	
 16	88821	Making Contact	51	47	490	0	PLAIN			0	
 16	88884	Highborne Tablets	52	47	5100	0	PLAIN			0	
 16	88917	Slithering Looters	52	47	5100	0	PLAIN	Lady Sesspira's Key from one named mob (level 52, Normal on Wowhead; 37.5% of only 16 sampled kills): one kill, kill her again if it does not drop - she gates the rest of Saria Fairmoon's chain		0	
@@ -170,7 +170,7 @@
 1657	5091	A Call to Arms: The Plaguelands!	50	50	470	0	LATER	Western Plaguelands lead-in, required level 50: round 3		0	
 1657	4493	March of the Silithid	53	50	530	0	PLAIN			0	
 1657	4510	Calm Before the Storm	54	50	8150	0	OUT	chain behind 4508 Calm Before the Storm (chain behind 4507 Pawn Captures Queen (c)		0	Shoulder 24.0 Snarkshaw Spaulders (+12 Str +11 Sta)
-16591	95326	The Big Payback	39	36	3000	0	OUT	drop under 30%: Ruzzgot's Shipment 29.29% (drop_rates.json 11 Nov)	DROP	39	
+16591	95326	The Big Payback	39	36	3000	0	PLAIN	fill (Braedyn, 13 Nov: mix by judgement - a kill budget of about 25 or less on mobs the route passes). One Ruzzgot's Shipment at 29.29% from the Venture Co. Agents (level 39, 19 spawns) at the ledger where We've Been Robbed! ends: budget about 4 kills	DROP	39	
 16591	95984	Song of the Strider	39	36	3000	0	OUT	drop under 30%: Intact Tallstrider Beak 15.56% (drop_rates.json 11 Nov)	DROP	38	
 16591	94679	Snargl's Snout	40	36	3150	0	OUT	elite outside a dungeon (rule 13): Snargl (40 elite); the reward is cloth	GROUP DROP ELITE	40	Chest 42.6 Bristle Hills Mystic Robe (+11 Int +12 SP)
 16591	94829	What We Lost	40	36	2350	0	OUT	Farmers' Mementos 7.26% from Twilight Raiders only (Wowhead tooltip, 13 Nov), five needed, about 69 kills - rule 12. QuestieDB has no objectives for this quest, so the first pass missed it; round 1 ruled it out the same way		0	
@@ -183,7 +183,7 @@
 16591	95321	Tazzik's Dues	40	36	3150	0	COND	Wowhead's series puts it after 95312 Coming to Collect, which is cond: taken only if it is offered		40	
 16591	95322	Get the Goods	40	36	2350	0	PLAIN			0	
 16591	95325	We've Been Robbed!	40	36	2350	0	PLAIN			0	
-16591	95327	All's Well That Ends Well	40	36	3150	0	COND	given by Caravaneer Ruzzgot, where The Big Payback (95326) ends; that quest starts at the ledger where We've Been Robbed! ends and is out (Ruzzgot's Shipment 29.3%). No series on Wowhead, so the link is not proven: taken only if he offers it		0	
+16591	95327	All's Well That Ends Well	40	36	3150	0	PLAIN	given by Caravaneer Ruzzgot where The Big Payback (95326) ends; with that quest in (fill, 13 Nov) it is counted. No series on Wowhead, so the offer is on the test list		0	
 16591	95383	Shipping and Handling	40	36	315	0	COND	Wowhead's series puts it after 95296 Shipping and Handling, which is cond: taken only if it is offered		0	
 16591	95472	Consolation Prize	40	36	2350	0	COND	Wowhead's series puts it after 95321 Tazzik's Dues, which is cond: taken only if it is offered		0	
 16591	95562	Cut Off the Heads	41	36	3300	2500	OUT	elite outside a dungeon (rule 13): Chogg'Zac (41 elite)	GROUP DROP ELITE	41	
@@ -219,7 +219,7 @@
 2100	93404	Rot and Regret	49	35	5700	0	OUT	giver Woodwyrd (254674) stands in Shen'dralas, which is out (11 Nov ruling)	SIDE? DUNGEON	60	Wrist 21.8 Overgrown Cuffs (+7 Agi +7 Sta +14 AP)
 2100	7070	Shadowshard Fragments	42	39	3450	0	DUN-grind	Shadowshard Fragment 45.9% from 3 mob types	DUNGEON DROP	42	Neck 18.0 Prodigious Shadowshard Pendant (+9 SP)
 2100	7067	The Pariah's Instructions	48	39	5450	14000	DUN-normal		DUNGEON	0	
-2100	7066	Seed of Life	51	39	6100	15000	DUN-normal		DUNGEON	0	
+2100	7066	Seed of Life	51	39	6100	15000	LATER	handed in to Keeper Remulos in Moonglade (zone 493), which round 2 never reaches: taken from Zaetar's Spirit after the Princess and carried to round 3 (13 Nov zone check)	DUNGEON	0	
 2100	7028	Twisted Evils	47	41	5250	0	DUN-grind	Theradric Crystal Carving 26.6% from 33 mob types	DUNGEON DROP	51	Chest 53.3 Acumen Robes (+15 Int +14 SP)
 2100	7041	Vyletongue Corruption	47	41	5250	0	DUN-normal		DUNGEON	46	Finger 28.9 Woodseed Hoop (+10 Int +6 SP)
 2100	7044	Legends of Maraudon	49	41	3400	0	DUN-boss	Celebrian Rod and Diamond: Noxxion 43% and Lord Vyletongue 38% on Wowhead over all kills	DUNGEON DROP	48	
@@ -287,14 +287,14 @@
 33	341	Chapter III	40	30	780	0	OUT	drop under 30%: Green Hills of Stranglethorn - Page 20 0.7% (99 droppers, best Ironpatch 6% of 31)	DROP	52	
 33	342	Chapter IV	40	30	780	0	OUT	drop under 30%: Green Hills of Stranglethorn - Page 25 0.8% (96 droppers, best Captain Keelhaul 8% of 36)	DROP	52	
 33	600	Venture Company Mining	41	30	3300	0	OUT	drop under 30%: Singing Blue Crystal 29.6% (6 droppers, best Venture Co. Foreman 38% of 213)	DROP	42	Two-Hand 459.5 Silver Spade (30.1 dps +4 Sta +15 Spi)
-33	606	Scaring Shaky	41	30	3300	0	OUT	drop under 30%: Mistvale Giblets 25.76% (drop_rates.json 11 Nov)	DROP	41	
-33	607	Return to MacKinley	41	30	2450	4000	OUT	chain behind 606 Scaring Shaky (drop under 30%: Mistvale Giblets 25.76% )		0	
-33	609	Voodoo Dues	44	30	3750	6500	OUT	chain behind 607 Return to MacKinley (chain behind 606 Scaring Shaky (drop und)	DROP	44	
-33	613	Cracking Maury's Foot	44	30	4650	0	OUT	chain behind 609 Voodoo Dues (chain behind 607 Return to MacKinley (ch)	GROUP DROP ELITE	45	Legs 58.0 Beggar's Leggings (+12 Spi +14 SP)
+33	606	Scaring Shaky	41	30	3300	0	PLAIN	fill (Braedyn, 13 Nov: mix by judgement). Five Mistvale Giblets at 25.76% from Elder Mistvale Gorillas (level 40-41, 28 spawns south of Booty Bay): budget about 19 kills	DROP	41	
+33	607	Return to MacKinley	41	30	2450	4000	PLAIN			0	
+33	609	Voodoo Dues	44	30	3750	6500	COND	three named ogres at the Ruins of Aboraz (level 43-44, not elite): Maury's Clubbed Foot 70.4%, Jon-Jon's Golden Spyglass 58.9%, Chucky's Huge Ring 59.4% - one kill each (rule 12), so all three at once is about one in four. Taken in chapter 45, tried in chapter 50, abandoned if a piece is missing	DROP	44	
+33	613	Cracking Maury's Foot	44	30	4650	0	COND	behind 609 Voodoo Dues, which is conditional	GROUP DROP ELITE	45	Legs 58.0 Beggar's Leggings (+12 Spi +14 SP)
 33	206	Mai'Zoth	46	30	5050	0	OUT	chain behind 205 Troll Witchery (drop under 30%: Skullsplitter Fetish 17.)	GROUP DROP ELITE	47	Legs 19.0 Archer's Leggings (+17 Agi +6 Sta)
 33	95384	Partial Mystical Notes	40	32	3150	5000	COND	no giver: probably starts from a dropped item (ends at npc 260873); taken only if the item drops	NOSTART DROP	40	
-33	624	Cortello's Riddle	43	35	3600	0	PLAIN			0	
-33	625	Cortello's Riddle	43	35	3600	0	PLAIN			0	
+33	624	Cortello's Riddle	43	35	3600	0	LATER	the scroll lies on the Bloodsail ship south of Booty Bay (object 2554, 29.2,88.6) and the three hand-ins are in the Swamp of Sorrows (22.9,48.2), Dustwallow (31.1,66.1) and on the Hinterlands coast (80.8,46.8), in that order: no round-2 chapter reaches them in time. The scroll is picked up in chapter 50 and carried; round 3 (13 Nov zone check)		0	
+33	625	Cortello's Riddle	43	35	3600	0	LATER	behind 624 Cortello's Riddle, which is left for round 3		0	
 33	95385	Torn Mystical Scroll	43	35	3600	6000	COND	no giver: probably starts from a dropped item (ends at npc 260873); taken only if the item drops	NOSTART	0	Head 23.7 Dudd's Thinkin' Cap (+10 Sta +14 Int)
 33	621	Zanzil's Secret	44	35	3750	6500	OUT	Zanzil's Mixture 30.6% - XP-only optional	DROP	46	Waist 15.2 Belt of Corruption (+9 Sta +9 Int)
 33	1127	Fool's Stout	44	35	0	0	OUT	chain behind 1122 Report Back to Fizzlebub (chain behind 1120 Get the Gnomes Drunk ()	NOXP DROP	46	
@@ -306,7 +306,7 @@
 33	8552	The Monogrammed Sash	50	35	2350	0	OUT	starts from the Monogrammed Sash, which drops from Mok'rash (50 elite) - rule 13		0	
 33	8553	The Captain's Cutlass	50	35	470	0	OUT	behind The Monogrammed Sash (8552)		0	
 33	8554	Facing Negolash	50	35	7100	0	OUT	elite outside a dungeon (rule 13): Negolash (52 elite)	GROUP DROP ELITE	52	Wrist 22.5 First Mate's Armguards (+8 Agi +8 Int)
-33	626	Cortello's Riddle	51	35	6100	0	PLAIN			0	
+33	626	Cortello's Riddle	51	35	6100	0	LATER	behind 625 Cortello's Riddle, which is left for round 3		0	
 33	97332	Twice Misplaced Trust	41	36	3300	0	COND	Wowhead's series puts it after 97331 Zimmix's Great Escape, which is out: taken only if it is offered		0	Finger 8.0 Apology Ring (+6 Sta +4 SP)
 33	587	Up to Snuff	41	37	1650	0	OUT	drop under 30%: Snuff 25.4% (15 droppers, best Brutus 50% of 8)	DROP	48	
 33	209	Skullsplitter Tusks	42	37	3450	5500	OUT	drop under 30%: Skullsplitter Tusk 18.3% (13 droppers, best Skullsplitter Hunter 21% of 708)	DROP	45	
@@ -316,9 +316,9 @@
 33	623	Akiris by the Bundle	43	38	2700	4500	OUT	chain behind 617 Akiris by the Bundle (Akiris Reed 31.3% - XP-only optional (Sc)		0	
 33	97405	Noise Complaints	44	38	4650	0	OUT	elite outside a dungeon (rule 13): Mosh'Ogg Spellcrafter (44 elite), Mosh'Ogg Warmonger (42 elite), Mosh'Ogg Mauler (44 elite), Mosh'Ogg Shaman (44 elite); Mauler's Mutton is a one-hand mace	GROUP ELITE	44	One-Hand 376.6 Mauler's Mutton (25.8 dps +5 Sta +6 Spi)
 33	348	Stranglethorn Fever	45	40	5850	0	PLAIN	Heart of Mokk 100.0% (drop_rates.json 11 Nov)	DROP	44	Back 22.5 Medicine Blanket (+4 Sta +9 Spi)
-33	580	Whiskey Slim's Lost Grog	50	40	4700	0	PLAIN			0	
+33	580	Whiskey Slim's Lost Grog	50	40	4700	0	LATER	12 Pupellyverbos Port lie on the Hinterlands coast (object 2068, 73-82,46-95) among level 48-50 turtles, beside Cortello's Treasure: done with it in round 3 (13 Nov zone check)		0	
 33	3721	An OOX of Your Own	50	40	7100	0	LATER	needs the three OOX rescues (Hinterlands, Feralas, Tanaris); handed in on a Booty Bay pass in round 3		0	
-33	594	Message in a Bottle	45	45	2900	0	PLAIN			0	
+33	594	Message in a Bottle	45	45	2900	0	COND	the bottle on the Stranglethorn beach starts it and it needs level 45; the Cape chapter is played at about 44: taken only if he is 45 by then		0	
 33	630	Message in a Bottle	51	45	7350	0	OUT	elite outside a dungeon (rule 13): King Mukla (51 elite)	GROUP DROP ELITE	51	Wrist 0.0 Poobah's Nose Ring (+12 Sta)
 33	9272	Dressing the Part	55	49	0	0	OUT	no XP, nothing kept behind it	NOXP REP[87, 0]	0	
 331	7864	Sentinel Standard Care Package	44	35	375	0	OUT	needs Silverwing Sentinels reputation	REP[890, 3000]	0	
@@ -327,9 +327,9 @@
 357	2969	Freedom for All Creatures	47	38	3150	0	PLAIN			0	
 357	2970	Doling Justice	47	38	3150	0	PLAIN			44	
 357	2972	Doling Justice	47	38	5250	0	PLAIN			0	Waist 28.0 Nightscale Girdle (+14 Str +2 Sta)
-357	3841	An Orphan Looking For a Home	47	38	1050	0	PLAIN			0	
-357	3842	A Short Incubation	47	38	2100	0	PLAIN			0	
-357	3843	The Newest Member of the Family	47	38	4200	0	PLAIN			0	
+357	3841	An Orphan Looking For a Home	47	38	1050	0	LATER	runs Darnassus - Thousand Needles (Quentin 78.4,74.7) - the Hinterlands (Agnar Beastamer): after the Darnassus stop of chapter 55 no chapter goes there; round 3 (13 Nov zone check)		0	
+357	3842	A Short Incubation	47	38	2100	0	LATER	behind 3841 An Orphan Looking For a Home, which is left for round 3		0	
+357	3843	The Newest Member of the Family	47	38	4200	0	LATER	behind 3842 A Short Incubation, which is left for round 3		0	
 357	4297	Food for Baby	47	38	4200	0	OUT	drop under 30%: Silvermane Stalker Flank 0.22% (drop_rates.json 11 Nov)	DROP	48	
 357	92858	WANTED: Ohk'zi	43	39	4450	3000	OUT	elite outside a dungeon (rule 13): Ohk'zi (43 elite); the staff scores 501.5	GROUP DROP ELITE	43	Two-Hand 501.5 Staff of Brutal Cunning (32.4 dps +6 Int +15 Spi)
 357	2982	The High Wilderness	44	39	3750	6500	PLAIN			45	
@@ -344,8 +344,8 @@
 357	4130	Psychometric Reading	44	40	375	0	PLAIN			0	
 357	4131	The Woodpaw Gnolls	44	40	2800	0	PLAIN			0	
 357	4281	Thalanaar Delivery	44	40	2800	6500	PLAIN			0	
-357	2766	Find OOX-22/FE!	45	40	3900	0	PLAIN			0	
-357	2767	Rescue OOX-22/FE!	45	40	4850	0	PLAIN			0	Shoulder 31.2 Failed Flying Experiment (+10 Str +10 Agi)
+357	2766	Find OOX-22/FE!	45	40	3900	0	COND	starts from the OOX-22/FE Distress Beacon: 0.34% per kill over 70 Feralas mob types (Wowhead item page, 1,413 of 419,697 kills, 13 Nov) - rule 12. Taken only if the beacon drops; the rescue is handed in at Booty Bay		0	
+357	2767	Rescue OOX-22/FE!	45	40	4850	0	COND	behind 2766 Find OOX-22/FE!, which is conditional		0	Shoulder 31.2 Failed Flying Experiment (+10 Str +10 Agi)
 357	2870	Against Lord Shalzaru	45	40	2900	5000	OUT	chain behind 2869 Against the Hatecrest (drop under 30%: Hatecrest Naga Scale 13.)	DROP	47	
 357	2871	Delivering the Relic	45	40	3900	0	OUT	chain behind 2870 Against Lord Shalzaru (chain behind 2869 Against the Hatecrest )		0	Chest 30.4 Dawnrider's Chestpiece (+16 Agi +5 Spi)
 357	2821	The Mark of Quality	46	40	4050	0	OUT	drop under 30%: Thick Yeti Hide 25.5% (5 droppers, best Bloodroar the Stalker 50% of 8)	DROP	48	Hands 30.1 Pratt's Handcrafted Gloves (+10 Str +9 Agi)
@@ -369,7 +369,7 @@
 357	7721	Fuel for the Zapping	48	45	4400	7000	COND	Water Elemental Core 55.5%, ten needed, about 18 kills: optional under rule 11, kept only if Zorbin's Water Resistant Hat (leather head, +9 Sta +14 Int +8 Spi) is an upgrade when he gets there - the spec makes the gear call	DROP	49	Head 43.7 Zorbin's Water Resistant Hat (+9 Sta +14 Int +8 Spi)
 357	7725	Again With the Zapped Giants	55	45	560	2100	OUT	chain behind 7003 Zapped Giants (elite outside a dungeon (rule 13): Land )	DROP	50	
 357	7726	Refuel for the Zapping	55	45	560	2100	OUT	repeatable follow-up of Fuel for the Zapping, 560 XP	DROP	49	
-357	3445	The Sunken Temple	51	46	3650	0	PLAIN			0	
+357	3445	The Sunken Temple	51	46	3650	0	LATER	needs level 46 and is given at Feathermoon (Angelas Moonbreeze), which the route leaves at about 44.5; with The Stone Circle behind it, round 3 (13 Nov level check)		0	
 357	3909	The Videre Elixir	52	47	5100	0	OUT	chain behind Muigin and Larion	DROP	45	
 357	4041	The Videre Elixir	52	47	0	0	OUT	no XP, nothing kept behind it	NOXP	0	
 36	500	Crushridge Bounty	36	30	3500	7500	OUT	drop under 30%: Dirty Knucklebones 18.2% (drop_rates.json 11 Nov)	PRECHAIN DROP	40	
@@ -495,7 +495,7 @@
 400	1120	Get the Gnomes Drunk	44	35	375	0	OUT	chain behind 1119 Zanzil's Mixture and a Fool's Stout (chain behind 621 Zanzil's Secret (Zanzil)		0	
 400	1121	Get the Goblins Drunk	44	35	375	0	OUT	chain behind 1119 Zanzil's Mixture and a Fool's Stout (chain behind 621 Zanzil's Secret (Zanzil)		0	
 400	1122	Report Back to Fizzlebub	44	35	1850	0	OUT	chain behind 1120 Get the Gnomes Drunk (chain behind 1119 Zanzil's Mixture and a)		0	
-400	2769	The Brassbolts Brothers	46	40	405	0	DUN-normal		DUNGEON	0	
+400	2769	The Brassbolts Brothers	46	40	405	0	COND	405 XP breadcrumb from Klockmort Spannerspan (Ironforge) to Wizzle Brassbolts at the Mirage Raceway (Thousand Needles 78.1,77.1), a ride north of Gadgetzan; it only opens the optional Gahz'rilla. Taken only if he wants Gahz'rilla	DUNGEON	0	
 405	1384	Raid on the Kolkar	32	30	2550	0	OUT	below the bracket and nothing kept behind it	PRECHAIN DROP REP[92, 3000]	35	
 405	1386	Assault on the Kolkar	32	30	2550	0	OUT	below the bracket and nothing kept behind it	PRECHAIN REP[93, 3000]	32	
 405	1369	Broken Tears	33	30	2650	0	OUT	below the bracket and nothing kept behind it	PRECHAIN REP[93, 3000]	0	
@@ -539,7 +539,7 @@
 440	2873	Stoley's Shipment	45	40	3900	5000	PLAIN			0	
 440	2874	Deliver to MacKinley	45	40	3900	5000	PLAIN			0	Waist 20.0 Swashbuckler Sash (+10 Str +9 Sta)
 440	2875	WANTED: Andre Firebeard	45	40	3900	13000	PLAIN	Firebeard's Head 59% on a single named mob: one kill only, then abandon (rule 12)	DROP	45	
-440	2876	Ship Schedules	45	40	4850	13000	PLAIN			0	
+440	2876	Ship Schedules	45	40	4850	13000	COND	starts from the Ship Schedule, found in 13.4% of Pirate's Footlockers (80 of 595), which 5.6% of the Southsea pirates drop (609 of 10,817; Wowhead item pages 13 Nov): about 0.75% per kill - rule 12. Taken only if it turns up while killing pirates for the other quests		0	
 440	8365	Pirate Hats Ahoy!	45	40	3900	6500	OUT	drop under 30%: Southsea Pirate Hat 22.4% (7 droppers, best Southsea Dock Worker 30% of 1242)	DROP	47	
 440	8366	Southsea Shakedown	45	40	3900	6500	PLAIN			45	Feet 34.6 Southsea Mojo Boots (+11 Int +8 SP)
 440	97536	Gnomish Garbage	45	40	2900	0	PLAIN			0	
@@ -549,8 +549,8 @@
 440	2741	The Super Egg-O-Matic	47	42	4200	0	PLAIN			0	
 440	3022	Handle With Care	47	42	2100	5000	PLAIN			0	
 440	8893	The Super Egg-O-Matic	47	42	0	0	OUT	no XP, nothing kept behind it	NOXP	0	
-440	351	Find OOX-17/TN!	48	43	4400	0	PLAIN			0	
-440	648	Rescue OOX-17/TN!	48	43	5450	0	PLAIN			0	Wrist 23.7 Reloading Assist Armbands (+10 Agi +5 Spi)
+440	351	Find OOX-17/TN!	48	43	4400	0	COND	starts from the OOX-17/TN Distress Beacon: 0.41% per kill over 82 Tanaris mob types (Wowhead item page, 1,085 of 263,968 kills, 13 Nov) - rule 12. Taken only if the beacon drops; the rescue is handed in at Booty Bay		0	
+440	648	Rescue OOX-17/TN!	48	43	5450	0	COND	behind 351 Find OOX-17/TN!, which is conditional		0	Wrist 23.7 Reloading Assist Armbands (+10 Agi +5 Spi)
 440	3161	Gahz'ridian	48	43	4400	0	PLAIN			0	Two-Hand 519.6 Staff of Lore (27.6 dps +5 Int +18 Spi +40 SP)
 440	2605	The Thirsty Goblin	49	44	4550	7000	OUT	drop under 30%: Laden Dew Gland 10.81% (drop_rates.json 11 Nov)	DROP	48	
 440	2606	In Good Taste	49	44	455	0	OUT	chain behind 2605 The Thirsty Goblin (drop under 30%: Laden Dew Gland 10.81% ()		0	
@@ -560,7 +560,7 @@
 440	5863	The Dunemaul Compound	49	44	4550	0	PLAIN			49	Hands 48.5 Witherseed Gloves (+13 Spi +8 SP)
 440	2954	The Stone Watcher	50	45	4700	0	PLAIN	typed Group on Wowhead but no kill target: the Stone Watcher is spoken to at the Uldum pedestal	GROUP	60	
 440	3362	Thistleshrub Valley	50	45	4700	7500	PLAIN			50	
-440	3444	The Stone Circle	51	46	4900	0	PLAIN			0	
+440	3444	The Stone Circle	51	46	4900	0	LATER	follows The Sunken Temple (3445), which needs level 46 at Feathermoon and is left for round 3 (13 Nov level check)		0	
 440	4504	Super Sticky	54	48	5450	16500	OUT	Super Sticky Tar 32.9% - XP-only optional (rule 11)	DROP	54	
 440	4496	Bungle in the Jungle	53	50	5250	0	OUT	drop under 30%: Gorishi Scent Gland 5.0% (7 droppers, best Gorishi Hive Queen 100% of 1)	DROP	56	
 440	4507	Pawn Captures Queen	54	50	5450	0	OUT	chain behind 4496 Bungle in the Jungle (drop under 30%: Gorishi Scent Gland 5.0%)	DROP	56	
@@ -602,8 +602,8 @@
 47	1451	Rhapsody Shindigger	43	38	1800	0	PLAIN			0	
 47	1452	Rhapsody's Kalimdor Kocktail	43	38	3600	0	PLAIN	required (Braedyn, 13 Nov), because Rhapsody's Tale and Into The Temple of Atal'Hakkar hang on it (13,400 XP with this quest). Three of each: Roc Gizzard 12% from plain Rocs (5.9% over all rocs), about 25 kills in Tanaris; Ironfur Liver 24%, about 12 bears, and Groddoc Liver 27%, about 11 apes, in Feralas	DROP	50	
 47	1469	Rhapsody's Tale	43	38	2700	0	PLAIN			0	
-47	2880	Troll Necklace Bounty	45	40	3900	6500	OUT	drop under 30%: Troll Tribal Necklace 28.9% (28 droppers, best Vilebranch Witch Doctor 51% of 35)	DROP	52	
-47	2881	Troll Necklace Bounty	45	40	0	0	OUT	chain behind 2880 Troll Necklace Bounty (drop under 30%: Troll Tribal Necklace 28)	NOXP DROP	52	
+47	2880	Troll Necklace Bounty	45	40	3900	6500	PLAIN	fill (Braedyn, 13 Nov: mix by judgement). Five Troll Tribal Necklaces: Vilebranch Witch Doctor 51% and Axe Thrower 32% (level 45-47, not elite) stand at the Altar of Zul, where The Altar of Zul takes him anyway: budget about 13-17 kills	DROP	52	
+47	2881	Troll Necklace Bounty	45	40	0	0	OUT	no XP, nothing kept behind it	NOXP DROP	52	
 47	2988	Witherbark Cages	45	40	3900	0	PLAIN			0	
 47	2990	Thadius Grimshade	47	40	2100	0	PLAIN			0	
 47	2992	The Divination	47	40	1050	0	PLAIN			50	
@@ -612,13 +612,13 @@
 47	2989	The Altar of Zul	48	40	4400	0	PLAIN			0	
 47	4787	The Ancient Egg	50	40	5900	0	OUT	the Ancient Egg (Hinterlands 57.6,86.8) is guarded by Hitah'ya the Keeper and Vilebranch Aman'zasi Guards (51 elite) - rule 13; it also needs The Prophecy of Mosh'aru	GROUP	0	
 47	2994	Saving Sharpbeak	51	40	7350	22500	OUT	elite outside a dungeon (rule 13): Vile Priestess Hexx (51 elite) at the top of Jintha'Alor	GROUP	0	Main Hand 440.7 Gryphon Rider's Stormhammer (31.5 dps)
-47	485	Find OOX-09/HL!	48	43	4400	0	PLAIN			0	
-47	836	Rescue OOX-09/HL!	48	43	5450	0	PLAIN			0	Feet 30.9 Gnomish Inventor Boots (+7 Sta +2 Int +11 Spi)
-47	86616	Repurposed Totems	48	45	4400	7000	PLAIN			47	
+47	485	Find OOX-09/HL!	48	43	4400	0	COND	starts from the OOX-09/HL Distress Beacon: 0.58% per kill over 49 Hinterlands mob types (Wowhead item page, 509 of 87,752 kills, 13 Nov) - rule 12. Taken only if the beacon drops; the rescue is handed in at Booty Bay		0	
+47	836	Rescue OOX-09/HL!	48	43	5450	0	COND	behind 485 Find OOX-09/HL!, which is conditional		0	Feet 30.9 Gnomish Inventor Boots (+7 Sta +2 Int +11 Spi)
+47	86616	Repurposed Totems	48	45	4400	7000	LATER	needs level 45 at Aerie Peak; the Hinterlands chapter is played at about 43.5-44: round 3's return to Aerie Peak (13 Nov level check)		47	
 490	87494	Microcrystal Contamination	55	45	5650	8500	COND	no giver in the DB or on Wowhead (ends at Torwa Pathfinder)	NOSTART DROP	55	Waist 37.3 Crystal-flecked Waistguard (+6 Str +15 Int)
 490	3844	It's a Secret to Everybody	52	47	1250	0	PLAIN			0	
 490	3845	It's a Secret to Everybody	52	47	5100	0	PLAIN			0	
-490	3908	It's a Secret to Everybody	52	47	5100	0	PLAIN			0	
+490	3908	It's a Secret to Everybody	52	47	5100	0	LATER	Linken sends it to Donova Snowden in Winterspring (31.3,45.2): accepted in Un'Goro and carried to round 3 (13 Nov zone check)		0	
 490	3912	Meet at the Grave	52	47	5100	0	OUT	chain behind 3909 The Videre Elixir (chain behind Muigin and Larion)		0	
 490	3913	A Grave Situation	52	47	2550	0	OUT	chain behind 3912 Meet at the Grave (chain behind 3909 The Videre Elixir (cha)		0	
 490	3914	Linken's Sword	52	47	5100	7500	OUT	chain behind 3913 A Grave Situation (chain behind 3912 Meet at the Grave (cha)		0	
