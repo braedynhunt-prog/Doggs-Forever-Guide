@@ -1,0 +1,359 @@
+# Felwood (category 361): 61 quests, 127,460 XP; clean (no drop / elite / group / dungeon / skill flag) 43 quests 81,790 XP
+
+6131 Timbermaw Ally | L48 req45 | xp None money 0 | NOXP NOTINQDB NOSTART NOEND
+   from: ?
+   to:   ?
+
+8460 Timbermaw Ally | L48 req45 | xp 4400 money 0 | - | mobs to 50
+   from: Grazle [11554] L55 @ Felwood 50.9,85.0
+   to:   Grazle [11554] L55 @ Felwood 50.9,85.0
+   unlocks: 8462 Speak to Nafien (L55 xp 560), 8466 Feathers for Grazle (L55 xp 560)
+   kill: Deadwood Warrior [7153] L48-49 @ Felwood 48.4,91.4 (17) ; Deadwood Pathfinder [7155] L49-50 @ Felwood 47.5,90.7 (5) ; Deadwood Gardener [7154] L48-49 @ Felwood 47.9,90.3 (11)
+   rewards: Earth Warder's Vest [21311], Belt of the Den Watcher [21312]
+
+8462 Speak to Nafien | L55 req45 | xp 560 money 0 | -
+   from: Grazle [11554] L55 @ Felwood 50.9,85.0
+   to:   Nafien [15395] L55 @ Felwood 64.8,8.1
+   pre:  8460 Timbermaw Ally (L48 req45)
+   text: Travel north along the main road in Felwood and speak with the furbolg named Nafien. He stands guard outside the entrance to Timbermaw Hold.
+
+8465 Speak to Salfa | L55 req45 | xp 560 money 0 | -
+   from: Nafien [15395] L55 @ Felwood 64.8,8.1
+   to:   Salfa [11556] L55 @ Winterspring 27.7,34.5
+   pre:  8461 Deadwood of the North (L55 req45)
+   text: Travel through Timbermaw Hold and exit into Winterspring. Speak with Salfa, who stands guard outside the entrance to Timbermaw Hold.
+
+8466 Feathers for Grazle | L55 req45 | xp 560 money 0 | DROP | mobs to 56
+   from: Grazle [11554] L55 @ Felwood 50.9,85.0
+   to:   Grazle [11554] L55 @ Felwood 50.9,85.0
+   pre:  8460 Timbermaw Ally (L48 req45)
+   items: Deadwood Headdress Feather [21377] <- 9 mobs (Deadwood Warrior, Deadwood Gardener, Deadwood Pathfinder...) RATE 18.0%
+
+8467 Feathers for Nafien | L55 req45 | xp 560 money 0 | DROP | mobs to 56
+   from: Nafien [15395] L55 @ Felwood 64.8,8.1
+   to:   Nafien [15395] L55 @ Felwood 64.8,8.1
+   pre:  8461 Deadwood of the North (L55 req45)
+   items: Deadwood Headdress Feather [21377] <- 9 mobs (Deadwood Warrior, Deadwood Gardener, Deadwood Pathfinder...) RATE 18.0%
+
+8470 Deadwood Ritual Totem | L55 req45 | xp 5650 money 8500 | SIDE?
+   from: item Deadwood Ritual Totem [20741]
+   to:   Kernda [11558] L55 @ Felwood 65.5,3.5
+   text: Take the Deadwood Ritual Totem inside Timbermaw Hold and see if one of the furbolgs there will find a use for the item. The Timbermaw will not speak with you unless you are of Neutral reputation or greater with them.
+   rewards: Major Healing Potion [13446], Major Mana Potion [13444]
+
+5155 Forces of Jaedenar | L51 req48 | xp 4900 money 0 | - | mobs to 52
+   from: Greta Mosshoof [10922] L59 @ Felwood 51.2,82.1
+   to:   Greta Mosshoof [10922] L59 @ Felwood 51.2,82.1
+   unlocks: 5157 Collection of the Corrupt Water (L52 xp 3800)
+   kill: Jaedenar Hound [7125] L50-51 @ Felwood 37.2,60.8 (9) ; Jaedenar Guardian [7113] L50-51 @ Felwood 37.3,60.4 (14) ; Jaedenar Adept [7115] L51-52 @ Felwood 37.6,60.8 (11) ; Jaedenar Cultist [7112] L51-52 @ Felwood 37.3,61.1 (12)
+
+5157 Collection of the Corrupt Water | L52 req48 | xp 3800 money 0 | -
+   from: Greta Mosshoof [10922] L59 @ Felwood 51.2,82.1
+   to:   Greta Mosshoof [10922] L59 @ Felwood 51.2,82.1
+   pre:  5155 Forces of Jaedenar (L51 req48)
+   unlocks: 5158 Seeking Spiritual Aid (L52 xp 2550)
+   items: Corrupt Moonwell Water [12907] <- 1 objects (Corrupt Jaedenar Moonwell)
+
+5158 Seeking Spiritual Aid | L52 req48 | xp 2550 money 0 | -
+   from: Greta Mosshoof [10922] L59 @ Felwood 51.2,82.1
+   to:   Islen Waterseer [5901] L37 @ Barrens 65.8,43.8
+   pre:  5157 Collection of the Corrupt Water (L52 req48)
+   unlocks: 5159 Cleansed Water Returns to Felwood (L54 xp 2700)
+   text: Take the Corrupt Moon Well Water to Islen Waterseer in the Barrens.
+
+5156 Verifying the Corruption | L54 req48 | xp 6800 money 16500 | GROUP | mobs to 54
+   from: Taronn Redfeather [10921] L50 @ Felwood 50.9,81.6
+   to:   Taronn Redfeather [10921] L50 @ Felwood 50.9,81.6
+   kill: Entropic Beast [9878] L51-52 @ Felwood 42.5,40.3 (21) ; Entropic Horror [9879] L51-54 @ Felwood 42.5,40.3 (21)
+
+5159 Cleansed Water Returns to Felwood | L54 req48 | xp 2700 money 0 | -
+   from: Islen Waterseer [5901] L37 @ Barrens 65.8,43.8
+   to:   Greta Mosshoof [10922] L59 @ Felwood 51.2,82.1
+   pre:  5158 Seeking Spiritual Aid (L52 req48)
+   unlocks: 5165 Dousing the Flames of Protection (L55 xp 5650)
+   text: Take the Purified Moon Well Water to Greta Mosshoof in Felwood.
+
+996 Corrupted Windblossom | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Windblossom [174602] @ Felwood 37.0,61.5
+   to:   obj Corrupted Windblossom [174602] @ Felwood 37.0,61.5
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+998 Corrupted Windblossom | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Windblossom [174603] @ Felwood 34.7,48.9
+   to:   obj Corrupted Windblossom [174603] @ Felwood 34.7,48.9
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+1514 Corrupted Windblossom | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Windblossom [174709] @ Felwood 57.5,20.0
+   to:   obj Corrupted Windblossom [174709] @ Felwood 57.5,20.0
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+2523 Corrupted Songflower | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Songflower [164886] @ Felwood 52.9,89.0
+   to:   obj Corrupted Songflower [164886] @ Felwood 52.9,89.0
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+2878 Corrupted Songflower | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Songflower [174594] @ Felwood 40.4,56.7
+   to:   obj Corrupted Songflower [174594] @ Felwood 40.4,56.7
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+3363 Corrupted Songflower | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Songflower [174595] @ Felwood 63.9,6.1
+   to:   obj Corrupted Songflower [174595] @ Felwood 63.9,6.1
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4101 Cleansing Felwood | L55 req48 | xp 5650 money 0 | DROP | mobs to 56
+   from: Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   to:   Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   unlocks: 5882 Salve via Hunting (L55 xp 4200), 5883 Salve via Mining (L55 xp 4200), 5884 Salve via Gathering (L55 xp 4200), 5885 Salve via Skinning (L55 xp 4200), 5886 Salve via Disenchanting (L55 xp 4200)
+   items: Blood Amber [11503] <- 3 mobs (Warpwood Moss Flayer, Warpwood Shredder, Dessecus) RATE 53.9%
+
+4103 Salve via Hunting | L55 req48 | xp None money 0 | NOXP DROP | mobs to 59
+   from: Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   to:   Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   pre:  5882 Salve via Hunting (L55 req48)
+   items: Corrupted Soul Shard [11515] <- 62 mobs (Cursed Ooze, Tainted Ooze, Vile Ooze...) RATE 15.0%
+   rewards: Cenarion Plant Salve [11516]
+
+4104 Salve via Mining | L55 req48 | xp None money 0 | NOXP SKILL[186, 200]
+   from: Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   to:   Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   pre:  5883 Salve via Mining (L55 req48)
+   items: Tainted Vitriol [11513] <- 16 objects (Small Thorium Vein)
+   rewards: Cenarion Plant Salve [11516]
+
+4105 Salve via Gathering | L55 req48 | xp None money 0 | NOXP SKILL[182, 200]
+   from: Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   to:   Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   pre:  5884 Salve via Gathering (L55 req48)
+   items: Fel Creep [11514] <- 10 objects (Arthas' Tears)
+   rewards: Cenarion Plant Salve [11516]
+
+4106 Salve via Skinning | L55 req48 | xp None money 0 | NOXP SKILL[393, 200]
+   from: Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   to:   Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   pre:  5885 Salve via Skinning (L55 req48)
+   items: Patch of Tainted Skin [11512] <- no source in qdb
+   rewards: Cenarion Plant Salve [11516]
+
+4107 Salve via Disenchanting | L55 req48 | xp None money 0 | NOXP SKILL[333, 200]
+   from: Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   to:   Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   pre:  5886 Salve via Disenchanting (L55 req48)
+   items: Lesser Nether Essence [11174] <- no source in qdb
+   rewards: Cenarion Plant Salve [11516]
+
+4113 Corrupted Songflower | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Songflower [174596] @ Felwood 55.8,10.4
+   to:   obj Corrupted Songflower [174596] @ Felwood 55.8,10.4
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4114 Corrupted Songflower | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Songflower [174597] @ Felwood 62.9,21.8
+   to:   obj Corrupted Songflower [174597] @ Felwood 62.9,21.8
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4115 Corrupted Windblossom | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Windblossom [173327] @ Felwood 44.8,41.7
+   to:   obj Corrupted Windblossom [173327] @ Felwood 44.8,41.7
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4116 Corrupted Songflower | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Songflower [174598] @ Felwood 50.6,13.9
+   to:   obj Corrupted Songflower [174598] @ Felwood 50.6,13.9
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4117 Corrupted Whipper Root | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Whipper Root [164888] @ Felwood 45.2,21.6
+   to:   obj Corrupted Whipper Root [164888] @ Felwood 45.2,21.6
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4119 Corrupted Night Dragon | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Night Dragon [164885] @ Felwood 52.5,86.1
+   to:   obj Corrupted Night Dragon [164885] @ Felwood 52.5,86.1
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4221 Corrupted Windblossom | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Windblossom [174599] @ Felwood 55.2,23.5
+   to:   obj Corrupted Windblossom [174599] @ Felwood 55.2,23.5
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4343 Corrupted Windblossom | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Windblossom [164887] @ Felwood 50.0,80.0
+   to:   obj Corrupted Windblossom [164887] @ Felwood 50.0,80.0
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4401 Corrupted Songflower | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Songflower [174713] @ Felwood 63.8,6.9
+   to:   obj Corrupted Songflower [174713] @ Felwood 63.8,6.9
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4403 Corrupted Windblossom | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Windblossom [174601] @ Felwood 45.2,18.5
+   to:   obj Corrupted Windblossom [174601] @ Felwood 45.2,18.5
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4443 Corrupted Whipper Root | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Whipper Root [173284] @ Felwood 50.6,18.3
+   to:   obj Corrupted Whipper Root [173284] @ Felwood 50.6,18.3
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4444 Corrupted Whipper Root | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Whipper Root [174605] @ Felwood 49.4,12.2
+   to:   obj Corrupted Whipper Root [174605] @ Felwood 49.4,12.2
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4445 Corrupted Whipper Root | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Whipper Root [174606] @ Felwood 40.6,20.4
+   to:   obj Corrupted Whipper Root [174606] @ Felwood 40.6,20.4
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4446 Corrupted Whipper Root | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Whipper Root [174607] @ Felwood 50.6,18.2
+   to:   obj Corrupted Whipper Root [174607] @ Felwood 50.6,18.2
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4447 Corrupted Night Dragon | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Night Dragon [173324] @ Felwood 49.0,87.5
+   to:   obj Corrupted Night Dragon [173324] @ Felwood 49.0,87.5
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4448 Corrupted Night Dragon | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Night Dragon [174608] @ Felwood 42.9,14.0
+   to:   obj Corrupted Night Dragon [174608] @ Felwood 42.9,14.0
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4461 Corrupted Whipper Root | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Whipper Root [174686] @ Felwood 49.6,12.1
+   to:   obj Corrupted Whipper Root [174686] @ Felwood 49.6,12.1
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4462 Corrupted Night Dragon | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Night Dragon [174684] @ Felwood 35.2,59.1
+   to:   obj Corrupted Night Dragon [174684] @ Felwood 35.2,59.1
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4464 Corrupted Songflower | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Songflower [171942] @ Felwood 48.5,76.7
+   to:   obj Corrupted Songflower [171942] @ Felwood 48.5,76.7
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4465 Corrupted Songflower | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Songflower [171939] @ Felwood 46.2,85.5
+   to:   obj Corrupted Songflower [171939] @ Felwood 46.2,85.5
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4466 Corrupted Windblossom | L55 req48 | xp 560 money 0 | -
+   from: obj Corrupted Windblossom [174604] @ Felwood 44.8,41.6
+   to:   obj Corrupted Windblossom [174604] @ Felwood 44.8,41.6
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+4467 Corrupted Windblossom | L55 req48 | xp None money 0 | NOXP
+   from: obj Corrupted Windblossom [174708] @ Felwood 55.0,22.6
+   to:   obj Corrupted Windblossom [174708] @ Felwood 55.0,22.6
+   items: Cenarion Plant Salve [11516] <- no source in qdb
+
+5165 Dousing the Flames of Protection | L55 req48 | xp 5650 money 0 | -
+   from: Greta Mosshoof [10922] L59 @ Felwood 51.2,82.1
+   to:   Greta Mosshoof [10922] L59 @ Felwood 51.2,82.1
+   pre:  5159 Cleansed Water Returns to Felwood (L54 req48)
+   unlocks: 5242 A Final Blow (L58 xp 9300)
+   objects: obj Brazier of Pain [176158] @ Felwood 36.3,56.3 ; obj Brazier of Malice [176159] @ Felwood 37.7,52.7 ; obj Brazier of Suffering [176160] @ Felwood 36.7,53.3 ; obj Brazier of Hatred [176161] @ Felwood 36.5,55.2
+
+5882 Salve via Hunting | L55 req48 | xp 4200 money 0 | DROP | mobs to 59
+   from: Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   to:   Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   pre:  4101 Cleansing Felwood (L55 req48)
+   unlocks: 4103 Salve via Hunting (L55 xp None)
+   items: Corrupted Soul Shard [11515] <- 62 mobs (Cursed Ooze, Tainted Ooze, Vile Ooze...) RATE 15.0%
+   rewards: Cenarion Plant Salve [11516]
+
+5883 Salve via Mining | L55 req48 | xp 4200 money 0 | SKILL[186, 200]
+   from: Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   to:   Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   pre:  4101 Cleansing Felwood (L55 req48)
+   unlocks: 4104 Salve via Mining (L55 xp None)
+   items: Tainted Vitriol [11513] <- 16 objects (Small Thorium Vein)
+   rewards: Cenarion Plant Salve [11516]
+
+5884 Salve via Gathering | L55 req48 | xp 4200 money 0 | SKILL[182, 200]
+   from: Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   to:   Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   pre:  4101 Cleansing Felwood (L55 req48)
+   unlocks: 4105 Salve via Gathering (L55 xp None)
+   items: Fel Creep [11514] <- 10 objects (Arthas' Tears)
+   rewards: Cenarion Plant Salve [11516]
+
+5885 Salve via Skinning | L55 req48 | xp 4200 money 0 | SKILL[393, 200]
+   from: Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   to:   Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   pre:  4101 Cleansing Felwood (L55 req48)
+   unlocks: 4106 Salve via Skinning (L55 xp None)
+   items: Patch of Tainted Skin [11512] <- no source in qdb
+   rewards: Cenarion Plant Salve [11516]
+
+5886 Salve via Disenchanting | L55 req48 | xp 4200 money 0 | SKILL[333, 200]
+   from: Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   to:   Arathandris Silversky [9528] L60 @ Felwood 54.1,86.8
+   pre:  4101 Cleansing Felwood (L55 req48)
+   unlocks: 4107 Salve via Disenchanting (L55 xp None)
+   items: Lesser Nether Essence [11174] <- no source in qdb
+   rewards: Cenarion Plant Salve [11516]
+
+86577 A Sampling of Putrescence | L55 req48 | xp 5650 money 8500 | SIDE? DROP | mobs to 52
+   from: Kelek Skykeeper [10920] L57 @ Felwood 51.1,81.8
+   to:   Kelek Skykeeper [10920] L57 @ Felwood 51.1,81.8
+   items: Putrescent Bear Organs [277958] <- 3 mobs (Angerclaw Bear, Angerclaw Grizzly, Angerclaw Mauler) RATE 28.5% ; Putrescent Wolf Organs [277959] <- 3 mobs (Felpaw Wolf, Felpaw Scavenger, Felpaw Ravager) RATE 26.0%
+
+86611 Stag Lord's Bauble | L55 req48 | xp 2800 money 4000 | -
+   from: obj Statue of Malorne [661778] @ Felwood 42.0,47.4
+   to:   Golhine the Hooded [9465] L60 @ Felwood 61.9,24.5
+   text: Take the Stag Lord's Bauble to someone in Talonbranch Glade who may know about it.
+
+939 Flute of Xavaric | L54 req49 | xp 5450 money 0 | DROP | mobs to 54
+   from: item Flute of Xavaric [11668]
+   to:   Eridan Bluewind [9116] L57 @ Felwood 51.4,81.5
+   unlocks: 4441 Felbound Ancients (L54 xp 5450)
+   items: Jadefire Felbind [11674] <- 7 mobs (Jadefire Satyr, Jadefire Rogue, Jadefire Trickster...) RATE 7.6%
+
+4421 The Corruption of the Jadefire | L54 req49 | xp 5450 money 0 | - | mobs to 54
+   from: Eridan Bluewind [9116] L57 @ Felwood 51.4,81.5
+   to:   Eridan Bluewind [9116] L57 @ Felwood 51.4,81.5
+   unlocks: 4906 Further Corruption (L54 xp 5450)
+   kill: Jadefire Felsworn [7109] L50-51 @ Felwood 39.4,79.6 (31) ; Jadefire Shadowstalker [7110] L51-52 @ Felwood 35.7,67.6 (11) ; Jadefire Rogue [7106] L50-51 @ Felwood 36.5,67.2 (8) ; Xavathras [9454] L54 @ Felwood 32.2,67.1
+
+4441 Felbound Ancients | L54 req49 | xp 5450 money 0 | -
+   from: Eridan Bluewind [9116] L57 @ Felwood 51.4,81.5
+   to:   Eridan Bluewind [9116] L57 @ Felwood 51.4,81.5
+   pre:  939 Flute of Xavaric (L54 req49)
+   unlocks: 4442 Purified! (L54 xp 5450)
+   items: Vial of Blessed Water [5646] <- 1 objects (Temple of the Moon Fountain)
+
+4442 Purified! | L54 req49 | xp 5450 money 0 | -
+   from: Eridan Bluewind [9116] L57 @ Felwood 51.4,81.5
+   to:   Eridan Bluewind [9116] L57 @ Felwood 51.4,81.5
+   pre:  4441 Felbound Ancients (L54 req49)
+   unlocks: 4261 Ancient Spirit (L56 xp 7300)
+   text: Speak to Eridan again in a moment.
+   rewards: Flute of the Ancients [11445]
+
+4906 Further Corruption | L54 req49 | xp 5450 money 0 | - | mobs to 55
+   from: Eridan Bluewind [9116] L57 @ Felwood 51.4,81.5
+   to:   Eridan Bluewind [9116] L57 @ Felwood 51.4,81.5
+   pre:  4421 The Corruption of the Jadefire (L54 req49)
+   kill: Jadefire Hellcaller [7111] L53-54 @ Felwood 40.9,21.9 (12) ; Jadefire Betrayer [7108] L52-53 @ Felwood 41.8,18.6 (9) ; Jadefire Trickster [7107] L52-53 @ Felwood 42.5,19.3 (16) ; Xavaric [10648] L55 @ Felwood 39.1,22.4
+   rewards: Breezecloud Bracers [11875]
+
+5202 A Strange Red Key | L55 req49 | xp 5650 money 0 | -
+   from: item Blood Red Key [13140]
+   to:   Captured Arko'narin [11016] L48 @ Felwood 36.2,55.5
+   unlocks: 5203 Rescue From Jaedenar (L55 xp 5650)
+   text: Search through Jaedenar to discover what the Blood Red Key is used for.
+
+5203 Rescue From Jaedenar | L55 req49 | xp 5650 money 0 | -
+   from: Captured Arko'narin [11016] L48 @ Felwood 36.2,55.5
+   to:   Jessir Moonbow [11019] L50 @ Felwood 51.4,82.0
+   pre:  5202 A Strange Red Key (L55 req49)
+   unlocks: 5204 Retribution of the Light (L57 xp 4500)
+   text: Escort Arko'narin to where Lightforge and her equipment are being held, and then protect her as you escape Shadow Hold. Afterwards, seek out Jessir Moonbow in Felwood to let her know what's happened to her friends.

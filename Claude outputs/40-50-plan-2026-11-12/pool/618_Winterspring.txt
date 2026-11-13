@@ -1,0 +1,26 @@
+# Winterspring (category 618): 4 quests, 13,250 XP; clean (no drop / elite / group / dungeon / skill flag) 3 quests 7,800 XP
+
+6028 The Everlook Report | L52 req50 | xp 2550 money 4000 | -
+   from: Gregor Greystone [10431] L55 @ Winterspring 61.4,39.0
+   to:   Argent Officer Pureheart [10840] L60 @ W Plaguelands 43.0,83.5
+   text: Deliver the Everlook Report to Argent Officer Pureheart at Chillwind Camp, Western Plaguelands.
+
+6030 Duke Nicholas Zverenhoff | L52 req50 | xp 2550 money 4000 | -
+   from: Gregor Greystone [10431] L55 @ Winterspring 61.4,39.0
+   to:   Duke Nicholas Zverenhoff [11039] L60 @ E Plaguelands 71.6,50.1
+   text: Deliver the book, "Studies in Spirit Speaking", to Duke Nicholas Zverenhoff at Light's Hope Chapel, Eastern Plaguelands.
+
+4809 Chillwind Horns | L54 req50 | xp 5450 money 0 | DROP | mobs to 59
+   from: Felnok Steelspring [10468] L54 @ Winterspring 61.6,38.6
+   to:   Felnok Steelspring [10468] L54 @ Winterspring 61.6,38.6
+   pre:  4808 Felnok Steelspring (L54 req50)
+   unlocks: 4810 Return to Tinkee (L54 xp 2700)
+   items: Uncracked Chillwind Horn [12444] <- 3 mobs (Fledgling Chillwind, Chillwind Chimaera, Chillwind Ravager) RATE 27.1%
+
+4810 Return to Tinkee | L54 req50 | xp 2700 money 0 | -
+   from: Felnok Steelspring [10468] L54 @ Winterspring 61.6,38.6
+   to:   Tinkee Steamboil [10267] L53 @ Burning Steppes 65.2,24.0
+   pre:  4809 Chillwind Horns (L54 req50)
+   unlocks: 4734 Egg Freezing (L60 xp 8300), 4907 Tinkee Steamboil (L60 xp 660)
+   text: Bring Felnok's Package to Tinkee Steamboil in the Burning Steppes.
+   rewards: Blitzcleaver [15862], Grave Scepter [15863]

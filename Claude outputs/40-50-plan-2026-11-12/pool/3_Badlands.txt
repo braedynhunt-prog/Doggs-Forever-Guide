@@ -1,0 +1,144 @@
+# Badlands (category 3): 22 quests, 65,800 XP; clean (no drop / elite / group / dungeon / skill flag) 5 quests 12,950 XP
+
+78823 Terror of the Desert Skies | L40 req26 | xp 1550 money 2500 | NOSTART DROP | mobs to 44
+   from: ?
+   to:   Hemet Nesingwary [715] L40 @ Stranglethorn 35.7,10.8
+   items: Primitive Drawing [211269] <- 12 mobs (Dustbelcher Ogre, Dustbelcher Brute, Dustbelcher Wyrmhunter...) RATE 12.8%
+
+78830 Terror of the Desert Skies | L40 req26 | xp 3900 money 10000 | SHAMAN DROP | mobs to 40
+   from: Hemet Nesingwary [715] L40 @ Stranglethorn 35.7,10.8
+   to:   Hemet Nesingwary [715] L40 @ Stranglethorn 35.7,10.8
+   items: Crimson Trophy Quill [211293] <- 1 mobs (Gharrik) RATE 92.86%
+   rewards: Well-Weathered Cloak [277207], Ponderous Loop [277209], Rune of Expose Weakness [211301]
+
+708 The Black Box | L40 req30 | xp 2350 money 5000 | -
+   from: item Corroded Black Box [4613]
+   to:   Pilot Longbeard [2092] L23 @ Ironforge 72.7,94.0
+   text: Take the Corroded Black Box to the Hall of Arms in Ironforge.
+
+737 Forbidden Knowledge | L40 req30 | xp 2350 money 0 | -
+   from: Gerrig Bonegrip [2786] L30 @ Ironforge 50.8,5.6 / Keeper Bel'dugur [2934] L42 @ 1497 53.7,54.5
+   to:   Theldurin the Lost [2785] L30 @ Badlands 51.4,76.9
+   pre:  735 The Star, the Hand and the Heart (L44 req30) ; 736 The Star, the Hand and the Heart (no Wowhead row)
+   text: Bring Yagyin's Digest to Theldurin.
+   rewards: Skull of Impending Doom [4984]
+
+692 The Lost Fragments | L41 req30 | xp 3300 money 5500 | DROP | mobs to 43
+   from: Theldurin the Lost [2785] L30 @ Badlands 51.4,76.9
+   to:   Theldurin the Lost [2785] L30 @ Badlands 51.4,76.9
+   pre:  687 Theldurin the Lost (L40 req30)
+   unlocks: 656 Summoning the Princess (L50 xp 7100)
+   items: Torn Scroll Fragment [4518] <- 1 mobs (Enraged Rock Elemental) RATE 3.61% ; Crumpled Scroll Fragment [4519] <- 1 mobs (Enraged Rock Elemental) RATE 4.55% ; Singed Scroll Fragment [4520] <- 1 mobs (Enraged Rock Elemental) RATE 5.33%
+
+735 The Star, the Hand and the Heart | L44 req30 | xp 5600 money 0 | GROUP DROP ELITE | mobs to 44
+   from: Gerrig Bonegrip [2786] L30 @ Ironforge 50.8,5.6
+   to:   Gerrig Bonegrip [2786] L30 @ Ironforge 50.8,5.6
+   pre:  727 To Ironforge for Yagyin's Digest (done 39e)
+   unlocks: 737 Forbidden Knowledge (L40 xp 2350)
+   items: Star of Xil'yeh [4646] <- 1 mobs (Grel'borg the Miser) all-elite RATE 7.35% ; Hand of Dagun [4641] <- 1 mobs (Dagun the Ravenous) all-elite RATE 81.82% ; The Legacy Heart [4644] <- 1 mobs (Mogh the Undying) all-elite RATE 68.75%
+
+710 Study of the Elements: Rock | L37 req35 | xp 2850 money 0 | PRECHAIN DROP | mobs to 39
+   from: Lotwil Veriatus [2921] L36 @ Badlands 25.9,44.9
+   to:   Lotwil Veriatus [2921] L36 @ Badlands 25.9,44.9
+   unlocks: 711 Study of the Elements: Rock (L39 xp 3000)
+   items: Small Stone Shard [4626] <- 2 mobs (Lesser Rock Elemental, Earth Elemental) RATE 33.5%
+
+713 Coolant Heads Prevail | L37 req35 | xp 2850 money 0 | PRECHAIN
+   from: Lotwil Veriatus [2921] L36 @ Badlands 25.9,44.9
+   to:   Lotwil Veriatus [2921] L36 @ Badlands 25.9,44.9
+   unlocks: 714 Gyro... What? (L37 xp 2850)
+   items: Frost Oil [3829] <- no source in qdb
+
+714 Gyro... What? | L37 req35 | xp 2850 money 0 | PRECHAIN
+   from: Lotwil Veriatus [2921] L36 @ Badlands 25.9,44.9
+   to:   Lotwil Veriatus [2921] L36 @ Badlands 25.9,44.9
+   pre:  713 Coolant Heads Prevail (L37 req35)
+   unlocks: 715 Liquid Stone (L37 xp 2100), 734 This Is Going to Be Hard (L42 xp None)
+   items: Gyrochronatom [4389] <- vendor
+
+711 Study of the Elements: Rock | L39 req35 | xp 3000 money 0 | DROP | mobs to 40
+   from: Lotwil Veriatus [2921] L36 @ Badlands 25.9,44.9
+   to:   Lotwil Veriatus [2921] L36 @ Badlands 25.9,44.9
+   pre:  710 Study of the Elements: Rock (L37 req35)
+   unlocks: 712 Study of the Elements: Rock (L42 xp 3450)
+   items: Large Stone Slab [4627] <- 1 mobs (Rock Elemental) RATE 18.84%
+
+733 Scrounging | L40 req35 | xp 3150 money 0 | DROP | mobs to 45
+   from: Sigrun Ironhew [2860] L40 @ Badlands 53.8,43.3
+   to:   Sigrun Ironhew [2860] L40 @ Badlands 53.8,43.3
+   pre:  718 Mirages (done 35)
+   items: Scrap Metal [4630] <- 9 mobs (Dustbelcher Ogre, Dustbelcher Brute, Dustbelcher Wyrmhunter...) RATE 15.2%
+   rewards: Salbac Shield [4652], Ironheel Boots [4653]
+
+97617 Safety Checks | L40 req35 | xp 3150 money 2500 | DROP | mobs to 41
+   from: Dorgaron [269577] L37 @ Badlands 54.6,12.9
+   to:   Dorgaron [269577] L37 @ Badlands 54.6,12.9
+   items: Unstudied Artifact [278402] <- 4 mobs (Shadowforge Tunneler, Shadowforge Darkweaver, Stonevault Bonesnapper...) RATE 7.7% ; Explorers' League Mining Helmet [278403] <- 1 objects (?) ; Pristine Mattock [278404] <- 1 objects (?)
+
+712 Study of the Elements: Rock | L42 req35 | xp 3450 money 0 | DROP | mobs to 44
+   from: Lotwil Veriatus [2921] L36 @ Badlands 25.9,44.9
+   to:   Lotwil Veriatus [2921] L36 @ Badlands 25.9,44.9
+   pre:  711 Study of the Elements: Rock (L39 req35)
+   unlocks: 716 Stone Is Better than Cloth (L42 xp 2550), 734 This Is Going to Be Hard (L42 xp None)
+   items: Bracers of Rock Binding [4628] <- 1 mobs (Greater Rock Elemental) RATE 24.16%
+
+716 Stone Is Better than Cloth | L42 req35 | xp 2550 money 0 | -
+   from: Lucien Tosselwrench [2920] L31 @ Badlands 25.8,44.2
+   to:   Lucien Tosselwrench [2920] L31 @ Badlands 25.8,44.2
+   pre:  712 Study of the Elements: Rock (L42 req35)
+   items: Patterned Bronze Bracers [2868] <- no source in qdb
+   rewards: Enchanted Stonecloth Bracers [4979]
+
+734 This Is Going to Be Hard | L42 req35 | xp None money 0 | NOXP
+   from: Lotwil Veriatus [2921] L36 @ Badlands 25.9,44.9
+   to:   Lucien Tosselwrench [2920] L31 @ Badlands 25.8,44.2
+   pre:  712 Study of the Elements: Rock (L42 req35) ; 714 Gyro... What? (L37 req35)
+   unlocks: 777 This Is Going to Be Hard (L42 xp None)
+   text: Speak to Lucien Tosselwrench in the Badlands.
+
+777 This Is Going to Be Hard | L42 req35 | xp None money 0 | NOXP
+   from: Lucien Tosselwrench [2920] L31 @ Badlands 25.8,44.2
+   to:   Lotwil Veriatus [2921] L36 @ Badlands 25.9,44.9
+   pre:  734 This Is Going to Be Hard (L42 req35)
+   unlocks: 778 This Is Going to Be Hard (L45 xp 4850)
+   text: Bring Cog #5 to Lotwil Veriatus.
+
+762 An Ambassador of Evil | L44 req35 | xp 4650 money 12500 | GROUP DROP ELITE | mobs to 42
+   from: Historian Karnik [2916] L20 @ Ironforge 77.5,11.8
+   to:   Advisor Belgrum [2918] L40 @ Ironforge 77.3,9.7
+   pre:  726 Passing Word of a Threat (done 39e)
+   unlocks: 1139 The Lost Tablets of Will (L45 xp 5850)
+   items: Ambassador Infernus' Bracer [4621] <- 1 mobs (Ambassador Infernus) all-elite RATE 73.68%
+   rewards: Dwarf Captain's Sword [4987], Thane's Hammer [270088], Ironforge Agent's Gloves [270089]
+
+778 This Is Going to Be Hard | L45 req35 | xp 4850 money 0 | DROP | mobs to 45
+   from: Lotwil Veriatus [2921] L36 @ Badlands 25.9,44.9
+   to:   Lotwil Veriatus [2921] L36 @ Badlands 25.9,44.9
+   pre:  777 This Is Going to Be Hard (L42 req35)
+   items: Lotwil's Shackles of Elemental Binding [4847] <- 1 mobs (Fam'retor Guardian) RATE 86.79%
+   rewards: Nifty Stopwatch [2820]
+
+732 Tremors of the Earth | L43 req40 | xp 3600 money 0 | DROP | mobs to 42
+   from: Garek [2888] L50 @ Badlands 61.9,54.3
+   to:   Garek [2888] L50 @ Badlands 61.9,54.3
+   pre:  718 Mirages (done 35)
+   unlocks: 717 Tremors of the Earth (L50 xp 5900)
+   items: Sign of the Earth [4640] <- 1 mobs (Boss Tho'grun) RATE 93.55%
+
+706 Fiery Blaze Enchantments | L45 req40 | xp 3900 money 0 | GROUP DROP | mobs to 45
+   from: Sigrun Ironhew [2860] L40 @ Badlands 53.8,43.3
+   to:   Sigrun Ironhew [2860] L40 @ Badlands 53.8,43.3
+   items: Black Drake's Heart [4612] <- 2 mobs (Scalding Whelp, Scorched Guardian) RATE 4.0%
+   rewards: Fiery Blaze Enchantment [5421]
+
+717 Tremors of the Earth | L50 req40 | xp 5900 money 0 | GROUP DROP ELITE | mobs to 50
+   from: Garek [2888] L50 @ Badlands 61.9,54.3
+   to:   Garek [2888] L50 @ Badlands 61.9,54.3
+   pre:  732 Tremors of the Earth (L43 req40)
+   items: Blacklash's Bindings [4615] <- 1 mobs (Blacklash) all-elite RATE 77.78% ; Chains of Hematus [4645] <- 1 mobs (Hematus) all-elite RATE 87.5%
+   rewards: Blazewind Breastplate [11193], Prismscale Hauberk [11194], Warforged Chestplate [11195], Mindburst Medallion [11196]
+
+779 Seal of the Earth | L50 req40 | xp None money 0 | NOXP
+   from: obj Seal of the Earth [2933] @ Badlands 81.5,49.9
+   to:   obj Seal of the Earth [2933] @ Badlands 81.5,49.9
+   items: Diamond Runestone [4845] <- 1 objects (Pillar of Diamond) ; Opal Runestone [4844] <- 1 objects (Pillar of Opal) ; Amethyst Runestone [4843] <- 1 objects (Pillar of Amethyst)

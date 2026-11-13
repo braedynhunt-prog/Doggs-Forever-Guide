@@ -1,0 +1,334 @@
+# Feralas (category 357): 50 quests, 142,650 XP; clean (no drop / elite / group / dungeon / skill flag) 37 quests 100,530 XP
+
+95599 The Old Key | L42 req35 | xp 3450 money 5500 | SIDE? NOSTART
+   from: ?
+   to:   obj Old Chest [642451] @ Feralas 79.2,49.4
+   text: Find the old chest that the key belongs to nearby in Feralas.
+
+4298 Becoming a Parent | L48 req37 | xp 440 money 0 | -
+   from: Agnar Beastamer [9660] L47 @ Hinterlands 14.2,43.6
+   to:   Agnar Beastamer [9660] L47 @ Hinterlands 14.2,43.6
+   pre:  4297 Food for Baby (L47 req38)
+   text: Speak to Agnar Beastamer in the Hinterlands.
+   rewards: Sprite Darter Egg [11474]
+
+2969 Freedom for All Creatures | L47 req38 | xp 3150 money 0 | -
+   from: Kindal Moonweaver [7956] L42 @ Feralas 65.9,45.6
+   to:   Kindal Moonweaver [7956] L42 @ Feralas 65.9,45.6
+   unlocks: 2970 Doling Justice (L47 xp 3150)
+   text: Using the Bamboo Cage Key, free the Sprite Darters from the pen in the Grimtotem camp. At least 6 Sprite Darters and Kindal Moonweaver must survive.  You have 6 minutes before Kindal decides it is time to retreat and you fail the 
+
+2970 Doling Justice | L47 req38 | xp 3150 money 0 | - | mobs to 44
+   from: Jer'kai Moonweaver [7957] L36 @ Feralas 66.0,45.6
+   to:   Jer'kai Moonweaver [7957] L36 @ Feralas 66.0,45.6
+   pre:  2969 Freedom for All Creatures (L47 req38)
+   unlocks: 2972 Doling Justice (L47 xp 5250)
+   kill: Grimtotem Naturalist [7726] L41-42 @ Feralas 68.0,41.0 (21) ; Grimtotem Raider [7725] L42-43 @ Feralas 67.7,43.3 (24) ; Grimtotem Shaman [7727] L43-44 @ Feralas 67.9,43.5 (9)
+
+2972 Doling Justice | L47 req38 | xp 5250 money 0 | -
+   from: Jer'kai Moonweaver [7957] L36 @ Feralas 66.0,45.6
+   to:   Tyrande Whisperwind [7999] L63 BOSS @ Darnassus 39.1,81.6
+   pre:  2970 Doling Justice (L47 req38)
+   unlocks: 3841 An Orphan Looking For a Home (L47 xp 1050)
+   text: Take Jer'kai's Signet Ring to High Priestess Tyrande Whisperwind in Darnassus.
+   rewards: Firwillow Wristbands [10705], Nightscale Girdle [10706]
+
+3841 An Orphan Looking For a Home | L47 req38 | xp 1050 money 0 | -
+   from: Kindal Moonweaver [7956] L42 @ Feralas 65.9,45.6
+   to:   Quentin [9238] L40 @ Thousand Needles 78.3,74.7
+   pre:  2972 Doling Justice (L47 req38)
+   unlocks: 3842 A Short Incubation (L47 xp 2100)
+   text: Speak to Quentin in Thousand Needles.
+
+3842 A Short Incubation | L47 req38 | xp 2100 money 0 | -
+   from: Quentin [9238] L40 @ Thousand Needles 78.3,74.7
+   to:   Quentin [9238] L40 @ Thousand Needles 78.3,74.7
+   pre:  3841 An Orphan Looking For a Home (L47 req38)
+   unlocks: 3843 The Newest Member of the Family (L47 xp 4200)
+   items: Elixir of Fortitude [3825] <- no source in qdb
+
+3843 The Newest Member of the Family | L47 req38 | xp 4200 money 0 | -
+   from: Quentin [9238] L40 @ Thousand Needles 78.3,74.7
+   to:   Agnar Beastamer [9660] L47 @ Hinterlands 14.2,43.6
+   pre:  3842 A Short Incubation (L47 req38)
+   unlocks: 4297 Food for Baby (L47 xp 4200)
+   text: Take your Fragile Sprite Darter Egg to the Hinterlands and speak to Agnar Beastamer, but hurry, you only have 1 hour to find him before the hatchling within the egg dies.
+
+4297 Food for Baby | L47 req38 | xp 4200 money 0 | DROP | mobs to 48
+   from: Agnar Beastamer [9660] L47 @ Hinterlands 14.2,43.6
+   to:   Agnar Beastamer [9660] L47 @ Hinterlands 14.2,43.6
+   pre:  3843 The Newest Member of the Family (L47 req38)
+   unlocks: 4298 Becoming a Parent (L48 xp 440)
+   items: Silvermane Stalker Flank [11472] <- 1 mobs (Silvermane Stalker) RATE 0.22%
+
+92858 WANTED: Ohk'zi | L43 req39 | xp 4450 money 3000 | GROUP DROP ELITE | mobs to 43
+   from: obj WANTED! [581918] @ Feralas 31.1,43.8
+   to:   Latronicus Moonspear [7877] L57 @ Feralas 30.4,46.2
+   items: Staff of Ohk'zi [254692] <- 1 mobs (Ohk'zi) all-elite RATE 57.14%
+   rewards: Staff of Brutal Cunning [277253]
+
+2982 The High Wilderness | L44 req39 | xp 3750 money 6500 | - | mobs to 45
+   from: Angelas Moonbreeze [7900] L50 @ Feralas 31.8,45.6
+   to:   Angelas Moonbreeze [7900] L50 @ Feralas 31.8,45.6
+   kill: Gordunni Warlock [5240] L43-44 @ Feralas 59.8,64.7 (15) ; Gordunni Shaman [5236] L44-45 @ Feralas 60.8,67.8 (15) ; Gordunni Brute [5232] L42-43 @ Feralas 69.2,43.3 (33)
+
+2866 The Ruins of Solarsal | L43 req40 | xp 2700 money 0 | -
+   from: Shandris Feathermoon [3936] L62 @ Feralas 30.3,46.2
+   to:   obj Solarsal Gazebo [142179] @ Feralas 26.3,52.3
+   unlocks: 2867 Return to Feathermoon Stronghold (L43 xp 1800)
+   text: Explore the Ruins of Solarsal and investigate the presence of the naga there.
+
+2867 Return to Feathermoon Stronghold | L43 req40 | xp 1800 money 4500 | -
+   from: obj Solarsal Gazebo [142179] @ Feralas 26.3,52.3
+   to:   Shandris Feathermoon [3936] L62 @ Feralas 30.3,46.2
+   pre:  2866 The Ruins of Solarsal (L43 req40)
+   unlocks: 3130 Against the Hatecrest (L43 xp 360)
+   text: Return to Shandris Feathermoon in the Feathermoon Stronghold and report your findings.
+
+2869 Against the Hatecrest | L43 req40 | xp 2700 money 4500 | DROP | mobs to 47
+   from: Latronicus Moonspear [7877] L57 @ Feralas 30.4,46.2
+   to:   Latronicus Moonspear [7877] L57 @ Feralas 30.4,46.2
+   pre:  3130 Against the Hatecrest (L43 req40)
+   unlocks: 2870 Against Lord Shalzaru (L45 xp 2900)
+   items: Hatecrest Naga Scale [9247] <- 9 mobs (Hatecrest Warrior, Hatecrest Wave Rider, Hatecrest Serpent Guard...) RATE 13.3%
+
+3130 Against the Hatecrest | L43 req40 | xp 360 money 0 | -
+   from: Shandris Feathermoon [3936] L62 @ Feralas 30.3,46.2
+   to:   Latronicus Moonspear [7877] L57 @ Feralas 30.4,46.2
+   pre:  2867 Return to Feathermoon Stronghold (L43 req40)
+   unlocks: 2869 Against the Hatecrest (L43 xp 2700)
+   text: Report to Latronicus Moonspear in Feathermoon Stronghold.
+
+4124 The Missing Courier | L43 req40 | xp 360 money 0 | -
+   from: Latronicus Moonspear [7877] L57 @ Feralas 30.4,46.2
+   to:   Ginro Hearthkindle [7880] L55 @ Feralas 31.9,45.1
+   unlocks: 4125 The Missing Courier (L43 xp 2700)
+   text: Speak with Ginro Hearthkindle in Feathermoon Stronghold.
+
+4125 The Missing Courier | L43 req40 | xp 2700 money 0 | -
+   from: Ginro Hearthkindle [7880] L55 @ Feralas 31.9,45.1
+   to:   obj Wrecked Row Boat [164909] @ Feralas 45.4,65.0
+   pre:  4124 The Missing Courier (L43 req40)
+   unlocks: 4127 Boat Wreckage (L44 xp 375)
+   text: Locate the courier's boat somewhere along the coast of Feralas.
+
+4127 Boat Wreckage | L44 req40 | xp 375 money 0 | -
+   from: obj Wrecked Row Boat [164909] @ Feralas 45.4,65.0 / obj Wrecked Row Boat [186419] @ Feralas 45.8,65.7
+   to:   Ginro Hearthkindle [7880] L55 @ Feralas 31.9,45.1
+   pre:  4125 The Missing Courier (L43 req40)
+   unlocks: 4129 The Knife Revealed (L44 xp 375)
+   text: Return to Feathermoon Stronghold and show Ginro Hearthkindle the Discarded Knife you have found.
+
+4129 The Knife Revealed | L44 req40 | xp 375 money 0 | -
+   from: Ginro Hearthkindle [7880] L55 @ Feralas 31.9,45.1
+   to:   Quintis Jonespyre [7879] L55 @ Feralas 32.5,43.8
+   pre:  4127 Boat Wreckage (L44 req40)
+   unlocks: 4130 Psychometric Reading (L44 xp 375)
+   text: Take the Discarded Knife to Quintis Jonespyre in Feathermoon Stronghold.
+
+4130 Psychometric Reading | L44 req40 | xp 375 money 0 | -
+   from: Quintis Jonespyre [7879] L55 @ Feralas 32.5,43.8
+   to:   Ginro Hearthkindle [7880] L55 @ Feralas 31.9,45.1
+   pre:  4129 The Knife Revealed (L44 req40)
+   unlocks: 4131 The Woodpaw Gnolls (L44 xp 2800)
+   text: Speak with Ginro Hearthkindle in Feathermoon Stronghold.
+
+4131 The Woodpaw Gnolls | L44 req40 | xp 2800 money 0 | -
+   from: Ginro Hearthkindle [7880] L55 @ Feralas 31.9,45.1
+   to:   obj Large Leather Backpacks [164953] @ Feralas 73.3,56.3
+   pre:  4130 Psychometric Reading (L44 req40)
+   unlocks: 4135 The Writhing Deep (L46 xp 3050), 4281 Thalanaar Delivery (L44 xp 2800)
+   text: Search the Woodpaw Gnoll camps of southern Feralas for evidence of the courier's belongings or the courier himself.
+
+4281 Thalanaar Delivery | L44 req40 | xp 2800 money 6500 | -
+   from: item Undelivered Parcel [11463]
+   to:   Falfindel Waywarder [4048] L28 @ Feralas 89.6,46.6
+   pre:  4131 The Woodpaw Gnolls (L44 req40)
+   text: Bring the Undelivered Parcel to Falfindel Waywarder in Thalanaar.
+
+2766 Find OOX-22/FE! | L45 req40 | xp 3900 money 0 | -
+   from: item OOX-22/FE Distress Beacon [8705]
+   to:   Homing Robot OOX-22/FE [7807] L42 @ Feralas 53.4,55.7
+   unlocks: 2767 Rescue OOX-22/FE! (L45 xp 4850)
+   text: Take the distress beacon to Oglethorpe's homing robot in a cave near Feral Scar Vale.
+
+2767 Rescue OOX-22/FE! | L45 req40 | xp 4850 money 0 | -
+   from: Homing Robot OOX-22/FE [7807] L42 @ Feralas 53.4,55.7
+   to:   Oglethorpe Obnoticus [7406] L50 @ Stranglethorn 28.4,76.3
+   pre:  2766 Find OOX-22/FE! (L45 req40)
+   unlocks: 3721 An OOX of Your Own (L50 xp 7100)
+   text: Escort OOX-22/FE to the dock along the Forgotten Coast, then report to Oglethorpe Obnoticus in Booty Bay.
+   rewards: Failed Flying Experiment [9647], Chainlink Towel [9648]
+
+2870 Against Lord Shalzaru | L45 req40 | xp 2900 money 5000 | DROP | mobs to 47
+   from: Latronicus Moonspear [7877] L57 @ Feralas 30.4,46.2
+   to:   Latronicus Moonspear [7877] L57 @ Feralas 30.4,46.2
+   pre:  2869 Against the Hatecrest (L43 req40)
+   unlocks: 2871 Delivering the Relic (L45 xp 3900)
+   items: Mysterious Relic [9248] <- 1 mobs (Lord Shalzaru) RATE 80.0%
+
+2871 Delivering the Relic | L45 req40 | xp 3900 money 0 | -
+   from: Latronicus Moonspear [7877] L57 @ Feralas 30.4,46.2
+   to:   Vestia Moonspear [7878] L55 @ Feralas 30.1,45.1
+   pre:  2870 Against Lord Shalzaru (L45 req40)
+   text: Deliver the Mysterious Relic to Vestia Moonspear in Feathermoon Stronghold.
+   rewards: Dawnrider's Chestpiece [9663], Sentinel's Guard [9664]
+
+2821 The Mark of Quality | L46 req40 | xp 4050 money 0 | DROP | mobs to 48
+   from: Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   to:   Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   unlocks: 7733 Improved Quality (L48 xp 4400), 7735 Pristine Yeti Hide (L48 xp 2200)
+   items: Thick Yeti Hide [8973] <- 5 mobs (Feral Scar Yeti, Hulking Feral Scar, Enraged Feral Scar...) RATE 25.5%
+   rewards: Pratt's Handcrafted Boots [9630], Pratt's Handcrafted Gloves [9631]
+
+4135 The Writhing Deep | L46 req40 | xp 3050 money 0 | -
+   from: obj Large Leather Backpacks [164953] @ Feralas 73.3,56.3
+   to:   obj Zukk'ash Pod [164954] @ Feralas 72.1,63.7
+   pre:  4131 The Woodpaw Gnolls (L44 req40)
+   unlocks: 4265 Freed from the Hive (L46 xp 4050)
+   text: Now that Raschal's last known whereabouts have been discovered, continue your search for him or his remains in the Writhing Deep. According to the note, it is located to the south of the Woodpaw gnoll camps.
+
+4265 Freed from the Hive | L46 req40 | xp 4050 money 0 | -
+   from: obj Zukk'ash Pod [164954] @ Feralas 72.1,63.7
+   to:   Ginro Hearthkindle [7880] L55 @ Feralas 31.9,45.1
+   pre:  4135 The Writhing Deep (L46 req40)
+   unlocks: 4266 A Hero's Welcome (L46 xp 6050)
+   text: Free Raschal from the Zukk'ash hive.  Return to Ginro Hearthkindle in Feathermoon Stronghold and let him know that Raschal is alive and well.
+
+4266 A Hero's Welcome | L46 req40 | xp 6050 money 0 | -
+   from: Ginro Hearthkindle [7880] L55 @ Feralas 31.9,45.1
+   to:   Shandris Feathermoon [3936] L62 @ Feralas 30.3,46.2
+   pre:  4265 Freed from the Hive (L46 req40)
+   unlocks: 4267 Rise of the Silithid (L46 xp 405)
+   text: Speak with Shandris Feathermoon in Feathermoon Stronghold.
+   rewards: Ceremonial Elven Blade [11856], Sanctimonial Rod [11857]
+
+4267 Rise of the Silithid | L46 req40 | xp 405 money 0 | -
+   from: Shandris Feathermoon [3936] L62 @ Feralas 30.3,46.2
+   to:   Gracina Spiritmight [7740] L55 @ Darnassus 41.8,85.6
+   pre:  4266 A Hero's Welcome (L46 req40)
+   text: Bring Raschal's Report to Gracina Spiritmight in Darnassus.
+
+7733 Improved Quality | L48 req40 | xp 4400 money 7000 | DROP | mobs to 49
+   from: Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   to:   Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   pre:  2821 The Mark of Quality (L46 req40)
+   items: Rage Scar Yeti Hide [18947] <- 4 mobs (Rage Scar Yeti, Elder Rage Scar, Ferocious Rage Scar...) RATE 24.4%
+   rewards: Pratt's Handcrafted Tunic [19041]
+
+7735 Pristine Yeti Hide | L48 req40 | xp 2200 money 7000 | -
+   from: item Pristine Yeti Hide [18969]
+   to:   Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   pre:  2821 The Mark of Quality (L46 req40)
+   text: Bring the Pristine Yeti Hide to Pratt McGrubben at the Feathermoon Stronghold, Feralas.
+
+95555 Corrupted Nature | L50 req40 | xp 4700 money 7500 | SIDE? NOTINQDB NOSTART NOEND
+   from: ?
+   to:   ?
+
+2939 In Search of Knowledge | L47 req42 | xp 420 money 0 | -
+   from: Troyas Moonbreeze [7764] L50 @ Feralas 31.8,45.5
+   to:   Daryn Lightwind [7907] L30 @ Teldrassil 55.4,92.2
+   unlocks: 2940 Feralas: A History (L47 xp 420)
+   text: Talk to Daryn Lightwind in Rut'theran Village.
+
+2940 Feralas: A History | L47 req42 | xp 420 money 0 | -
+   from: obj Feralas: A History [142958] @ Teldrassil 55.2,91.5
+   to:   Daryn Lightwind [7907] L30 @ Teldrassil 55.4,92.2
+   pre:  2939 In Search of Knowledge (L47 req42)
+   unlocks: 2941 The Borrower (L48 xp 1100)
+   text: Ask Daryn Lightwind if you may borrow her book.
+
+2941 The Borrower | L48 req42 | xp 1100 money 0 | -
+   from: Daryn Lightwind [7907] L30 @ Teldrassil 55.4,92.2
+   to:   Curgle Cranklehop [7763] L48 @ Tanaris 52.4,26.9
+   pre:  2940 Feralas: A History (L47 req42)
+   unlocks: 2944 The Super Snapper FX (L48 xp 4400)
+   text: Take the letter to Curgle Cranklehop in Tanaris.
+
+2943 Return to Troyas | L48 req42 | xp 3300 money 0 | -
+   from: Daryn Lightwind [7907] L30 @ Teldrassil 55.4,92.2
+   to:   Troyas Moonbreeze [7764] L50 @ Feralas 31.8,45.5
+   pre:  2944 The Super Snapper FX (L48 req42)
+   unlocks: 2879 The Stave of Equinex (L50 xp 4700)
+   text: Deliver the book to Troyas Moonbreeze in Feathermoon Stronghold.
+
+2944 The Super Snapper FX | L48 req42 | xp 4400 money 0 | GROUP DROP ELITE | mobs to 48
+   from: Curgle Cranklehop [7763] L48 @ Tanaris 52.4,26.9
+   to:   Daryn Lightwind [7907] L30 @ Teldrassil 55.4,92.2
+   pre:  2941 The Borrower (L48 req42)
+   unlocks: 2943 Return to Troyas (L48 xp 3300)
+   items: Snapshot of Gammerita [9330] <- 1 mobs (Gammerita) all-elite RATE ?
+
+2879 The Stave of Equinex | L50 req42 | xp 4700 money 0 | -
+   from: Troyas Moonbreeze [7764] L50 @ Feralas 31.8,45.5
+   to:   obj Equinex Monolith [144063] @ Feralas 38.8,13.2
+   pre:  2943 Return to Troyas (L48 req42)
+   unlocks: 2942 The Morrow Stone (L50 xp 4700)
+   items: Stave of Equinex [9306] <- 1 objects (Equinex Monolith)
+   rewards: A Sparkling Stone [9307]
+
+2942 The Morrow Stone | L50 req42 | xp 4700 money 0 | -
+   from: obj Equinex Monolith [144063] @ Feralas 38.8,13.2
+   to:   Troyas Moonbreeze [7764] L50 @ Feralas 31.8,45.5
+   pre:  2879 The Stave of Equinex (L50 req42)
+   items: A Sparkling Stone [9307] <- no source in qdb
+   rewards: Cairnstone Sliver [9654], Seedtime Hoop [9655]
+
+2844 The Giant Guardian | L49 req44 | xp 3400 money 0 | -
+   from: Rockbiter [7765] L45 @ Feralas 42.4,22.0
+   to:   Shay Leafrunner [7774] L50 @ Feralas 38.2,10.3
+   unlocks: 2845 Wandering Shay (L49 xp 4550)
+   text: Locate the lost night elf girl.
+
+2845 Wandering Shay | L49 req44 | xp 4550 money 0 | -
+   from: Shay Leafrunner [7774] L50 @ Feralas 38.2,10.3
+   to:   Rockbiter [7765] L45 @ Feralas 42.4,22.0
+   pre:  2844 The Giant Guardian (L49 req44)
+   items: Shay's Bell [9189] <- 1 objects (Shay's Chest)
+   rewards: Granite Grips [9656], Vinehedge Cinch [9657]
+
+7003 Zapped Giants | L48 req45 | xp 4400 money 7000 | DROP | mobs to 50
+   from: Zorbin Fandazzle [14637] L40 @ Feralas 44.8,43.4
+   to:   Zorbin Fandazzle [14637] L40 @ Feralas 44.8,43.4
+   unlocks: 7725 Again With the Zapped Giants (L55 xp 560)
+   items: Miniaturization Residue [18956] <- 10 mobs (Land Walker, Cliff Giant, Shore Strider...) RATE 74.9%
+   rewards: Zorbin's Mega-Slicer [19040]
+
+7721 Fuel for the Zapping | L48 req45 | xp 4400 money 7000 | DROP | mobs to 49
+   from: Zorbin Fandazzle [14637] L40 @ Feralas 44.8,43.4
+   to:   Zorbin Fandazzle [14637] L40 @ Feralas 44.8,43.4
+   unlocks: 7726 Refuel for the Zapping (L55 xp 560)
+   items: Water Elemental Core [18958] <- 2 mobs (Sea Elemental, Sea Spray) RATE 55.5%
+   rewards: Zorbin's Water Resistant Hat [19039]
+
+7725 Again With the Zapped Giants | L55 req45 | xp 560 money 2100 | DROP | mobs to 50
+   from: Zorbin Fandazzle [14637] L40 @ Feralas 44.8,43.4
+   to:   Zorbin Fandazzle [14637] L40 @ Feralas 44.8,43.4
+   pre:  7003 Zapped Giants (L48 req45)
+   items: Miniaturization Residue [18956] <- 10 mobs (Land Walker, Cliff Giant, Shore Strider...) RATE 74.9%
+
+7726 Refuel for the Zapping | L55 req45 | xp 560 money 2100 | DROP | mobs to 49
+   from: Zorbin Fandazzle [14637] L40 @ Feralas 44.8,43.4
+   to:   Zorbin Fandazzle [14637] L40 @ Feralas 44.8,43.4
+   pre:  7721 Fuel for the Zapping (L48 req45)
+   items: Water Elemental Core [18958] <- 2 mobs (Sea Elemental, Sea Spray) RATE 55.5%
+
+3445 The Sunken Temple | L51 req46 | xp 3650 money 0 | -
+   from: Angelas Moonbreeze [7900] L50 @ Feralas 31.8,45.6
+   to:   Marvon Rivetseeker [7771] L40 @ Tanaris 52.7,45.9
+   unlocks: 3444 The Stone Circle (L51 xp 4900)
+   text: Find Marvon Rivetseeker in Tanaris.
+
+3909 The Videre Elixir | L52 req47 | xp 5100 money 0 | DROP | mobs to 45
+   from: Donova Snowden [9298] L50 @ Winterspring 31.3,45.2
+   to:   Donova Snowden [9298] L50 @ Winterspring 31.3,45.2
+   pre:  3908 It's a Secret to Everybody (L52 req47)
+   unlocks: 3912 Meet at the Grave (L52 xp 5100)
+   items: Videre Elixir [11243] <- 1 mobs (Gregan Brewspewer) RATE ?
+
+4041 The Videre Elixir | L52 req47 | xp None money 0 | NOXP
+   from: Gregan Brewspewer [7775] L45 @ Feralas 45.1,25.6
+   to:   Gregan Brewspewer [7775] L45 @ Feralas 45.1,25.6
+   items: Evoroot [11242] <- 1 objects (Evoroot)
+   rewards: Videre Elixir [11243]

@@ -1,0 +1,58 @@
+# Zul'Farrak (category 1176): 10 quests, 43,595 XP; clean (no drop / elite / group / dungeon / skill flag) 0 quests 0 XP
+
+96770 The Witch Doctor's Head | L46 req39 | xp 5050 money 13000 | DUNGEON DROP | mobs to 46
+   from: Archmage Lan'dalock [20735] L35 ELITE @ Alterac 15.3,73.9
+   to:   Archmage Lan'dalock [20735] L35 ELITE @ Alterac 15.3,73.9
+   items: Zum'rah's Head [277112] <- 2 mobs (Witch Doctor Zum'rah, Witch Doctor Zum'rah) RATE 28.1%
+
+2864 Tran'rek | L45 req40 | xp 390 money 0 | DUNGEON
+   from: Krazek [773] L35 @ Stranglethorn 26.9,77.2
+   to:   Tran'rek [7876] L45 @ Tanaris 51.6,26.8
+   text: Speak with Tran'rek in Gadgetzan.
+
+2865 Scarab Shells | L45 req40 | xp 3900 money 6500 | DUNGEON DROP | mobs to 46
+   from: Tran'rek [7876] L45 @ Tanaris 51.6,26.8
+   to:   Tran'rek [7876] L45 @ Tanaris 51.6,26.8
+   items: Uncracked Scarab Shell [9238] <- 1 mobs (Scarab) RATE 36.15%
+
+3042 Troll Temper | L45 req40 | xp 3900 money 19500 | DUNGEON DROP | mobs to 48
+   from: Trenton Lighthammer [7804] L55 @ Tanaris 51.4,28.8
+   to:   Trenton Lighthammer [7804] L55 @ Tanaris 51.4,28.8
+   items: Troll Temper [9523] <- 18 mobs (Sandfury Shadowcaster, Sandfury Blood Drinker, Sandfury Witch Doctor...) RATE 15.6%
+
+2846 Tiara of the Deep | L46 req40 | xp 6050 money 6500 | DUNGEON DROP | mobs to 46
+   from: Tabetha [6546] L62 @ Dustwallow 46.1,57.1
+   to:   Tabetha [6546] L62 @ Dustwallow 46.1,57.1
+   items: Tiara of the Deep [9234] <- 1 mobs (Hydromancer Velratha) all-elite RATE 43.09%
+   rewards: Gemshale Pauldrons [9531], Dank Shoulderpads [270098], Spellshifter Rod [9527]
+
+2861 Tabetha's Task | L46 req40 | xp 405 money 0 | DUNGEON
+   from: Anastasia Hartwell [4568] L40 @ 1497 85.1,10.0 / Bink [5144] L40 @ Ironforge 27.2,8.3 / Jennea Cannon [5497] L40 @ Stormwind 49.6,85.8 / Deino [5885] L40 @ 1637 38.5,86.1
+   to:   Tabetha [6546] L62 @ Dustwallow 46.1,57.1
+   text: Speak with Tabetha in Dustwallow Marsh.
+
+2768 Divino-matic Rod | L47 req40 | xp 6300 money 0 | DUNGEON DROP | mobs to 45
+   from: Chief Engineer Bilgewhizzle [7407] L50 @ Tanaris 52.5,28.5
+   to:   Chief Engineer Bilgewhizzle [7407] L50 @ Tanaris 52.5,28.5
+   items: Divino-matic Rod [8548] <- 1 mobs (Sergeant Bly) all-elite RATE 36.92%
+   rewards: Masons Fraternity Ring [9533], Engineer's Guild Headpiece [9534], Magister Cowl [270099]
+
+2991 Nekrum's Medallion | L47 req40 | xp 5250 money 7000 | DUNGEON DROP | mobs to 46
+   from: Thadius Grimshade [8022] L50 @ Blasted Lands 66.9,19.5
+   to:   Thadius Grimshade [8022] L50 @ Blasted Lands 66.9,19.5
+   pre:  2990 Thadius Grimshade (L47 req40)
+   unlocks: 2992 The Divination (L47 xp 1050)
+   items: Nekrum's Medallion [9471] <- 1 mobs (Nekrum Gutchewer) all-elite RATE 11.68%
+
+3527 The Prophecy of Mosh'aru | L47 req40 | xp 5250 money 0 | DUNGEON DROP | mobs to 46
+   from: Yeh'kinya [8579] L41 @ Tanaris 67.0,22.4
+   to:   Yeh'kinya [8579] L41 @ Tanaris 67.0,22.4
+   pre:  3520 Screecher Spirits (L44 req40)
+   unlocks: 4787 The Ancient Egg (L50 xp 5900)
+   items: First Mosh'aru Tablet [10660] <- 2 mobs (Theka the Martyr, Theka the Martyr Shapeshift) all-elite RATE 21.8% ; Second Mosh'aru Tablet [10661] <- 1 mobs (Hydromancer Velratha) all-elite RATE 34.73%
+
+2770 Gahz'rilla | L50 req40 | xp 7100 money 7500 | DUNGEON DROP | mobs to 46
+   from: Wizzle Brassbolts [4453] L31 @ Thousand Needles 78.1,77.1
+   to:   Wizzle Brassbolts [4453] L31 @ Thousand Needles 78.1,77.1
+   items: Gahz'rilla's Electrified Scale [8707] <- 1 mobs (Gahz'rilla) all-elite RATE 33.6%
+   rewards: Carrot on a Stick [11122]

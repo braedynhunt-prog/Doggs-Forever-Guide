@@ -1,0 +1,7 @@
+# stonetalon-mountains (category 406): 1 quests, 0 XP; clean (no drop / elite / group / dungeon / skill flag) 0 quests 0 XP
+
+80001 Rekindle | L40 req1 | xp None money 0 | NOXP | mobs to 42
+   from: obj Firepit [424082] @ stonetalon-mountains 40.6,52.4
+   to:   obj Firepit [424082] @ stonetalon-mountains 40.6,52.4
+   items: Simple Wood [4470] <- 1 objects (Dirt-stained Map); vendor ; Flint and Tinder [4471] <- 1 mobs (Horizon Scout Crewman); 1 objects (Dirt-stained Map); vendor
+   rewards: Flint and Tinder [4471]

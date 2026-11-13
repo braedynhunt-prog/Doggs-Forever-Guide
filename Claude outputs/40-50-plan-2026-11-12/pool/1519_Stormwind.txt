@@ -1,0 +1,74 @@
+# Stormwind (category 1519): 12 quests, 27,140 XP; clean (no drop / elite / group / dungeon / skill flag) 8 quests 11,640 XP
+
+543 The Perenolde Tiara | L40 req30 | xp 4700 money 15000 | GROUP DROP ELITE | mobs to 39
+   from: Count Remington Ridgewell [2285] L40 @ Stormwind 76.9,47.8
+   to:   Count Remington Ridgewell [2285] L40 @ Stormwind 76.9,47.8
+   items: Perenolde Tiara [3684] <- 1 mobs (Grel'borg the Miser) all-elite RATE 55.15%
+
+212 A Meal Served Cold | L40 req35 | xp 3900 money 10000 | DROP | mobs to 40
+   from: Angus Stern [1141] L60 @ Stormwind 51.8,93.6
+   to:   Angus Stern [1141] L60 @ Stormwind 51.8,93.6
+   items: Chilled Basilisk Haunch [2476] <- 1 mobs (Cold Eye Basilisk) RATE 3.06%
+
+1363 Mazen's Behest | L41 req37 | xp 330 money 0 | -
+   from: Mazen Mac'Nadir [338] L44 @ Stormwind 51.8,74.2
+   to:   Acolyte Dellis [5386] L15 @ Stormwind 51.4,73.8
+   unlocks: 1364 Mazen's Behest (L41 xp 3300)
+   text: Speak with Acolyte Dellis in Stormwind.
+
+1364 Mazen's Behest | L41 req37 | xp 3300 money 0 | DROP | mobs to 42
+   from: Acolyte Dellis [5386] L15 @ Stormwind 51.4,73.8
+   to:   Watcher Mahar Ba [5385] L45 @ Blasted Lands 67.7,19.2
+   pre:  1363 Mazen's Behest (L41 req37)
+   items: Khadgar's Essays on Dimensional Convergence [6065] <- 4 mobs (Swampwalker, Swampwalker Elder, Tangled Horror...) RATE 5.0%
+   rewards: Teacher's Sash [10747], Wanderlust Boots [10748]
+
+1448 In Search of The Temple | L43 req38 | xp 3600 money 0 | GROUP
+   from: Brohann Caskbelly [5384] L40 @ Stormwind 69.5,40.4
+   to:   Brohann Caskbelly [5384] L40 @ Stormwind 69.5,40.4
+   unlocks: 1449 To The Hinterlands (L43 xp 1800)
+   text: Brohann Caskbelly in Stormwind wants you to search for the Temple of Atal'Hakkar.
+
+1449 To The Hinterlands | L43 req38 | xp 1800 money 0 | -
+   from: Brohann Caskbelly [5384] L40 @ Stormwind 69.5,40.4
+   to:   Falstad Wildhammer [5635] L50 @ Hinterlands 11.8,46.8
+   pre:  1448 In Search of The Temple (L43 req38)
+   unlocks: 1450 Gryphon Master Talonaxe (L43 xp 890)
+   text: Speak with High Thane Falstad Wildhammer at Aerie Peak in the Hinterlands.
+
+1477 Vital Supplies | L45 req40 | xp 970 money 0 | -
+   from: High Sorcerer Andromath [5694] L62 @ Stormwind 48.7,87.6
+   to:   Watchmaster Sorigal [5464] L29 @ Duskwood 75.8,46.2
+   text: Speak with Watchmaster Sorigal.
+
+3787 Jonespyre's Request | L50 req47 | xp 1200 money 0 | -
+   from: Tannysa [5566] L35 @ Stormwind 54.3,84.1
+   to:   Quintis Jonespyre [7879] L55 @ Feralas 32.5,43.8
+   pre:  3781 Morrowgrain Research (L50 req47)
+   exclusive to: [3788]
+   text: Speak with Quintis Jonespyre in Feathermoon Stronghold.
+
+3789 Assisting Arch Druid Staghelm | L50 req47 | xp 470 money 0 | -
+   from: Innkeeper Allison [6740] L30 @ Stormwind 60.4,75.3
+   to:   Arch Druid Fandral Staghelm [3516] L63 BOSS @ Darnassus 34.8,9.3
+   exclusive to: [3763, 3790]
+   text: Speak with Arch Druid Fandral Staghelm in Darnassus.
+
+95264 Shaw Needs To Know | L53 req48 | xp 1300 money 8000 | -
+   from: Sully McCleary [260271] L50 @ Dustwallow 63.5,42.3
+   to:   Master Mathias Shaw [332] L62 @ Stormwind 78.3,70.7
+   text: Bring the news to Matthias Shaw in Stormwind.
+   rewards: Courier's Clasp [279833], Fatebound Buckler [279831], Dustwallow Dirk [279474]
+
+5066 A Call to Arms: The Plaguelands! | L50 req50 | xp 470 money 0 | -
+   from: Crier Goodman [2198] L3 @ Stormwind 56.4,74.1
+   to:   Commander Ashlam Valorfist [10838] L61 @ W Plaguelands 42.7,84.0
+   exclusive to: [5090, 5091]
+   text: Seek out Commander Ashlam Valorfist. His base camp is located at Chillwind Camp, north of the Alterac Mountains.
+
+5048 Good Natured Emma | L52 req50 | xp 5100 money 0 | -
+   from: Royal Factor Bathrilor [10782] L40 @ Stormwind 57.2,48.1
+   to:   Ol' Emma [3520] L2 @ Stormwind 60.2,57.0
+   pre:  5022 Better Late Than Never (L52 req50)
+   unlocks: 5050 Good Luck Charm (L52 xp 2550)
+   text: Find Ol' Emma in Stormwind and see if she is in fact Emma Felstone. If she is, then perhaps she'd like the package Janice Felstone made for her.

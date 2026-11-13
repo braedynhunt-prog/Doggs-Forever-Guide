@@ -1,0 +1,20 @@
+# 0 (category 0): 3 quests, 3,000 XP; clean (no drop / elite / group / dungeon / skill flag) 1 quests 3,000 XP
+
+7838 Arena Grandmaster | L55 req0 | xp None money 0 | NOXP
+   from: Short John Mithril [14508] L47 @ Stranglethorn 29.6,47.4
+   to:   Short John Mithril [14508] L47 @ Stranglethorn 29.6,47.4
+   pre:  7810 Arena Master (L55 req1)
+   items: Arena Master [18706] <- 1 objects (Arena Treasure Chest)
+   rewards: Arena Grand Master [19024]
+
+8405 Fight for Warsong Gulch | L39 req30 | xp 3000 money 4500 | -
+   from: Alliance Brigadier General [15351] L60 @ Alterac 39.3,82.3
+   to:   Alliance Brigadier General [15351] L60 @ Alterac 39.3,82.3
+   pre:  8372 Fight for Warsong Gulch (L19 req10) ; 8399 Fight for Warsong Gulch (L29 req20) ; 8400 Fight for Warsong Gulch (L39 req30)
+   items: Warsong Gulch Mark of Honor [20558] <- no source in qdb
+
+8406 Fight for Warsong Gulch | L49 req40 | xp None money 0 | NOXP
+   from: Alliance Brigadier General [15351] L60 @ Alterac 39.3,82.3
+   to:   Alliance Brigadier General [15351] L60 @ Alterac 39.3,82.3
+   pre:  8372 Fight for Warsong Gulch (L19 req10) ; 8399 Fight for Warsong Gulch (L29 req20) ; 8400 Fight for Warsong Gulch (L39 req30) ; 8401 Fight for Warsong Gulch (L49 req40)
+   items: Warsong Gulch Mark of Honor [20558] <- no source in qdb

@@ -1,0 +1,148 @@
+# W Plaguelands (category 28): 22 quests, 61,520 XP; clean (no drop / elite / group / dungeon / skill flag) 13 quests 41,640 XP
+
+5903 A Plague Upon Thee | L55 req48 | xp 5650 money 8500 | -
+   from: Nathaniel Dumah [11616] L55 @ W Plaguelands 43.4,84.8
+   to:   Nathaniel Dumah [11616] L55 @ W Plaguelands 43.4,84.8
+   unlocks: 5904 A Plague Upon Thee (L55 xp 2800)
+   items: Plagueland Termites [15043] <- 1 objects (Large Termite Mound)
+
+5904 A Plague Upon Thee | L55 req48 | xp 2800 money 0 | -
+   from: Nathaniel Dumah [11616] L55 @ W Plaguelands 43.4,84.8
+   to:   obj Termite Barrel [177491] @ W Plaguelands 48.3,32.0
+   pre:  5903 A Plague Upon Thee (L55 req48)
+   unlocks: 6389 A Plague Upon Thee (L55 xp 5650)
+   text: Find someplace suitable in the center of the Northridge Lumber Mill in Western Plaguelands to place the Barrel of Plagueland Termites.
+
+6389 A Plague Upon Thee | L55 req48 | xp 5650 money 8500 | -
+   from: obj Termite Barrel [177491] @ W Plaguelands 48.3,32.0
+   to:   Nathaniel Dumah [11616] L55 @ W Plaguelands 43.4,84.8
+   pre:  5904 A Plague Upon Thee (L55 req48)
+   text: Release the Plagueland Termites in the Northridge Lumber Mill, then return with the Barrel of Plagueland Termites to Nathaniel Dumah at Chillwind Camp in Western Plaguelands.
+
+5021 Better Late Than Never | L52 req50 | xp 2550 money 0 | -
+   from: Janice Felstone [10778] L5 @ W Plaguelands 38.4,54.0
+   to:   obj Janice's Parcel [175894] @ W Plaguelands 38.7,55.2
+   unlocks: 5022 Better Late Than Never (L52 xp 2550)
+   text: The ramblings of the ghostly woman indicated that she needed a package delivered. She claimed that it was where her horse was. As to where the horse is or where the package was to be delivered - the ghost remains incomprehensible.
+
+5022 Better Late Than Never | L52 req50 | xp 2550 money 0 | -
+   from: obj Janice's Parcel [175894] @ W Plaguelands 38.7,55.2
+   to:   Royal Factor Bathrilor [10782] L40 @ Stormwind 57.2,48.1
+   pre:  5021 Better Late Than Never (L52 req50)
+   unlocks: 5048 Good Natured Emma (L52 xp 5100)
+   text: Check with the Royal Factors of Stormwind to learn the whereabouts of an Emma Felstone. There is usually a census officer located in City Hall.
+
+5050 Good Luck Charm | L52 req50 | xp 2550 money 0 | -
+   from: Ol' Emma [3520] L2 @ Stormwind 60.2,57.0 / Jeremiah Payson [8403] L30 @ 1497 67.6,44.2
+   to:   Janice Felstone [10778] L5 @ W Plaguelands 38.4,54.0
+   pre:  5048 Good Natured Emma (L52 req50) ; 5049 The Jeremiah Blues (no Wowhead row)
+   unlocks: 5051 Two Halves Become One (L54 xp 5450)
+   text: Return to Janice Felstone in Western Plaguelands her Good Luck Half-Charm.
+
+5092 Clear the Way | L52 req50 | xp 5100 money 7500 | - | mobs to 52
+   from: Commander Ashlam Valorfist [10838] L61 @ W Plaguelands 42.7,84.0
+   to:   Commander Ashlam Valorfist [10838] L61 @ W Plaguelands 42.7,84.0
+   unlocks: 5097 All Along the Watchtowers (L56 xp 5800), 5215 The Scourge Cauldrons (L53 xp 530)
+   kill: Skeletal Flayer [1783] L50-51 @ W Plaguelands 43.7,67.3 (45) ; Slavering Ghoul [1791] L50-52 @ W Plaguelands 46.3,70.7 (45)
+
+5215 The Scourge Cauldrons | L53 req50 | xp 530 money 0 | -
+   from: Commander Ashlam Valorfist [10838] L61 @ W Plaguelands 42.7,84.0
+   to:   High Priestess MacDonnell [11053] L60 @ W Plaguelands 43.0,84.5
+   pre:  5092 Clear the Way (L52 req50)
+   unlocks: 5216 Target: Felstone Field (L53 xp 5250)
+   text: Speak with High Priestess MacDonnell at Chillwind Point, Western Plaguelands.
+
+5216 Target: Felstone Field | L53 req50 | xp 5250 money 0 | DROP | mobs to 53
+   from: High Priestess MacDonnell [11053] L60 @ W Plaguelands 43.0,84.5
+   to:   obj Scourge Cauldron [176361] @ W Plaguelands 37.2,56.8
+   pre:  5215 The Scourge Cauldrons (L53 req50)
+   unlocks: 5217 Return to Chillwind Camp (L53 xp 2650)
+   items: Felstone Field Cauldron Key [13194] <- 1 mobs (Cauldron Lord Bilemaw) RATE 100.0%
+
+5217 Return to Chillwind Camp | L53 req50 | xp 2650 money 8000 | -
+   from: obj Scourge Cauldron [176361] @ W Plaguelands 37.2,56.8
+   to:   High Priestess MacDonnell [11053] L60 @ W Plaguelands 43.0,84.5
+   pre:  5216 Target: Felstone Field (L53 req50)
+   unlocks: 5218 Felstone Field Cauldron (L53 xp 530), 5219 Target: Dalson's Tears (L55 xp 5650)
+   text: Bring the Filled Felstone Field Bottle to High Priestess MacDonnell at Chillwind Camp, Western Plaguelands.
+
+5218 Felstone Field Cauldron | L53 req50 | xp 530 money 0 | DROP | mobs to 61
+   from: obj Scourge Cauldron [176361] @ W Plaguelands 37.2,56.8
+   to:   obj Scourge Cauldron [176361] @ W Plaguelands 37.2,56.8
+   pre:  5217 Return to Chillwind Camp (L53 req50) ; 5230 Return to the Bulwark (HORDE)
+   items: Arcane Quickener [13320] <- vendor ; Osseous Agitator [13357] <- 10 mobs (Skeletal Flayer, Skeletal Sorcerer, Skeletal Terror...) RATE 2.1% ; Runecloth [14047] <- 3 objects (Heavy Fel Iron Chest)
+
+5051 Two Halves Become One | L54 req50 | xp 5450 money 0 | -
+   from: Janice Felstone [10778] L5 @ W Plaguelands 38.4,54.0
+   to:   Janice Felstone [10778] L5 @ W Plaguelands 38.4,54.0
+   pre:  5050 Good Luck Charm (L52 req50)
+   items: Good Luck Charm [12723] <- no source in qdb
+   rewards: Felstone Good Luck Charm [13473]
+
+5219 Target: Dalson's Tears | L55 req50 | xp 5650 money 0 | DROP | mobs to 55
+   from: High Priestess MacDonnell [11053] L60 @ W Plaguelands 43.0,84.5
+   to:   obj Scourge Cauldron [177289] @ W Plaguelands 46.2,51.9
+   pre:  5217 Return to Chillwind Camp (L53 req50)
+   unlocks: 5220 Return to Chillwind Camp (L55 xp 2800)
+   items: Dalson's Tears Cauldron Key [13195] <- 1 mobs (Cauldron Lord Malvinious) RATE 100.0%
+
+5220 Return to Chillwind Camp | L55 req50 | xp 2800 money 8500 | -
+   from: obj Scourge Cauldron [177289] @ W Plaguelands 46.2,51.9
+   to:   High Priestess MacDonnell [11053] L60 @ W Plaguelands 43.0,84.5
+   pre:  5219 Target: Dalson's Tears (L55 req50)
+   unlocks: 5221 Dalson's Tears Cauldron (L55 xp 560), 5222 Target: Writhing Haunt (L55 xp 5650)
+   text: Bring the Filled Dalson's Tears Bottle to High Priestess MacDonnell at Chillwind Camp, Western Plaguelands.
+
+5221 Dalson's Tears Cauldron | L55 req50 | xp 560 money 0 | DROP | mobs to 61
+   from: obj Scourge Cauldron [177289] @ W Plaguelands 46.2,51.9
+   to:   obj Scourge Cauldron [177289] @ W Plaguelands 46.2,51.9
+   pre:  5220 Return to Chillwind Camp (L55 req50) ; 5232 Return to the Bulwark (HORDE)
+   items: Arcane Quickener [13320] <- vendor ; Somatic Intensifier [13356] <- 15 mobs (Slavering Ghoul, Rotting Ghoul, Soulless Ghoul...) RATE 4.8% ; Runecloth [14047] <- 3 objects (Heavy Fel Iron Chest)
+
+5222 Target: Writhing Haunt | L55 req50 | xp 5650 money 0 | DROP | mobs to 56
+   from: High Priestess MacDonnell [11053] L60 @ W Plaguelands 43.0,84.5
+   to:   obj Scourge Cauldron [176393] @ W Plaguelands 53.0,65.6
+   pre:  5220 Return to Chillwind Camp (L55 req50)
+   unlocks: 5223 Return to Chillwind Camp (L55 xp 2800)
+   items: Writhing Haunt Cauldron Key [13197] <- 1 mobs (Cauldron Lord Razarch) RATE 66.67%
+
+5223 Return to Chillwind Camp | L55 req50 | xp 2800 money 8500 | -
+   from: obj Scourge Cauldron [176393] @ W Plaguelands 53.0,65.6
+   to:   High Priestess MacDonnell [11053] L60 @ W Plaguelands 43.0,84.5
+   pre:  5222 Target: Writhing Haunt (L55 req50)
+   unlocks: 5224 Writhing Haunt Cauldron (L55 xp 560), 5225 Target: Gahrron's Withering (L58 xp 6200)
+   text: Bring the Filled Writhing Haunt Bottle to High Priestess MacDonnell at Chillwind Camp, Western Plaguelands.
+
+5224 Writhing Haunt Cauldron | L55 req50 | xp 560 money 0 | DROP | mobs to 61
+   from: obj Scourge Cauldron [176393] @ W Plaguelands 53.0,65.6
+   to:   obj Scourge Cauldron [176393] @ W Plaguelands 53.0,65.6
+   pre:  5223 Return to Chillwind Camp (L55 req50) ; 5234 Return to the Bulwark (HORDE)
+   items: Arcane Quickener [13320] <- vendor ; Somatic Intensifier [13356] <- 15 mobs (Slavering Ghoul, Rotting Ghoul, Soulless Ghoul...) RATE 4.8% ; Runecloth [14047] <- 3 objects (Heavy Fel Iron Chest)
+
+5401 Argent Dawn Commission | L55 req50 | xp 560 money 0 | -
+   from: Argent Officer Pureheart [10840] L60 @ W Plaguelands 43.0,83.5
+   to:   Argent Officer Pureheart [10840] L60 @ W Plaguelands 43.0,83.5
+   exclusive to: [5405, 5503]
+   unlocks: 5402 Minion's Scourgestones (L55 xp 560), 5403 Invader's Scourgestones (L55 xp 560), 5404 Corruptor's Scourgestones (L55 xp 560), 5508 Corruptor's Scourgestones (L55 xp 560), 5509 Invader's Scourgestones (L55 xp 560), 5510 Minion's Scourgestones (L55 xp 560)
+   rewards: Argent Dawn Commission [12846]
+
+5402 Minion's Scourgestones | L55 req50 | xp 560 money 0 | DROP | mobs to 59
+   from: Argent Officer Pureheart [10840] L60 @ W Plaguelands 43.0,83.5
+   to:   Argent Officer Pureheart [10840] L60 @ W Plaguelands 43.0,83.5
+   pre:  5401 Argent Dawn Commission (L55 req50) ; 5503 Argent Dawn Commission (L55 req50) ; 5405 Argent Dawn Commission (HORDE)
+   items: Minion's Scourgestone [12840] <- 47 mobs (Skeletal Flayer, Skeletal Sorcerer, Skeletal Terror...) RATE 34.8%
+   rewards: Argent Dawn Valor Token [12844]
+
+5403 Invader's Scourgestones | L55 req50 | xp 560 money 0 | DROP | mobs to 62
+   from: Argent Officer Pureheart [10840] L60 @ W Plaguelands 43.0,83.5
+   to:   Argent Officer Pureheart [10840] L60 @ W Plaguelands 43.0,83.5
+   pre:  5401 Argent Dawn Commission (L55 req50) ; 5503 Argent Dawn Commission (L55 req50) ; 5405 Argent Dawn Commission (HORDE)
+   items: Invader's Scourgestone [12841] <- 78 mobs (Skeletal Warlord, Flesh Golem, Lord Maldazzar...) RATE 27.5%
+   rewards: Argent Dawn Valor Token [12844]
+
+5404 Corruptor's Scourgestones | L55 req50 | xp 560 money 0 | DROP | mobs to 62
+   from: Argent Officer Pureheart [10840] L60 @ W Plaguelands 43.0,83.5
+   to:   Argent Officer Pureheart [10840] L60 @ W Plaguelands 43.0,83.5
+   pre:  5401 Argent Dawn Commission (L55 req50) ; 5503 Argent Dawn Commission (L55 req50) ; 5405 Argent Dawn Commission (HORDE)
+   items: Corruptor's Scourgestone [12843] <- 33 mobs (Putridius, Araj the Summoner, Darkmaster Gandling...) RATE 86.4%
+   rewards: Argent Dawn Valor Token [12844]

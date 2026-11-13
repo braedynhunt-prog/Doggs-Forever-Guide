@@ -1,0 +1,72 @@
+# BRD (category 1584): 12 quests, 48,970 XP; clean (no drop / elite / group / dungeon / skill flag) 0 quests 0 XP
+
+4083 The Spectral Chalice | L55 req40 | xp 5650 money 0 | DUNGEON SKILL[186, 230]
+   from: obj Spectral Chalice [164869] @ 1585 -1.0,-1.0
+   to:   obj Spectral Chalice [164869] @ 1585 -1.0,-1.0
+   items: Star Ruby [7910] <- 34 objects (Small Thorium Vein) ; Gold Bar [3577] <- 15 objects (Battered Chest) ; Truesilver Bar [6037] <- 8 objects (Solid Chest)
+
+3801 Dark Iron Legacy | L52 req48 | xp 510 money 0 | DUNGEON
+   from: Franclorn Forgewright [8888] L60 @ Burning Steppes 29.0,28.9
+   to:   Franclorn Forgewright [8888] L60 @ Burning Steppes 29.0,28.9
+   unlocks: 3802 Dark Iron Legacy (L52 xp 5100)
+   text: Speak with Franclorn Forgewright if you are interested in obtaining a key to the city major.
+
+3802 Dark Iron Legacy | L52 req48 | xp 5100 money 23000 | DUNGEON DROP | mobs to 54
+   from: Franclorn Forgewright [8888] L60 @ Burning Steppes 29.0,28.9
+   to:   obj Monument of Franclorn Forgewright [164689] @ 1585 -1.0,-1.0
+   pre:  3801 Dark Iron Legacy (L52 req48)
+   items: Ironfel [10999] <- 1 mobs (Fineous Darkvire) all-elite RATE 30.43%
+   rewards: Shadowforge Key [11000]
+
+4136 Ribbly Screwspigot | L53 req48 | xp 2650 money 6000 | DUNGEON DROP | mobs to 53
+   from: Yuka Screwspigot [9544] L51 @ Burning Steppes 66.1,21.9
+   to:   Yuka Screwspigot [9544] L51 @ Burning Steppes 66.1,21.9
+   items: Ribbly's Head [11313] <- 1 mobs (Ribbly Screwspigot) all-elite RATE 25.0%
+   rewards: Rancor Boots [11865], Penance Spaulders [11963], Splintsteel Armor [12049]
+
+4324 Yuka Screwspigot | L53 req48 | xp None money 0 | NOXP DUNGEON
+   from: Yorba Screwspigot [9706] L53 @ Tanaris 67.0,24.0
+   to:   Yuka Screwspigot [9544] L51 @ Burning Steppes 66.1,21.9
+   text: Speak with Yuka Screwspigot in the Burning Steppes.
+
+3911 The Last Element | L54 req48 | xp 5450 money 24500 | SIDE? GROUP NOTINQDB NOSTART NOEND
+   from: ?
+   to:   ?
+   rewards: Lagrave's Seal [12038]
+
+4241 Marshal Windsor | L54 req48 | xp 5450 money 0 | DUNGEON
+   from: Marshal Maxwell [9560] L55 @ Burning Steppes 84.7,69.0
+   to:   Marshal Windsor [9023] L52 ELITE @ 1585 -1.0,-1.0
+   pre:  4224 The True Masters (L54 req48)
+   unlocks: 4242 Abandoned Hope (L54 xp 5450)
+   text: Travel to Blackrock Mountain in the northwest and enter Blackrock Depths. Find out what became of Marshal Windsor.  You recall Ragged John talking about Windsor being dragged off to a prison.
+
+4242 Abandoned Hope | L54 req48 | xp 5450 money 0 | DUNGEON
+   from: Marshal Windsor [9023] L52 ELITE @ 1585 -1.0,-1.0
+   to:   Marshal Maxwell [9560] L55 @ Burning Steppes 84.7,69.0
+   pre:  4241 Marshal Windsor (L54 req48)
+   unlocks: 4264 A Crumpled Up Note (L58 xp 6200)
+   text: Give Marshal Maxwell the bad news.
+   rewards: Conservator Helm [12018], Shieldplate Sabatons [12021], Windshear Leggings [12041], Cindercloth Gown [270118]
+
+4201 The Love Potion | L54 req50 | xp 5450 money 8000 | DUNGEON DROP | mobs to 55
+   from: Mistress Nagmara [9500] L54 ELITE @ 1585 -1.0,-1.0
+   to:   Mistress Nagmara [9500] L54 ELITE @ 1585 -1.0,-1.0
+   items: Gromsblood [8846] <- 1 mobs (Razorlash) all-elite; 2 objects (Gromsblood); vendor ; Giant Silver Vein [11405] <- 3 mobs (Cliff Breaker, Cliff Thunderer, Cliff Walker) all-elite RATE 71.4% ; Nagmara's Filled Vial [11413] <- 1 objects (Golakka Crater)
+   rewards: Manacle Cuffs [11962], Nagmara's Whipping Belt [11866], Boots of Requite [270120], Private Rocknot's Spare Bracers [270121]
+
+4123 The Heart of the Mountain | L55 req50 | xp 5650 money 8500 | DUNGEON
+   from: Maxwort Uberglint [9536] L42 @ Burning Steppes 65.2,23.9
+   to:   Maxwort Uberglint [9536] L42 @ Burning Steppes 65.2,23.9
+   items: The Heart of the Mountain [11309] <- 1 objects (Heart of the Mountain)
+
+4126 Hurley Blackbreath | L55 req50 | xp 7050 money 16500 | DUNGEON DROP | mobs to 55
+   from: Ragnar Thunderbrew [1267] L30 @ Dun Morogh 46.8,52.4
+   to:   Ragnar Thunderbrew [1267] L30 @ Dun Morogh 46.8,52.4
+   items: Lost Thunderbrew Recipe [11312] <- 2 mobs (Hurley Blackbreath, Blackbreath Crony) all-elite RATE 23.5%
+   rewards: Swiftstrike Cudgel [11964], Limb Cleaver [12000], Ragnar's Favorite Hat [270123], Dark Dwarven Lager [12003]
+
+4128 Ragnar Thunderbrew | L55 req50 | xp 560 money 0 | DUNGEON
+   from: Enohar Thunderbrew [9540] L50 @ Blasted Lands 63.6,20.6
+   to:   Ragnar Thunderbrew [1267] L30 @ Dun Morogh 46.8,52.4
+   text: Speak with Ragnar Thunderbrew.

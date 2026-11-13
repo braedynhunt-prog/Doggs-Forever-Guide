@@ -1,0 +1,70 @@
+# -284 (category -284): 10 quests, 3,550 XP; clean (no drop / elite / group / dungeon / skill flag) 10 quests 3,550 XP
+
+78150 Friend of the Library | L20 req1 | xp 155 money 125 | PRECHAIN
+   from: Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5
+   to:   Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5
+   unlocks: 79536 Greater Friend of the Library (L35 xp 275)
+   rewards: Scholarly Pendant [277203], Erudite's Amulet [277204]
+
+81947 Sanguine Sorcery | L45 req1 | xp 390 money 600 | -
+   from: Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5 / obj Book [441247] @ Swamp of Sorrows 70.0,51.0
+   to:   Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5
+   unlocks: 97286 Research Access (L20 xp None)
+   items: Sanguine Sorcery [220345] <- 1 objects (Book)
+   rewards: Comprehension Charm [211779]
+
+81949 Legends of the Tidesages | L45 req1 | xp 390 money 600 | -
+   from: Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5 / obj Book [441248] @ Tanaris 72.6,47.8
+   to:   Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5
+   unlocks: 97286 Research Access (L20 xp None)
+   items: Legends of the Tidesages [220346] <- 1 objects (Book)
+   rewards: Comprehension Charm [211779]
+
+81952 Everyday Etiquette | L45 req1 | xp 390 money 600 | -
+   from: Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5 / obj Book [441250] @ Azshara 20.7,62.0
+   to:   Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5
+   unlocks: 97286 Research Access (L20 xp None)
+   items: Everyday Etiquette [220348] <- 1 objects (Book)
+   rewards: Comprehension Charm [211779]
+
+81953 Stonewrought Design | L45 req1 | xp 390 money 600 | -
+   from: Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5 / obj Book [441251] @ Burning Steppes 29.0,28.9
+   to:   Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5
+   unlocks: 97286 Research Access (L20 xp None)
+   items: Stonewrought Design [220349] <- 1 objects (Book)
+   rewards: Comprehension Charm [211779]
+
+81954 Venomous Journeys | L45 req1 | xp 390 money 600 | -
+   from: Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5 / obj Book [441252] @ Hinterlands 36.0,72.8
+   to:   Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5
+   unlocks: 97286 Research Access (L20 xp None)
+   items: Venomous Journeys [220350] <- 1 objects (Book)
+   rewards: Comprehension Charm [211779]
+
+81955 A Mind of Metal | L45 req1 | xp 390 money 600 | -
+   from: Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5 / obj Book [441253] @ Searing Gorge 37.8,49.5 (2)
+   to:   Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5
+   unlocks: 97286 Research Access (L20 xp None)
+   items: A Mind of Metal [220352] <- 1 objects (Book)
+   rewards: Comprehension Charm [211779]
+
+81956 Conjurer's Codex | L45 req1 | xp 390 money 600 | -
+   from: Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5 / obj Book [441254] @ Blasted Lands 55.4,32.3 (3)
+   to:   Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5
+   unlocks: 97286 Research Access (L20 xp None)
+   items: Conjurer's Codex [220353] <- 1 objects (Book)
+   rewards: Comprehension Charm [211779]
+
+79536 Greater Friend of the Library | L35 req20 | xp 275 money 350 | PRECHAIN
+   from: Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5
+   to:   Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5
+   pre:  78150 Friend of the Library (L20 req1)
+   unlocks: 82208 Greater Friend of the Library (L45 xp 390)
+   rewards: Field Researcher's Loop [281634], Philanthropist's Ring [281635]
+
+82208 Greater Friend of the Library | L45 req35 | xp 390 money 600 | -
+   from: Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5
+   to:   Owen Thadd [211022] L40 @ 1497 73.4,33.0 / Garion Wendell [211033] L60 @ Stormwind 48.9,86.5
+   pre:  79536 Greater Friend of the Library (L35 req20)
+   text: You will need to hand in 25 books to complete this quest, however you can hand 1 in at any time.
+   rewards: Truthseeker's Bow [277254], Crest of Elucidation [277258], Researcher's Night Light [277260]

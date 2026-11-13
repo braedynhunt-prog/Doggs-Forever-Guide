@@ -1,0 +1,74 @@
+# -182 (category -182): 10 quests, 32,950 XP; clean (no drop / elite / group / dungeon / skill flag) 0 quests 0 XP
+
+2847 Wild Leather Armor | L45 req30 | xp 1950 money 0 | SKILL[165, 200]
+   from: Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   to:   Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   unlocks: 2848 Wild Leather Shoulders (L45 xp 2900), 2849 Wild Leather Vest (L45 xp 2900), 2850 Wild Leather Helmet (L45 xp 2900)
+   items: Thick Leather [4304] <- vendor
+
+2848 Wild Leather Shoulders | L45 req30 | xp 2900 money 0 | DROP ELITE SKILL[165, 225] | mobs to 60
+   from: Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   to:   Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   pre:  2847 Wild Leather Armor (L45 req30)
+   unlocks: 2851 Wild Leather Boots (L45 xp 2900), 2852 Wild Leather Leggings (L45 xp 2900)
+   items: Thick Armor Kit [8173] <- 1 mobs (Olaf) all-elite RATE 6.35% ; Wildvine [8153] <- 107 mobs (Felhunter, Bloodscalp Warrior, Skullsplitter Warrior...); 1 objects (Purple Lotus)
+   rewards: Pattern: Wild Leather Shoulders [8403]
+
+2849 Wild Leather Vest | L45 req30 | xp 2900 money 0 | SKILL[165, 225] | mobs to 60
+   from: Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   to:   Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   pre:  2847 Wild Leather Armor (L45 req30)
+   unlocks: 2851 Wild Leather Boots (L45 xp 2900), 2852 Wild Leather Leggings (L45 xp 2900)
+   items: Turtle Scale Breastplate [8189] <- no source in qdb ; Turtle Scale Gloves [8187] <- no source in qdb ; Wildvine [8153] <- 107 mobs (Felhunter, Bloodscalp Warrior, Skullsplitter Warrior...); 1 objects (Purple Lotus)
+   rewards: Pattern: Wild Leather Vest [8404]
+
+2850 Wild Leather Helmet | L45 req30 | xp 2900 money 0 | SKILL[165, 225] | mobs to 60
+   from: Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   to:   Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   pre:  2847 Wild Leather Armor (L45 req30)
+   unlocks: 2851 Wild Leather Boots (L45 xp 2900), 2852 Wild Leather Leggings (L45 xp 2900)
+   items: Nightscape Tunic [8175] <- no source in qdb ; Nightscape Headband [8176] <- no source in qdb ; Wildvine [8153] <- 107 mobs (Felhunter, Bloodscalp Warrior, Skullsplitter Warrior...); 1 objects (Purple Lotus)
+   rewards: Pattern: Wild Leather Helmet [8405]
+
+2851 Wild Leather Boots | L45 req30 | xp 2900 money 0 | SKILL[165, 225] | mobs to 60
+   from: Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   to:   Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   pre:  2848 Wild Leather Shoulders (L45 req30) ; 2849 Wild Leather Vest (L45 req30) ; 2850 Wild Leather Helmet (L45 req30)
+   unlocks: 2853 Master of the Wild Leather (L45 xp 3900)
+   items: Nightscape Pants [8193] <- no source in qdb ; Nightscape Boots [8197] <- no source in qdb ; Wildvine [8153] <- 107 mobs (Felhunter, Bloodscalp Warrior, Skullsplitter Warrior...); 1 objects (Purple Lotus)
+   rewards: Pattern: Wild Leather Boots [8406]
+
+2852 Wild Leather Leggings | L45 req30 | xp 2900 money 0 | SKILL[165, 225] | mobs to 60
+   from: Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   to:   Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   pre:  2848 Wild Leather Shoulders (L45 req30) ; 2849 Wild Leather Vest (L45 req30) ; 2850 Wild Leather Helmet (L45 req30)
+   unlocks: 2853 Master of the Wild Leather (L45 xp 3900)
+   items: Turtle Scale Helm [8191] <- no source in qdb ; Turtle Scale Bracers [8198] <- no source in qdb ; Wildvine [8153] <- 107 mobs (Felhunter, Bloodscalp Warrior, Skullsplitter Warrior...); 1 objects (Purple Lotus)
+   rewards: Pattern: Wild Leather Leggings [8407]
+
+2853 Master of the Wild Leather | L45 req30 | xp 3900 money 0 | SKILL[165, 225]
+   from: Pratt McGrubben [7852] L55 @ Feralas 30.6,42.7
+   to:   Telonis [4212] L46 @ Darnassus 64.4,21.5
+   pre:  2851 Wild Leather Boots (L45 req30) ; 2852 Wild Leather Leggings (L45 req30)
+   unlocks: 5143 Tribal Leatherworking (L55 xp 4200)
+   text: Give Pratt's Letter to Telonis, the master leatherworker of Darnassus.
+   rewards: Pattern: Wild Leather Cloak [8408]
+
+5141 Dragonscale Leatherworking | L55 req40 | xp 4200 money 0 | DROP SKILL[165, 225] | mobs to 62
+   from: Peter Galen [7866] L50 @ Azshara 37.6,65.4
+   to:   Peter Galen [7866] L50 @ Azshara 37.6,65.4
+   exclusive to: [5143, 5144]
+   items: Tough Scorpid Breastplate [8203] <- no source in qdb ; Tough Scorpid Gloves [8204] <- no source in qdb ; Worn Dragonscale [8165] <- 29 mobs (Jademir Oracle, Verdantine Boughguard, Verdantine Oracle...) RATE 1.7%
+
+5143 Tribal Leatherworking | L55 req40 | xp 4200 money 0 | SKILL[165, 225]
+   from: Caryssia Moonhunter [7870] L50 @ Feralas 89.4,46.5
+   to:   Caryssia Moonhunter [7870] L50 @ Feralas 89.4,46.5
+   pre:  2853 Master of the Wild Leather (L45 req30)
+   exclusive to: [5141, 5144]
+   items: Wild Leather Vest [8211] <- no source in qdb ; Wild Leather Helmet [8214] <- no source in qdb
+
+5144 Elemental Leatherworking | L55 req40 | xp 4200 money 0 | DROP SKILL[165, 225] | mobs to 63
+   from: Sarah Tanner [7868] L50 @ Searing Gorge 63.6,76.0
+   to:   Sarah Tanner [7868] L50 @ Searing Gorge 63.6,76.0
+   exclusive to: [5141, 5143]
+   items: Heart of Fire [7077] <- 38 mobs (Ambassador Infernus, Blazing Elemental, Inferno Elemental...) RATE 3.3% ; Globe of Water [7079] <- 19 mobs (Sea Elemental, Sea Spray, Toxic Horror...) RATE 5.8% ; Core of Earth [7075] <- 37 mobs (Greater Rock Elemental, Rumbler, Myzrael...) RATE 2.7% ; Breath of Wind [7081] <- 13 mobs (Cyclonian, Gusting Vortex, Living Storm...) RATE 5.1%

@@ -1,0 +1,13 @@
+# Dalaran (category 16560): 2 quests, 10,550 XP; clean (no drop / elite / group / dungeon / skill flag) 1 quests 5,450 XP
+
+96609 A Taste of Home | L52 req44 | xp 5100 money 15500 | DROP | mobs to 53
+   from: Arille Azuregaze [29049] L26-28 @ Alterac 18.5,65.7
+   to:   Arille Azuregaze [29049] L26-28 @ Alterac 18.5,65.7
+   items: Silvermoon Shimmerwine [274966] <- 10 mobs (Blood Elf Surveyor, Blood Elf Reclaimer, Blood Elf Defender...) RATE 9.8%
+   rewards: Shimmerwine Shanker [276903], Shimmerwine Spirits [276904], Everlasting Silvermoon Shimmerwine [276896]
+
+96812 Thicker Than Water | L54 req45 | xp 5450 money 16500 | -
+   from: Sergeant Danneth [266593] L52 @ Blasted Lands 65.2,15.3
+   to:   Orphan Matron Aria [34365] L45 @ Alterac 21.6,73.2
+   text: Return to Orphan Matron Aria in Dalaran and inform her of Sergeant Danneth's intentions to take in Randal.
+   rewards: Denric's Dog Tags [276900], Uncle's Heroism [276901], Youngster's First Bow [276902]

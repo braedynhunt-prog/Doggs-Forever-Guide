@@ -1,0 +1,117 @@
+# Burning Steppes (category 46): 18 quests, 46,470 XP; clean (no drop / elite / group / dungeon / skill flag) 11 quests 35,770 XP
+
+3823 Extinguish the Firegut | L52 req48 | xp 5100 money 0 | - | mobs to 53
+   from: Oralius [9177] L55 @ Burning Steppes 84.6,68.7
+   to:   Oralius [9177] L55 @ Burning Steppes 84.6,68.7
+   unlocks: 3824 Gor'tesh the Brute Lord (L53 xp 5250)
+   kill: Firegut Ogre Mage [7034] L51-52 @ Burning Steppes 80.1,42.6 (25) ; Firegut Ogre [7033] L50-51 @ Burning Steppes 78.9,46.9 (27) ; Firegut Brute [7035] L52-53 @ Burning Steppes 81.6,43.2 (21)
+
+3824 Gor'tesh the Brute Lord | L53 req48 | xp 5250 money 0 | DROP | mobs to 60
+   from: Oralius [9177] L55 @ Burning Steppes 84.6,68.7
+   to:   Oralius [9177] L55 @ Burning Steppes 84.6,68.7
+   pre:  3823 Extinguish the Firegut (L52 req48)
+   unlocks: 3825 Ogre Head On A Stick = Party (L53 xp 5250)
+   items: Gor'tesh's Lopped Off Head [11080] <- 2 mobs (Gor'tesh, Grubbub) RATE 33.3%
+
+3825 Ogre Head On A Stick = Party | L53 req48 | xp 5250 money 24000 | -
+   from: Oralius [9177] L55 @ Burning Steppes 84.6,68.7
+   to:   Oralius [9177] L55 @ Burning Steppes 84.6,68.7
+   pre:  3824 Gor'tesh the Brute Lord (L53 req48)
+   objects: obj Soft Dirt Mound [160840] @ Burning Steppes 81.0,46.8
+   rewards: Maddening Gauntlets [11867], Choking Band [11868]
+
+4182 Dragonkin Menace | L54 req48 | xp 5450 money 16500 | GROUP ELITE | mobs to 54
+   from: Helendis Riverhorn [9562] L55 @ Burning Steppes 85.8,69.0
+   to:   Helendis Riverhorn [9562] L55 @ Burning Steppes 85.8,69.0
+   unlocks: 4183 The True Masters (L54 xp 4100)
+   kill: Black Broodling [7047] L51-52 @ Burning Steppes 87.9,38.4 (14) ; Black Dragonspawn [7040] L52-53 ELITE @ Burning Steppes 81.6,45.6 (20) ; Black Drake [7044] L50-52 ELITE @ Burning Steppes 88.1,43.1 (3) ; Black Wyrmkin [7041] L53-54 ELITE @ Burning Steppes 81.0,48.8 (18)
+
+4183 The True Masters | L54 req48 | xp 4100 money 0 | -
+   from: Helendis Riverhorn [9562] L55 @ Burning Steppes 85.8,69.0
+   to:   Magistrate Solomon [344] L36 @ Redridge 24.9,44.5
+   pre:  4182 Dragonkin Menace (L54 req48)
+   unlocks: 4184 The True Masters (L54 xp 4100)
+   text: Travel to Lakeshire and deliver Helendis Riverhorn's Letter to Magistrate Solomon.
+
+4184 The True Masters | L54 req48 | xp 4100 money 0 | -
+   from: Magistrate Solomon [344] L36 @ Redridge 24.9,44.5
+   to:   Highlord Bolvar Fordragon [1748] L63 BOSS @ Stormwind 80.2,38.4
+   pre:  4183 The True Masters (L54 req48)
+   unlocks: 4185 The True Masters (L54 xp 540)
+   text: Travel to Stormwind and deliver Solomon's Plea to Highlord Bolvar Fordragon.  Bolvar resides in Stormwind Keep.
+
+4185 The True Masters | L54 req48 | xp 540 money 0 | - | mobs to 62
+   from: Highlord Bolvar Fordragon [1748] L63 BOSS @ Stormwind 80.2,38.4
+   to:   Highlord Bolvar Fordragon [1748] L63 BOSS @ Stormwind 80.2,38.4
+   pre:  4184 The True Masters (L54 req48)
+   unlocks: 4186 The True Masters (L54 xp 5450)
+   kill: Lady Katrana Prestor [1749] L62 @ Stormwind 80.1,38.2
+
+4186 The True Masters | L54 req48 | xp 5450 money 0 | -
+   from: Highlord Bolvar Fordragon [1748] L63 BOSS @ Stormwind 80.2,38.4
+   to:   Magistrate Solomon [344] L36 @ Redridge 24.9,44.5
+   pre:  4185 The True Masters (L54 req48)
+   unlocks: 4223 The True Masters (L54 xp 540)
+   text: Take Bolvar's Decree to Magistrate Solomon in Lakeshire. 
+
+4223 The True Masters | L54 req48 | xp 540 money 0 | -
+   from: Magistrate Solomon [344] L36 @ Redridge 24.9,44.5
+   to:   Marshal Maxwell [9560] L55 @ Burning Steppes 84.7,69.0
+   pre:  4186 The True Masters (L54 req48)
+   unlocks: 4224 The True Masters (L54 xp 540)
+   text: Speak with Marshal Maxwell in the Burning Steppes.
+
+4224 The True Masters | L54 req48 | xp 540 money 0 | - | mobs to 57
+   from: Marshal Maxwell [9560] L55 @ Burning Steppes 84.7,69.0
+   to:   Marshal Maxwell [9560] L55 @ Burning Steppes 84.7,69.0
+   pre:  4223 The True Masters (L54 req48)
+   unlocks: 4241 Marshal Windsor (L54 xp 5450)
+   kill: Ragged John [9563] L57 @ Burning Steppes 65.0,23.8
+
+4296 Tablet of the Seven | L50 req50 | xp 2350 money 7500 | -
+   from: Maxwort Uberglint [9536] L42 @ Burning Steppes 65.2,23.9
+   to:   Maxwort Uberglint [9536] L42 @ Burning Steppes 65.2,23.9
+   items: Tablet Transcript [11470] <- 1 objects (Tablet of the Seven)
+
+4726 Broodling Essence | L52 req50 | xp 5100 money 7500 | -
+   from: Tinkee Steamboil [10267] L53 @ Burning Steppes 65.2,24.0
+   to:   Tinkee Steamboil [10267] L53 @ Burning Steppes 65.2,24.0
+   unlocks: 4808 Felnok Steelspring (L54 xp 2700)
+   items: Broodling Essence [12283] <- 1 objects (Broodling Essence)
+
+4808 Felnok Steelspring | L54 req50 | xp 2700 money 0 | -
+   from: Tinkee Steamboil [10267] L53 @ Burning Steppes 65.2,24.0
+   to:   Felnok Steelspring [10468] L54 @ Winterspring 61.6,38.6
+   pre:  4726 Broodling Essence (L52 req50)
+   unlocks: 4809 Chillwind Horns (L54 xp 5450)
+   text: Give Tinkee's Letter to Felnok Steelspring.
+
+4463 Libram of Rumination | L55 req50 | xp None money 0 | NOXP DROP | mobs to 62
+   from: Mathredis Firestar [9836] L60 @ Burning Steppes 65.0,23.6
+   to:   Mathredis Firestar [9836] L60 @ Burning Steppes 65.0,23.6
+   items: Black Diamond [11754] <- 65 mobs (Firegut Ogre Mage, Blackrock Worg, Anvilrage Overseer...); 1 objects (Dark Iron Deposit) ; Black Blood of the Tormented [11752] <- 1 mobs (Restless Shade); 1 objects (Dark Coffer) ; Gizzard Gum [8424] <- no source in qdb ; Libram of Rumination [11732] <- 176 mobs (Skeletal Flayer, Skeletal Sorcerer, Skeletal Terror...) RATE 0.1%
+   rewards: Lesser Arcanum of Rumination [11622]
+
+4481 Libram of Constitution | L55 req50 | xp None money 0 | NOXP DROP | mobs to 62
+   from: Mathredis Firestar [9836] L60 @ Burning Steppes 65.0,23.6
+   to:   Mathredis Firestar [9836] L60 @ Burning Steppes 65.0,23.6
+   items: Black Diamond [11754] <- 65 mobs (Firegut Ogre Mage, Blackrock Worg, Anvilrage Overseer...); 1 objects (Dark Iron Deposit) ; Lung Juice Cocktail [8411] <- no source in qdb ; Libram of Constitution [11733] <- 168 mobs (Skeletal Flayer, Skeletal Sorcerer, Skeletal Terror...) RATE 0.0% ; Night Dragon's Breath [11952] <- no source in qdb
+   rewards: Lesser Arcanum of Constitution [11642]
+
+4482 Libram of Tenacity | L55 req50 | xp None money 0 | NOXP DROP | mobs to 62
+   from: Mathredis Firestar [9836] L60 @ Burning Steppes 65.0,23.6
+   to:   Mathredis Firestar [9836] L60 @ Burning Steppes 65.0,23.6
+   items: Black Diamond [11754] <- 65 mobs (Firegut Ogre Mage, Blackrock Worg, Anvilrage Overseer...); 1 objects (Dark Iron Deposit) ; Libram of Tenacity [11734] <- 172 mobs (Skeletal Flayer, Skeletal Sorcerer, Skeletal Terror...) RATE 0.0% ; Crystal Ward [11564] <- no source in qdb ; Eye of Kajal [11753] <- 1 mobs (Restless Shade); 1 objects (Dark Coffer)
+   rewards: Lesser Arcanum of Tenacity [11643]
+
+4483 Libram of Resilience | L55 req50 | xp None money 0 | NOXP DROP | mobs to 62
+   from: Mathredis Firestar [9836] L60 @ Burning Steppes 65.0,23.6
+   to:   Mathredis Firestar [9836] L60 @ Burning Steppes 65.0,23.6
+   items: Black Diamond [11754] <- 65 mobs (Firegut Ogre Mage, Blackrock Worg, Anvilrage Overseer...); 1 objects (Dark Iron Deposit) ; Crystal Spire [11567] <- no source in qdb ; Burning Essence [11751] <- 1 mobs (Restless Shade); 1 objects (Dark Coffer) ; Libram of Resilience [11736] <- 168 mobs (Stonard Grunt, Skeletal Flayer, Skeletal Sorcerer...) RATE 0.0%
+   rewards: Lesser Arcanum of Resilience [11644]
+
+4484 Libram of Voracity | L55 req50 | xp None money 0 | NOXP DROP | mobs to 62
+   from: Mathredis Firestar [9836] L60 @ Burning Steppes 65.0,23.6
+   to:   Mathredis Firestar [9836] L60 @ Burning Steppes 65.0,23.6
+   items: Black Diamond [11754] <- 65 mobs (Firegut Ogre Mage, Blackrock Worg, Anvilrage Overseer...); 1 objects (Dark Iron Deposit) ; Libram of Voracity [11737] <- 179 mobs (Grom'gol Grunt, Negolash, Skeletal Flayer...) RATE 0.0% ; Whipper Root Tuber [11951] <- no source in qdb ; Crystal Force [11563] <- no source in qdb
+   rewards: Lesser Arcanum of Voracity [11647] [11647], Lesser Arcanum of Voracity [11648] [11648], Lesser Arcanum of Voracity [11649] [11649], Lesser Arcanum of Voracity [11645], Lesser Arcanum of Voracity [11646] [11646]

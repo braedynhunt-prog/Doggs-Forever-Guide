@@ -1,0 +1,41 @@
+# Alcaz (category 16620): 8 quests, 39,300 XP; clean (no drop / elite / group / dungeon / skill flag) 2 quests 13,100 XP
+
+96772 The Dragon's Journal | L53 req46 | xp 6550 money 8000 | DUNGEON DROP
+   from: Archmage Lan'dalock [20735] L35 ELITE @ Alterac 15.3,73.9
+   to:   Archmage Lan'dalock [20735] L35 ELITE @ Alterac 15.3,73.9
+   items: Zarla's Journal [276890] <- 1 mobs (Blazeroar) RATE 8.57%
+
+95262 The Secret Prison | L53 req48 | xp 6550 money 0 | DUNGEON NOEND
+   from: Sully McCleary [260271] L50 @ Dustwallow 63.5,42.3
+   to:   ?
+   text: Enter Alcaz Prison and learn what became of the King of Stormwind.
+
+95263 Somber News | L53 req48 | xp 1300 money 0 | DUNGEON NOSTART
+   from: ?
+   to:   Sully McCleary [260271] L50 @ Dustwallow 63.5,42.3
+   text: Return to Sully McCleary in Dustwallow Marsh.
+
+96335 The Man in the Iron Chains | L53 req48 | xp 1300 money 0 | SIDE? DUNGEON NOSTART NOEND DROP
+   from: ?
+   to:   ?
+   items: Ornate Shackle Key [274029] <- 1 mobs (The Questioner) RATE 11.45%
+
+96337 More Valuable Than Gold | L53 req48 | xp 5250 money 0 | SIDE? DUNGEON NOSTART
+   from: ?
+   to:   obj Connery's Trunk [611086] @ Westfall 43.4,67.9
+   text: Use the note provided by Mason Connery to find his hidden treasure.
+
+96377 State Secrets | L53 req48 | xp 6550 money 0 | -
+   from: Renzik "The Shiv" [6946] L40 @ Stormwind 78.3,71.1 (Wowhead)
+   to:   Renzik "The Shiv" [6946] L40 @ Stormwind 78.3,71.1
+   items: Document Box [274041] <- no source in qdb
+
+96379 State Secrets | L53 req48 | xp 6550 money 0 | SIDE?
+   from: Rix Xizzix [214954] L45 @ Stranglethorn 28.5,75.8
+   to:   Rix Xizzix [214954] L45 @ Stranglethorn 28.5,75.8
+
+96381 A Bit of Wet Work | L53 req48 | xp 5250 money 8000 | DUNGEON
+   from: Sully McCleary [260271] L50 @ Dustwallow 63.5,42.3
+   to:   Sully McCleary [260271] L50 @ Dustwallow 63.5,42.3
+   text: Enter the Alcaz Prison and slay 15  Strashasz Soldiers, 8 Strashaz Enchantresses, and bring the head of Tidemistress Ca'zass to Sully McCleary.
+   rewards: Theramore Defender's Gauntlets [279825], Marshdweller's Pants [279826], Naga Scale Spaulders [279829]

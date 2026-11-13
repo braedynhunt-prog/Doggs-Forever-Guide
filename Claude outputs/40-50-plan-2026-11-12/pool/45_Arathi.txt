@@ -1,0 +1,100 @@
+# Arathi (category 45): 15 quests, 44,550 XP; clean (no drop / elite / group / dungeon / skill flag) 4 quests 9,900 XP
+
+79677 A Quick Grocery Run | L40 req26 | xp 3150 money 5000 | DROP | mobs to 40
+   from: Skonk [217300] L40 @ Arathi 57.7,74.7
+   to:   Skonk [217300] L40 @ Arathi 57.7,74.7
+   items: Hybrid Haunch [213526] <- 3 mobs (Wild Gryphon, Granistad, Kurdros) RATE 71.7% ; Smuggler's Spice Blend [213527] <- 1 objects (Sealed Barrel)
+
+691 Worth Its Weight in Gold | L36 req30 | xp 3500 money 7500 | PRECHAIN DROP | mobs to 40
+   from: Apprentice Kryten [2788] L30 @ Arathi 46.2,47.8
+   to:   Apprentice Kryten [2788] L30 @ Arathi 46.2,47.8
+   unlocks: 693 Wand over Fist (L39 xp 3000)
+   items: Witherbark Tusk [4503] <- 8 mobs (Witherbark Troll, Witherbark Shadowcaster, Witherbark Axe Thrower...) RATE 8.2% ; Witherbark Medicine Pouch [4522] <- 1 mobs (Witherbark Witch Doctor) RATE 11.97% ; Shadow Hunter Knife [5040] <- 1 mobs (Witherbark Shadow Hunter) RATE 8.64%
+
+642 The Princess Trapped | L37 req30 | xp 2850 money 4000 | PRECHAIN DROP | mobs to 38
+   from: obj Shards of Myzrael [138492] @ Arathi 62.5,33.7
+   to:   obj Iridescent Shards [2701] @ Arathi 84.3,30.9
+   unlocks: 651 Stones of Binding (L38 xp 2850)
+   items: Mote of Myzrael [4435] <- 3 mobs (Drywhisker Kobold, Drywhisker Surveyor, Drywhisker Digger) RATE 30.4%
+
+651 Stones of Binding | L38 req30 | xp 2850 money 4500 | PRECHAIN
+   from: obj Iridescent Shards [2701] @ Arathi 84.3,30.9
+   to:   obj Stone of Inner Binding [2702] @ Arathi 36.2,57.4
+   pre:  642 The Princess Trapped (L37 req30)
+   unlocks: 652 Breaking the Keystone (L42 xp 3450)
+   items: Burning Key [4483] <- 1 objects (Stone of West Binding) ; Cresting Key [4484] <- 1 objects (Stone of East Binding) ; Thundering Key [4485] <- 1 objects (Stone of Outer Binding)
+
+693 Wand over Fist | L39 req30 | xp 3000 money 0 | DROP | mobs to 39
+   from: Skuerto [2789] L36 @ Arathi 46.6,47.0
+   to:   Skuerto [2789] L36 @ Arathi 46.6,47.0
+   pre:  691 Worth Its Weight in Gold (L36 req30)
+   unlocks: 694 Trelane's Defenses (L39 xp 3000)
+   items: Trelane's Wand of Invocation [4525] <- 1 mobs (Kor'gresh Coldrage) RATE 69.32%
+
+694 Trelane's Defenses | L39 req30 | xp 3000 money 0 | GROUP DROP ELITE | mobs to 39
+   from: Skuerto [2789] L36 @ Arathi 46.6,47.0
+   to:   Apprentice Kryten [2788] L30 @ Arathi 46.2,47.8
+   pre:  693 Wand over Fist (L39 req30)
+   unlocks: 695 An Apprentice's Enchantment (L39 xp 300)
+   items: Azure Agate [4527] <- 1 mobs (Boulderfist Shaman) all-elite RATE 7.24%
+
+695 An Apprentice's Enchantment | L39 req30 | xp 300 money 0 | GROUP
+   from: Apprentice Kryten [2788] L30 @ Arathi 46.2,47.8
+   to:   Skuerto [2789] L36 @ Arathi 46.6,47.0
+   pre:  694 Trelane's Defenses (L39 req30)
+   unlocks: 696 Attack on the Tower (L39 xp 3000)
+   text: Speak to Skuerto.
+
+696 Attack on the Tower | L39 req30 | xp 3000 money 0 | GROUP
+   from: Skuerto [2789] L36 @ Arathi 46.6,47.0
+   to:   Skuerto [2789] L36 @ Arathi 46.6,47.0
+   pre:  695 An Apprentice's Enchantment (L39 req30)
+   unlocks: 697 Malin's Request (L39 xp 3750)
+   items: Trelane's Phylactery [4530] <- 1 objects (Trelane's Footlocker) ; Trelane's Orb [4531] <- 1 objects (Trelane's Chest) ; Trelane's Ember Agate [4532] <- 1 objects (Trelane's Lockbox)
+
+697 Malin's Request | L39 req30 | xp 3750 money 9000 | GROUP
+   from: Skuerto [2789] L36 @ Arathi 46.6,47.0
+   to:   Archmage Malin [2708] L40 @ Stormwind 50.5,87.5
+   pre:  696 Attack on the Tower (L39 req30)
+   text: Take the Sealed Letter to Archmage Malin in the Mage Quarter of Stormwind.
+   rewards: Vigilant Buckler [4975], Wingborne Boots [15104], Tower Boots [270066]
+
+653 Myzrael's Allies | L40 req30 | xp 2350 money 0 | -
+   from: obj Keystone [2688] @ Arathi 36.1,58.1
+   to:   Gerrig Bonegrip [2786] L30 @ Ironforge 50.8,5.6
+   pre:  652 Breaking the Keystone (L42 req30)
+   unlocks: 687 Theldurin the Lost (L40 xp 1550)
+   text: Speak with Gerrig Bonegrip in the Forlorn Cavern of Ironforge.
+
+687 Theldurin the Lost | L40 req30 | xp 1550 money 0 | -
+   from: Gerrig Bonegrip [2786] L30 @ Ironforge 50.8,5.6 / Zaruk [2787] L60 @ Arathi 74.5,35.6
+   to:   Theldurin the Lost [2785] L30 @ Badlands 51.4,76.9
+   pre:  653 Myzrael's Allies (L40 req30) ; 688 Myzrael's Allies (HORDE)
+   unlocks: 692 The Lost Fragments (L41 xp 3300)
+   text: Find Theldurin the Lost.
+
+652 Breaking the Keystone | L42 req30 | xp 3450 money 0 | GROUP DROP ELITE | mobs to 42
+   from: obj Stone of Inner Binding [2702] @ Arathi 36.2,57.4
+   to:   obj Keystone [2688] @ Arathi 36.1,58.1
+   pre:  651 Stones of Binding (L38 req30)
+   unlocks: 653 Myzrael's Allies (L40 xp 2350)
+   items: Rod of Order [4469] <- 1 mobs (Fozruk) all-elite RATE 87.65%
+
+656 Summoning the Princess | L50 req30 | xp 7100 money 14500 | GROUP DROP ELITE | mobs to 44
+   from: Theldurin the Lost [2785] L30 @ Badlands 51.4,76.9
+   to:   obj Shards of Myzrael [138492] @ Arathi 62.5,33.7
+   pre:  692 The Lost Fragments (L41 req30)
+   items: Eldritch Shackles [4473] <- 1 mobs (Myzrael) all-elite RATE 90.34%
+   rewards: Pulsating Crystalline Shard [4743]
+
+79624 Anyone Can Cook | L40 req32 | xp 1550 money 0 | DROP | mobs to 40
+   from: item Illegible Recipe [213422]
+   to:   Skonk [217300] L40 @ Arathi 57.7,74.7
+   items: Illegible Recipe [213422] <- 7 mobs (Boulderfist Ogre, Boulderfist Enforcer, Boulderfist Brute...) RATE 7.8%
+
+662 Deep Sea Salvage | L40 req35 | xp 3150 money 0 | -
+   from: First Mate Nilzlix [2767] L39 @ Arathi 32.8,81.5
+   to:   First Mate Nilzlix [2767] L39 @ Arathi 32.8,81.5
+   pre:  663 Land Ho! (done 39)
+   items: Maiden's Folly Charts [4487] <- 1 objects (Maiden's Folly Charts) ; Maiden's Folly Log [4489] <- 1 objects (Maiden's Folly Log) ; Spirit of Silverpine Charts [4488] <- 1 objects (Spirit of Silverpine Charts) ; Spirit of Silverpine Log [4490] <- 1 objects (Spirit of Silverpine Log)
+   rewards: Black Water Hammer [4511]

@@ -1,0 +1,186 @@
+# Searing Gorge (category 51): 29 quests, 117,620 XP; clean (no drop / elite / group / dungeon / skill flag) 14 quests 52,710 XP
+
+3181 The Horn of the Beast | L48 req40 | xp 5450 money 0 | GROUP
+   from: item Margol's Horn [10000]
+   to:   Mountaineer Pebblebitty [3836] L44 @ Loch Modan 18.2,84.0
+   unlocks: 3182 Proof of Deed (L48 xp 4400)
+   text: Take Margol's Gigantic Horn to Mountaineer Pebblebitty. 
+
+3367 Suntara Stones | L48 req40 | xp 4400 money 0 | -
+   from: Dorius Stonetender [8284] L45 @ Searing Gorge 63.9,61.0
+   to:   obj Singed Letter [175704] @ Searing Gorge 74.5,19.3
+   unlocks: 3368 Suntara Stones (L48 xp 4400)
+   text: Help Dorius get back to Ironforge. 
+
+3368 Suntara Stones | L48 req40 | xp 4400 money 14000 | -
+   from: obj Singed Letter [175704] @ Searing Gorge 74.5,19.3
+   to:   Curator Thorius [8256] L45 @ Ironforge 71.5,15.7
+   pre:  3367 Suntara Stones (L48 req40)
+   unlocks: 3371 Dwarven Justice (L55 xp 5650)
+   text: Take the Singed Letter to Thorius in Ironforge. He is in the Hall of Explorers.
+
+3441 Divine Retribution | L48 req40 | xp 440 money 0 | ELITE | mobs to 55
+   from: Kalaran Windblade [8479] L55 ELITE @ Searing Gorge 39.1,39.0
+   to:   Kalaran Windblade [8479] L55 ELITE @ Searing Gorge 39.1,39.0
+   unlocks: 3442 The Flawless Flame (L48 xp 4400)
+   kill: Kalaran Windblade [8479] L55 ELITE @ Searing Gorge 39.1,39.0
+
+3442 The Flawless Flame | L48 req40 | xp 4400 money 14000 | DROP | mobs to 49
+   from: Kalaran Windblade [8479] L55 ELITE @ Searing Gorge 39.1,39.0
+   to:   Kalaran Windblade [8479] L55 ELITE @ Searing Gorge 39.1,39.0
+   pre:  3441 Divine Retribution (L48 req40)
+   unlocks: 3443 Forging the Shaft (L48 xp 4400)
+   items: Heart of Flame [10509] <- 3 mobs (Blazing Elemental, Inferno Elemental, Magma Elemental) RATE 38.4% ; Golem Oil [10511] <- 3 mobs (Tempered War Golem, Heavy War Golem, Magma Elemental) RATE 16.5%
+
+3443 Forging the Shaft | L48 req40 | xp 4400 money 14000 | DROP | mobs to 55
+   from: Kalaran Windblade [8479] L55 ELITE @ Searing Gorge 39.1,39.0
+   to:   Kalaran Windblade [8479] L55 ELITE @ Searing Gorge 39.1,39.0
+   pre:  3442 The Flawless Flame (L48 req40)
+   unlocks: 3452 The Flame's Casing (L50 xp 4700)
+   items: Thorium Plated Dagger [10551] <- 10 mobs (Dark Iron Geologist, Dark Iron Steamsmith, Slave Worker...) RATE 6.8%
+
+3377 Prayer to Elune | L50 req40 | xp 470 money 0 | - | mobs to 50
+   from: Zamael Lunthistle [8436] L50 @ Searing Gorge 29.6,26.3
+   to:   Zamael Lunthistle [8436] L50 @ Searing Gorge 29.6,26.3
+   unlocks: 3378 Prayer to Elune (L50 xp 5900)
+   kill: Zamael Lunthistle [8436] L50 @ Searing Gorge 29.6,26.3
+
+3378 Prayer to Elune | L50 req40 | xp 5900 money 14500 | DROP ELITE | mobs to 51
+   from: Zamael Lunthistle [8436] L50 @ Searing Gorge 29.6,26.3
+   to:   Astarii Starseeker [4090] L60 @ Darnassus 38.3,81.0
+   pre:  3377 Prayer to Elune (L50 req40)
+   items: Prayer to Elune [10458] <- 4 mobs (Twilight Dark Shaman, Twilight Fire Guard, Twilight Geomancer...) all-elite RATE 3.9%
+   rewards: Kaylari Shoulders [10745], Runesteel Vambraces [10746]
+
+3452 The Flame's Casing | L50 req40 | xp 4700 money 7500 | GROUP DROP ELITE | mobs to 51
+   from: Kalaran Windblade [8479] L55 ELITE @ Searing Gorge 39.1,39.0
+   to:   Kalaran Windblade [8479] L55 ELITE @ Searing Gorge 39.1,39.0
+   pre:  3443 Forging the Shaft (L48 req40)
+   unlocks: 3453 The Torch of Retribution (L50 xp 470)
+   items: Symbol of Ragnaros [10552] <- 4 mobs (Twilight Dark Shaman, Twilight Fire Guard, Twilight Geomancer...) all-elite RATE 9.5%
+
+3453 The Torch of Retribution | L50 req40 | xp 470 money 0 | ELITE | mobs to 55
+   from: Kalaran Windblade [8479] L55 ELITE @ Searing Gorge 39.1,39.0
+   to:   Kalaran Windblade [8479] L55 ELITE @ Searing Gorge 39.1,39.0
+   pre:  3452 The Flame's Casing (L50 req40)
+   unlocks: 3454 The Torch of Retribution (L50 xp 4700)
+   kill: Kalaran Windblade [8479] L55 ELITE @ Searing Gorge 39.1,39.0
+
+3454 The Torch of Retribution | L50 req40 | xp 4700 money 0 | -
+   from: Kalaran Windblade [8479] L55 ELITE @ Searing Gorge 39.1,39.0
+   to:   obj Torch of Retribution [149047] @ Searing Gorge 39.1,39.1
+   pre:  3453 The Torch of Retribution (L50 req40)
+   unlocks: 3462 Squire Maltrake (L50 xp 470)
+   text: Take the Torch of Retribution.
+   rewards: Torch of Retribution [10515]
+
+3462 Squire Maltrake | L50 req40 | xp 470 money 0 | -
+   from: Kalaran Windblade [8479] L55 ELITE @ Searing Gorge 39.1,39.0
+   to:   Squire Maltrake [8509] L52 @ Searing Gorge 39.2,39.0
+   pre:  3454 The Torch of Retribution (L50 req40)
+   unlocks: 3463 Set Them Ablaze! (L52 xp 7600)
+   text: Speak with Squire Maltrake.
+
+3481 Trinkets... | L50 req40 | xp 470 money 0 | -
+   from: obj Hoard of the Black Dragonflight [149502] @ Searing Gorge 38.9,39.0
+   to:   obj Hoard of the Black Dragonflight [149502] @ Searing Gorge 38.9,39.0
+   pre:  3463 Set Them Ablaze! (L52 req40)
+   unlocks: 4022 A Taste of Flame (L54 xp 5450)
+   text: Open the chest.
+   rewards: Hoard of the Black Dragonflight [10569]
+
+93162 Head of the Obliterator | L50 req40 | xp None money 0 | SIDE? NOXP NOSTART NOEND
+   from: ?
+   to:   ?
+
+93163 Heart of the Obliterator | L50 req40 | xp 5900 money 14500 | SIDE? NOTINQDB NOSTART NOEND
+   from: ?
+   to:   ?
+
+3372 Release Them | L52 req40 | xp 5100 money 0 | GROUP
+   from: Dying Archaeologist [8417] L46 @ Searing Gorge 41.1,25.6
+   to:   obj Altar of Suntara [148498] @ Searing Gorge 41.2,25.4
+   pre:  3371 Dwarven Justice (L55 req40)
+   unlocks: 3566 Rise, Obsidion! (L52 xp 7600)
+   items: Mysterious Artifact [10442] <- 1 objects (Twilight Artifact)
+
+3463 Set Them Ablaze! | L52 req40 | xp 7600 money 23000 | GROUP
+   from: Squire Maltrake [8509] L52 @ Searing Gorge 39.2,39.0
+   to:   Squire Maltrake [8509] L52 @ Searing Gorge 39.2,39.0
+   pre:  3462 Squire Maltrake (L50 req40)
+   unlocks: 3481 Trinkets... (L50 xp 470)
+   objects: obj Sentry Brazier [149025] @ Searing Gorge 35.7,60.7 ; obj Sentry Brazier [149030] @ Searing Gorge 44.0,60.9 ; obj Sentry Brazier [149031] @ Searing Gorge 50.1,54.7 ; obj Sentry Brazier [149032] @ Searing Gorge 33.3,54.5
+   rewards: Dragonflight Leggings [10742], Drakefire Headguard [10743], Axe of the Ebon Drake [10744], Dragonscale Pants [270114]
+
+3566 Rise, Obsidion! | L52 req40 | xp 7600 money 15500 | GROUP DROP ELITE | mobs to 52
+   from: Dying Archaeologist [8417] L46 @ Searing Gorge 41.1,25.6
+   to:   Curator Thorius [8256] L45 @ Ironforge 71.5,15.7
+   pre:  3372 Release Them (L52 req40)
+   items: Head of Lathoric the Black [10447] <- 1 mobs (Lathoric the Black) all-elite RATE 66.67% ; Heart of Obsidion [10446] <- 1 mobs (Obsidion) all-elite RATE 50.0%
+   rewards: Centurion Legplates [10740], Lordrec Helmet [10741], Ring of Fortitude [10739]
+
+4449 Caught! | L45 req43 | xp 3900 money 0 | - | mobs to 44
+   from: obj Wooden Outhouse [173265] @ Searing Gorge 65.6,62.2
+   to:   obj Wooden Outhouse [173265] @ Searing Gorge 65.6,62.2
+   unlocks: 4450 Ledger from Tanaris (L46 xp 5050)
+   kill: Dark Iron Geologist [5839] L43-44 @ Searing Gorge 65.5,50.4 (8)
+   items: Silk Cloth [4306] <- 36 objects (Alterac Granite)
+
+4450 Ledger from Tanaris | L46 req43 | xp 5050 money 0 | DROP | mobs to 46
+   from: obj Wooden Outhouse [173265] @ Searing Gorge 65.6,62.2
+   to:   Krinkle Goodsteel [5411] L40 @ Tanaris 51.5,28.8
+   pre:  4449 Caught! (L45 req43)
+   items: Goodsteel Ledger [11727] <- 1 objects (Goodsteel Ledger) ; Solid Crystal Leg Shaft [11725] <- 1 mobs (Glassweb Spider) RATE 19.44% ; Overdue Package [11724] <- 1 objects (Damaged Crate) ; Goodsteel's Balanced Flameberge [11723] <- 1 mobs (Jarquia) RATE 25.0%
+   rewards: Charged Lightning Rod [11860], Girdle of Reprisal [11861]
+
+4451 The Key to Freedom | L47 req43 | xp 5250 money 0 | -
+   from: item Grimesilt Outhouse Key [11818]
+   to:   obj Wooden Outhouse [173265] @ Searing Gorge 65.6,62.2
+   text: Search Searing Gorge and find a use for the Grimesilt Outhouse Key you have found.
+
+7728 STOLEN: Smithing Tuyere and Lookout's Spyglass | L48 req45 | xp 4400 money 14000 | DROP | mobs to 48
+   from: obj Wanted/Missing/Lost & Found [179827] @ Searing Gorge 37.6,26.5
+   to:   Taskmaster Scrange [14626] L54 @ Searing Gorge 39.0,27.5
+   items: Smithing Tuyere [18959] <- 1 mobs (Dark Iron Steamsmith) RATE 12.42% ; Lookout's Spyglass [18960] <- 1 mobs (Dark Iron Lookout) RATE 12.77%
+   rewards: Slagplate Leggings [19124], Everwarm Handwraps [19123]
+
+7729 JOB OPPORTUNITY: Culling the Competition | L48 req45 | xp 4400 money 21000 | - | mobs to 48
+   from: obj Wanted/Missing/Lost & Found [179827] @ Searing Gorge 37.6,26.5
+   to:   Taskmaster Scrange [14626] L54 @ Searing Gorge 39.0,27.5
+   kill: Dark Iron Taskmaster [5846] L47-48 @ Searing Gorge 42.5,39.8 (31) ; Dark Iron Slaver [5844] L45-46 @ Searing Gorge 42.8,42.8 (30)
+
+7723 Curse These Fat Fingers | L49 req45 | xp 4550 money 7000 | - | mobs to 49
+   from: Hansel Heavyhands [14627] L53 @ Searing Gorge 38.6,27.8
+   to:   Hansel Heavyhands [14627] L53 @ Searing Gorge 38.6,27.8
+   kill: Heavy War Golem [5854] L47-49 @ Searing Gorge 40.8,49.2 (23)
+   rewards: Slagplate Gauntlets [19126]
+
+7724 Fiery Menace! | L49 req45 | xp 4550 money 7000 | - | mobs to 49
+   from: Hansel Heavyhands [14627] L53 @ Searing Gorge 38.6,27.8
+   to:   Hansel Heavyhands [14627] L53 @ Searing Gorge 38.6,27.8
+   kill: Greater Lava Spider [5858] L47-49 @ Searing Gorge 29.5,59.2 (26)
+   rewards: Seared Mail Girdle [19125]
+
+7727 Incendosaurs? Whateverosaur is More Like It | L49 req45 | xp 4550 money 7000 | - | mobs to 49
+   from: Hansel Heavyhands [14627] L53 @ Searing Gorge 38.6,27.8
+   to:   Hansel Heavyhands [14627] L53 @ Searing Gorge 38.6,27.8
+   kill: Incendosaur [9318] L47-49 @ Searing Gorge 48.4,28.0 (13)
+   rewards: Luffa [19141]
+
+7701 WANTED: Overseer Maltorius | L50 req45 | xp 4700 money 0 | GROUP DROP ELITE | mobs to 50
+   from: obj Wanted/Missing/Lost & Found [179827] @ Searing Gorge 37.6,26.5
+   to:   Lookout Captain Lolo Longstriker [14634] L59 @ Searing Gorge 37.7,26.6
+   items: Head of Overseer Maltorius [18946] <- 1 mobs (Overseer Maltorius) all-elite RATE 100.0%
+   rewards: Seared Mail Vest [19128], Charred Leather Tunic [19127], Singed Cloth Robe [270113]
+
+7704 Look at the Size of It! | L50 req45 | xp 4700 money 0 | GROUP
+   from: item Chambermaid Pillaclencher's Pillow [18950]
+   to:   Evonice Sootsmoker [14628] L51 @ Searing Gorge 38.4,27.7
+   text: Take Chambermaid Pillaclencher's Pillow to Evonice Sootsmoker in the Searing Gorge.
+   rewards: Evonice's Landin' Pilla [18951]
+
+7722 What the Flux? | L50 req45 | xp 4700 money 7500 | -
+   from: Master Smith Burninate [14624] L52 @ Searing Gorge 38.8,28.5
+   to:   Master Smith Burninate [14624] L52 @ Searing Gorge 38.8,28.5
+   unlocks: 7736 Restoring Fiery Flux Supplies via Kingsblood (L60 xp None), 7737 Gaining Acceptance (L60 xp None), 8241 Restoring Fiery Flux Supplies via Iron (L60 xp None), 8242 Restoring Fiery Flux Supplies via Heavy Leather (L60 xp None)
+   items: Secret Plans: Fiery Flux [18922] <- 1 objects (Secret Plans: Fiery Flux)

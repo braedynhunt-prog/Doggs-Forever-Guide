@@ -1,0 +1,57 @@
+# Uldaman (category 1337): 8 quests, 24,430 XP; clean (no drop / elite / group / dungeon / skill flag) 0 quests 0 XP
+
+1139 The Lost Tablets of Will | L45 req35 | xp 5850 money 13000 | DUNGEON
+   from: Advisor Belgrum [2918] L40 @ Ironforge 77.3,9.7
+   to:   Advisor Belgrum [2918] L40 @ Ironforge 77.3,9.7
+   pre:  762 An Ambassador of Evil (L44 req35)
+   items: Tablet of Will [5824] <- 1 objects (Tablet of Will)
+   rewards: Medal of Courage [6723], Medal of Valor [270095]
+
+2199 Lore for a Price | L41 req37 | xp 2450 money 0 | DUNGEON
+   from: Talvash del Kissel [6826] L50 @ Ironforge 36.4,3.6
+   to:   Talvash del Kissel [6826] L50 @ Ironforge 36.4,3.6
+   pre:  2198 The Shattered Necklace (done 39e)
+   unlocks: 2200 Back to Uldaman (L42 xp 2550)
+   items: Silver Bar [2842] <- 10 objects (Battered Chest)
+
+2200 Back to Uldaman | L42 req37 | xp 2550 money 0 | DUNGEON
+   from: Talvash del Kissel [6826] L50 @ Ironforge 36.4,3.6
+   to:   Remains of a Paladin [6912] L35 @ Uldaman -1.0,-1.0
+   pre:  2199 Lore for a Price (L41 req37)
+   unlocks: 2201 Find the Gems (L43 xp 3600)
+   text: Search for clues as to the current disposition of Talvash's necklace within Uldaman. The slain paladin he mentioned was the person who had it last.
+
+3375 Replacement Phial | L42 req37 | xp None money 0 | NOXP
+   from: Talvash del Kissel [6826] L50 @ Ironforge 36.4,3.6
+   to:   Talvash del Kissel [6826] L50 @ Ironforge 36.4,3.6
+   pre:  2201 Find the Gems (L43 req37)
+   items: Mana Potion [3827] <- vendor ; Coal [3857] <- vendor ; Sweet Nectar [1708] <- vendor
+   rewards: Talvash's Phial of Scrying [7667]
+
+2201 Find the Gems | L43 req37 | xp 3600 money 0 | DUNGEON DROP | mobs to 45
+   from: Remains of a Paladin [6912] L35 @ Uldaman -1.0,-1.0
+   to:   obj Talvash's Scrying Bowl [112877] @ Uldaman -1.0,-1.0
+   pre:  2200 Back to Uldaman (L42 req37)
+   unlocks: 2204 Restoring the Necklace (L44 xp 930), 3375 Replacement Phial (L42 xp None)
+   items: Shattered Necklace Ruby [7669] <- 1 objects (Shadowforge Cache) ; Shattered Necklace Sapphire [7670] <- 1 mobs (Grimlok) all-elite RATE 10.15% ; Shattered Necklace Topaz [7671] <- 1 objects (Conspicuous Urn)
+
+2204 Restoring the Necklace | L44 req37 | xp 930 money 0 | DUNGEON DROP | mobs to 47
+   from: obj Talvash's Scrying Bowl [112877] @ Uldaman -1.0,-1.0
+   to:   Talvash del Kissel [6826] L50 @ Ironforge 36.4,3.6
+   pre:  2201 Find the Gems (L43 req37)
+   unlocks: 2361 Restoring the Necklace (L44 xp 5600)
+   items: Shattered Necklace Power Source [7672] <- 1 mobs (Archaedas) all-elite RATE 10.04%
+
+2361 Restoring the Necklace | L44 req37 | xp 5600 money 0 | DUNGEON
+   from: Talvash del Kissel [6826] L50 @ Ironforge 36.4,3.6
+   to:   Talvash del Kissel [6826] L50 @ Ironforge 36.4,3.6
+   pre:  2204 Restoring the Necklace (L44 req37)
+   rewards: Talvash's Enhancing Necklace [7673]
+
+17 Uldaman Reagent Run | L42 req38 | xp 3450 money 5500 | DUNGEON
+   from: Ghak Healtouch [1470] L25 @ Loch Modan 37.1,49.4
+   to:   Ghak Healtouch [1470] L25 @ Loch Modan 37.1,49.4
+   pre:  2500 Badlands Reagent Run (L39 req36)
+   unlocks: 2501 Badlands Reagent Run II (L44 xp 3750)
+   items: Magenta Fungus Cap [8047] <- 2 objects (Magenta Cap Clusters)
+   rewards: Greater Mender's Potion [250947]

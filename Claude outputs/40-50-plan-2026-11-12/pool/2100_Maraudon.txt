@@ -1,0 +1,57 @@
+# Maraudon (category 2100): 9 quests, 46,400 XP; clean (no drop / elite / group / dungeon / skill flag) 0 quests 0 XP
+
+93404 Rot and Regret | L49 req35 | xp 5700 money 0 | SIDE? DUNGEON | mobs to 60
+   from: Woodwyrd [254674] L60 ELITE @ Shen'dralas 69.7,71.8
+   to:   Woodwyrd [254674] L60 ELITE @ Shen'dralas 69.7,71.8
+   kill: Woodwyrd [254674] L60 ELITE @ Shen'dralas 69.7,71.8
+   items: Vial of Earth Song Water [258296] <- 1 objects (?)
+   rewards: Overgrown Cuffs [272186], Thornplated Cord [272187]
+
+7070 Shadowshard Fragments | L42 req39 | xp 3450 money 0 | DUNGEON DROP | mobs to 42
+   from: Archmage Tervosh [4967] L38 @ Dustwallow 66.4,49.3
+   to:   Archmage Tervosh [4967] L38 @ Dustwallow 66.4,49.3
+   items: Shadowshard Fragment [17756] <- 3 mobs (Shadowshard Rumbler, Shadowshard Smasher, Shadowshard Thunderer) all-elite RATE 45.9%
+   rewards: Zealous Shadowshard Pendant [17772], Prodigious Shadowshard Pendant [17773]
+
+7067 The Pariah's Instructions | L48 req39 | xp 5450 money 14000 | DUNGEON
+   from: Centaur Pariah [13717] L42 @ Desolace 50.4,86.7
+   to:   Centaur Pariah [13717] L42 @ Desolace 50.4,86.7
+   items: Amulet of Union [17758] <- no source in qdb
+   rewards: Mark of the Chosen [17774]
+
+7066 Seed of Life | L51 req39 | xp 6100 money 15000 | DUNGEON
+   from: Zaetar's Spirit [12238] L60 ELITE @ Maraudon -1.0,-1.0
+   to:   Keeper Remulos [11832] L62 ELITE @ Moonglade 36.2,41.8
+   text: Seek out Remulos in Moonglade and give him the Seed of Life.
+
+7028 Twisted Evils | L47 req41 | xp 5250 money 0 | DUNGEON DROP | mobs to 51
+   from: Willow [13656] L45 @ Desolace 62.2,39.6
+   to:   Willow [13656] L45 @ Desolace 62.2,39.6
+   items: Theradric Crystal Carving [17684] <- 33 mobs (Cursed Centaur, Putridus Satyr, Putridus Trickster...) RATE 26.6%
+   rewards: Acumen Robes [17775], Sprightring Helm [17776], Relentless Chain [17777], Hulkstone Pauldrons [17779]
+
+7041 Vyletongue Corruption | L47 req41 | xp 5250 money 0 | DUNGEON | mobs to 46
+   from: Talendria [11715] L45 @ Desolace 68.5,8.9
+   to:   Talendria [11715] L45 @ Desolace 68.5,8.9
+   kill: Noxxious Scion [13696] L45-46 @ Maraudon -1.0,-1.0
+   items: Filled Cerulean Vial [17696] <- 1 objects (Maraudon Orange Crystal Pool)
+   rewards: Woodseed Hoop [17768], Sagebrush Girdle [17778], Branchclaw Gauntlets [17770]
+
+7044 Legends of Maraudon | L49 req41 | xp 3400 money 0 | DUNGEON DROP | mobs to 48
+   from: Cavindra [13697] L45 ELITE @ Desolace 31.9,63.8
+   to:   Celebras the Redeemed [13716] L49 ELITE @ Maraudon -1.0,-1.0
+   unlocks: 7046 The Scepter of Celebras (L49 xp 5700)
+   items: Celebrian Diamond [17703] <- 1 mobs (Lord Vyletongue) all-elite RATE 37.9% ; Celebrian Rod [17702] <- 2 mobs (Noxxion, Noxxion's Spawn) RATE 42.6%
+
+7046 The Scepter of Celebras | L49 req41 | xp 5700 money 0 | DUNGEON
+   from: Celebras the Redeemed [13716] L49 ELITE @ Maraudon -1.0,-1.0
+   to:   Celebras the Redeemed [13716] L49 ELITE @ Maraudon -1.0,-1.0
+   pre:  7044 Legends of Maraudon (L49 req41)
+   objects: obj Incantation of Celebras [178965] @ Maraudon -1.0,-1.0
+   rewards: Scepter of Celebras [17191]
+
+7065 Corruption of Earth and Seed | L51 req45 | xp 6100 money 0 | DUNGEON | mobs to 51
+   from: Keeper Marandis [13698] L43 @ Desolace 63.8,10.7
+   to:   Keeper Marandis [13698] L43 @ Desolace 63.8,10.7
+   kill: Princess Theradras [12201] L51 ELITE @ Maraudon -1.0,-1.0
+   rewards: Thrash Blade [17705], Resurgence Rod [17743], Verdant Keeper's Aim [17753]

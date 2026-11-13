@@ -1,0 +1,134 @@
+
+== RATE?
+
+== DUN-rate?
+1477 1446 Jammal'an the Prophet L53 req38 xp 6550 | Head of Jammal'an no rate | best reward: Head 85.2 Helm of Exile [Mail] +11 Agi +18 Int +17 Spi
+
+== OPT?
+139 5510 Minion's Scourgestones L55 req50 xp 560 | Minion's Scourgestone 34.8% (44 droppers, best Putrid Shrieker 100% of 1)
+28 5402 Minion's Scourgestones L55 req50 xp 560 | Minion's Scourgestone 34.8% (44 droppers, best Putrid Shrieker 100% of 1)
+361 4101 Cleansing Felwood L55 req48 xp 5650 | Blood Amber 53.9% (3 droppers, best Dessecus 100% of 1)
+
+== GROUP?
+361 5156 Verifying the Corruption L54 req48 xp 6800 | typed Group on Wowhead; targets carry no elite rank in the data
+4 2521 To Serve Kum'isha L55 req45 xp 8450 | elite target outside a dungeon | best reward: Chest 0.0 Emerald Encrusted Chest [] no stats
+4 2522 Kum'isha's Endeavors L55 req45 xp 5650 | elite target outside a dungeon | best reward: Chest 0.0 Emerald Encrusted Chest [] no stats
+46 4182 Dragonkin Menace L54 req48 xp 5450 | elite target outside a dungeon
+
+== HOLD
+-182 5144 Elemental Leatherworking L55 req40 xp 4200 | needs skill [165, 225]
+1216 6031 Runecloth L55 req50 xp 5650 | needs reputation [576, 3000] | best reward: Hands 36.0 Bricksteel Gauntlets [Mail] +18 Str
+1216 6032 Sacred Cloth L55 req50 xp 5650 | needs skill [197, 280]
+1216 86798 Timbermaw Reinforcements L55 req47 xp 560 | side not stated on Wowhead (none listed) or in the DB
+1584 3911 The Last Element L54 req48 xp 5450 | side not stated on Wowhead (none listed) or in the DB | best reward: Finger 45.3 Lagrave's Seal [] +7 Int +7 Spi +8 SP
+16554 92066 The Twin Bears L55 req47 xp 5650 | side not stated on Wowhead (none listed) or in the DB | best reward: Back 26.9 Wisdom of Ursol [] +10 Int +5 SP
+16554 92067 Feeding Time! L55 req45 xp 0 | side not stated on Wowhead (none listed) or in the DB
+16554 92070 A Lost Memento L55 req47 xp 5650 | side not stated on Wowhead (none listed) or in the DB | best reward: Neck 31.0 Nama's Cherished Necklace [] +9 Sta +31 AP
+16620 95263 Somber News L53 req48 xp 1300 | no starter in the DB or on the Wowhead quest page
+16620 96335 The Man in the Iron Chains L53 req48 xp 1300 | side not stated on Wowhead (none listed) or in the DB
+16620 96337 More Valuable Than Gold L53 req48 xp 5250 | side not stated on Wowhead (none listed) or in the DB
+361 5883 Salve via Mining L55 req48 xp 4200 | needs skill [186, 200]
+361 5884 Salve via Gathering L55 req48 xp 4200 | needs skill [182, 200]
+361 5885 Salve via Skinning L55 req48 xp 4200 | needs skill [393, 200]
+361 5886 Salve via Disenchanting L55 req48 xp 4200 | needs skill [333, 200]
+361 8470 Deadwood Ritual Totem L55 req45 xp 5650 | side not stated on Wowhead (none listed) or in the DB
+4 93572 To Serve The Draenei L55 req45 xp 5650 | side not stated on Wowhead (none listed) or in the DB | best reward: Chest 0.0 Emerald Encrusted Chest [] no stats
+
+== ASK
+1477 1475 Into The Temple of Atal'Hakkar L50 req38 xp 7100 | behind 1469 Rhapsody's Tale, which is your call
+1657 4493 March of the Silithid L53 req50 xp 530 | behind 162 Rise of the Silithid, which is your call
+357 7721 Fuel for the Zapping L48 req45 xp 4400 | Water Elemental Core 55.5% - XP only unless Zorbin's Water Resistant Hat scores as an upgrade; opens Zapped Giants (elite giants) | best reward: Head 43.7 Zorbin's Water Resistant Hat [Leather] +9 Sta +14 Int +8 Spi
+440 10 The Scrimshank Redemption L48 req39 xp 4400 | behind 82 Noxious Lair Investigation, which is your call
+440 82 Noxious Lair Investigation L47 req39 xp 3150 | Centipaar Insect Parts 50.7% (six mob types) - XP only by rule 11, but it opens four more quests in Tanaris (10,980 XP) and the silithid chain into Un'Goro
+440 110 Insect Part Analysis L48 req39 xp 440 | behind 10 The Scrimshank Redemption, which is your call
+440 113 Insect Part Analysis L48 req39 xp 440 | behind 110 Insect Part Analysis, which is your call
+440 162 Rise of the Silithid L49 req39 xp 5700 | behind 113 Insect Part Analysis, which is your call
+47 1452 Rhapsody's Kalimdor Kocktail L43 req38 xp 3600 | Roc Gizzard 5.9%, Ironfur Liver 24%, Groddoc Liver 26.7%, three of each (about 75 kills, 50 of them rocs): out by rule 12, but it gates Rhapsody's Tale and Into The Temple of Atal'Hakkar (7,100 XP dungeon quest)
+47 1469 Rhapsody's Tale L43 req38 xp 2700 | behind 1452 Rhapsody's Kalimdor Kocktail, which is your call
+
+== COND
+16 86747 Legashi Horns L53 req47 xp 530 | no giver in the DB or on Wowhead (ends at Ekkal, Azshara 42.0,38.9): taken if it is offered or drops
+16 86752 Report to Rageroar L53 req47 xp 530 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+16 86777 Master Feardred L53 req47 xp 5250 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance | best reward: Two-Hand 631.7 Rageroar's Best Club [Mace] 40.3 dps +15 Str +15 Spi
+16 86791 Missing Blackmaw Scouts L53 req47 xp 530 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+16 86792 Thinning Their Forces L54 req47 xp 5450 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+16 86796 Later, Satyr L54 req47 xp 5450 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+16 86797 Return to Rageroar L53 req47 xp 530 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+16 86799 Encroaching Corruption L53 req47 xp 530 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+16 86804 An Unlikely Source L53 req47 xp 3950 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+16 86812 Transmuted Tincture L53 req47 xp 3950 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+16 86813 Potential Panacea L53 req47 xp 2650 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance | best reward: Shoulder 41.7 Amice of Sorrow [Cloth] +14 Int +9 SP
+16 86814 Blackmaw Counter-Offensive L55 req47 xp 7050 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance | best reward: Feet 52.0 Hippogryph Hide Boots [Mail] +17 Str +9 Sta +9 SP
+16 86925 Toil and Trouble L53 req47 xp 5250 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+16 86926 Felfire Burn, Cauldron Bubble L53 req47 xp 5250 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+16 86927 Running Firewater L53 req47 xp 5250 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+16 87346 Chieftain Bloodmaw L55 req47 xp 5650 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+16 90813 Pay Dirt! L53 req50 xp 6550 | Alliance on Wowhead, required level 50, no giver known (ends at Berdun Cliffbrew, Azshara 12.6,77.4)
+16842 94969 Krol'dok No More! L42 req40 xp 3450 | Krol'dok dungeon quest with no giver in the DB or on Wowhead: taken if it is offered at the door or inside
+16842 94980 Krol'dok Moulding L41 req38 xp 3300 | starts from the Krol'dok Moulding, dropped by Tunk, who is Elite on Wowhead and mapped with the Stronghold's bosses: a dungeon drop, taken if it falls
+3 78823 Terror of the Desert Skies L40 req26 xp 1550 | no giver in the DB or on Wowhead (ends at Hemet Nesingwary)
+3 78830 Terror of the Desert Skies L40 req26 xp 3900 | shaman-flagged row with no giver; a Season of Discovery leftover unless it shows up in game | best reward: Finger 11.8 Ponderous Loop [] +4 Sta +7 Int
+33 95384 Partial Mystical Notes L40 req32 xp 3150 | no giver: probably starts from a dropped item (ends at npc 260873); taken only if the item drops
+33 95385 Torn Mystical Scroll L43 req35 xp 3600 | no giver: probably starts from a dropped item (ends at npc 260873); taken only if the item drops | best reward: Head 23.7 Dudd's Thinkin' Cap [Cloth] +10 Sta +14 Int
+357 95555 Corrupted Nature L50 req40 xp 4700 | no giver and no side on Wowhead; taken only if it is offered
+357 95599 The Old Key L42 req35 xp 3450 | no giver: The Old Key probably starts from a dropped key; taken only if it drops
+490 87494 Microcrystal Contamination L55 req45 xp 5650 | no giver in the DB or on Wowhead (ends at Torwa Pathfinder) | best reward: Waist 37.3 Crystal-flecked Waistguard [Mail] +6 Str +15 Int
+
+== GATE
+-101 6607 Nat Pagle, Angler Extreme L45 req35 xp 3900 | Artisan Fishing: Nat Pagle, only at Fishing 225
+-101 6609 I Got Nothin' Left! L45 req35 xp 970 | lead-in to Nat Pagle, only at Fishing 225
+-182 5141 Dragonscale Leatherworking L55 req40 xp 4200 | Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225; question 5
+
+== GROUP-OPT
+3 717 Tremors of the Earth L50 req40 xp 5900 | elite outside a dungeon (rule 13): Blacklash (50 elite), Hematus (50 elite); kept optional for the Prismscale Hauberk (mail chest, scores 64.3 on the level-40 band) | best reward: Chest 64.3 Prismscale Hauberk [Mail] +3 Sta +4 Int +23 Spi
+
+== LATER
+1519 3787 Jonespyre's Request L50 req47 xp 1200 | Morrowgrain chain: round 3
+1519 3789 Assisting Arch Druid Staghelm L50 req47 xp 470 | Morrowgrain chain: round 3
+1519 5048 Good Natured Emma L52 req50 xp 5100 | level 52, required level 50: round 3
+1519 5066 A Call to Arms: The Plaguelands! L50 req50 xp 470 | Western Plaguelands lead-in, required level 50: round 3
+1537 3371 Dwarven Justice L55 req40 xp 5650 | level 55: round 3
+1537 3790 Assisting Arch Druid Staghelm L50 req47 xp 470 | Morrowgrain chain: round 3
+1537 4512 A Little Slime Goes a Long Way L52 req48 xp 6350 | jar filled on Felwood oozes: round 3 (Felwood)
+1537 4513 A Little Slime Goes a Long Way L54 req48 xp 6800 | Un'Goro ooze samples for the Ironforge slime chain: round 3 with 4512 | best reward: Hands 37.4 Brazen Gauntlets [Mail] +12 Str +12 Agi +2 Sta
+1537 5090 A Call to Arms: The Plaguelands! L50 req50 xp 470 | Western Plaguelands lead-in, required level 50: round 3
+1584 3801 Dark Iron Legacy L52 req48 xp 510 | Blackrock Depths: round 3
+1584 3802 Dark Iron Legacy L52 req48 xp 5100 | Blackrock Depths: round 3
+1657 3763 Assisting Arch Druid Staghelm L50 req47 xp 470 | Morrowgrain chain (Darnassus, Un'Goro soil): round 3 with the rest of Un'Goro
+1657 3764 Un'Goro Soil L50 req47 xp 4700 | Morrowgrain chain: round 3
+1657 3781 Morrowgrain Research L50 req47 xp 470 | Morrowgrain chain: round 3
+1657 3785 Morrowgrain Research L50 req47 xp 4700 | Morrowgrain chain: round 3
+1657 3788 Jonespyre's Request L50 req47 xp 470 | Morrowgrain chain: round 3
+1657 3791 The Mystery of Morrowgrain L50 req47 xp 4700 | Morrowgrain chain: round 3 | best reward: Hands 43.6 Quintis' Research Gloves [Cloth] +11 Int +10 Spi
+1657 3792 Morrowgrain to Feathermoon Stronghold L55 req47 xp 560 | behind 3791 The Mystery of Morrowgrain, which is left for round 3
+1657 3803 Morrowgrain to Darnassus L55 req47 xp 560 | behind 3785 Morrowgrain Research, which is left for round 3
+1657 5091 A Call to Arms: The Plaguelands! L50 req50 xp 470 | Western Plaguelands lead-in, required level 50: round 3
+28 5021 Better Late Than Never L52 req50 xp 2550 | Western Plaguelands, required level 50: round 3
+28 5022 Better Late Than Never L52 req50 xp 2550 | Western Plaguelands, required level 50: round 3
+28 5050 Good Luck Charm L52 req50 xp 2550 | Western Plaguelands, required level 50: round 3
+28 5051 Two Halves Become One L54 req50 xp 5450 | behind 5050 Good Luck Charm, which is left for round 3 | best reward: Neck 0.0 Felstone Good Luck Charm [] no stats
+28 5092 Clear the Way L52 req50 xp 5100 | Western Plaguelands, required level 50: round 3
+28 5215 The Scourge Cauldrons L53 req50 xp 530 | behind 5092 Clear the Way, which is left for round 3
+28 5216 Target: Felstone Field L53 req50 xp 5250 | behind 5215 The Scourge Cauldrons, which is left for round 3
+28 5217 Return to Chillwind Camp L53 req50 xp 2650 | behind 5216 Target: Felstone Field, which is left for round 3
+28 5219 Target: Dalson's Tears L55 req50 xp 5650 | behind 5217 Return to Chillwind Camp, which is left for round 3
+28 5220 Return to Chillwind Camp L55 req50 xp 2800 | behind 5219 Target: Dalson's Tears, which is left for round 3
+28 5222 Target: Writhing Haunt L55 req50 xp 5650 | behind 5220 Return to Chillwind Camp, which is left for round 3
+28 5223 Return to Chillwind Camp L55 req50 xp 2800 | behind 5222 Target: Writhing Haunt, which is left for round 3
+33 3721 An OOX of Your Own L50 req40 xp 7100 | needs the three OOX rescues (Hinterlands, Feralas, Tanaris); handed in on a Booty Bay pass in round 3
+361 5155 Forces of Jaedenar L51 req48 xp 4900 | Felwood: round 3
+361 5157 Collection of the Corrupt Water L52 req48 xp 3800 | Felwood: round 3
+361 5158 Seeking Spiritual Aid L52 req48 xp 2550 | Felwood: round 3
+361 5159 Cleansed Water Returns to Felwood L54 req48 xp 2700 | behind 5158 Seeking Spiritual Aid, which is left for round 3
+361 5165 Dousing the Flames of Protection L55 req48 xp 5650 | behind 5159 Cleansed Water Returns to Felwood, which is left for round 3
+361 8460 Timbermaw Ally L48 req45 xp 4400 | Felwood: round 3 | best reward: Waist 24.0 Belt of the Den Watcher [Mail] +6 Sta +24 AP
+361 8462 Speak to Nafien L55 req45 xp 560 | behind 8460 Timbermaw Ally, which is left for round 3
+4 87295 Deflective Surface L52 req46 xp 5100 | Blasted Lands, level 52: round 3
+46 3823 Extinguish the Firegut L52 req48 xp 5100 | Burning Steppes: round 3
+46 3824 Gor'tesh the Brute Lord L53 req48 xp 5250 | behind 3823 Extinguish the Firegut, which is left for round 3
+46 3825 Ogre Head On A Stick = Party L53 req48 xp 5250 | behind 3824 Gor'tesh the Brute Lord, which is left for round 3 | best reward: Hands 35.6 Maddening Gauntlets [Mail] +15 Str +5 Agi
+46 4296 Tablet of the Seven L50 req50 xp 2350 | Burning Steppes: round 3
+46 4726 Broodling Essence L52 req50 xp 5100 | Burning Steppes: round 3
+46 4808 Felnok Steelspring L54 req50 xp 2700 | behind 4726 Broodling Essence, which is left for round 3
+618 6028 The Everlook Report L52 req50 xp 2550 | Winterspring: round 3
+618 6030 Duke Nicholas Zverenhoff L52 req50 xp 2550 | Winterspring: round 3

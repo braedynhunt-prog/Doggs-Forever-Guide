@@ -1,0 +1,7 @@
+# Ashenvale (category 331): 1 quests, 375 XP; clean (no drop / elite / group / dungeon / skill flag) 0 quests 0 XP
+
+7864 Sentinel Standard Care Package | L44 req35 | xp 375 money 0 | REP[890, 3000]
+   from: Illiyana Moonblaze [14753] L55 ELITE @ Ashenvale 61.5,83.9
+   to:   Illiyana Moonblaze [14753] L55 ELITE @ Ashenvale 61.5,83.9
+   exclusive to: [7863, 7865]
+   rewards: Sentinel Standard Care Package [19151]

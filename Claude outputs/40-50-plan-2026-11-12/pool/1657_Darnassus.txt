@@ -1,0 +1,78 @@
+# Darnassus (category 1657): 11 quests, 25,780 XP; clean (no drop / elite / group / dungeon / skill flag) 11 quests 25,780 XP
+
+3763 Assisting Arch Druid Staghelm | L50 req47 | xp 470 money 0 | -
+   from: Innkeeper Saelienne [6735] L30 @ Darnassus 67.4,15.7
+   to:   Arch Druid Fandral Staghelm [3516] L63 BOSS @ Darnassus 34.8,9.3
+   exclusive to: [3789, 3790]
+   text: Speak with Arch Druid Fandral Staghelm in Darnassus.
+
+3764 Un'Goro Soil | L50 req47 | xp 4700 money 14500 | -
+   from: Arch Druid Fandral Staghelm [3516] L63 BOSS @ Darnassus 34.8,9.3
+   to:   Jenal [9047] L5 @ Darnassus 31.5,8.2
+   unlocks: 3781 Morrowgrain Research (L50 xp 470)
+   items: Un'Goro Soil [11018] <- 1 objects (Un'Goro Dirt Pile)
+
+3781 Morrowgrain Research | L50 req47 | xp 470 money 0 | -
+   from: Arch Druid Fandral Staghelm [3516] L63 BOSS @ Darnassus 34.8,9.3
+   to:   Mathrengyl Bearwalker [4217] L60 @ Darnassus 35.4,8.4
+   pre:  3764 Un'Goro Soil (L50 req47)
+   unlocks: 3785 Morrowgrain Research (L50 xp 4700), 3787 Jonespyre's Request (L50 xp 1200), 3788 Jonespyre's Request (L50 xp 470), 3791 The Mystery of Morrowgrain (L50 xp 4700)
+   text: Take the Arch Druid's Seed Voucher to Mathrengyl Bearwalker in the Cenarion Enclave of Darnassus.
+   rewards: Packet of Tharlendris Seeds [11022]
+
+3785 Morrowgrain Research | L50 req47 | xp 4700 money 0 | -
+   from: Mathrengyl Bearwalker [4217] L60 @ Darnassus 35.4,8.4
+   to:   Mathrengyl Bearwalker [4217] L60 @ Darnassus 35.4,8.4
+   pre:  3781 Morrowgrain Research (L50 req47)
+   unlocks: 3803 Morrowgrain to Darnassus (L55 xp 560)
+   items: Morrowgrain [11040] <- no source in qdb
+   rewards: Cenarion Circle Cache [11887]
+
+3788 Jonespyre's Request | L50 req47 | xp 470 money 0 | -
+   from: Innkeeper Shyria [7736] L30 @ Feralas 31.0,43.5
+   to:   Quintis Jonespyre [7879] L55 @ Feralas 32.5,43.8
+   pre:  3781 Morrowgrain Research (L50 req47)
+   exclusive to: [3787]
+   text: Speak with Quintis Jonespyre in Feathermoon Stronghold.
+
+3791 The Mystery of Morrowgrain | L50 req47 | xp 4700 money 0 | -
+   from: Quintis Jonespyre [7879] L55 @ Feralas 32.5,43.8
+   to:   Quintis Jonespyre [7879] L55 @ Feralas 32.5,43.8
+   pre:  3781 Morrowgrain Research (L50 req47)
+   unlocks: 3792 Morrowgrain to Feathermoon Stronghold (L55 xp 560)
+   items: Morrowgrain [11040] <- no source in qdb
+   rewards: Quintis' Research Gloves [11888], Bark Iron Pauldrons [11889]
+
+3792 Morrowgrain to Feathermoon Stronghold | L55 req47 | xp 560 money 0 | -
+   from: Quintis Jonespyre [7879] L55 @ Feralas 32.5,43.8
+   to:   Quintis Jonespyre [7879] L55 @ Feralas 32.5,43.8
+   pre:  3791 The Mystery of Morrowgrain (L50 req47)
+   items: Morrowgrain [11040] <- no source in qdb
+   rewards: Packet of Tharlendris Seeds [11022]
+
+3803 Morrowgrain to Darnassus | L55 req47 | xp 560 money 0 | -
+   from: Mathrengyl Bearwalker [4217] L60 @ Darnassus 35.4,8.4
+   to:   Mathrengyl Bearwalker [4217] L60 @ Darnassus 35.4,8.4
+   pre:  3785 Morrowgrain Research (L50 req47)
+   items: Morrowgrain [11040] <- no source in qdb
+   rewards: Cenarion Circle Cache [11887]
+
+5091 A Call to Arms: The Plaguelands! | L50 req50 | xp 470 money 0 | -
+   from: Herald Moonstalker [10878] L3 @ Darnassus 47.8,82.0
+   to:   Commander Ashlam Valorfist [10838] L61 @ W Plaguelands 42.7,84.0
+   exclusive to: [5066, 5090]
+   text: Seek out Commander Ashlam Valorfist. His base camp is located at Chillwind Camp, north of the Alterac Mountains.
+
+4493 March of the Silithid | L53 req50 | xp 530 money 0 | -
+   from: Gracina Spiritmight [7740] L55 @ Darnassus 41.8,85.6
+   to:   Alchemist Pestlezugg [5594] L45 @ Tanaris 50.9,27.0
+   pre:  162 Rise of the Silithid (L49 req39)
+   unlocks: 4496 Bungle in the Jungle (L53 xp 5250)
+   text: Speak to Alchemist Pestlezugg in Gadgetzan.
+
+4510 Calm Before the Storm | L54 req50 | xp 8150 money 0 | -
+   from: Gracina Spiritmight [7740] L55 @ Darnassus 41.8,85.6
+   to:   Idriana [4155] L45 @ Darnassus 39.4,42.4
+   pre:  4508 Calm Before the Storm (L54 req50)
+   text: Bring the Bank Voucher to Idriana in the bank of Darnassus.
+   rewards: Oblivion Orb [11870], Snarkshaw Spaulders [11871], Eschewal Greaves [11872]

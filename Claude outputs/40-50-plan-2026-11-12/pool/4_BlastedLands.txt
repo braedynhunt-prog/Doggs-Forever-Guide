@@ -1,0 +1,139 @@
+# Blasted Lands (category 4): 22 quests, 82,950 XP; clean (no drop / elite / group / dungeon / skill flag) 7 quests 34,600 XP
+
+2581 Snickerfang Jowls | L50 req45 | xp 4700 money 0 | DROP | mobs to 53
+   from: Bloodmage Drazial [7505] L50 @ Blasted Lands 50.5,14.2
+   to:   Bloodmage Drazial [7505] L50 @ Blasted Lands 50.5,14.2
+   unlocks: 2582 Rage of Ages (L50 xp None)
+   items: Snickerfang Jowl [8391] <- 3 mobs (Starving Snickerfang, Snickerfang Hyena, Ravage) RATE 35.3% ; Blasted Boar Lung [8392] <- 3 mobs (Ashmane Boar, Helboar, Grunter) RATE 38.0% ; Scorpok Pincer [8393] <- 2 mobs (Scorpok Stinger, Clack the Reaver) RATE 30.8%
+   rewards: R.O.I.D.S. [8410]
+
+2582 Rage of Ages | L50 req45 | xp None money 0 | NOXP DROP | mobs to 53
+   from: Bloodmage Drazial [7505] L50 @ Blasted Lands 50.5,14.2
+   to:   Bloodmage Drazial [7505] L50 @ Blasted Lands 50.5,14.2
+   pre:  2581 Snickerfang Jowls (L50 req45)
+   items: Snickerfang Jowl [8391] <- 3 mobs (Starving Snickerfang, Snickerfang Hyena, Ravage) RATE 35.3% ; Blasted Boar Lung [8392] <- 3 mobs (Ashmane Boar, Helboar, Grunter) RATE 38.0% ; Scorpok Pincer [8393] <- 2 mobs (Scorpok Stinger, Clack the Reaver) RATE 30.8%
+   rewards: R.O.I.D.S. [8410]
+
+2583 A Boar's Vitality | L50 req45 | xp 4700 money 0 | DROP | mobs to 53
+   from: Bloodmage Drazial [7505] L50 @ Blasted Lands 50.5,14.2
+   to:   Bloodmage Drazial [7505] L50 @ Blasted Lands 50.5,14.2
+   unlocks: 2584 Spirit of the Boar (L50 xp None)
+   items: Blasted Boar Lung [8392] <- 3 mobs (Ashmane Boar, Helboar, Grunter) RATE 38.0% ; Scorpok Pincer [8393] <- 2 mobs (Scorpok Stinger, Clack the Reaver) RATE 30.8% ; Basilisk Brain [8394] <- 3 mobs (Redstone Basilisk, Redstone Crystalhide, Deatheye) RATE 35.7%
+   rewards: Lung Juice Cocktail [8411]
+
+2584 Spirit of the Boar | L50 req45 | xp None money 0 | NOXP DROP | mobs to 53
+   from: Bloodmage Drazial [7505] L50 @ Blasted Lands 50.5,14.2
+   to:   Bloodmage Drazial [7505] L50 @ Blasted Lands 50.5,14.2
+   pre:  2583 A Boar's Vitality (L50 req45)
+   items: Blasted Boar Lung [8392] <- 3 mobs (Ashmane Boar, Helboar, Grunter) RATE 38.0% ; Scorpok Pincer [8393] <- 2 mobs (Scorpok Stinger, Clack the Reaver) RATE 30.8% ; Basilisk Brain [8394] <- 3 mobs (Redstone Basilisk, Redstone Crystalhide, Deatheye) RATE 35.7%
+   rewards: Lung Juice Cocktail [8411]
+
+2585 The Decisive Striker | L50 req45 | xp 4700 money 0 | DROP | mobs to 53
+   from: Bloodmage Drazial [7505] L50 @ Blasted Lands 50.5,14.2
+   to:   Bloodmage Drazial [7505] L50 @ Blasted Lands 50.5,14.2
+   unlocks: 2586 Salt of the Scorpok (L50 xp None)
+   items: Scorpok Pincer [8393] <- 2 mobs (Scorpok Stinger, Clack the Reaver) RATE 30.8% ; Vulture Gizzard [8396] <- 2 mobs (Black Slayer, Bonepicker) RATE 30.2% ; Blasted Boar Lung [8392] <- 3 mobs (Ashmane Boar, Helboar, Grunter) RATE 38.0%
+   rewards: Ground Scorpok Assay [8412]
+
+2586 Salt of the Scorpok | L50 req45 | xp None money 0 | NOXP DROP | mobs to 53
+   from: Bloodmage Drazial [7505] L50 @ Blasted Lands 50.5,14.2
+   to:   Bloodmage Drazial [7505] L50 @ Blasted Lands 50.5,14.2
+   pre:  2585 The Decisive Striker (L50 req45)
+   items: Scorpok Pincer [8393] <- 2 mobs (Scorpok Stinger, Clack the Reaver) RATE 30.8% ; Vulture Gizzard [8396] <- 2 mobs (Black Slayer, Bonepicker) RATE 30.2% ; Blasted Boar Lung [8392] <- 3 mobs (Ashmane Boar, Helboar, Grunter) RATE 38.0%
+   rewards: Ground Scorpok Assay [8412]
+
+2601 The Basilisk's Bite | L50 req45 | xp 4700 money 0 | DROP | mobs to 52
+   from: Bloodmage Lynnore [7506] L53 @ Blasted Lands 50.6,14.3
+   to:   Bloodmage Lynnore [7506] L53 @ Blasted Lands 50.6,14.3
+   unlocks: 2602 Infallible Mind (L50 xp None)
+   items: Basilisk Brain [8394] <- 3 mobs (Redstone Basilisk, Redstone Crystalhide, Deatheye) RATE 35.7% ; Vulture Gizzard [8396] <- 2 mobs (Black Slayer, Bonepicker) RATE 30.2%
+   rewards: Cerebral Cortex Compound [8423]
+
+2602 Infallible Mind | L50 req45 | xp None money 0 | NOXP DROP | mobs to 52
+   from: Bloodmage Lynnore [7506] L53 @ Blasted Lands 50.6,14.3
+   to:   Bloodmage Lynnore [7506] L53 @ Blasted Lands 50.6,14.3
+   pre:  2601 The Basilisk's Bite (L50 req45)
+   items: Basilisk Brain [8394] <- 3 mobs (Redstone Basilisk, Redstone Crystalhide, Deatheye) RATE 35.7% ; Vulture Gizzard [8396] <- 2 mobs (Black Slayer, Bonepicker) RATE 30.2%
+   rewards: Cerebral Cortex Compound [8423]
+
+2603 Vulture's Vigor | L50 req45 | xp 4700 money 0 | DROP | mobs to 51
+   from: Bloodmage Lynnore [7506] L53 @ Blasted Lands 50.6,14.3
+   to:   Bloodmage Lynnore [7506] L53 @ Blasted Lands 50.6,14.3
+   unlocks: 2604 Spiritual Domination (L50 xp None)
+   items: Vulture Gizzard [8396] <- 2 mobs (Black Slayer, Bonepicker) RATE 30.2% ; Snickerfang Jowl [8391] <- 3 mobs (Starving Snickerfang, Snickerfang Hyena, Ravage) RATE 35.3%
+   rewards: Gizzard Gum [8424]
+
+2604 Spiritual Domination | L50 req45 | xp None money 0 | NOXP DROP | mobs to 51
+   from: Bloodmage Lynnore [7506] L53 @ Blasted Lands 50.6,14.3
+   to:   Bloodmage Lynnore [7506] L53 @ Blasted Lands 50.6,14.3
+   pre:  2603 Vulture's Vigor (L50 req45)
+   items: Vulture Gizzard [8396] <- 2 mobs (Black Slayer, Bonepicker) RATE 30.2% ; Snickerfang Jowl [8391] <- 3 mobs (Starving Snickerfang, Snickerfang Hyena, Ravage) RATE 35.3%
+   rewards: Gizzard Gum [8424]
+
+96797 The Orphan | L54 req45 | xp 4100 money 8000 | -
+   from: Orphan Matron Aria [34365] L45 @ Alterac 21.6,73.2
+   to:   Lieutenant Connar [266524] L55 @ Blasted Lands 66.1,19.4
+   text: Travel to Nethergarde Keep in the Blasted Lands and locate Sergeant Danneth.
+
+96798 Into the Darkness | L54 req45 | xp 5450 money 8000 | -
+   from: Lieutenant Connar [266524] L55 @ Blasted Lands 66.1,19.4
+   to:   Sergeant Danneth [266508] L52 @ Blasted Lands 66.7,31.7
+   text: Find Sergeant Danneth somewhere in the Serpent's Coil caverns southeast of Nethergarde Keep.
+
+96799 A Heavy Responsibility | L54 req45 | xp 2700 money 4000 | -
+   from: Lieutenant Connar [266524] L55 @ Blasted Lands 66.1,19.4
+   to:   Sergeant Danneth [266593] L52 @ Blasted Lands 65.2,15.3
+   text: Speak with Sergeant Danneth at Nethergarde Keep.
+
+96811 Escaping the Shadows | L54 req45 | xp 5450 money 8000 | -
+   from: Sergeant Danneth [266508] L52 @ Blasted Lands 66.7,31.7
+   to:   Lieutenant Connar [266524] L55 @ Blasted Lands 66.1,19.4
+   text: Escort Sergeant Danneth out of the Serpent's Coil caves and back to Nethergarde Keep.
+
+2521 To Serve Kum'isha | L55 req45 | xp 8450 money 0 | DROP | mobs to 60
+   from: Kum'isha the Collector [7363] L60 @ Blasted Lands 52.0,35.6
+   to:   Kum'isha the Collector [7363] L60 @ Blasted Lands 52.0,35.6
+   unlocks: 2522 Kum'isha's Endeavors (L55 xp 5650)
+   items: Flawless Draenethyst Sphere [8244] <- 44 mobs (Dreadmaul Ogre, Dreadmaul Ogre Mage, Dreadmaul Brute...) RATE 96.2%
+   rewards: Emerald Encrusted Chest [10752]
+
+2522 Kum'isha's Endeavors | L55 req45 | xp 5650 money 0 | DROP | mobs to 60
+   from: Kum'isha the Collector [7363] L60 @ Blasted Lands 52.0,35.6
+   to:   Kum'isha the Collector [7363] L60 @ Blasted Lands 52.0,35.6
+   pre:  2521 To Serve Kum'isha (L55 req45)
+   items: Flawless Draenethyst Sphere [8244] <- 44 mobs (Dreadmaul Ogre, Dreadmaul Ogre Mage, Dreadmaul Brute...) RATE 96.2%
+   rewards: Emerald Encrusted Chest [10752]
+
+3501 Everything Counts In Large Amounts | L55 req45 | xp 5650 money 0 | DROP | mobs to 60
+   from: Kum'isha the Collector [7363] L60 @ Blasted Lands 52.0,35.6
+   to:   Kum'isha the Collector [7363] L60 @ Blasted Lands 52.0,35.6
+   unlocks: 3502 One Draenei's Junk... (L55 xp None)
+   items: Imperfect Draenethyst Fragment [10593] <- 44 mobs (Dreadmaul Ogre, Dreadmaul Ogre Mage, Dreadmaul Brute...) RATE 1.5%
+   rewards: Kum'isha's Junk [12122]
+
+3502 One Draenei's Junk... | L55 req45 | xp None money 0 | NOXP DROP | mobs to 60
+   from: Kum'isha the Collector [7363] L60 @ Blasted Lands 52.0,35.6
+   to:   Kum'isha the Collector [7363] L60 @ Blasted Lands 52.0,35.6
+   pre:  3501 Everything Counts In Large Amounts (L55 req45)
+   items: Imperfect Draenethyst Fragment [10593] <- 44 mobs (Dreadmaul Ogre, Dreadmaul Ogre Mage, Dreadmaul Brute...) RATE 1.5%
+   rewards: Kum'isha's Junk [12122]
+
+93572 To Serve The Draenei | L55 req45 | xp 5650 money 0 | SIDE? NOTINQDB NOSTART NOEND
+   from: ?
+   to:   ?
+   rewards: Emerald Encrusted Chest [10752]
+
+93684 The Found One | L55 req45 | xp 2800 money 0 | SIDE?
+   from: Magtoor [1776] L42 @ Swamp of Sorrows 26.0,31.4
+   to:   Kum'isha the Collector [7363] L60 @ Blasted Lands 52.0,35.6
+   text: Find the draenei searching for draenethyst in the Blasted Lands.
+
+93685 To Serve Kum'isha | L55 req45 | xp 8450 money 25000 | SIDE?
+   from: Kum'isha the Collector [7363] L60 @ Blasted Lands 52.0,35.6
+   to:   Kum'isha the Collector [7363] L60 @ Blasted Lands 52.0,35.6
+   text: Find a Flawless Draenethyst Sphere in the Blasted Lands, and bring it to Kum'isha the Collector.  Be warned, this gem is one of the rarest crystals in all of Azeroth. Any creature in these lands could be holding a Flawless Draenet
+
+87295 Deflective Surface | L52 req46 | xp 5100 money 0 | SIDE? DROP | mobs to 52
+   from: Bernie Heisten [3546] L45 @ Blasted Lands 63.5,17.0
+   to:   Bernie Heisten [3546] L45 @ Blasted Lands 63.5,17.0
+   items: Redstone Basilisk Scale [280181] <- 2 mobs (Redstone Basilisk, Redstone Crystalhide) RATE 9.5%

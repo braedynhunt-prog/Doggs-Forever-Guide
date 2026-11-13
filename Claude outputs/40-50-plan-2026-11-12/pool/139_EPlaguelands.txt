@@ -1,0 +1,62 @@
+# E Plaguelands (category 139): 10 quests, 19,650 XP; clean (no drop / elite / group / dungeon / skill flag) 6 quests 13,770 XP
+
+5142 Little Pamela | L55 req50 | xp 2800 money 0 | -
+   from: Marlene Redpath [10927] L10 @ W Plaguelands 49.2,78.6
+   to:   Pamela Redpath [10926] L1 @ E Plaguelands 31.1,78.0
+   exclusive to: [5601]
+   text: Find Pamela Redpath.
+
+5149 Pamela's Doll | L55 req50 | xp 2800 money 0 | -
+   from: Pamela Redpath [10926] L1 @ E Plaguelands 31.1,78.0
+   to:   Pamela Redpath [10926] L1 @ E Plaguelands 31.1,78.0
+   unlocks: 5152 Auntie Marlene (L56 xp 2900), 5241 Uncle Carlin (L56 xp 2900)
+   items: Pamela's Doll [12885] <- no source in qdb
+
+5211 Defenders of Darrowshire | L55 req50 | xp 5650 money 0 | - | mobs to 57
+   from: Carlin Redpath [11063] L58 @ E Plaguelands 71.7,50.0
+   to:   Carlin Redpath [11063] L58 @ E Plaguelands 71.7,50.0
+   kill: Darrowshire Spirit [11064] L57 @ E Plaguelands 38.7,33.5 (61)
+
+5503 Argent Dawn Commission | L55 req50 | xp 560 money 0 | -
+   from: Duke Nicholas Zverenhoff [11039] L60 @ E Plaguelands 71.6,50.1
+   to:   Duke Nicholas Zverenhoff [11039] L60 @ E Plaguelands 71.6,50.1
+   exclusive to: [5401, 5405]
+   unlocks: 5402 Minion's Scourgestones (L55 xp 560), 5403 Invader's Scourgestones (L55 xp 560), 5404 Corruptor's Scourgestones (L55 xp 560), 5508 Corruptor's Scourgestones (L55 xp 560), 5509 Invader's Scourgestones (L55 xp 560), 5510 Minion's Scourgestones (L55 xp 560)
+   rewards: Argent Dawn Commission [12846]
+
+5508 Corruptor's Scourgestones | L55 req50 | xp 560 money 0 | DROP | mobs to 62
+   from: Duke Nicholas Zverenhoff [11039] L60 @ E Plaguelands 71.6,50.1
+   to:   Duke Nicholas Zverenhoff [11039] L60 @ E Plaguelands 71.6,50.1
+   pre:  5401 Argent Dawn Commission (L55 req50) ; 5503 Argent Dawn Commission (L55 req50) ; 5405 Argent Dawn Commission (HORDE)
+   items: Corruptor's Scourgestone [12843] <- 33 mobs (Putridius, Araj the Summoner, Darkmaster Gandling...) RATE 86.4%
+   rewards: Argent Dawn Valor Token [12844]
+
+5509 Invader's Scourgestones | L55 req50 | xp 560 money 0 | DROP | mobs to 62
+   from: Duke Nicholas Zverenhoff [11039] L60 @ E Plaguelands 71.6,50.1
+   to:   Duke Nicholas Zverenhoff [11039] L60 @ E Plaguelands 71.6,50.1
+   pre:  5401 Argent Dawn Commission (L55 req50) ; 5503 Argent Dawn Commission (L55 req50) ; 5405 Argent Dawn Commission (HORDE)
+   items: Invader's Scourgestone [12841] <- 78 mobs (Skeletal Warlord, Flesh Golem, Lord Maldazzar...) RATE 27.5%
+   rewards: Argent Dawn Valor Token [12844]
+
+5510 Minion's Scourgestones | L55 req50 | xp 560 money 0 | DROP | mobs to 59
+   from: Duke Nicholas Zverenhoff [11039] L60 @ E Plaguelands 71.6,50.1
+   to:   Duke Nicholas Zverenhoff [11039] L60 @ E Plaguelands 71.6,50.1
+   pre:  5401 Argent Dawn Commission (L55 req50) ; 5503 Argent Dawn Commission (L55 req50) ; 5405 Argent Dawn Commission (HORDE)
+   items: Minion's Scourgestone [12840] <- 47 mobs (Skeletal Flayer, Skeletal Sorcerer, Skeletal Terror...) RATE 34.8%
+   rewards: Argent Dawn Valor Token [12844]
+
+5601 Sister Pamela | L55 req50 | xp 560 money 0 | -
+   from: Jessica Redpath [11629] L50 @ Winterspring 61.3,39.0
+   to:   Pamela Redpath [10926] L1 @ E Plaguelands 31.1,78.0
+   exclusive to: [5142]
+   text: Find Pamela Redpath in Darrowshire.
+
+6021 Zaeldarr the Outcast | L55 req50 | xp 4200 money 8500 | DROP | mobs to 55
+   from: Caretaker Alen [11038] L52 @ E Plaguelands 69.9,53.7
+   to:   Caretaker Alen [11038] L52 @ E Plaguelands 69.9,53.7
+   items: Zaeldarr's Head [15785] <- 1 mobs (Zaeldarr the Outcast) RATE 71.43%
+
+6164 Augustus' Receipt Book | L55 req50 | xp 1400 money 0 | -
+   from: Augustus the Touched [12384] L55 @ E Plaguelands 11.4,26.4
+   to:   Augustus the Touched [12384] L55 @ E Plaguelands 11.4,26.4
+   items: Augustus' Receipt Book [15884] <- 1 objects (Augustus' Receipt Book)

@@ -1,0 +1,6 @@
+# RFD (category 722): 1 quests, 4,850 XP; clean (no drop / elite / group / dungeon / skill flag) 0 quests 0 XP
+
+93604 Agamaggan's Blood | L45 req35 | xp 4850 money 6500 | SIDE? DUNGEON DROP
+   from: Kog'thug the Brave [253527] L43 ELITE @ Shen'dralas 72.7,31.2
+   to:   Kog'thug the Brave [253527] L43 ELITE @ Shen'dralas 72.7,31.2
+   items: Virulent Blood of Agamaggan [260237] <- 1 mobs (Virulent Blood of Agamaggan) RATE 100.0%

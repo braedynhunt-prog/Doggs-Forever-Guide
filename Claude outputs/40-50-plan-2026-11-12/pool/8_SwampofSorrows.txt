@@ -1,0 +1,25 @@
+# Swamp of Sorrows (category 8): 4 quests, 5,320 XP; clean (no drop / elite / group / dungeon / skill flag) 3 quests 5,320 XP
+
+1423 The Lost Supplies | L40 req30 | xp None money 0 | NOXP
+   from: item Lost Supplies [6172]
+   to:   Quartermaster Lungertz [5393] L54 @ Blasted Lands 66.5,21.4
+   text: Bring the Lost Supplies to Quartermaster Lungertz.
+   rewards: Box of Supplies [6827]
+
+93679 Visions of Another | L55 req45 | xp 560 money 0 | SIDE?
+   from: Magtoor [1776] L42 @ Swamp of Sorrows 26.0,31.4
+   to:   Magtoor [1776] L42 @ Swamp of Sorrows 26.0,31.4
+   text: Watch Onku's vision with Magtoor.
+
+3374 The Essence of Eranikus | L55 req48 | xp 560 money 0 | -
+   from: item Oathstone of Ysera's Dragonflight [10589]
+   to:   Itharius [5353] L45 @ Swamp of Sorrows 13.7,71.7
+   pre:  3373 The Essence of Eranikus (L55 req48)
+   unlocks: 3512 In Eranikus' Own Words (L55 xp 4200)
+   items: Chained Essence of Eranikus [10455] <- no source in qdb
+
+3512 In Eranikus' Own Words | L55 req48 | xp 4200 money 0 | -
+   from: Itharius [5353] L45 @ Swamp of Sorrows 13.7,71.7
+   to:   Umbranse the Spiritspeaker [8588] L50 @ Winterspring 67.8,27.4
+   pre:  3374 The Essence of Eranikus (L55 req48)
+   text: Travel to the eastern part of Winterspring and speak with Umbranse the Spiritspeaker.

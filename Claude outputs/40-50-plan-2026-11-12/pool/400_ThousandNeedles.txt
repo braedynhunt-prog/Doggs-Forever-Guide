@@ -1,0 +1,211 @@
+# Thousand Needles (category 400): 31 quests, 45,285 XP; clean (no drop / elite / group / dungeon / skill flag) 23 quests 32,230 XP
+
+1106 Martek the Exiled | L35 req26 | xp 1350 money 0 | PRECHAIN
+   from: Fizzle Brassbolts [4454] L30 @ Thousand Needles 78.1,77.1
+   to:   Martek the Exiled [4618] L42 @ Badlands 42.2,52.7
+   pre:  1104 Salt Flat Venom (L30 req28) ; 1105 Hardened Shells (L30 req28)
+   unlocks: 1108 Indurium (L39 xp 3000)
+   text: Bring Fizzle's Letter to Martek the Exiled in the Badlands.
+
+1104 Salt Flat Venom | L30 req28 | xp 1850 money 2500 | PRECHAIN DROP | mobs to 35
+   from: Fizzle Brassbolts [4454] L30 @ Thousand Needles 78.1,77.1
+   to:   Fizzle Brassbolts [4454] L30 @ Thousand Needles 78.1,77.1
+   unlocks: 1106 Martek the Exiled (L35 xp 1350), 1107 Encrusted Tail Fins (L35 xp 3450)
+   items: Salty Scorpid Venom [5794] <- 3 mobs (Scorpid Terror, Scorpid Reaver, Vile Sting) RATE 41.5%
+
+1105 Hardened Shells | L30 req28 | xp 2450 money 2500 | PRECHAIN DROP | mobs to 35
+   from: Wizzle Brassbolts [4453] L31 @ Thousand Needles 78.1,77.1
+   to:   Wizzle Brassbolts [4453] L31 @ Thousand Needles 78.1,77.1
+   unlocks: 1106 Martek the Exiled (L35 xp 1350), 1107 Encrusted Tail Fins (L35 xp 3450)
+   items: Hardened Tortoise Shell [5795] <- 3 mobs (Sparkleshell Tortoise, Sparkleshell Snapper, Sparkleshell Borer) RATE 39.3%
+
+1137 News for Fizzle | L38 req28 | xp 1450 money 0 | PRECHAIN
+   from: Martek the Exiled [4618] L42 @ Badlands 42.2,52.7
+   to:   Fizzle Brassbolts [4454] L30 @ Thousand Needles 78.1,77.1
+   pre:  1108 Indurium (L39 req28)
+   unlocks: 1190 Keeping Pace (L41 xp 1650)
+   text: Speak with Fizzle Brassbolts in the Shimmering Flats.
+   rewards: Fizzle's Zippy Lighter [6729], Gnomish Mechanic's Gloves [6732]
+
+1108 Indurium | L39 req28 | xp 3000 money 0 | DROP | mobs to 41
+   from: Martek the Exiled [4618] L42 @ Badlands 42.2,52.7
+   to:   Martek the Exiled [4618] L42 @ Badlands 42.2,52.7
+   pre:  1106 Martek the Exiled (L35 req26)
+   unlocks: 1137 News for Fizzle (L38 xp 1450)
+   items: Indurium Flake [5797] <- 8 mobs (Stonevault Basher, Stonevault Shaman, Stonevault Bonesnapper...) RATE 21.8%
+
+1176 Load Lightening | L30 req29 | xp 1850 money 2500 | PRECHAIN DROP | mobs to 34
+   from: Pozzik [4630] L30 @ Thousand Needles 80.2,75.9
+   to:   Pozzik [4630] L30 @ Thousand Needles 80.2,75.9
+   unlocks: 1178 Goblin Sponsorship (L37 xp 710)
+   items: Hollow Vulture Bone [5848] <- 2 mobs (Salt Flats Scavenger, Salt Flats Vulture) RATE 71.8%
+
+1178 Goblin Sponsorship | L37 req29 | xp 710 money 0 | PRECHAIN
+   from: Pozzik [4630] L30 @ Thousand Needles 80.2,75.9
+   to:   Gazlowe [3391] L60 @ Barrens 62.7,36.2
+   pre:  1176 Load Lightening (L30 req29)
+   unlocks: 1180 Goblin Sponsorship (L37 xp 710)
+   text: Speak to Gazlowe in Ratchet.
+
+1180 Goblin Sponsorship | L37 req29 | xp 710 money 0 | PRECHAIN
+   from: Gazlowe [3391] L60 @ Barrens 62.7,36.2
+   to:   Wharfmaster Lozgil [4631] L35 @ Stranglethorn 26.4,73.6
+   pre:  1178 Goblin Sponsorship (L37 req29)
+   unlocks: 1181 Goblin Sponsorship (L37 xp 285)
+   text: Speak with Wharfmaster Lozgil in Booty Bay.
+
+1181 Goblin Sponsorship | L37 req29 | xp 285 money 0 | PRECHAIN
+   from: Wharfmaster Lozgil [4631] L35 @ Stranglethorn 26.4,73.6
+   to:   Baron Revilgaz [2496] L60 @ Stranglethorn 27.2,76.9
+   pre:  1180 Goblin Sponsorship (L37 req29)
+   unlocks: 1182 Goblin Sponsorship (L37 xp 2850)
+   text: Speak with Baron Revilgaz in Booty Bay.
+
+1182 Goblin Sponsorship | L37 req29 | xp 2850 money 4000 | PRECHAIN
+   from: Baron Revilgaz [2496] L60 @ Stranglethorn 27.2,76.9
+   to:   Baron Revilgaz [2496] L60 @ Stranglethorn 27.2,76.9
+   pre:  1181 Goblin Sponsorship (L37 req29)
+   unlocks: 1183 Goblin Sponsorship (L37 xp 710)
+   items: Fuel Regulator Blueprints [5852] <- 1 objects (Cozzle's Footlocker)
+
+1183 Goblin Sponsorship | L37 req29 | xp 710 money 0 | PRECHAIN
+   from: Baron Revilgaz [2496] L60 @ Stranglethorn 27.2,76.9
+   to:   Pozzik [4630] L30 @ Thousand Needles 80.2,75.9
+   pre:  1182 Goblin Sponsorship (L37 req29)
+   unlocks: 1186 The Eighteenth Pilot (L37 xp 285)
+   text: Deliver the Fuel Regulator Blueprints to Pozzik on the Shimmering Flats.
+
+1186 The Eighteenth Pilot | L37 req29 | xp 285 money 0 | PRECHAIN
+   from: Pozzik [4630] L30 @ Thousand Needles 80.2,75.9
+   to:   Razzeric [4706] L30 @ Thousand Needles 80.3,76.1
+   pre:  1183 Goblin Sponsorship (L37 req29)
+   unlocks: 1187 Razzeric's Tweaking (L41 xp 3300)
+   text: Speak with Razzeric on the Shimmering Flats.
+
+1187 Razzeric's Tweaking | L41 req29 | xp 3300 money 5500 | -
+   from: Razzeric [4706] L30 @ Thousand Needles 80.3,76.1
+   to:   Razzeric [4706] L30 @ Thousand Needles 80.3,76.1
+   pre:  1186 The Eighteenth Pilot (L37 req29)
+   unlocks: 1188 Safety First (L41 xp 820)
+   items: Seaforium Booster [5862] <- 1 objects (Gizmorium Shipping Crate)
+
+1188 Safety First | L41 req29 | xp 820 money 0 | -
+   from: Razzeric [4706] L30 @ Thousand Needles 80.3,76.1
+   to:   Shreev [4708] L39 @ Tanaris 51.0,27.2
+   pre:  1187 Razzeric's Tweaking (L41 req29)
+   unlocks: 1189 Safety First (L41 xp 820)
+   text: Bring the Seaforium Booster to Shreev in Gadgetzan.
+
+1189 Safety First | L41 req29 | xp 820 money 0 | -
+   from: Shreev [4708] L39 @ Tanaris 51.0,27.2
+   to:   Razzeric [4706] L30 @ Thousand Needles 80.3,76.1
+   pre:  1188 Safety First (L41 req29)
+   text: Return the Modified Seaforium Booster to Razzeric on the Shimmering Flats.
+   rewards: Razzeric's Customized Seatbelt [6726], Razzeric's Racing Grips [6727]
+
+1190 Keeping Pace | L41 req29 | xp 1650 money 0 | -
+   from: Pozzik [4630] L30 @ Thousand Needles 80.2,75.9
+   to:   obj Rizzle's Unguarded Plans [20805] @ Thousand Needles 77.2,77.4
+   pre:  1137 News for Fizzle (L38 req28)
+   unlocks: 1194 Rizzle's Schematics (L41 xp 1650)
+   text: Have Zamek create a diversion, then steal Rizzle's plans for Pozzik on the Shimmering Flats.
+
+1191 Zamek's Distraction | L41 req29 | xp None money 0 | NOXP
+   from: Zamek [4709] L30 @ Thousand Needles 79.8,77.0
+   to:   Zamek [4709] L30 @ Thousand Needles 79.8,77.0
+
+1194 Rizzle's Schematics | L41 req29 | xp 1650 money 0 | -
+   from: obj Rizzle's Unguarded Plans [20805] @ Thousand Needles 77.2,77.4 / obj Rizzle's Guarded Plans [179888] @ Thousand Needles 77.2,77.4
+   to:   Pozzik [4630] L30 @ Thousand Needles 80.2,75.9
+   pre:  1190 Keeping Pace (L41 req29)
+   unlocks: 1192 Indurium Ore (L42 xp None)
+   text: Bring the Sample of Indurium Ore to Pozzik on the Shimmering Flats.
+
+1192 Indurium Ore | L42 req29 | xp None money 600 | NOXP | mobs to 45
+   from: Pozzik [4630] L30 @ Thousand Needles 80.2,75.9
+   to:   Pozzik [4630] L30 @ Thousand Needles 80.2,75.9
+   pre:  1194 Rizzle's Schematics (L41 req29)
+   items: Indurium Ore [5833] <- 17 mobs (Shadowforge Relic Hunter, Stonevault Cave Lurker, Stonevault Oracle...); 1 objects (Indurium Mineral Vein)
+
+1111 Wharfmaster Dizzywig | L36 req30 | xp 1400 money 0 | PRECHAIN
+   from: Kravel Koalbeard [4452] L29 @ Thousand Needles 77.8,77.3
+   to:   Wharfmaster Dizzywig [3453] L15 @ Barrens 63.4,38.5
+   unlocks: 1112 Parts for Kravel (L36 xp 1400)
+   text: Bring Kravel's Parts Order to Wharfmaster Dizzywig in Ratchet.
+
+1112 Parts for Kravel | L36 req30 | xp 1400 money 2000 | PRECHAIN
+   from: Wharfmaster Dizzywig [3453] L15 @ Barrens 63.4,38.5
+   to:   Kravel Koalbeard [4452] L29 @ Thousand Needles 77.8,77.3
+   pre:  1111 Wharfmaster Dizzywig (L36 req30)
+   unlocks: 1114 Delivery to the Gnomes (L36 xp 700)
+   text: Bring Kravel's Parts to Kravel Koalbeard in the Shimmering Flats.
+
+1114 Delivery to the Gnomes | L36 req30 | xp 700 money 1000 | PRECHAIN
+   from: Kravel Koalbeard [4452] L29 @ Thousand Needles 77.8,77.3
+   to:   Fizzle Brassbolts [4454] L30 @ Thousand Needles 78.1,77.1
+   pre:  1112 Parts for Kravel (L36 req30)
+   unlocks: 1115 The Rumormonger (L36 xp 1400)
+   text: Bring the Delicate Car Parts to Fizzle Brassbolts in Shimmering Flats.
+
+1115 The Rumormonger | L36 req30 | xp 1400 money 0 | PRECHAIN
+   from: Kravel Koalbeard [4452] L29 @ Thousand Needles 77.8,77.3
+   to:   Krazek [773] L35 @ Stranglethorn 26.9,77.2
+   pre:  1114 Delivery to the Gnomes (L36 req30)
+   unlocks: 1116 Dream Dust in the Swamp (L36 xp 3500)
+   text: Talk to Krazek in Booty Bay.
+
+1116 Dream Dust in the Swamp | L36 req30 | xp 3500 money 0 | PRECHAIN DROP | mobs to 45
+   from: Krazek [773] L35 @ Stranglethorn 26.9,77.2
+   to:   Krazek [773] L35 @ Stranglethorn 26.9,77.2
+   pre:  1115 The Rumormonger (L36 req30)
+   unlocks: 1117 Rumors for Kravel (L36 xp 3500)
+   items: Speck of Dream Dust [5803] <- 8 mobs (Adolescent Whelp, Dreaming Whelp, Green Wyrmkin...) RATE 30.4%
+
+1117 Rumors for Kravel | L36 req30 | xp 3500 money 7500 | PRECHAIN
+   from: Krazek [773] L35 @ Stranglethorn 26.9,77.2
+   to:   Kravel Koalbeard [4452] L29 @ Thousand Needles 77.8,77.3
+   pre:  1116 Dream Dust in the Swamp (L36 req30)
+   unlocks: 1118 Back to Booty Bay (L43 xp 890)
+   text: Bring the Goblin Rumors to Kravel Koalbeard in the Shimmering Flats.
+
+1118 Back to Booty Bay | L43 req35 | xp 890 money 0 | -
+   from: Kravel Koalbeard [4452] L29 @ Thousand Needles 77.8,77.3
+   to:   Crank Fizzlebub [2498] L34 @ Stranglethorn 27.1,77.2
+   pre:  1117 Rumors for Kravel (L36 req30)
+   unlocks: 1119 Zanzil's Mixture and a Fool's Stout (L44 xp 3750)
+   text: Bring Kravel's Scheme to Crank Fizzlebub in Booty Bay.
+
+1119 Zanzil's Mixture and a Fool's Stout | L44 req35 | xp 3750 money 0 | -
+   from: Crank Fizzlebub [2498] L34 @ Stranglethorn 27.1,77.2
+   to:   Kravel Koalbeard [4452] L29 @ Thousand Needles 77.8,77.3
+   pre:  621 Zanzil's Secret (L44 req35) ; 1118 Back to Booty Bay (L43 req35)
+   unlocks: 1120 Get the Gnomes Drunk (L44 xp 375), 1121 Get the Goblins Drunk (L44 xp 375)
+   text: Bring the Fool's Stout back to Kravel in the Shimmering Flats.
+
+1120 Get the Gnomes Drunk | L44 req35 | xp 375 money 0 | -
+   from: Kravel Koalbeard [4452] L29 @ Thousand Needles 77.8,77.3
+   to:   Gnome Pit Boss [4495] L35 @ Thousand Needles 77.6,76.9
+   pre:  1119 Zanzil's Mixture and a Fool's Stout (L44 req35)
+   exclusive to: [1121]
+   unlocks: 1122 Report Back to Fizzlebub (L44 xp 1850)
+   text: Bring the Fool's Stout to the Gnome Pit Boss.
+
+1121 Get the Goblins Drunk | L44 req35 | xp 375 money 0 | -
+   from: Kravel Koalbeard [4452] L29 @ Thousand Needles 77.8,77.3
+   to:   Goblin Pit Boss [4496] L30 @ Thousand Needles 79.9,76.7
+   pre:  1119 Zanzil's Mixture and a Fool's Stout (L44 req35)
+   exclusive to: [1120]
+   unlocks: 1122 Report Back to Fizzlebub (L44 xp 1850)
+   text: Bring the Fool's Stout to the Goblin Pit Boss.
+
+1122 Report Back to Fizzlebub | L44 req35 | xp 1850 money 0 | -
+   from: Kravel Koalbeard [4452] L29 @ Thousand Needles 77.8,77.3
+   to:   Crank Fizzlebub [2498] L34 @ Stranglethorn 27.1,77.2
+   pre:  1120 Get the Gnomes Drunk (L44 req35) ; 1121 Get the Goblins Drunk (L44 req35)
+   unlocks: 1127 Fool's Stout (L44 xp None)
+   text: Bring the Fool's Stout report to Crank Fizzlebub in Booty Bay.
+
+2769 The Brassbolts Brothers | L46 req40 | xp 405 money 0 | DUNGEON
+   from: Klockmort Spannerspan [6169] L45 @ Ironforge 67.9,46.1
+   to:   Wizzle Brassbolts [4453] L31 @ Thousand Needles 78.1,77.1
+   text: Speak with Wizzle Brassbolts in the Shimmering Flats.

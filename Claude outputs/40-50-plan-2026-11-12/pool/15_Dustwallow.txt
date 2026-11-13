@@ -1,0 +1,35 @@
+# Dustwallow (category 15): 6 quests, 13,350 XP; clean (no drop / elite / group / dungeon / skill flag) 3 quests 3,900 XP
+
+1204 Mudrock Soup and Bugs | L38 req33 | xp 2850 money 0 | PRECHAIN DROP | mobs to 43
+   from: Morgan Stern [4794] L36 @ Dustwallow 66.3,45.5
+   to:   Morgan Stern [4794] L36 @ Dustwallow 66.3,45.5
+   unlocks: 1258 ... and Bugs (L40 xp 3150)
+   items: Forked Mudrock Tongue [5883] <- 5 mobs (Mudrock Tortoise, Mudrock Spikeshell, Mudrock Burrower...) RATE 39.1%
+
+1258 ... and Bugs | L40 req33 | xp 3150 money 0 | DROP | mobs to 44
+   from: Morgan Stern [4794] L36 @ Dustwallow 66.3,45.5
+   to:   Morgan Stern [4794] L36 @ Dustwallow 66.3,45.5
+   pre:  1204 Mudrock Soup and Bugs (L38 req33)
+   items: Pristine Crawler Leg [5938] <- 2 mobs (Silt Crawler, Monstrous Crawler) RATE 36.1%
+   rewards: Baroque Apron [6801]
+
+98233 Sword in the Slime | L42 req36 | xp 3450 money 5500 | DROP | mobs to 40
+   from: Guard Jameson [271167] L40 @ Dustwallow 65.5,45.4
+   to:   Guard Jameson [271167] L40 @ Dustwallow 65.5,45.4
+   items: Jameson's Training Sword [280203] <- 1 mobs (Corrosive Swamp Ooze) RATE 35.34%
+   rewards: Jameson's Backup Sword [281308]
+
+95194 Our Man in Theramore | L53 req48 | xp 1300 money 0 | -
+   from: Master Mathias Shaw [332] L62 @ Stormwind 78.3,70.7
+   to:   Sully McCleary [260146] L50 @ Dustwallow 66.2,45.1
+   text: Seek out the SI:7 agent stationed on Theramore Isle.
+
+95196 Watch Yer Back | L53 req48 | xp 1300 money 0 | -
+   from: Sully McCleary [260146] L50 @ Dustwallow 66.2,45.1
+   to:   Sully McCleary [260271] L50 @ Dustwallow 63.5,42.3
+   text: Meet Sully McCleary in Dustwallow Marsh and learn more about your mission.
+
+95198 The Return of the King? | L53 req48 | xp 1300 money 0 | -
+   from: Sully McCleary [260271] L50 @ Dustwallow 63.5,42.3
+   to:   Sully McCleary [260271] L50 @ Dustwallow 63.5,42.3
+   text: Use the SI:7 Disguise Kit to eavesdrop on Jaina and her inner circle at the Theramore Mage Tower.

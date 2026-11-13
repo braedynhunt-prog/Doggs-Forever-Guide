@@ -1,0 +1,15 @@
+# 3277 (category 3277): 2 quests, 3,800 XP; clean (no drop / elite / group / dungeon / skill flag) 0 quests 0 XP
+
+8372 Fight for Warsong Gulch | L19 req10 | xp 1450 money 1100 | PRECHAIN PVP
+   from: Alliance Brigadier General [15351] L60 @ Alterac 39.3,82.3
+   to:   Alliance Brigadier General [15351] L60 @ Alterac 39.3,82.3
+   exclusive to: [8399, 8400, 8401, 8402, 8403]
+   unlocks: 8386 Fight for Warsong Gulch (L19 xp 730), 8404 Fight for Warsong Gulch (L29 xp 1200), 8405 Fight for Warsong Gulch (L39 xp 3000), 8406 Fight for Warsong Gulch (L49 xp None), 8407 Fight for Warsong Gulch (L59 xp 3200), 8408 Fight for Warsong Gulch (L60 xp 3300)
+   items: Warsong Gulch Mark of Honor [20558] <- no source in qdb
+
+8399 Fight for Warsong Gulch | L29 req20 | xp 2350 money 2500 | PRECHAIN PVP
+   from: Alliance Brigadier General [15351] L60 @ Alterac 39.3,82.3
+   to:   Alliance Brigadier General [15351] L60 @ Alterac 39.3,82.3
+   exclusive to: [8372, 8400, 8401, 8402, 8403]
+   unlocks: 8404 Fight for Warsong Gulch (L29 xp 1200), 8405 Fight for Warsong Gulch (L39 xp 3000), 8406 Fight for Warsong Gulch (L49 xp None), 8407 Fight for Warsong Gulch (L59 xp 3200), 8408 Fight for Warsong Gulch (L60 xp 3300)
+   items: Warsong Gulch Mark of Honor [20558] <- no source in qdb

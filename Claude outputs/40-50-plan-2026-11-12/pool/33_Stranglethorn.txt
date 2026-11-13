@@ -1,0 +1,318 @@
+# Stranglethorn (category 33): 50 quests, 158,530 XP; clean (no drop / elite / group / dungeon / skill flag) 17 quests 57,690 XP
+
+619 Enticing Negolash | L52 req1 | xp None money 0 | NOXP ELITE | mobs to 59
+   from: obj Ruined Lifeboat [2289] @ Stranglethorn 32.5,82.0
+   to:   obj Ruined Lifeboat [2289] @ Stranglethorn 32.5,82.0
+   items: Barbecued Buzzard Wing [4457] <- no source in qdb ; Junglevine Wine [4595] <- 1 mobs (Stomper Kreeg) all-elite; vendor
+
+7810 Arena Master | L55 req1 | xp 560 money 0 | PVP
+   from: item Arena Master [18706]
+   to:   Short John Mithril [14508] L47 @ Stranglethorn 29.6,47.4
+   unlocks: 7838 Arena Grandmaster (L55 xp None)
+   text: Speak with Short John Mithril in the Stranglethorn Arena.
+
+7908 Arena Master | L55 req1 | xp 560 money 0 | SIDE? PVP NOTINQDB NOSTART NOEND
+   from: ?
+   to:   ?
+
+193 Panther Mastery | L40 req28 | xp 3150 money 0 | GROUP DROP ELITE | mobs to 40
+   from: Sir S. J. Erlgadin [718] L40 @ Stranglethorn 35.5,10.6
+   to:   Sir S. J. Erlgadin [718] L40 @ Stranglethorn 35.5,10.6
+   pre:  192 Panther Mastery (done 30)
+   unlocks: 208 Big Game Hunter (L43 xp 5350)
+   items: Fang of Bhag'thera [3876] <- 1 mobs (Bhag'thera) all-elite RATE 93.39%
+   rewards: Panther Hunter Leggings [4108]
+
+196 Raptor Mastery | L41 req28 | xp 2450 money 0 | - | mobs to 41
+   from: Hemet Nesingwary [715] L40 @ Stranglethorn 35.7,10.8
+   to:   Hemet Nesingwary [715] L40 @ Stranglethorn 35.7,10.8
+   pre:  195 Raptor Mastery (done 30)
+   unlocks: 197 Raptor Mastery (L43 xp 3600)
+   kill: Jungle Stalker [687] L40-41 @ Stranglethorn 28.9,44.9 (43)
+
+197 Raptor Mastery | L43 req28 | xp 3600 money 0 | GROUP DROP ELITE | mobs to 43
+   from: Hemet Nesingwary [715] L40 @ Stranglethorn 35.7,10.8
+   to:   Hemet Nesingwary [715] L40 @ Stranglethorn 35.7,10.8
+   pre:  196 Raptor Mastery (L41 req28)
+   unlocks: 208 Big Game Hunter (L43 xp 5350)
+   items: Talon of Tethis [3877] <- 1 mobs (Tethis) all-elite RATE 83.96%
+   rewards: Raptor Hunter Tunic [4119]
+
+208 Big Game Hunter | L43 req28 | xp 5350 money 0 | GROUP DROP ELITE | mobs to 43
+   from: Hemet Nesingwary [715] L40 @ Stranglethorn 35.7,10.8
+   to:   Hemet Nesingwary [715] L40 @ Stranglethorn 35.7,10.8
+   pre:  188 Tiger Mastery (done 30) ; 193 Panther Mastery (L40 req28) ; 197 Raptor Mastery (L43 req28)
+   items: Head of Bangalash [3880] <- 1 mobs (King Bangalash) all-elite RATE 80.3%
+   rewards: Master Hunter's Bow [17686], Master Hunter's Rifle [17687], Master Hunter's Wand [270084], Master Hunter's Spellsword [270085]
+
+189 Bloodscalp Ears | L35 req30 | xp 2050 money 3500 | PRECHAIN DROP | mobs to 37
+   from: Kebok [737] L35 @ Stranglethorn 27.0,77.1
+   to:   Kebok [737] L35 @ Stranglethorn 27.0,77.1
+   unlocks: 209 Skullsplitter Tusks (L42 xp 3450)
+   items: Bloodscalp Ear [1519] <- 11 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 16.7%
+   rewards: Goblin Fishing Pole [4598]
+
+605 Singing Blue Shards | L35 req30 | xp 2750 money 3500 | PRECHAIN DROP | mobs to 44
+   from: Crank Fizzlebub [2498] L34 @ Stranglethorn 27.1,77.2
+   to:   Crank Fizzlebub [2498] L34 @ Stranglethorn 27.1,77.2
+   unlocks: 600 Venture Company Mining (L41 xp 3300)
+   items: Singing Crystal Shard [3918] <- 5 mobs (Stone Maw Basilisk, Crystal Spine Basilisk, Cold Eye Basilisk...) RATE 37.1%
+
+205 Troll Witchery | L40 req30 | xp 3150 money 0 | DROP | mobs to 42
+   from: Brother Nimetz [739] L40 @ Stranglethorn 37.8,3.6
+   to:   Brother Nimetz [739] L40 @ Stranglethorn 37.8,3.6
+   pre:  207 Kurzen's Mystery (done 30)
+   unlocks: 206 Mai'Zoth (L46 xp 5050)
+   items: Skullsplitter Fetish [2466] <- 2 mobs (Skullsplitter Witch Doctor, Skullsplitter Mystic) RATE 17.7%
+
+338 The Green Hills of Stranglethorn | L40 req30 | xp 4700 money 0 | -
+   from: Barnil Stonepot [716] L40 @ Stranglethorn 35.7,10.5
+   to:   Barnil Stonepot [716] L40 @ Stranglethorn 35.7,10.5
+   pre:  583 Welcome to the Jungle (done 30)
+   items: Green Hills of Stranglethorn - Chapter I [2756] <- no source in qdb ; Green Hills of Stranglethorn - Chapter II [2757] <- no source in qdb ; Green Hills of Stranglethorn - Chapter III [2758] <- no source in qdb ; Green Hills of Stranglethorn - Chapter IV [2759] <- no source in qdb
+   rewards: Jungle Boots [17688], Thick Armor Kit [8173], Superior Healing Potion [3928]
+
+339 Chapter I | L40 req30 | xp 780 money 0 | DROP | mobs to 52
+   from: Barnil Stonepot [716] L40 @ Stranglethorn 35.7,10.5
+   to:   Barnil Stonepot [716] L40 @ Stranglethorn 35.7,10.5
+   items: Green Hills of Stranglethorn - Page 1 [2725] <- 102 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 0.8% ; Green Hills of Stranglethorn - Page 4 [2728] <- 100 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 0.7% ; Green Hills of Stranglethorn - Page 6 [2730] <- 101 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 0.7% ; Green Hills of Stranglethorn - Page 8 [2732] <- 101 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 0.8%
+   rewards: Green Hills of Stranglethorn - Chapter I [2756]
+
+340 Chapter II | L40 req30 | xp 780 money 0 | DROP | mobs to 52
+   from: Barnil Stonepot [716] L40 @ Stranglethorn 35.7,10.5
+   to:   Barnil Stonepot [716] L40 @ Stranglethorn 35.7,10.5
+   items: Green Hills of Stranglethorn - Page 10 [2734] <- 99 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 0.9% ; Green Hills of Stranglethorn - Page 11 [2735] <- 101 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 0.8% ; Green Hills of Stranglethorn - Page 14 [2738] <- 101 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 0.7% ; Green Hills of Stranglethorn - Page 16 [2740] <- 100 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 0.8%
+   rewards: Green Hills of Stranglethorn - Chapter II [2757]
+
+341 Chapter III | L40 req30 | xp 780 money 0 | DROP | mobs to 52
+   from: Barnil Stonepot [716] L40 @ Stranglethorn 35.7,10.5
+   to:   Barnil Stonepot [716] L40 @ Stranglethorn 35.7,10.5
+   items: Green Hills of Stranglethorn - Page 18 [2742] <- 101 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 0.8% ; Green Hills of Stranglethorn - Page 20 [2744] <- 100 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 0.7% ; Green Hills of Stranglethorn - Page 21 [2745] <- 101 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 0.8% ; Green Hills of Stranglethorn - Page 24 [2748] <- 100 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 0.7%
+   rewards: Green Hills of Stranglethorn - Chapter III [2758]
+
+342 Chapter IV | L40 req30 | xp 780 money 0 | DROP | mobs to 52
+   from: Barnil Stonepot [716] L40 @ Stranglethorn 35.7,10.5
+   to:   Barnil Stonepot [716] L40 @ Stranglethorn 35.7,10.5
+   items: Green Hills of Stranglethorn - Page 25 [2749] <- 100 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 0.8% ; Green Hills of Stranglethorn - Page 26 [2750] <- 101 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 0.8% ; Green Hills of Stranglethorn - Page 27 [2751] <- 101 mobs (Bloodscalp Warrior, Bloodscalp Scout, Bloodscalp Hunter...) RATE 0.8%
+   rewards: Green Hills of Stranglethorn - Chapter IV [2759]
+
+600 Venture Company Mining | L41 req30 | xp 3300 money 0 | DROP | mobs to 42
+   from: Crank Fizzlebub [2498] L34 @ Stranglethorn 27.1,77.2
+   to:   Crank Fizzlebub [2498] L34 @ Stranglethorn 27.1,77.2
+   pre:  605 Singing Blue Shards (L35 req30)
+   items: Singing Blue Crystal [3917] <- 4 mobs (Venture Co. Strip Miner, Venture Co. Foreman, Venture Co. Surveyor...) RATE 29.6%
+   rewards: Goblin Igniter [5253], Silver Spade [4128], Goblin Switchblade [287071]
+
+606 Scaring Shaky | L41 req30 | xp 3300 money 0 | DROP | mobs to 41
+   from: "Sea Wolf" MacKinley [2501] L44 @ Stranglethorn 27.8,77.1
+   to:   "Shaky" Phillipe [2502] L44 @ Stranglethorn 26.9,73.6
+   unlocks: 607 Return to MacKinley (L41 xp 2450)
+   items: Mistvale Giblets [3919] <- 1 mobs (Elder Mistvale Gorilla) RATE 25.76%
+
+607 Return to MacKinley | L41 req30 | xp 2450 money 4000 | -
+   from: "Shaky" Phillipe [2502] L44 @ Stranglethorn 26.9,73.6
+   to:   "Sea Wolf" MacKinley [2501] L44 @ Stranglethorn 27.8,77.1
+   pre:  606 Scaring Shaky (L41 req30)
+   unlocks: 609 Voodoo Dues (L44 xp 3750)
+   text: Bring Shaky's Payment to "Sea Wolf" MacKinley.
+
+609 Voodoo Dues | L44 req30 | xp 3750 money 6500 | DROP | mobs to 44
+   from: "Sea Wolf" MacKinley [2501] L44 @ Stranglethorn 27.8,77.1
+   to:   "Sea Wolf" MacKinley [2501] L44 @ Stranglethorn 27.8,77.1
+   pre:  607 Return to MacKinley (L41 req30)
+   unlocks: 613 Cracking Maury's Foot (L44 xp 4650)
+   items: Maury's Clubbed Foot [3924] <- 1 mobs (Maury "Club Foot" Wilkins) RATE 70.37% ; Jon-Jon's Golden Spyglass [3925] <- 1 mobs (Jon-Jon the Crow) RATE 58.9% ; Chucky's Huge Ring [3926] <- 1 mobs (Chucky "Ten Thumbs") RATE 59.35%
+
+613 Cracking Maury's Foot | L44 req30 | xp 4650 money 0 | GROUP DROP ELITE | mobs to 45
+   from: "Sea Wolf" MacKinley [2501] L44 @ Stranglethorn 27.8,77.1
+   to:   "Sea Wolf" MacKinley [2501] L44 @ Stranglethorn 27.8,77.1
+   pre:  609 Voodoo Dues (L44 req30)
+   items: Maury's Key [3930] <- 6 mobs (Mosh'Ogg Mauler, Mosh'Ogg Shaman, Mosh'Ogg Lord...) all-elite RATE 4.2%
+   rewards: Collection Plate [4129], Beggar's Leggings [270090], Seadog's Battered Cuffs [270091]
+
+206 Mai'Zoth | L46 req30 | xp 5050 money 0 | GROUP DROP ELITE | mobs to 47
+   from: Brother Nimetz [739] L40 @ Stranglethorn 37.8,3.6
+   to:   Brother Nimetz [739] L40 @ Stranglethorn 37.8,3.6
+   pre:  202 Colonel Kurzen (done 30) ; 205 Troll Witchery (L40 req30)
+   items: Mind's Eye [3616] <- 1 mobs (Mai'Zoth) all-elite RATE 81.82%
+   rewards: Tranquil Orb [4125], Rebel Breastplate [270096], Archer's Leggings [270097]
+
+95384 Partial Mystical Notes | L40 req32 | xp 3150 money 5000 | NOSTART DROP | mobs to 40
+   from: ?
+   to:   Dudd Fizzlescroll [260873] L40 @ Stranglethorn 28.3,76.3
+   items: Partial Mystical Notes [213127] <- 1 mobs (Skullsplitter Mystic) RATE 8.38%
+   rewards: Dudd's Second-Favorite Wand [277256]
+
+624 Cortello's Riddle | L43 req35 | xp 3600 money 0 | -
+   from: item Cortello's Riddle [4056]
+   to:   obj A Soggy Scroll [2553] @ Swamp of Sorrows 22.9,48.2
+   unlocks: 625 Cortello's Riddle (L43 xp 3600)
+   text: Solve the riddle!
+
+625 Cortello's Riddle | L43 req35 | xp 3600 money 0 | -
+   from: obj A Soggy Scroll [2553] @ Swamp of Sorrows 22.9,48.2
+   to:   obj Musty Scroll [2555] @ Dustwallow 31.1,66.1
+   pre:  624 Cortello's Riddle (L43 req35)
+   unlocks: 626 Cortello's Riddle (L51 xp 6100)
+   text: Solve the riddle!
+
+95385 Torn Mystical Scroll | L43 req35 | xp 3600 money 6000 | NOSTART
+   from: ?
+   to:   Dudd Fizzlescroll [260873] L40 @ Stranglethorn 28.3,76.3
+   text: Bring the partial scroll to Dudd Fizzlescroll in Booty Bay.
+   rewards: Dudd's Thinkin' Cap [277211]
+
+621 Zanzil's Secret | L44 req35 | xp 3750 money 6500 | DROP | mobs to 46
+   from: Crank Fizzlebub [2498] L34 @ Stranglethorn 27.1,77.2
+   to:   Crank Fizzlebub [2498] L34 @ Stranglethorn 27.1,77.2
+   unlocks: 1119 Zanzil's Mixture and a Fool's Stout (L44 xp 3750)
+   items: Zanzil's Mixture [4016] <- 9 mobs (Zanzil Zombie, Zanzil Hunter, Zanzil Witch Doctor...) RATE 30.6%
+   rewards: Belt of Corruption [4131]
+
+1127 Fool's Stout | L44 req35 | xp None money 0 | NOXP DROP | mobs to 46
+   from: Crank Fizzlebub [2498] L34 @ Stranglethorn 27.1,77.2
+   to:   Crank Fizzlebub [2498] L34 @ Stranglethorn 27.1,77.2
+   pre:  1122 Report Back to Fizzlebub (L44 req35)
+   items: Zanzil's Mixture [4016] <- 9 mobs (Zanzil Zombie, Zanzil Hunter, Zanzil Witch Doctor...) RATE 30.6%
+   rewards: Fool's Stout [5806]
+
+614 The Captain's Chest | L47 req35 | xp 3150 money 0 | SIDE? GROUP NOSTART NOEND DROP ELITE | mobs to 47
+   from: ?
+   to:   ?
+   items: Smotts' Chest [3932] <- 1 mobs (Gorlash) all-elite RATE 81.2%
+   rewards: Bloodband Bracers [11469], Freebooter's Armband [270100]
+
+8551 The Captain's Chest | L47 req35 | xp 3150 money 0 | GROUP DROP ELITE | mobs to 47
+   from: Captain Hecklebury Smotts [2500] L37 @ Stranglethorn 26.7,73.6
+   to:   Captain Hecklebury Smotts [2500] L37 @ Stranglethorn 26.7,73.6
+   items: Smotts' Chest [3932] <- 1 mobs (Gorlash) all-elite RATE 81.2%
+   rewards: Bloodband Bracers [11469], Freebooter's Armband [270100]
+
+615 The Captain's Cutlass | L50 req35 | xp 470 money 0 | NOSTART NOEND
+   from: ?
+   to:   ?
+   text: Speak with Sprogger.
+
+618 Facing Negolash | L50 req35 | xp 7100 money 0 | GROUP NOSTART NOEND DROP ELITE | mobs to 52
+   from: ?
+   to:   ?
+   items: Smotts' Cutlass [3935] <- 1 mobs (Negolash) all-elite RATE 71.43%
+   rewards: Smotts' Compass [4130]
+
+620 The Monogrammed Sash | L50 req35 | xp 2350 money 0 | NOTINQDB NOSTART NOEND
+   from: ?
+   to:   ?
+
+8552 The Monogrammed Sash | L50 req35 | xp 2350 money 0 | -
+   from: item Monogrammed Sash [3985]
+   to:   Captain Hecklebury Smotts [2500] L37 @ Stranglethorn 26.7,73.6
+   unlocks: 8553 The Captain's Cutlass (L50 xp 470)
+   text: Return the Monogrammed Sash to its owner.
+
+8553 The Captain's Cutlass | L50 req35 | xp 470 money 0 | -
+   from: Captain Hecklebury Smotts [2500] L37 @ Stranglethorn 26.7,73.6
+   to:   Sprogger [2594] L37 @ Stranglethorn 26.7,73.6
+   pre:  8552 The Monogrammed Sash (L50 req35)
+   unlocks: 8554 Facing Negolash (L50 xp 7100)
+   text: Speak with Sprogger.
+
+8554 Facing Negolash | L50 req35 | xp 7100 money 0 | GROUP DROP ELITE | mobs to 52
+   from: Sprogger [2594] L37 @ Stranglethorn 26.7,73.6
+   to:   Captain Hecklebury Smotts [2500] L37 @ Stranglethorn 26.7,73.6
+   pre:  8553 The Captain's Cutlass (L50 req35)
+   items: Smotts' Cutlass [3935] <- 1 mobs (Negolash) all-elite RATE 71.43%
+   rewards: Smotts' Compass [4130], Smotts' Pinky Ring [270109], First Mate's Armguards [270110]
+
+626 Cortello's Riddle | L51 req35 | xp 6100 money 0 | -
+   from: obj Musty Scroll [2555] @ Dustwallow 31.1,66.1
+   to:   obj Cortello's Treasure [2556] @ Hinterlands 80.8,46.8
+   pre:  625 Cortello's Riddle (L43 req35)
+   text: Solve the riddle!
+   rewards: Explorer's Knapsack [11324]
+
+97332 Twice Misplaced Trust | L41 req36 | xp 3300 money 0 | -
+   from: Wharfmaster Lozgil [4631] L35 @ Stranglethorn 26.4,73.6
+   to:   Wharfmaster Whizzbuzz [259961] L45 @ Riverglades 79.5,52.7
+   text: Deliver the Twice Reordered Package to Wharfmaster Whizzbuzz at Powderfuse Port in the Riverglades.
+   rewards: Refunded Ring [278017], Renegotiated Ring [278018], Apology Ring [278019], Jug of Badlands Bourbon [2595]
+
+587 Up to Snuff | L41 req37 | xp 1650 money 0 | DROP | mobs to 48
+   from: Deeg [2488] L34 @ Stranglethorn 26.9,77.3
+   to:   Deeg [2488] L34 @ Stranglethorn 26.9,77.3
+   pre:  597 The Bloodsail Buccaneers (done 37)
+   items: Snuff [3910] <- 15 mobs (Bloodsail Raider, Bloodsail Mage, Bloodsail Swashbuckler...) RATE 25.4%
+
+209 Skullsplitter Tusks | L42 req37 | xp 3450 money 5500 | DROP | mobs to 45
+   from: Kebok [737] L35 @ Stranglethorn 27.0,77.1
+   to:   Kebok [737] L35 @ Stranglethorn 27.0,77.1
+   pre:  189 Bloodscalp Ears (L35 req30)
+   items: Skullsplitter Tusk [1524] <- 13 mobs (Skullsplitter Warrior, Skullsplitter Hunter, Skullsplitter Witch Doctor...) RATE 18.3%
+
+576 Keep An Eye Out | L42 req37 | xp 2550 money 0 | DROP | mobs to 48
+   from: Dizzy One-Eye [2493] L41 @ Stranglethorn 28.6,75.9
+   to:   Dizzy One-Eye [2493] L41 @ Stranglethorn 28.6,75.9
+   pre:  597 The Bloodsail Buccaneers (done 37)
+   items: Dizzy's Eye [3897] <- 13 mobs (Bloodsail Raider, Bloodsail Mage, Bloodsail Swashbuckler...) RATE 1.9%
+   rewards: Darktide Cape [4114]
+
+608 The Bloodsail Buccaneers | L45 req37 | xp 4850 money 0 | - | mobs to 48
+   from: Fleet Master Seahorn [2487] L60 @ Stranglethorn 27.2,77.0
+   to:   Fleet Master Seahorn [2487] L60 @ Stranglethorn 27.2,77.0
+   pre:  604 The Bloodsail Buccaneers (done 37)
+   kill: Captain Stillwater [2550] L45-46 @ Stranglethorn 32.9,88.2 ; Captain Keelhaul [2548] L46-47 @ Stranglethorn 29.3,88.3 ; Fleet Master Firallon [2546] L48 @ Stranglethorn 30.6,90.6
+   rewards: Blackwater Tunic [4138], Blackwater Scimitar [270092], Blackwater Cap [270093]
+
+617 Akiris by the Bundle | L43 req38 | xp 3600 money 6000 | DROP | mobs to 44
+   from: Privateer Bloads [2494] L40 @ Stranglethorn 26.8,76.4
+   to:   Privateer Bloads [2494] L40 @ Stranglethorn 26.8,76.4
+   unlocks: 623 Akiris by the Bundle (L43 xp 2700)
+   items: Akiris Reed [4029] <- 2 mobs (Naga Explorer, Brinescale Skirmisher) RATE 31.3%
+   rewards: Scorching Sash [4117]
+
+623 Akiris by the Bundle | L43 req38 | xp 2700 money 4500 | -
+   from: Privateer Bloads [2494] L40 @ Stranglethorn 26.8,76.4
+   to:   Privateer Groy [2616] L42 @ Dustwallow 68.8,53.2
+   pre:  617 Akiris by the Bundle (L43 req38)
+   text: Bring a Bundle of Akiris Reeds to Privateer Groy in Theramore.
+
+97405 Noise Complaints | L44 req38 | xp 4650 money 0 | GROUP ELITE | mobs to 44
+   from: Knaz Blunderflame [8679] L42 @ Stranglethorn 51.0,35.2
+   to:   Knaz Blunderflame [8679] L42 @ Stranglethorn 51.0,35.2
+   kill: Mosh'Ogg Spellcrafter [710] L43-44 ELITE @ Stranglethorn 51.4,27.9 (7) ; Mosh'Ogg Warmonger [709] L41-42 ELITE @ Stranglethorn 48.8,28.9 (15) ; Mosh'Ogg Mauler [678] L43-44 ELITE @ Stranglethorn 51.2,27.7 (7) ; Mosh'Ogg Shaman [679] L43-44 ELITE @ Stranglethorn 50.8,28.8 (9)
+   rewards: Mauler's Mutton [277979], Ogre Bone [277980], Souvenir Ogre Tooth [277981]
+
+348 Stranglethorn Fever | L45 req40 | xp 5850 money 0 | DROP | mobs to 44
+   from: Fin Fizracket [2486] L42 @ Stranglethorn 27.6,76.7
+   to:   Fin Fizracket [2486] L42 @ Stranglethorn 27.6,76.7
+   items: Heart of Mokk [2797] <- 1 mobs (Mokk the Savage) RATE 100.0%
+   rewards: Medicine Blanket [4113]
+
+580 Whiskey Slim's Lost Grog | L50 req40 | xp 4700 money 0 | -
+   from: Whiskey Slim [2491] L38 @ Stranglethorn 27.1,77.5
+   to:   Whiskey Slim [2491] L38 @ Stranglethorn 27.1,77.5
+   items: Pupellyverbos Port [3900] <- 1 objects (Pupellyverbos Port)
+   rewards: Rumsey Rum [17048]
+
+3721 An OOX of Your Own | L50 req40 | xp 7100 money 0 | -
+   from: Oglethorpe Obnoticus [7406] L50 @ Stranglethorn 28.4,76.3
+   to:   Oglethorpe Obnoticus [7406] L50 @ Stranglethorn 28.4,76.3
+   pre:  648 Rescue OOX-17/TN! (L48 req43) ; 836 Rescue OOX-09/HL! (L48 req43) ; 2767 Rescue OOX-22/FE! (L45 req40)
+   rewards: Mechanical Chicken [10398]
+
+594 Message in a Bottle | L45 req45 | xp 2900 money 0 | -
+   from: item Carefully Folded Note [4098]
+   to:   Princess Poobah [2634] L42 @ Stranglethorn 38.5,80.6
+   unlocks: 630 Message in a Bottle (L51 xp 7350)
+   text: Find the author of the message in a bottle.
+
+630 Message in a Bottle | L51 req45 | xp 7350 money 0 | GROUP DROP ELITE | mobs to 51
+   from: Princess Poobah [2634] L42 @ Stranglethorn 38.5,80.6
+   to:   Princess Poobah [2634] L42 @ Stranglethorn 38.5,80.6
+   pre:  594 Message in a Bottle (L45 req45)
+   items: Shackle Key [4103] <- 1 mobs (King Mukla) all-elite RATE 96.43%
+   rewards: Poobah's Nose Ring [4118], Golden Banana [270226]
+
+9272 Dressing the Part | L55 req49 | xp None money 0 | NOXP REP[87, 0]
+   from: Fleet Master Firallon [2546] L48 @ Stranglethorn 30.6,90.6
+   to:   Fleet Master Firallon [2546] L48 @ Stranglethorn 30.6,90.6
+   rewards: Buccaneer's Uniform [22746]

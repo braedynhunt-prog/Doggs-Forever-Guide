@@ -1,0 +1,14 @@
+# Alterac (category 36): 2 quests, 8,200 XP; clean (no drop / elite / group / dungeon / skill flag) 0 quests 0 XP
+
+500 Crushridge Bounty | L36 req30 | xp 3500 money 7500 | PRECHAIN DROP | mobs to 40
+   from: Marshal Redpath [2263] L41 @ Hillsbrad 49.5,58.7
+   to:   Marshal Redpath [2263] L41 @ Hillsbrad 49.5,58.7
+   unlocks: 504 Crushridge Warmongers (L40 xp 4700)
+   items: Dirty Knucklebones [2843] <- 7 mobs (Crushridge Ogre, Crushridge Brute, Crushridge Mauler...) RATE 18.2%
+
+504 Crushridge Warmongers | L40 req30 | xp 4700 money 0 | GROUP ELITE | mobs to 40
+   from: Marshal Redpath [2263] L41 @ Hillsbrad 49.5,58.7
+   to:   Marshal Redpath [2263] L41 @ Hillsbrad 49.5,58.7
+   pre:  500 Crushridge Bounty (L36 req30)
+   kill: Crushridge Warmonger [2287] L39-40 ELITE @ Alterac 36.7,54.1 (26)
+   rewards: Burning Sliver [5249], Lunar Buckler [3763], Alterac Assassin's Gloves [270072]

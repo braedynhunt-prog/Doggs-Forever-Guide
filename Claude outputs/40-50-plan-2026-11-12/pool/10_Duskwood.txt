@@ -1,0 +1,6 @@
+# Duskwood (category 10): 1 quests, 2,900 XP; clean (no drop / elite / group / dungeon / skill flag) 1 quests 2,900 XP
+
+1395 Supplies for Nethergarde | L45 req40 | xp 2900 money 5000 | -
+   from: Watchmaster Sorigal [5464] L29 @ Duskwood 75.8,46.2
+   to:   Quartermaster Lungertz [5393] L54 @ Blasted Lands 66.5,21.4
+   text: Bring the Crate of Powerstones to Quartermaster Lungertz, before the powerstones expire.

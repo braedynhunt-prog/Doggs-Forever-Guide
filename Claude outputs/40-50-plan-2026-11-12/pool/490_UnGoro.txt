@@ -1,0 +1,293 @@
+# Un'Goro (category 490): 45 quests, 169,780 XP; clean (no drop / elite / group / dungeon / skill flag) 27 quests 111,980 XP
+
+87494 Microcrystal Contamination | L55 req45 | xp 5650 money 8500 | NOSTART DROP | mobs to 55
+   from: ?
+   to:   Torwa Pathfinder [9619] L51 @ Un'Goro 71.6,76.0
+   items: Crystal Infused Scale [280459] <- 10 mobs (Ravasaur, Ravasaur Runner, Ravasaur Hunter...) RATE 3.9%
+   rewards: Crystal-flecked Cord [281261], Crystal-flecked Waistguard [281262]
+
+3844 It's a Secret to Everybody | L52 req47 | xp 1250 money 0 | -
+   from: obj A Wrecked Raft [161505] @ Un'Goro 63.0,68.6
+   to:   obj A Small Pack [161504] @ Un'Goro 63.1,69.1
+   unlocks: 3845 It's a Secret to Everybody (L52 xp 5100)
+   text: Look around in the pond for a clue about who this wrecked raft may belong to.
+
+3845 It's a Secret to Everybody | L52 req47 | xp 5100 money 0 | -
+   from: obj A Small Pack [161504] @ Un'Goro 63.1,69.1
+   to:   Linken [8737] L40 @ Un'Goro 44.7,8.1
+   pre:  3844 It's a Secret to Everybody (L52 req47)
+   unlocks: 3908 It's a Secret to Everybody (L52 xp 5100)
+   items: Large Compass [11104] <- no source in qdb ; Curled Map Parchment [11105] <- no source in qdb ; Lion-headed Key [11106] <- no source in qdb
+
+3908 It's a Secret to Everybody | L52 req47 | xp 5100 money 0 | -
+   from: Linken [8737] L40 @ Un'Goro 44.7,8.1
+   to:   Donova Snowden [9298] L50 @ Winterspring 31.3,45.2
+   pre:  3845 It's a Secret to Everybody (L52 req47)
+   unlocks: 3909 The Videre Elixir (L52 xp 5100)
+   text: Take Linken's Sword to Donova Snowden in Winterspring.
+
+3912 Meet at the Grave | L52 req47 | xp 5100 money 0 | -
+   from: Donova Snowden [9298] L50 @ Winterspring 31.3,45.2
+   to:   Gaeriyan [9299] L54 @ Tanaris 53.9,23.3
+   pre:  3909 The Videre Elixir (L52 req47)
+   unlocks: 3913 A Grave Situation (L52 xp 2550)
+   text: Go to the graveyard outside Gadgetzan, and use the Videre Elixir. Follow the rest of Donova's instructions to find Gaeriyan.
+
+3913 A Grave Situation | L52 req47 | xp 2550 money 0 | -
+   from: Gaeriyan [9299] L54 @ Tanaris 53.9,23.3
+   to:   obj A Conspicuous Gravestone [148504] @ Tanaris 53.8,29.1
+   pre:  3912 Meet at the Grave (L52 req47)
+   unlocks: 3914 Linken's Sword (L52 xp 5100)
+   text: Resurrect, then look for the gravestone that Gaeriyan told you to find.
+
+3914 Linken's Sword | L52 req47 | xp 5100 money 7500 | -
+   from: obj A Conspicuous Gravestone [148504] @ Tanaris 53.8,29.1
+   to:   Linken [8737] L40 @ Un'Goro 44.7,8.1
+   pre:  3913 A Grave Situation (L52 req47)
+   unlocks: 3941 A Gnome's Assistance (L52 xp 1250)
+   text: Deliver Linken's Superior Sword to Linken in Un'Goro Crater.
+
+3941 A Gnome's Assistance | L52 req47 | xp 1250 money 0 | -
+   from: Linken [8737] L40 @ Un'Goro 44.7,8.1
+   to:   J.D. Collie [9117] L60 @ Un'Goro 41.9,2.7
+   pre:  3914 Linken's Sword (L52 req47)
+   unlocks: 3942 Linken's Memory (L54 xp 5450)
+   text: Find J.D. Collie in the cave at Marshal's Refuge.
+
+4141 Muigin and Larion | L52 req47 | xp 5100 money 0 | DROP | mobs to 53
+   from: Muigin [9119] L51 @ Un'Goro 42.9,9.6
+   to:   Muigin [9119] L51 @ Un'Goro 42.9,9.6
+   unlocks: 4142 A Visit to Gregan (L52 xp 3800)
+   items: Bloodpetal [11316] <- 4 mobs (Bloodpetal Lasher, Bloodpetal Flayer, Bloodpetal Thresher...) RATE 35.3%
+
+4142 A Visit to Gregan | L52 req47 | xp 3800 money 0 | -
+   from: Muigin [9119] L51 @ Un'Goro 42.9,9.6
+   to:   Gregan Brewspewer [7775] L45 @ Feralas 45.1,25.6
+   pre:  4141 Muigin and Larion (L52 req47)
+   unlocks: 4143 Haze of Evil (L52 xp 5100)
+   text: Take a Bloodpetal to Gregan Brewspewer in Feralas.
+
+4143 Haze of Evil | L52 req47 | xp 5100 money 7500 | DUNGEON DROP | mobs to 49
+   from: Gregan Brewspewer [7775] L45 @ Feralas 45.1,25.6
+   to:   Muigin [9119] L51 @ Un'Goro 42.9,9.6
+   pre:  4142 A Visit to Gregan (L52 req47)
+   unlocks: 4144 Bloodpetal Sprouts (L53 xp 3950)
+   items: Atal'ai Haze [11318] <- 3 mobs (Murk Worm, Saturated Ooze, Deep Lurker) all-elite RATE 25.1%
+
+4144 Bloodpetal Sprouts | L53 req47 | xp 3950 money 0 | - | mobs to 61
+   from: Muigin [9119] L51 @ Un'Goro 42.9,9.6
+   to:   Muigin [9119] L51 @ Un'Goro 42.9,9.6
+   pre:  4143 Haze of Evil (L52 req47)
+   items: Bloodpetal Sprout [11315] <- 34 mobs (Devilsaur, Ironhide Devilsaur, Tyrant Devilsaur...); 1 objects (Bloodpetal Sprout)
+
+4284 Crystals of Power | L53 req47 | xp 5250 money 8000 | -
+   from: J.D. Collie [9117] L60 @ Un'Goro 41.9,2.7
+   to:   J.D. Collie [9117] L60 @ Un'Goro 41.9,2.7
+   unlocks: 4285 The Northern Pylon (L53 xp 3950), 4287 The Eastern Pylon (L53 xp 3950), 4288 The Western Pylon (L53 xp 3950)
+   items: Red Power Crystal [11186] <- 2 objects (Red Power Crystal) ; Yellow Power Crystal [11188] <- 2 objects (Yellow Power Crystal) ; Green Power Crystal [11185] <- 2 objects (Green Power Crystal) ; Blue Power Crystal [11184] <- 2 objects (Blue Power Crystal)
+
+4285 The Northern Pylon | L53 req47 | xp 3950 money 0 | -
+   from: J.D. Collie [9117] L60 @ Un'Goro 41.9,2.7
+   to:   J.D. Collie [9117] L60 @ Un'Goro 41.9,2.7
+   pre:  4284 Crystals of Power (L53 req47)
+   unlocks: 4321 Making Sense of It (L53 xp 530)
+   objects: obj Northern Crystal Pylon [164955] @ Un'Goro 56.5,12.5
+
+4287 The Eastern Pylon | L53 req47 | xp 3950 money 0 | -
+   from: J.D. Collie [9117] L60 @ Un'Goro 41.9,2.7
+   to:   J.D. Collie [9117] L60 @ Un'Goro 41.9,2.7
+   pre:  4284 Crystals of Power (L53 req47)
+   unlocks: 4321 Making Sense of It (L53 xp 530)
+   objects: obj Eastern Crystal Pylon [164957] @ Un'Goro 77.2,50.0
+
+4288 The Western Pylon | L53 req47 | xp 3950 money 0 | -
+   from: J.D. Collie [9117] L60 @ Un'Goro 41.9,2.7
+   to:   J.D. Collie [9117] L60 @ Un'Goro 41.9,2.7
+   pre:  4284 Crystals of Power (L53 req47)
+   unlocks: 4321 Making Sense of It (L53 xp 530)
+   objects: obj Western Crystal Pylon [164956] @ Un'Goro 23.9,59.2
+
+4321 Making Sense of It | L53 req47 | xp 530 money 0 | -
+   from: J.D. Collie [9117] L60 @ Un'Goro 41.9,2.7
+   to:   J.D. Collie [9117] L60 @ Un'Goro 41.9,2.7
+   pre:  4285 The Northern Pylon (L53 req47) ; 4287 The Eastern Pylon (L53 req47) ; 4288 The Western Pylon (L53 req47)
+   unlocks: 4381 Crystal Restore (L53 xp None), 4382 Crystal Force (L53 xp None), 4383 Crystal Ward (L53 xp None), 4384 Crystal Yield (L53 xp None), 4385 Crystal Charge (L53 xp None), 4386 Crystal Spire (L53 xp None)
+   text: Speak with J.D. Collie in a moment.
+   rewards: Crystal Pylon User's Manual [11482]
+
+4381 Crystal Restore | L53 req47 | xp None money 0 | NOXP
+   from: obj Northern Crystal Pylon [164955] @ Un'Goro 56.5,12.5
+   to:   obj Northern Crystal Pylon [164955] @ Un'Goro 56.5,12.5
+   pre:  4321 Making Sense of It (L53 req47)
+   items: Yellow Power Crystal [11188] <- 2 objects (Yellow Power Crystal) ; Green Power Crystal [11185] <- 2 objects (Green Power Crystal)
+   rewards: Crystal Restore [11562]
+
+4382 Crystal Force | L53 req47 | xp None money 0 | NOXP
+   from: obj Eastern Crystal Pylon [164957] @ Un'Goro 77.2,50.0
+   to:   obj Eastern Crystal Pylon [164957] @ Un'Goro 77.2,50.0
+   pre:  4321 Making Sense of It (L53 req47)
+   items: Green Power Crystal [11185] <- 2 objects (Green Power Crystal) ; Blue Power Crystal [11184] <- 2 objects (Blue Power Crystal)
+   rewards: Crystal Force [11563]
+
+4383 Crystal Ward | L53 req47 | xp None money 0 | NOXP
+   from: obj Western Crystal Pylon [164956] @ Un'Goro 23.9,59.2
+   to:   obj Western Crystal Pylon [164956] @ Un'Goro 23.9,59.2
+   pre:  4321 Making Sense of It (L53 req47)
+   items: Red Power Crystal [11186] <- 2 objects (Red Power Crystal) ; Green Power Crystal [11185] <- 2 objects (Green Power Crystal)
+   rewards: Crystal Ward [11564]
+
+4384 Crystal Yield | L53 req47 | xp None money 0 | NOXP
+   from: obj Western Crystal Pylon [164956] @ Un'Goro 23.9,59.2
+   to:   obj Western Crystal Pylon [164956] @ Un'Goro 23.9,59.2
+   pre:  4321 Making Sense of It (L53 req47)
+   items: Red Power Crystal [11186] <- 2 objects (Red Power Crystal) ; Blue Power Crystal [11184] <- 2 objects (Blue Power Crystal)
+   rewards: Crystal Yield [11565]
+
+4385 Crystal Charge | L53 req47 | xp None money 0 | NOXP
+   from: obj Northern Crystal Pylon [164955] @ Un'Goro 56.5,12.5
+   to:   obj Northern Crystal Pylon [164955] @ Un'Goro 56.5,12.5
+   pre:  4321 Making Sense of It (L53 req47)
+   items: Red Power Crystal [11186] <- 2 objects (Red Power Crystal) ; Yellow Power Crystal [11188] <- 2 objects (Yellow Power Crystal)
+   rewards: Crystal Charge [11566]
+
+4386 Crystal Spire | L53 req47 | xp None money 0 | NOXP
+   from: obj Eastern Crystal Pylon [164957] @ Un'Goro 77.2,50.0
+   to:   obj Eastern Crystal Pylon [164957] @ Un'Goro 77.2,50.0
+   pre:  4321 Making Sense of It (L53 req47)
+   items: Blue Power Crystal [11184] <- 2 objects (Blue Power Crystal) ; Yellow Power Crystal [11188] <- 2 objects (Yellow Power Crystal)
+   rewards: Crystal Spire [11567]
+
+3942 Linken's Memory | L54 req47 | xp 5450 money 0 | -
+   from: J.D. Collie [9117] L60 @ Un'Goro 41.9,2.7
+   to:   Eridan Bluewind [9116] L57 @ Felwood 51.4,81.5
+   pre:  3941 A Gnome's Assistance (L52 req47)
+   unlocks: 4084 Silver Heart (L54 xp 5450)
+   text: Find Eridan Bluewind in southern Felwood.
+
+3961 Linken's Adventure | L54 req47 | xp 2700 money 0 | -
+   from: J.D. Collie [9117] L60 @ Un'Goro 41.9,2.7
+   to:   Linken [8737] L40 @ Un'Goro 44.7,8.1
+   pre:  4005 Aquementas (L54 req47)
+   unlocks: 3962 It's Dangerous to Go Alone (L56 xp 7300)
+   text: Take the Silver Totem of Aquementas to Linken in Marshal's Refuge.
+
+4005 Aquementas | L54 req47 | xp 5450 money 0 | DROP | mobs to 54
+   from: Eridan Bluewind [9116] L57 @ Felwood 51.4,81.5
+   to:   J.D. Collie [9117] L60 @ Un'Goro 41.9,2.7
+   pre:  4084 Silver Heart (L54 req47)
+   unlocks: 3961 Linken's Adventure (L54 xp 2700)
+   items: Silver Totem of Aquementas [11522] <- 1 mobs (Aquementas) RATE ?
+
+4084 Silver Heart | L54 req47 | xp 5450 money 0 | DROP | mobs to 53
+   from: Eridan Bluewind [9116] L57 @ Felwood 51.4,81.5
+   to:   Eridan Bluewind [9116] L57 @ Felwood 51.4,81.5
+   pre:  3942 Linken's Memory (L54 req47)
+   unlocks: 4005 Aquementas (L54 xp 5450)
+   items: Silvery Claws [11172] <- 8 mobs (Angerclaw Bear, Angerclaw Grizzly, Angerclaw Mauler...) RATE 6.9% ; Irontree Heart [11173] <- 2 mobs (Irontree Wanderer, Irontree Stomper) RATE 12.5%
+
+4289 The Apes of Un'Goro | L55 req47 | xp 5650 money 8500 | DROP | mobs to 53
+   from: Torwa Pathfinder [9619] L51 @ Un'Goro 71.6,76.0
+   to:   Torwa Pathfinder [9619] L51 @ Un'Goro 71.6,76.0
+   unlocks: 4301 The Mighty U'cha (L55 xp 5650)
+   items: Un'Goro Gorilla Pelt [11478] <- 2 mobs (Un'Goro Gorilla, Un'Goro Gorilla) RATE 27.7% ; Un'Goro Stomper Pelt [11479] <- 1 mobs (Un'Goro Stomper) RATE 25.0% ; Un'Goro Thunderer Pelt [11480] <- 1 mobs (Un'Goro Thunderer) RATE 23.08%
+
+5150 Dadanga is Hungry! | L55 req47 | xp None money 0 | NOXP | mobs to 61
+   from: Dadanga [9274] L45 @ Un'Goro 43.6,7.2
+   to:   Dadanga [9274] L45 @ Un'Goro 43.6,7.2
+   items: Bloodpetal Sprout [11315] <- 34 mobs (Devilsaur, Ironhide Devilsaur, Tyrant Devilsaur...); 1 objects (Bloodpetal Sprout)
+   rewards: Small Brown-wrapped Package [15699]
+
+3884 Williden's Journal | L50 req48 | xp 3550 money 0 | -
+   from: item A Mangled Journal [11116]
+   to:   Williden Marshal [9270] L48 @ Un'Goro 44.0,7.1
+   text: Return the journal to Williden Marshal somewhere in Un'Goro Crater.
+
+3883 Alien Ecology | L52 req48 | xp 5100 money 4000 | -
+   from: Hol'anyee Marshal [9271] L45 @ Un'Goro 43.9,7.2
+   to:   Hol'anyee Marshal [9271] L45 @ Un'Goro 43.9,7.2
+   items: Hive Wall Sample [11131] <- 1 objects (Gorishi Hive Hatchery)
+
+3881 Expedition Salvation | L53 req48 | xp 5250 money 4000 | -
+   from: Williden Marshal [9270] L48 @ Un'Goro 44.0,7.1
+   to:   Williden Marshal [9270] L48 @ Un'Goro 44.0,7.1
+   items: Crate of Foodstuffs [11113] <- 1 objects (Crate of Foodstuffs) ; Research Equipment [11112] <- 1 objects (Research Equipment)
+
+4243 Chasing A-Me 01 | L53 req48 | xp 2650 money 0 | -
+   from: Karna Remtravel [9618] L49 @ Un'Goro 46.4,13.4
+   to:   A-Me 01 [9623] L48 @ Un'Goro 67.7,16.8
+   unlocks: 4244 Chasing A-Me 01 (L53 xp 3950)
+   text: Find A-Me 01 in Un'Goro Crater.
+
+4244 Chasing A-Me 01 | L53 req48 | xp 3950 money 0 | DROP | mobs to 60
+   from: A-Me 01 [9623] L48 @ Un'Goro 67.7,16.8
+   to:   A-Me 01 [9623] L48 @ Un'Goro 67.7,16.8
+   pre:  4243 Chasing A-Me 01 (L53 req48)
+   unlocks: 4245 Chasing A-Me 01 (L53 xp 6550)
+   items: Mithril Casing [10561] <- 4 mobs (Clunk, Frostwolf Shredder Unit, Stormpike Shredder Unit...) RATE 2.2%
+
+4245 Chasing A-Me 01 | L53 req48 | xp 6550 money 16000 | -
+   from: A-Me 01 [9623] L48 @ Un'Goro 67.7,16.8
+   to:   Karna Remtravel [9618] L49 @ Un'Goro 46.4,13.4
+   pre:  4244 Chasing A-Me 01 (L53 req48)
+   text: Escort A-Me 01 back to Karna Remtravel in Un'Goro Crater.
+
+4290 The Fare of Lar'korwi | L53 req48 | xp 5250 money 0 | -
+   from: Torwa Pathfinder [9619] L51 @ Un'Goro 71.6,76.0
+   to:   Torwa Pathfinder [9619] L51 @ Un'Goro 71.6,76.0
+   unlocks: 4291 The Scent of Lar'korwi (L53 xp 5250)
+   items: Piece of Threshadon Carcass [11504] <- 1 objects (Fresh Threshadon Carcass)
+
+4291 The Scent of Lar'korwi | L53 req48 | xp 5250 money 0 | DROP | mobs to 50
+   from: Torwa Pathfinder [9619] L51 @ Un'Goro 71.6,76.0
+   to:   Torwa Pathfinder [9619] L51 @ Un'Goro 71.6,76.0
+   pre:  4290 The Fare of Lar'korwi (L53 req48)
+   unlocks: 4292 The Bait for Lar'korwi (L56 xp 7300)
+   items: Ravasaur Pheromone Gland [11509] <- 1 mobs (Lar'korwi Mate) RATE 74.6%
+
+3882 Roll the Bones | L51 req49 | xp 4900 money 0 | - | mobs to 55
+   from: Spark Nilminer [9272] L45 @ Un'Goro 43.5,7.4
+   to:   Spark Nilminer [9272] L45 @ Un'Goro 43.5,7.4
+   items: Dinosaur Bone [11114] <- 7 mobs (Stegodon, Plated Stegodon, Spiked Stegodon...); 1 objects (Dinosaur Bone)
+   rewards: Archaeologist's Quarry Boots [11908], Excavator's Utility Belt [11909]
+
+4503 Shizzle's Flyer | L51 req49 | xp 4900 money 0 | DROP | mobs to 55
+   from: Shizzle [9998] L40 @ Un'Goro 44.2,11.6
+   to:   Shizzle [9998] L40 @ Un'Goro 44.2,11.6
+   items: Webbed Diemetradon Scale [11830] <- 3 mobs (Young Diemetradon, Diemetradon, Elder Diemetradon) RATE 32.7% ; Webbed Pterrordax Scale [11831] <- 3 mobs (Fledgling Pterrordax, Pterrordax, Frenzied Pterrordax) RATE 35.2%
+   rewards: Shizzle's Drizzle Blocker [11915], Shizzle's Muzzle [11916], Shizzle's Nozzle Wiper [11917]
+
+4501 Beware of Pterrordax | L55 req49 | xp 5650 money 0 | - | mobs to 54
+   from: obj Beware of Pterrordax [174682] @ Un'Goro 43.5,8.4
+   to:   Spraggle Frock [9997] L37 @ Un'Goro 43.6,8.5
+   kill: Pterrordax [9166] L50-52 @ Un'Goro 52.2,59.4 (63) ; Frenzied Pterrordax [9167] L51-54 @ Un'Goro 32.1,46.7 (202)
+   rewards: Grotslab Gloves [11918], Cragplate Greaves [11919]
+
+4502 Volcanic Activity | L55 req49 | xp 5650 money 8500 | DROP | mobs to 58
+   from: Liv Rizzlefix [8496] L17 @ Barrens 62.5,38.7
+   to:   Liv Rizzlefix [8496] L17 @ Barrens 62.5,38.7
+   items: Un'Goro Ash [11829] <- 5 mobs (Scorching Elemental, Living Blaze, Blazerunner...) RATE 9.5%
+
+4301 The Mighty U'cha | L55 req50 | xp 5650 money 0 | DROP | mobs to 55
+   from: Torwa Pathfinder [9619] L51 @ Un'Goro 71.6,76.0
+   to:   Torwa Pathfinder [9619] L51 @ Un'Goro 71.6,76.0
+   pre:  4289 The Apes of Un'Goro (L55 req47)
+   items: U'cha's Pelt [11476] <- 1 mobs (U'cha) RATE 90.91%
+   rewards: Beastsmasher [11906], Beastslayer [11907]
+
+4491 A Little Help From My Friends | L55 req50 | xp 5650 money 0 | -
+   from: Ringo [9999] L54 @ Un'Goro 51.9,49.9
+   to:   Spraggle Frock [9997] L37 @ Un'Goro 43.6,8.5
+   pre:  4492 Lost! (L55 req50)
+   text: Lead Ringo to Spraggle Frock at Marshal's Refuge.  If Ringo faints, use Spraggle's Canteen to revive him.
+   rewards: Bejeweled Legguards [11910], Treetop Leggings [11911], Clayridge Helm [11913], Yesterday's Pants [270122]
+
+4492 Lost! | L55 req50 | xp 2800 money 0 | -
+   from: Spraggle Frock [9997] L37 @ Un'Goro 43.6,8.5
+   to:   Ringo [9999] L54 @ Un'Goro 51.9,49.9
+   unlocks: 4491 A Little Help From My Friends (L55 xp 5650)
+   text: Find Ringo at Fire Plume Ridge.
+
+87492 Uncanny Crystal | L55 req50 | xp 5650 money 8500 | -
+   from: Torwa Pathfinder [9619] L51 @ Un'Goro 71.6,76.0
+   to:   Torwa Pathfinder [9619] L51 @ Un'Goro 71.6,76.0
+   items: Damaged Blue Crystal [280417] <- 1 objects (Damaged Blue Crystal)

@@ -1,0 +1,113 @@
+# Hinterlands (category 47): 17 quests, 58,340 XP; clean (no drop / elite / group / dungeon / skill flag) 11 quests 35,490 XP
+
+1450 Gryphon Master Talonaxe | L43 req38 | xp 890 money 0 | -
+   from: Falstad Wildhammer [5635] L50 @ Hinterlands 11.8,46.8
+   to:   Gryphon Master Talonaxe [5636] L44 @ Hinterlands 9.8,44.5
+   pre:  1449 To The Hinterlands (L43 req38)
+   unlocks: 1451 Rhapsody Shindigger (L43 xp 1800)
+   text: Speak with Gryphon Master Talonaxe inside the Aerie Peak Aviary.
+
+1451 Rhapsody Shindigger | L43 req38 | xp 1800 money 0 | -
+   from: Gryphon Master Talonaxe [5636] L44 @ Hinterlands 9.8,44.5
+   to:   Rhapsody Shindigger [5634] L44 @ Hinterlands 26.9,48.6
+   pre:  1450 Gryphon Master Talonaxe (L43 req38)
+   unlocks: 1452 Rhapsody's Kalimdor Kocktail (L43 xp 3600)
+   text: Seek out Rhapsody Shindigger in The Hinterlands.
+
+1452 Rhapsody's Kalimdor Kocktail | L43 req38 | xp 3600 money 0 | DROP | mobs to 50
+   from: Rhapsody Shindigger [5634] L44 @ Hinterlands 26.9,48.6
+   to:   Rhapsody Shindigger [5634] L44 @ Hinterlands 26.9,48.6
+   pre:  1451 Rhapsody Shindigger (L43 req38)
+   unlocks: 1469 Rhapsody's Tale (L43 xp 2700)
+   items: Roc Gizzard [6257] <- 3 mobs (Roc, Fire Roc, Searing Roc) RATE 5.9% ; Ironfur Liver [6258] <- 3 mobs (Ironfur Bear, Grizzled Ironfur Bear, Ironfur Patriarch) RATE 24.0% ; Groddoc Liver [6259] <- 3 mobs (Groddoc Ape, Groddoc Thunderer, Groddoc Chestpounder) RATE 26.7%
+
+1469 Rhapsody's Tale | L43 req38 | xp 2700 money 0 | -
+   from: Rhapsody Shindigger [5634] L44 @ Hinterlands 26.9,48.6
+   to:   Brohann Caskbelly [5384] L40 @ Stormwind 69.5,40.4
+   pre:  1452 Rhapsody's Kalimdor Kocktail (L43 req38)
+   unlocks: 1475 Into The Temple of Atal'Hakkar (L50 xp 7100)
+   text: Bring the Atal'ai Tablet Fragment to Brohann Caskbelly in Stormwind.
+
+2880 Troll Necklace Bounty | L45 req40 | xp 3900 money 6500 | DROP | mobs to 52
+   from: Fraggar Thundermantle [7884] L60 @ Hinterlands 14.8,44.6
+   to:   Fraggar Thundermantle [7884] L60 @ Hinterlands 14.8,44.6
+   unlocks: 2881 Troll Necklace Bounty (L45 xp None)
+   items: Troll Tribal Necklace [9259] <- 28 mobs (Vilebranch Axe Thrower, Vilebranch Witch Doctor, Vilebranch Headhunter...) RATE 28.9%
+
+2881 Troll Necklace Bounty | L45 req40 | xp None money 0 | NOXP DROP | mobs to 52
+   from: Fraggar Thundermantle [7884] L60 @ Hinterlands 14.8,44.6
+   to:   Fraggar Thundermantle [7884] L60 @ Hinterlands 14.8,44.6
+   pre:  2880 Troll Necklace Bounty (L45 req40)
+   items: Troll Tribal Necklace [9259] <- 28 mobs (Vilebranch Axe Thrower, Vilebranch Witch Doctor, Vilebranch Headhunter...) RATE 28.9%
+
+2988 Witherbark Cages | L45 req40 | xp 3900 money 0 | -
+   from: Gryphon Master Talonaxe [5636] L44 @ Hinterlands 9.8,44.5
+   to:   Gryphon Master Talonaxe [5636] L44 @ Hinterlands 9.8,44.5
+   unlocks: 2989 The Altar of Zul (L48 xp 4400)
+   objects: obj First Witherbark Cage [144066] @ Hinterlands 23.3,58.8 ; obj Second Witherbark Cage [144067] @ Hinterlands 23.1,58.8 ; obj Third Witherbark Cage [144068] @ Hinterlands 32.0,57.3
+
+2990 Thadius Grimshade | L47 req40 | xp 2100 money 0 | -
+   from: Gryphon Master Talonaxe [5636] L44 @ Hinterlands 9.8,44.5
+   to:   Thadius Grimshade [8022] L50 @ Blasted Lands 66.9,19.5
+   pre:  2989 The Altar of Zul (L48 req40)
+   unlocks: 2991 Nekrum's Medallion (L47 xp 5250)
+   text: Bring Sharpbeak's Feather to Thadius Grimshade in the Blasted Lands.
+
+2992 The Divination | L47 req40 | xp 1050 money 0 | - | mobs to 50
+   from: Thadius Grimshade [8022] L50 @ Blasted Lands 66.9,19.5
+   to:   Thadius Grimshade [8022] L50 @ Blasted Lands 66.9,19.5
+   pre:  2991 Nekrum's Medallion (L47 req40)
+   unlocks: 2993 Return to the Hinterlands (L47 xp 2100)
+   kill: Thadius Grimshade [8022] L50 @ Blasted Lands 66.9,19.5
+
+2993 Return to the Hinterlands | L47 req40 | xp 2100 money 0 | GROUP
+   from: Thadius Grimshade [8022] L50 @ Blasted Lands 66.9,19.5
+   to:   Gryphon Master Talonaxe [5636] L44 @ Hinterlands 9.8,44.5
+   pre:  2992 The Divination (L47 req40)
+   unlocks: 2994 Saving Sharpbeak (L51 xp 7350)
+   text: Speak with Gryphon Master Talonaxe.
+
+2877 Skulk Rock Clean-up | L48 req40 | xp 4400 money 5000 | - | mobs to 48
+   from: Fraggar Thundermantle [7884] L60 @ Hinterlands 14.8,44.6
+   to:   Fraggar Thundermantle [7884] L60 @ Hinterlands 14.8,44.6
+   kill: Green Sludge [2655] L46-47 @ Hinterlands 51.7,44.5 (46) ; Jade Ooze [2656] L47-48 @ Hinterlands 54.8,43.2 (45)
+
+2989 The Altar of Zul | L48 req40 | xp 4400 money 0 | -
+   from: Gryphon Master Talonaxe [5636] L44 @ Hinterlands 9.8,44.5
+   to:   Gryphon Master Talonaxe [5636] L44 @ Hinterlands 9.8,44.5
+   pre:  2988 Witherbark Cages (L45 req40)
+   unlocks: 2990 Thadius Grimshade (L47 xp 2100)
+   text: Check the top of the Altar of Zul, then return to Gryphon Master Talonaxe.
+
+4787 The Ancient Egg | L50 req40 | xp 5900 money 0 | GROUP
+   from: Yeh'kinya [8579] L41 @ Tanaris 67.0,22.4
+   to:   Yeh'kinya [8579] L41 @ Tanaris 67.0,22.4
+   pre:  3527 The Prophecy of Mosh'aru (L47 req40)
+   unlocks: 3528 The God Hakkar (L53 xp 7900)
+   items: Ancient Egg [12402] <- 1 objects (Ancient Egg)
+
+2994 Saving Sharpbeak | L51 req40 | xp 7350 money 22500 | GROUP
+   from: Gryphon Master Talonaxe [5636] L44 @ Hinterlands 9.8,44.5
+   to:   Gryphon Master Talonaxe [5636] L44 @ Hinterlands 9.8,44.5
+   pre:  2993 Return to the Hinterlands (L47 req40)
+   objects: obj Sharpbeak's Cage [144070] @ Hinterlands 53.4,67.1
+   rewards: Gryphon Rider's Stormhammer [9651], Gryphon Rider's Leggings [9652], Gryphon Rider's Crop [270112], Cleansed Vilebranch Icon [270276], Cleansed Vilebranch Medallion [270275]
+
+485 Find OOX-09/HL! | L48 req43 | xp 4400 money 0 | -
+   from: item OOX-09/HL Distress Beacon [8704]
+   to:   Homing Robot OOX-09/HL [7806] L42 @ Hinterlands 49.4,37.7
+   unlocks: 836 Rescue OOX-09/HL! (L48 xp 5450)
+   text: Take the distress beacon to Oglethorpe's homing robot at the head of the river in the Hinterlands, near Skulk Rock.
+
+836 Rescue OOX-09/HL! | L48 req43 | xp 5450 money 0 | -
+   from: Homing Robot OOX-09/HL [7806] L42 @ Hinterlands 49.4,37.7
+   to:   Oglethorpe Obnoticus [7406] L50 @ Stranglethorn 28.4,76.3
+   pre:  485 Find OOX-09/HL! (L48 req43)
+   unlocks: 3721 An OOX of Your Own (L50 xp 7100)
+   text: Escort OOX-09/HL to the shoreline beyond Overlook Cliff, then report to Oglethorpe Obnoticus in Booty Bay.
+   rewards: Gnomish Inventor Boots [9645], Gnomish Water Sinking Device [9646], Gnomish Floatation Device [270101]
+
+86616 Repurposed Totems | L48 req45 | xp 4400 money 7000 | - | mobs to 47
+   from: Farseer Maret Firetend [270263] L45 @ Hinterlands 14.4,42.6
+   to:   Farseer Maret Firetend [270263] L45 @ Hinterlands 14.4,42.6
+   items: Vilebranch Totem [279225] <- 1 mobs (Vilebranch Soothsayer); 1 objects (?)

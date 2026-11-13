@@ -1,0 +1,195 @@
+# quest id <TAB> verdict <TAB> reason   (applied after the automatic verdicts, before the chain closure)
+# --- 30-60% drops (rule 12) resolved
+1707	PLAIN	Wastewander Water Pouch 33% - the two Wastewander Justice kill quests on the same mobs cover the budget (rule 12 clause)
+1878	OUT	repeatable follow-up of Water Pouch Bounty, 375 XP
+2875	PLAIN	Firebeard's Head 59% on a single named mob: one kill only, then abandon (rule 12)
+82	ASK	Centipaar Insect Parts 50.7% (six mob types) - XP only by rule 11, but it opens four more quests in Tanaris (10,980 XP) and the silithid chain into Un'Goro
+7721	ASK	Water Elemental Core 55.5% - XP only unless Zorbin's Water Resistant Hat scores as an upgrade; opens Zapped Giants (elite giants)
+4141	OUT	Bloodpetal 35.3% - XP-only optional (rule 11); A Visit to Gregan, Haze of Evil and The Videre Elixir go with it
+4503	OUT	Webbed scales 33% - XP-only optional (Shizzle's Muzzle is a leather shoulder at level 50)
+2581	OUT	Blasted Lands turn-in: three-item collection at 30-36% for a one-hour buff item (rule 11)
+2583	OUT	Blasted Lands turn-in: three-item collection at 30-36% for a one-hour buff item (rule 11)
+2585	OUT	Blasted Lands turn-in: three-item collection at 30-36% for a one-hour buff item (rule 11)
+2601	OUT	Blasted Lands turn-in: three-item collection at 30-36% for a one-hour buff item (rule 11)
+2603	OUT	Blasted Lands turn-in: three-item collection at 30-36% for a one-hour buff item (rule 11)
+617	OUT	Akiris Reed 31.3% - XP-only optional (Scorching Sash is cloth)
+621	OUT	Zanzil's Mixture 30.6% - XP-only optional
+1258	OUT	Pristine Crawler Leg 36% - XP-only optional (left out of round 1 for the same reason)
+98233	OUT	Jameson's Training Sword 35% - XP-only optional (round 1 ruling)
+642	OUT	Mote of Myzrael 30.4% and the Myzrael chain ends in elites
+1104	OUT	Shimmering Flats, level 30: grey at 42
+1105	OUT	Shimmering Flats, level 30: grey at 42
+1116	OUT	Speck of Dream Dust 30.4% - XP-only optional; the Rumors for Kravel chain goes with it
+# --- no drop rate involved after all
+4512	LATER	jar filled on Felwood oozes: round 3 (Felwood)
+3909	OUT	chain behind Muigin and Larion
+# --- elites and group quests outside dungeons (rule 13): out unless a scored upgrade
+717	GROUP-OPT	elite outside a dungeon (rule 13): Blacklash (50 elite), Hematus (50 elite); kept optional for the Prismscale Hauberk (mail chest, scores 64.3 on the level-40 band)
+2954	PLAIN	typed Group on Wowhead but no kill target: the Stone Watcher is spoken to at the Uldum pedestal
+706	OUT	elite outside a dungeon (rule 13): Scorched Guardian (45 elite)
+94679	OUT	elite outside a dungeon (rule 13): Snargl (40 elite); the reward is cloth
+94890	OUT	elite outside a dungeon (rule 13): Overlord Kilgar (46 elite)
+95120	OUT	elite outside a dungeon (rule 13): Old Rot-Chum (42 elite)
+95562	OUT	elite outside a dungeon (rule 13): Chogg'Zac (41 elite)
+95912	OUT	elite outside a dungeon (rule 13): Blademaster Kaijo (42 elite)
+95986	OUT	elite outside a dungeon (rule 13): Ombassa (41 elite)
+735	OUT	elite outside a dungeon (rule 13): Grel'borg the Miser (39 elite), Dagun the Ravenous (43 elite), Mogh the Undying (44 elite)
+762	OUT	elite outside a dungeon (rule 13): Ambassador Infernus (42 elite); Thane's Hammer is a one-hand caster mace
+193	OUT	elite outside a dungeon (rule 13): Bhag'thera (40 elite)
+197	OUT	elite outside a dungeon (rule 13): Tethis (43 elite)
+208	OUT	elite outside a dungeon (rule 13): King Bangalash (43 elite)
+619	OUT	elite outside a dungeon (rule 13): Stomper Kreeg (59 elite)
+630	OUT	elite outside a dungeon (rule 13): King Mukla (51 elite)
+8551	OUT	elite outside a dungeon (rule 13): Gorlash (47 elite); Bloodband Bracers are cloth
+8554	OUT	elite outside a dungeon (rule 13): Negolash (52 elite)
+97405	OUT	elite outside a dungeon (rule 13): Mosh'Ogg Spellcrafter (44 elite), Mosh'Ogg Warmonger (42 elite), Mosh'Ogg Mauler (44 elite), Mosh'Ogg Shaman (44 elite); Mauler's Mutton is a one-hand mace
+2944	OUT	elite outside a dungeon (rule 13): Gammerita (48 elite)
+7003	OUT	elite outside a dungeon (rule 13): Land Walker (49 elite), Cliff Giant (50 elite), Shore Strider (49 elite), Deep Strider (49 elite)
+92858	OUT	elite outside a dungeon (rule 13): Ohk'zi (43 elite); the staff scores 501.5
+1380	OUT	elite outside a dungeon (rule 13): Khan Hratha (42 elite); needs Gelkis reputation
+1381	OUT	elite outside a dungeon (rule 13): Khan Hratha (42 elite); needs Magram reputation
+96222	OUT	elite outside a dungeon (rule 13): Khan Hratha (42 elite)
+652	OUT	elite outside a dungeon (rule 13): Fozruk (42 elite)
+3378	OUT	elite outside a dungeon (rule 13): Twilight Dark Shaman (48 elite), Twilight Fire Guard (49 elite), Twilight Geomancer (50 elite), Twilight Idolater (51 elite)
+3441	PLAIN	Kalaran Windblade (55 elite) is the giver: the objective is to listen to him
+3566	OUT	elite outside a dungeon (rule 13): Lathoric the Black (52 elite), Obsidion (52 elite)
+7701	OUT	elite outside a dungeon (rule 13): Overseer Maltorius (50 elite)
+543	OUT	elite outside a dungeon (rule 13): Grel'borg the Miser (39 elite); not on the route
+2848	OUT	Wild Leather quest (profession thread, see the plan)
+# --- held quests resolved
+6607	GATE	Artisan Fishing: Nat Pagle, only at Fishing 225
+6609	GATE	lead-in to Nat Pagle, only at Fishing 225
+2847	OUT	Wild Leather quests: Leatherworking thread, not on the route unless Braedyn wants Tribal
+2849	OUT	Wild Leather quests: Leatherworking thread
+2850	OUT	Wild Leather quests: Leatherworking thread
+2851	OUT	Wild Leather quests: Leatherworking thread
+2852	OUT	Wild Leather quests: Leatherworking thread
+2853	OUT	Wild Leather quests: Leatherworking thread
+3381	OUT	no giver in the DB or on Wowhead
+6131	OUT	no giver in the DB or on Wowhead, no XP
+614	OUT	old copy of The Captain's Chest (8551 is the live one)
+615	OUT	old copy of The Captain's Cutlass
+618	OUT	old copy of Facing Negolash
+620	OUT	old copy of The Monogrammed Sash
+8552	OUT	starts from the Monogrammed Sash, which drops from Mok'rash (50 elite) - rule 13
+8553	OUT	behind The Monogrammed Sash (8552)
+7864	OUT	needs Silverwing Sentinels reputation
+94926	OUT	elite outside a dungeon (rule 13): Komuk (45 elite); no giver in the DB either; out in round 1 for the same reason
+95935	OUT	Braedyn's 11 Nov ruling
+94969	COND	Krol'dok dungeon quest with no giver in the DB or on Wowhead: taken if it is offered at the door or inside
+95384	COND	no giver: probably starts from a dropped item (ends at npc 260873); taken only if the item drops
+95385	COND	no giver: probably starts from a dropped item (ends at npc 260873); taken only if the item drops
+95599	COND	no giver: The Old Key probably starts from a dropped key; taken only if it drops
+95555	COND	no giver and no side on Wowhead; taken only if it is offered
+93162	OUT	no giver, no side, no XP
+93163	OUT	no giver and no side on Wowhead
+93604	OUT	Razorfen Downs quest, no side on Wowhead; the Downs were run in chapter 39b
+93404	OUT	giver Woodwyrd (254674) stands in Shen'dralas, which is out (11 Nov ruling)
+78823	COND	no giver in the DB or on Wowhead (ends at Hemet Nesingwary)
+78830	COND	shaman-flagged row with no giver; a Season of Discovery leftover unless it shows up in game
+87295	LATER	Blasted Lands, level 52: round 3
+# --- zones and quests moved out of the round
+1139	OUT	Uldaman was run in chapter 39e: no re-run (rule 2)
+2199	OUT	Uldaman was run in chapter 39e: no re-run (rule 2)
+2200	OUT	Uldaman was run in chapter 39e: no re-run (rule 2)
+2201	OUT	Uldaman was run in chapter 39e: no re-run (rule 2)
+2204	OUT	Uldaman was run in chapter 39e: no re-run (rule 2)
+2361	OUT	Uldaman was run in chapter 39e: no re-run (rule 2)
+3181	OUT	starts from Margol's Horn, which drops from Margol the Rager (48 elite) - rule 13; Proof of Deed and At Last! go with it
+7704	OUT	starts from a pillow object (179832) the DB places with no open-world spawn: Blackrock Depths, round 3
+# --- off the route or left for round 3
+1187	OUT	Shimmering Flats racer chain: nine grey level 30-37 quests in front of 4,900 XP
+1188	OUT	behind Razzeric's Tweaking
+1189	OUT	behind Razzeric's Tweaking
+8405	OUT	battleground quest
+78150	OUT	Undercity library quests (Horde city)
+79536	OUT	Undercity library quests (Horde city)
+82208	OUT	Undercity library quests (Horde city)
+81947	OUT	Undercity library quests (Horde city)
+81949	OUT	Undercity library quests (Horde city)
+81952	OUT	Undercity library quests (Horde city)
+81953	OUT	Undercity library quests (Horde city)
+81954	OUT	Undercity library quests (Horde city)
+81955	OUT	Undercity library quests (Horde city)
+81956	OUT	Undercity library quests (Horde city)
+97017	R1FIX	new in QuestieDB 1.0.16: the level-40 ram quest belongs in chapter 39d (round 1), not in round 2
+3371	LATER	level 55: round 3
+5066	LATER	Western Plaguelands lead-in, required level 50: round 3
+5090	LATER	Western Plaguelands lead-in, required level 50: round 3
+5091	LATER	Western Plaguelands lead-in, required level 50: round 3
+5048	LATER	level 52, required level 50: round 3
+3763	LATER	Morrowgrain chain (Darnassus, Un'Goro soil): round 3 with the rest of Un'Goro
+3764	LATER	Morrowgrain chain: round 3
+3781	LATER	Morrowgrain chain: round 3
+3785	LATER	Morrowgrain chain: round 3
+3787	LATER	Morrowgrain chain: round 3
+3788	LATER	Morrowgrain chain: round 3
+3789	LATER	Morrowgrain chain: round 3
+3790	LATER	Morrowgrain chain: round 3
+3791	LATER	Morrowgrain chain: round 3
+338	OUT	needs all four chapters of the manuscript; every page is a low zone-wide drop (rule 12)
+94980	COND	starts from the Krol'dok Moulding, dropped by Tunk, who is Elite on Wowhead and mapped with the Stronghold's bosses: a dungeon drop, taken if it falls
+48	JUDGE-OUT	Sweet Amber: five fetch steps across zones (Holy Spring Water, three sacks, Truesilver, a Sycamore Branch, Charred Oak), XP only
+49	JUDGE-OUT	Sweet Amber chain
+50	JUDGE-OUT	Sweet Amber chain
+51	JUDGE-OUT	Sweet Amber chain
+53	JUDGE-OUT	Sweet Amber chain
+3721	LATER	needs the three OOX rescues (Hinterlands, Feralas, Tanaris); handed in on a Booty Bay pass in round 3
+3801	LATER	Blackrock Depths: round 3
+3802	LATER	Blackrock Depths: round 3
+5021	LATER	Western Plaguelands, required level 50: round 3
+5022	LATER	Western Plaguelands, required level 50: round 3
+5050	LATER	Western Plaguelands, required level 50: round 3
+5092	LATER	Western Plaguelands, required level 50: round 3
+3823	LATER	Burning Steppes: round 3
+4296	LATER	Burning Steppes: round 3
+4726	LATER	Burning Steppes: round 3
+6028	LATER	Winterspring: round 3
+6030	LATER	Winterspring: round 3
+8460	LATER	Felwood: round 3
+5155	LATER	Felwood: round 3
+5157	LATER	Felwood: round 3
+5158	LATER	Felwood: round 3
+92743	JUDGE-OUT	Desolace leftover at level 40; Desolace is off the round-2 route except the Maraudon door
+93678	JUDGE-OUT	Draenethyst delivery from Desolace to the Swamp: 1,550 XP for a cross-continent trip
+93226	JUDGE-OUT	390 XP reputation hand-in
+93227	JUDGE-OUT	390 XP reputation hand-in
+6141	JUDGE-OUT	300 XP delivery to Desolace
+93196	JUDGE-OUT	Desolace centaur chain leftover at level 42
+79677	JUDGE-OUT	Arathi leftover at level 40, off the route
+687	JUDGE-OUT	needs the Myzrael chain (elite Fozruk)
+662	JUDGE-OUT	Faldir's Cove leftover at level 40, off the route
+1176	OUT	Shimmering Flats racer chain (see 1187)
+1111	OUT	Shimmering Flats chain behind Dream Dust (1116)
+86752	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+86777	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+86791	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+86797	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+86799	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+86804	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+86812	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+86813	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+86925	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+86926	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+86927	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+86792	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+86796	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+86814	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+87346	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+86747	COND	no giver in the DB or on Wowhead (ends at Ekkal, Azshara 42.0,38.9): taken if it is offered or drops
+90813	COND	Alliance on Wowhead, required level 50, no giver known (ends at Berdun Cliffbrew, Azshara 12.6,77.4)
+87494	COND	no giver in the DB or on Wowhead (ends at Torwa Pathfinder)
+7908	OUT	Gurubashi Arena trinket quest, 560 XP
+7726	OUT	repeatable follow-up of Fuel for the Zapping, 560 XP
+4504	OUT	Super Sticky Tar 32.9% - XP-only optional (rule 11)
+4513	LATER	Un'Goro ooze samples for the Ironforge slime chain: round 3 with 4512
+1452	ASK	Roc Gizzard 5.9%, Ironfur Liver 24%, Groddoc Liver 26.7%, three of each (about 75 kills, 50 of them rocs): out by rule 12, but it gates Rhapsody's Tale and Into The Temple of Atal'Hakkar (7,100 XP dungeon quest)
+2994	OUT	elite outside a dungeon (rule 13): Vile Priestess Hexx (51 elite) at the top of Jintha'Alor
+4787	OUT	the Ancient Egg (Hinterlands 57.6,86.8) is guarded by Hitah'ya the Keeper and Vilebranch Aman'zasi Guards (51 elite) - rule 13; it also needs The Prophecy of Mosh'aru
+96770	DUN-boss	Zum'rah's Head: one boss (two NPC ids), 28% on Wowhead over all kills
+3527	DUN-boss	Mosh'aru Tablets: Theka the Martyr 22% and Hydromancer Velratha 35% on Wowhead over all kills; needs Screecher Spirits handed in first
+2770	DUN-grind	Gahz'rilla has to be summoned; the summoning item is not in the quest data (Classic: the Mallet of Zul'Farrak from the elite top of Jintha'Alor): only if someone in the group has it
+713	JUDGE-OUT	level 37 Badlands leftover that wants Frost Oil (a crafted item); nothing kept behind it
+3372	OUT	behind Dwarven Justice (level 55, round 3) and its artifact is guarded by Twilight's Hammer Idolaters (51 elite)
+7044	DUN-boss	Celebrian Rod and Diamond: Noxxion 43% and Lord Vyletongue 38% on Wowhead over all kills
+5141	GATE	Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225; question 5

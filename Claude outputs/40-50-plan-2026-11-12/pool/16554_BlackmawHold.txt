@@ -1,0 +1,22 @@
+# Blackmaw Hold (category 16554): 4 quests, 16,950 XP; clean (no drop / elite / group / dungeon / skill flag) 0 quests 0 XP
+
+92067 Feeding Time! | L55 req45 | xp None money 0 | SIDE? NOXP DUNGEON NOSTART NOEND
+   from: ?
+   to:   ?
+   rewards: Regurgitated Seed Pod [249900]
+
+92344 Get to the Roots of It | L55 req45 | xp 5650 money 0 | DUNGEON
+   from: Mathrengyl Bearwalker [4217] L60 @ Darnassus 35.4,8.4
+   to:   Mathrengyl Bearwalker [4217] L60 @ Darnassus 35.4,8.4
+   items: Nordrassil Root Cap [250773] <- 1 objects (?)
+
+92066 The Twin Bears | L55 req47 | xp 5650 money 0 | SIDE? DUNGEON
+   from: Lorekeeper Nok [249853] LNone @ Azshara 42.2,20.8 (Wowhead)
+   to:   Lorekeeper Nok [249853] LNone @ Azshara 42.2,20.8 (Wowhead)
+   text: Find the Totem of Ursoc and the Totem of Ursol inside Blackmaw Hold. Then, return them to Lorekeeper Nok at Ursolan.
+   rewards: Guidance of Ursoc [279891], Wisdom of Ursol [279892]
+
+92070 A Lost Memento | L55 req47 | xp 5650 money 0 | SIDE? DUNGEON NOTINQDB NOSTART
+   from: ?
+   to:   Unele [249855] LNone @ no spawn (Wowhead)
+   rewards: Nama's Cherished Necklace [279893]

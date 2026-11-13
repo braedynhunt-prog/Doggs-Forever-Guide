@@ -1,0 +1,20 @@
+# Loch Modan (category 38): 3 quests, 11,150 XP; clean (no drop / elite / group / dungeon / skill flag) 0 quests 0 XP
+
+2500 Badlands Reagent Run | L39 req36 | xp 3000 money 4500 | DROP | mobs to 50
+   from: Ghak Healtouch [1470] L25 @ Loch Modan 37.1,49.4
+   to:   Ghak Healtouch [1470] L25 @ Loch Modan 37.1,49.4
+   unlocks: 17 Uldaman Reagent Run (L42 xp 3450), 2501 Badlands Reagent Run II (L44 xp 3750)
+   items: Buzzard Gizzard [7847] <- 4 mobs (Starving Buzzard, Buzzard, Giant Buzzard...) RATE 28.5% ; Crag Coyote Fang [7846] <- 4 mobs (Crag Coyote, Feral Crag Coyote, Elder Crag Coyote...) RATE 25.0% ; Rock Elemental Shard [7848] <- 9 mobs (Rock Elemental, Lesser Rock Elemental, Greater Rock Elemental...) RATE 11.4%
+
+2501 Badlands Reagent Run II | L44 req40 | xp 3750 money 0 | GROUP DROP ELITE SKILL[171, 210] | mobs to 45
+   from: Ghak Healtouch [1470] L25 @ Loch Modan 37.1,49.4
+   to:   Ghak Healtouch [1470] L25 @ Loch Modan 37.1,49.4
+   pre:  2500 Badlands Reagent Run (L39 req36) ; 17 Uldaman Reagent Run (L42 req38)
+   items: Vessel of Dragon's Blood [7867] <- 1 mobs (Scorched Guardian) all-elite RATE ?
+
+3182 Proof of Deed | L48 req40 | xp 4400 money 14000 | GROUP
+   from: Mountaineer Pebblebitty [3836] L44 @ Loch Modan 18.2,84.0
+   to:   Curator Thorius [8256] L45 @ Ironforge 71.5,15.7
+   pre:  3181 The Horn of the Beast (L48 req40)
+   unlocks: 3201 At Last! (L48 xp 4400)
+   text: Take Margol's Gigantic Horn to Curator Thorius in Ironforge.

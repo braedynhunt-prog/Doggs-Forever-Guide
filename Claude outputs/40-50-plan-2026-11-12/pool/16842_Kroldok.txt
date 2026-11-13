@@ -1,0 +1,51 @@
+# Krol'dok (category 16842): 9 quests, 35,600 XP; clean (no drop / elite / group / dungeon / skill flag) 4 quests 13,500 XP
+
+96771 Vengeance of the Highborne | L45 req37 | xp 4850 money 6500 | DUNGEON
+   from: Ranath Nightstride [268425] L45 ELITE @ Alterac 17.8,66.0
+   to:   Ranath Nightstride [268425] L45 ELITE @ Alterac 17.8,66.0
+   kill: Zalfan Moonshadow [268423] LNone @ no spawn
+
+94980 Krol'dok Moulding | L41 req38 | xp 3300 money 5500 | -
+   from: item Krol'dok Moulding [267138]
+   to:   Alphonse Dumas [259250] L25 @ Riverglades 64.5,82.0
+   text: Find someone in Farholde Keep who may know about the mould.
+
+94981 Key Ingredients | L41 req38 | xp 3300 money 5500 | -
+   from: Alphonse Dumas [259250] L25 @ Riverglades 64.5,82.0
+   to:   Alphonse Dumas [259250] L25 @ Riverglades 64.5,82.0
+   items: Thick Leather [4304] <- vendor ; Iron Bar [3575] <- no source in qdb
+   rewards: Krol'dok Compound Key [267089]
+
+94983 Twilight Mementos | L42 req38 | xp 4300 money 0 | DUNGEON DROP
+   from: Sergeant Riftan [258023] L46 @ Riverglades 30.7,49.1
+   to:   Sergeant Riftan [258023] L46 @ Riverglades 30.7,49.1
+   items: Twilight Bangle [267234] <- 6 mobs (Twilight Grunt, Twilight Warlock, Twilight Outrider...) RATE 11.4%
+
+94997 Lingering Essence | L42 req38 | xp 3450 money 5500 | -
+   from: Sergeant Riftan [258023] L46 @ Riverglades 30.7,49.1
+   to:   Ashe Amberhall [257591] L55 @ Riverglades 66.8,81.1
+   text: Bring the Satchel of Cursed Mementos to Ashe Amberhall in Farholde Keep.
+
+94998 Curios of Curiosity | L42 req38 | xp 3450 money 5500 | -
+   from: Ashe Amberhall [257591] L55 @ Riverglades 66.8,81.1
+   to:   Melanie Sable [259287] L41 @ Riverglades 66.2,83.4
+   text: Bring the Satchel of Mementos to Melanie Sable.
+   rewards: Curio-Adorned Necklace [279850]
+
+94984 Tome of Twilight | L44 req39 | xp 4650 money 0 | DUNGEON DROP
+   from: Demar Brant [257558] L55 @ Riverglades 66.7,81.0 / Ashe Amberhall [257591] L55 @ Riverglades 66.8,81.1
+   to:   Ashe Amberhall [257591] L55 @ Riverglades 66.8,81.1
+   items: Tome of Twilight [267104] <- 1 mobs (Nar'gurk) RATE 37.84%
+   rewards: Twilight Initiate's Belt [279854], Torn Cultist Cloak [279855]
+
+94969 Krol'dok No More! | L42 req40 | xp 3450 money 0 | DUNGEON NOSTART NOEND
+   from: ?
+   to:   ?
+   text: Escort Marcus Tilwell to safety.
+   rewards: [279851] no tooltip, [279929] no tooltip
+
+94982 Eye of Mugg | L45 req40 | xp 4850 money 13000 | DUNGEON DROP
+   from: Demar Brant [257558] L55 @ Riverglades 66.7,81.0 / Ashe Amberhall [257591] L55 @ Riverglades 66.8,81.1
+   to:   Demar Brant [257558] L55 @ Riverglades 66.7,81.0
+   items: Eye of Mugg [267086] <- 1 mobs (Overlord Mugg) RATE 41.67%
+   rewards: Rock on Stick [279852], Stick No Rock [279853], Bigger Rock on Bigger Stick [279480]

@@ -1,0 +1,264 @@
+# Tanaris (category 440): 42 quests, 143,895 XP; clean (no drop / elite / group / dungeon / skill flag) 28 quests 95,120 XP
+
+992 Gadgetzan Water Survey | L46 req38 | xp 3050 money 3500 | -
+   from: Senior Surveyor Fizzledowser [7724] L44 @ Tanaris 50.2,27.5
+   to:   Senior Surveyor Fizzledowser [7724] L44 @ Tanaris 50.2,27.5
+   unlocks: 82 Noxious Lair Investigation (L47 xp 3150)
+   items: Tapped Dowsing Widget [8585] <- 1 objects (Sandsorrow Watch Water Hole)
+
+2781 WANTED: Caliph Scorpidsting | L46 req39 | xp 5050 money 13000 | DROP | mobs to 46
+   from: obj Wanted Poster [142122] @ Tanaris 66.8,22.3 / obj Wanted Poster [150075] @ Tanaris 51.8,27.0
+   to:   Chief Engineer Bilgewhizzle [7407] L50 @ Tanaris 52.5,28.5
+   items: Caliph Scorpidsting's Head [8723] <- 1 mobs (Caliph Scorpidsting) RATE 82.69%
+
+82 Noxious Lair Investigation | L47 req39 | xp 3150 money 5000 | DROP | mobs to 50
+   from: Senior Surveyor Fizzledowser [7724] L44 @ Tanaris 50.2,27.5
+   to:   Alchemist Pestlezugg [5594] L45 @ Tanaris 50.9,27.0
+   pre:  992 Gadgetzan Water Survey (L46 req38)
+   unlocks: 10 The Scrimshank Redemption (L48 xp 4400)
+   items: Centipaar Insect Parts [8587] <- 6 mobs (Centipaar Wasp, Centipaar Stinger, Centipaar Swarmer...) RATE 50.7%
+
+10 The Scrimshank Redemption | L48 req39 | xp 4400 money 0 | -
+   from: Senior Surveyor Fizzledowser [7724] L44 @ Tanaris 50.2,27.5
+   to:   Senior Surveyor Fizzledowser [7724] L44 @ Tanaris 50.2,27.5
+   pre:  82 Noxious Lair Investigation (L47 req39)
+   unlocks: 110 Insect Part Analysis (L48 xp 440)
+   items: Scrimshank's Surveying Gear [8593] <- 1 objects (Scrimshank's Surveying Gear)
+
+110 Insect Part Analysis | L48 req39 | xp 440 money 0 | -
+   from: Senior Surveyor Fizzledowser [7724] L44 @ Tanaris 50.2,27.5
+   to:   Alchemist Pestlezugg [5594] L45 @ Tanaris 50.9,27.0
+   pre:  10 The Scrimshank Redemption (L48 req39)
+   unlocks: 113 Insect Part Analysis (L48 xp 440)
+   text: Check in Gadgetzan for Alchemist Pestlezugg and his analysis of the insect parts.
+
+113 Insect Part Analysis | L48 req39 | xp 440 money 7000 | -
+   from: Alchemist Pestlezugg [5594] L45 @ Tanaris 50.9,27.0
+   to:   Senior Surveyor Fizzledowser [7724] L44 @ Tanaris 50.2,27.5
+   pre:  110 Insect Part Analysis (L48 req39)
+   unlocks: 162 Rise of the Silithid (L49 xp 5700)
+   text: Deliver the report to Senior Surveyor Fizzledowser in Gadgetzan. Be sure he gives you a copy of the report, as Alchemist Pestlezugg has requested.
+
+162 Rise of the Silithid | L49 req39 | xp 5700 money 0 | -
+   from: Senior Surveyor Fizzledowser [7724] L44 @ Tanaris 50.2,27.5
+   to:   Gracina Spiritmight [7740] L55 @ Darnassus 41.8,85.6
+   pre:  113 Insect Part Analysis (L48 req39)
+   unlocks: 4493 March of the Silithid (L53 xp 530)
+   text: Take the Insect Analysis Report to Gracina Spiritmight in Darnassus.
+
+1690 Wastewander Justice | L43 req40 | xp 3600 money 6000 | - | mobs to 42
+   from: Chief Engineer Bilgewhizzle [7407] L50 @ Tanaris 52.5,28.5
+   to:   Chief Engineer Bilgewhizzle [7407] L50 @ Tanaris 52.5,28.5
+   unlocks: 1691 More Wastewander Justice (L44 xp 3750)
+   kill: Wastewander Bandit [5618] L41-42 @ Tanaris 62.8,29.2 (13) ; Wastewander Thief [5616] L40-41 @ Tanaris 62.7,29.3 (25)
+
+1691 More Wastewander Justice | L44 req40 | xp 3750 money 6500 | - | mobs to 45
+   from: Chief Engineer Bilgewhizzle [7407] L50 @ Tanaris 52.5,28.5
+   to:   Chief Engineer Bilgewhizzle [7407] L50 @ Tanaris 52.5,28.5
+   pre:  1690 Wastewander Justice (L43 req40)
+   kill: Wastewander Rogue [5615] L43-44 @ Tanaris 62.2,37.4 (22) ; Wastewander Assassin [5623] L44-45 @ Tanaris 61.8,37.9 (13) ; Wastewander Shadow Mage [5617] L41-43 @ Tanaris 61.8,37.1 (24)
+
+1707 Water Pouch Bounty | L44 req40 | xp 2800 money 0 | DROP | mobs to 45
+   from: Spigot Operator Luglunket [7408] L40 @ Tanaris 52.5,28.4
+   to:   Spigot Operator Luglunket [7408] L40 @ Tanaris 52.5,28.4
+   unlocks: 1878 Water Pouch Bounty (L44 xp 375)
+   items: Wastewander Water Pouch [8483] <- 7 mobs (Wastewander Rogue, Wastewander Thief, Wastewander Shadow Mage...) RATE 33.0%
+   rewards: Gadgetzan Water Co. Care Package [8484]
+
+1878 Water Pouch Bounty | L44 req40 | xp 375 money 0 | DROP | mobs to 45
+   from: Spigot Operator Luglunket [7408] L40 @ Tanaris 52.5,28.4
+   to:   Spigot Operator Luglunket [7408] L40 @ Tanaris 52.5,28.4
+   pre:  1707 Water Pouch Bounty (L44 req40)
+   items: Wastewander Water Pouch [8483] <- 7 mobs (Wastewander Rogue, Wastewander Thief, Wastewander Shadow Mage...) RATE 33.0%
+   rewards: Gadgetzan Water Co. Care Package [8484]
+
+3520 Screecher Spirits | L44 req40 | xp 3750 money 0 | - | mobs to 1
+   from: Yeh'kinya [8579] L41 @ Tanaris 67.0,22.4
+   to:   Yeh'kinya [8579] L41 @ Tanaris 67.0,22.4
+   unlocks: 3527 The Prophecy of Mosh'aru (L47 xp 5250)
+   kill: Screecher Spirit [8612] L1 @ Feralas 50.6,47.9 (24)
+
+2872 Stoley's Debt | L45 req40 | xp 390 money 0 | -
+   from: "Sea Wolf" MacKinley [2501] L44 @ Stranglethorn 27.8,77.1
+   to:   Stoley [7881] L30 @ Tanaris 67.1,24.0
+   text: Speak with Stoley in Steamwheedle Port.
+
+2873 Stoley's Shipment | L45 req40 | xp 3900 money 5000 | -
+   from: Stoley [7881] L30 @ Tanaris 67.1,24.0
+   to:   Stoley [7881] L30 @ Tanaris 67.1,24.0
+   unlocks: 2874 Deliver to MacKinley (L45 xp 3900)
+   items: Stoley's Shipment [9244] <- 1 objects (Stolen Cargo)
+
+2874 Deliver to MacKinley | L45 req40 | xp 3900 money 5000 | -
+   from: Stoley [7881] L30 @ Tanaris 67.1,24.0
+   to:   "Sea Wolf" MacKinley [2501] L44 @ Stranglethorn 27.8,77.1
+   pre:  2873 Stoley's Shipment (L45 req40)
+   text: Bring Stoley's Bottle to "Sea Wolf" MacKinley in Booty Bay.
+   rewards: Swashbuckler Sash [9636], Shinkicker Boots [9637]
+
+2875 WANTED: Andre Firebeard | L45 req40 | xp 3900 money 13000 | DROP | mobs to 45
+   from: obj Wanted Poster [142122] @ Tanaris 66.8,22.3 / obj Wanted Poster [150075] @ Tanaris 51.8,27.0
+   to:   Security Chief Bilgewhizzle [7882] L51 @ Tanaris 67.1,23.9
+   items: Firebeard's Head [9246] <- 1 mobs (Andre Firebeard) RATE 58.89%
+
+2876 Ship Schedules | L45 req40 | xp 4850 money 13000 | -
+   from: item Ship Schedule [9250]
+   to:   Security Chief Bilgewhizzle [7882] L51 @ Tanaris 67.1,23.9
+   text: Report the Ship Schedules to an authority in Steamwheedle Port.
+
+8365 Pirate Hats Ahoy! | L45 req40 | xp 3900 money 6500 | DROP | mobs to 47
+   from: Haughty Modiste [15165] L51 @ Tanaris 66.6,22.3
+   to:   Haughty Modiste [15165] L51 @ Tanaris 66.6,22.3
+   items: Southsea Pirate Hat [20519] <- 6 mobs (Southsea Pirate, Southsea Freebooter, Southsea Dock Worker...) RATE 22.4%
+
+8366 Southsea Shakedown | L45 req40 | xp 3900 money 6500 | - | mobs to 45
+   from: Security Chief Bilgewhizzle [7882] L51 @ Tanaris 67.1,23.9
+   to:   Security Chief Bilgewhizzle [7882] L51 @ Tanaris 67.1,23.9
+   kill: Southsea Pirate [7855] L44-45 @ Tanaris 72.4,46.0 (26) ; Southsea Freebooter [7856] L44-45 @ Tanaris 73.3,45.8 (27) ; Southsea Dock Worker [7857] L44-45 @ Tanaris 74.1,47.7 (30) ; Southsea Swashbuckler [7858] L44-45 @ Tanaris 74.7,46.0 (31)
+   rewards: Southsea Head Bucket [20640], Southsea Mojo Boots [20641]
+
+97536 Gnomish Garbage | L45 req40 | xp 2900 money 0 | -
+   from: Jhordy Lapforge [14743] L50 @ Tanaris 52.3,26.9
+   to:   Jhordy Lapforge [14743] L50 @ Tanaris 52.3,26.9
+   text: Jhordy Lapforge wants you to return to him after you have dumped the Crate of Radioactive Refuse in the desert of Tanaris a safe distance away from Gadgetzan and other trash.
+
+97530 Dunemaul Dues | L47 req40 | xp 4200 money 3500 | DROP | mobs to 48
+   from: Security Chief Bilgewhizzle [7882] L51 @ Tanaris 67.1,23.9
+   to:   Security Chief Bilgewhizzle [7882] L51 @ Tanaris 67.1,23.9
+   items: Brilliantly Polished Bangle [278186] <- 5 mobs (Dunemaul Ogre, Dunemaul Enforcer, Dunemaul Ogre Mage...) RATE 4.3%
+   rewards: A Little Somethin' [281282]
+
+1560 Tooga's Quest | L50 req40 | xp 5900 money 0 | - | mobs to 45
+   from: Tooga [5955] L45 @ Tanaris 30.3,67.4 (4)
+   to:   Torta [6015] L45 @ Tanaris 66.6,25.7
+   kill: Torta [6015] L45 @ Tanaris 66.6,25.7
+   rewards: Chelonian Cuffs [9638], Band of the Great Tortoise [9642]
+
+97540 Oasis | L50 req40 | xp 3550 money 0 | -
+   from: Tooga [5955] L45 @ Tanaris 30.3,67.4 (4)
+   to:   Tooga [5955] L45 @ Tanaris 30.3,67.4 (4)
+   text: Show the newly quenched Tooga the way back to his wife, Torta.
+
+2741 The Super Egg-O-Matic | L47 req42 | xp 4200 money 0 | -
+   from: obj Egg-O-Matic [142071] @ Tanaris 52.4,27.0
+   to:   obj Egg-O-Matic [142071] @ Tanaris 52.4,27.0
+   unlocks: 2747 An Extraordinary Egg (L60 xp None), 2748 A Fine Egg (L60 xp None), 2749 An Ordinary Egg (L60 xp None), 2750 A Bad Egg (L60 xp None), 8893 The Super Egg-O-Matic (L47 xp None)
+   items: Hippogryph Egg [8564] <- 1 objects (Hippogryph Egg)
+   rewards: Egg Crate [8647]
+
+3022 Handle With Care | L47 req42 | xp 2100 money 5000 | -
+   from: Curgle Cranklehop [7763] L48 @ Tanaris 52.4,26.9
+   to:   Erelas Ambersky [7916] L30 @ Teldrassil 55.5,92.0
+   text: Bring the Carefully-packed Crate to Erelas Ambersky in Rut'theran Village.
+
+8893 The Super Egg-O-Matic | L47 req42 | xp None money 0 | NOXP
+   from: obj Egg-O-Matic [142071] @ Tanaris 52.4,27.0
+   to:   obj Egg-O-Matic [142071] @ Tanaris 52.4,27.0
+   pre:  2741 The Super Egg-O-Matic (L47 req42)
+   items: Hippogryph Egg [8564] <- 1 objects (Hippogryph Egg)
+   rewards: Egg Crate [8647]
+
+351 Find OOX-17/TN! | L48 req43 | xp 4400 money 0 | -
+   from: item OOX-17/TN Distress Beacon [8623]
+   to:   Homing Robot OOX-17/TN [7784] L42 @ Tanaris 60.2,64.7
+   unlocks: 648 Rescue OOX-17/TN! (L48 xp 5450)
+   text: Bring the distress beacon to Oglethorpe's homing robot.
+
+648 Rescue OOX-17/TN! | L48 req43 | xp 5450 money 0 | -
+   from: Homing Robot OOX-17/TN [7784] L42 @ Tanaris 60.2,64.7
+   to:   Oglethorpe Obnoticus [7406] L50 @ Stranglethorn 28.4,76.3
+   pre:  351 Find OOX-17/TN! (L48 req43)
+   unlocks: 3721 An OOX of Your Own (L50 xp 7100)
+   text: Escort OOX-17/TN to Steamwheedle Port, then report to Oglethorpe Obnoticus in Booty Bay.
+   rewards: Optomatic Deflector [9643], Thermotastic Egg Timer [9644], Projectile Redirectors [270102], Reloading Assist Armbands [270103]
+
+3161 Gahz'ridian | L48 req43 | xp 4400 money 0 | -
+   from: Marvon Rivetseeker [7771] L40 @ Tanaris 52.7,45.9
+   to:   Marvon Rivetseeker [7771] L40 @ Tanaris 52.7,45.9
+   items: Gahz'ridian Ornament [8443] <- 1 objects (Gahz'ridian)
+   rewards: Surveyor's Tunic [10827], Staff of Lore [10826]
+
+2605 The Thirsty Goblin | L49 req44 | xp 4550 money 7000 | DROP | mobs to 48
+   from: Marin Noggenfogger [7564] L40 @ Tanaris 51.8,28.7
+   to:   Marin Noggenfogger [7564] L40 @ Tanaris 51.8,28.7
+   unlocks: 2606 In Good Taste (L49 xp 455)
+   items: Laden Dew Gland [8428] <- 1 mobs (Thistleshrub Dew Collector) RATE 10.81%
+
+2606 In Good Taste | L49 req44 | xp 455 money 0 | -
+   from: Marin Noggenfogger [7564] L40 @ Tanaris 51.8,28.7
+   to:   Sprinkle [7583] L30 @ Tanaris 51.1,26.9
+   pre:  2605 The Thirsty Goblin (L49 req44)
+   unlocks: 2641 Sprinkle's Secret Ingredient (L49 xp 4550)
+   text: Marin Noggenfogger wants you to speak with Sprinkle in Gadgetzan.
+
+2641 Sprinkle's Secret Ingredient | L49 req44 | xp 4550 money 0 | -
+   from: Sprinkle [7583] L30 @ Tanaris 51.1,26.9
+   to:   Sprinkle [7583] L30 @ Tanaris 51.1,26.9
+   pre:  2606 In Good Taste (L49 req44)
+   unlocks: 2661 Delivery for Marin (L49 xp 455)
+   items: Violet Tragan [8526] <- 1 objects (Violet Tragan)
+
+2661 Delivery for Marin | L49 req44 | xp 455 money 0 | -
+   from: Sprinkle [7583] L30 @ Tanaris 51.1,26.9
+   to:   Marin Noggenfogger [7564] L40 @ Tanaris 51.8,28.7
+   pre:  2641 Sprinkle's Secret Ingredient (L49 req44)
+   unlocks: 2662 Noggenfogger Elixir (L49 xp None)
+   text: Sprinkle wants to you take the Violet Powder to Marin Noggenfogger in Gadgetzan.
+
+2662 Noggenfogger Elixir | L49 req44 | xp None money 7000 | NOXP
+   from: Marin Noggenfogger [7564] L40 @ Tanaris 51.8,28.7
+   to:   Marin Noggenfogger [7564] L40 @ Tanaris 51.8,28.7
+   pre:  2661 Delivery for Marin (L49 req44)
+   text: Marin Noggenfogger wants you to speak to him again after he creates his elixir.
+   rewards: Noggenfogger Elixir [8529]
+
+5863 The Dunemaul Compound | L49 req44 | xp 4550 money 0 | - | mobs to 49
+   from: Andi Lynn [11758] L48 @ Tanaris 52.8,27.4
+   to:   Andi Lynn [11758] L48 @ Tanaris 52.8,27.4
+   kill: Dunemaul Brute [5474] L46-48 @ Tanaris 40.9,57.3 (30) ; Dunemaul Enforcer [5472] L46-47 @ Tanaris 40.4,58.9 (25) ; Gor'marok the Ravager [12046] L49 @ Tanaris 41.5,57.8
+   rewards: Witherseed Gloves [16738], Rugwood Mantle [16739]
+
+2954 The Stone Watcher | L50 req45 | xp 4700 money 0 | GROUP | mobs to 60
+   from: Stone Watcher of Norgannon [7918] L60 @ Tanaris 37.6,81.4 / obj Uldum Pedestal [142343] @ Tanaris 37.6,81.4
+   to:   obj Uldum Pedestal [142343] @ Tanaris 37.6,81.4
+   pre:  2946 Seeing What Happens (L50 req45) ; 2966 Seeing What Happens (HORDE)
+   unlocks: 2977 Return to Ironforge (L50 xp 470)
+   kill: Stone Watcher of Norgannon [7918] L60 @ Tanaris 37.6,81.4
+
+3362 Thistleshrub Valley | L50 req45 | xp 4700 money 7500 | - | mobs to 50
+   from: Tran'rek [7876] L45 @ Tanaris 51.6,26.8
+   to:   Tran'rek [7876] L45 @ Tanaris 51.6,26.8
+   kill: Gnarled Thistleshrub [5490] L48-49 @ Tanaris 29.1,65.5 (8) ; Thistleshrub Rootshaper [5485] L49-50 @ Tanaris 29.4,65.5 (11)
+
+3444 The Stone Circle | L51 req46 | xp 4900 money 0 | -
+   from: Marvon Rivetseeker [7771] L40 @ Tanaris 52.7,45.9
+   to:   Marvon Rivetseeker [7771] L40 @ Tanaris 52.7,45.9
+   pre:  3380 The Sunken Temple (HORDE) ; 3445 The Sunken Temple (L51 req46)
+   unlocks: 3446 Into the Depths (L51 xp 4900), 3447 Secret of the Circle (L51 xp 6100)
+   items: Stone Circle [10556] <- 1 objects (Marvon's Chest)
+
+4504 Super Sticky | L54 req48 | xp 5450 money 16500 | DROP | mobs to 54
+   from: Tran'rek [7876] L45 @ Tanaris 51.6,26.8
+   to:   Tran'rek [7876] L45 @ Tanaris 51.6,26.8
+   items: Super Sticky Tar [11834] <- 4 mobs (Tar Beast, Tar Lurker, Tar Lord...) RATE 32.9%
+
+4496 Bungle in the Jungle | L53 req50 | xp 5250 money 0 | DROP | mobs to 56
+   from: Alchemist Pestlezugg [5594] L45 @ Tanaris 50.9,27.0
+   to:   Alchemist Pestlezugg [5594] L45 @ Tanaris 50.9,27.0
+   pre:  4493 March of the Silithid (L53 req50) ; 4494 March of the Silithid (HORDE)
+   unlocks: 4507 Pawn Captures Queen (L54 xp 5450)
+   items: Gorishi Scent Gland [11837] <- 7 mobs (Gorishi Wasp, Gorishi Worker, Gorishi Reaver...) RATE 5.0% ; Un'Goro Soil [11018] <- 1 objects (Un'Goro Dirt Pile)
+
+4507 Pawn Captures Queen | L54 req50 | xp 5450 money 0 | DROP | mobs to 56
+   from: Alchemist Pestlezugg [5594] L45 @ Tanaris 50.9,27.0
+   to:   Alchemist Pestlezugg [5594] L45 @ Tanaris 50.9,27.0
+   pre:  4496 Bungle in the Jungle (L53 req50)
+   unlocks: 4508 Calm Before the Storm (L54 xp 540)
+   items: Gorishi Queen Brain [11835] <- 1 mobs (Gorishi Hive Queen) RATE 100.0%
+
+4508 Calm Before the Storm | L54 req50 | xp 540 money 0 | -
+   from: Alchemist Pestlezugg [5594] L45 @ Tanaris 50.9,27.0
+   to:   Gracina Spiritmight [7740] L55 @ Darnassus 41.8,85.6
+   pre:  4507 Pawn Captures Queen (L54 req50)
+   unlocks: 4510 Calm Before the Storm (L54 xp 8150)
+   text: Bring Pestlezugg's Un'Goro Report to Gracina Spiritmight in Darnassus.

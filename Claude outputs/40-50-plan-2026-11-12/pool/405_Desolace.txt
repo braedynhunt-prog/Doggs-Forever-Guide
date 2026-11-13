@@ -1,0 +1,169 @@
+# Desolace (category 405): 26 quests, 65,230 XP; clean (no drop / elite / group / dungeon / skill flag) 10 quests 18,730 XP
+
+1384 Raid on the Kolkar | L32 req30 | xp 2550 money 0 | PRECHAIN DROP REP[92, 3000] | mobs to 35
+   from: Uthek the Wise [5397] L44 @ Desolace 36.2,79.2
+   to:   Uthek the Wise [5397] L44 @ Desolace 36.2,79.2
+   pre:  1382 Strange Alliance (L35 req30)
+   unlocks: 1370 Stealing Supplies (L35 xp 1350)
+   items: Crude Charm [6079] <- 8 mobs (Kolkar Centaur, Kolkar Scout, Kolkar Mauler...) RATE 11.3%
+
+1386 Assault on the Kolkar | L32 req30 | xp 2550 money 0 | PRECHAIN REP[93, 3000] | mobs to 32
+   from: Warug [5398] L44 @ Desolace 75.0,68.2
+   to:   Warug [5398] L44 @ Desolace 75.0,68.2
+   pre:  1385 Brutal Politics (L35 req30)
+   unlocks: 1369 Broken Tears (L33 xp 2650)
+   kill: Kolkar Centaur [4632] L30-31 @ Desolace 69.1,46.5 (7) ; Kolkar Scout [4633] L30-31 @ Desolace 69.2,45.0 (9) ; Kolkar Mauler [4634] L31-32 @ Desolace 72.1,44.9 (11)
+
+1369 Broken Tears | L33 req30 | xp 2650 money 0 | PRECHAIN REP[93, 3000]
+   from: Warug [5398] L44 @ Desolace 75.0,68.2
+   to:   Warug [5398] L44 @ Desolace 75.0,68.2
+   pre:  1367 Magram Alliance (HORDE) ; 1386 Assault on the Kolkar (L32 req30)
+   unlocks: 1371 Gizmo for Warug (L35 xp 2050)
+   items: Broken Tears [6083] <- 1 objects (Tear of Theradras)
+
+1458 Reagents for Reclaimers Inc. | L33 req30 | xp 2650 money 3500 | PRECHAIN DROP | mobs to 33
+   from: Kreldig Ungor [5638] L35 @ Desolace 66.2,9.6
+   to:   Kreldig Ungor [5638] L35 @ Desolace 66.2,9.6
+   pre:  1453 Reclaimers' Business in Desolace (done 27)
+   unlocks: 1459 Reagents for Reclaimers Inc. (L35 xp 2750)
+   items: Hatefury Claw [6246] <- 7 mobs (Hatefury Rogue, Hatefury Trickster, Hatefury Felsworn...) RATE 16.7% ; Hatefury Horn [6247] <- 7 mobs (Hatefury Rogue, Hatefury Trickster, Hatefury Felsworn...) RATE 16.8%
+
+1370 Stealing Supplies | L35 req30 | xp 1350 money 0 | PRECHAIN REP[92, 3000]
+   from: Uthek the Wise [5397] L44 @ Desolace 36.2,79.2
+   to:   Uthek the Wise [5397] L44 @ Desolace 36.2,79.2
+   pre:  1368 Gelkis Alliance (HORDE) ; 1384 Raid on the Kolkar (L32 req30)
+   unlocks: 1373 Ongeku (L37 xp 2850)
+   items: Crudely Dried Meat [6069] <- 1 objects (Sack of Meat)
+   rewards: Silver Star [3463], Feathered Arrow [3464], Exploding Shot [3465]
+
+1371 Gizmo for Warug | L35 req30 | xp 2050 money 0 | PRECHAIN REP[93, 3000]
+   from: Warug [5398] L44 @ Desolace 75.0,68.2
+   to:   Warug [5398] L44 @ Desolace 75.0,68.2
+   pre:  1369 Broken Tears (L33 req30)
+   unlocks: 1375 Khan Shaka (L37 xp 2850)
+   items: Advanced Target Dummy [4392] <- no source in qdb
+   rewards: Schematic: Hoof-Shaped Foot Pedal [269903], Schematic: Centaur Banner Deployment Device [269901]
+
+1382 Strange Alliance | L35 req30 | xp 2050 money 0 | PRECHAIN
+   from: Captain Pentigast [5396] L42 @ Desolace 66.7,10.9
+   to:   Uthek the Wise [5397] L44 @ Desolace 36.2,79.2
+   unlocks: 1384 Raid on the Kolkar (L32 xp 2550)
+   text: Gain a Friendly reputation with the Gelkis, then speak with Uthek the Wise.
+
+1385 Brutal Politics | L35 req30 | xp 2050 money 0 | PRECHAIN
+   from: Captain Pentigast [5396] L42 @ Desolace 66.7,10.9
+   to:   Warug [5398] L44 @ Desolace 75.0,68.2
+   unlocks: 1386 Assault on the Kolkar (L32 xp 2550)
+   text: Gain a Friendly reputation with the Magram, then speak with Warug.
+
+1459 Reagents for Reclaimers Inc. | L35 req30 | xp 2750 money 2500 | PRECHAIN DROP | mobs to 40
+   from: Kreldig Ungor [5638] L35 @ Desolace 66.2,9.6
+   to:   Kreldig Ungor [5638] L35 @ Desolace 66.2,9.6
+   pre:  1458 Reagents for Reclaimers Inc. (L33 req30)
+   unlocks: 1466 Reagents for Reclaimers Inc. (L40 xp 3150)
+   items: Scorpashi Venom [6248] <- 3 mobs (Scorpashi Snapper, Scorpashi Lasher, Scorpashi Venomlash) RATE 34.5% ; Aged Kodo Hide [6249] <- 2 mobs (Aged Kodo, Cheveyo) RATE 75.1%
+
+1373 Ongeku | L37 req30 | xp 2850 money 0 | PRECHAIN DROP REP[92, 3000] | mobs to 37
+   from: Uthek the Wise [5397] L44 @ Desolace 36.2,79.2
+   to:   Uthek the Wise [5397] L44 @ Desolace 36.2,79.2
+   pre:  1370 Stealing Supplies (L35 req30)
+   unlocks: 1374 Khan Jehn (L37 xp 2850)
+   items: Draenethyst Shard [6190] <- 1 mobs (Ongeku) RATE 55.41%
+
+1374 Khan Jehn | L37 req30 | xp 2850 money 0 | PRECHAIN DROP REP[92, 3000] | mobs to 42
+   from: Uthek the Wise [5397] L44 @ Desolace 36.2,79.2
+   to:   Uthek the Wise [5397] L44 @ Desolace 36.2,79.2
+   pre:  1373 Ongeku (L37 req30)
+   unlocks: 1380 Khan Hratha (L42 xp 4300)
+   items: Khan Jehn's Head [6072] <- 1 mobs (Khan Jehn) RATE 1.35%
+
+1375 Khan Shaka | L37 req30 | xp 2850 money 0 | PRECHAIN DROP REP[93, 3000] | mobs to 37
+   from: Warug [5398] L44 @ Desolace 75.0,68.2
+   to:   Warug [5398] L44 @ Desolace 75.0,68.2
+   pre:  1371 Gizmo for Warug (L35 req30)
+   unlocks: 1381 Khan Hratha (L42 xp 4300)
+   items: Khan Shaka's Head [6073] <- 1 mobs (Khan Shaka) RATE 25.0%
+
+1456 The Karnitol Shipwreck | L39 req30 | xp 3000 money 0 | DROP | mobs to 37
+   from: Kreldig Ungor [5638] L35 @ Desolace 66.2,9.6
+   to:   Kreldig Ungor [5638] L35 @ Desolace 66.2,9.6
+   pre:  1455 The Karnitol Shipwreck (done 33)
+   unlocks: 1457 The Karnitol Shipwreck (L39 xp 2250)
+   items: Karnitol's Satchel [6245] <- 2 mobs (Slitherblade Tidehunter, Slitherblade Sea Witch) RATE 6.8%
+
+1457 The Karnitol Shipwreck | L39 req30 | xp 2250 money 0 | -
+   from: Kreldig Ungor [5638] L35 @ Desolace 66.2,9.6
+   to:   Roetten Stonehammer [5637] L40 @ Ironforge 70.0,21.3
+   pre:  1456 The Karnitol Shipwreck (L39 req30)
+   text: Bring Karnitol's Satchel to Roetten Stonehammer in Ironforge.
+   rewards: Hellion Boots [6791], Sanguine Pauldrons [6792]
+
+1466 Reagents for Reclaimers Inc. | L40 req30 | xp 3150 money 3500 | DROP | mobs to 40
+   from: Kreldig Ungor [5638] L35 @ Desolace 66.2,9.6
+   to:   Kreldig Ungor [5638] L35 @ Desolace 66.2,9.6
+   pre:  1459 Reagents for Reclaimers Inc. (L35 req30)
+   unlocks: 1467 Reagents for Reclaimers Inc. (L40 xp 3150)
+   items: Felhound Brain [6250] <- 3 mobs (Mana Eater, Mage Hunter, Ley Hunter) RATE 65.6% ; Nether Wing [6251] <- 3 mobs (Nether Maiden, Nether Sister, Nether Sorceress) RATE 52.7% ; Doomwarder Blood [6252] <- 4 mobs (Doomwarder Captain, Lord Azrethoc, Kaskk...) RATE 73.3%
+
+1467 Reagents for Reclaimers Inc. | L40 req30 | xp 3150 money 3500 | -
+   from: Kreldig Ungor [5638] L35 @ Desolace 66.2,9.6
+   to:   Roetten Stonehammer [5637] L40 @ Ironforge 70.0,21.3
+   pre:  1466 Reagents for Reclaimers Inc. (L40 req30)
+   text: Bring Leftwitch's Package back to Roetten Stonehammer in Ironforge.
+   rewards: Auric Bracers [6793], Stormfire Gauntlets [6794]
+
+92743 A Conqueror's Crown | L40 req30 | xp 3150 money 0 | -
+   from: Warug [5398] L44 @ Desolace 75.0,68.2
+   to:   Warug [5398] L44 @ Desolace 75.0,68.2
+   text: Maintain your reputation with the Magram, and return a Conqueror's Crown from the Badlands to Warug in Magram Village.
+
+93224 Carved Centaur Totems | L40 req30 | xp 2350 money 0 | DROP | mobs to 45
+   from: Captain Pentigast [5396] L42 @ Desolace 66.7,10.9
+   to:   Captain Pentigast [5396] L42 @ Desolace 66.7,10.9
+   items: Carved Centaur Totem [254432] <- 39 mobs (Kolkar Centaur, Kolkar Scout, Kolkar Mauler...) RATE 25.0%
+
+93678 Abridged Notes on Draenethyst | L40 req30 | xp 1550 money 0 | -
+   from: Azore Aldamort [11863] L60 @ Desolace 38.9,27.2
+   to:   Magtoor [1776] L42 @ Swamp of Sorrows 26.0,31.4
+   text: Take Azore's transcribed notes back to Magtoor at the Harborage in Swamp of Sorrows.
+
+1380 Khan Hratha | L42 req30 | xp 4300 money 0 | GROUP DROP ELITE REP[92, 3000] | mobs to 42
+   from: Uthek the Wise [5397] L44 @ Desolace 36.2,79.2
+   to:   Uthek the Wise [5397] L44 @ Desolace 36.2,79.2
+   pre:  1374 Khan Jehn (L37 req30)
+   items: Maraudine Key Fragment [6077] <- 1 mobs (Khan Hratha) all-elite RATE 100.0%
+   rewards: Kolkar Marauder Chain [6773], Traitor's Finger [6774]
+
+1381 Khan Hratha | L42 req30 | xp 4300 money 0 | GROUP DROP ELITE REP[93, 3000] | mobs to 42
+   from: Warug [5398] L44 @ Desolace 75.0,68.2
+   to:   Warug [5398] L44 @ Desolace 75.0,68.2
+   pre:  1375 Khan Shaka (L37 req30)
+   items: Maraudine Key Fragment [6077] <- 1 mobs (Khan Hratha) all-elite RATE 100.0%
+   rewards: Kolkar Hunter's Belt [6788], Ceremonial Centaur Blanket [6789]
+
+93226 Buying Friendship: Magram | L45 req30 | xp 390 money 0 | -
+   from: Captain Pentigast [5396] L42 @ Desolace 66.7,10.9 / Gorhak [253139] L40 @ Desolace 66.2,79.4
+   to:   Gorhak [253139] L40 @ Desolace 66.2,79.4
+   text: Bring the Totem Tote to the Magram Quartermaster at Magram Village in the Desolace to significantly increase your reputation with that clan. You must be of at least Neutral standing with the Magram Clan Centaur.
+
+93227 Buying Friendship: Gelkis | L45 req30 | xp 390 money 0 | -
+   from: Captain Pentigast [5396] L42 @ Desolace 66.7,10.9 / Molkar [253140] L40 @ Desolace 35.7,92.2
+   to:   Molkar [253140] L40 @ Desolace 35.7,92.2
+   text: Bring the Totem Tote to the Gelkis Quartermaster at Gelkis Village in the Desolace to significantly increase your reputation with that clan. You must be of at least Neutral standing with the Gelkis Clan Centaur.
+
+6141 Brother Anton | L39 req34 | xp 300 money 0 | -
+   from: Brother Crowley [12336] L44 @ Stormwind 52.6,43.2
+   to:   Brother Anton [1182] L45 @ Desolace 66.5,7.9
+   text: Speak with Brother Anton in Desolace.
+
+93196 Khan Jehn | L42 req35 | xp 3450 money 0 | SIDE?
+   from: Orgrul [253136] L45 @ Desolace 65.4,84.2
+   to:   Khan Jehn [254357] L42 @ Desolace 73.8,73.9
+   text: Maintain your reputation with the Magram and perform a necromancy ritual to resurrect Khan Jehn. The ritual site can be found in a tent at the central lake of Magram Village.
+   rewards: Greatstaff of the Necrokhans [271803], Soulsplatter Mace [271804], Scavenged Magram Armament [271800]
+
+96222 Khan Hratha | L42 req35 | xp 4300 money 11500 | GROUP DROP ELITE | mobs to 42
+   from: Umarak [253066] L45 ELITE @ Desolace 43.5,79.0 / Uthek the Wise [5397] L44 @ Desolace 36.2,79.2
+   to:   Umarak [253066] L45 ELITE @ Desolace 43.5,79.0
+   items: Maraudine Key Fragment [6077] <- 1 mobs (Khan Hratha) all-elite RATE 100.0%
+   rewards: Kolkar Marauder Chain [6773], Traitor's Finger [6774], Kolkar Hunter's Belt [6788], Ceremonial Centaur Blanket [6789], Carved Centaur Totem [254432]

@@ -1,0 +1,153 @@
+# Riverglades (category 16591): 29 quests, 83,690 XP; clean (no drop / elite / group / dungeon / skill flag) 16 quests 36,840 XP
+
+95326 The Big Payback | L39 req36 | xp 3000 money 0 | DROP | mobs to 39
+   from: obj Venture Co. Ledger [630887] @ Stranglethorn 42.8,18.5
+   to:   Caravaneer Ruzzgot [3945] L33 @ Stranglethorn 27.4,74.1
+   items: Ruzzgot's Shipment [268810] <- 1 mobs (Venture Co. Agent) RATE 29.29%
+
+95984 Song of the Strider | L39 req36 | xp 3000 money 0 | DROP | mobs to 38
+   from: Watcher Cornelius [259352] L38 @ Riverglades 59.5,64.0
+   to:   Watcher Cornelius [259352] L38 @ Riverglades 59.5,64.0
+   items: Intact Tallstrider Beak [271778] <- 1 mobs (Roving Tallstrider) RATE 15.56%
+
+94679 Snargl's Snout | L40 req36 | xp 3150 money 0 | GROUP DROP ELITE | mobs to 40
+   from: Cedric Dalton [259353] L40 @ Riverglades 39.6,74.7
+   to:   Cedric Dalton [259353] L40 @ Riverglades 39.6,74.7
+   items: Snargl's Snout [265357] <- 1 mobs (Snargl) all-elite RATE 87.75%
+   rewards: Gnollhide Tunic [274938], Southern Watch Leggings [274939], Unbalanced Fighting Stick [274940], Bristle Hills Mystic Robe [274941]
+
+94829 What We Lost | L40 req36 | xp 2350 money 0 | -
+   from: Farmer Elbrim [258697] L35 @ Riverglades 52.8,42.4
+   to:   Farmer Elbrim [258697] L35 @ Riverglades 52.8,42.4
+   text: Collect 5 Farmers' Mementos from Twilight Raiders and place them on the graves west of Elbrim's Farm.
+
+94858 All That's Left | L40 req36 | xp 2350 money 0 | DROP | mobs to 41
+   from: Farmer Elbrim [258697] L35 @ Riverglades 52.8,42.4
+   to:   Farmer Elbrim [258697] L35 @ Riverglades 52.8,42.4
+   items: Discarded Doll [266251] <- 1 objects (?) RATE 100.0% ; Damaged Locket [266252] <- 1 mobs (Converted Farmer) RATE 75.0%
+
+94961 Biting the Hand | L40 req36 | xp 2350 money 0 | DROP | mobs to 40
+   from: Fuzzle [259158] L38 @ Riverglades 47.3,51.4
+   to:   Fuzzle [259158] L38 @ Riverglades 47.3,51.4
+   items: Twilight Finger Bone [267073] <- 4 mobs (Twilight Shadowmancer, Twilight Neophyte, Twilight Raider...) RATE 16.2%
+
+94963 Biting the Hand | L40 req36 | xp 3150 money 5000 | -
+   from: Fuzzle [259158] L38 @ Riverglades 47.3,51.4
+   to:   obj Fuzzle's Treasure [625582] @ Riverglades 41.6,47.7
+   text: <Fuzzle snarls.>
+
+95295 I Know a Guy | L40 req36 | xp 315 money 0 | -
+   from: Friz Frazzlespark [255897] L41 @ Riverglades 77.1,52.9
+   to:   Caravaneer Ruzzgot [3945] L33 @ Stranglethorn 27.4,74.1
+   text: Speak to Friz's contact in Booty Bay.
+
+95296 Shipping and Handling | L40 req36 | xp 315 money 0 | -
+   from: Friz Frazzlespark [255897] L41 @ Riverglades 77.1,52.9
+   to:   Wharfmaster Steamfizzle [260405] L45 @ Tanaris 67.6,23.1
+   text: Speak with Wharfmaster Steamfizzle at Steamwheedle Port in Tanaris.
+
+95312 Coming to Collect | L40 req36 | xp 315 money 0 | -
+   from: Tazzik [260857] L40 @ Tanaris 67.3,24.0
+   to:   Fizbuz Mithril [220984] L35 @ Tanaris 51.7,27.8
+   text: Speak with Fizbuz Mithril in Gadgetzan.
+
+95321 Tazzik's Dues | L40 req36 | xp 3150 money 0 | - | mobs to 40
+   from: Fizbuz Mithril [220984] L35 @ Tanaris 51.7,27.8
+   to:   Tazzik [260857] L40 @ Tanaris 67.3,24.0
+   kill: Tazzik [260857] L40 @ Tanaris 67.3,24.0
+
+95322 Get the Goods | L40 req36 | xp 2350 money 0 | -
+   from: Caravaneer Ruzzgot [3945] L33 @ Stranglethorn 27.4,74.1
+   to:   Caravaneer Ruzzgot [3945] L33 @ Stranglethorn 27.4,74.1
+   text: Find the Bloodsail Trunk outside of Booty Bay in Stranglethorn Vale.
+
+95325 We've Been Robbed! | L40 req36 | xp 2350 money 0 | -
+   from: Caravaneer Ruzzgot [3945] L33 @ Stranglethorn 27.4,74.1
+   to:   obj Venture Co. Ledger [630887] @ Stranglethorn 42.8,18.5
+   text: Find the Venture Co. Ledger in the Venture Co. Camp near Lake Nezferiti in Stranglethorn.
+
+95327 All's Well That Ends Well | L40 req36 | xp 3150 money 0 | -
+   from: Caravaneer Ruzzgot [3945] L33 @ Stranglethorn 27.4,74.1
+   to:   Friz Frazzlespark [255897] L41 @ Riverglades 77.1,52.9
+   text: Return to Friz Frazzlespark at Powderfuse Port in the Riverglades.
+
+95383 Shipping and Handling | L40 req36 | xp 315 money 0 | -
+   from: Wharfmaster Steamfizzle [260405] L45 @ Tanaris 67.6,23.1
+   to:   Tazzik [260857] L40 @ Tanaris 67.3,24.0
+   text: Deliver Friz's Secret Stash to Tazzik in Steamwheedle Port.
+
+95472 Consolation Prize | L40 req36 | xp 2350 money 0 | -
+   from: Tazzik [260857] L40 @ Tanaris 67.3,24.0
+   to:   Friz Frazzlespark [255897] L41 @ Riverglades 77.1,52.9
+   text: Bring Tazzik's Sweaty Shirt to Friz Frazzlespark in Powderfuse Port.
+   rewards: Sweat-Stained Shirt [270334]
+
+95562 Cut Off the Heads | L41 req36 | xp 3300 money 2500 | GROUP DROP ELITE | mobs to 41
+   from: Apprentice Claire [256831] L35 @ Riverglades 47.7,47.3
+   to:   Apprentice Claire [256831] L35 @ Riverglades 47.7,47.3
+   items: Chogg's Head [265750] <- 1 mobs (Chogg'Zac) all-elite RATE 81.32% ; Zac's Head [265751] <- 1 mobs (Chogg'Zac) all-elite RATE 82.05%
+
+95975 Her World | L41 req36 | xp 3300 money 0 | -
+   from: Gray Dawnbright [263120] L40 @ Riverglades 78.8,54.2
+   to:   Tessa Dawnbright [263089] L35 @ Riverglades 63.9,82.2
+   items: Wildflower [271823] <- 1 objects (?) RATE 100.0%
+
+95986 King of the Wild Plains | L41 req36 | xp 3300 money 0 | GROUP DROP ELITE | mobs to 41
+   from: Watcher Cornelius [259352] L38 @ Riverglades 59.5,64.0
+   to:   Watcher Cornelius [259352] L38 @ Riverglades 59.5,64.0
+   items: Ombassa's Hide [281052] <- 1 mobs (Ombassa) all-elite RATE 99.6%
+
+95120 WANTED: Old Rot-Chum | L42 req36 | xp 4300 money 3000 | GROUP DROP ELITE | mobs to 42
+   from: obj WANTED! [628948] @ Riverglades 78.5,53.9
+   to:   Wharfmaster Whizzbuzz [259961] L45 @ Riverglades 79.5,52.7
+   items: Rot-Covered Harpoon [268341] <- 1 mobs (Old Rot-Chum) all-elite RATE 93.43%
+   rewards: Rot-Covered Harpoon [274963] [274963]
+
+95935 Hail the Dragonslayer | L43 req36 | xp 4450 money 12000 | GROUP NOSTART DROP ELITE | mobs to 43
+   from: ?
+   to:   Cedric Dalton [259353] L40 @ Riverglades 39.6,74.7
+   items: Head of Scaldaron [271612] <- 1 mobs (Scaldaron) all-elite RATE 24.1%
+
+94893 Delivering Closure | L47 req36 | xp 4200 money 7000 | -
+   from: Demar Brant [257558] L55 @ Riverglades 66.7,81.0
+   to:   Abigail Lawson [278088] L10 @ Stormwind 50.2,51.8
+   text: Deliver Marshal Ryan's Crest to Abigail Lawson in the Cathedral Square of Stormwind City.
+
+95261 It Takes Guts | L42 req38 | xp 3450 money 0 | DROP | mobs to 42
+   from: Argo Brinewhistle [260231] L40 @ Riverglades 80.0,52.5
+   to:   Argo Brinewhistle [260231] L40 @ Riverglades 80.0,52.5
+   items: Beast Entrails [268632] <- 22 mobs (Mature Paletusk, Sand Crawler, Shore Crawler...) RATE 13.2% ; Rotflesh Mushroom [268664] <- 1 objects (?) RATE 100.0%
+
+95912 WANTED: Blademaster Kaijo | L42 req38 | xp 4300 money 0 | GROUP DROP ELITE | mobs to 42
+   from: obj Wanted [707245] @ Riverglades 65.9,81.1
+   to:   Ember Bladewhisper [260080] L43 @ Riverglades 66.2,79.6
+   items: Blademaster's Banner [271425] <- 1 mobs (Blademaster Kaijo) all-elite RATE 88.31%
+   rewards: Bladewind [276102], Bladewhisper's Namesake [287072]
+
+94894 The Twilight Threat | L45 req38 | xp 4850 money 0 | -
+   from: Demar Brant [257558] L55 @ Riverglades 66.7,81.0
+   to:   Highlord Bolvar Fordragon [1748] L63 BOSS @ Stormwind 80.2,38.4
+   text: Deliver Kilgar's Head to Bolvar Fordragon within Stormwind Keep in Stormwind City.
+
+94926 Drop the Hammer | L45 req38 | xp 4850 money 0 | GROUP NOSTART DROP ELITE | mobs to 45
+   from: ?
+   to:   Demar Brant [257558] L55 @ Riverglades 66.7,81.0
+   items: Komuk's Warmaul [266889] <- 1 mobs (Komuk) all-elite RATE 100.0%
+   rewards: Pauldron of Order [275036]
+
+94890 Bring Me His Head | L46 req38 | xp 5050 money 0 | GROUP DROP ELITE | mobs to 46
+   from: Sergeant Riftan [258023] L46 @ Riverglades 30.7,49.1
+   to:   Sergeant Riftan [258023] L46 @ Riverglades 30.7,49.1
+   items: Kilgar's Head [265837] <- 1 mobs (Overlord Kilgar) all-elite RATE 100.0%
+   rewards: Twilight Overlord Drape [275046], Farholde Bastion [275049]
+
+94891 News to Farholde | L46 req38 | xp 4050 money 0 | -
+   from: Sergeant Riftan [258023] L46 @ Riverglades 30.7,49.1
+   to:   Ashe Amberhall [257591] L55 @ Riverglades 66.8,81.1
+   text: Return to Ashe Amberhall in Farholde Keep.
+   rewards: Farholde Keep Tabard [275042]
+
+95219 From Port to Port | L41 req40 | xp 330 money 0 | -
+   from: Friz Frazzlespark [255897] L41 @ Riverglades 77.1,52.9
+   to:   Mardrack Greenwell [7941] L54 @ Feralas 31.0,43.1
+   text: Deliver the Cask of Powderfuse Port to Mardrack Greenwell at Feathermoon Stronghold in Feralas.

@@ -1,0 +1,205 @@
+# Azshara (category 16): 42 quests, 162,370 XP; clean (no drop / elite / group / dungeon / skill flag) 32 quests 117,570 XP
+
+5535 Spiritual Unrest | L47 req45 | xp 4200 money 5000 | - | mobs to 47
+   from: Loh'atu [11548] L45 @ Azshara 11.4,78.2
+   to:   Loh'atu [11548] L45 @ Azshara 11.4,78.2
+   kill: Highborne Apparition [6116] L45-46 @ Azshara 16.2,70.5 (11) ; Highborne Lichling [6117] L46-47 @ Azshara 16.5,69.6 (10)
+
+5536 A Land Filled with Hatred | L47 req45 | xp 4200 money 7000 | - | mobs to 47
+   from: Loh'atu [11548] L45 @ Azshara 11.4,78.2
+   to:   Loh'atu [11548] L45 @ Azshara 11.4,78.2
+   kill: Haldarr Satyr [6125] L45-46 @ Azshara 20.3,61.8 (7) ; Haldarr Trickster [6126] L45-47 @ Azshara 20.1,61.9 (4) ; Haldarr Felsworn [6127] L46-47 @ Azshara 19.8,61.7 (4)
+
+88857 Saving a Sentinel | L47 req45 | xp 4200 money 5000 | -
+   from: Sentinel Keldara Sunblade [222478] L45 @ Azshara 20.6,61.9
+   to:   Commander Truesong [239822] L45 @ Azshara 11.8,78.4
+   text: Help Keldara Sunblade escape the Haldarr Encampment, then speak to Commander Truesong at Talrendis Point.
+
+98096 Sisters In Duty | L47 req45 | xp 420 money 0 | SIDE?
+   from: Sentinel Dalia Sunblade [8396] L44 @ Darnassus 39.6,89.5
+   to:   Commander Truesong [239822] L45 @ Azshara 11.8,78.4
+   text: Seek out Commander Truesong at Talrendis Point in Azshara for information about Keldara Sunblade's whereabouts.
+
+3381 A Meeting with the Master | L48 req45 | xp 2200 money 0 | NOTINQDB NOSTART NOEND
+   from: ?
+   to:   ?
+
+88807 Slay the Spitelash | L48 req45 | xp 4400 money 7000 | - | mobs to 48
+   from: Commander Truesong [239822] L45 @ Azshara 11.8,78.4
+   to:   Commander Truesong [239822] L45 @ Azshara 11.8,78.4
+   kill: Spitelash Warrior [6190] L46-47 @ Azshara 30.8,55.1 (28) ; Spitelash Screamer [6193] L47-48 @ Azshara 31.1,54.6 (23)
+
+89001 Home on the Range | L48 req45 | xp 4400 money 0 | DROP | mobs to 53
+   from: Berdun Cliffbrew [240482] L45 @ Azshara 12.6,77.4
+   to:   Berdun Cliffbrew [240482] L45 @ Azshara 12.6,77.4
+   items: Mosshoof Hide [238463] <- 3 mobs (Mosshoof Runner, Mosshoof Stag, Mosshoof Courser) RATE 29.2%
+
+89013 Gettin' Buzzed | L48 req45 | xp 4400 money 0 | DROP | mobs to 49
+   from: Berdun Cliffbrew [240482] L45 @ Azshara 12.6,77.4
+   to:   Berdun Cliffbrew [240482] L45 @ Azshara 12.6,77.4
+   items: Wild Honey [238503] <- 1 mobs (Honey Wasp) RATE 60.27%
+   rewards: Berdun's Trusty Rifle [290333], Recipe: Potion of Beast Slaying [250999], Potion of Beast Slaying [250955]
+
+89228 Winter Frontier Fishery | L48 req45 | xp 4400 money 7000 | -
+   from: Berdun Cliffbrew [240482] L45 @ Azshara 12.6,77.4
+   to:   Berdun Cliffbrew [240482] L45 @ Azshara 12.6,77.4
+   items: Winter Squid [13755] <- no source in qdb
+
+88809 Preserving Eldarath | L52 req45 | xp 5100 money 7500 | DROP | mobs to 52
+   from: Commander Truesong [239822] L45 @ Azshara 11.8,78.4
+   to:   Commander Truesong [239822] L45 @ Azshara 11.8,78.4
+   items: Eldarath Relic [280608] <- 3 mobs (Spitelash Serpent Guard, Spitelash Siren, Spitelash Myrmidon) RATE 14.4% ; Lord Sarthiss' Head [280610] <- 1 mobs (Lord Sarthiss) RATE 33.33%
+
+3421 Return Trip | L55 req45 | xp None money 0 | NOXP
+   from: Nyrill [8399] L39 @ Azshara 26.5,46.3
+   to:   Nyrill [8399] L39 @ Azshara 26.5,46.3
+
+3503 Meeting with the Master | L55 req45 | xp None money 0 | NOXP
+   from: Sanath Lim-yo [8395] L50 @ Azshara 28.1,50.1
+   to:   Sanath Lim-yo [8395] L50 @ Azshara 28.1,50.1
+
+92345 Beneath Nordrassil | L55 req45 | xp 560 money 0 | -
+   from: Commander Truesong [239822] L45 @ Azshara 11.8,78.4
+   to:   Mathrengyl Bearwalker [4217] L60 @ Darnassus 35.4,8.4
+   text: Speak to Mathrengyl Bearwalker at the Cenarion Enclave in Darnassus.
+
+88821 Making Contact | L51 req47 | xp 490 money 0 | -
+   from: Commander Truesong [239822] L45 @ Azshara 11.8,78.4
+   to:   Saria Fairmoon [239831] L55 @ Azshara 50.6,42.7
+   text: Find the Kaldorei woman last seen on the Shattered Strand.
+
+88884 Highborne Tablets | L52 req47 | xp 5100 money 0 | -
+   from: Saria Fairmoon [239831] L55 @ Azshara 50.6,42.7
+   to:   Saria Fairmoon [239831] L55 @ Azshara 50.6,42.7
+   items: Tablet of Creation [238244] <- 1 objects (?) ; Tablet of Manipulation [238245] <- 1 objects (?) ; Tablet of Power [238246] <- 1 objects (?)
+
+88917 Slithering Looters | L52 req47 | xp 5100 money 0 | -
+   from: Saria Fairmoon [239831] L55 @ Azshara 50.6,42.7
+   to:   Saria Fairmoon [239831] L55 @ Azshara 50.6,42.7
+   items: Staff of Archmage Selwyn [238347] <- 1 objects (?)
+
+89037 Murloc Thieves | L52 req47 | xp 5100 money 0 | DROP | mobs to 52
+   from: Saria Fairmoon [239831] L55 @ Azshara 50.6,42.7
+   to:   Saria Fairmoon [239831] L55 @ Azshara 50.6,42.7
+   items: Memory Crystal [238385] <- 1 mobs (Razorgill) RATE 100.0%
+   rewards: Scout's Dagger [260180], Sentinel's Plate [260181], Elunar Belt [260182]
+
+3601 Kim'jael Indeed! | L53 req47 | xp 6550 money 800 | -
+   from: Kim'jael [8420] L46 @ Azshara 53.5,21.8
+   to:   Kim'jael [8420] L46 @ Azshara 53.5,21.8
+   unlocks: 5534 Kim'jael's "Missing" Equipment (L53 xp 6550)
+   items: Kim'Jael's Compass [10717] <- 1 objects (Kim'jael's Equipment) ; Kim'Jael's Scope [10715] <- 1 objects (Kim'jael's Equipment) ; Kim'Jael's Stuffed Chicken [10722] <- 1 objects (Kim'jael's Equipment) ; Kim'Jael's Wizzlegoober [10718] <- 1 objects (Kim'jael's Equipment)
+   rewards: M73 Frag Grenade [10830]
+
+5534 Kim'jael's "Missing" Equipment | L53 req47 | xp 6550 money 16000 | DROP | mobs to 55
+   from: Kim'jael [8420] L46 @ Azshara 53.5,21.8
+   to:   Kim'jael [8420] L46 @ Azshara 53.5,21.8
+   pre:  3601 Kim'jael Indeed! (L53 req47)
+   items: Some Rune [13815] <- 4 mobs (Spitelash Siren, Spitelash Myrmidon, Spitelash Battlemaster...) RATE 4.0%
+
+86746 The Legashi Threat | L53 req47 | xp 5250 money 8000 | - | mobs to 53
+   from: Ekkal [235903] L50 @ Azshara 42.0,38.9
+   to:   Ekkal [235903] L50 @ Azshara 42.0,38.9
+   kill: Legashi Satyr [6200] L51-52 @ Azshara 61.4,20.9 (16) ; Legashi Rogue [6201] L51-53 @ Azshara 61.1,20.5 (17) ; Legashi Hellcaller [6202] L52-53 @ Azshara 61.0,20.1 (15)
+
+86747 Legashi Horns | L53 req47 | xp 530 money 0 | SIDE? NOSTART
+   from: ?
+   to:   Ekkal [235903] L50 @ Azshara 42.0,38.9
+
+86752 Report to Rageroar | L53 req47 | xp 530 money 0 | SIDE? NOTINQDB
+   from: Ekkal [235903] L50 @ Azshara 42.0,38.9 (Wowhead)
+   to:   Gatekeeper Rageroar [236573] LNone @ no spawn (Wowhead)
+
+86777 Master Feardred | L53 req47 | xp 5250 money 0 | SIDE? NOTINQDB
+   from: Korsa [236770] L50 @ Azshara 62.5,22.0 (6) (Wowhead)
+   to:   Korsa [236770] L50 @ Azshara 62.5,22.0 (6) (Wowhead)
+   rewards: Feardred's Cleansed Amulet [259892], Rageroar's Best Club [260166], Adventurer's Lost Boots [260167]
+
+86791 Missing Blackmaw Scouts | L53 req47 | xp 530 money 0 | SIDE? NOTINQDB
+   from: Gatekeeper Rageroar [236573] LNone @ no spawn (Wowhead)
+   to:   Korsa [236770] L50 @ Azshara 62.5,22.0 (6) (Wowhead)
+
+86797 Return to Rageroar | L53 req47 | xp 530 money 0 | SIDE? NOTINQDB
+   from: Korsa [236770] L50 @ Azshara 62.5,22.0 (6) (Wowhead)
+   to:   Gatekeeper Rageroar [236573] LNone @ no spawn (Wowhead)
+
+86799 Encroaching Corruption | L53 req47 | xp 530 money 0 | SIDE? NOTINQDB
+   from: Furze [235909] L50 @ Azshara 45.3,22.3 (5) (Wowhead)
+   to:   Elder Bramblesnap [235906] L55 @ Azshara 42.7,20.6 (2) (Wowhead)
+
+86804 An Unlikely Source | L53 req47 | xp 3950 money 0 | SIDE? NOTINQDB
+   from: Elder Bramblesnap [235906] L55 @ Azshara 42.7,20.6 (2) (Wowhead)
+   to:   obj506307? (Wowhead)
+
+86812 Transmuted Tincture | L53 req47 | xp 3950 money 0 | SIDE? NOTINQDB
+   from: Elder Bramblesnap [235906] L55 @ Azshara 42.7,20.6 (2) (Wowhead)
+   to:   Elder Bramblesnap [235906] L55 @ Azshara 42.7,20.6 (2) (Wowhead)
+   rewards: Manual: Powerful Poultice [255731]
+
+86813 Potential Panacea | L53 req47 | xp 2650 money 0 | SIDE? NOTINQDB
+   from: Elder Bramblesnap [235906] L55 @ Azshara 42.7,20.6 (2) (Wowhead)
+   to:   Elder Bramblesnap [235906] L55 @ Azshara 42.7,20.6 (2) (Wowhead)
+   rewards: Timbermaw Prayer Beads [260171], Mourner's Shroud [260168], Amice of Sorrow [260169]
+
+86925 Toil and Trouble | L53 req47 | xp 5250 money 0 | SIDE? NOTINQDB
+   from: obj506307? (Wowhead)
+   to:   obj506307? (Wowhead)
+
+86926 Felfire Burn, Cauldron Bubble | L53 req47 | xp 5250 money 0 | SIDE? NOTINQDB
+   from: obj506307? (Wowhead)
+   to:   obj506307? (Wowhead)
+
+86927 Running Firewater | L53 req47 | xp 5250 money 0 | SIDE? NOTINQDB
+   from: obj506307? (Wowhead)
+   to:   Elder Bramblesnap [235906] L55 @ Azshara 42.7,20.6 (2) (Wowhead)
+   rewards: Recipe: Distilled Firewater [236754]
+
+86792 Thinning Their Forces | L54 req47 | xp 5450 money 4000 | SIDE? NOTINQDB
+   from: Korsa [236770] L50 @ Azshara 62.5,22.0 (6) (Wowhead)
+   to:   Korsa [236770] L50 @ Azshara 62.5,22.0 (6) (Wowhead)
+
+86796 Later, Satyr | L54 req47 | xp 5450 money 6000 | SIDE? NOTINQDB
+   from: Graal [237007] LNone @ no spawn (Wowhead)
+   to:   Korsa [236770] L50 @ Azshara 62.5,22.0 (6) (Wowhead)
+
+86814 Blackmaw Counter-Offensive | L55 req47 | xp 7050 money 4000 | SIDE? GROUP NOTINQDB
+   from: Gorn One Eye [11555] L55 @ Felwood 65.2,2.7 (Wowhead)
+   to:   Gatekeeper Rageroar [236573] LNone @ no spawn (Wowhead)
+   rewards: Sacred Bangle [260183], Cliff Walker's Cinch [260184], Hippogryph Hide Boots [260185]
+
+87346 Chieftain Bloodmaw | L55 req47 | xp 5650 money 0 | SIDE? NOTINQDB
+   from: Gorn One Eye [11555] L55 @ Felwood 65.2,2.7 (Wowhead)
+   to:   Gorn One Eye [11555] L55 @ Felwood 65.2,2.7 (Wowhead)
+
+88812 Reclaiming Ravencrest | L55 req47 | xp 5650 money 8500 | -
+   from: Commander Truesong [239822] L45 @ Azshara 11.8,78.4
+   to:   Commander Truesong [239822] L45 @ Azshara 11.8,78.4
+   text: Kill 5 Spitelash Battlemasters, 5 Spitelash Enchantresses, and nullify the 3 Naga Power Stones near Ravencrest Monument for Commander Truesong in Azshara.
+
+88813 The Head of the Serpent | L55 req47 | xp 5650 money 0 | DROP | mobs to 55
+   from: Commander Truesong [239822] L45 @ Azshara 11.8,78.4
+   to:   Commander Truesong [239822] L45 @ Azshara 11.8,78.4
+   items: Krellian's Head [238057] <- 1 mobs (Warlord Krellian) RATE 100.0%
+   rewards: Prelate's Orb [260208], Truesong's Hammer [260209]
+
+89038 A Monumental Task | L55 req47 | xp 5650 money 4000 | -
+   from: Saria Fairmoon [239831] L55 @ Azshara 50.6,42.7
+   to:   Saria Fairmoon [239831] L55 @ Azshara 50.6,42.7
+   items: Mark of the Queen [238517] <- 1 objects (?)
+
+89053 Your Final Reward | L55 req47 | xp 5650 money 0 | -
+   from: Saria Fairmoon [239831] L55 @ Azshara 50.6,42.7
+   to:   obj Saria's Knapsack [527828] @ Azshara 49.4,41.9
+   text: See what Saria has to show you.
+   rewards: Highborne Memory Crystal [260201], Highborne Research Tablet [260205], Staff of Archmage Selwyn [260207]
+
+89470 Ill Tidings | L55 req47 | xp 2800 money 8500 | -
+   from: obj Saria's Knapsack [527828] @ Azshara 49.4,41.9
+   to:   Commander Truesong [239822] L45 @ Azshara 11.8,78.4
+   text: Bring Saria's Knapsack back to Commander Truesong at Talrendis Point.
+
+90813 Pay Dirt! | L53 req50 | xp 6550 money 0 | NOSTART DROP ELITE | mobs to 53
+   from: ?
+   to:   Berdun Cliffbrew [240482] L45 @ Azshara 12.6,77.4
+   items: Humongous Crystal [243203] <- 1 mobs (Cliff Walker) all-elite RATE ?
+   rewards: Big Bag o' Gold [243299]

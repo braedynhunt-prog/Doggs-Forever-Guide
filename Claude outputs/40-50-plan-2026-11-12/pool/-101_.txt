@@ -1,0 +1,11 @@
+# -101 (category -101): 2 quests, 4,870 XP; clean (no drop / elite / group / dungeon / skill flag) 0 quests 0 XP
+
+6607 Nat Pagle, Angler Extreme | L45 req35 | xp 3900 money 0 | SKILL[356, 225]
+   from: Nat Pagle [12919] L45 @ Dustwallow 58.6,60.1
+   to:   Nat Pagle [12919] L45 @ Dustwallow 58.6,60.1
+   items: Feralas Ahi [16967] <- 1 objects (Feralas Ahi Fishing Location) ; Misty Reed Mahi Mahi [16970] <- 1 objects (Misty Reed Mahi Mahi Fishing Location) ; Sar'theris Striker [16968] <- 1 objects (Sar'theris Striker Fishing Location) ; Savage Coast Blue Sailfin [16969] <- 1 objects (Savage Coast Blue Sailfin Fishing Location)
+
+6609 I Got Nothin' Left! | L45 req35 | xp 970 money 0 | SKILL[356, 225]
+   from: Grimnur Stonebrand [5161] L35 @ Ironforge 48.1,6.9
+   to:   Nat Pagle [12919] L45 @ Dustwallow 58.6,60.1
+   text: Travel to Kalimdor, to the coastal city of Theramore. From there you must search for an island, south of the main town. Nat Pagle awaits your arrival!

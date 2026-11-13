@@ -1,0 +1,23 @@
+# 1216 (category 1216): 4 quests, 17,510 XP; clean (no drop / elite / group / dungeon / skill flag) 2 quests 6,210 XP
+
+8461 Deadwood of the North | L55 req45 | xp 5650 money 0 | - | mobs to 55
+   from: Nafien [15395] L55 @ Felwood 64.8,8.1
+   to:   Nafien [15395] L55 @ Felwood 64.8,8.1
+   unlocks: 8465 Speak to Salfa (L55 xp 560), 8467 Feathers for Nafien (L55 xp 560)
+   kill: Deadwood Den Watcher [7156] L53-54 @ Felwood 61.8,8.2 (12) ; Deadwood Avenger [7157] L54-55 @ Felwood 62.2,8.7 (17) ; Deadwood Shaman [7158] L53-54 @ Felwood 62.2,9.6 (16)
+   rewards: Leggings of the Ursa [21316], Helm of the Pathfinder [21317]
+
+86798 Timbermaw Reinforcements | L55 req47 | xp 560 money 0 | SIDE? NOTINQDB
+   from: Gatekeeper Rageroar [236573] LNone @ no spawn (Wowhead)
+   to:   Gorn One Eye [11555] L55 @ Felwood 65.2,2.7 (Wowhead)
+
+6031 Runecloth | L55 req50 | xp 5650 money 0 | REP[576, 3000]
+   from: Meilosh [11557] L55 @ Felwood 65.7,2.8
+   to:   Meilosh [11557] L55 @ Felwood 65.7,2.8
+   items: Runecloth [14047] <- 3 objects (Heavy Fel Iron Chest)
+   rewards: Shadowskin Spaulders [15822], Bricksteel Gauntlets [15823]
+
+6032 Sacred Cloth | L55 req50 | xp 5650 money 0 | SKILL[197, 280] REP[576, 3000]
+   from: Meilosh [11557] L55 @ Felwood 65.7,2.8
+   to:   Meilosh [11557] L55 @ Felwood 65.7,2.8
+   items: Mooncloth [14342] <- no source in qdb

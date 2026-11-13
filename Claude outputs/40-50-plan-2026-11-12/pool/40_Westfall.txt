@@ -1,0 +1,35 @@
+# Westfall (category 40): 5 quests, 23,300 XP; clean (no drop / elite / group / dungeon / skill flag) 4 quests 18,650 XP
+
+48 Sweet Amber | L44 req40 | xp 3750 money 6500 | -
+   from: Grimbooze Thunderbrew [239] L20 @ Westfall 44.6,80.2
+   to:   Grimbooze Thunderbrew [239] L20 @ Westfall 44.6,80.2
+   unlocks: 49 Sweet Amber (L44 xp 4650)
+   items: Holy Spring Water [737] <- 1 objects (The Holy Spring)
+
+49 Sweet Amber | L44 req40 | xp 4650 money 12500 | -
+   from: Grimbooze Thunderbrew [239] L20 @ Westfall 44.6,80.2
+   to:   Grimbooze Thunderbrew [239] L20 @ Westfall 44.6,80.2
+   pre:  48 Sweet Amber (L44 req40)
+   unlocks: 50 Sweet Amber (L44 xp 4650)
+   items: Sack of Barley [738] <- 1 objects (Sack of Barley) ; Sack of Corn [739] <- 1 objects (Sack of Corn) ; Sack of Rye [740] <- 1 objects (Sack of Rye)
+
+50 Sweet Amber | L44 req40 | xp 4650 money 12500 | -
+   from: Grimbooze Thunderbrew [239] L20 @ Westfall 44.6,80.2
+   to:   Grimbooze Thunderbrew [239] L20 @ Westfall 44.6,80.2
+   pre:  49 Sweet Amber (L44 req40)
+   unlocks: 51 Sweet Amber (L44 xp 4650)
+   items: Truesilver Bar [6037] <- 8 objects (Solid Chest)
+
+51 Sweet Amber | L44 req40 | xp 4650 money 12500 | DROP | mobs to 45
+   from: Grimbooze Thunderbrew [239] L20 @ Westfall 44.6,80.2
+   to:   Grimbooze Thunderbrew [239] L20 @ Westfall 44.6,80.2
+   pre:  50 Sweet Amber (L44 req40)
+   unlocks: 53 Sweet Amber (L44 xp 5600)
+   items: A Sycamore Branch [742] <- 1 mobs (Cursed Sycamore) RATE 16.67%
+
+53 Sweet Amber | L44 req40 | xp 5600 money 0 | -
+   from: Grimbooze Thunderbrew [239] L20 @ Westfall 44.6,80.2
+   to:   Grimbooze Thunderbrew [239] L20 @ Westfall 44.6,80.2
+   pre:  51 Sweet Amber (L44 req40)
+   items: Bundle of Charred Oak [743] <- 1 objects (The Charred Oak)
+   rewards: Thunderbrew's Boot Flask [744]

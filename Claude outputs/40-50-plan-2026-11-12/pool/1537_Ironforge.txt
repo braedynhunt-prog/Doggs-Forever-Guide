@@ -1,0 +1,121 @@
+# Ironforge (category 1537): 18 quests, 52,150 XP; clean (no drop / elite / group / dungeon / skill flag) 12 quests 29,430 XP
+
+3201 At Last! | L48 req40 | xp 4400 money 0 | GROUP
+   from: Curator Thorius [8256] L45 @ Ironforge 71.5,15.7
+   to:   Mountaineer Pebblebitty [3836] L44 @ Loch Modan 18.2,84.0
+   pre:  3182 Proof of Deed (L48 req40)
+   text: Take the Proof of Deed back to Mountaineer Pebblebitty.
+   rewards: Key to Searing Gorge [5396]
+
+3371 Dwarven Justice | L55 req40 | xp 5650 money 0 | -
+   from: Curator Thorius [8256] L45 @ Ironforge 71.5,15.7
+   to:   Dying Archaeologist [8417] L46 @ Searing Gorge 41.1,25.6
+   pre:  3368 Suntara Stones (L48 req40)
+   unlocks: 3372 Release Them (L52 xp 5100)
+   text: Return to the Searing Gorge and find Dorius's archaeology unit.
+
+2946 Seeing What Happens | L50 req45 | xp 4700 money 0 | GROUP
+   from: Historian Karnik [2916] L20 @ Ironforge 77.5,11.8
+   to:   obj Uldum Pedestal [142343] @ Tanaris 37.6,81.4
+   pre:  2963 Portents of Uldum (L50 req45)
+   unlocks: 2954 The Stone Watcher (L50 xp 4700)
+   text: Bring the miniature platinum discs to the gates of Uldum in Tanaris and look for clues as to the connection between the two.
+
+2963 Portents of Uldum | L50 req45 | xp 470 money 0 | -
+   from: High Explorer Magellas [5387] L60 @ Ironforge 69.9,18.6
+   to:   Historian Karnik [2916] L20 @ Ironforge 77.5,11.8
+   pre:  2439 The Platinum Discs (done 39e)
+   unlocks: 2946 Seeing What Happens (L50 xp 4700)
+   text: Speak with Historian Karnik in the Hall of Explorers within Ironforge.
+
+2964 A Future Task | L50 req45 | xp 4700 money 22000 | -
+   from: Historian Karnik [2916] L20 @ Ironforge 77.5,11.8
+   to:   High Explorer Magellas [5387] L60 @ Ironforge 69.9,18.6
+   pre:  2977 Return to Ironforge (L50 req45)
+   text: Speak with High Explorer Magellas in Ironforge.
+
+2977 Return to Ironforge | L50 req45 | xp 470 money 0 | GROUP
+   from: obj Uldum Pedestal [142343] @ Tanaris 37.6,81.4
+   to:   Historian Karnik [2916] L20 @ Ironforge 77.5,11.8
+   pre:  2954 The Stone Watcher (L50 req45)
+   unlocks: 2964 A Future Task (L50 xp 4700)
+   text: Speak with Historian Karnik in Ironforge.
+
+3448 Passing the Burden | L52 req45 | xp 510 money 0 | -
+   from: Historian Karnik [2916] L20 @ Ironforge 77.5,11.8
+   to:   Tymor [8507] L35 @ Ironforge 31.0,4.8
+   unlocks: 3449 Arcane Runes (L52 xp 2550)
+   text: Speak to Tymor in Ironforge.
+
+3449 Arcane Runes | L52 req45 | xp 2550 money 0 | -
+   from: Tymor [8507] L35 @ Ironforge 31.0,4.8
+   to:   Pilot Xiggs Fuselighter [8392] L45 @ Azshara 77.8,91.4
+   pre:  3448 Passing the Burden (L52 req45)
+   unlocks: 3461 Return to Tymor (L52 xp 7600)
+   items: Rubbing: Rune of Beth'Amara [10563] <- 1 objects (Rune of Beth'Amara) ; Rubbing: Rune of Jin'yael [10564] <- 1 objects (Rune of Jin'yael) ; Rubbing: Rune of Markri [10565] <- 1 objects (Rune of Markri) ; Rubbing: Rune of Sael'hai [10566] <- 1 objects (Rune of Sael'hai)
+
+3450 An Easy Pickup | L52 req45 | xp 510 money 0 | -
+   from: Tymor [8507] L35 @ Ironforge 31.0,4.8
+   to:   Xiggs Fuselighter [8517] L45 @ Ironforge 70.9,94.6
+   unlocks: 3451 Signal for Pickup (L52 xp 510)
+   text: Speak to Xiggs Fuselighter in Ironforge.
+
+3451 Signal for Pickup | L52 req45 | xp 510 money 0 | -
+   from: Xiggs Fuselighter [8517] L45 @ Ironforge 70.9,94.6
+   to:   Xiggs Fuselighter [8517] L45 @ Ironforge 70.9,94.6
+   pre:  3450 An Easy Pickup (L52 req45)
+   unlocks: 3483 Signal for Pickup (L52 xp None)
+   text: Speak to Xiggs Fuselighter and get a Standard Issue Flare Gun from him in Ironforge.
+   rewards: Standard Issue Flare Gun [10444]
+
+3461 Return to Tymor | L52 req45 | xp 7600 money 0 | -
+   from: Pilot Xiggs Fuselighter [8392] L45 @ Azshara 77.8,91.4
+   to:   Tymor [8507] L35 @ Ironforge 31.0,4.8
+   pre:  3449 Arcane Runes (L52 req45)
+   text: Return Tymor's Drawing Kit to him in Ironforge.
+   rewards: Steelsmith Greaves [10707], Skullspell Orb [10708]
+
+3483 Signal for Pickup | L52 req45 | xp None money 0 | NOXP
+   from: Xiggs Fuselighter [8517] L45 @ Ironforge 70.9,94.6
+   to:   Xiggs Fuselighter [8517] L45 @ Ironforge 70.9,94.6
+   pre:  3451 Signal for Pickup (L52 req45)
+   rewards: Standard Issue Flare Gun [10444]
+
+3790 Assisting Arch Druid Staghelm | L50 req47 | xp 470 money 0 | -
+   from: Innkeeper Firebrew [5111] L30 @ Ironforge 18.1,51.5
+   to:   Arch Druid Fandral Staghelm [3516] L63 BOSS @ Darnassus 34.8,9.3
+   exclusive to: [3763, 3789]
+   text: Speak with Arch Druid Fandral Staghelm in Darnassus.
+
+4512 A Little Slime Goes a Long Way | L52 req48 | xp 6350 money 7500 | DROP | mobs to 52
+   from: Laris Geardawdle [9616] L50 @ Ironforge 75.8,23.4
+   to:   Laris Geardawdle [9616] L50 @ Ironforge 75.8,23.4
+   unlocks: 4513 A Little Slime Goes a Long Way (L54 xp 6800)
+   items: Filled Cursed Ooze Jar [11947] <- 1 mobs (Cursed Ooze) RATE ? ; Filled Tainted Ooze Jar [11949] <- 1 mobs (Tainted Ooze) RATE ?
+
+4513 A Little Slime Goes a Long Way | L54 req48 | xp 6800 money 4000 | DROP | mobs to 54
+   from: Laris Geardawdle [9616] L50 @ Ironforge 75.8,23.4
+   to:   Laris Geardawdle [9616] L50 @ Ironforge 75.8,23.4
+   pre:  4512 A Little Slime Goes a Long Way (L52 req48)
+   items: Filled Pure Sample Jar [11954] <- 3 mobs (Muculent Ooze, Primal Ooze, Glutinous Ooze) RATE ?
+   rewards: Hazecover Boots [12050], Brazen Gauntlets [12051]
+
+5090 A Call to Arms: The Plaguelands! | L50 req50 | xp 470 money 0 | -
+   from: Courier Hammerfall [10877] L3 @ Ironforge 55.9,81.4
+   to:   Commander Ashlam Valorfist [10838] L61 @ W Plaguelands 42.7,84.0
+   exclusive to: [5066, 5091]
+   text: Seek out Commander Ashlam Valorfist. His base camp is located at Chillwind Camp, north of the Alterac Mountains.
+
+3701 The Smoldering Ruins of Thaurissan | L54 req50 | xp 5450 money 16500 | -
+   from: Royal Historian Archesonus [8879] L50 @ Ironforge 38.4,55.3
+   to:   Royal Historian Archesonus [8879] L50 @ Ironforge 38.4,55.3
+   pre:  3702 The Smoldering Ruins of Thaurissan (L54 req50)
+   unlocks: 4341 Kharan Mighthammer (L59 xp 6400)
+   objects: obj Thaurissan Relic [153556] @ Burning Steppes 61.7,38.9 (28)
+   rewards: Ring of the Aristocrat [12102]
+
+3702 The Smoldering Ruins of Thaurissan | L54 req50 | xp 540 money 0 | - | mobs to 50
+   from: Royal Historian Archesonus [8879] L50 @ Ironforge 38.4,55.3
+   to:   Royal Historian Archesonus [8879] L50 @ Ironforge 38.4,55.3
+   unlocks: 3701 The Smoldering Ruins of Thaurissan (L54 xp 5450)
+   kill: Royal Historian Archesonus [8879] L50 @ Ironforge 38.4,55.3

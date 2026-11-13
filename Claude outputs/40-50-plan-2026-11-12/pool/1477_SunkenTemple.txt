@@ -1,0 +1,42 @@
+# Sunken Temple (category 1477): 6 quests, 35,350 XP; clean (no drop / elite / group / dungeon / skill flag) 0 quests 0 XP
+
+1475 Into The Temple of Atal'Hakkar | L50 req38 | xp 7100 money 0 | DUNGEON
+   from: Brohann Caskbelly [5384] L40 @ Stormwind 69.5,40.4
+   to:   Brohann Caskbelly [5384] L40 @ Stormwind 69.5,40.4
+   pre:  1469 Rhapsody's Tale (L43 req38)
+   items: Atal'ai Tablet [6288] <- 1 objects (Atal'ai Tablet)
+   rewards: Guardian Talisman [1490]
+
+1446 Jammal'an the Prophet | L53 req38 | xp 6550 money 0 | DUNGEON DROP | mobs to 54
+   from: Atal'ai Exile [5598] L45 @ Hinterlands 33.8,75.2
+   to:   Atal'ai Exile [5598] L45 @ Hinterlands 33.8,75.2
+   items: Head of Jammal'an [6212] <- 1 mobs (Jammal'an the Prophet) all-elite RATE ?
+   rewards: Rainstrider Leggings [11123], Helm of Exile [11124], Leggings of Freedom and Sorrow [270115]
+
+3528 The God Hakkar | L53 req40 | xp 7900 money 24000 | DUNGEON
+   from: Yeh'kinya [8579] L41 @ Tanaris 67.0,22.4
+   to:   Yeh'kinya [8579] L41 @ Tanaris 67.0,22.4
+   pre:  4787 The Ancient Egg (L50 req40)
+   unlocks: 5065 The Lost Tablets of Mosh'aru (L58 xp 7750)
+   items: Filled Egg of Hakkar [10662] <- no source in qdb
+   rewards: Avenguard Helm [10749], Lifeforce Dirk [10750], Gemburst Circlet [10751], Shapeshifter's Helm [270117]
+
+3446 Into the Depths | L51 req46 | xp 4900 money 0 | DUNGEON
+   from: Marvon Rivetseeker [7771] L40 @ Tanaris 52.7,45.9
+   to:   obj Altar of Hakkar [148836] @ Sunken Temple -1.0,-1.0
+   pre:  3444 The Stone Circle (L51 req46)
+   text: Find the Altar of Hakkar in the Sunken Temple in Swamp of Sorrows.
+
+3447 Secret of the Circle | L51 req46 | xp 6100 money 0 | DUNGEON
+   from: Marvon Rivetseeker [7771] L40 @ Tanaris 52.7,45.9
+   to:   obj Idol of Hakkar [148838] @ Sunken Temple -1.0,-1.0
+   pre:  3444 The Stone Circle (L51 req46)
+   text: Travel into the Sunken Temple and discover the secret hidden in the circle of statues.
+   rewards: Hakkari Urn [10773]
+
+3373 The Essence of Eranikus | L55 req48 | xp 2800 money 0 | DUNGEON
+   from: item Essence of Eranikus [10454]
+   to:   obj Essence Font [148512] @ Sunken Temple -1.0,-1.0
+   unlocks: 3374 The Essence of Eranikus (L55 xp 560)
+   text: Place the Essence of Eranikus in the Essence Font located in this lair in the Sunken Temple.
+   rewards: Chained Essence of Eranikus [10455]
