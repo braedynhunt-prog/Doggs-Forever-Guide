@@ -10786,6 +10786,14 @@
    ],
    "overall_pct": 4.0
   },
+  "4613": {
+   "name": "Corroded Black Box",
+   "quests": [],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-13",
+   "npcs": [],
+   "overall_pct": null,
+   "note": "NO DROPPED-BY"
+  },
   "4615": {
    "name": "Blacklash's Bindings",
    "quests": [
@@ -20819,6 +20827,20 @@
    "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
    "dropped_by": "Warlord Krellian",
    "overall_pct": 100.0
+  },
+  "238345": {
+   "name": "Lady Sesspira's Key",
+   "quests": [],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-13",
+   "npcs": [
+    {
+     "id": 239942,
+     "name": "Lady Sesspira",
+     "count": 6,
+     "outof": 16
+    }
+   ],
+   "overall_pct": 37.5
   },
   "238385": {
    "name": "Memory Crystal",
