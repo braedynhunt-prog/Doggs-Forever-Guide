@@ -70,7 +70,7 @@ Use the [UI13892 Kodo Kombobulator] on [TAR4700 Aged Kodo], [TAR4701 Dying Kodo]
 [OC]If you bought the Heavy Kodo Stew recipe, the kodos you kill here drop Heavy Kodo Meat (no drop rate in the data: filler, no budget)
 Loot 10 Kodo Bones from the bone piles on the graveyard floor [QC5501] [G51.6,59.9 Desolace]
 Click the Extinguished Campfire on the north edge of the graveyard [QA79229 Highway Robbery] (1,550 XP + 25s: someone who knows about the pillaged camp - Bibbly) [G47.5,54.7 Desolace]
-[OC][A Shaman] |cffffcc00Gear (5561):|r Kodo Rustler Boots (cloth +3 Sta +8 Int +5 Spi): wear them over Excelsior Boots or Junglewalker Sandals; Renewing Footpads are a tie, keep them
+[OC][A Shaman] |cffffcc00Gear (5561):|r Kodo Rustler Boots (cloth +3 Sta +8 Int +5 Spi): wear them over Junglewalker Sandals; Excelsior Boots and Renewing Footpads are a tie, keep them
 At [TAR11596 Smeed Scrabblescrew], [QT5561] [G60.9,61.9 Desolace]
 
 [OC]|cffffffffThe Maraudine camp|r  -  west to the centaur camp (Scouts and Wranglers 36-38, Maulers and Windchasers 38-39, Stormers and Marauders 39-40). |cffffcc00Danger:|r Khan Hratha (42, elite) and his Khan Guards (39-40) stand at 29.6,52.0 - stay clear

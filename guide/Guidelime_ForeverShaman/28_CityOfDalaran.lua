@@ -32,7 +32,7 @@ Kill [TAR246016 Arcanic Enigma], the Mana Elemental [QC92489] [G21.2,63.1 Altera
 
 [OC]|cffffffffHand-ins outside|r  -  Modera and Archmage Celindra stand a few steps apart
 At [TAR269127 Image of Archmage Modera], [QT92457] (3,950 XP) - |cffffcc00Gear:|r Fallen Guard's Pendant (+3 Str) or the Arcane Infused Rod (off-hand, no use with a two-hander): vendor either [G14.3,59.6 Alterac Mountains]
-[O]At [TAR269127 Image of Archmage Modera], [QT92458] (3,950 XP, only with the Arcane Mote) - |cffffcc00Gear:|r |cff66ff66Defender of Dalaran|r (2H mace 31.21 dps +9 Str +13 Sta +9 Int, 465.2 on the weights) beats Heavehammer and the Crowd Pummeler, unless you won Thermaplugg's Left Arm (476.8); then Renewing Footpads (leather boots +5 Sta +11 Int, 20.5; Disjointed Shoes 22.0). Spellguard Pauldrons are mail [G14.3,59.6 Alterac Mountains]
+[O]At [TAR269127 Image of Archmage Modera], [QT92458] (3,950 XP, only with the Arcane Mote) - |cffffcc00Gear:|r |cff66ff66Defender of Dalaran|r (2H mace 31.21 dps +9 Str +13 Sta +9 Int, 465.2 on the weights) beats Heavehammer and the Crowd Pummeler, unless you won Thermaplugg's Left Arm (476.8); then Renewing Footpads (leather boots +5 Sta +11 Int, 20.5) only if your boots score under that (Disjointed Shoes are 22.0). Spellguard Pauldrons are mail [G14.3,59.6 Alterac Mountains]
 [O]No Arcane Mote dropped: abandon Heart of Disruption here, do not re-run [QS92458] [G14.3,59.6 Alterac Mountains]
 [O]At [TAR269127 Image of Archmage Modera], [QA92459 Friend of the Kirin Tor] (only offered once Heart of Disruption is handed in) [G14.3,59.6 Alterac Mountains]
 [O]At [TAR252085 Archmage Celindra] beside her, [QT92459] (265 XP, no reward) [G14.2,60.0 Alterac Mountains]

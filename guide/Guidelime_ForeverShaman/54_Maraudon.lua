@@ -71,7 +71,7 @@ Kill [TAR12201 Princess Theradras] (51 elite) [QC7065]
 At [TAR13717 Centaur Pariah], [QT7067] (5,450 XP + 1g 40s) [G50.4,86.7 Desolace]
 [OC][A Shaman] |cffffcc00Gear (7028, choice):|r Acumen Robes (cloth chest +15 Int +14 spell damage, 45.8) are below the Surveyor's Tunic (59.5) and the Doomsayer's Robe (57.0): take the Relentless Chain for the vendor (1g 31s 4c)
 [O]Only with 25 carvings: at [TAR13656 Willow], [QT7028] (5,250 XP) [G62.2,39.6 Desolace]
-[OC][A Shaman] |cffffcc00Gear (7041, choice):|r take the |cff66ff66Woodseed Hoop|r (ring +10 Int +6 spell damage, 23.9) and wear it in place of the Coldwater Ring (26.1). The Sagebrush Girdle (leather waist +11 Agi +9 Int, 23.1) only if you wear neither the Satyrmane Sash, the Twilight Initiate's Belt nor the Vinehedge Cinch; the Branchclaw Gauntlets are plate
+[OC][A Shaman] |cffffcc00Gear (7041, choice):|r take the |cff66ff66Woodseed Hoop|r (ring +10 Int +6 spell damage, 23.9) and wear it in place of the Tiger Band (22.5) if that is still your second ring; it is below the Coldwater Ring (26.1) and the Purified Ring (24.3). The Sagebrush Girdle (leather waist +11 Agi +9 Int, 23.1) only if you wear neither the Satyrmane Sash, the Twilight Initiate's Belt nor the Vinehedge Cinch; the Branchclaw Gauntlets are plate
 At [TAR11715 Talendria], [QT7041] (5,250 XP) [G68.5,8.9 Desolace]
 [OC][A Shaman] |cffffcc00Gear (7065, choice):|r Resurgence Rod (2H staff 34.08 dps, +37 spell damage, 551.1) loses to every two-hander you hold: take it for the vendor (4g 21s 42c, the best sell); Thrash Blade and Verdant Keeper's Aim are a sword and a bow
 At [TAR13698 Keeper Marandis], [QT7065] (6,100 XP) [G63.8,10.7 Desolace]
