@@ -7,7 +7,7 @@
 -182	2851	Wild Leather Boots	45	30	2900	0	OUT	Wild Leather quests: Leatherworking thread	SKILL[165, 225]	60	Feet 0.0 Pattern: Wild Leather Boots (no stats)
 -182	2852	Wild Leather Leggings	45	30	2900	0	OUT	Wild Leather quests: Leatherworking thread	SKILL[165, 225]	60	Legs 0.0 Pattern: Wild Leather Leggings (no stats)
 -182	2853	Master of the Wild Leather	45	30	3900	0	OUT	Wild Leather quests: Leatherworking thread	SKILL[165, 225]	0	Back 0.0 Pattern: Wild Leather Cloak (no stats)
--182	5141	Dragonscale Leatherworking	55	40	4200	0	GATE	Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225; question 5	DROP SKILL[165, 225]	62	
+-182	5141	Dragonscale Leatherworking	55	40	4200	0	GATE	Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225; open point 5	DROP SKILL[165, 225]	62	
 -182	5143	Tribal Leatherworking	55	40	4200	0	OUT	chain behind 2853 Master of the Wild Leather (Wild Leather quests: Leatherworking thre)	SKILL[165, 225]	0	
 -182	5144	Elemental Leatherworking	55	40	4200	0	HOLD	needs skill [165, 225]	DROP SKILL[165, 225]	63	
 -284	78150	Friend of the Library	20	1	155	125	OUT	Undercity library quests (Horde city)	PRECHAIN	0	Neck 5.0 Scholarly Pendant (+3 Sta +2 Spi)
@@ -59,7 +59,7 @@
 139	5601	Sister Pamela	55	50	560	0	PLAIN			0	
 139	6021	Zaeldarr the Outcast	55	50	4200	8500	PLAIN	Zaeldarr's Head 71.43% (drop_rates.json 11 Nov)	DROP	55	
 139	6164	Augustus' Receipt Book	55	50	1400	0	PLAIN			0	
-1477	1475	Into The Temple of Atal'Hakkar	50	38	7100	0	ASK	behind 1469 Rhapsody's Tale, which is your call	DUNGEON	0	
+1477	1475	Into The Temple of Atal'Hakkar	50	38	7100	0	DUN-normal		DUNGEON	0	
 1477	1446	Jammal'an the Prophet	53	38	6550	0	DUN-rate?	Head of Jammal'an no rate	DUNGEON DROP	54	Head 85.2 Helm of Exile (+11 Agi +18 Int +17 Spi)
 1477	3528	The God Hakkar	53	40	7900	24000	OUT	chain behind 4787 The Ancient Egg (the Ancient Egg (Hinterlands 57.6,86.8) )	DUNGEON	0	One-Hand 503.2 Lifeforce Dirk (35.9 dps +11 Sta)
 1477	3446	Into the Depths	51	46	4900	0	DUN-normal		DUNGEON	0	
@@ -170,7 +170,7 @@
 1657	3792	Morrowgrain to Feathermoon Stronghold	55	47	560	0	LATER	behind 3791 The Mystery of Morrowgrain, which is left for round 3		0	
 1657	3803	Morrowgrain to Darnassus	55	47	560	0	LATER	behind 3785 Morrowgrain Research, which is left for round 3		0	
 1657	5091	A Call to Arms: The Plaguelands!	50	50	470	0	LATER	Western Plaguelands lead-in, required level 50: round 3		0	
-1657	4493	March of the Silithid	53	50	530	0	ASK	behind 162 Rise of the Silithid, which is your call		0	
+1657	4493	March of the Silithid	53	50	530	0	PLAIN			0	
 1657	4510	Calm Before the Storm	54	50	8150	0	OUT	chain behind 4508 Calm Before the Storm (chain behind 4507 Pawn Captures Queen (c)		0	Shoulder 24.0 Snarkshaw Spaulders (+12 Str +11 Sta)
 16591	95326	The Big Payback	39	36	3000	0	OUT	drop under 30%: Ruzzgot's Shipment 29.29% (drop_rates.json 11 Nov)	DROP	39	
 16591	95984	Song of the Strider	39	36	3000	0	OUT	drop under 30%: Intact Tallstrider Beak 15.56% (drop_rates.json 11 Nov)	DROP	38	
@@ -527,11 +527,11 @@
 406	80001	Rekindle	40	1	0	0	OUT	no XP, nothing kept behind it	NOXP	42	
 440	992	Gadgetzan Water Survey	46	38	3050	3500	PLAIN			0	
 440	2781	WANTED: Caliph Scorpidsting	46	39	5050	13000	PLAIN	Caliph Scorpidsting's Head 82.69% (drop_rates.json 11 Nov)	DROP	46	
-440	82	Noxious Lair Investigation	47	39	3150	5000	ASK	Centipaar Insect Parts 50.7% (six mob types) - XP only by rule 11, but it opens four more quests in Tanaris (10,980 XP) and the silithid chain into Un'Goro	DROP	50	
-440	10	The Scrimshank Redemption	48	39	4400	0	ASK	behind 82 Noxious Lair Investigation, which is your call		0	
-440	110	Insect Part Analysis	48	39	440	0	ASK	behind 10 The Scrimshank Redemption, which is your call		0	
-440	113	Insect Part Analysis	48	39	440	7000	ASK	behind 110 Insect Part Analysis, which is your call		0	
-440	162	Rise of the Silithid	49	39	5700	0	ASK	behind 113 Insect Part Analysis, which is your call		0	
+440	82	Noxious Lair Investigation	47	39	3150	5000	PLAIN	Centipaar Insect Parts 50.7% (six mob types), five needed, about 10 kills - kept as a plain step with the budget (Braedyn, 13 Nov), because four more Tanaris quests and the silithid chain hang on it	DROP	50	
+440	10	The Scrimshank Redemption	48	39	4400	0	PLAIN			0	
+440	110	Insect Part Analysis	48	39	440	0	PLAIN			0	
+440	113	Insect Part Analysis	48	39	440	7000	PLAIN			0	
+440	162	Rise of the Silithid	49	39	5700	0	PLAIN			0	
 440	1690	Wastewander Justice	43	40	3600	6000	PLAIN			42	
 440	1691	More Wastewander Justice	44	40	3750	6500	PLAIN			45	
 440	1707	Water Pouch Bounty	44	40	2800	0	PLAIN	Wastewander Water Pouch 33% - the two Wastewander Justice kill quests on the same mobs cover the budget (rule 12 clause)	DROP	45	
@@ -602,8 +602,8 @@
 46	4484	Libram of Voracity	55	50	0	0	OUT	no XP, nothing kept behind it	NOXP DROP	62	
 47	1450	Gryphon Master Talonaxe	43	38	890	0	PLAIN			0	
 47	1451	Rhapsody Shindigger	43	38	1800	0	PLAIN			0	
-47	1452	Rhapsody's Kalimdor Kocktail	43	38	3600	0	ASK	Roc Gizzard 5.9%, Ironfur Liver 24%, Groddoc Liver 26.7%, three of each (about 75 kills, 50 of them rocs): out by rule 12, but it gates Rhapsody's Tale and Into The Temple of Atal'Hakkar (7,100 XP dungeon quest)	DROP	50	
-47	1469	Rhapsody's Tale	43	38	2700	0	ASK	behind 1452 Rhapsody's Kalimdor Kocktail, which is your call		0	
+47	1452	Rhapsody's Kalimdor Kocktail	43	38	3600	0	PLAIN	required (Braedyn, 13 Nov), because Rhapsody's Tale and Into The Temple of Atal'Hakkar hang on it (13,400 XP with this quest). Three of each: Roc Gizzard 12% from plain Rocs (5.9% over all rocs), about 25 kills in Tanaris; Ironfur Liver 24%, about 12 bears, and Groddoc Liver 27%, about 11 apes, in Feralas	DROP	50	
+47	1469	Rhapsody's Tale	43	38	2700	0	PLAIN			0	
 47	2880	Troll Necklace Bounty	45	40	3900	6500	OUT	drop under 30%: Troll Tribal Necklace 28.9% (28 droppers, best Vilebranch Witch Doctor 51% of 35)	DROP	52	
 47	2881	Troll Necklace Bounty	45	40	0	0	OUT	chain behind 2880 Troll Necklace Bounty (drop under 30%: Troll Tribal Necklace 28)	NOXP DROP	52	
 47	2988	Witherbark Cages	45	40	3900	0	PLAIN			0	

@@ -3,7 +3,7 @@
 1707	PLAIN	Wastewander Water Pouch 33% - the two Wastewander Justice kill quests on the same mobs cover the budget (rule 12 clause)
 1878	OUT	repeatable follow-up of Water Pouch Bounty, 375 XP
 2875	PLAIN	Firebeard's Head 59% on a single named mob: one kill only, then abandon (rule 12)
-82	ASK	Centipaar Insect Parts 50.7% (six mob types) - XP only by rule 11, but it opens four more quests in Tanaris (10,980 XP) and the silithid chain into Un'Goro
+82	PLAIN	Centipaar Insect Parts 50.7% (six mob types), five needed, about 10 kills - kept as a plain step with the budget (Braedyn, 13 Nov), because four more Tanaris quests and the silithid chain hang on it
 7721	ASK	Water Elemental Core 55.5% - XP only unless Zorbin's Water Resistant Hat scores as an upgrade; opens Zapped Giants (elite giants)
 4141	OUT	Bloodpetal 35.3% - XP-only optional (rule 11); A Visit to Gregan, Haze of Evil and The Videre Elixir go with it
 4503	OUT	Webbed scales 33% - XP-only optional (Shizzle's Muzzle is a leather shoulder at level 50)
@@ -183,7 +183,7 @@
 7726	OUT	repeatable follow-up of Fuel for the Zapping, 560 XP
 4504	OUT	Super Sticky Tar 32.9% - XP-only optional (rule 11)
 4513	LATER	Un'Goro ooze samples for the Ironforge slime chain: round 3 with 4512
-1452	ASK	Roc Gizzard 5.9%, Ironfur Liver 24%, Groddoc Liver 26.7%, three of each (about 75 kills, 50 of them rocs): out by rule 12, but it gates Rhapsody's Tale and Into The Temple of Atal'Hakkar (7,100 XP dungeon quest)
+1452	PLAIN	required (Braedyn, 13 Nov), because Rhapsody's Tale and Into The Temple of Atal'Hakkar hang on it (13,400 XP with this quest). Three of each: Roc Gizzard 12% from plain Rocs (5.9% over all rocs), about 25 kills in Tanaris; Ironfur Liver 24%, about 12 bears, and Groddoc Liver 27%, about 11 apes, in Feralas
 2994	OUT	elite outside a dungeon (rule 13): Vile Priestess Hexx (51 elite) at the top of Jintha'Alor
 4787	OUT	the Ancient Egg (Hinterlands 57.6,86.8) is guarded by Hitah'ya the Keeper and Vilebranch Aman'zasi Guards (51 elite) - rule 13; it also needs The Prophecy of Mosh'aru
 96770	DUN-boss	Zum'rah's Head: one boss (two NPC ids), 28% on Wowhead over all kills
@@ -192,4 +192,4 @@
 713	JUDGE-OUT	level 37 Badlands leftover that wants Frost Oil (a crafted item); nothing kept behind it
 3372	OUT	behind Dwarven Justice (level 55, round 3) and its artifact is guarded by Twilight's Hammer Idolaters (51 elite)
 7044	DUN-boss	Celebrian Rod and Diamond: Noxxion 43% and Lord Vyletongue 38% on Wowhead over all kills
-5141	GATE	Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225; question 5
+5141	GATE	Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225; open point 5

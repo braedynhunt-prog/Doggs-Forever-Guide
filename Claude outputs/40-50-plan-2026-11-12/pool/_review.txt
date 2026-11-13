@@ -35,16 +35,7 @@
 4 93572 To Serve The Draenei L55 req45 xp 5650 | side not stated on Wowhead (none listed) or in the DB | best reward: Chest 0.0 Emerald Encrusted Chest [] no stats
 
 == ASK
-1477 1475 Into The Temple of Atal'Hakkar L50 req38 xp 7100 | behind 1469 Rhapsody's Tale, which is your call
-1657 4493 March of the Silithid L53 req50 xp 530 | behind 162 Rise of the Silithid, which is your call
 357 7721 Fuel for the Zapping L48 req45 xp 4400 | Water Elemental Core 55.5% - XP only unless Zorbin's Water Resistant Hat scores as an upgrade; opens Zapped Giants (elite giants) | best reward: Head 43.7 Zorbin's Water Resistant Hat [Leather] +9 Sta +14 Int +8 Spi
-440 10 The Scrimshank Redemption L48 req39 xp 4400 | behind 82 Noxious Lair Investigation, which is your call
-440 82 Noxious Lair Investigation L47 req39 xp 3150 | Centipaar Insect Parts 50.7% (six mob types) - XP only by rule 11, but it opens four more quests in Tanaris (10,980 XP) and the silithid chain into Un'Goro
-440 110 Insect Part Analysis L48 req39 xp 440 | behind 10 The Scrimshank Redemption, which is your call
-440 113 Insect Part Analysis L48 req39 xp 440 | behind 110 Insect Part Analysis, which is your call
-440 162 Rise of the Silithid L49 req39 xp 5700 | behind 113 Insect Part Analysis, which is your call
-47 1452 Rhapsody's Kalimdor Kocktail L43 req38 xp 3600 | Roc Gizzard 5.9%, Ironfur Liver 24%, Groddoc Liver 26.7%, three of each (about 75 kills, 50 of them rocs): out by rule 12, but it gates Rhapsody's Tale and Into The Temple of Atal'Hakkar (7,100 XP dungeon quest)
-47 1469 Rhapsody's Tale L43 req38 xp 2700 | behind 1452 Rhapsody's Kalimdor Kocktail, which is your call
 
 == COND
 16 86747 Legashi Horns L53 req47 xp 530 | no giver in the DB or on Wowhead (ends at Ekkal, Azshara 42.0,38.9): taken if it is offered or drops
@@ -77,7 +68,7 @@
 == GATE
 -101 6607 Nat Pagle, Angler Extreme L45 req35 xp 3900 | Artisan Fishing: Nat Pagle, only at Fishing 225
 -101 6609 I Got Nothin' Left! L45 req35 xp 970 | lead-in to Nat Pagle, only at Fishing 225
--182 5141 Dragonscale Leatherworking L55 req40 xp 4200 | Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225; question 5
+-182 5141 Dragonscale Leatherworking L55 req40 xp 4200 | Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225; open point 5
 
 == GROUP-OPT
 3 717 Tremors of the Earth L50 req40 xp 5900 | elite outside a dungeon (rule 13): Blacklash (50 elite), Hematus (50 elite); kept optional for the Prismscale Hauberk (mail chest, scores 64.3 on the level-40 band) | best reward: Chest 64.3 Prismscale Hauberk [Mail] +3 Sta +4 Int +23 Spi

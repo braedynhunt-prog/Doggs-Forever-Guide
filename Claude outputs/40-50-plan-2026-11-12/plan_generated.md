@@ -11,16 +11,16 @@
 | 46 | Tanaris I | 43 | 16 | 46,085 | 7g 15s | 43.2 | 43.8 | 40 | 0 |
 | 47 | Feralas I | 43 | 14 | 27,475 | 1g 75s | 43.8 | 44.2 | 40 | 3,450 |
 | 48 | Zul'Farrak (dungeon) | 45 | 10 | 36,750 | 3g 30s | 44.2 | 44.7 | 40 | 11,000 |
-| 49 | Powderfuse return and the Hinterlands | 45 | 16 | 43,000 | 1g 20s | 44.7 | 45.3 | 45 | 6,300 |
-| 50 | Searing Gorge | 46 | 11 | 41,610 | 6g 35s | 45.3 | 45.8 | 45 | 0 |
-| 51 | Stranglethorn: the Cape | 46 | 7 | 31,600 | 00s | 45.8 | 46.2 | 45 | 3,600 |
-| 52 | Feralas II | 46 | 16 | 45,995 | 00s | 46.2 | 46.8 | 46 | 9,100 |
-| 53 | Maraudon (dungeon) | 48 | 6 | 32,000 | 2g 90s | 46.8 | 47.2 | 45 | 8,700 |
-| 54 | Tanaris II and Uldum | 47 | 12 | 53,550 | 1g 25s | 47.2 | 47.8 | 46 | 14,130 |
-| 55 | Azshara | 47 | 20 | 82,320 | 6g 08s | 47.8 | 48.8 | 47 | 68,550 |
-| 56 | Un'Goro Crater | 49 | 19 | 80,780 | 2g 45s | 48.8 | 49.7 | 50 | 5,650 |
-| 57 | Level 50: Ironforge | 50 | 3 | 12,770 | 2g 20s | 49.7 | 49.8 | 45 | 0 |
-| | **total** | | 177 | **610,790** | 40g 43s | 42.0 | **49.8** | | 156,030 |
+| 49 | Powderfuse return and the Hinterlands | 45 | 18 | 49,300 | 1g 20s | 44.7 | 45.4 | 45 | 0 |
+| 50 | Searing Gorge | 46 | 11 | 41,610 | 6g 35s | 45.4 | 45.9 | 45 | 0 |
+| 51 | Stranglethorn: the Cape | 46 | 7 | 31,600 | 00s | 45.9 | 46.3 | 45 | 3,600 |
+| 52 | Feralas II | 46 | 16 | 45,995 | 00s | 46.3 | 46.9 | 46 | 9,100 |
+| 53 | Maraudon (dungeon) | 48 | 6 | 32,000 | 2g 90s | 46.9 | 47.3 | 45 | 8,700 |
+| 54 | Tanaris II and Uldum | 47 | 17 | 67,680 | 2g 45s | 47.3 | 48.1 | 46 | 0 |
+| 55 | Azshara | 47 | 20 | 82,320 | 6g 08s | 48.1 | 49.0 | 47 | 68,550 |
+| 56 | Un'Goro Crater | 49 | 19 | 80,780 | 2g 45s | 49.0 | 49.9 | 50 | 5,650 |
+| 57 | Level 50: Ironforge | 50 | 3 | 12,770 | 2g 20s | 49.9 | 50.0 | 45 | 0 |
+| | **total** | | 184 | **631,220** | 41g 63s | 42.0 | **50.0** | | 135,600 |
 
 ## Chapters
 
@@ -60,7 +60,7 @@ Required dungeon chapter, one run. The DB has no mob levels, ranks or positions 
 
 File `44_Badlands.lua`, title `[N 42-43 Badlands]`. Wants level **42**; predicted 42.6 -> 42.8. 6 required quests, 12,790 XP, 50s; optional 11,350 XP.
 
-From Ironforge: fly Thelsamar, ride into the Badlands for the level 40-43 leftovers (Tremors of the Earth is Boss Tho'grun, Normal on Wowhead; its follow-up against Blacklash and Hematus is the one elite quest kept, optional, for the Prismscale Hauberk), then Ironforge - Aerie Peak for Falstad's hand-in and the first Hinterlands pickups. Artisan Leatherworking at Drakk Stonehand (skill 200, 5g) falls here if the skill is there. Whether the trip to Aerie Peak waits for chapter 49 depends on question 3 (the Kalimdor Kocktail).
+From Ironforge: fly Thelsamar, ride into the Badlands for the level 40-43 leftovers (Tremors of the Earth is Boss Tho'grun, Normal on Wowhead; its follow-up against Blacklash and Hematus is the one elite quest kept, optional, for the Prismscale Hauberk), then Ironforge - Aerie Peak for Falstad's hand-in and the first Hinterlands pickups. Artisan Leatherworking at Drakk Stonehand (skill 200, 5g) falls here if the skill is there. Rhapsody's Kalimdor Kocktail is picked up here so its gizzards and livers can be collected in Tanaris and Feralas.
 
 **Required:**
 - 708 The Black Box (L40, req 30) 2,350
@@ -100,7 +100,7 @@ Stormwind hand-ins from the Riverglades, Brohann Caskbelly's In Search of The Te
 
 File `46_TanarisI.lua`, title `[N 43-44 Tanaris]`. Wants level **43**; predicted 43.2 -> 43.8. 16 required quests, 46,085 XP, 7g 15s; optional 0 XP.
 
-Gadgetzan and Steamwheedle Port, quest levels 40-46. Gadgetzan's flight point is not known yet: the first trip is by road from Ratchet through the Barrens and the Shimmering Flats (the Great Lift was used in chapter 39; the road is unverified). Bind at Gadgetzan. Friz's Steamwheedle chain, the Wastewander and Southsea quests, the two WANTED posters, and the Screecher Spirits pickup for Feralas. Artisan Cooking (Clamlette Surprise at Dirge Quikcleave, Cooking 225, level 35) is a gate stop here.
+Gadgetzan and Steamwheedle Port, quest levels 40-46. Gadgetzan's flight point is not known yet: the first trip is by road from Ratchet through the Barrens and the Shimmering Flats (the Great Lift was used in chapter 39; the road is unverified). Bind at Gadgetzan. Friz's Steamwheedle chain, the Wastewander and Southsea quests, the two WANTED posters, the Screecher Spirits pickup for Feralas, and about 25 Rocs for Rhapsody's three gizzards. Artisan Cooking (Clamlette Surprise at Dirge Quikcleave, Cooking 225, level 35) is a gate stop here.
 
 **Required:**
 - 95296 Shipping and Handling (L40, req 36) 315
@@ -124,7 +124,7 @@ Gadgetzan and Steamwheedle Port, quest levels 40-46. Gadgetzan's flight point is
 
 File `47_FeralasI.lua`, title `[N 43-45 Feralas]`. Wants level **43**; predicted 43.8 -> 44.2. 14 required quests, 27,475 XP, 1g 75s; optional 3,450 XP.
 
-Feathermoon Stronghold, quest levels 41-45. First trip by road: Gadgetzan - Thousand Needles - Thalanaar (flight point) - through Feralas to the Forgotten Coast boat (unverified). The naga and Gordunni quests, the Missing Courier chain, OOX-22/FE, Friz's delivery and the screecher spirits. It comes before Zul'Farrak because The Prophecy of Mosh'aru needs Screecher Spirits handed in first.
+Feathermoon Stronghold, quest levels 41-45. First trip by road: Gadgetzan - Thousand Needles - Thalanaar (flight point) - through Feralas to the Forgotten Coast boat (unverified). The naga and Gordunni quests, the Missing Courier chain, OOX-22/FE, Friz's delivery, the screecher spirits, and the Ironfur bears and Groddoc apes for Rhapsody's livers. It comes before Zul'Farrak because The Prophecy of Mosh'aru needs Screecher Spirits handed in first.
 
 **Required:**
 - 2982 The High Wilderness (L44, req 39) 3,750 [mobs to 45]
@@ -169,14 +169,16 @@ Required dungeon chapter, one run: Thalanaar - Gadgetzan by flight, Screecher Sp
 
 ### 49 Powderfuse return and the Hinterlands
 
-File `49_Hinterlands.lua`, title `[N 44-46 The Hinterlands]`. Wants level **45**; predicted 44.7 -> 45.3. 16 required quests, 43,000 XP, 1g 20s; optional 6,300 XP.
+File `49_Hinterlands.lua`, title `[N 44-46 The Hinterlands]`. Wants level **45**; predicted 44.7 -> 45.4. 18 required quests, 49,300 XP, 1g 20s; optional 0 XP.
 
-Back east: Gadgetzan - Theramore by flight, the Menethil boat, Ironforge for the level 44 training row and the Uldum and Tymor pickups at the Explorers' League. Farholde Keep by flight from Thelsamar and the ride to Powderfuse Port for Friz's two hand-ins and the Booty Bay parcel, then Aerie Peak. Both Jintha'Alor quests are out: Vile Priestess Hexx and the Ancient Egg's guards are level 51 elites in the DB.
+Back east: Gadgetzan - Theramore by flight, the Menethil boat, Ironforge for the level 44 training row and the Uldum and Tymor pickups at the Explorers' League. Farholde Keep by flight from Thelsamar and the ride to Powderfuse Port for Friz's two hand-ins and the Booty Bay parcel, then Aerie Peak: Rhapsody's Kocktail is handed in and Rhapsody's Tale goes to Brohann Caskbelly in Stormwind on the next tram trip, where Into The Temple of Atal'Hakkar is taken for round 3. Both Jintha'Alor quests are out: Vile Priestess Hexx and the Ancient Egg's guards are level 51 elites in the DB.
 
 **Required:**
 - 95327 All's Well That Ends Well (L40, req 36) 3,150
 - 95472 Consolation Prize (L40, req 36) 2,350
 - 97332 Twice Misplaced Trust (L41, req 36) 3,300
+- 1452 Rhapsody's Kalimdor Kocktail (L43, req 38) 3,600 - required (Braedyn, 13 Nov), because Rhapsody's Tale and Into The Temple of Atal'Hakkar hang on it (13,400 XP with this quest). Three of each: Roc Gizzard 12% from plain Rocs (5.9% over all rocs), about 25 kills in Tanaris; Ironfur Liver 24%, about 12 bears, and Groddoc Liver 27%, about 11 apes, in Feralas [mobs to 50]
+- 1469 Rhapsody's Tale (L43, req 38) 2,700
 - 2988 Witherbark Cages (L45, req 40) 3,900
 - 2990 Thadius Grimshade (L47, req 40) 2,100
 - 2992 The Divination (L47, req 40) 1,050 [mobs to 50]
@@ -191,15 +193,11 @@ Back east: Gadgetzan - Theramore by flight, the Menethil boat, Ironforge for the
 - 3450 An Easy Pickup (L52, req 45) 510
 - 3451 Signal for Pickup (L52, req 45) 510
 
-**Optional / conditional:**
-- 1452 Rhapsody's Kalimdor Kocktail (L43, req 38) 3,600 [your call] - Roc Gizzard 5.9%, Ironfur Liver 24%, Groddoc Liver 26.7%, three of each (about 75 kills, 50 of them rocs): out by rule 12, but it gates Rhapsody's Tale and Into The Temple of Atal'Hakkar (7,100 XP dungeon quest)
-- 1469 Rhapsody's Tale (L43, req 38) 2,700 [your call] - behind 1452 Rhapsody's Kalimdor Kocktail, which is your call
-
 Level check: 86616 needs 45, 2963 needs 45, 3448 needs 45, 3450 needs 45, 3451 needs 45; predicted entry 44.7.
 
 ### 50 Searing Gorge
 
-File `50_SearingGorge.lua`, title `[N 45-46 Searing Gorge]`. Wants level **46**; predicted 45.3 -> 45.8. 11 required quests, 41,610 XP, 6g 35s; optional 0 XP.
+File `50_SearingGorge.lua`, title `[N 45-46 Searing Gorge]`. Wants level **46**; predicted 45.4 -> 45.9. 11 required quests, 41,610 XP, 6g 35s; optional 0 XP.
 
 Thorium Point's flight point is not known: the first trip is on foot (which pass is open on Forever is unverified). The board and Thorium Brotherhood quests with normal targets, the Suntara Stones, and Caught! / The Key to Freedom. The Kalaran Windblade chain stops where its targets turn elite.
 
@@ -218,7 +216,7 @@ Thorium Point's flight point is not known: the first trip is on foot (which pass
 
 ### 51 Stranglethorn: the Cape
 
-File `51_StranglethornCape.lua`, title `[N 45-47 Stranglethorn Vale]`. Wants level **46**; predicted 45.8 -> 46.2. 7 required quests, 31,600 XP, 00s; optional 3,600 XP.
+File `51_StranglethornCape.lua`, title `[N 45-47 Stranglethorn Vale]`. Wants level **46**; predicted 45.9 -> 46.3. 7 required quests, 31,600 XP, 00s; optional 3,600 XP.
 
 Booty Bay again on the way to Kalimdor: The Bloodsail Buccaneers (the captains run to level 48), Stranglethorn Fever (Mokk the Savage, Normal on Wowhead), Cortello's Riddle, Whiskey Slim's Lost Grog and Message in a Bottle, then the Ratchet boat. Where Cortello's later clues lie, and whether they fit this pass, is for the spec.
 
@@ -236,7 +234,7 @@ Booty Bay again on the way to Kalimdor: The Bloodsail Buccaneers (the captains r
 
 ### 52 Feralas II
 
-File `52_FeralasII.lua`, title `[N 46-47 Feralas]`. Wants level **46**; predicted 46.2 -> 46.8. 16 required quests, 45,995 XP, 00s; optional 9,100 XP.
+File `52_FeralasII.lua`, title `[N 46-47 Feralas]`. Wants level **46**; predicted 46.3 -> 46.9. 16 required quests, 45,995 XP, 00s; optional 9,100 XP.
 
 Feathermoon by flight now (Ratchet - Theramore - Thalanaar - Feathermoon). Quest levels 46-51: the Writhing Deep, the Sprite Darter chain (it ends in Darnassus, Thousand Needles and the Hinterlands: the spec says how far it goes here), the Feathermoon library errands, the wandering giants, and The Sunken Temple lead-in for Tanaris.
 
@@ -264,7 +262,7 @@ Feathermoon by flight now (Ratchet - Theramore - Thalanaar - Feathermoon). Quest
 
 ### 53 Maraudon (dungeon)
 
-File `53_Maraudon.lua`, title `[N 46-48 Maraudon]`. Wants level **48**; predicted 46.8 -> 47.2. 6 required quests, 32,000 XP, 2g 90s; optional 8,700 XP.
+File `53_Maraudon.lua`, title `[N 46-48 Maraudon]`. Wants level **48**; predicted 46.9 -> 47.3. 6 required quests, 32,000 XP, 2g 90s; optional 8,700 XP.
 
 Required dungeon chapter, entered from Desolace (Feathermoon - Nijel's Point flight). Mobs inside are level 43-51 in the DB, so it sits at 47-48 and the spec decides whether the outer wings and the inner falls are one run or two, the way Scarlet Monastery was split. The Shadowshard Fragments (46%) and the Theradric Crystal Carvings (27%) are collections and are grind / luck.
 
@@ -282,11 +280,16 @@ Required dungeon chapter, entered from Desolace (Feathermoon - Nijel's Point fli
 
 ### 54 Tanaris II and Uldum
 
-File `54_TanarisII.lua`, title `[N 47-48 Tanaris]`. Wants level **47**; predicted 47.2 -> 47.8. 12 required quests, 53,550 XP, 1g 25s; optional 14,130 XP.
+File `54_TanarisII.lua`, title `[N 47-49 Tanaris]`. Wants level **47**; predicted 47.3 -> 48.1. 17 required quests, 67,680 XP, 2g 45s; optional 0 XP.
 
-Gadgetzan by flight (Nijel's Point - Theramore - Gadgetzan). Quest levels 47-51: the Dunemaul compound (Gor'marok, Normal on Wowhead), Thistleshrub Valley, the Gahz'ridian ornaments, Tooga, OOX-17/TN, the egg-o-matic, The Stone Circle, and the Uldum pedestal for the Explorers' League chain. The silithid chain (Noxious Lair Investigation and the four quests behind it) is question 2.
+Gadgetzan by flight (Nijel's Point - Theramore - Gadgetzan). Quest levels 47-51: the Dunemaul compound (Gor'marok, Normal on Wowhead), Thistleshrub Valley, the Gahz'ridian ornaments, Tooga, OOX-17/TN, the egg-o-matic, The Stone Circle, and the Uldum pedestal for the Explorers' League chain. The silithid chain starts with Noxious Lair Investigation (five insect parts at 51%, about ten kills).
 
 **Required:**
+- 82 Noxious Lair Investigation (L47, req 39) 3,150 - Centipaar Insect Parts 50.7% (six mob types), five needed, about 10 kills - kept as a plain step with the budget (Braedyn, 13 Nov), because four more Tanaris quests and the silithid chain hang on it [mobs to 50]
+- 10 The Scrimshank Redemption (L48, req 39) 4,400
+- 110 Insect Part Analysis (L48, req 39) 440
+- 113 Insect Part Analysis (L48, req 39) 440
+- 162 Rise of the Silithid (L49, req 39) 5,700
 - 1560 Tooga's Quest (L50, req 40) 5,900 [mobs to 45]
 - 97540 Oasis (L50, req 40) 3,550
 - 2741 The Super Egg-O-Matic (L47, req 42) 4,200
@@ -300,16 +303,9 @@ Gadgetzan by flight (Nijel's Point - Theramore - Gadgetzan). Quest levels 47-51:
 - 3362 Thistleshrub Valley (L50, req 45) 4,700 [mobs to 50]
 - 3444 The Stone Circle (L51, req 46) 4,900
 
-**Optional / conditional:**
-- 82 Noxious Lair Investigation (L47, req 39) 3,150 [your call] - Centipaar Insect Parts 50.7% (six mob types) - XP only by rule 11, but it opens four more quests in Tanaris (10,980 XP) and the silithid chain into Un'Goro
-- 10 The Scrimshank Redemption (L48, req 39) 4,400 [your call] - behind 82 Noxious Lair Investigation, which is your call
-- 110 Insect Part Analysis (L48, req 39) 440 [your call] - behind 10 The Scrimshank Redemption, which is your call
-- 113 Insect Part Analysis (L48, req 39) 440 [your call] - behind 110 Insect Part Analysis, which is your call
-- 162 Rise of the Silithid (L49, req 39) 5,700 [your call] - behind 113 Insect Part Analysis, which is your call
-
 ### 55 Azshara
 
-File `55_Azshara.lua`, title `[N 47-49 Azshara]`. Wants level **47**; predicted 47.8 -> 48.8. 20 required quests, 82,320 XP, 6g 08s; optional 68,550 XP.
+File `55_Azshara.lua`, title `[N 48-50 Azshara]`. Wants level **47**; predicted 48.1 -> 49.0. 20 required quests, 82,320 XP, 6g 08s; optional 68,550 XP.
 
 Talrendis Point, new on Forever; its flight point is not known, so the first trip is by road from Astranaar (unverified). Quest levels 47-55. The Talrendis, coast and Ravencrest quests are in QuestieDB with Alliance givers. The two furbolg chains at Ursolan (15 quests) are not in QuestieDB and their Wowhead pages state no side: they are listed as conditional and not counted. Tymor's Arcane Runes and the Dragonscale Leatherworking quest at Peter Galen (37.6,65.4; Leatherworking 225) are done here.
 
@@ -336,7 +332,7 @@ Talrendis Point, new on Forever; its flight point is not known, so the first tri
 - 89470 Ill Tidings (L55, req 47) 2,800
 
 **Optional / conditional:**
-- 5141 Dragonscale Leatherworking (L55, req 40) 4,200 [gate] - Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225; question 5
+- 5141 Dragonscale Leatherworking (L55, req 40) 4,200 [gate] - Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225; open point 5
 - 86747 Legashi Horns (L53, req 47) 530 [conditional] - no giver in the DB or on Wowhead (ends at Ekkal, Azshara 42.0,38.9): taken if it is offered or drops
 - 86752 Report to Rageroar (L53, req 47) 530 [conditional] - Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
 - 86777 Master Feardred (L53, req 47) 5,250 [conditional] - Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
@@ -357,9 +353,9 @@ Talrendis Point, new on Forever; its flight point is not known, so the first tri
 
 ### 56 Un'Goro Crater
 
-File `56_UnGoro.lua`, title `[N 48-50 Un'Goro Crater]`. Wants level **49**; predicted 48.8 -> 49.7. 19 required quests, 80,780 XP, 2g 45s; optional 5,650 XP.
+File `56_UnGoro.lua`, title `[N 49-50 Un'Goro Crater]`. Wants level **49**; predicted 49.0 -> 49.9. 19 required quests, 80,780 XP, 2g 45s; optional 5,650 XP.
 
-Marshal's Refuge, reached on foot from Gadgetzan (flight point taken there). The stretch chapter: its quests are level 50-55 and several run to level 54-55 mobs. The pylons, It's a Secret to Everybody, the journal and crate finds and the Lar'korwi quests are placed first; the level 50 pickups come last. If he is under 49 on arrival, the Ursolan chains and the two chains from questions 2 and 3 come first.
+Marshal's Refuge, reached on foot from Gadgetzan (flight point taken there). The stretch chapter: its quests are level 50-55 and several run to level 54-55 mobs. The pylons, It's a Secret to Everybody, the journal and crate finds and the Lar'korwi quests are placed first; the level 50 pickups come last. If he is under 49 on arrival, the Ursolan chains in Azshara come first.
 
 **Required:**
 - 3844 It's a Secret to Everybody (L52, req 47) 1,250
@@ -385,11 +381,11 @@ Marshal's Refuge, reached on foot from Gadgetzan (flight point taken there). The
 **Optional / conditional:**
 - 87494 Microcrystal Contamination (L55, req 45) 5,650 [conditional] - no giver in the DB or on Wowhead (ends at Torwa Pathfinder)
 
-Level check: 3882 needs 49, 4501 needs 49, 4491 needs 50, 4492 needs 50, 87492 needs 50; predicted entry 48.8.
+Level check: 4491 needs 50, 4492 needs 50, 87492 needs 50; predicted entry 49.0.
 
 ### 57 Level 50: Ironforge
 
-File `57_Level50.lua`, title `[N 49-50 Ironforge]`. Wants level **50**; predicted 49.7 -> 49.8. 3 required quests, 12,770 XP, 2g 20s; optional 0 XP.
+File `57_Level50.lua`, title `[N 49-51 Ironforge]`. Wants level **50**; predicted 49.9 -> 50.0. 3 required quests, 12,770 XP, 2g 20s; optional 0 XP.
 
 Closing stop of the round: the level 46, 48 and 50 training rows not yet bought, the Explorers' League hand-ins for the Uldum and Tymor chains, the profession ranks still open, and a check with Eldrun for a level-50 class quest (the Classic ones are Horde-side on Wowhead).
 
