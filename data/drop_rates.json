@@ -12101,6 +12101,771 @@
    ],
    "overall_pct": 86.8
   },
+  "7075": {
+   "name": "Core of Earth",
+   "quests": [
+    5144,
+    5146
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 2736,
+     "name": "Greater Rock Elemental",
+     "count": 12,
+     "outof": 1072
+    },
+    {
+     "id": 2791,
+     "name": "Enraged Rock Elemental",
+     "count": 6,
+     "outof": 638
+    },
+    {
+     "id": 2919,
+     "name": "Fam'retor Guardian",
+     "count": 1,
+     "outof": 53
+    },
+    {
+     "id": 5465,
+     "name": "Land Rager",
+     "count": 1,
+     "outof": 11
+    },
+    {
+     "id": 9025,
+     "name": "Lord Roccor",
+     "count": 1,
+     "outof": 21,
+     "elite": true
+    },
+    {
+     "id": 9396,
+     "name": "Ground Pounder",
+     "count": 2,
+     "outof": 17
+    },
+    {
+     "id": 11777,
+     "name": "Shadowshard Rumbler",
+     "count": 2,
+     "outof": 185,
+     "elite": true
+    },
+    {
+     "id": 11782,
+     "name": "Ambershard Destroyer",
+     "count": 1,
+     "outof": 24,
+     "elite": true
+    },
+    {
+     "id": 11783,
+     "name": "Theradrim Shardling",
+     "count": 18,
+     "outof": 468
+    },
+    {
+     "id": 11784,
+     "name": "Theradrim Guardian",
+     "count": 3,
+     "outof": 101,
+     "elite": true
+    },
+    {
+     "id": 12203,
+     "name": "Landslide",
+     "count": 4,
+     "outof": 135,
+     "elite": true
+    },
+    {
+     "id": 11746,
+     "name": "Desert Rumbler",
+     "count": 10387,
+     "outof": 213856
+    },
+    {
+     "id": 11988,
+     "name": "Golemagg the Incinerator",
+     "count": 3577,
+     "outof": 56053,
+     "elite": true
+    },
+    {
+     "id": 12057,
+     "name": "Garr",
+     "count": 3250,
+     "outof": 52911,
+     "elite": true
+    },
+    {
+     "id": 11665,
+     "name": "Lava Annihilator",
+     "count": 2138,
+     "outof": 163265,
+     "elite": true
+    },
+    {
+     "id": 12101,
+     "name": "Lava Surger",
+     "count": 1649,
+     "outof": 96403,
+     "elite": true
+    },
+    {
+     "id": 12076,
+     "name": "Lava Elemental",
+     "count": 1183,
+     "outof": 123869,
+     "elite": true
+    },
+    {
+     "id": 7032,
+     "name": "Greater Obsidian Elemental",
+     "count": 920,
+     "outof": 17788
+    },
+    {
+     "id": 11658,
+     "name": "Molten Giant",
+     "count": 624,
+     "outof": 64365,
+     "elite": true
+    },
+    {
+     "id": 14462,
+     "name": "Thundering Invader",
+     "count": 581,
+     "outof": 12125
+    },
+    {
+     "id": 12100,
+     "name": "Lava Reaver",
+     "count": 570,
+     "outof": 63064,
+     "elite": true
+    },
+    {
+     "id": 11659,
+     "name": "Molten Destroyer",
+     "count": 365,
+     "outof": 85325,
+     "elite": true
+    },
+    {
+     "id": 7031,
+     "name": "Obsidian Elemental",
+     "count": 317,
+     "outof": 6112
+    },
+    {
+     "id": 15307,
+     "name": "Earthen Templar",
+     "count": 304,
+     "outof": 7369,
+     "elite": true
+    },
+    {
+     "id": 15208,
+     "name": "The Duke of Shards",
+     "count": 171,
+     "outof": 1923,
+     "elite": true
+    },
+    {
+     "id": 7136,
+     "name": "Infernal Sentry",
+     "count": 109,
+     "outof": 2317,
+     "elite": true
+    },
+    {
+     "id": 11778,
+     "name": "Shadowshard Smasher",
+     "count": 91,
+     "outof": 16622,
+     "elite": true
+    },
+    {
+     "id": 15205,
+     "name": "Baron Kazum",
+     "count": 82,
+     "outof": 972,
+     "elite": true
+    },
+    {
+     "id": 11747,
+     "name": "Desert Rager",
+     "count": 66,
+     "outof": 1556
+    },
+    {
+     "id": 14464,
+     "name": "Avalanchion",
+     "count": 65,
+     "outof": 100,
+     "elite": true
+    },
+    {
+     "id": 7135,
+     "name": "Infernal Bodyguard",
+     "count": 46,
+     "outof": 927,
+     "elite": true
+    },
+    {
+     "id": 2755,
+     "name": "Myzrael",
+     "count": 41,
+     "outof": 1635,
+     "elite": true
+    },
+    {
+     "id": 9016,
+     "name": "Bael'Gar",
+     "count": 38,
+     "outof": 4804,
+     "elite": true
+    },
+    {
+     "id": 11781,
+     "name": "Ambershard Crusher",
+     "count": 34,
+     "outof": 3166,
+     "elite": true
+    },
+    {
+     "id": 10119,
+     "name": "Volchan",
+     "count": 33,
+     "outof": 1457,
+     "elite": true
+    },
+    {
+     "id": 9938,
+     "name": "Magmus",
+     "count": 19,
+     "outof": 2377,
+     "elite": true
+    },
+    {
+     "id": 8278,
+     "name": "Smoldar",
+     "count": 16,
+     "outof": 408
+    },
+    {
+     "id": 7137,
+     "name": "Immolatus",
+     "count": 15,
+     "outof": 354,
+     "elite": true
+    },
+    {
+     "id": 2752,
+     "name": "Rumbler",
+     "count": 8,
+     "outof": 504
+    }
+   ],
+   "overall_pct": 2.7
+  },
+  "7077": {
+   "name": "Heart of Fire",
+   "quests": [
+    5144,
+    5146
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 5850,
+     "name": "Blazing Elemental",
+     "count": 2,
+     "outof": 34
+    },
+    {
+     "id": 5852,
+     "name": "Inferno Elemental",
+     "count": 5,
+     "outof": 72
+    },
+    {
+     "id": 5855,
+     "name": "Magma Elemental",
+     "count": 2,
+     "outof": 141
+    },
+    {
+     "id": 6520,
+     "name": "Scorching Elemental",
+     "count": 12,
+     "outof": 81
+    },
+    {
+     "id": 6521,
+     "name": "Living Blaze",
+     "count": 5,
+     "outof": 75
+    },
+    {
+     "id": 8909,
+     "name": "Fireguard",
+     "count": 3,
+     "outof": 13,
+     "elite": true
+    },
+    {
+     "id": 8910,
+     "name": "Blazing Fireguard",
+     "count": 2,
+     "outof": 38,
+     "elite": true
+    },
+    {
+     "id": 8911,
+     "name": "Fireguard Destroyer",
+     "count": 4,
+     "outof": 36,
+     "elite": true
+    },
+    {
+     "id": 9017,
+     "name": "Lord Incendius",
+     "count": 1,
+     "outof": 25,
+     "elite": true
+    },
+    {
+     "id": 9156,
+     "name": "Ambassador Flamelash",
+     "count": 1,
+     "outof": 23,
+     "elite": true
+    },
+    {
+     "id": 9878,
+     "name": "Entropic Beast",
+     "count": 5,
+     "outof": 17
+    },
+    {
+     "id": 9879,
+     "name": "Entropic Horror",
+     "count": 3,
+     "outof": 23
+    },
+    {
+     "id": 272318,
+     "name": "Living Blaze",
+     "count": 1,
+     "outof": 5,
+     "elite": true
+    },
+    {
+     "id": 12056,
+     "name": "Baron Geddon",
+     "count": 4152,
+     "outof": 55383,
+     "elite": true
+    },
+    {
+     "id": 11988,
+     "name": "Golemagg the Incinerator",
+     "count": 3653,
+     "outof": 56053,
+     "elite": true
+    },
+    {
+     "id": 12118,
+     "name": "Lucifron",
+     "count": 3617,
+     "outof": 58647,
+     "elite": true
+    },
+    {
+     "id": 12098,
+     "name": "Sulfuron Harbinger",
+     "count": 3507,
+     "outof": 56215,
+     "elite": true
+    },
+    {
+     "id": 12259,
+     "name": "Gehennas",
+     "count": 3351,
+     "outof": 53744,
+     "elite": true
+    },
+    {
+     "id": 12264,
+     "name": "Shazzrah",
+     "count": 3169,
+     "outof": 49534,
+     "elite": true
+    },
+    {
+     "id": 11668,
+     "name": "Firelord",
+     "count": 1690,
+     "outof": 117437,
+     "elite": true
+    },
+    {
+     "id": 11667,
+     "name": "Flameguard",
+     "count": 825,
+     "outof": 80954,
+     "elite": true
+    },
+    {
+     "id": 11666,
+     "name": "Firewalker",
+     "count": 705,
+     "outof": 76446,
+     "elite": true
+    },
+    {
+     "id": 11658,
+     "name": "Molten Giant",
+     "count": 613,
+     "outof": 64365,
+     "elite": true
+    },
+    {
+     "id": 14460,
+     "name": "Blazing Invader",
+     "count": 603,
+     "outof": 12313
+    },
+    {
+     "id": 11659,
+     "name": "Molten Destroyer",
+     "count": 389,
+     "outof": 85325,
+     "elite": true
+    },
+    {
+     "id": 11664,
+     "name": "Flamewaker Elite",
+     "count": 335,
+     "outof": 15140,
+     "elite": true
+    },
+    {
+     "id": 9816,
+     "name": "Pyroguard Emberseer",
+     "count": 308,
+     "outof": 37427,
+     "elite": true
+    },
+    {
+     "id": 11663,
+     "name": "Flamewaker Healer",
+     "count": 291,
+     "outof": 11164,
+     "elite": true
+    },
+    {
+     "id": 15209,
+     "name": "Crimson Templar",
+     "count": 272,
+     "outof": 6692,
+     "elite": true
+    },
+    {
+     "id": 9026,
+     "name": "Overmaster Pyron",
+     "count": 260,
+     "outof": 5395,
+     "elite": true
+    },
+    {
+     "id": 15206,
+     "name": "The Duke of Cynders",
+     "count": 225,
+     "outof": 2143,
+     "elite": true
+    },
+    {
+     "id": 11662,
+     "name": "Flamewaker Priest",
+     "count": 198,
+     "outof": 10025,
+     "elite": true
+    },
+    {
+     "id": 12119,
+     "name": "Flamewaker Protector",
+     "count": 127,
+     "outof": 6552,
+     "elite": true
+    },
+    {
+     "id": 9376,
+     "name": "Blazerunner",
+     "count": 122,
+     "outof": 2036,
+     "elite": true
+    },
+    {
+     "id": 11661,
+     "name": "Flamewaker",
+     "count": 118,
+     "outof": 5086,
+     "elite": true
+    },
+    {
+     "id": 15203,
+     "name": "Prince Skaldrenox",
+     "count": 101,
+     "outof": 1050,
+     "elite": true
+    },
+    {
+     "id": 9016,
+     "name": "Bael'Gar",
+     "count": 66,
+     "outof": 4804,
+     "elite": true
+    },
+    {
+     "id": 14461,
+     "name": "Baron Charr",
+     "count": 65,
+     "outof": 88,
+     "elite": true
+    },
+    {
+     "id": 10119,
+     "name": "Volchan",
+     "count": 36,
+     "outof": 1457,
+     "elite": true
+    },
+    {
+     "id": 2745,
+     "name": "Ambassador Infernus",
+     "count": 25,
+     "outof": 1871,
+     "elite": true
+    },
+    {
+     "id": 9938,
+     "name": "Magmus",
+     "count": 18,
+     "outof": 2377,
+     "elite": true
+    },
+    {
+     "id": 8281,
+     "name": "Scald",
+     "count": 8,
+     "outof": 139
+    }
+   ],
+   "overall_pct": 3.3
+  },
+  "7079": {
+   "name": "Globe of Water",
+   "quests": [
+    5144,
+    5146,
+    8497,
+    8804,
+    8856
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 5461,
+     "name": "Sea Elemental",
+     "count": 16,
+     "outof": 162
+    },
+    {
+     "id": 5462,
+     "name": "Sea Spray",
+     "count": 14,
+     "outof": 182
+    },
+    {
+     "id": 7132,
+     "name": "Toxic Horror",
+     "count": 2,
+     "outof": 25
+    },
+    {
+     "id": 8521,
+     "name": "Blighted Horror",
+     "count": 1,
+     "outof": 1
+    },
+    {
+     "id": 8837,
+     "name": "Muck Splash",
+     "count": 2,
+     "outof": 3
+    },
+    {
+     "id": 13280,
+     "name": "Hydrospawn",
+     "count": 1,
+     "outof": 7,
+     "elite": true
+    },
+    {
+     "id": 13282,
+     "name": "Noxxion",
+     "count": 1,
+     "outof": 141,
+     "elite": true
+    },
+    {
+     "id": 13696,
+     "name": "Noxxious Scion",
+     "count": 3,
+     "outof": 90
+    },
+    {
+     "id": 8519,
+     "name": "Blighted Surge",
+     "count": 3106,
+     "outof": 51310
+    },
+    {
+     "id": 8520,
+     "name": "Plague Ravager",
+     "count": 3013,
+     "outof": 51504
+    },
+    {
+     "id": 8522,
+     "name": "Plague Monstrosity",
+     "count": 1260,
+     "outof": 23229
+    },
+    {
+     "id": 14458,
+     "name": "Watery Invader",
+     "count": 303,
+     "outof": 6115
+    },
+    {
+     "id": 15211,
+     "name": "Azure Templar",
+     "count": 258,
+     "outof": 6878,
+     "elite": true
+    },
+    {
+     "id": 15207,
+     "name": "The Duke of Fathoms",
+     "count": 146,
+     "outof": 1857,
+     "elite": true
+    },
+    {
+     "id": 14457,
+     "name": "Princess Tempestria",
+     "count": 109,
+     "outof": 163,
+     "elite": true
+    },
+    {
+     "id": 15305,
+     "name": "Lord Skwol",
+     "count": 77,
+     "outof": 1010,
+     "elite": true
+    }
+   ],
+   "overall_pct": 5.8
+  },
+  "7081": {
+   "name": "Breath of Wind",
+   "quests": [
+    5144,
+    5146
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 6239,
+     "name": "Cyclonian",
+     "count": 6,
+     "outof": 22,
+     "elite": true
+    },
+    {
+     "id": 8667,
+     "name": "Gusting Vortex",
+     "count": 5,
+     "outof": 6
+    },
+    {
+     "id": 9397,
+     "name": "Living Storm",
+     "count": 1,
+     "outof": 1
+    },
+    {
+     "id": 11744,
+     "name": "Dust Stormer",
+     "count": 4,
+     "outof": 6
+    },
+    {
+     "id": 14455,
+     "name": "Whirling Invader",
+     "count": 859,
+     "outof": 18379
+    },
+    {
+     "id": 15212,
+     "name": "Hoary Templar",
+     "count": 253,
+     "outof": 7030,
+     "elite": true
+    },
+    {
+     "id": 11745,
+     "name": "Cyclone Warrior",
+     "count": 215,
+     "outof": 4337
+    },
+    {
+     "id": 15220,
+     "name": "The Duke of Zephyrs",
+     "count": 161,
+     "outof": 1680,
+     "elite": true
+    },
+    {
+     "id": 15204,
+     "name": "High Marshal Whirlaxis",
+     "count": 79,
+     "outof": 1013,
+     "elite": true
+    },
+    {
+     "id": 14454,
+     "name": "The Windreaver",
+     "count": 75,
+     "outof": 121,
+     "elite": true
+    },
+    {
+     "id": 14478,
+     "name": "Huricanian",
+     "count": 23,
+     "outof": 569
+    }
+   ],
+   "overall_pct": 5.1
+  },
   "7670": {
    "name": "Shattered Necklace Sapphire",
    "quests": [
@@ -12373,6 +13138,309 @@
    ],
    "overall_pct": 10.5
   },
+  "8165": {
+   "name": "Worn Dragonscale",
+   "quests": [
+    5141,
+    5145
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 743,
+     "name": "Wyrmkin Dreamwalker",
+     "count": 1,
+     "outof": 56
+    },
+    {
+     "id": 744,
+     "name": "Green Scalebane",
+     "count": 1,
+     "outof": 163
+    },
+    {
+     "id": 746,
+     "name": "Elder Dragonkin",
+     "count": 1,
+     "outof": 75
+    },
+    {
+     "id": 2726,
+     "name": "Scorched Guardian",
+     "count": 1,
+     "outof": 66,
+     "elite": true
+    },
+    {
+     "id": 4328,
+     "name": "Firemane Scalebane",
+     "count": 1,
+     "outof": 256
+    },
+    {
+     "id": 4329,
+     "name": "Firemane Scout",
+     "count": 1,
+     "outof": 616
+    },
+    {
+     "id": 5277,
+     "name": "Nightmare Scalebane",
+     "count": 1,
+     "outof": 55,
+     "elite": true
+    },
+    {
+     "id": 5280,
+     "name": "Nightmare Wyrmkin",
+     "count": 2,
+     "outof": 58,
+     "elite": true
+    },
+    {
+     "id": 5283,
+     "name": "Nightmare Wanderer",
+     "count": 2,
+     "outof": 71,
+     "elite": true
+    },
+    {
+     "id": 5719,
+     "name": "Morphaz",
+     "count": 2,
+     "outof": 34,
+     "elite": true
+    },
+    {
+     "id": 5720,
+     "name": "Weaver",
+     "count": 3,
+     "outof": 16,
+     "elite": true
+    },
+    {
+     "id": 5721,
+     "name": "Dreamscythe",
+     "count": 1,
+     "outof": 25,
+     "elite": true
+    },
+    {
+     "id": 5722,
+     "name": "Hazzas",
+     "count": 3,
+     "outof": 26,
+     "elite": true
+    },
+    {
+     "id": 7040,
+     "name": "Black Dragonspawn",
+     "count": 1,
+     "outof": 17,
+     "elite": true
+    },
+    {
+     "id": 7437,
+     "name": "Cobalt Mageweaver",
+     "count": 1,
+     "outof": 1,
+     "elite": true
+    },
+    {
+     "id": 8319,
+     "name": "Nightmare Whelp",
+     "count": 7,
+     "outof": 194
+    },
+    {
+     "id": 9096,
+     "name": "Rage Talon Dragonspawn",
+     "count": 1,
+     "outof": 1,
+     "elite": true
+    },
+    {
+     "id": 10447,
+     "name": "Chromatic Dragonspawn",
+     "count": 1,
+     "outof": 1,
+     "elite": true
+    },
+    {
+     "id": 262477,
+     "name": "Cinderscale Warrior",
+     "count": 1,
+     "outof": 744
+    },
+    {
+     "id": 10083,
+     "name": "Rage Talon Flamescale",
+     "count": 307,
+     "outof": 15918,
+     "elite": true
+    },
+    {
+     "id": 7435,
+     "name": "Cobalt Wyrmkin",
+     "count": 303,
+     "outof": 12648,
+     "elite": true
+    },
+    {
+     "id": 7436,
+     "name": "Cobalt Scalebane",
+     "count": 288,
+     "outof": 12677,
+     "elite": true
+    },
+    {
+     "id": 7041,
+     "name": "Black Wyrmkin",
+     "count": 287,
+     "outof": 9202,
+     "elite": true
+    },
+    {
+     "id": 10366,
+     "name": "Rage Talon Dragon Guard",
+     "count": 241,
+     "outof": 14003,
+     "elite": true
+    },
+    {
+     "id": 12129,
+     "name": "Onyxian Warder",
+     "count": 98,
+     "outof": 6330,
+     "elite": true
+    },
+    {
+     "id": 10371,
+     "name": "Rage Talon Captain",
+     "count": 66,
+     "outof": 4301,
+     "elite": true
+    },
+    {
+     "id": 7044,
+     "name": "Black Drake",
+     "count": 58,
+     "outof": 2264,
+     "elite": true
+    },
+    {
+     "id": 7043,
+     "name": "Flamescale Wyrmkin",
+     "count": 56,
+     "outof": 1878,
+     "elite": true
+    },
+    {
+     "id": 9461,
+     "name": "Frenzied Black Drake",
+     "count": 46,
+     "outof": 1592,
+     "elite": true
+    },
+    {
+     "id": 193,
+     "name": "Blue Dragonspawn",
+     "count": 35,
+     "outof": 1014,
+     "elite": true
+    },
+    {
+     "id": 10372,
+     "name": "Rage Talon Fire Tongue",
+     "count": 34,
+     "outof": 6852,
+     "elite": true
+    },
+    {
+     "id": 7042,
+     "name": "Flamescale Dragonspawn",
+     "count": 33,
+     "outof": 1200,
+     "elite": true
+    },
+    {
+     "id": 1049,
+     "name": "Wyrmkin Firebrand",
+     "count": 18,
+     "outof": 1454,
+     "elite": true
+    },
+    {
+     "id": 5314,
+     "name": "Phantim",
+     "count": 16,
+     "outof": 294,
+     "elite": true
+    },
+    {
+     "id": 10660,
+     "name": "Cobalt Broodling",
+     "count": 14,
+     "outof": 6481
+    },
+    {
+     "id": 10258,
+     "name": "Rookery Guardian",
+     "count": 10,
+     "outof": 1847,
+     "elite": true
+    },
+    {
+     "id": 10814,
+     "name": "Chromatic Elite Guard",
+     "count": 8,
+     "outof": 3185,
+     "elite": true
+    },
+    {
+     "id": 10659,
+     "name": "Cobalt Whelp",
+     "count": 7,
+     "outof": 6507
+    },
+    {
+     "id": 7046,
+     "name": "Searscale Drake",
+     "count": 5,
+     "outof": 368,
+     "elite": true
+    },
+    {
+     "id": 10321,
+     "name": "Emberstrife",
+     "count": 3,
+     "outof": 8,
+     "elite": true
+    },
+    {
+     "id": 5312,
+     "name": "Lethlas",
+     "count": 3,
+     "outof": 70,
+     "elite": true
+    },
+    {
+     "id": 745,
+     "name": "Scalebane Captain",
+     "count": 2,
+     "outof": 4626
+    }
+   ],
+   "overall_pct": 1.7,
+   "objects": [
+    {
+     "id": 179501,
+     "name": "Knot Thimblejack's Cache",
+     "count": 604,
+     "outof": 1929
+    }
+   ]
+  },
   "8173": {
    "name": "Thick Armor Kit",
    "quests": [
@@ -12382,6 +13450,24 @@
    "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
    "dropped_by": "Olaf",
    "overall_pct": 6.35
+  },
+  "8244": {
+   "name": "Flawless Draenethyst Sphere",
+   "quests": [
+    2521,
+    2522
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 7846,
+     "name": "Teremus the Devourer",
+     "count": 254,
+     "outof": 264,
+     "elite": true
+    }
+   ],
+   "overall_pct": 96.2
   },
   "8391": {
    "name": "Snickerfang Jowl",
@@ -13362,6 +14448,298 @@
    ],
    "overall_pct": 9.5
   },
+  "10561": {
+   "name": "Mithril Casing",
+   "quests": [
+    4244
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 13601,
+     "name": "Tinkerer Gizlock",
+     "count": 560,
+     "outof": 26343,
+     "elite": true
+    },
+    {
+     "id": 8447,
+     "name": "Clunk",
+     "count": 23,
+     "outof": 507,
+     "elite": true
+    },
+    {
+     "id": 14224,
+     "name": "7:XT",
+     "count": 3,
+     "outof": 99
+    },
+    {
+     "id": 12426,
+     "name": "Masterwork Target Dummy",
+     "count": 1,
+     "outof": 1
+    }
+   ],
+   "overall_pct": 2.2
+  },
+  "10593": {
+   "name": "Imperfect Draenethyst Fragment",
+   "quests": [
+    3501,
+    3502
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 5981,
+     "name": "Portal Seeker",
+     "count": 2,
+     "outof": 19
+    },
+    {
+     "id": 5982,
+     "name": "Black Slayer",
+     "count": 1,
+     "outof": 401
+    },
+    {
+     "id": 5984,
+     "name": "Starving Snickerfang",
+     "count": 1,
+     "outof": 137
+    },
+    {
+     "id": 5988,
+     "name": "Scorpok Stinger",
+     "count": 3,
+     "outof": 116
+    },
+    {
+     "id": 5992,
+     "name": "Ashmane Boar",
+     "count": 1,
+     "outof": 120
+    },
+    {
+     "id": 6004,
+     "name": "Shadowsworn Cultist",
+     "count": 1,
+     "outof": 75
+    },
+    {
+     "id": 6006,
+     "name": "Shadowsworn Adept",
+     "count": 3,
+     "outof": 61
+    },
+    {
+     "id": 7669,
+     "name": "Servant of Grol",
+     "count": 1,
+     "outof": 2
+    },
+    {
+     "id": 7671,
+     "name": "Servant of Sevine",
+     "count": 1,
+     "outof": 2
+    },
+    {
+     "id": 8300,
+     "name": "Ravage",
+     "count": 1,
+     "outof": 1
+    },
+    {
+     "id": 8302,
+     "name": "Deatheye",
+     "count": 2,
+     "outof": 2
+    },
+    {
+     "id": 8304,
+     "name": "Dreadscorn",
+     "count": 1,
+     "outof": 1
+    },
+    {
+     "id": 5990,
+     "name": "Redstone Basilisk",
+     "count": 794,
+     "outof": 76127
+    },
+    {
+     "id": 5991,
+     "name": "Redstone Crystalhide",
+     "count": 581,
+     "outof": 50568
+    },
+    {
+     "id": 5993,
+     "name": "Helboar",
+     "count": 563,
+     "outof": 46922
+    },
+    {
+     "id": 6005,
+     "name": "Shadowsworn Thug",
+     "count": 473,
+     "outof": 14193
+    },
+    {
+     "id": 8675,
+     "name": "Felbeast",
+     "count": 328,
+     "outof": 26123
+    },
+    {
+     "id": 5977,
+     "name": "Dreadmaul Mauler",
+     "count": 176,
+     "outof": 5922
+    },
+    {
+     "id": 5978,
+     "name": "Dreadmaul Warlock",
+     "count": 164,
+     "outof": 5790
+    },
+    {
+     "id": 5996,
+     "name": "Nethergarde Miner",
+     "count": 148,
+     "outof": 5594
+    },
+    {
+     "id": 7668,
+     "name": "Servant of Razelikh",
+     "count": 146,
+     "outof": 5482
+    },
+    {
+     "id": 5985,
+     "name": "Snickerfang Hyena",
+     "count": 126,
+     "outof": 10729
+    },
+    {
+     "id": 6009,
+     "name": "Shadowsworn Dreadweaver",
+     "count": 99,
+     "outof": 2832
+    },
+    {
+     "id": 5974,
+     "name": "Dreadmaul Ogre",
+     "count": 99,
+     "outof": 3921
+    },
+    {
+     "id": 5975,
+     "name": "Dreadmaul Ogre Mage",
+     "count": 93,
+     "outof": 2436
+    },
+    {
+     "id": 5976,
+     "name": "Dreadmaul Brute",
+     "count": 91,
+     "outof": 4186
+    },
+    {
+     "id": 5979,
+     "name": "Wretched Lost One",
+     "count": 84,
+     "outof": 4736
+    },
+    {
+     "id": 6008,
+     "name": "Shadowsworn Warlock",
+     "count": 81,
+     "outof": 2874
+    },
+    {
+     "id": 6007,
+     "name": "Shadowsworn Enforcer",
+     "count": 71,
+     "outof": 2937
+    },
+    {
+     "id": 7670,
+     "name": "Servant of Allistarj",
+     "count": 57,
+     "outof": 1864
+    },
+    {
+     "id": 6010,
+     "name": "Felhound",
+     "count": 55,
+     "outof": 5301
+    },
+    {
+     "id": 7664,
+     "name": "Razelikh the Defiler",
+     "count": 43,
+     "outof": 601,
+     "elite": true
+    },
+    {
+     "id": 5997,
+     "name": "Nethergarde Engineer",
+     "count": 21,
+     "outof": 1023
+    },
+    {
+     "id": 5999,
+     "name": "Nethergarde Soldier",
+     "count": 19,
+     "outof": 745
+    },
+    {
+     "id": 5998,
+     "name": "Nethergarde Foreman",
+     "count": 18,
+     "outof": 969
+    },
+    {
+     "id": 7728,
+     "name": "Kirith the Damned",
+     "count": 16,
+     "outof": 513,
+     "elite": true
+    },
+    {
+     "id": 7734,
+     "name": "Ilifar",
+     "count": 8,
+     "outof": 187,
+     "elite": true
+    },
+    {
+     "id": 7666,
+     "name": "Archmage Allistarj",
+     "count": 7,
+     "outof": 681,
+     "elite": true
+    },
+    {
+     "id": 7665,
+     "name": "Grol the Destroyer",
+     "count": 6,
+     "outof": 723,
+     "elite": true
+    },
+    {
+     "id": 6000,
+     "name": "Nethergarde Cleric",
+     "count": 3,
+     "outof": 87
+    }
+   ],
+   "overall_pct": 1.5
+  },
   "10660": {
    "name": "First Mosh'aru Tablet",
    "quests": [
@@ -13396,6 +14774,136 @@
    "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
    "dropped_by": "Fineous Darkvire",
    "overall_pct": 30.43
+  },
+  "11080": {
+   "name": "Gor'tesh's Lopped Off Head",
+   "quests": [
+    3824
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 9176,
+     "name": "Gor'tesh",
+     "count": 1,
+     "outof": 3
+    }
+   ],
+   "overall_pct": 33.3
+  },
+  "11172": {
+   "name": "Silvery Claws",
+   "quests": [
+    4084
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 8956,
+     "name": "Angerclaw Bear",
+     "count": 2,
+     "outof": 89
+    },
+    {
+     "id": 8957,
+     "name": "Angerclaw Grizzly",
+     "count": 9,
+     "outof": 86
+    },
+    {
+     "id": 8958,
+     "name": "Angerclaw Mauler",
+     "count": 5,
+     "outof": 64
+    },
+    {
+     "id": 8959,
+     "name": "Felpaw Wolf",
+     "count": 2,
+     "outof": 172
+    },
+    {
+     "id": 8960,
+     "name": "Felpaw Scavenger",
+     "count": 9,
+     "outof": 121
+    },
+    {
+     "id": 8961,
+     "name": "Felpaw Ravager",
+     "count": 3,
+     "outof": 84
+    },
+    {
+     "id": 14339,
+     "name": "Death Howl",
+     "count": 1,
+     "outof": 1
+    },
+    {
+     "id": 14344,
+     "name": "Mongress",
+     "count": 16,
+     "outof": 62
+    }
+   ],
+   "overall_pct": 6.9
+  },
+  "11173": {
+   "name": "Irontree Heart",
+   "quests": [
+    4084
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 7138,
+     "name": "Irontree Wanderer",
+     "count": 1,
+     "outof": 3
+    },
+    {
+     "id": 7139,
+     "name": "Irontree Stomper",
+     "count": 4,
+     "outof": 37
+    }
+   ],
+   "overall_pct": 12.5
+  },
+  "11312": {
+   "name": "Lost Thunderbrew Recipe",
+   "quests": [
+    4126,
+    4134
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 9537,
+     "name": "Hurley Blackbreath",
+     "count": 2,
+     "outof": 19,
+     "elite": true
+    },
+    {
+     "id": 9541,
+     "name": "Blackbreath Crony",
+     "count": 6,
+     "outof": 15,
+     "elite": true
+    }
+   ],
+   "overall_pct": 23.5
+  },
+  "11313": {
+   "name": "Ribbly's Head",
+   "quests": [
+    4136
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
+   "dropped_by": "Ribbly Screwspigot",
+   "overall_pct": 25.0
   },
   "11316": {
    "name": "Bloodpetal",
@@ -13463,6 +14971,37 @@
    ],
    "overall_pct": 25.1
   },
+  "11405": {
+   "name": "Giant Silver Vein",
+   "quests": [
+    4201
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 6146,
+     "name": "Cliff Breaker",
+     "count": 3,
+     "outof": 4,
+     "elite": true
+    },
+    {
+     "id": 6147,
+     "name": "Cliff Thunderer",
+     "count": 1,
+     "outof": 1,
+     "elite": true
+    },
+    {
+     "id": 6148,
+     "name": "Cliff Walker",
+     "count": 1,
+     "outof": 2,
+     "elite": true
+    }
+   ],
+   "overall_pct": 71.4
+  },
   "11472": {
    "name": "Silvermane Stalker Flank",
    "quests": [
@@ -13471,6 +15010,482 @@
    "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
    "dropped_by": "Silvermane Stalker",
    "overall_pct": 0.22
+  },
+  "11476": {
+   "name": "U'cha's Pelt",
+   "quests": [
+    4301
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
+   "dropped_by": "U'cha",
+   "overall_pct": 90.91
+  },
+  "11478": {
+   "name": "Un'Goro Gorilla Pelt",
+   "quests": [
+    4289
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 6514,
+     "name": "Un'Goro Gorilla",
+     "count": 23,
+     "outof": 83
+    }
+   ],
+   "overall_pct": 27.7
+  },
+  "11479": {
+   "name": "Un'Goro Stomper Pelt",
+   "quests": [
+    4289
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
+   "dropped_by": "Un'Goro Stomper",
+   "overall_pct": 25.0
+  },
+  "11480": {
+   "name": "Un'Goro Thunderer Pelt",
+   "quests": [
+    4289
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
+   "dropped_by": "Un'Goro Thunderer",
+   "overall_pct": 23.08
+  },
+  "11503": {
+   "name": "Blood Amber",
+   "quests": [
+    4101,
+    4102
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 7100,
+     "name": "Warpwood Moss Flayer",
+     "count": 61,
+     "outof": 107
+    },
+    {
+     "id": 7101,
+     "name": "Warpwood Shredder",
+     "count": 56,
+     "outof": 111
+    },
+    {
+     "id": 7104,
+     "name": "Dessecus",
+     "count": 1,
+     "outof": 1,
+     "elite": true
+    }
+   ],
+   "overall_pct": 53.9
+  },
+  "11509": {
+   "name": "Ravasaur Pheromone Gland",
+   "quests": [
+    4291
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
+   "dropped_by": "Lar'korwi Mate",
+   "overall_pct": 74.6
+  },
+  "11515": {
+   "name": "Corrupted Soul Shard",
+   "quests": [
+    4103,
+    4108,
+    5882,
+    5887
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 7092,
+     "name": "Tainted Ooze",
+     "count": 4,
+     "outof": 53
+    },
+    {
+     "id": 7093,
+     "name": "Vile Ooze",
+     "count": 2,
+     "outof": 6
+    },
+    {
+     "id": 7099,
+     "name": "Ironbeak Hunter",
+     "count": 1,
+     "outof": 8
+    },
+    {
+     "id": 7113,
+     "name": "Jaedenar Guardian",
+     "count": 3,
+     "outof": 59
+    },
+    {
+     "id": 7114,
+     "name": "Jaedenar Enforcer",
+     "count": 9,
+     "outof": 21
+    },
+    {
+     "id": 7118,
+     "name": "Jaedenar Darkweaver",
+     "count": 8,
+     "outof": 38
+    },
+    {
+     "id": 7120,
+     "name": "Jaedenar Warlock",
+     "count": 9,
+     "outof": 23
+    },
+    {
+     "id": 7126,
+     "name": "Jaedenar Hunter",
+     "count": 11,
+     "outof": 22
+    },
+    {
+     "id": 7132,
+     "name": "Toxic Horror",
+     "count": 6,
+     "outof": 25
+    },
+    {
+     "id": 7139,
+     "name": "Irontree Stomper",
+     "count": 3,
+     "outof": 37
+    },
+    {
+     "id": 7153,
+     "name": "Deadwood Warrior",
+     "count": 4,
+     "outof": 240
+    },
+    {
+     "id": 7154,
+     "name": "Deadwood Gardener",
+     "count": 3,
+     "outof": 151
+    },
+    {
+     "id": 7155,
+     "name": "Deadwood Pathfinder",
+     "count": 2,
+     "outof": 111
+    },
+    {
+     "id": 7156,
+     "name": "Deadwood Den Watcher",
+     "count": 2,
+     "outof": 88
+    },
+    {
+     "id": 7157,
+     "name": "Deadwood Avenger",
+     "count": 12,
+     "outof": 124
+    },
+    {
+     "id": 7158,
+     "name": "Deadwood Shaman",
+     "count": 4,
+     "outof": 101
+    },
+    {
+     "id": 8956,
+     "name": "Angerclaw Bear",
+     "count": 3,
+     "outof": 89
+    },
+    {
+     "id": 8957,
+     "name": "Angerclaw Grizzly",
+     "count": 7,
+     "outof": 86
+    },
+    {
+     "id": 8958,
+     "name": "Angerclaw Mauler",
+     "count": 5,
+     "outof": 64
+    },
+    {
+     "id": 8959,
+     "name": "Felpaw Wolf",
+     "count": 12,
+     "outof": 172
+    },
+    {
+     "id": 8960,
+     "name": "Felpaw Scavenger",
+     "count": 6,
+     "outof": 121
+    },
+    {
+     "id": 8961,
+     "name": "Felpaw Ravager",
+     "count": 1,
+     "outof": 84
+    },
+    {
+     "id": 9518,
+     "name": "Rakaiah",
+     "count": 1,
+     "outof": 2
+    },
+    {
+     "id": 9862,
+     "name": "Jaedenar Legionnaire",
+     "count": 4,
+     "outof": 17
+    },
+    {
+     "id": 7105,
+     "name": "Jadefire Satyr",
+     "count": 16207,
+     "outof": 77218
+    },
+    {
+     "id": 7086,
+     "name": "Cursed Ooze",
+     "count": 1838,
+     "outof": 39955
+    },
+    {
+     "id": 7125,
+     "name": "Jaedenar Hound",
+     "count": 1627,
+     "outof": 22018
+    },
+    {
+     "id": 9462,
+     "name": "Chieftain Bloodmaw",
+     "count": 1506,
+     "outof": 8451
+    },
+    {
+     "id": 10648,
+     "name": "Xavaric",
+     "count": 1417,
+     "outof": 8482
+    },
+    {
+     "id": 7138,
+     "name": "Irontree Wanderer",
+     "count": 1189,
+     "outof": 4917
+    },
+    {
+     "id": 9464,
+     "name": "Overlord Ror",
+     "count": 880,
+     "outof": 6794
+    },
+    {
+     "id": 7097,
+     "name": "Ironbeak Owl",
+     "count": 758,
+     "outof": 3185
+    },
+    {
+     "id": 9454,
+     "name": "Xavathras",
+     "count": 524,
+     "outof": 3512
+    },
+    {
+     "id": 9860,
+     "name": "Salia",
+     "count": 483,
+     "outof": 1471
+    },
+    {
+     "id": 9861,
+     "name": "Moora",
+     "count": 469,
+     "outof": 1384
+    },
+    {
+     "id": 9517,
+     "name": "Shadow Lord Fel'dan",
+     "count": 455,
+     "outof": 3377
+    },
+    {
+     "id": 7149,
+     "name": "Withered Protector",
+     "count": 322,
+     "outof": 1820
+    },
+    {
+     "id": 7136,
+     "name": "Infernal Sentry",
+     "count": 298,
+     "outof": 2317,
+     "elite": true
+    },
+    {
+     "id": 7098,
+     "name": "Ironbeak Screecher",
+     "count": 259,
+     "outof": 2564
+    },
+    {
+     "id": 9877,
+     "name": "Prince Xavalis",
+     "count": 199,
+     "outof": 778
+    },
+    {
+     "id": 7135,
+     "name": "Infernal Bodyguard",
+     "count": 127,
+     "outof": 927,
+     "elite": true
+    },
+    {
+     "id": 14523,
+     "name": "Ulathek",
+     "count": 94,
+     "outof": 681
+    },
+    {
+     "id": 14340,
+     "name": "Alshirr Banebreath",
+     "count": 90,
+     "outof": 563
+    },
+    {
+     "id": 14342,
+     "name": "Ragepaw",
+     "count": 50,
+     "outof": 665
+    },
+    {
+     "id": 7137,
+     "name": "Immolatus",
+     "count": 41,
+     "outof": 354,
+     "elite": true
+    },
+    {
+     "id": 14343,
+     "name": "Olm the Wise",
+     "count": 32,
+     "outof": 128
+    },
+    {
+     "id": 14522,
+     "name": "Ur'dan",
+     "count": 26,
+     "outof": 129
+    },
+    {
+     "id": 7104,
+     "name": "Dessecus",
+     "count": 26,
+     "outof": 334,
+     "elite": true
+    },
+    {
+     "id": 14339,
+     "name": "Death Howl",
+     "count": 20,
+     "outof": 143
+    },
+    {
+     "id": 14345,
+     "name": "The Ongar",
+     "count": 17,
+     "outof": 125
+    },
+    {
+     "id": 9516,
+     "name": "Lord Banehollow",
+     "count": 17,
+     "outof": 128,
+     "elite": true
+    },
+    {
+     "id": 14344,
+     "name": "Mongress",
+     "count": 10,
+     "outof": 62
+    },
+    {
+     "id": 9601,
+     "name": "Treant Spirit",
+     "count": 5,
+     "outof": 20
+    }
+   ],
+   "overall_pct": 15.0
+  },
+  "11674": {
+   "name": "Jadefire Felbind",
+   "quests": [
+    939
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 7105,
+     "name": "Jadefire Satyr",
+     "count": 1,
+     "outof": 7
+    },
+    {
+     "id": 7106,
+     "name": "Jadefire Rogue",
+     "count": 1,
+     "outof": 38
+    },
+    {
+     "id": 7107,
+     "name": "Jadefire Trickster",
+     "count": 9,
+     "outof": 61
+    },
+    {
+     "id": 7108,
+     "name": "Jadefire Betrayer",
+     "count": 6,
+     "outof": 60
+    },
+    {
+     "id": 7109,
+     "name": "Jadefire Felsworn",
+     "count": 1,
+     "outof": 46
+    },
+    {
+     "id": 7110,
+     "name": "Jadefire Shadowstalker",
+     "count": 1,
+     "outof": 32
+    },
+    {
+     "id": 7111,
+     "name": "Jadefire Hellcaller",
+     "count": 2,
+     "outof": 45
+    },
+    {
+     "id": 14340,
+     "name": "Alshirr Banebreath",
+     "count": 1,
+     "outof": 1
+    }
+   ],
+   "overall_pct": 7.6
   },
   "11723": {
    "name": "Goodsteel's Balanced Flameberge",
@@ -13489,6 +15504,2959 @@
    "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
    "dropped_by": "Glassweb Spider",
    "overall_pct": 19.44
+  },
+  "11732": {
+   "name": "Libram of Rumination",
+   "quests": [
+    4463
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 8891,
+     "name": "Anvilrage Guardsman",
+     "count": 175,
+     "outof": 282828,
+     "elite": true
+    },
+    {
+     "id": 8892,
+     "name": "Anvilrage Footman",
+     "count": 93,
+     "outof": 189057,
+     "elite": true
+    },
+    {
+     "id": 8893,
+     "name": "Anvilrage Soldier",
+     "count": 15,
+     "outof": 32183,
+     "elite": true
+    },
+    {
+     "id": 9199,
+     "name": "Spirestone Enforcer",
+     "count": 13,
+     "outof": 15261,
+     "elite": true
+    },
+    {
+     "id": 6006,
+     "name": "Shadowsworn Adept",
+     "count": 7,
+     "outof": 14103
+    },
+    {
+     "id": 9545,
+     "name": "Grim Patron",
+     "count": 6,
+     "outof": 15958
+    },
+    {
+     "id": 8914,
+     "name": "Twilight Bodyguard",
+     "count": 5,
+     "outof": 9208,
+     "elite": true
+    },
+    {
+     "id": 11442,
+     "name": "Gordok Mauler",
+     "count": 2,
+     "outof": 5082,
+     "elite": true
+    }
+   ],
+   "overall_pct": 0.1
+  },
+  "11733": {
+   "name": "Libram of Constitution",
+   "quests": [
+    4481
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 8895,
+     "name": "Anvilrage Officer",
+     "count": 1,
+     "outof": 23,
+     "elite": true
+    },
+    {
+     "id": 8897,
+     "name": "Doomforge Craftsman",
+     "count": 1,
+     "outof": 40
+    },
+    {
+     "id": 8891,
+     "name": "Anvilrage Guardsman",
+     "count": 159,
+     "outof": 282828,
+     "elite": true
+    },
+    {
+     "id": 8892,
+     "name": "Anvilrage Footman",
+     "count": 106,
+     "outof": 189057,
+     "elite": true
+    },
+    {
+     "id": 9097,
+     "name": "Scarshield Legionnaire",
+     "count": 79,
+     "outof": 97476,
+     "elite": true
+    },
+    {
+     "id": 8890,
+     "name": "Anvilrage Warden",
+     "count": 64,
+     "outof": 117261,
+     "elite": true
+    },
+    {
+     "id": 8899,
+     "name": "Doomforge Dragoon",
+     "count": 47,
+     "outof": 86900,
+     "elite": true
+    },
+    {
+     "id": 8898,
+     "name": "Anvilrage Marshal",
+     "count": 44,
+     "outof": 75277,
+     "elite": true
+    },
+    {
+     "id": 7440,
+     "name": "Winterfall Den Watcher",
+     "count": 41,
+     "outof": 197944
+    },
+    {
+     "id": 8904,
+     "name": "Shadowforge Senator",
+     "count": 39,
+     "outof": 78588
+    },
+    {
+     "id": 8920,
+     "name": "Weapon Technician",
+     "count": 38,
+     "outof": 98855
+    },
+    {
+     "id": 1783,
+     "name": "Skeletal Flayer",
+     "count": 37,
+     "outof": 211524
+    },
+    {
+     "id": 8889,
+     "name": "Anvilrage Overseer",
+     "count": 33,
+     "outof": 53731,
+     "elite": true
+    },
+    {
+     "id": 7107,
+     "name": "Jadefire Trickster",
+     "count": 28,
+     "outof": 109267
+    },
+    {
+     "id": 7157,
+     "name": "Deadwood Avenger",
+     "count": 25,
+     "outof": 140751
+    },
+    {
+     "id": 6201,
+     "name": "Legashi Rogue",
+     "count": 24,
+     "outof": 98079
+    },
+    {
+     "id": 9240,
+     "name": "Smolderthorn Shadow Priest",
+     "count": 23,
+     "outof": 23603,
+     "elite": true
+    },
+    {
+     "id": 8912,
+     "name": "Twilight's Hammer Torturer",
+     "count": 22,
+     "outof": 42551,
+     "elite": true
+    },
+    {
+     "id": 9098,
+     "name": "Scarshield Spellbinder",
+     "count": 22,
+     "outof": 30394,
+     "elite": true
+    },
+    {
+     "id": 7156,
+     "name": "Deadwood Den Watcher",
+     "count": 22,
+     "outof": 125178
+    },
+    {
+     "id": 8896,
+     "name": "Shadowforge Peasant",
+     "count": 21,
+     "outof": 49783
+    },
+    {
+     "id": 8900,
+     "name": "Doomforge Arcanasmith",
+     "count": 21,
+     "outof": 35989
+    },
+    {
+     "id": 8894,
+     "name": "Anvilrage Medic",
+     "count": 20,
+     "outof": 47838,
+     "elite": true
+    },
+    {
+     "id": 6202,
+     "name": "Legashi Hellcaller",
+     "count": 20,
+     "outof": 92747
+    },
+    {
+     "id": 8893,
+     "name": "Anvilrage Soldier",
+     "count": 19,
+     "outof": 32183,
+     "elite": true
+    },
+    {
+     "id": 1784,
+     "name": "Skeletal Sorcerer",
+     "count": 19,
+     "outof": 80347
+    },
+    {
+     "id": 1791,
+     "name": "Slavering Ghoul",
+     "count": 18,
+     "outof": 123415
+    },
+    {
+     "id": 7158,
+     "name": "Deadwood Shaman",
+     "count": 18,
+     "outof": 126438
+    },
+    {
+     "id": 9239,
+     "name": "Smolderthorn Mystic",
+     "count": 16,
+     "outof": 14490,
+     "elite": true
+    },
+    {
+     "id": 7442,
+     "name": "Winterfall Pathfinder",
+     "count": 16,
+     "outof": 136293
+    },
+    {
+     "id": 9199,
+     "name": "Spirestone Enforcer",
+     "count": 15,
+     "outof": 15261,
+     "elite": true
+    },
+    {
+     "id": 6200,
+     "name": "Legashi Satyr",
+     "count": 15,
+     "outof": 91068
+    },
+    {
+     "id": 9267,
+     "name": "Smolderthorn Axe Thrower",
+     "count": 14,
+     "outof": 19801,
+     "elite": true
+    },
+    {
+     "id": 1789,
+     "name": "Skeletal Acolyte",
+     "count": 14,
+     "outof": 64959
+    },
+    {
+     "id": 7441,
+     "name": "Winterfall Totemic",
+     "count": 14,
+     "outof": 78202
+    },
+    {
+     "id": 7108,
+     "name": "Jadefire Betrayer",
+     "count": 13,
+     "outof": 106107
+    },
+    {
+     "id": 7111,
+     "name": "Jadefire Hellcaller",
+     "count": 13,
+     "outof": 99827
+    },
+    {
+     "id": 11451,
+     "name": "Wildspawn Satyr",
+     "count": 12,
+     "outof": 8745,
+     "elite": true
+    },
+    {
+     "id": 4475,
+     "name": "Blighted Zombie",
+     "count": 12,
+     "outof": 72968
+    },
+    {
+     "id": 7110,
+     "name": "Jadefire Shadowstalker",
+     "count": 12,
+     "outof": 43776
+    },
+    {
+     "id": 9200,
+     "name": "Spirestone Reaver",
+     "count": 11,
+     "outof": 16322,
+     "elite": true
+    },
+    {
+     "id": 6005,
+     "name": "Shadowsworn Thug",
+     "count": 11,
+     "outof": 14193
+    },
+    {
+     "id": 8903,
+     "name": "Anvilrage Captain",
+     "count": 10,
+     "outof": 16466,
+     "elite": true
+    },
+    {
+     "id": 9257,
+     "name": "Scarshield Warlock",
+     "count": 10,
+     "outof": 15946,
+     "elite": true
+    },
+    {
+     "id": 7118,
+     "name": "Jaedenar Darkweaver",
+     "count": 10,
+     "outof": 25552
+    },
+    {
+     "id": 8913,
+     "name": "Twilight Emissary",
+     "count": 9,
+     "outof": 24022,
+     "elite": true
+    },
+    {
+     "id": 8915,
+     "name": "Twilight's Hammer Ambassador",
+     "count": 9,
+     "outof": 26705
+    },
+    {
+     "id": 9045,
+     "name": "Scarshield Acolyte",
+     "count": 9,
+     "outof": 15933,
+     "elite": true
+    },
+    {
+     "id": 1794,
+     "name": "Soulless Ghoul",
+     "count": 9,
+     "outof": 49653
+    },
+    {
+     "id": 9201,
+     "name": "Spirestone Ogre Magus",
+     "count": 8,
+     "outof": 12256,
+     "elite": true
+    },
+    {
+     "id": 6006,
+     "name": "Shadowsworn Adept",
+     "count": 8,
+     "outof": 14103
+    },
+    {
+     "id": 7114,
+     "name": "Jaedenar Enforcer",
+     "count": 8,
+     "outof": 17555
+    },
+    {
+     "id": 8902,
+     "name": "Shadowforge Citizen",
+     "count": 7,
+     "outof": 14571
+    },
+    {
+     "id": 8914,
+     "name": "Twilight Bodyguard",
+     "count": 7,
+     "outof": 9208,
+     "elite": true
+    },
+    {
+     "id": 6198,
+     "name": "Blood Elf Surveyor",
+     "count": 7,
+     "outof": 31834
+    },
+    {
+     "id": 6199,
+     "name": "Blood Elf Reclaimer",
+     "count": 7,
+     "outof": 31488
+    },
+    {
+     "id": 7033,
+     "name": "Firegut Ogre",
+     "count": 7,
+     "outof": 27764
+    },
+    {
+     "id": 9447,
+     "name": "Scarlet Warder",
+     "count": 7,
+     "outof": 23708,
+     "elite": true
+    },
+    {
+     "id": 9449,
+     "name": "Scarlet Cleric",
+     "count": 7,
+     "outof": 14425,
+     "elite": true
+    },
+    {
+     "id": 10919,
+     "name": "Shatterspear Troll",
+     "count": 7,
+     "outof": 25848
+    },
+    {
+     "id": 11443,
+     "name": "Gordok Ogre-Mage",
+     "count": 7,
+     "outof": 11314,
+     "elite": true
+    },
+    {
+     "id": 9198,
+     "name": "Spirestone Mystic",
+     "count": 6,
+     "outof": 7226,
+     "elite": true
+    },
+    {
+     "id": 9541,
+     "name": "Blackbreath Crony",
+     "count": 6,
+     "outof": 13123,
+     "elite": true
+    },
+    {
+     "id": 1785,
+     "name": "Skeletal Terror",
+     "count": 6,
+     "outof": 33397
+    },
+    {
+     "id": 1787,
+     "name": "Skeletal Executioner",
+     "count": 6,
+     "outof": 63975
+    },
+    {
+     "id": 1883,
+     "name": "Scarlet Worker",
+     "count": 6,
+     "outof": 29443
+    },
+    {
+     "id": 7034,
+     "name": "Firegut Ogre Mage",
+     "count": 6,
+     "outof": 32145
+    },
+    {
+     "id": 7035,
+     "name": "Firegut Brute",
+     "count": 6,
+     "outof": 34148
+    },
+    {
+     "id": 7112,
+     "name": "Jaedenar Cultist",
+     "count": 6,
+     "outof": 17755
+    },
+    {
+     "id": 9398,
+     "name": "Twilight's Hammer Executioner",
+     "count": 5,
+     "outof": 20277,
+     "elite": true
+    },
+    {
+     "id": 11455,
+     "name": "Wildspawn Felsworn",
+     "count": 5,
+     "outof": 13002,
+     "elite": true
+    },
+    {
+     "id": 1795,
+     "name": "Searing Ghoul",
+     "count": 5,
+     "outof": 48630
+    },
+    {
+     "id": 1834,
+     "name": "Scarlet Paladin",
+     "count": 5,
+     "outof": 10392,
+     "elite": true
+    },
+    {
+     "id": 4474,
+     "name": "Rotting Cadaver",
+     "count": 5,
+     "outof": 70657
+    },
+    {
+     "id": 7038,
+     "name": "Thaurissan Agent",
+     "count": 5,
+     "outof": 5912
+    },
+    {
+     "id": 9044,
+     "name": "Scarshield Sentry",
+     "count": 5,
+     "outof": 7020,
+     "elite": true
+    },
+    {
+     "id": 9452,
+     "name": "Scarlet Enchanter",
+     "count": 5,
+     "outof": 14782,
+     "elite": true
+    },
+    {
+     "id": 9862,
+     "name": "Jaedenar Legionnaire",
+     "count": 5,
+     "outof": 19028
+    },
+    {
+     "id": 11290,
+     "name": "Mossflayer Zombie",
+     "count": 5,
+     "outof": 12578
+    },
+    {
+     "id": 9545,
+     "name": "Grim Patron",
+     "count": 4,
+     "outof": 15958
+    },
+    {
+     "id": 9547,
+     "name": "Guzzling Patron",
+     "count": 4,
+     "outof": 15692
+    },
+    {
+     "id": 1793,
+     "name": "Rotting Ghoul",
+     "count": 4,
+     "outof": 19970
+    },
+    {
+     "id": 9462,
+     "name": "Chieftain Bloodmaw",
+     "count": 4,
+     "outof": 8451
+    },
+    {
+     "id": 9554,
+     "name": "Hammered Patron",
+     "count": 3,
+     "outof": 7163,
+     "elite": true
+    },
+    {
+     "id": 10411,
+     "name": "Eye of Naxxramas",
+     "count": 3,
+     "outof": 19651
+    },
+    {
+     "id": 7115,
+     "name": "Jaedenar Adept",
+     "count": 3,
+     "outof": 16721
+    },
+    {
+     "id": 7120,
+     "name": "Jaedenar Warlock",
+     "count": 3,
+     "outof": 24811
+    },
+    {
+     "id": 7524,
+     "name": "Anguished Highborne",
+     "count": 3,
+     "outof": 19096
+    },
+    {
+     "id": 7669,
+     "name": "Servant of Grol",
+     "count": 3,
+     "outof": 1912
+    },
+    {
+     "id": 9046,
+     "name": "Scarshield Quartermaster",
+     "count": 3,
+     "outof": 5198,
+     "elite": true
+    },
+    {
+     "id": 8916,
+     "name": "Arena Spectator",
+     "count": 2,
+     "outof": 2860
+    },
+    {
+     "id": 9445,
+     "name": "Dark Guard",
+     "count": 2,
+     "outof": 3214,
+     "elite": true
+    },
+    {
+     "id": 9476,
+     "name": "Watchman Doomgrip",
+     "count": 2,
+     "outof": 1878,
+     "elite": true
+    },
+    {
+     "id": 10043,
+     "name": "Ribbly's Crony",
+     "count": 2,
+     "outof": 9269,
+     "elite": true
+    },
+    {
+     "id": 1826,
+     "name": "Scarlet Mage",
+     "count": 2,
+     "outof": 5247
+    },
+    {
+     "id": 1827,
+     "name": "Scarlet Sentinel",
+     "count": 2,
+     "outof": 6306,
+     "elite": true
+    },
+    {
+     "id": 1835,
+     "name": "Scarlet Invoker",
+     "count": 2,
+     "outof": 7167
+    },
+    {
+     "id": 1884,
+     "name": "Scarlet Lumberjack",
+     "count": 2,
+     "outof": 18243
+    },
+    {
+     "id": 5981,
+     "name": "Portal Seeker",
+     "count": 2,
+     "outof": 4072
+    },
+    {
+     "id": 6004,
+     "name": "Shadowsworn Cultist",
+     "count": 2,
+     "outof": 13735
+    },
+    {
+     "id": 7026,
+     "name": "Blackrock Sorcerer",
+     "count": 2,
+     "outof": 15322
+    },
+    {
+     "id": 8530,
+     "name": "Cannibal Ghoul",
+     "count": 2,
+     "outof": 17313
+    },
+    {
+     "id": 8541,
+     "name": "Hate Shrieker",
+     "count": 2,
+     "outof": 20984
+    },
+    {
+     "id": 9043,
+     "name": "Scarshield Grunt",
+     "count": 2,
+     "outof": 2951,
+     "elite": true
+    },
+    {
+     "id": 9464,
+     "name": "Overlord Ror",
+     "count": 2,
+     "outof": 6794
+    },
+    {
+     "id": 10648,
+     "name": "Xavaric",
+     "count": 2,
+     "outof": 8482
+    },
+    {
+     "id": 12179,
+     "name": "Tortured Sentinel",
+     "count": 2,
+     "outof": 22022
+    }
+   ],
+   "overall_pct": 0.0
+  },
+  "11734": {
+   "name": "Libram of Tenacity",
+   "quests": [
+    4482
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 8891,
+     "name": "Anvilrage Guardsman",
+     "count": 168,
+     "outof": 282828,
+     "elite": true
+    },
+    {
+     "id": 8892,
+     "name": "Anvilrage Footman",
+     "count": 98,
+     "outof": 189246,
+     "elite": true
+    },
+    {
+     "id": 9097,
+     "name": "Scarshield Legionnaire",
+     "count": 82,
+     "outof": 97476,
+     "elite": true
+    },
+    {
+     "id": 8890,
+     "name": "Anvilrage Warden",
+     "count": 65,
+     "outof": 117261,
+     "elite": true
+    },
+    {
+     "id": 8898,
+     "name": "Anvilrage Marshal",
+     "count": 51,
+     "outof": 75277,
+     "elite": true
+    },
+    {
+     "id": 8899,
+     "name": "Doomforge Dragoon",
+     "count": 51,
+     "outof": 86900,
+     "elite": true
+    },
+    {
+     "id": 1783,
+     "name": "Skeletal Flayer",
+     "count": 43,
+     "outof": 211524
+    },
+    {
+     "id": 8889,
+     "name": "Anvilrage Overseer",
+     "count": 42,
+     "outof": 53731,
+     "elite": true
+    },
+    {
+     "id": 8920,
+     "name": "Weapon Technician",
+     "count": 41,
+     "outof": 98855
+    },
+    {
+     "id": 8904,
+     "name": "Shadowforge Senator",
+     "count": 37,
+     "outof": 78588
+    },
+    {
+     "id": 7157,
+     "name": "Deadwood Avenger",
+     "count": 30,
+     "outof": 140751
+    },
+    {
+     "id": 8894,
+     "name": "Anvilrage Medic",
+     "count": 28,
+     "outof": 47838,
+     "elite": true
+    },
+    {
+     "id": 7107,
+     "name": "Jadefire Trickster",
+     "count": 26,
+     "outof": 109267
+    },
+    {
+     "id": 9098,
+     "name": "Scarshield Spellbinder",
+     "count": 25,
+     "outof": 30394,
+     "elite": true
+    },
+    {
+     "id": 6202,
+     "name": "Legashi Hellcaller",
+     "count": 25,
+     "outof": 92747
+    },
+    {
+     "id": 7440,
+     "name": "Winterfall Den Watcher",
+     "count": 25,
+     "outof": 197944
+    },
+    {
+     "id": 7442,
+     "name": "Winterfall Pathfinder",
+     "count": 24,
+     "outof": 136293
+    },
+    {
+     "id": 7111,
+     "name": "Jadefire Hellcaller",
+     "count": 23,
+     "outof": 99827
+    },
+    {
+     "id": 8895,
+     "name": "Anvilrage Officer",
+     "count": 22,
+     "outof": 19782,
+     "elite": true
+    },
+    {
+     "id": 7156,
+     "name": "Deadwood Den Watcher",
+     "count": 22,
+     "outof": 125178
+    },
+    {
+     "id": 8912,
+     "name": "Twilight's Hammer Torturer",
+     "count": 21,
+     "outof": 42551,
+     "elite": true
+    },
+    {
+     "id": 6200,
+     "name": "Legashi Satyr",
+     "count": 21,
+     "outof": 91068
+    },
+    {
+     "id": 8900,
+     "name": "Doomforge Arcanasmith",
+     "count": 20,
+     "outof": 35989
+    },
+    {
+     "id": 6201,
+     "name": "Legashi Rogue",
+     "count": 20,
+     "outof": 98079
+    },
+    {
+     "id": 8896,
+     "name": "Shadowforge Peasant",
+     "count": 19,
+     "outof": 49783
+    },
+    {
+     "id": 9267,
+     "name": "Smolderthorn Axe Thrower",
+     "count": 19,
+     "outof": 19801,
+     "elite": true
+    },
+    {
+     "id": 9199,
+     "name": "Spirestone Enforcer",
+     "count": 18,
+     "outof": 15261,
+     "elite": true
+    },
+    {
+     "id": 1791,
+     "name": "Slavering Ghoul",
+     "count": 18,
+     "outof": 123415
+    },
+    {
+     "id": 7158,
+     "name": "Deadwood Shaman",
+     "count": 18,
+     "outof": 126438
+    },
+    {
+     "id": 8893,
+     "name": "Anvilrage Soldier",
+     "count": 16,
+     "outof": 32183,
+     "elite": true
+    },
+    {
+     "id": 9200,
+     "name": "Spirestone Reaver",
+     "count": 15,
+     "outof": 16322,
+     "elite": true
+    },
+    {
+     "id": 1794,
+     "name": "Soulless Ghoul",
+     "count": 15,
+     "outof": 49653
+    },
+    {
+     "id": 9239,
+     "name": "Smolderthorn Mystic",
+     "count": 14,
+     "outof": 14490,
+     "elite": true
+    },
+    {
+     "id": 6199,
+     "name": "Blood Elf Reclaimer",
+     "count": 14,
+     "outof": 31488
+    },
+    {
+     "id": 8915,
+     "name": "Twilight's Hammer Ambassador",
+     "count": 13,
+     "outof": 26705
+    },
+    {
+     "id": 7108,
+     "name": "Jadefire Betrayer",
+     "count": 13,
+     "outof": 106107
+    },
+    {
+     "id": 8897,
+     "name": "Doomforge Craftsman",
+     "count": 12,
+     "outof": 36999
+    },
+    {
+     "id": 9257,
+     "name": "Scarshield Warlock",
+     "count": 12,
+     "outof": 15946,
+     "elite": true
+    },
+    {
+     "id": 8903,
+     "name": "Anvilrage Captain",
+     "count": 11,
+     "outof": 16466,
+     "elite": true
+    },
+    {
+     "id": 9240,
+     "name": "Smolderthorn Shadow Priest",
+     "count": 11,
+     "outof": 23603,
+     "elite": true
+    },
+    {
+     "id": 1784,
+     "name": "Skeletal Sorcerer",
+     "count": 11,
+     "outof": 80347
+    },
+    {
+     "id": 7035,
+     "name": "Firegut Brute",
+     "count": 11,
+     "outof": 34148
+    },
+    {
+     "id": 7110,
+     "name": "Jadefire Shadowstalker",
+     "count": 11,
+     "outof": 43776
+    },
+    {
+     "id": 12179,
+     "name": "Tortured Sentinel",
+     "count": 11,
+     "outof": 22022
+    },
+    {
+     "id": 8913,
+     "name": "Twilight Emissary",
+     "count": 10,
+     "outof": 24022,
+     "elite": true
+    },
+    {
+     "id": 4474,
+     "name": "Rotting Cadaver",
+     "count": 10,
+     "outof": 70657
+    },
+    {
+     "id": 4475,
+     "name": "Blighted Zombie",
+     "count": 10,
+     "outof": 72968
+    },
+    {
+     "id": 7120,
+     "name": "Jaedenar Warlock",
+     "count": 10,
+     "outof": 24811
+    },
+    {
+     "id": 7441,
+     "name": "Winterfall Totemic",
+     "count": 10,
+     "outof": 78202
+    },
+    {
+     "id": 9447,
+     "name": "Scarlet Warder",
+     "count": 10,
+     "outof": 23708,
+     "elite": true
+    },
+    {
+     "id": 6198,
+     "name": "Blood Elf Surveyor",
+     "count": 9,
+     "outof": 31834
+    },
+    {
+     "id": 9201,
+     "name": "Spirestone Ogre Magus",
+     "count": 8,
+     "outof": 12256,
+     "elite": true
+    },
+    {
+     "id": 7034,
+     "name": "Firegut Ogre Mage",
+     "count": 8,
+     "outof": 32145
+    },
+    {
+     "id": 9862,
+     "name": "Jaedenar Legionnaire",
+     "count": 8,
+     "outof": 19028
+    },
+    {
+     "id": 1787,
+     "name": "Skeletal Executioner",
+     "count": 7,
+     "outof": 63975
+    },
+    {
+     "id": 6004,
+     "name": "Shadowsworn Cultist",
+     "count": 7,
+     "outof": 13735
+    },
+    {
+     "id": 7033,
+     "name": "Firegut Ogre",
+     "count": 7,
+     "outof": 27764
+    },
+    {
+     "id": 9045,
+     "name": "Scarshield Acolyte",
+     "count": 6,
+     "outof": 15933,
+     "elite": true
+    },
+    {
+     "id": 9198,
+     "name": "Spirestone Mystic",
+     "count": 6,
+     "outof": 7226,
+     "elite": true
+    },
+    {
+     "id": 10043,
+     "name": "Ribbly's Crony",
+     "count": 6,
+     "outof": 9269,
+     "elite": true
+    },
+    {
+     "id": 1789,
+     "name": "Skeletal Acolyte",
+     "count": 6,
+     "outof": 64959
+    },
+    {
+     "id": 1795,
+     "name": "Searing Ghoul",
+     "count": 6,
+     "outof": 48630
+    },
+    {
+     "id": 9449,
+     "name": "Scarlet Cleric",
+     "count": 6,
+     "outof": 14425,
+     "elite": true
+    },
+    {
+     "id": 11290,
+     "name": "Mossflayer Zombie",
+     "count": 6,
+     "outof": 12578
+    },
+    {
+     "id": 8902,
+     "name": "Shadowforge Citizen",
+     "count": 5,
+     "outof": 14571
+    },
+    {
+     "id": 9545,
+     "name": "Grim Patron",
+     "count": 5,
+     "outof": 15958
+    },
+    {
+     "id": 7524,
+     "name": "Anguished Highborne",
+     "count": 5,
+     "outof": 19096
+    },
+    {
+     "id": 9547,
+     "name": "Guzzling Patron",
+     "count": 4,
+     "outof": 15692
+    },
+    {
+     "id": 10411,
+     "name": "Eye of Naxxramas",
+     "count": 4,
+     "outof": 19651
+    },
+    {
+     "id": 11454,
+     "name": "Wildspawn Betrayer",
+     "count": 4,
+     "outof": 4383,
+     "elite": true
+    },
+    {
+     "id": 11455,
+     "name": "Wildspawn Felsworn",
+     "count": 4,
+     "outof": 13002,
+     "elite": true
+    },
+    {
+     "id": 1785,
+     "name": "Skeletal Terror",
+     "count": 4,
+     "outof": 33397
+    },
+    {
+     "id": 1883,
+     "name": "Scarlet Worker",
+     "count": 4,
+     "outof": 29443
+    },
+    {
+     "id": 7112,
+     "name": "Jaedenar Cultist",
+     "count": 4,
+     "outof": 17755
+    },
+    {
+     "id": 7115,
+     "name": "Jaedenar Adept",
+     "count": 4,
+     "outof": 16721
+    },
+    {
+     "id": 7523,
+     "name": "Suffering Highborne",
+     "count": 4,
+     "outof": 17859
+    },
+    {
+     "id": 9450,
+     "name": "Scarlet Curate",
+     "count": 4,
+     "outof": 5171,
+     "elite": true
+    },
+    {
+     "id": 8914,
+     "name": "Twilight Bodyguard",
+     "count": 3,
+     "outof": 9208,
+     "elite": true
+    },
+    {
+     "id": 9258,
+     "name": "Scarshield Raider",
+     "count": 3,
+     "outof": 3241,
+     "elite": true
+    },
+    {
+     "id": 1833,
+     "name": "Scarlet Knight",
+     "count": 3,
+     "outof": 12538
+    },
+    {
+     "id": 1884,
+     "name": "Scarlet Lumberjack",
+     "count": 3,
+     "outof": 18243
+    },
+    {
+     "id": 7025,
+     "name": "Blackrock Soldier",
+     "count": 3,
+     "outof": 12249
+    },
+    {
+     "id": 7118,
+     "name": "Jaedenar Darkweaver",
+     "count": 3,
+     "outof": 25552
+    },
+    {
+     "id": 9451,
+     "name": "Scarlet Archmage",
+     "count": 3,
+     "outof": 5341,
+     "elite": true
+    },
+    {
+     "id": 9398,
+     "name": "Twilight's Hammer Executioner",
+     "count": 2,
+     "outof": 20277,
+     "elite": true
+    },
+    {
+     "id": 9541,
+     "name": "Blackbreath Crony",
+     "count": 2,
+     "outof": 13123,
+     "elite": true
+    },
+    {
+     "id": 9554,
+     "name": "Hammered Patron",
+     "count": 2,
+     "outof": 7163,
+     "elite": true
+    },
+    {
+     "id": 11451,
+     "name": "Wildspawn Satyr",
+     "count": 2,
+     "outof": 8745,
+     "elite": true
+    },
+    {
+     "id": 1796,
+     "name": "Freezing Ghoul",
+     "count": 2,
+     "outof": 22790
+    },
+    {
+     "id": 1826,
+     "name": "Scarlet Mage",
+     "count": 2,
+     "outof": 5247
+    },
+    {
+     "id": 6006,
+     "name": "Shadowsworn Adept",
+     "count": 2,
+     "outof": 14103
+    },
+    {
+     "id": 6008,
+     "name": "Shadowsworn Warlock",
+     "count": 2,
+     "outof": 2874
+    },
+    {
+     "id": 7026,
+     "name": "Blackrock Sorcerer",
+     "count": 2,
+     "outof": 15322
+    },
+    {
+     "id": 7114,
+     "name": "Jaedenar Enforcer",
+     "count": 2,
+     "outof": 17555
+    },
+    {
+     "id": 7668,
+     "name": "Servant of Razelikh",
+     "count": 2,
+     "outof": 5482
+    },
+    {
+     "id": 8540,
+     "name": "Torn Screamer",
+     "count": 2,
+     "outof": 10612
+    },
+    {
+     "id": 9043,
+     "name": "Scarshield Grunt",
+     "count": 2,
+     "outof": 2951,
+     "elite": true
+    },
+    {
+     "id": 10605,
+     "name": "Scarlet Medic",
+     "count": 2,
+     "outof": 7119
+    },
+    {
+     "id": 10648,
+     "name": "Xavaric",
+     "count": 2,
+     "outof": 8482
+    },
+    {
+     "id": 10919,
+     "name": "Shatterspear Troll",
+     "count": 2,
+     "outof": 25848
+    },
+    {
+     "id": 11442,
+     "name": "Gordok Mauler",
+     "count": 2,
+     "outof": 5082,
+     "elite": true
+    },
+    {
+     "id": 11443,
+     "name": "Gordok Ogre-Mage",
+     "count": 2,
+     "outof": 11314,
+     "elite": true
+    },
+    {
+     "id": 9677,
+     "name": "Ograbisi",
+     "count": 1,
+     "outof": 1000,
+     "elite": true
+    },
+    {
+     "id": 9452,
+     "name": "Scarlet Enchanter",
+     "count": 1,
+     "outof": 14782,
+     "elite": true
+    },
+    {
+     "id": 9861,
+     "name": "Moora",
+     "count": 1,
+     "outof": 1384
+    },
+    {
+     "id": 11516,
+     "name": "Timbermaw Warder",
+     "count": 1,
+     "outof": 1567
+    }
+   ],
+   "overall_pct": 0.0
+  },
+  "11736": {
+   "name": "Libram of Resilience",
+   "quests": [
+    4483
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 8891,
+     "name": "Anvilrage Guardsman",
+     "count": 165,
+     "outof": 282828,
+     "elite": true
+    },
+    {
+     "id": 8892,
+     "name": "Anvilrage Footman",
+     "count": 122,
+     "outof": 189057,
+     "elite": true
+    },
+    {
+     "id": 9097,
+     "name": "Scarshield Legionnaire",
+     "count": 98,
+     "outof": 97476,
+     "elite": true
+    },
+    {
+     "id": 8890,
+     "name": "Anvilrage Warden",
+     "count": 83,
+     "outof": 117261,
+     "elite": true
+    },
+    {
+     "id": 8899,
+     "name": "Doomforge Dragoon",
+     "count": 63,
+     "outof": 86900,
+     "elite": true
+    },
+    {
+     "id": 8898,
+     "name": "Anvilrage Marshal",
+     "count": 40,
+     "outof": 75277,
+     "elite": true
+    },
+    {
+     "id": 8920,
+     "name": "Weapon Technician",
+     "count": 38,
+     "outof": 98855
+    },
+    {
+     "id": 8896,
+     "name": "Shadowforge Peasant",
+     "count": 36,
+     "outof": 49783
+    },
+    {
+     "id": 8912,
+     "name": "Twilight's Hammer Torturer",
+     "count": 31,
+     "outof": 42551,
+     "elite": true
+    },
+    {
+     "id": 1783,
+     "name": "Skeletal Flayer",
+     "count": 31,
+     "outof": 211524
+    },
+    {
+     "id": 8904,
+     "name": "Shadowforge Senator",
+     "count": 30,
+     "outof": 78588
+    },
+    {
+     "id": 7157,
+     "name": "Deadwood Avenger",
+     "count": 30,
+     "outof": 140751
+    },
+    {
+     "id": 7440,
+     "name": "Winterfall Den Watcher",
+     "count": 29,
+     "outof": 197944
+    },
+    {
+     "id": 8894,
+     "name": "Anvilrage Medic",
+     "count": 27,
+     "outof": 47838,
+     "elite": true
+    },
+    {
+     "id": 7158,
+     "name": "Deadwood Shaman",
+     "count": 26,
+     "outof": 126438
+    },
+    {
+     "id": 8893,
+     "name": "Anvilrage Soldier",
+     "count": 25,
+     "outof": 32183,
+     "elite": true
+    },
+    {
+     "id": 7156,
+     "name": "Deadwood Den Watcher",
+     "count": 24,
+     "outof": 125178
+    },
+    {
+     "id": 7442,
+     "name": "Winterfall Pathfinder",
+     "count": 24,
+     "outof": 136293
+    },
+    {
+     "id": 8889,
+     "name": "Anvilrage Overseer",
+     "count": 24,
+     "outof": 53731,
+     "elite": true
+    },
+    {
+     "id": 9267,
+     "name": "Smolderthorn Axe Thrower",
+     "count": 23,
+     "outof": 19801,
+     "elite": true
+    },
+    {
+     "id": 7107,
+     "name": "Jadefire Trickster",
+     "count": 23,
+     "outof": 109267
+    },
+    {
+     "id": 9199,
+     "name": "Spirestone Enforcer",
+     "count": 20,
+     "outof": 15261,
+     "elite": true
+    },
+    {
+     "id": 8897,
+     "name": "Doomforge Craftsman",
+     "count": 20,
+     "outof": 37078
+    },
+    {
+     "id": 9098,
+     "name": "Scarshield Spellbinder",
+     "count": 19,
+     "outof": 30394,
+     "elite": true
+    },
+    {
+     "id": 7111,
+     "name": "Jadefire Hellcaller",
+     "count": 19,
+     "outof": 99827
+    },
+    {
+     "id": 9200,
+     "name": "Spirestone Reaver",
+     "count": 18,
+     "outof": 16322,
+     "elite": true
+    },
+    {
+     "id": 6201,
+     "name": "Legashi Rogue",
+     "count": 18,
+     "outof": 98079
+    },
+    {
+     "id": 7108,
+     "name": "Jadefire Betrayer",
+     "count": 18,
+     "outof": 106107
+    },
+    {
+     "id": 9045,
+     "name": "Scarshield Acolyte",
+     "count": 17,
+     "outof": 15933,
+     "elite": true
+    },
+    {
+     "id": 8900,
+     "name": "Doomforge Arcanasmith",
+     "count": 14,
+     "outof": 35989
+    },
+    {
+     "id": 9547,
+     "name": "Guzzling Patron",
+     "count": 14,
+     "outof": 15692
+    },
+    {
+     "id": 6200,
+     "name": "Legashi Satyr",
+     "count": 14,
+     "outof": 91068
+    },
+    {
+     "id": 6202,
+     "name": "Legashi Hellcaller",
+     "count": 14,
+     "outof": 92747
+    },
+    {
+     "id": 9239,
+     "name": "Smolderthorn Mystic",
+     "count": 13,
+     "outof": 14490,
+     "elite": true
+    },
+    {
+     "id": 9240,
+     "name": "Smolderthorn Shadow Priest",
+     "count": 13,
+     "outof": 23603,
+     "elite": true
+    },
+    {
+     "id": 6199,
+     "name": "Blood Elf Reclaimer",
+     "count": 13,
+     "outof": 31488
+    },
+    {
+     "id": 8903,
+     "name": "Anvilrage Captain",
+     "count": 12,
+     "outof": 16466,
+     "elite": true
+    },
+    {
+     "id": 1791,
+     "name": "Slavering Ghoul",
+     "count": 12,
+     "outof": 123415
+    },
+    {
+     "id": 4474,
+     "name": "Rotting Cadaver",
+     "count": 12,
+     "outof": 70657
+    },
+    {
+     "id": 7110,
+     "name": "Jadefire Shadowstalker",
+     "count": 12,
+     "outof": 43776
+    },
+    {
+     "id": 9201,
+     "name": "Spirestone Ogre Magus",
+     "count": 11,
+     "outof": 12256,
+     "elite": true
+    },
+    {
+     "id": 1787,
+     "name": "Skeletal Executioner",
+     "count": 10,
+     "outof": 63975
+    },
+    {
+     "id": 8915,
+     "name": "Twilight's Hammer Ambassador",
+     "count": 9,
+     "outof": 26705
+    },
+    {
+     "id": 9257,
+     "name": "Scarshield Warlock",
+     "count": 9,
+     "outof": 15946,
+     "elite": true
+    },
+    {
+     "id": 1789,
+     "name": "Skeletal Acolyte",
+     "count": 9,
+     "outof": 64959
+    },
+    {
+     "id": 1794,
+     "name": "Soulless Ghoul",
+     "count": 9,
+     "outof": 49653
+    },
+    {
+     "id": 1883,
+     "name": "Scarlet Worker",
+     "count": 9,
+     "outof": 29443
+    },
+    {
+     "id": 7033,
+     "name": "Firegut Ogre",
+     "count": 9,
+     "outof": 27764
+    },
+    {
+     "id": 7120,
+     "name": "Jaedenar Warlock",
+     "count": 9,
+     "outof": 24811
+    },
+    {
+     "id": 7441,
+     "name": "Winterfall Totemic",
+     "count": 9,
+     "outof": 78202
+    },
+    {
+     "id": 9447,
+     "name": "Scarlet Warder",
+     "count": 9,
+     "outof": 23708,
+     "elite": true
+    },
+    {
+     "id": 9452,
+     "name": "Scarlet Enchanter",
+     "count": 9,
+     "outof": 14782,
+     "elite": true
+    },
+    {
+     "id": 8895,
+     "name": "Anvilrage Officer",
+     "count": 8,
+     "outof": 19782,
+     "elite": true
+    },
+    {
+     "id": 8913,
+     "name": "Twilight Emissary",
+     "count": 8,
+     "outof": 24022,
+     "elite": true
+    },
+    {
+     "id": 1833,
+     "name": "Scarlet Knight",
+     "count": 8,
+     "outof": 12538
+    },
+    {
+     "id": 7034,
+     "name": "Firegut Ogre Mage",
+     "count": 8,
+     "outof": 32145
+    },
+    {
+     "id": 9451,
+     "name": "Scarlet Archmage",
+     "count": 8,
+     "outof": 5341,
+     "elite": true
+    },
+    {
+     "id": 1784,
+     "name": "Skeletal Sorcerer",
+     "count": 7,
+     "outof": 80347
+    },
+    {
+     "id": 1834,
+     "name": "Scarlet Paladin",
+     "count": 7,
+     "outof": 10392,
+     "elite": true
+    },
+    {
+     "id": 6198,
+     "name": "Blood Elf Surveyor",
+     "count": 7,
+     "outof": 31834
+    },
+    {
+     "id": 9862,
+     "name": "Jaedenar Legionnaire",
+     "count": 7,
+     "outof": 19028
+    },
+    {
+     "id": 8914,
+     "name": "Twilight Bodyguard",
+     "count": 6,
+     "outof": 9208,
+     "elite": true
+    },
+    {
+     "id": 9545,
+     "name": "Grim Patron",
+     "count": 6,
+     "outof": 15958
+    },
+    {
+     "id": 8525,
+     "name": "Scourge Warder",
+     "count": 6,
+     "outof": 14744
+    },
+    {
+     "id": 9398,
+     "name": "Twilight's Hammer Executioner",
+     "count": 5,
+     "outof": 20277,
+     "elite": true
+    },
+    {
+     "id": 10411,
+     "name": "Eye of Naxxramas",
+     "count": 5,
+     "outof": 19651
+    },
+    {
+     "id": 11451,
+     "name": "Wildspawn Satyr",
+     "count": 5,
+     "outof": 8745,
+     "elite": true
+    },
+    {
+     "id": 7035,
+     "name": "Firegut Brute",
+     "count": 5,
+     "outof": 34148
+    },
+    {
+     "id": 7112,
+     "name": "Jaedenar Cultist",
+     "count": 5,
+     "outof": 17755
+    },
+    {
+     "id": 11443,
+     "name": "Gordok Ogre-Mage",
+     "count": 5,
+     "outof": 11314,
+     "elite": true
+    },
+    {
+     "id": 9541,
+     "name": "Blackbreath Crony",
+     "count": 4,
+     "outof": 13123,
+     "elite": true
+    },
+    {
+     "id": 10043,
+     "name": "Ribbly's Crony",
+     "count": 4,
+     "outof": 9269,
+     "elite": true
+    },
+    {
+     "id": 11455,
+     "name": "Wildspawn Felsworn",
+     "count": 4,
+     "outof": 13002,
+     "elite": true
+    },
+    {
+     "id": 1785,
+     "name": "Skeletal Terror",
+     "count": 4,
+     "outof": 33397
+    },
+    {
+     "id": 1795,
+     "name": "Searing Ghoul",
+     "count": 4,
+     "outof": 48630
+    },
+    {
+     "id": 4475,
+     "name": "Blighted Zombie",
+     "count": 4,
+     "outof": 72968
+    },
+    {
+     "id": 5978,
+     "name": "Dreadmaul Warlock",
+     "count": 4,
+     "outof": 5790
+    },
+    {
+     "id": 7118,
+     "name": "Jaedenar Darkweaver",
+     "count": 4,
+     "outof": 25552
+    },
+    {
+     "id": 9449,
+     "name": "Scarlet Cleric",
+     "count": 4,
+     "outof": 14425,
+     "elite": true
+    },
+    {
+     "id": 10919,
+     "name": "Shatterspear Troll",
+     "count": 4,
+     "outof": 25848
+    },
+    {
+     "id": 11440,
+     "name": "Gordok Enforcer",
+     "count": 4,
+     "outof": 3318,
+     "elite": true
+    },
+    {
+     "id": 11442,
+     "name": "Gordok Mauler",
+     "count": 4,
+     "outof": 5082,
+     "elite": true
+    },
+    {
+     "id": 9198,
+     "name": "Spirestone Mystic",
+     "count": 3,
+     "outof": 7226,
+     "elite": true
+    },
+    {
+     "id": 1796,
+     "name": "Freezing Ghoul",
+     "count": 3,
+     "outof": 22790
+    },
+    {
+     "id": 1884,
+     "name": "Scarlet Lumberjack",
+     "count": 3,
+     "outof": 18243
+    },
+    {
+     "id": 7025,
+     "name": "Blackrock Soldier",
+     "count": 3,
+     "outof": 12249
+    },
+    {
+     "id": 7523,
+     "name": "Suffering Highborne",
+     "count": 3,
+     "outof": 17859
+    },
+    {
+     "id": 9044,
+     "name": "Scarshield Sentry",
+     "count": 3,
+     "outof": 7020,
+     "elite": true
+    },
+    {
+     "id": 11290,
+     "name": "Mossflayer Zombie",
+     "count": 3,
+     "outof": 12578
+    },
+    {
+     "id": 12179,
+     "name": "Tortured Sentinel",
+     "count": 3,
+     "outof": 22022
+    },
+    {
+     "id": 8902,
+     "name": "Shadowforge Citizen",
+     "count": 2,
+     "outof": 14571
+    },
+    {
+     "id": 9680,
+     "name": "Crest Killer",
+     "count": 2,
+     "outof": 1015,
+     "elite": true
+    },
+    {
+     "id": 1756,
+     "name": "Stormwind Royal Guard",
+     "count": 2,
+     "outof": 1005,
+     "elite": true
+    },
+    {
+     "id": 1793,
+     "name": "Rotting Ghoul",
+     "count": 2,
+     "outof": 19970
+    },
+    {
+     "id": 5977,
+     "name": "Dreadmaul Mauler",
+     "count": 2,
+     "outof": 5922
+    },
+    {
+     "id": 6004,
+     "name": "Shadowsworn Cultist",
+     "count": 2,
+     "outof": 13735
+    },
+    {
+     "id": 6005,
+     "name": "Shadowsworn Thug",
+     "count": 2,
+     "outof": 14193
+    },
+    {
+     "id": 6006,
+     "name": "Shadowsworn Adept",
+     "count": 2,
+     "outof": 14103
+    },
+    {
+     "id": 7114,
+     "name": "Jaedenar Enforcer",
+     "count": 2,
+     "outof": 17555
+    },
+    {
+     "id": 7115,
+     "name": "Jaedenar Adept",
+     "count": 2,
+     "outof": 16721
+    },
+    {
+     "id": 8523,
+     "name": "Scourge Soldier",
+     "count": 2,
+     "outof": 11208
+    },
+    {
+     "id": 8524,
+     "name": "Cursed Mage",
+     "count": 2,
+     "outof": 14241
+    },
+    {
+     "id": 8530,
+     "name": "Cannibal Ghoul",
+     "count": 2,
+     "outof": 17313
+    },
+    {
+     "id": 8541,
+     "name": "Hate Shrieker",
+     "count": 2,
+     "outof": 20984
+    },
+    {
+     "id": 9450,
+     "name": "Scarlet Curate",
+     "count": 2,
+     "outof": 5171,
+     "elite": true
+    },
+    {
+     "id": 10605,
+     "name": "Scarlet Medic",
+     "count": 2,
+     "outof": 7119
+    },
+    {
+     "id": 11196,
+     "name": "Shatterspear Drummer",
+     "count": 2,
+     "outof": 1850
+    },
+    {
+     "id": 11516,
+     "name": "Timbermaw Warder",
+     "count": 2,
+     "outof": 1567
+    },
+    {
+     "id": 9056,
+     "name": "Fineous Darkvire",
+     "count": 1,
+     "outof": 2199,
+     "elite": true
+    },
+    {
+     "id": 9445,
+     "name": "Dark Guard",
+     "count": 1,
+     "outof": 3214,
+     "elite": true
+    },
+    {
+     "id": 1827,
+     "name": "Scarlet Sentinel",
+     "count": 1,
+     "outof": 6306,
+     "elite": true
+    },
+    {
+     "id": 7038,
+     "name": "Thaurissan Agent",
+     "count": 1,
+     "outof": 5912
+    },
+    {
+     "id": 9554,
+     "name": "Hammered Patron",
+     "count": 1,
+     "outof": 7167,
+     "elite": true
+    }
+   ],
+   "overall_pct": 0.0
+  },
+  "11737": {
+   "name": "Libram of Voracity",
+   "quests": [
+    4484
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 8893,
+     "name": "Anvilrage Soldier",
+     "count": 1,
+     "outof": 26,
+     "elite": true
+    },
+    {
+     "id": 9200,
+     "name": "Spirestone Reaver",
+     "count": 2,
+     "outof": 4,
+     "elite": true
+    },
+    {
+     "id": 8891,
+     "name": "Anvilrage Guardsman",
+     "count": 197,
+     "outof": 282828,
+     "elite": true
+    },
+    {
+     "id": 8892,
+     "name": "Anvilrage Footman",
+     "count": 180,
+     "outof": 189057,
+     "elite": true
+    },
+    {
+     "id": 8890,
+     "name": "Anvilrage Warden",
+     "count": 131,
+     "outof": 117261,
+     "elite": true
+    },
+    {
+     "id": 9097,
+     "name": "Scarshield Legionnaire",
+     "count": 92,
+     "outof": 97476,
+     "elite": true
+    },
+    {
+     "id": 8898,
+     "name": "Anvilrage Marshal",
+     "count": 61,
+     "outof": 75277,
+     "elite": true
+    },
+    {
+     "id": 8899,
+     "name": "Doomforge Dragoon",
+     "count": 55,
+     "outof": 86900,
+     "elite": true
+    },
+    {
+     "id": 8904,
+     "name": "Shadowforge Senator",
+     "count": 49,
+     "outof": 78644
+    },
+    {
+     "id": 8920,
+     "name": "Weapon Technician",
+     "count": 39,
+     "outof": 98855
+    },
+    {
+     "id": 8894,
+     "name": "Anvilrage Medic",
+     "count": 37,
+     "outof": 47838,
+     "elite": true
+    },
+    {
+     "id": 7440,
+     "name": "Winterfall Den Watcher",
+     "count": 37,
+     "outof": 197944
+    },
+    {
+     "id": 6202,
+     "name": "Legashi Hellcaller",
+     "count": 36,
+     "outof": 92747
+    },
+    {
+     "id": 8912,
+     "name": "Twilight's Hammer Torturer",
+     "count": 34,
+     "outof": 42551,
+     "elite": true
+    },
+    {
+     "id": 1783,
+     "name": "Skeletal Flayer",
+     "count": 33,
+     "outof": 211524
+    },
+    {
+     "id": 8889,
+     "name": "Anvilrage Overseer",
+     "count": 29,
+     "outof": 53731,
+     "elite": true
+    },
+    {
+     "id": 9098,
+     "name": "Scarshield Spellbinder",
+     "count": 28,
+     "outof": 30394,
+     "elite": true
+    },
+    {
+     "id": 8897,
+     "name": "Doomforge Craftsman",
+     "count": 27,
+     "outof": 36999
+    },
+    {
+     "id": 6201,
+     "name": "Legashi Rogue",
+     "count": 27,
+     "outof": 98079
+    },
+    {
+     "id": 7156,
+     "name": "Deadwood Den Watcher",
+     "count": 27,
+     "outof": 125178
+    },
+    {
+     "id": 7442,
+     "name": "Winterfall Pathfinder",
+     "count": 26,
+     "outof": 136293
+    },
+    {
+     "id": 6200,
+     "name": "Legashi Satyr",
+     "count": 24,
+     "outof": 91068
+    },
+    {
+     "id": 7157,
+     "name": "Deadwood Avenger",
+     "count": 23,
+     "outof": 140751
+    },
+    {
+     "id": 8896,
+     "name": "Shadowforge Peasant",
+     "count": 22,
+     "outof": 49783
+    },
+    {
+     "id": 7108,
+     "name": "Jadefire Betrayer",
+     "count": 21,
+     "outof": 106107
+    },
+    {
+     "id": 7107,
+     "name": "Jadefire Trickster",
+     "count": 20,
+     "outof": 109267
+    },
+    {
+     "id": 7111,
+     "name": "Jadefire Hellcaller",
+     "count": 20,
+     "outof": 99827
+    },
+    {
+     "id": 7158,
+     "name": "Deadwood Shaman",
+     "count": 20,
+     "outof": 126438
+    },
+    {
+     "id": 9240,
+     "name": "Smolderthorn Shadow Priest",
+     "count": 19,
+     "outof": 23603,
+     "elite": true
+    },
+    {
+     "id": 8895,
+     "name": "Anvilrage Officer",
+     "count": 18,
+     "outof": 19782,
+     "elite": true
+    },
+    {
+     "id": 8915,
+     "name": "Twilight's Hammer Ambassador",
+     "count": 18,
+     "outof": 26705
+    },
+    {
+     "id": 9045,
+     "name": "Scarshield Acolyte",
+     "count": 17,
+     "outof": 15933,
+     "elite": true
+    },
+    {
+     "id": 8903,
+     "name": "Anvilrage Captain",
+     "count": 16,
+     "outof": 16466,
+     "elite": true
+    },
+    {
+     "id": 1883,
+     "name": "Scarlet Worker",
+     "count": 16,
+     "outof": 29443
+    },
+    {
+     "id": 7034,
+     "name": "Firegut Ogre Mage",
+     "count": 16,
+     "outof": 32145
+    },
+    {
+     "id": 9447,
+     "name": "Scarlet Warder",
+     "count": 16,
+     "outof": 23708,
+     "elite": true
+    },
+    {
+     "id": 8900,
+     "name": "Doomforge Arcanasmith",
+     "count": 15,
+     "outof": 35989
+    },
+    {
+     "id": 9199,
+     "name": "Spirestone Enforcer",
+     "count": 14,
+     "outof": 15261,
+     "elite": true
+    },
+    {
+     "id": 1791,
+     "name": "Slavering Ghoul",
+     "count": 13,
+     "outof": 123415
+    },
+    {
+     "id": 1794,
+     "name": "Soulless Ghoul",
+     "count": 13,
+     "outof": 49653
+    },
+    {
+     "id": 4475,
+     "name": "Blighted Zombie",
+     "count": 13,
+     "outof": 72968
+    },
+    {
+     "id": 6199,
+     "name": "Blood Elf Reclaimer",
+     "count": 13,
+     "outof": 31488
+    },
+    {
+     "id": 7441,
+     "name": "Winterfall Totemic",
+     "count": 13,
+     "outof": 78202
+    },
+    {
+     "id": 9201,
+     "name": "Spirestone Ogre Magus",
+     "count": 12,
+     "outof": 12256,
+     "elite": true
+    },
+    {
+     "id": 9257,
+     "name": "Scarshield Warlock",
+     "count": 12,
+     "outof": 15946,
+     "elite": true
+    },
+    {
+     "id": 9267,
+     "name": "Smolderthorn Axe Thrower",
+     "count": 12,
+     "outof": 19801,
+     "elite": true
+    },
+    {
+     "id": 1784,
+     "name": "Skeletal Sorcerer",
+     "count": 12,
+     "outof": 80347
+    },
+    {
+     "id": 9239,
+     "name": "Smolderthorn Mystic",
+     "count": 11,
+     "outof": 14490,
+     "elite": true
+    },
+    {
+     "id": 1787,
+     "name": "Skeletal Executioner",
+     "count": 11,
+     "outof": 63975
+    },
+    {
+     "id": 7035,
+     "name": "Firegut Brute",
+     "count": 11,
+     "outof": 34148
+    },
+    {
+     "id": 7110,
+     "name": "Jadefire Shadowstalker",
+     "count": 11,
+     "outof": 43776
+    },
+    {
+     "id": 9862,
+     "name": "Jaedenar Legionnaire",
+     "count": 11,
+     "outof": 19028
+    },
+    {
+     "id": 10043,
+     "name": "Ribbly's Crony",
+     "count": 10,
+     "outof": 9269,
+     "elite": true
+    },
+    {
+     "id": 1789,
+     "name": "Skeletal Acolyte",
+     "count": 10,
+     "outof": 64959
+    },
+    {
+     "id": 4474,
+     "name": "Rotting Cadaver",
+     "count": 10,
+     "outof": 70657
+    },
+    {
+     "id": 6006,
+     "name": "Shadowsworn Adept",
+     "count": 10,
+     "outof": 14103
+    },
+    {
+     "id": 7115,
+     "name": "Jaedenar Adept",
+     "count": 10,
+     "outof": 16721
+    },
+    {
+     "id": 8913,
+     "name": "Twilight Emissary",
+     "count": 9,
+     "outof": 24022,
+     "elite": true
+    },
+    {
+     "id": 11451,
+     "name": "Wildspawn Satyr",
+     "count": 8,
+     "outof": 8745,
+     "elite": true
+    },
+    {
+     "id": 11455,
+     "name": "Wildspawn Felsworn",
+     "count": 8,
+     "outof": 13002,
+     "elite": true
+    },
+    {
+     "id": 7033,
+     "name": "Firegut Ogre",
+     "count": 8,
+     "outof": 27764
+    },
+    {
+     "id": 7112,
+     "name": "Jaedenar Cultist",
+     "count": 8,
+     "outof": 17755
+    },
+    {
+     "id": 9449,
+     "name": "Scarlet Cleric",
+     "count": 8,
+     "outof": 14425,
+     "elite": true
+    },
+    {
+     "id": 6198,
+     "name": "Blood Elf Surveyor",
+     "count": 7,
+     "outof": 31834
+    },
+    {
+     "id": 7114,
+     "name": "Jaedenar Enforcer",
+     "count": 7,
+     "outof": 17555
+    },
+    {
+     "id": 7120,
+     "name": "Jaedenar Warlock",
+     "count": 7,
+     "outof": 24811
+    },
+    {
+     "id": 8983,
+     "name": "Golem Lord Argelmach",
+     "count": 6,
+     "outof": 31723,
+     "elite": true
+    },
+    {
+     "id": 9398,
+     "name": "Twilight's Hammer Executioner",
+     "count": 6,
+     "outof": 20277,
+     "elite": true
+    },
+    {
+     "id": 9545,
+     "name": "Grim Patron",
+     "count": 6,
+     "outof": 15958
+    },
+    {
+     "id": 1795,
+     "name": "Searing Ghoul",
+     "count": 6,
+     "outof": 48630
+    },
+    {
+     "id": 5978,
+     "name": "Dreadmaul Warlock",
+     "count": 6,
+     "outof": 5790
+    },
+    {
+     "id": 9451,
+     "name": "Scarlet Archmage",
+     "count": 6,
+     "outof": 5341,
+     "elite": true
+    },
+    {
+     "id": 11290,
+     "name": "Mossflayer Zombie",
+     "count": 6,
+     "outof": 12578
+    },
+    {
+     "id": 8902,
+     "name": "Shadowforge Citizen",
+     "count": 5,
+     "outof": 14571
+    },
+    {
+     "id": 9258,
+     "name": "Scarshield Raider",
+     "count": 5,
+     "outof": 3241,
+     "elite": true
+    },
+    {
+     "id": 9554,
+     "name": "Hammered Patron",
+     "count": 5,
+     "outof": 7163,
+     "elite": true
+    },
+    {
+     "id": 6005,
+     "name": "Shadowsworn Thug",
+     "count": 5,
+     "outof": 14193
+    },
+    {
+     "id": 7025,
+     "name": "Blackrock Soldier",
+     "count": 5,
+     "outof": 12249
+    },
+    {
+     "id": 7026,
+     "name": "Blackrock Sorcerer",
+     "count": 5,
+     "outof": 15322
+    },
+    {
+     "id": 7118,
+     "name": "Jaedenar Darkweaver",
+     "count": 5,
+     "outof": 25552
+    },
+    {
+     "id": 7524,
+     "name": "Anguished Highborne",
+     "count": 5,
+     "outof": 19096
+    },
+    {
+     "id": 9452,
+     "name": "Scarlet Enchanter",
+     "count": 5,
+     "outof": 14782,
+     "elite": true
+    },
+    {
+     "id": 9198,
+     "name": "Spirestone Mystic",
+     "count": 4,
+     "outof": 7226,
+     "elite": true
+    },
+    {
+     "id": 9681,
+     "name": "Jaz",
+     "count": 4,
+     "outof": 885,
+     "elite": true
+    },
+    {
+     "id": 1834,
+     "name": "Scarlet Paladin",
+     "count": 4,
+     "outof": 10392,
+     "elite": true
+    },
+    {
+     "id": 9044,
+     "name": "Scarshield Sentry",
+     "count": 4,
+     "outof": 7020,
+     "elite": true
+    },
+    {
+     "id": 11442,
+     "name": "Gordok Mauler",
+     "count": 4,
+     "outof": 5082,
+     "elite": true
+    },
+    {
+     "id": 11443,
+     "name": "Gordok Ogre-Mage",
+     "count": 4,
+     "outof": 11314,
+     "elite": true
+    },
+    {
+     "id": 1785,
+     "name": "Skeletal Terror",
+     "count": 3,
+     "outof": 33397
+    },
+    {
+     "id": 6004,
+     "name": "Shadowsworn Cultist",
+     "count": 3,
+     "outof": 13735
+    },
+    {
+     "id": 8530,
+     "name": "Cannibal Ghoul",
+     "count": 3,
+     "outof": 17313
+    },
+    {
+     "id": 9046,
+     "name": "Scarshield Quartermaster",
+     "count": 3,
+     "outof": 5198,
+     "elite": true
+    },
+    {
+     "id": 10919,
+     "name": "Shatterspear Troll",
+     "count": 3,
+     "outof": 25848
+    },
+    {
+     "id": 11887,
+     "name": "Crypt Robber",
+     "count": 3,
+     "outof": 3160
+    },
+    {
+     "id": 12179,
+     "name": "Tortured Sentinel",
+     "count": 3,
+     "outof": 22022
+    },
+    {
+     "id": 9541,
+     "name": "Blackbreath Crony",
+     "count": 2,
+     "outof": 13123,
+     "elite": true
+    },
+    {
+     "id": 9677,
+     "name": "Ograbisi",
+     "count": 2,
+     "outof": 1000,
+     "elite": true
+    },
+    {
+     "id": 9956,
+     "name": "Shadowforge Flame Keeper",
+     "count": 2,
+     "outof": 10934
+    },
+    {
+     "id": 1793,
+     "name": "Rotting Ghoul",
+     "count": 2,
+     "outof": 19970
+    },
+    {
+     "id": 1796,
+     "name": "Freezing Ghoul",
+     "count": 2,
+     "outof": 22790
+    },
+    {
+     "id": 1827,
+     "name": "Scarlet Sentinel",
+     "count": 2,
+     "outof": 6306,
+     "elite": true
+    },
+    {
+     "id": 1884,
+     "name": "Scarlet Lumberjack",
+     "count": 2,
+     "outof": 18243
+    },
+    {
+     "id": 5977,
+     "name": "Dreadmaul Mauler",
+     "count": 2,
+     "outof": 5922
+    },
+    {
+     "id": 6007,
+     "name": "Shadowsworn Enforcer",
+     "count": 2,
+     "outof": 2937
+    },
+    {
+     "id": 6008,
+     "name": "Shadowsworn Warlock",
+     "count": 2,
+     "outof": 2874
+    },
+    {
+     "id": 7668,
+     "name": "Servant of Razelikh",
+     "count": 2,
+     "outof": 5482
+    },
+    {
+     "id": 8525,
+     "name": "Scourge Warder",
+     "count": 2,
+     "outof": 14744
+    },
+    {
+     "id": 8551,
+     "name": "Dark Summoner",
+     "count": 2,
+     "outof": 4980
+    },
+    {
+     "id": 9043,
+     "name": "Scarshield Grunt",
+     "count": 2,
+     "outof": 2951,
+     "elite": true
+    },
+    {
+     "id": 9450,
+     "name": "Scarlet Curate",
+     "count": 2,
+     "outof": 5171,
+     "elite": true
+    },
+    {
+     "id": 11516,
+     "name": "Timbermaw Warder",
+     "count": 2,
+     "outof": 1567
+    },
+    {
+     "id": 9030,
+     "name": "Ok'thor the Breaker",
+     "count": 1,
+     "outof": 2057,
+     "elite": true
+    },
+    {
+     "id": 1833,
+     "name": "Scarlet Knight",
+     "count": 1,
+     "outof": 12538
+    },
+    {
+     "id": 11355,
+     "name": "Gurubashi Warrior",
+     "count": 1,
+     "outof": 1971,
+     "elite": true
+    }
+   ],
+   "overall_pct": 0.0
+  },
+  "11829": {
+   "name": "Un'Goro Ash",
+   "quests": [
+    4502
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 6520,
+     "name": "Scorching Elemental",
+     "count": 45,
+     "outof": 81
+    },
+    {
+     "id": 6521,
+     "name": "Living Blaze",
+     "count": 49,
+     "outof": 75
+    },
+    {
+     "id": 9376,
+     "name": "Blazerunner",
+     "count": 1,
+     "outof": 1,
+     "elite": true
+    },
+    {
+     "id": 14460,
+     "name": "Blazing Invader",
+     "count": 1085,
+     "outof": 12313
+    }
+   ],
+   "overall_pct": 9.5
   },
   "11830": {
    "name": "Webbed Diemetradon Scale",
@@ -13552,6 +18520,1423 @@
    ],
    "overall_pct": 35.2
   },
+  "11834": {
+   "name": "Super Sticky Tar",
+   "quests": [
+    4504
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 6517,
+     "name": "Tar Beast",
+     "count": 15,
+     "outof": 67
+    },
+    {
+     "id": 6518,
+     "name": "Tar Lurker",
+     "count": 49,
+     "outof": 124
+    },
+    {
+     "id": 6519,
+     "name": "Tar Lord",
+     "count": 36,
+     "outof": 104
+    },
+    {
+     "id": 6527,
+     "name": "Tar Creeper",
+     "count": 26,
+     "outof": 88
+    }
+   ],
+   "overall_pct": 32.9
+  },
+  "11835": {
+   "name": "Gorishi Queen Brain",
+   "quests": [
+    4507
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
+   "dropped_by": "Gorishi Hive Queen",
+   "overall_pct": 100.0
+  },
+  "11837": {
+   "name": "Gorishi Scent Gland",
+   "quests": [
+    4496
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 6551,
+     "name": "Gorishi Wasp",
+     "count": 1,
+     "outof": 65
+    },
+    {
+     "id": 6552,
+     "name": "Gorishi Worker",
+     "count": 2,
+     "outof": 24
+    },
+    {
+     "id": 6553,
+     "name": "Gorishi Reaver",
+     "count": 3,
+     "outof": 53
+    },
+    {
+     "id": 6554,
+     "name": "Gorishi Stinger",
+     "count": 1,
+     "outof": 31
+    },
+    {
+     "id": 6555,
+     "name": "Gorishi Tunneler",
+     "count": 2,
+     "outof": 36
+    },
+    {
+     "id": 10040,
+     "name": "Gorishi Hive Guard",
+     "count": 1,
+     "outof": 9
+    },
+    {
+     "id": 10041,
+     "name": "Gorishi Hive Queen",
+     "count": 1,
+     "outof": 1
+    }
+   ],
+   "overall_pct": 5.0
+  },
+  "11954": {
+   "name": "Filled Pure Sample Jar",
+   "quests": [
+    4513
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [],
+   "overall_pct": null,
+   "note": "NO DROPPED-BY"
+  },
+  "12444": {
+   "name": "Uncracked Chillwind Horn",
+   "quests": [
+    4809
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 7447,
+     "name": "Fledgling Chillwind",
+     "count": 7,
+     "outof": 15
+    },
+    {
+     "id": 7448,
+     "name": "Chillwind Chimaera",
+     "count": 4,
+     "outof": 15
+    },
+    {
+     "id": 7449,
+     "name": "Chillwind Ravager",
+     "count": 5,
+     "outof": 29
+    }
+   ],
+   "overall_pct": 27.1
+  },
+  "12840": {
+   "name": "Minion's Scourgestone",
+   "quests": [
+    5402,
+    5408,
+    5510,
+    8414
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 1783,
+     "name": "Skeletal Flayer",
+     "count": 138,
+     "outof": 581
+    },
+    {
+     "id": 1784,
+     "name": "Skeletal Sorcerer",
+     "count": 20,
+     "outof": 70
+    },
+    {
+     "id": 1785,
+     "name": "Skeletal Terror",
+     "count": 14,
+     "outof": 129
+    },
+    {
+     "id": 1787,
+     "name": "Skeletal Executioner",
+     "count": 27,
+     "outof": 81
+    },
+    {
+     "id": 1789,
+     "name": "Skeletal Acolyte",
+     "count": 18,
+     "outof": 71
+    },
+    {
+     "id": 1791,
+     "name": "Slavering Ghoul",
+     "count": 59,
+     "outof": 345
+    },
+    {
+     "id": 1793,
+     "name": "Rotting Ghoul",
+     "count": 5,
+     "outof": 20
+    },
+    {
+     "id": 1794,
+     "name": "Soulless Ghoul",
+     "count": 21,
+     "outof": 48
+    },
+    {
+     "id": 1795,
+     "name": "Searing Ghoul",
+     "count": 10,
+     "outof": 32
+    },
+    {
+     "id": 1796,
+     "name": "Freezing Ghoul",
+     "count": 9,
+     "outof": 26
+    },
+    {
+     "id": 1802,
+     "name": "Hungering Wraith",
+     "count": 7,
+     "outof": 9
+    },
+    {
+     "id": 1804,
+     "name": "Wailing Death",
+     "count": 4,
+     "outof": 9
+    },
+    {
+     "id": 4474,
+     "name": "Rotting Cadaver",
+     "count": 22,
+     "outof": 229
+    },
+    {
+     "id": 4475,
+     "name": "Blighted Zombie",
+     "count": 28,
+     "outof": 199
+    },
+    {
+     "id": 8524,
+     "name": "Cursed Mage",
+     "count": 1,
+     "outof": 4
+    },
+    {
+     "id": 8525,
+     "name": "Scourge Warder",
+     "count": 3,
+     "outof": 7
+    },
+    {
+     "id": 8534,
+     "name": "Putrid Gargoyle",
+     "count": 3,
+     "outof": 11
+    },
+    {
+     "id": 8535,
+     "name": "Putrid Shrieker",
+     "count": 1,
+     "outof": 1
+    },
+    {
+     "id": 8541,
+     "name": "Hate Shrieker",
+     "count": 3,
+     "outof": 13
+    },
+    {
+     "id": 8556,
+     "name": "Crypt Walker",
+     "count": 1,
+     "outof": 2
+    },
+    {
+     "id": 10390,
+     "name": "Skeletal Guardian",
+     "count": 9,
+     "outof": 30
+    },
+    {
+     "id": 10391,
+     "name": "Skeletal Berserker",
+     "count": 20,
+     "outof": 39
+    },
+    {
+     "id": 10411,
+     "name": "Eye of Naxxramas",
+     "count": 1,
+     "outof": 3
+    },
+    {
+     "id": 10485,
+     "name": "Risen Aberration",
+     "count": 3,
+     "outof": 10
+    },
+    {
+     "id": 10678,
+     "name": "Plagued Hatchling",
+     "count": 5,
+     "outof": 13
+    },
+    {
+     "id": 10801,
+     "name": "Jabbering Ghoul",
+     "count": 5,
+     "outof": 7
+    },
+    {
+     "id": 10816,
+     "name": "Wandering Skeleton",
+     "count": 5,
+     "outof": 24
+    },
+    {
+     "id": 8543,
+     "name": "Stitched Horror",
+     "count": 8106,
+     "outof": 23375
+    },
+    {
+     "id": 8530,
+     "name": "Cannibal Ghoul",
+     "count": 6725,
+     "outof": 17313
+    },
+    {
+     "id": 8555,
+     "name": "Crypt Fiend",
+     "count": 4814,
+     "outof": 18904
+    },
+    {
+     "id": 8523,
+     "name": "Scourge Soldier",
+     "count": 4673,
+     "outof": 11208
+    },
+    {
+     "id": 8540,
+     "name": "Torn Screamer",
+     "count": 4541,
+     "outof": 10612
+    },
+    {
+     "id": 8527,
+     "name": "Scourge Guard",
+     "count": 4316,
+     "outof": 11474
+    },
+    {
+     "id": 8531,
+     "name": "Gibbering Ghoul",
+     "count": 4228,
+     "outof": 13091
+    },
+    {
+     "id": 8526,
+     "name": "Dark Caster",
+     "count": 2327,
+     "outof": 6236
+    },
+    {
+     "id": 8538,
+     "name": "Unseen Servant",
+     "count": 2297,
+     "outof": 6775
+    },
+    {
+     "id": 8551,
+     "name": "Dark Summoner",
+     "count": 2248,
+     "outof": 4980
+    },
+    {
+     "id": 8548,
+     "name": "Vile Tutor",
+     "count": 1959,
+     "outof": 4855
+    },
+    {
+     "id": 8557,
+     "name": "Crypt Horror",
+     "count": 1841,
+     "outof": 8599
+    },
+    {
+     "id": 10580,
+     "name": "Fetid Zombie",
+     "count": 1234,
+     "outof": 3206
+    },
+    {
+     "id": 12262,
+     "name": "Ziggurat Protector",
+     "count": 288,
+     "outof": 825,
+     "elite": true
+    },
+    {
+     "id": 16383,
+     "name": "Flameshocker",
+     "count": 190,
+     "outof": 1034,
+     "elite": true
+    },
+    {
+     "id": 8547,
+     "name": "Death Cultist",
+     "count": 175,
+     "outof": 414
+    },
+    {
+     "id": 1847,
+     "name": "Foulmane",
+     "count": 68,
+     "outof": 256
+    }
+   ],
+   "overall_pct": 34.8
+  },
+  "12841": {
+   "name": "Invader's Scourgestone",
+   "quests": [
+    5403,
+    5407,
+    5509
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 4472,
+     "name": "Haunting Vision",
+     "count": 2,
+     "outof": 13
+    },
+    {
+     "id": 8528,
+     "name": "Dread Weaver",
+     "count": 1,
+     "outof": 7
+    },
+    {
+     "id": 10381,
+     "name": "Ravaged Cadaver",
+     "count": 5,
+     "outof": 27,
+     "elite": true
+    },
+    {
+     "id": 10382,
+     "name": "Mangled Cadaver",
+     "count": 4,
+     "outof": 31,
+     "elite": true
+    },
+    {
+     "id": 10394,
+     "name": "Black Guard Sentry",
+     "count": 1,
+     "outof": 4,
+     "elite": true
+    },
+    {
+     "id": 10398,
+     "name": "Thuzadin Shadowcaster",
+     "count": 1,
+     "outof": 6,
+     "elite": true
+    },
+    {
+     "id": 10399,
+     "name": "Thuzadin Acolyte",
+     "count": 2,
+     "outof": 6
+    },
+    {
+     "id": 10400,
+     "name": "Thuzadin Necromancer",
+     "count": 1,
+     "outof": 6,
+     "elite": true
+    },
+    {
+     "id": 10405,
+     "name": "Plague Ghoul",
+     "count": 3,
+     "outof": 27,
+     "elite": true
+    },
+    {
+     "id": 10406,
+     "name": "Ghoul Ravener",
+     "count": 1,
+     "outof": 10,
+     "elite": true
+    },
+    {
+     "id": 10407,
+     "name": "Fleshflayer Ghoul",
+     "count": 1,
+     "outof": 2,
+     "elite": true
+    },
+    {
+     "id": 10408,
+     "name": "Rockwing Gargoyle",
+     "count": 2,
+     "outof": 4,
+     "elite": true
+    },
+    {
+     "id": 10409,
+     "name": "Rockwing Screecher",
+     "count": 1,
+     "outof": 2,
+     "elite": true
+    },
+    {
+     "id": 10412,
+     "name": "Crypt Crawler",
+     "count": 1,
+     "outof": 5,
+     "elite": true
+    },
+    {
+     "id": 10413,
+     "name": "Crypt Beast",
+     "count": 2,
+     "outof": 7,
+     "elite": true
+    },
+    {
+     "id": 10414,
+     "name": "Patchwork Horror",
+     "count": 1,
+     "outof": 7,
+     "elite": true
+    },
+    {
+     "id": 10416,
+     "name": "Bile Spewer",
+     "count": 1,
+     "outof": 6,
+     "elite": true
+    },
+    {
+     "id": 10417,
+     "name": "Venom Belcher",
+     "count": 3,
+     "outof": 18,
+     "elite": true
+    },
+    {
+     "id": 10463,
+     "name": "Shrieking Banshee",
+     "count": 1,
+     "outof": 6,
+     "elite": true
+    },
+    {
+     "id": 10464,
+     "name": "Wailing Banshee",
+     "count": 4,
+     "outof": 12,
+     "elite": true
+    },
+    {
+     "id": 10469,
+     "name": "Scholomance Adept",
+     "count": 2,
+     "outof": 8,
+     "elite": true
+    },
+    {
+     "id": 10470,
+     "name": "Scholomance Neophyte",
+     "count": 2,
+     "outof": 7,
+     "elite": true
+    },
+    {
+     "id": 10471,
+     "name": "Scholomance Acolyte",
+     "count": 4,
+     "outof": 5,
+     "elite": true
+    },
+    {
+     "id": 10472,
+     "name": "Scholomance Occultist",
+     "count": 1,
+     "outof": 2,
+     "elite": true
+    },
+    {
+     "id": 10476,
+     "name": "Scholomance Necrolyte",
+     "count": 1,
+     "outof": 5,
+     "elite": true
+    },
+    {
+     "id": 10477,
+     "name": "Scholomance Necromancer",
+     "count": 2,
+     "outof": 12,
+     "elite": true
+    },
+    {
+     "id": 10478,
+     "name": "Splintered Skeleton",
+     "count": 1,
+     "outof": 1,
+     "elite": true
+    },
+    {
+     "id": 10486,
+     "name": "Risen Warrior",
+     "count": 1,
+     "outof": 2,
+     "elite": true
+    },
+    {
+     "id": 10487,
+     "name": "Risen Protector",
+     "count": 2,
+     "outof": 2,
+     "elite": true
+    },
+    {
+     "id": 10488,
+     "name": "Risen Construct",
+     "count": 2,
+     "outof": 9,
+     "elite": true
+    },
+    {
+     "id": 10489,
+     "name": "Risen Guard",
+     "count": 2,
+     "outof": 6,
+     "elite": true
+    },
+    {
+     "id": 10495,
+     "name": "Diseased Ghoul",
+     "count": 2,
+     "outof": 5,
+     "elite": true
+    },
+    {
+     "id": 10498,
+     "name": "Spectral Tutor",
+     "count": 1,
+     "outof": 4,
+     "elite": true
+    },
+    {
+     "id": 10499,
+     "name": "Spectral Researcher",
+     "count": 1,
+     "outof": 2,
+     "elite": true
+    },
+    {
+     "id": 10500,
+     "name": "Spectral Teacher",
+     "count": 1,
+     "outof": 1,
+     "elite": true
+    },
+    {
+     "id": 10901,
+     "name": "Lorekeeper Polkelt",
+     "count": 1,
+     "outof": 5,
+     "elite": true
+    },
+    {
+     "id": 11075,
+     "name": "Cauldron Lord Bilemaw",
+     "count": 2,
+     "outof": 7
+    },
+    {
+     "id": 11076,
+     "name": "Cauldron Lord Razarch",
+     "count": 3,
+     "outof": 6
+    },
+    {
+     "id": 11077,
+     "name": "Cauldron Lord Malvinious",
+     "count": 2,
+     "outof": 3
+    },
+    {
+     "id": 11078,
+     "name": "Cauldron Lord Soulwrath",
+     "count": 1,
+     "outof": 4
+    },
+    {
+     "id": 11121,
+     "name": "Black Guard Swordsmith",
+     "count": 1,
+     "outof": 4,
+     "elite": true
+    },
+    {
+     "id": 11257,
+     "name": "Scholomance Handler",
+     "count": 1,
+     "outof": 2,
+     "elite": true
+    },
+    {
+     "id": 11551,
+     "name": "Necrofiend",
+     "count": 2,
+     "outof": 3,
+     "elite": true
+    },
+    {
+     "id": 11582,
+     "name": "Scholomance Dark Summoner",
+     "count": 2,
+     "outof": 2,
+     "elite": true
+    },
+    {
+     "id": 11622,
+     "name": "Rattlegore",
+     "count": 1,
+     "outof": 4,
+     "elite": true
+    },
+    {
+     "id": 11873,
+     "name": "Spectral Attendant",
+     "count": 1,
+     "outof": 2
+    },
+    {
+     "id": 8532,
+     "name": "Diseased Flayer",
+     "count": 19747,
+     "outof": 54888
+    },
+    {
+     "id": 8542,
+     "name": "Death Singer",
+     "count": 19122,
+     "outof": 48741
+    },
+    {
+     "id": 16141,
+     "name": "Ghoul Berserker",
+     "count": 14899,
+     "outof": 77846
+    },
+    {
+     "id": 16299,
+     "name": "Skeletal Shocktrooper",
+     "count": 14619,
+     "outof": 76519
+    },
+    {
+     "id": 10491,
+     "name": "Risen Bonewarder",
+     "count": 10477,
+     "outof": 33107,
+     "elite": true
+    },
+    {
+     "id": 8558,
+     "name": "Crypt Slayer",
+     "count": 10401,
+     "outof": 42246
+    },
+    {
+     "id": 16298,
+     "name": "Spectral Soldier",
+     "count": 10029,
+     "outof": 51161
+    },
+    {
+     "id": 8546,
+     "name": "Dark Adept",
+     "count": 9297,
+     "outof": 23443
+    },
+    {
+     "id": 8550,
+     "name": "Shadowmage",
+     "count": 9198,
+     "outof": 22566
+    },
+    {
+     "id": 8539,
+     "name": "Eyeless Watcher",
+     "count": 5494,
+     "outof": 16988
+    },
+    {
+     "id": 10738,
+     "name": "High Chief Winterfall",
+     "count": 5381,
+     "outof": 25998,
+     "elite": true
+    },
+    {
+     "id": 8545,
+     "name": "Abomination",
+     "count": 4041,
+     "outof": 10138
+    },
+    {
+     "id": 1788,
+     "name": "Skeletal Warlord",
+     "count": 1870,
+     "outof": 5485,
+     "elite": true
+    },
+    {
+     "id": 14564,
+     "name": "Terrordale Spirit",
+     "count": 1009,
+     "outof": 3721
+    },
+    {
+     "id": 1805,
+     "name": "Flesh Golem",
+     "count": 727,
+     "outof": 2000,
+     "elite": true
+    },
+    {
+     "id": 8544,
+     "name": "Gangled Golem",
+     "count": 619,
+     "outof": 1444
+    },
+    {
+     "id": 11082,
+     "name": "Stratholme Courier",
+     "count": 595,
+     "outof": 2235,
+     "elite": true
+    },
+    {
+     "id": 8553,
+     "name": "Necromancer",
+     "count": 402,
+     "outof": 1063
+    },
+    {
+     "id": 14861,
+     "name": "Blood Steward of Kirtonos",
+     "count": 355,
+     "outof": 1573,
+     "elite": true
+    },
+    {
+     "id": 14518,
+     "name": "Aspect of Banality",
+     "count": 129,
+     "outof": 478,
+     "elite": true
+    },
+    {
+     "id": 16380,
+     "name": "Bone Witch",
+     "count": 114,
+     "outof": 691
+    },
+    {
+     "id": 14697,
+     "name": "Lumbering Horror",
+     "count": 102,
+     "outof": 749
+    },
+    {
+     "id": 14521,
+     "name": "Aspect of Shadow",
+     "count": 102,
+     "outof": 286,
+     "elite": true
+    },
+    {
+     "id": 14520,
+     "name": "Aspect of Malice",
+     "count": 98,
+     "outof": 395,
+     "elite": true
+    },
+    {
+     "id": 1848,
+     "name": "Lord Maldazzar",
+     "count": 95,
+     "outof": 418
+    },
+    {
+     "id": 14519,
+     "name": "Aspect of Corruption",
+     "count": 92,
+     "outof": 309,
+     "elite": true
+    },
+    {
+     "id": 12263,
+     "name": "Slaughterhouse Protector",
+     "count": 69,
+     "outof": 155,
+     "elite": true
+    },
+    {
+     "id": 16379,
+     "name": "Spirit of the Damned",
+     "count": 66,
+     "outof": 426
+    },
+    {
+     "id": 16184,
+     "name": "Nerubian Overseer",
+     "count": 56,
+     "outof": 197,
+     "elite": true
+    },
+    {
+     "id": 14695,
+     "name": "Lord Blackwood",
+     "count": 55,
+     "outof": 589,
+     "elite": true
+    },
+    {
+     "id": 10199,
+     "name": "Grizzle Snowpaw",
+     "count": 8,
+     "outof": 763
+    }
+   ],
+   "overall_pct": 27.5
+  },
+  "12843": {
+   "name": "Corruptor's Scourgestone",
+   "quests": [
+    5404,
+    5406,
+    5508
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 1852,
+     "name": "Araj the Summoner",
+     "count": 2,
+     "outof": 3,
+     "elite": true
+    },
+    {
+     "id": 1853,
+     "name": "Darkmaster Gandling",
+     "count": 2,
+     "outof": 3,
+     "elite": true
+    },
+    {
+     "id": 10393,
+     "name": "Skul",
+     "count": 1,
+     "outof": 1,
+     "elite": true
+    },
+    {
+     "id": 10433,
+     "name": "Marduk Blackpool",
+     "count": 1,
+     "outof": 1,
+     "elite": true
+    },
+    {
+     "id": 10435,
+     "name": "Magistrate Barthilas",
+     "count": 8,
+     "outof": 9,
+     "elite": true
+    },
+    {
+     "id": 10436,
+     "name": "Baroness Anastari",
+     "count": 4,
+     "outof": 6,
+     "elite": true
+    },
+    {
+     "id": 10437,
+     "name": "Nerub'enkan",
+     "count": 7,
+     "outof": 7,
+     "elite": true
+    },
+    {
+     "id": 10438,
+     "name": "Maleki the Pallid",
+     "count": 7,
+     "outof": 7,
+     "elite": true
+    },
+    {
+     "id": 10439,
+     "name": "Ramstein the Gorger",
+     "count": 7,
+     "outof": 9,
+     "elite": true
+    },
+    {
+     "id": 10440,
+     "name": "Baron Rivendare",
+     "count": 4,
+     "outof": 6,
+     "elite": true
+    },
+    {
+     "id": 10502,
+     "name": "Lady Illucia Barov",
+     "count": 3,
+     "outof": 4,
+     "elite": true
+    },
+    {
+     "id": 10503,
+     "name": "Jandice Barov",
+     "count": 4,
+     "outof": 4,
+     "elite": true
+    },
+    {
+     "id": 10504,
+     "name": "Lord Alexei Barov",
+     "count": 3,
+     "outof": 3,
+     "elite": true
+    },
+    {
+     "id": 10505,
+     "name": "Instructor Malicia",
+     "count": 4,
+     "outof": 4,
+     "elite": true
+    },
+    {
+     "id": 10506,
+     "name": "Kirtonos the Herald",
+     "count": 6,
+     "outof": 8,
+     "elite": true
+    },
+    {
+     "id": 10507,
+     "name": "The Ravenian",
+     "count": 5,
+     "outof": 5,
+     "elite": true
+    },
+    {
+     "id": 10508,
+     "name": "Ras Frostwhisper",
+     "count": 4,
+     "outof": 5,
+     "elite": true
+    },
+    {
+     "id": 10516,
+     "name": "The Unforgiven",
+     "count": 7,
+     "outof": 7,
+     "elite": true
+    },
+    {
+     "id": 10558,
+     "name": "Hearthsinger Forresten",
+     "count": 4,
+     "outof": 4,
+     "elite": true
+    },
+    {
+     "id": 10808,
+     "name": "Timmy the Cruel",
+     "count": 4,
+     "outof": 5,
+     "elite": true
+    },
+    {
+     "id": 10809,
+     "name": "Stonespine",
+     "count": 2,
+     "outof": 2,
+     "elite": true
+    },
+    {
+     "id": 10825,
+     "name": "Gish the Unmoving",
+     "count": 1,
+     "outof": 2
+    },
+    {
+     "id": 11058,
+     "name": "Ezra Grimm",
+     "count": 6,
+     "outof": 7,
+     "elite": true
+    },
+    {
+     "id": 11143,
+     "name": "Postmaster Malown",
+     "count": 1,
+     "outof": 2,
+     "elite": true
+    },
+    {
+     "id": 11261,
+     "name": "Doctor Theolen Krastinov",
+     "count": 6,
+     "outof": 6,
+     "elite": true
+    },
+    {
+     "id": 16143,
+     "name": "Shadow of Doom",
+     "count": 6140,
+     "outof": 7531,
+     "elite": true
+    },
+    {
+     "id": 10432,
+     "name": "Vectus",
+     "count": 5915,
+     "outof": 6287,
+     "elite": true
+    },
+    {
+     "id": 14516,
+     "name": "Death Knight Darkreaver",
+     "count": 723,
+     "outof": 841,
+     "elite": true
+    },
+    {
+     "id": 14684,
+     "name": "Balzaphon",
+     "count": 276,
+     "outof": 334,
+     "elite": true
+    },
+    {
+     "id": 10826,
+     "name": "Lord Darkscythe",
+     "count": 85,
+     "outof": 135
+    },
+    {
+     "id": 1850,
+     "name": "Putridius",
+     "count": 65,
+     "outof": 98,
+     "elite": true
+    },
+    {
+     "id": 10821,
+     "name": "Hed'mush the Rotting",
+     "count": 47,
+     "outof": 98
+    },
+    {
+     "id": 14690,
+     "name": "Revanchion",
+     "count": 4,
+     "outof": 9,
+     "elite": true
+    }
+   ],
+   "overall_pct": 86.4
+  },
+  "13194": {
+   "name": "Felstone Field Cauldron Key",
+   "quests": [
+    5216,
+    5229
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
+   "dropped_by": "Cauldron Lord Bilemaw",
+   "overall_pct": 100.0
+  },
+  "13195": {
+   "name": "Dalson's Tears Cauldron Key",
+   "quests": [
+    5219,
+    5231
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
+   "dropped_by": "Cauldron Lord Malvinious",
+   "overall_pct": 100.0
+  },
+  "13197": {
+   "name": "Writhing Haunt Cauldron Key",
+   "quests": [
+    5222,
+    5233
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
+   "dropped_by": "Cauldron Lord Razarch",
+   "overall_pct": 66.67
+  },
+  "13356": {
+   "name": "Somatic Intensifier",
+   "quests": [
+    5221,
+    5224
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 1791,
+     "name": "Slavering Ghoul",
+     "count": 4,
+     "outof": 345
+    },
+    {
+     "id": 1793,
+     "name": "Rotting Ghoul",
+     "count": 2,
+     "outof": 20
+    },
+    {
+     "id": 1794,
+     "name": "Soulless Ghoul",
+     "count": 1,
+     "outof": 48
+    },
+    {
+     "id": 1795,
+     "name": "Searing Ghoul",
+     "count": 4,
+     "outof": 32
+    },
+    {
+     "id": 1796,
+     "name": "Freezing Ghoul",
+     "count": 1,
+     "outof": 26
+    },
+    {
+     "id": 4474,
+     "name": "Rotting Cadaver",
+     "count": 2,
+     "outof": 229
+    },
+    {
+     "id": 4475,
+     "name": "Blighted Zombie",
+     "count": 3,
+     "outof": 199
+    },
+    {
+     "id": 10580,
+     "name": "Fetid Zombie",
+     "count": 466,
+     "outof": 3206
+    },
+    {
+     "id": 10801,
+     "name": "Jabbering Ghoul",
+     "count": 259,
+     "outof": 6854
+    },
+    {
+     "id": 1852,
+     "name": "Araj the Summoner",
+     "count": 154,
+     "outof": 2104,
+     "elite": true
+    },
+    {
+     "id": 1805,
+     "name": "Flesh Golem",
+     "count": 124,
+     "outof": 2000,
+     "elite": true
+    },
+    {
+     "id": 11075,
+     "name": "Cauldron Lord Bilemaw",
+     "count": 66,
+     "outof": 5695
+    },
+    {
+     "id": 10836,
+     "name": "Farmer Dalson",
+     "count": 54,
+     "outof": 3359
+    },
+    {
+     "id": 1850,
+     "name": "Putridius",
+     "count": 27,
+     "outof": 98,
+     "elite": true
+    },
+    {
+     "id": 1847,
+     "name": "Foulmane",
+     "count": 7,
+     "outof": 256
+    }
+   ],
+   "overall_pct": 4.8
+  },
+  "13357": {
+   "name": "Osseous Agitator",
+   "quests": [
+    5218
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 1783,
+     "name": "Skeletal Flayer",
+     "count": 9,
+     "outof": 581
+    },
+    {
+     "id": 1784,
+     "name": "Skeletal Sorcerer",
+     "count": 5,
+     "outof": 70
+    },
+    {
+     "id": 1785,
+     "name": "Skeletal Terror",
+     "count": 1,
+     "outof": 129
+    },
+    {
+     "id": 1787,
+     "name": "Skeletal Executioner",
+     "count": 6,
+     "outof": 81
+    },
+    {
+     "id": 1788,
+     "name": "Skeletal Warlord",
+     "count": 1,
+     "outof": 2,
+     "elite": true
+    },
+    {
+     "id": 1789,
+     "name": "Skeletal Acolyte",
+     "count": 4,
+     "outof": 71
+    },
+    {
+     "id": 1852,
+     "name": "Araj the Summoner",
+     "count": 1,
+     "outof": 3,
+     "elite": true
+    },
+    {
+     "id": 10816,
+     "name": "Wandering Skeleton",
+     "count": 1,
+     "outof": 24
+    },
+    {
+     "id": 11076,
+     "name": "Cauldron Lord Razarch",
+     "count": 1,
+     "outof": 6
+    },
+    {
+     "id": 11077,
+     "name": "Cauldron Lord Malvinious",
+     "count": 110,
+     "outof": 5634
+    }
+   ],
+   "overall_pct": 2.1
+  },
+  "13815": {
+   "name": "Some Rune",
+   "quests": [
+    5534
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 6195,
+     "name": "Spitelash Siren",
+     "count": 12,
+     "outof": 286
+    },
+    {
+     "id": 6196,
+     "name": "Spitelash Myrmidon",
+     "count": 3,
+     "outof": 103
+    },
+    {
+     "id": 7885,
+     "name": "Spitelash Battlemaster",
+     "count": 1,
+     "outof": 18
+    },
+    {
+     "id": 7886,
+     "name": "Spitelash Enchantress",
+     "count": 1,
+     "outof": 14
+    }
+   ],
+   "overall_pct": 4.0
+  },
   "15750": {
    "name": "Sceptre of Light",
    "quests": [
@@ -13560,6 +19945,15 @@
    "source": "nether.wowhead.com/forever/tooltip (single dropper), 11 Nov 2026",
    "dropped_by": "Burning Blade Seer",
    "overall_pct": 90.4
+  },
+  "15785": {
+   "name": "Zaeldarr's Head",
+   "quests": [
+    6021
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
+   "dropped_by": "Zaeldarr the Outcast",
+   "overall_pct": 71.43
   },
   "15803": {
    "name": "Book of the Ancients",
@@ -14115,6 +20509,79 @@
    ],
    "overall_pct": 22.4
   },
+  "21377": {
+   "name": "Deadwood Headdress Feather",
+   "quests": [
+    8466,
+    8467
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 7153,
+     "name": "Deadwood Warrior",
+     "count": 24,
+     "outof": 240
+    },
+    {
+     "id": 7154,
+     "name": "Deadwood Gardener",
+     "count": 17,
+     "outof": 151
+    },
+    {
+     "id": 7155,
+     "name": "Deadwood Pathfinder",
+     "count": 7,
+     "outof": 111
+    },
+    {
+     "id": 7156,
+     "name": "Deadwood Den Watcher",
+     "count": 31,
+     "outof": 88
+    },
+    {
+     "id": 7157,
+     "name": "Deadwood Avenger",
+     "count": 40,
+     "outof": 124
+    },
+    {
+     "id": 7158,
+     "name": "Deadwood Shaman",
+     "count": 27,
+     "outof": 101
+    },
+    {
+     "id": 9462,
+     "name": "Chieftain Bloodmaw",
+     "count": 2,
+     "outof": 5
+    },
+    {
+     "id": 9464,
+     "name": "Overlord Ror",
+     "count": 3,
+     "outof": 16
+    },
+    {
+     "id": 14342,
+     "name": "Ragepaw",
+     "count": 119,
+     "outof": 665
+    }
+   ],
+   "overall_pct": 18.0,
+   "objects": [
+    {
+     "id": 164882,
+     "name": "Cleansed Songflower",
+     "count": 1,
+     "outof": 10
+    }
+   ]
+  },
   "211269": {
    "name": "Primitive Drawing",
    "quests": [
@@ -14343,6 +20810,15 @@
     }
    ],
    "overall_pct": 8.9
+  },
+  "238057": {
+   "name": "Krellian's Head",
+   "quests": [
+    88813
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
+   "dropped_by": "Warlord Krellian",
+   "overall_pct": 100.0
   },
   "238385": {
    "name": "Memory Crystal",
@@ -15582,6 +22058,15 @@
    "dropped_by": "Gronok the Butcher",
    "overall_pct": 91.3
   },
+  "274029": {
+   "name": "Ornate Shackle Key",
+   "quests": [
+    96335
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
+   "dropped_by": "The Questioner",
+   "overall_pct": 11.45
+  },
   "274044": {
    "name": "Twisted Fire Totem",
    "quests": [
@@ -15910,6 +22395,15 @@
    ],
    "overall_pct": 100.0
   },
+  "276890": {
+   "name": "Zarla's Journal",
+   "quests": [
+    96772
+   ],
+   "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
+   "dropped_by": "Blazeroar",
+   "overall_pct": 8.57
+  },
   "277112": {
    "name": "Zum'rah's Head",
    "quests": [
@@ -15995,6 +22489,62 @@
     }
    ],
    "overall_pct": 0.9
+  },
+  "277958": {
+   "name": "Putrescent Bear Organs",
+   "quests": [
+    86577
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 8956,
+     "name": "Angerclaw Bear",
+     "count": 35,
+     "outof": 89
+    },
+    {
+     "id": 8957,
+     "name": "Angerclaw Grizzly",
+     "count": 13,
+     "outof": 86
+    },
+    {
+     "id": 8958,
+     "name": "Angerclaw Mauler",
+     "count": 20,
+     "outof": 64
+    }
+   ],
+   "overall_pct": 28.5
+  },
+  "277959": {
+   "name": "Putrescent Wolf Organs",
+   "quests": [
+    86577
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 8959,
+     "name": "Felpaw Wolf",
+     "count": 50,
+     "outof": 172
+    },
+    {
+     "id": 8960,
+     "name": "Felpaw Scavenger",
+     "count": 26,
+     "outof": 121
+    },
+    {
+     "id": 8961,
+     "name": "Felpaw Ravager",
+     "count": 22,
+     "outof": 84
+    }
+   ],
+   "overall_pct": 26.0
   },
   "277986": {
    "name": "Drum of Crude Oil",
@@ -16109,6 +22659,82 @@
    "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
    "dropped_by": "Corrosive Swamp Ooze",
    "overall_pct": 35.34
+  },
+  "280459": {
+   "name": "Crystal Infused Scale",
+   "quests": [
+    87494
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "npcs": [
+    {
+     "id": 6505,
+     "name": "Ravasaur",
+     "count": 8,
+     "outof": 181
+    },
+    {
+     "id": 6506,
+     "name": "Ravasaur Runner",
+     "count": 12,
+     "outof": 118
+    },
+    {
+     "id": 6507,
+     "name": "Ravasaur Hunter",
+     "count": 3,
+     "outof": 25
+    },
+    {
+     "id": 6508,
+     "name": "Venomhide Ravasaur",
+     "count": 2,
+     "outof": 43
+    },
+    {
+     "id": 9162,
+     "name": "Young Diemetradon",
+     "count": 1,
+     "outof": 71
+    },
+    {
+     "id": 9163,
+     "name": "Diemetradon",
+     "count": 3,
+     "outof": 117
+    },
+    {
+     "id": 9164,
+     "name": "Elder Diemetradon",
+     "count": 2,
+     "outof": 167
+    },
+    {
+     "id": 9165,
+     "name": "Fledgling Pterrordax",
+     "count": 1,
+     "outof": 63
+    },
+    {
+     "id": 9166,
+     "name": "Pterrordax",
+     "count": 2,
+     "outof": 104
+    },
+    {
+     "id": 9167,
+     "name": "Frenzied Pterrordax",
+     "count": 6,
+     "outof": 160
+    },
+    {
+     "id": 279811,
+     "name": "Young Diemetradon",
+     "count": 1,
+     "outof": 3
+    }
+   ],
+   "overall_pct": 3.9
   },
   "280608": {
    "name": "Eldarath Relic",
