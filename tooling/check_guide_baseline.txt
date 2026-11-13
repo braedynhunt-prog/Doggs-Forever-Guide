@@ -12,3 +12,15 @@
 08_RuinsOfLordaeron.lua:41: optional quest step without [G]: [O]Loot a Bloodied Insignia from the first undead you kill and right-c
 08_RuinsOfLordaeron.lua:42: optional quest step without [G]: [O]Click the Crest of Lordaeron when you see it lying along the route 
 12_Ashenvale.lua:35: [QT945] Therylune's Escape before any [QA] (and it is not item-started)
+43_KroldokStronghold.lua:33: optional quest step without [G]: [O]Kill [TAR258042 Twilight Grunt], [TAR258102 Twilight Outrider], [TA
+43_KroldokStronghold.lua:34: optional quest step without [G]: [O]Luck: if Krol'dok No More! is offered at the door or inside, [QA949
+43_KroldokStronghold.lua:37: optional quest step without [G]: [O]Luck: if [TAR259256 Tunk] drops the Krol'dok Moulding (Wowhead 48%,
+43_KroldokStronghold.lua:39: optional quest step without [G]: [O]Only with Krol'dok No More!: hand it in where the escort ends (the 
+51_ZulFarrak.lua:41: optional quest step without [G]: [O]Only with the mallet: strike the Gong of Zul'Farrak and kill [TAR72
+54_Maraudon.lua:44: optional quest step without [G]: [O]Kill [TAR12218 Vile Larva], [TAR12220 Constrictor Vine], [TAR12219 
+54_Maraudon.lua:66: optional quest step without [G]: [O]Only if the Princess died: at [TAR12238 Zaetar's Spirit], [QA7066 S
+49_StranglethornCape.lua:19: [QA1475] Into The Temple of Atal'Hakkar is never turned in or skipped
+49_StranglethornCape.lua:51: [QA624] Cortello's Riddle is never turned in or skipped (optional)
+53_TanarisII.lua:63: [QA648] Rescue OOX-17/TN! is never turned in or skipped (optional)
+54_Maraudon.lua:66: [QA7066] Seed of Life is never turned in or skipped (optional)
+56_UnGoro.lua:27: [QA3908] It's a Secret to Everybody is never turned in or skipped (optional)
