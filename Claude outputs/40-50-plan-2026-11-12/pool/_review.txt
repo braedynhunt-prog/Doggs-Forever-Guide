@@ -35,7 +35,6 @@
 4 93572 To Serve The Draenei L55 req45 xp 5650 | side not stated on Wowhead (none listed) or in the DB | best reward: Chest 0.0 Emerald Encrusted Chest [] no stats
 
 == ASK
-357 7721 Fuel for the Zapping L48 req45 xp 4400 | Water Elemental Core 55.5% - XP only unless Zorbin's Water Resistant Hat scores as an upgrade; opens Zapped Giants (elite giants) | best reward: Head 43.7 Zorbin's Water Resistant Hat [Leather] +9 Sta +14 Int +8 Spi
 
 == COND
 16 86747 Legashi Horns L53 req47 xp 530 | no giver in the DB or on Wowhead (ends at Ekkal, Azshara 42.0,38.9): taken if it is offered or drops
@@ -64,6 +63,7 @@
 16591 95296 Shipping and Handling L40 req36 xp 315 | offered only if the optional 95294 Smuggler's Bargain was done in chapter 41 (Wowhead series)
 16591 95312 Coming to Collect L40 req36 xp 315 | Wowhead's series puts it after 95383 Shipping and Handling, which is cond: taken only if it is offered
 16591 95321 Tazzik's Dues L40 req36 xp 3150 | Wowhead's series puts it after 95312 Coming to Collect, which is cond: taken only if it is offered
+16591 95327 All's Well That Ends Well L40 req36 xp 3150 | given by Caravaneer Ruzzgot, where The Big Payback (95326) ends; that quest starts at the ledger where We've Been Robbed! ends and is out (Ruzzgot's Shipment 29.3%). No series on Wowhead, so the link is not proven: taken only if he offers it
 16591 95383 Shipping and Handling L40 req36 xp 315 | Wowhead's series puts it after 95296 Shipping and Handling, which is cond: taken only if it is offered
 16591 95472 Consolation Prize L40 req36 xp 2350 | Wowhead's series puts it after 95321 Tazzik's Dues, which is cond: taken only if it is offered
 16591 95975 Her World L41 req36 xp 3300 | Wowhead's series puts it after 95957 Drink Up!, which is out: taken only if it is offered
@@ -72,11 +72,10 @@
 16842 94981 Key Ingredients L41 req38 xp 3300 | Wowhead's series puts it after 94980 Krol'dok Moulding, which is cond: taken only if it is offered
 16842 94997 Lingering Essence L42 req38 xp 3450 | Wowhead's series puts it after 94983 Twilight Mementos, which is dun-grind: taken only if it is offered
 16842 94998 Curios of Curiosity L42 req38 xp 3450 | Wowhead's series puts it after 94997 Lingering Essence, which is cond: taken only if it is offered | best reward: Neck 42.7 Curio-Adorned Necklace [] +9 Int +7 Spi +5 SP
-3 708 The Black Box L40 req30 xp 2350 | the Corroded Black Box has no drop, vendor or object source in the DB or on its Wowhead page (13 Nov): taken only if the box turns up
-3 78823 Terror of the Desert Skies L40 req26 xp 1550 | no giver in the DB or on Wowhead (ends at Hemet Nesingwary)
 33 95384 Partial Mystical Notes L40 req32 xp 3150 | no giver: probably starts from a dropped item (ends at npc 260873); taken only if the item drops
 33 95385 Torn Mystical Scroll L43 req35 xp 3600 | no giver: probably starts from a dropped item (ends at npc 260873); taken only if the item drops | best reward: Head 23.7 Dudd's Thinkin' Cap [Cloth] +10 Sta +14 Int
 33 97332 Twice Misplaced Trust L41 req36 xp 3300 | Wowhead's series puts it after 97331 Zimmix's Great Escape, which is out: taken only if it is offered | best reward: Finger 8.0 Apology Ring [] +6 Sta +4 SP
+357 7721 Fuel for the Zapping L48 req45 xp 4400 | Water Elemental Core 55.5%, ten needed, about 18 kills: optional under rule 11, kept only if Zorbin's Water Resistant Hat (leather head, +9 Sta +14 Int +8 Spi) is an upgrade when he gets there - the spec makes the gear call | best reward: Head 43.7 Zorbin's Water Resistant Hat [Leather] +9 Sta +14 Int +8 Spi
 357 95555 Corrupted Nature L50 req40 xp 4700 | no giver and no side on Wowhead; taken only if it is offered
 357 95599 The Old Key L42 req35 xp 3450 | no giver: The Old Key probably starts from a dropped key; taken only if it drops
 490 87494 Microcrystal Contamination L55 req45 xp 5650 | no giver in the DB or on Wowhead (ends at Torwa Pathfinder) | best reward: Waist 37.3 Crystal-flecked Waistguard [Mail] +6 Str +15 Int
@@ -87,7 +86,6 @@
 -182 5141 Dragonscale Leatherworking L55 req40 xp 4200 | Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225 (Braedyn, 13 Nov)
 
 == GROUP-OPT
-3 717 Tremors of the Earth L50 req40 xp 5900 | elite outside a dungeon (rule 13): Blacklash (50 elite), Hematus (50 elite); kept optional for the Prismscale Hauberk (mail chest, scores 64.3 on the level-40 band) | best reward: Chest 64.3 Prismscale Hauberk [Mail] +3 Sta +4 Int +23 Spi
 
 == LATER
 1519 3787 Jonespyre's Request L50 req47 xp 1200 | Morrowgrain chain: round 3
@@ -137,5 +135,6 @@
 46 4296 Tablet of the Seven L50 req50 xp 2350 | Burning Steppes: round 3
 46 4726 Broodling Essence L52 req50 xp 5100 | Burning Steppes: round 3
 46 4808 Felnok Steelspring L54 req50 xp 2700 | behind 4726 Broodling Essence, which is left for round 3
+47 2993 Return to the Hinterlands L47 req40 xp 2100 | handed in at Aerie Peak after The Divination: round 3
 618 6028 The Everlook Report L52 req50 xp 2550 | Winterspring: round 3
 618 6030 Duke Nicholas Zverenhoff L52 req50 xp 2550 | Winterspring: round 3

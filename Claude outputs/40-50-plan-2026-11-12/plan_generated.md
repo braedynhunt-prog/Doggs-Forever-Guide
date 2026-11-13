@@ -4,47 +4,42 @@
 
 | ch | chapter | wants | required quests | quest XP | money | level in | level out | highest required level | optional XP |
 |---|---|---|---|---|---|---|---|---|---|
-| 42 | Riverglades: the Farholde loose ends | 42 | 8 | 25,400 | 2g 15s | 42.0 | 42.4 | 38 | 0 |
-| 43 | Krol'dok Stronghold (dungeon) | 43 | 3 | 14,350 | 1g 95s | 42.4 | 42.6 | 40 | 11,050 |
-| 44 | Badlands and Aerie Peak | 42 | 6 | 12,790 | 50s | 42.6 | 42.8 | 40 | 11,350 |
-| 45 | Stormwind, the Temple door and Booty Bay | 43 | 10 | 24,315 | 1g 20s | 42.8 | 43.2 | 40 | 3,150 |
-| 46 | Tanaris I | 43 | 16 | 46,085 | 7g 15s | 43.2 | 43.8 | 40 | 0 |
-| 47 | Feralas I | 43 | 14 | 27,475 | 1g 75s | 43.8 | 44.2 | 40 | 3,450 |
-| 48 | Zul'Farrak (dungeon) | 45 | 10 | 36,750 | 3g 30s | 44.2 | 44.7 | 40 | 11,000 |
-| 49 | Powderfuse return and the Hinterlands | 45 | 18 | 49,300 | 1g 20s | 44.7 | 45.4 | 45 | 0 |
-| 50 | Searing Gorge | 46 | 11 | 41,610 | 6g 35s | 45.4 | 45.9 | 45 | 0 |
-| 51 | Stranglethorn: the Cape | 46 | 7 | 31,600 | 00s | 45.9 | 46.3 | 45 | 3,600 |
-| 52 | Feralas II | 46 | 16 | 45,995 | 00s | 46.3 | 46.9 | 46 | 9,100 |
-| 53 | Maraudon (dungeon) | 48 | 6 | 32,000 | 2g 90s | 46.9 | 47.3 | 45 | 8,700 |
-| 54 | Tanaris II and Uldum | 47 | 17 | 67,680 | 2g 45s | 47.3 | 48.1 | 46 | 0 |
-| 55 | Azshara | 47 | 20 | 82,320 | 6g 08s | 48.1 | 49.0 | 47 | 68,550 |
-| 56 | Un'Goro Crater | 49 | 19 | 80,780 | 2g 45s | 49.0 | 49.9 | 50 | 5,650 |
-| 57 | Level 50: Ironforge | 50 | 3 | 12,770 | 2g 20s | 49.9 | 50.0 | 45 | 0 |
-| | **total** | | 184 | **631,220** | 41g 63s | 42.0 | **50.0** | | 135,600 |
+| 42 | Riverglades: pickups and loose ends | 42 | 0 | 0 | 00s | 42.0 | 42.0 | 0 | 10,500 |
+| 43 | Krol'dok Stronghold (dungeon) | 42 | 3 | 14,350 | 1g 95s | 42.0 | 42.2 | 40 | 21,250 |
+| 44 | Stormwind, the Temple door and Aerie Peak | 42 | 7 | 12,290 | 50s | 42.2 | 42.4 | 40 | 9,050 |
+| 45 | Booty Bay | 42 | 4 | 7,465 | 00s | 42.4 | 42.5 | 36 | 3,150 |
+| 46 | Tanaris I | 43 | 12 | 41,990 | 7g 15s | 42.5 | 43.2 | 40 | 4,095 |
+| 47 | Feralas I | 43 | 14 | 27,475 | 1g 75s | 43.2 | 43.5 | 40 | 3,450 |
+| 48 | The Hinterlands | 45 | 11 | 32,550 | 1g 20s | 43.5 | 44.0 | 45 | 8,800 |
+| 49 | Searing Gorge | 46 | 11 | 41,610 | 6g 35s | 44.0 | 44.6 | 45 | 0 |
+| 50 | Nethergarde and the Cape of Stranglethorn | 46 | 9 | 36,400 | 00s | 44.6 | 45.1 | 45 | 3,600 |
+| 51 | Feralas II | 46 | 16 | 45,995 | 00s | 45.1 | 45.7 | 46 | 9,100 |
+| 52 | Maraudon (dungeon) | 48 | 6 | 32,000 | 2g 90s | 45.7 | 46.1 | 45 | 8,700 |
+| 53 | Tanaris II and Uldum | 47 | 18 | 71,430 | 2g 45s | 46.1 | 47.0 | 46 | 0 |
+| 54 | Zul'Farrak (dungeon) | 46 | 9 | 33,000 | 3g 30s | 47.0 | 47.4 | 40 | 11,000 |
+| 55 | Azshara | 47 | 18 | 71,020 | 5g 23s | 47.4 | 48.2 | 47 | 79,850 |
+| 56 | Un'Goro Crater | 49 | 19 | 80,780 | 2g 45s | 48.2 | 49.1 | 50 | 5,650 |
+| 57 | Level 50: Ironforge and Nethergarde | 50 | 4 | 13,820 | 2g 20s | 49.1 | 49.3 | 45 | 0 |
+| | **total** | | 161 | **562,175** | 37g 43s | 42.0 | **49.3** | | 178,195 |
 
 ## Chapters
 
-### 42 Riverglades: the Farholde loose ends
+### 42 Riverglades: pickups and loose ends
 
-File `42_RivergladesIII.lua`, title `[N 42-43 Riverglades]`. Wants level **42**; predicted 42.0 -> 42.4. 8 required quests, 25,400 XP, 2g 15s; optional 0 XP.
+File `42_RivergladesIII.lua`, title `[N 42-43 Riverglades]`. Wants level **42**; predicted 42.0 -> 42.0. 0 required quests, 0 XP, 00s; optional 10,500 XP.
 
-Starts where chapter 41 ends: Farholde Keep, hearth bound there. The Farholde quests left at level 40-42, the three Krol'dok lead-ins that are done outside the instance, and the pickups for later chapters: Friz Frazzlespark's three errands at Powderfuse Port (I Know a Guy to Booty Bay, Shipping and Handling to Steamwheedle Port, From Port to Port to Feathermoon), The Twilight Threat for Stormwind, Delivering Closure if the Field Marshal's Log chain was done, and the Krol'dok dungeon quests at Demar Brant and Sergeant Riftan. News to Farholde has no prerequisite in the DB although its giver's other quest is the elite Bring Me His Head: unverified that he offers it alone.
+Starts where chapter 41 ends: Farholde Keep, hearth bound there. After the 13 Nov recheck no quest here is certain: every leftover Riverglades quest either follows an out quest in Wowhead's series (Biting the Hand, Her World, News to Farholde, The Twilight Threat) or needs a low drop (What We Lost, out). They are written as 'if he offers it' lines on one loop: Powderfuse Port for Friz Frazzlespark's errands (I Know a Guy for Booty Bay and From Port to Port for Feathermoon are plain pickups; Shipping and Handling only if the optional smuggling block of chapter 41 was done), Sunnyglade, Sergeant Riftan at the Twilight's Shroud (30.7,49.1) for Twilight Mementos, Demar Brant and Ashe Amberhall at the Keep for Eye of Mugg and Tome of Twilight. The chapter's sure job is those dungeon pickups. Draft spec: `Claude outputs/40-50-specs-2026-11-13/42-draft.md`.
 
-**Required:**
-- 94829 What We Lost (L40, req 36) 2,350
-- 94858 All That's Left (L40, req 36) 2,350 - Damaged Locket 75.0% (drop_rates.json 11 Nov) [mobs to 41]
-- 94963 Biting the Hand (L40, req 36) 3,150
-- 95975 Her World (L41, req 36) 3,300
-- 94981 Key Ingredients (L41, req 38) 3,300
-- 94997 Lingering Essence (L42, req 38) 3,450
-- 94998 Curios of Curiosity (L42, req 38) 3,450
-- 94891 News to Farholde (L46, req 38) 4,050
+**Optional / conditional:**
+- 94963 Biting the Hand (L40, req 36) 3,150 [conditional] - Wowhead's series puts it after 94961 Biting the Hand, which is out: taken only if it is offered
+- 95975 Her World (L41, req 36) 3,300 [conditional] - Wowhead's series puts it after 95957 Drink Up!, which is out: taken only if it is offered
+- 94891 News to Farholde (L46, req 38) 4,050 [conditional] - Wowhead's series puts it after 94890 Bring Me His Head, which is out: taken only if it is offered
 
 ### 43 Krol'dok Stronghold (dungeon)
 
-File `43_KroldokStronghold.lua`, title `[N 42-43 Krol'dok Stronghold]`. Wants level **43**; predicted 42.4 -> 42.6. 3 required quests, 14,350 XP, 1g 95s; optional 11,050 XP.
+File `43_KroldokStronghold.lua`, title `[N 42-43 Krol'dok Stronghold]`. Wants level **42**; predicted 42.0 -> 42.2. 3 required quests, 14,350 XP, 1g 95s; optional 21,250 XP.
 
-Required dungeon chapter, one run. The DB has no mob levels, ranks or positions for the instance; the quests are level 41-45, so 43 is a placeholder the spec settles from Wowhead's zone page. Vengeance of the Highborne is given by Ranath Nightstride at the Dalaran crater (Alterac 17.8,66.0): the chapter opens with the Ironforge training stop (level 42 row) and the Southshore flight to fetch it before the run. Tome of Twilight and Eye of Mugg hang on one boss each; Twilight Mementos is a trash collection at 11% and is grind / luck.
+Required dungeon chapter, one run. Every mob Wowhead lists for it is Elite and none shows a level; the quests are level 41-45, so 'wants 42' is the draft spec's low-confidence call. The chapter opens with the Ironforge training stop (level 42 row) and the Southshore flight to the Dalaran crater for Vengeance of the Highborne (Ranath Nightstride, Alterac 17.8,66.0), hearths back for the run, and hands that quest in at the crater afterwards. Tome of Twilight and Eye of Mugg hang on one boss each. Twilight Mementos (8 bangles at 11%) is grind / luck, and Lingering Essence and Curios of Curiosity follow it in Wowhead's series, so they are conditional; Key Ingredients follows the Krol'dok Moulding that Tunk drops (48%). Eye of Mugg's Bigger Rock on Bigger Stick ties Rage of the Storm and Bonebiter within 1% in the kill-speed model. Draft spec: `43-draft.md`.
 
 **Required:**
 - 96771 Vengeance of the Highborne (L45, req 37) 4,850 [normal]
@@ -53,60 +48,53 @@ Required dungeon chapter, one run. The DB has no mob levels, ranks or positions 
 
 **Optional / conditional:**
 - 94980 Krol'dok Moulding (L41, req 38) 3,300 [conditional] - starts from the Krol'dok Moulding, dropped by Tunk, who is Elite on Wowhead and mapped with the Stronghold's bosses: a dungeon drop, taken if it falls
+- 94981 Key Ingredients (L41, req 38) 3,300 [conditional] - Wowhead's series puts it after 94980 Krol'dok Moulding, which is cond: taken only if it is offered
 - 94983 Twilight Mementos (L42, req 38) 4,300 [grind / luck] - Twilight Bangle 11.4% from 6 mob types
+- 94997 Lingering Essence (L42, req 38) 3,450 [conditional] - Wowhead's series puts it after 94983 Twilight Mementos, which is dun-grind: taken only if it is offered
+- 94998 Curios of Curiosity (L42, req 38) 3,450 [conditional] - Wowhead's series puts it after 94997 Lingering Essence, which is cond: taken only if it is offered
 - 94969 Krol'dok No More! (L42, req 40) 3,450 [conditional] - Krol'dok dungeon quest with no giver in the DB or on Wowhead: taken if it is offered at the door or inside
 
-### 44 Badlands and Aerie Peak
+### 44 Stormwind, the Temple door and Aerie Peak
 
-File `44_Badlands.lua`, title `[N 42-43 Badlands]`. Wants level **42**; predicted 42.6 -> 42.8. 6 required quests, 12,790 XP, 50s; optional 11,350 XP.
+File `44_StormwindAeriePeak.lua`, title `[N 42-43 Stormwind and Aerie Peak]`. Wants level **42**; predicted 42.2 -> 42.4. 7 required quests, 12,290 XP, 50s; optional 9,050 XP.
 
-From Ironforge: fly Thelsamar, ride into the Badlands for the level 40-43 leftovers (Tremors of the Earth is Boss Tho'grun, Normal on Wowhead; its follow-up against Blacklash and Hematus is the one elite quest kept, optional, for the Prismscale Hauberk), then Ironforge - Aerie Peak for Falstad's hand-in and the first Hinterlands pickups. Artisan Leatherworking at Drakk Stonehand (skill 200, 5g) falls here if the skill is there. Rhapsody's Kalimdor Kocktail is picked up here so its gizzards and livers can be collected in Tanaris and Feralas.
+From Ironforge by tram. Stormwind: Brohann Caskbelly's In Search of The Temple, Mazen's Behest, Vital Supplies; one loop Darkshire - Nethergarde Keep - the Pool of Tears - Nethergarde - Stormwind does the supply run and the Temple door (Mukomonji, a level 62 elite, stands 2.5 units west of the Pool's trigger). Back at Brohann, To The Hinterlands; then Ironforge - Aerie Peak for Falstad, Gryphon Master Talonaxe and Rhapsody Shindigger, whose Kalimdor Kocktail is picked up here for Tanaris and Feralas. Artisan Leatherworking at Drakk Stonehand (skill 200, 5g) and Farseer Maret Firetend's level 42 row fall here. The Twilight Threat and Delivering Closure are handed in at Stormwind only if he has them. The Badlands trip is dropped (Braedyn, 13 Nov). Draft specs to re-cut: `44-draft.md`, `45-draft.md`.
 
 **Required:**
-- 708 The Black Box (L40, req 30) 2,350
-- 737 Forbidden Knowledge (L40, req 30) 2,350
+- 1363 Mazen's Behest (L41, req 37) 330
+- 1448 In Search of The Temple (L43, req 38) 3,600
 - 1449 To The Hinterlands (L43, req 38) 1,800
 - 1450 Gryphon Master Talonaxe (L43, req 38) 890
 - 1451 Rhapsody Shindigger (L43, req 38) 1,800
-- 732 Tremors of the Earth (L43, req 40) 3,600 - Sign of the Earth 93.55% (drop_rates.json 11 Nov) [mobs to 42]
+- 1395 Supplies for Nethergarde (L45, req 40) 2,900
+- 1477 Vital Supplies (L45, req 40) 970
 
 **Optional / conditional:**
-- 78823 Terror of the Desert Skies (L40, req 26) 1,550 [conditional] - no giver in the DB or on Wowhead (ends at Hemet Nesingwary)
-- 78830 Terror of the Desert Skies (L40, req 26) 3,900 [conditional] - shaman-flagged row with no giver; a Season of Discovery leftover unless it shows up in game
-- 717 Tremors of the Earth (L50, req 40) 5,900 [GROUP, optional] - elite outside a dungeon (rule 13): Blacklash (50 elite), Hematus (50 elite); kept optional for the Prismscale Hauberk (mail chest, scores 64.3 on the level-40 band)
+- 94893 Delivering Closure (L47, req 36) 4,200 [conditional] - offered only if the optional 94892 Dying Wish was done in chapter 40 (Wowhead series)
+- 94894 The Twilight Threat (L45, req 38) 4,850 [conditional] - delivers Kilgar's Head (quest source item 265837), which only Overlord Kilgar drops: the follow-up of the elite quest Bring Me His Head (94890, out). Taken only if it is offered
 
-### 45 Stormwind, the Temple door and Booty Bay
+### 45 Booty Bay
 
-File `45_StormwindBootyBay.lua`, title `[N 42-44 Stranglethorn Vale]`. Wants level **43**; predicted 42.8 -> 43.2. 10 required quests, 24,315 XP, 1g 20s; optional 3,150 XP.
+File `45_BootyBay.lua`, title `[N 42-43 Stranglethorn Vale]`. Wants level **42**; predicted 42.4 -> 42.5. 4 required quests, 7,465 XP, 00s; optional 3,150 XP.
 
-Stormwind hand-ins from the Riverglades, Brohann Caskbelly's In Search of The Temple (fly Nethergarde, ride to the Pool of Tears in the Swamp of Sorrows, back to Stormwind), the Nethergarde supply run from Darkshire, then Booty Bay: Friz's caravan chain with Caravaneer Ruzzgot and Raptor Mastery's third part. The chapter ends on the Booty Bay - Ratchet boat.
+Aerie Peak - Ironforge - Stormwind - Booty Bay by flight; bind at Booty Bay for this chapter. Friz's caravan chain with Caravaneer Ruzzgot (I Know a Guy, Get the Goods, We've Been Robbed!) and Raptor Mastery's third part at Nesingwary's camp. All's Well That Ends Well and Twice Misplaced Trust are picked up only if offered. The Bloodsail Trunk's position is not in the data. The chapter ends on the Booty Bay - Ratchet boat.
 
 **Required:**
 - 196 Raptor Mastery (L41, req 28) 2,450 [mobs to 41]
 - 95295 I Know a Guy (L40, req 36) 315
 - 95322 Get the Goods (L40, req 36) 2,350
 - 95325 We've Been Robbed! (L40, req 36) 2,350
-- 94893 Delivering Closure (L47, req 36) 4,200
-- 1363 Mazen's Behest (L41, req 37) 330
-- 1448 In Search of The Temple (L43, req 38) 3,600
-- 94894 The Twilight Threat (L45, req 38) 4,850
-- 1395 Supplies for Nethergarde (L45, req 40) 2,900
-- 1477 Vital Supplies (L45, req 40) 970
 
 **Optional / conditional:**
 - 95384 Partial Mystical Notes (L40, req 32) 3,150 [conditional] - no giver: probably starts from a dropped item (ends at npc 260873); taken only if the item drops
 
 ### 46 Tanaris I
 
-File `46_TanarisI.lua`, title `[N 43-44 Tanaris]`. Wants level **43**; predicted 43.2 -> 43.8. 16 required quests, 46,085 XP, 7g 15s; optional 0 XP.
+File `46_TanarisI.lua`, title `[N 42-44 Tanaris]`. Wants level **43**; predicted 42.5 -> 43.2. 12 required quests, 41,990 XP, 7g 15s; optional 4,095 XP.
 
-Gadgetzan and Steamwheedle Port, quest levels 40-46. Gadgetzan's flight point is not known yet: the first trip is by road from Ratchet through the Barrens and the Shimmering Flats (the Great Lift was used in chapter 39; the road is unverified). Bind at Gadgetzan. Friz's Steamwheedle chain, the Wastewander and Southsea quests, the two WANTED posters, the Screecher Spirits pickup for Feralas, and about 25 Rocs for Rhapsody's three gizzards. Artisan Cooking (Clamlette Surprise at Dirge Quikcleave, Cooking 225, level 35) is a gate stop here.
+Gadgetzan and Steamwheedle Port, quest levels 40-46. Gadgetzan's flight point is not known yet: the first trip is by road from Ratchet through the Barrens and the Shimmering Flats (unverified). Bind at Gadgetzan. The Wastewander and Southsea quests, the two WANTED posters, the Screecher Spirits pickup for Feralas, and about 25 Rocs for Rhapsody's three gizzards. Friz's Steamwheedle chain is conditional on the optional smuggling block of chapter 41. Artisan Cooking (Clamlette Surprise at Dirge Quikcleave, Cooking 225) is a gate stop here.
 
 **Required:**
-- 95296 Shipping and Handling (L40, req 36) 315
-- 95312 Coming to Collect (L40, req 36) 315
-- 95321 Tazzik's Dues (L40, req 36) 3,150 [mobs to 40]
-- 95383 Shipping and Handling (L40, req 36) 315
 - 992 Gadgetzan Water Survey (L46, req 38) 3,050
 - 2781 WANTED: Caliph Scorpidsting (L46, req 39) 5,050 - Caliph Scorpidsting's Head 82.69% (drop_rates.json 11 Nov) [mobs to 46]
 - 1690 Wastewander Justice (L43, req 40) 3,600 [mobs to 42]
@@ -120,11 +108,17 @@ Gadgetzan and Steamwheedle Port, quest levels 40-46. Gadgetzan's flight point is
 - 8366 Southsea Shakedown (L45, req 40) 3,900 [mobs to 45]
 - 97536 Gnomish Garbage (L45, req 40) 2,900
 
+**Optional / conditional:**
+- 95296 Shipping and Handling (L40, req 36) 315 [conditional] - offered only if the optional 95294 Smuggler's Bargain was done in chapter 41 (Wowhead series)
+- 95312 Coming to Collect (L40, req 36) 315 [conditional] - Wowhead's series puts it after 95383 Shipping and Handling, which is cond: taken only if it is offered
+- 95321 Tazzik's Dues (L40, req 36) 3,150 [conditional] - Wowhead's series puts it after 95312 Coming to Collect, which is cond: taken only if it is offered
+- 95383 Shipping and Handling (L40, req 36) 315 [conditional] - Wowhead's series puts it after 95296 Shipping and Handling, which is cond: taken only if it is offered
+
 ### 47 Feralas I
 
-File `47_FeralasI.lua`, title `[N 43-45 Feralas]`. Wants level **43**; predicted 43.8 -> 44.2. 14 required quests, 27,475 XP, 1g 75s; optional 3,450 XP.
+File `47_FeralasI.lua`, title `[N 43-44 Feralas]`. Wants level **43**; predicted 43.2 -> 43.5. 14 required quests, 27,475 XP, 1g 75s; optional 3,450 XP.
 
-Feathermoon Stronghold, quest levels 41-45. First trip by road: Gadgetzan - Thousand Needles - Thalanaar (flight point) - through Feralas to the Forgotten Coast boat (unverified). The naga and Gordunni quests, the Missing Courier chain, OOX-22/FE, Friz's delivery, the screecher spirits, and the Ironfur bears and Groddoc apes for Rhapsody's livers. It comes before Zul'Farrak because The Prophecy of Mosh'aru needs Screecher Spirits handed in first.
+Feathermoon Stronghold, quest levels 41-45. First trip by road: Gadgetzan - Thousand Needles - Thalanaar (flight point) - through Feralas to the Forgotten Coast boat (unverified). The naga and Gordunni quests, the Missing Courier chain, OOX-22/FE, Friz's delivery, the screecher spirits, and the Ironfur bears and Groddoc apes for Rhapsody's livers.
 
 **Required:**
 - 2982 The High Wilderness (L44, req 39) 3,750 [mobs to 45]
@@ -145,44 +139,15 @@ Feathermoon Stronghold, quest levels 41-45. First trip by road: Gadgetzan - Thou
 **Optional / conditional:**
 - 95599 The Old Key (L42, req 35) 3,450 [conditional] - no giver: The Old Key probably starts from a dropped key; taken only if it drops
 
-### 48 Zul'Farrak (dungeon)
+### 48 The Hinterlands
 
-File `48_ZulFarrak.lua`, title `[N 44-45 Zul'Farrak]`. Wants level **45**; predicted 44.2 -> 44.7. 10 required quests, 36,750 XP, 3g 30s; optional 11,000 XP.
+File `48_Hinterlands.lua`, title `[N 43-45 The Hinterlands]`. Wants level **45**; predicted 43.5 -> 44.0. 11 required quests, 32,550 XP, 1g 20s; optional 8,800 XP.
 
-Required dungeon chapter, one run: Thalanaar - Gadgetzan by flight, Screecher Spirits handed in at Steamwheedle Port on the way. Mobs inside are level 43-48 in the DB and every boss is ranked elite there. Six quests hang on one boss each (Wowhead reads 12-43% over all kills, quest or not) and are labelled normal with a one-kill note. Troll Temper (16% from the trolls) is grind / luck. Gahz'rilla has to be summoned and is optional.
-
-**Required:**
-- 96770 The Witch Doctor's Head (L46, req 39) 5,050 [normal (boss item, one kill)] [mobs to 46]
-- 3520 Screecher Spirits (L44, req 40) 3,750 [mobs to 1]
-- 2864 Tran'rek (L45, req 40) 390 [normal]
-- 2865 Scarab Shells (L45, req 40) 3,900 [normal (boss item, one kill)] [mobs to 46]
-- 2769 The Brassbolts Brothers (L46, req 40) 405 [normal]
-- 2846 Tiara of the Deep (L46, req 40) 6,050 [normal (boss item, one kill)] [mobs to 46]
-- 2861 Tabetha's Task (L46, req 40) 405 [normal]
-- 2768 Divino-matic Rod (L47, req 40) 6,300 [normal (boss item, one kill)] [mobs to 45]
-- 2991 Nekrum's Medallion (L47, req 40) 5,250 [normal (boss item, one kill)] [mobs to 46]
-- 3527 The Prophecy of Mosh'aru (L47, req 40) 5,250 [normal (boss item, one kill)] [mobs to 46]
-
-**Optional / conditional:**
-- 3042 Troll Temper (L45, req 40) 3,900 [grind / luck] - Troll Temper 15.6% from 18 mob types
-- 2770 Gahz'rilla (L50, req 40) 7,100 [grind / luck] - Gahz'rilla has to be summoned; the summoning item is not in the quest data (Classic: the Mallet of Zul'Farrak from the elite top of Jintha'Alor): only if someone in the group has it
-
-### 49 Powderfuse return and the Hinterlands
-
-File `49_Hinterlands.lua`, title `[N 44-46 The Hinterlands]`. Wants level **45**; predicted 44.7 -> 45.4. 18 required quests, 49,300 XP, 1g 20s; optional 0 XP.
-
-Back east: Gadgetzan - Theramore by flight, the Menethil boat, Ironforge for the level 44 training row and the Uldum and Tymor pickups at the Explorers' League. Farholde Keep by flight from Thelsamar and the ride to Powderfuse Port for Friz's two hand-ins and the Booty Bay parcel, then Aerie Peak: Rhapsody's Kocktail is handed in and Rhapsody's Tale goes to Brohann Caskbelly in Stormwind on the next tram trip, where Into The Temple of Atal'Hakkar is taken for round 3. Both Jintha'Alor quests are out: Vile Priestess Hexx and the Ancient Egg's guards are level 51 elites in the DB.
+Back east: Feathermoon - Thalanaar - Theramore by flight, the Menethil boat, Ironforge for the level 44 training row and the Uldum and Tymor pickups at the Explorers' League, then Aerie Peak. Rhapsody's Kocktail is handed in and Rhapsody's Tale taken; Witherbark Cages and The Altar of Zul lead to Thadius Grimshade (Nethergarde, next chapter but one), which is what opens Nekrum's Medallion for Zul'Farrak. Both Jintha'Alor quests are out: Vile Priestess Hexx and the Ancient Egg's guards are level 51 elites. The ride from Farholde Keep to Powderfuse Port for Friz's hand-ins is only made if he holds those quests. Predicted entry is about a level under the check: the Witherbark and Skulk Rock quests come last.
 
 **Required:**
-- 95327 All's Well That Ends Well (L40, req 36) 3,150
-- 95472 Consolation Prize (L40, req 36) 2,350
-- 97332 Twice Misplaced Trust (L41, req 36) 3,300
 - 1452 Rhapsody's Kalimdor Kocktail (L43, req 38) 3,600 - required (Braedyn, 13 Nov), because Rhapsody's Tale and Into The Temple of Atal'Hakkar hang on it (13,400 XP with this quest). Three of each: Roc Gizzard 12% from plain Rocs (5.9% over all rocs), about 25 kills in Tanaris; Ironfur Liver 24%, about 12 bears, and Groddoc Liver 27%, about 11 apes, in Feralas [mobs to 50]
-- 1469 Rhapsody's Tale (L43, req 38) 2,700
 - 2988 Witherbark Cages (L45, req 40) 3,900
-- 2990 Thadius Grimshade (L47, req 40) 2,100
-- 2992 The Divination (L47, req 40) 1,050 [mobs to 50]
-- 2993 Return to the Hinterlands (L47, req 40) 2,100
 - 2877 Skulk Rock Clean-up (L48, req 40) 4,400 [mobs to 48]
 - 2989 The Altar of Zul (L48, req 40) 4,400
 - 485 Find OOX-09/HL! (L48, req 43) 4,400
@@ -193,13 +158,18 @@ Back east: Gadgetzan - Theramore by flight, the Menethil boat, Ironforge for the
 - 3450 An Easy Pickup (L52, req 45) 510
 - 3451 Signal for Pickup (L52, req 45) 510
 
-Level check: 86616 needs 45, 2963 needs 45, 3448 needs 45, 3450 needs 45, 3451 needs 45; predicted entry 44.7.
+**Optional / conditional:**
+- 95327 All's Well That Ends Well (L40, req 36) 3,150 [conditional] - given by Caravaneer Ruzzgot, where The Big Payback (95326) ends; that quest starts at the ledger where We've Been Robbed! ends and is out (Ruzzgot's Shipment 29.3%). No series on Wowhead, so the link is not proven: taken only if he offers it
+- 95472 Consolation Prize (L40, req 36) 2,350 [conditional] - Wowhead's series puts it after 95321 Tazzik's Dues, which is cond: taken only if it is offered
+- 97332 Twice Misplaced Trust (L41, req 36) 3,300 [conditional] - Wowhead's series puts it after 97331 Zimmix's Great Escape, which is out: taken only if it is offered
 
-### 50 Searing Gorge
+Level check: 86616 needs 45, 2963 needs 45, 3448 needs 45, 3450 needs 45, 3451 needs 45; predicted entry 43.5.
 
-File `50_SearingGorge.lua`, title `[N 45-46 Searing Gorge]`. Wants level **46**; predicted 45.4 -> 45.9. 11 required quests, 41,610 XP, 6g 35s; optional 0 XP.
+### 49 Searing Gorge
 
-Thorium Point's flight point is not known: the first trip is on foot (which pass is open on Forever is unverified). The board and Thorium Brotherhood quests with normal targets, the Suntara Stones, and Caught! / The Key to Freedom. The Kalaran Windblade chain stops where its targets turn elite.
+File `49_SearingGorge.lua`, title `[N 44-45 Searing Gorge]`. Wants level **46**; predicted 44.0 -> 44.6. 11 required quests, 41,610 XP, 6g 35s; optional 0 XP.
+
+Thorium Point's flight point is not known: the first trip is on foot (which pass is open on Forever is unverified). The board and Thorium Brotherhood quests with normal targets, the Suntara Stones, and Caught! / The Key to Freedom. The Kalaran Windblade chain stops where its targets turn elite. Predicted entry is over a level under the check on quest XP alone: the spec orders the quests by mob level and says what to leave for the return.
 
 **Required:**
 - 3367 Suntara Stones (L48, req 40) 4,400
@@ -214,27 +184,33 @@ Thorium Point's flight point is not known: the first trip is on foot (which pass
 - 7727 Incendosaurs? Whateverosaur is More Like It (L49, req 45) 4,550 [mobs to 49]
 - 7722 What the Flux? (L50, req 45) 4,700
 
-### 51 Stranglethorn: the Cape
+Level check: 7729 needs 45, 7723 needs 45, 7724 needs 45, 7727 needs 45, 7722 needs 45; predicted entry 44.0.
 
-File `51_StranglethornCape.lua`, title `[N 45-47 Stranglethorn Vale]`. Wants level **46**; predicted 45.9 -> 46.3. 7 required quests, 31,600 XP, 00s; optional 3,600 XP.
+### 50 Nethergarde and the Cape of Stranglethorn
 
-Booty Bay again on the way to Kalimdor: The Bloodsail Buccaneers (the captains run to level 48), Stranglethorn Fever (Mokk the Savage, Normal on Wowhead), Cortello's Riddle, Whiskey Slim's Lost Grog and Message in a Bottle, then the Ratchet boat. Where Cortello's later clues lie, and whether they fit this pass, is for the spec.
+File `50_StranglethornCape.lua`, title `[N 44-46 Stranglethorn Vale]`. Wants level **46**; predicted 44.6 -> 45.1. 9 required quests, 36,400 XP, 00s; optional 3,600 XP.
+
+Ironforge - Stormwind: Rhapsody's Tale to Brohann Caskbelly (Into The Temple of Atal'Hakkar is taken for round 3). Stormwind - Nethergarde Keep: Thadius Grimshade, who gives Nekrum's Medallion for the Zul'Farrak run. Then Booty Bay: The Bloodsail Buccaneers (the captains run to level 48), Stranglethorn Fever (Mokk the Savage, Normal on Wowhead), Cortello's Riddle, Whiskey Slim's Lost Grog and Message in a Bottle, and the Ratchet boat.
 
 **Required:**
 - 624 Cortello's Riddle (L43, req 35) 3,600
 - 625 Cortello's Riddle (L43, req 35) 3,600
 - 626 Cortello's Riddle (L51, req 35) 6,100
 - 608 The Bloodsail Buccaneers (L45, req 37) 4,850 [mobs to 48]
+- 1469 Rhapsody's Tale (L43, req 38) 2,700
 - 348 Stranglethorn Fever (L45, req 40) 5,850 - Heart of Mokk 100.0% (drop_rates.json 11 Nov) [mobs to 44]
+- 2990 Thadius Grimshade (L47, req 40) 2,100
 - 580 Whiskey Slim's Lost Grog (L50, req 40) 4,700
 - 594 Message in a Bottle (L45, req 45) 2,900
 
 **Optional / conditional:**
 - 95385 Torn Mystical Scroll (L43, req 35) 3,600 [conditional] - no giver: probably starts from a dropped item (ends at npc 260873); taken only if the item drops
 
-### 52 Feralas II
+Level check: 594 needs 45; predicted entry 44.6.
 
-File `52_FeralasII.lua`, title `[N 46-47 Feralas]`. Wants level **46**; predicted 46.3 -> 46.9. 16 required quests, 45,995 XP, 00s; optional 9,100 XP.
+### 51 Feralas II
+
+File `51_FeralasII.lua`, title `[N 45-46 Feralas]`. Wants level **46**; predicted 45.1 -> 45.7. 16 required quests, 45,995 XP, 00s; optional 9,100 XP.
 
 Feathermoon by flight now (Ratchet - Theramore - Thalanaar - Feathermoon). Quest levels 46-51: the Writhing Deep, the Sprite Darter chain (it ends in Darnassus, Thousand Needles and the Hinterlands: the spec says how far it goes here), the Feathermoon library errands, the wandering giants, and The Sunken Temple lead-in for Tanaris.
 
@@ -258,13 +234,15 @@ Feathermoon by flight now (Ratchet - Theramore - Thalanaar - Feathermoon). Quest
 
 **Optional / conditional:**
 - 95555 Corrupted Nature (L50, req 40) 4,700 [conditional] - no giver and no side on Wowhead; taken only if it is offered
-- 7721 Fuel for the Zapping (L48, req 45) 4,400 [your call] - Water Elemental Core 55.5% - XP only unless Zorbin's Water Resistant Hat scores as an upgrade; opens Zapped Giants (elite giants)
+- 7721 Fuel for the Zapping (L48, req 45) 4,400 [conditional] - Water Elemental Core 55.5%, ten needed, about 18 kills: optional under rule 11, kept only if Zorbin's Water Resistant Hat (leather head, +9 Sta +14 Int +8 Spi) is an upgrade when he gets there - the spec makes the gear call
 
-### 53 Maraudon (dungeon)
+Level check: 3445 needs 46; predicted entry 45.1.
 
-File `53_Maraudon.lua`, title `[N 46-48 Maraudon]`. Wants level **48**; predicted 46.9 -> 47.3. 6 required quests, 32,000 XP, 2g 90s; optional 8,700 XP.
+### 52 Maraudon (dungeon)
 
-Required dungeon chapter, entered from Desolace (Feathermoon - Nijel's Point flight). Mobs inside are level 43-51 in the DB, so it sits at 47-48 and the spec decides whether the outer wings and the inner falls are one run or two, the way Scarlet Monastery was split. The Shadowshard Fragments (46%) and the Theradric Crystal Carvings (27%) are collections and are grind / luck.
+File `52_Maraudon.lua`, title `[N 45-47 Maraudon]`. Wants level **48**; predicted 45.7 -> 46.1. 6 required quests, 32,000 XP, 2g 90s; optional 8,700 XP.
+
+Required dungeon chapter, entered from Desolace (Feathermoon - Nijel's Point flight). Mobs inside are level 43-51 in the DB; the predicted entry is about 46, so the spec decides whether the outer wings are run here and the inner falls later, the way Scarlet Monastery was split, or the whole run waits until after Tanaris II. The Shadowshard Fragments (46%) and the Theradric Crystal Carvings (27%) are collections and are grind / luck.
 
 **Required:**
 - 7067 The Pariah's Instructions (L48, req 39) 5,450 [normal]
@@ -278,11 +256,11 @@ Required dungeon chapter, entered from Desolace (Feathermoon - Nijel's Point fli
 - 7070 Shadowshard Fragments (L42, req 39) 3,450 [grind / luck] - Shadowshard Fragment 45.9% from 3 mob types
 - 7028 Twisted Evils (L47, req 41) 5,250 [grind / luck] - Theradric Crystal Carving 26.6% from 33 mob types
 
-### 54 Tanaris II and Uldum
+### 53 Tanaris II and Uldum
 
-File `54_TanarisII.lua`, title `[N 47-49 Tanaris]`. Wants level **47**; predicted 47.3 -> 48.1. 17 required quests, 67,680 XP, 2g 45s; optional 0 XP.
+File `53_TanarisII.lua`, title `[N 46-47 Tanaris]`. Wants level **47**; predicted 46.1 -> 47.0. 18 required quests, 71,430 XP, 2g 45s; optional 0 XP.
 
-Gadgetzan by flight (Nijel's Point - Theramore - Gadgetzan). Quest levels 47-51: the Dunemaul compound (Gor'marok, Normal on Wowhead), Thistleshrub Valley, the Gahz'ridian ornaments, Tooga, OOX-17/TN, the egg-o-matic, The Stone Circle, and the Uldum pedestal for the Explorers' League chain. The silithid chain starts with Noxious Lair Investigation (five insect parts at 51%, about ten kills).
+Gadgetzan by flight (Nijel's Point - Theramore - Gadgetzan). Quest levels 47-51: the silithid chain from Noxious Lair Investigation (five insect parts at 51%, about ten kills), the Dunemaul compound (Gor'marok, Normal on Wowhead), Thistleshrub Valley, the Gahz'ridian ornaments, Tooga, OOX-17/TN, the egg-o-matic, The Stone Circle, the Uldum pedestal, and Screecher Spirits handed in at Steamwheedle Port before the Zul'Farrak run.
 
 **Required:**
 - 82 Noxious Lair Investigation (L47, req 39) 3,150 - Centipaar Insect Parts 50.7% (six mob types), five needed, about 10 kills - kept as a plain step with the budget (Braedyn, 13 Nov), because four more Tanaris quests and the silithid chain hang on it [mobs to 50]
@@ -290,6 +268,7 @@ Gadgetzan by flight (Nijel's Point - Theramore - Gadgetzan). Quest levels 47-51:
 - 110 Insect Part Analysis (L48, req 39) 440
 - 113 Insect Part Analysis (L48, req 39) 440
 - 162 Rise of the Silithid (L49, req 39) 5,700
+- 3520 Screecher Spirits (L44, req 40) 3,750 [mobs to 1]
 - 1560 Tooga's Quest (L50, req 40) 5,900 [mobs to 45]
 - 97540 Oasis (L50, req 40) 3,550
 - 2741 The Super Egg-O-Matic (L47, req 42) 4,200
@@ -303,11 +282,32 @@ Gadgetzan by flight (Nijel's Point - Theramore - Gadgetzan). Quest levels 47-51:
 - 3362 Thistleshrub Valley (L50, req 45) 4,700 [mobs to 50]
 - 3444 The Stone Circle (L51, req 46) 4,900
 
+### 54 Zul'Farrak (dungeon)
+
+File `54_ZulFarrak.lua`, title `[N 46-48 Zul'Farrak]`. Wants level **46**; predicted 47.0 -> 47.4. 9 required quests, 33,000 XP, 3g 30s; optional 11,000 XP.
+
+Required dungeon chapter, one run from Gadgetzan, moved here from the first Kalimdor trip (Braedyn, 13 Nov) so that Nekrum's Medallion is in the log. Mobs inside are level 43-48 in the DB and every boss is ranked elite there. Seven quests hang on one boss each (Wowhead reads 12-43% over all kills, quest or not) and are labelled normal with a one-kill note. Troll Temper (16% from the trolls) is grind / luck. Gahz'rilla has to be summoned and is optional.
+
+**Required:**
+- 96770 The Witch Doctor's Head (L46, req 39) 5,050 [normal (boss item, one kill)] [mobs to 46]
+- 2864 Tran'rek (L45, req 40) 390 [normal]
+- 2865 Scarab Shells (L45, req 40) 3,900 [normal (boss item, one kill)] [mobs to 46]
+- 2769 The Brassbolts Brothers (L46, req 40) 405 [normal]
+- 2846 Tiara of the Deep (L46, req 40) 6,050 [normal (boss item, one kill)] [mobs to 46]
+- 2861 Tabetha's Task (L46, req 40) 405 [normal]
+- 2768 Divino-matic Rod (L47, req 40) 6,300 [normal (boss item, one kill)] [mobs to 45]
+- 2991 Nekrum's Medallion (L47, req 40) 5,250 [normal (boss item, one kill)] [mobs to 46]
+- 3527 The Prophecy of Mosh'aru (L47, req 40) 5,250 [normal (boss item, one kill)] [mobs to 46]
+
+**Optional / conditional:**
+- 3042 Troll Temper (L45, req 40) 3,900 [grind / luck] - Troll Temper 15.6% from 18 mob types
+- 2770 Gahz'rilla (L50, req 40) 7,100 [grind / luck] - Gahz'rilla has to be summoned; the summoning item is not in the quest data (Classic: the Mallet of Zul'Farrak from the elite top of Jintha'Alor): only if someone in the group has it
+
 ### 55 Azshara
 
-File `55_Azshara.lua`, title `[N 48-50 Azshara]`. Wants level **47**; predicted 48.1 -> 49.0. 20 required quests, 82,320 XP, 6g 08s; optional 68,550 XP.
+File `55_Azshara.lua`, title `[N 47-49 Azshara]`. Wants level **47**; predicted 47.4 -> 48.2. 18 required quests, 71,020 XP, 5g 23s; optional 79,850 XP.
 
-Talrendis Point, new on Forever; its flight point is not known, so the first trip is by road from Astranaar (unverified). Quest levels 47-55. The Talrendis, coast and Ravencrest quests are in QuestieDB with Alliance givers. The two furbolg chains at Ursolan (15 quests) are not in QuestieDB and their Wowhead pages state no side: they are listed as conditional and not counted. Tymor's Arcane Runes and the Dragonscale Leatherworking quest at Peter Galen (37.6,65.4; Leatherworking 225) are done here.
+Talrendis Point, new on Forever; its flight point is not known, so the first trip is by road from Astranaar (unverified). Quest levels 47-55. Saria Fairmoon's chain (it runs through Lady Sesspira's key, one named mob), the Talrendis and coast quests and Kim'jael are in QuestieDB with Alliance givers. Reclaiming Ravencrest and The Head of the Serpent follow Preserving Eldarath (relics at 14%, out) in Wowhead's series and are conditional; Warlord Krellian is level 55. The two furbolg chains at Ursolan (15 quests) are not in QuestieDB and their Wowhead pages state no side: conditional. Tymor's Arcane Runes and the Dragonscale Leatherworking quest at Peter Galen (37.6,65.4; Leatherworking 225) are done here.
 
 **Required:**
 - 5535 Spiritual Unrest (L47, req 45) 4,200 [mobs to 47]
@@ -321,12 +321,10 @@ Talrendis Point, new on Forever; its flight point is not known, so the first tri
 - 92345 Beneath Nordrassil (L55, req 45) 560
 - 88821 Making Contact (L51, req 47) 490
 - 88884 Highborne Tablets (L52, req 47) 5,100
-- 88917 Slithering Looters (L52, req 47) 5,100
+- 88917 Slithering Looters (L52, req 47) 5,100 - Lady Sesspira's Key from one named mob (level 52, Normal on Wowhead; 37.5% of only 16 sampled kills): one kill, kill her again if it does not drop - she gates the rest of Saria Fairmoon's chain
 - 89037 Murloc Thieves (L52, req 47) 5,100 - Memory Crystal 100.0% (drop_rates.json 11 Nov) [mobs to 52]
 - 3601 Kim'jael Indeed! (L53, req 47) 6,550
 - 86746 The Legashi Threat (L53, req 47) 5,250 [mobs to 53]
-- 88812 Reclaiming Ravencrest (L55, req 47) 5,650
-- 88813 The Head of the Serpent (L55, req 47) 5,650 - Krellian's Head 100.0% (drop_rates.json 11 Nov) [mobs to 55]
 - 89038 A Monumental Task (L55, req 47) 5,650
 - 89053 Your Final Reward (L55, req 47) 5,650
 - 89470 Ill Tidings (L55, req 47) 2,800
@@ -349,13 +347,15 @@ Talrendis Point, new on Forever; its flight point is not known, so the first tri
 - 86796 Later, Satyr (L54, req 47) 5,450 [conditional] - Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
 - 86814 Blackmaw Counter-Offensive (L55, req 47) 7,050 [conditional] - Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
 - 87346 Chieftain Bloodmaw (L55, req 47) 5,650 [conditional] - Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+- 88812 Reclaiming Ravencrest (L55, req 47) 5,650 [conditional] - Wowhead's series puts it after 88809 Preserving Eldarath, which is out: taken only if it is offered
+- 88813 The Head of the Serpent (L55, req 47) 5,650 [conditional] - Wowhead's series puts it after 88812 Reclaiming Ravencrest, which is cond: taken only if it is offered
 - 90813 Pay Dirt! (L53, req 50) 6,550 [conditional] - Alliance on Wowhead, required level 50, no giver known (ends at Berdun Cliffbrew, Azshara 12.6,77.4)
 
 ### 56 Un'Goro Crater
 
-File `56_UnGoro.lua`, title `[N 49-50 Un'Goro Crater]`. Wants level **49**; predicted 49.0 -> 49.9. 19 required quests, 80,780 XP, 2g 45s; optional 5,650 XP.
+File `56_UnGoro.lua`, title `[N 48-50 Un'Goro Crater]`. Wants level **49**; predicted 48.2 -> 49.1. 19 required quests, 80,780 XP, 2g 45s; optional 5,650 XP.
 
-Marshal's Refuge, reached on foot from Gadgetzan (flight point taken there). The stretch chapter: its quests are level 50-55 and several run to level 54-55 mobs. The pylons, It's a Secret to Everybody, the journal and crate finds and the Lar'korwi quests are placed first; the level 50 pickups come last. If he is under 49 on arrival, the Ursolan chains in Azshara come first.
+Marshal's Refuge, reached on foot from Gadgetzan (flight point taken there). The stretch chapter: its quests are level 50-55 and several run to level 54-55 mobs. The pylons, It's a Secret to Everybody, the journal and crate finds and the Lar'korwi quests are placed first; the level 50 pickups come last. If he is under 49 on arrival, the conditional chains in Azshara come first.
 
 **Required:**
 - 3844 It's a Secret to Everybody (L52, req 47) 1,250
@@ -381,15 +381,16 @@ Marshal's Refuge, reached on foot from Gadgetzan (flight point taken there). The
 **Optional / conditional:**
 - 87494 Microcrystal Contamination (L55, req 45) 5,650 [conditional] - no giver in the DB or on Wowhead (ends at Torwa Pathfinder)
 
-Level check: 4491 needs 50, 4492 needs 50, 87492 needs 50; predicted entry 49.0.
+Level check: 3882 needs 49, 4501 needs 49, 4491 needs 50, 4492 needs 50, 87492 needs 50; predicted entry 48.2.
 
-### 57 Level 50: Ironforge
+### 57 Level 50: Ironforge and Nethergarde
 
-File `57_Level50.lua`, title `[N 49-51 Ironforge]`. Wants level **50**; predicted 49.9 -> 50.0. 3 required quests, 12,770 XP, 2g 20s; optional 0 XP.
+File `57_Level50.lua`, title `[N 49-50 Ironforge]`. Wants level **50**; predicted 49.1 -> 49.3. 4 required quests, 13,820 XP, 2g 20s; optional 0 XP.
 
-Closing stop of the round: the level 46, 48 and 50 training rows not yet bought, the Explorers' League hand-ins for the Uldum and Tymor chains, the profession ranks still open, and a check with Eldrun for a level-50 class quest (the Classic ones are Horde-side on Wowhead).
+Closing stop of the round: the level 46, 48 and 50 training rows not yet bought, the Explorers' League hand-ins for the Uldum and Tymor chains, the tram to Stormwind and the Nethergarde flight to hand Nekrum's Medallion to Thadius Grimshade (The Divination follows; Return to the Hinterlands is left for round 3), the profession ranks still open, and a check with Eldrun for a level-50 class quest (the Classic ones are Horde-side on Wowhead).
 
 **Required:**
+- 2992 The Divination (L47, req 40) 1,050 [mobs to 50]
 - 2964 A Future Task (L50, req 45) 4,700
 - 2977 Return to Ironforge (L50, req 45) 470
 - 3461 Return to Tymor (L52, req 45) 7,600
@@ -400,40 +401,38 @@ The best usable reward of each kept quest, top five per slot. The specs turn the
 
 | slot | score | item | quest | chapter |
 |---|---|---|---|---|
-| Back | 22.5 | Medicine Blanket (+4 Sta +9 Spi) | 348 Stranglethorn Fever | 51 |
-| Chest | 64.3 | Prismscale Hauberk (+3 Sta +4 Int +23 Spi) | 717 Tremors of the Earth [GROUP, optional] | 44 |
-| Chest | 53.3 | Acumen Robes (+15 Int +14 SP) | 7028 Twisted Evils [grind / luck] | 53 |
-| Chest | 51.5 | Blackwater Tunic (+7 Str +15 Spi) | 608 The Bloodsail Buccaneers | 51 |
+| Back | 22.5 | Medicine Blanket (+4 Sta +9 Spi) | 348 Stranglethorn Fever | 50 |
+| Chest | 53.3 | Acumen Robes (+15 Int +14 SP) | 7028 Twisted Evils [grind / luck] | 52 |
+| Chest | 51.5 | Blackwater Tunic (+7 Str +15 Spi) | 608 The Bloodsail Buccaneers | 50 |
 | Feet | 52.0 | Hippogryph Hide Boots (+17 Str +9 Sta +9 SP) | 86814 Blackmaw Counter-Offensive [conditional] | 55 |
 | Feet | 34.6 | Southsea Mojo Boots (+11 Int +8 SP) | 8366 Southsea Shakedown | 46 |
-| Feet | 30.9 | Gnomish Inventor Boots (+7 Sta +2 Int +11 Spi) | 836 Rescue OOX-09/HL! | 49 |
-| Finger | 28.9 | Woodseed Hoop (+10 Int +6 SP) | 7041 Vyletongue Corruption [normal] | 53 |
-| Finger | 11.8 | Ponderous Loop (+4 Sta +7 Int) | 78830 Terror of the Desert Skies [conditional] | 44 |
-| Finger | 8.0 | Apology Ring (+6 Sta +4 SP) | 97332 Twice Misplaced Trust | 49 |
-| Hands | 48.5 | Witherseed Gloves (+13 Spi +8 SP) | 5863 The Dunemaul Compound | 54 |
+| Feet | 30.9 | Gnomish Inventor Boots (+7 Sta +2 Int +11 Spi) | 836 Rescue OOX-09/HL! | 48 |
+| Finger | 28.9 | Woodseed Hoop (+10 Int +6 SP) | 7041 Vyletongue Corruption [normal] | 52 |
+| Finger | 8.0 | Apology Ring (+6 Sta +4 SP) | 97332 Twice Misplaced Trust [conditional] | 48 |
+| Hands | 48.5 | Witherseed Gloves (+13 Spi +8 SP) | 5863 The Dunemaul Compound | 53 |
 | Hands | 33.7 | Grotslab Gloves (+12 Agi +12 Int) | 4501 Beware of Pterrordax | 56 |
-| Head | 75.0 | Engineer's Guild Headpiece (+22 Spi +10 SP) | 2768 Divino-matic Rod [normal (boss item, one kill)] | 48 |
-| Head | 43.7 | Zorbin's Water Resistant Hat (+9 Sta +14 Int +8 Spi) | 7721 Fuel for the Zapping [your call] | 52 |
-| Head | 23.7 | Dudd's Thinkin' Cap (+10 Sta +14 Int) | 95385 Torn Mystical Scroll [conditional] | 51 |
+| Head | 75.0 | Engineer's Guild Headpiece (+22 Spi +10 SP) | 2768 Divino-matic Rod [normal (boss item, one kill)] | 54 |
+| Head | 43.7 | Zorbin's Water Resistant Hat (+9 Sta +14 Int +8 Spi) | 7721 Fuel for the Zapping [conditional] | 51 |
+| Head | 23.7 | Dudd's Thinkin' Cap (+10 Sta +14 Int) | 95385 Torn Mystical Scroll [conditional] | 50 |
 | Legs | 58.5 | Treetop Leggings (+8 Sta +8 Int +18 Spi) | 4491 A Little Help From My Friends | 56 |
-| Main Hand | 480.0 | Truesong's Hammer (32.9 dps +10 Str) | 88813 The Head of the Serpent | 55 |
-| Neck | 42.7 | Curio-Adorned Necklace (+9 Int +7 Spi +5 SP) | 94998 Curios of Curiosity | 42 |
-| Neck | 18.0 | Prodigious Shadowshard Pendant (+9 SP) | 7070 Shadowshard Fragments [grind / luck] | 53 |
+| Main Hand | 480.0 | Truesong's Hammer (32.9 dps +10 Str) | 88813 The Head of the Serpent [conditional] | 55 |
+| Neck | 42.7 | Curio-Adorned Necklace (+9 Int +7 Spi +5 SP) | 94998 Curios of Curiosity [conditional] | 43 |
+| Neck | 18.0 | Prodigious Shadowshard Pendant (+9 SP) | 7070 Shadowshard Fragments [grind / luck] | 52 |
 | One-Hand | 454.3 | Scout's Dagger (31.1 dps +6 Str +6 Agi) | 89037 Murloc Thieves | 55 |
 | Shoulder | 41.7 | Amice of Sorrow (+14 Int +9 SP) | 86813 Potential Panacea [conditional] | 55 |
 | Shoulder | 31.2 | Failed Flying Experiment (+10 Str +10 Agi) | 2767 Rescue OOX-22/FE! | 47 |
 | Two-Hand | 631.7 | Rageroar's Best Club (40.3 dps +15 Str +15 Spi) | 86777 Master Feardred [conditional] | 55 |
 | Two-Hand | 604.5 | Bigger Rock on Bigger Stick (41.2 dps +14 Str) | 94982 Eye of Mugg [normal (boss item, one kill)] | 43 |
 | Two-Hand | 565.4 | Staff of Archmage Selwyn (31.6 dps +16 Sta +16 Int +48 SP) | 89053 Your Final Reward | 55 |
-| Two-Hand | 551.1 | Resurgence Rod (34.1 dps +37 SP) | 7065 Corruption of Earth and Seed [normal] | 53 |
-| Two-Hand | 519.6 | Staff of Lore (27.6 dps +5 Int +18 Spi +40 SP) | 3161 Gahz'ridian | 54 |
+| Two-Hand | 551.1 | Resurgence Rod (34.1 dps +37 SP) | 7065 Corruption of Earth and Seed [normal] | 52 |
+| Two-Hand | 519.6 | Staff of Lore (27.6 dps +5 Int +18 Spi +40 SP) | 3161 Gahz'ridian | 53 |
 | Waist | 37.3 | Crystal-flecked Waistguard (+6 Str +15 Int) | 87494 Microcrystal Contamination [conditional] | 56 |
 | Waist | 29.8 | Twilight Initiate's Belt (+11 Agi +7 Spi) | 94984 Tome of Twilight [normal (boss item, one kill)] | 43 |
-| Waist | 28.0 | Nightscale Girdle (+14 Str +2 Sta) | 2972 Doling Justice | 52 |
-| Waist | 28.0 | Vinehedge Cinch (+14 Str +3 Sta) | 2845 Wandering Shay | 52 |
+| Waist | 28.0 | Nightscale Girdle (+14 Str +2 Sta) | 2972 Doling Justice | 51 |
+| Waist | 28.0 | Vinehedge Cinch (+14 Str +3 Sta) | 2845 Wandering Shay | 51 |
 | Waist | 27.0 | Excavator's Utility Belt (+4 Sta +16 Int) | 3882 Roll the Bones | 56 |
-| Wrist | 23.7 | Reloading Assist Armbands (+10 Agi +5 Spi) | 648 Rescue OOX-17/TN! | 54 |
-| Wrist | 16.9 | Chelonian Cuffs (+4 Sta +10 Int) | 1560 Tooga's Quest | 54 |
+| Wrist | 23.7 | Reloading Assist Armbands (+10 Agi +5 Spi) | 648 Rescue OOX-17/TN! | 53 |
+| Wrist | 16.9 | Chelonian Cuffs (+4 Sta +10 Int) | 1560 Tooga's Quest | 53 |
 
 ## Out, by zone (silent in the guide; the reason is recorded here)
 
@@ -518,6 +517,26 @@ Round-2 zones only; quests below the bracket that were only looked at as prerequ
 - chain behind 3463 Set Them Ablaze!: 3481 Trinkets... (470)
 - no giver, no side, no XP: 93162 Head of the Obliterator (0)
 
+**Badlands** (19 quests, 57,250 XP)
+- behind Tremors of the Earth (732); the Badlands trip is dropped (Braedyn, 13 Nov): with Forbidden Knowledge out and the Black Box unsourced it held one required quest: 717 Tremors of the Earth (5,900)
+- elite outside a dungeon (rule 13): Grel'borg the Miser (39 elite), Dagun the Ravenous (43 elite), Mogh the Undying (44 elite): 735 The Star, the Hand and the Heart (5,600)
+- chain behind 777 This Is Going to Be Hard: 778 This Is Going to Be Hard (4,850)
+- elite outside a dungeon (rule 13): Ambassador Infernus (42 elite); Thane's Hammer is a one-hand caster mace: 762 An Ambassador of Evil (4,650)
+- elite outside a dungeon (rule 13): Scorched Guardian (45 elite): 706 Fiery Blaze Enchantments (3,900)
+- given by Hemet Nesingwary (Wowhead, 13 Nov) for a Hunter rune: QuestieDB marks it Hunter only, Wowhead Hunter and Shaman; its item comes from the Badlands, which the route passes before Hemet: 78830 Terror of the Desert Skies (3,900)
+- judgment: the Badlands trip is dropped (Braedyn, 13 Nov): with Forbidden Knowledge out and the Black Box unsourced it held one required quest (this one, 3,600 XP, Boss Tho'grun in the far west): 732 Tremors of the Earth (3,600)
+- drop under 30%: Bracers of Rock Binding 24.16% (drop_rates.json 11 Nov): 712 Study of the Elements: Rock (3,450)
+- drop under 30%: Torn Scroll Fragment 3.61% (drop_rates.json 11 Nov): 692 The Lost Fragments (3,300)
+- drop under 30%: Scrap Metal 15.2% (9 droppers, best Dustbelcher Ogre Mage 31% of 35): 733 Scrounging (3,150)
+- drop under 30%: Unstudied Artifact 7.7% (4 droppers, best Shadowforge Darkweaver 29% of 319): 97617 Safety Checks (3,150)
+- drop under 30%: Large Stone Slab 18.84% (drop_rates.json 11 Nov): 711 Study of the Elements: Rock (3,000)
+- chain behind 712 Study of the Elements: Rock: 716 Stone Is Better than Cloth (2,550); 734 This Is Going to Be Hard (0)
+- chain behind 735 The Star, the Hand and the Heart: 737 Forbidden Knowledge (2,350)
+- the Corroded Black Box has no source in the DB or on Wowhead; the Badlands trip is dropped (Braedyn, 13 Nov): with Forbidden Knowledge out and the Black Box unsourced it held one required quest: 708 The Black Box (2,350)
+- drop-start from Tho'grun's Dustbelchers (about 6-14%); the Badlands trip is dropped (Braedyn, 13 Nov): with Forbidden Knowledge out and the Black Box unsourced it held one required quest: 78823 Terror of the Desert Skies (1,550)
+- chain behind 734 This Is Going to Be Hard: 777 This Is Going to Be Hard (0)
+- no XP, nothing kept behind it: 779 Seal of the Earth (0)
+
 **Feralas** (18 quests, 56,960 XP)
 - chain behind Muigin and Larion: 3909 The Videre Elixir (5,100)
 - chain behind 2943 Return to Troyas: 2879 The Stave of Equinex (4,700)
@@ -538,7 +557,7 @@ Round-2 zones only; quests below the bracket that were only looked at as prerequ
 - chain behind 4297 Food for Baby: 4298 Becoming a Parent (440)
 - no XP, nothing kept behind it: 4041 The Videre Elixir (0)
 
-**Riverglades** (12 quests, 44,500 XP)
+**Riverglades** (14 quests, 49,200 XP)
 - elite outside a dungeon (rule 13): Overlord Kilgar (46 elite): 94890 Bring Me His Head (5,050)
 - elite outside a dungeon (rule 13): Komuk (45 elite); no giver in the DB either; out in round 1 for the same reason: 94926 Drop the Hammer (4,850)
 - Braedyn's 11 Nov ruling: 95935 Hail the Dragonslayer (4,450)
@@ -550,21 +569,9 @@ Round-2 zones only; quests below the bracket that were only looked at as prerequ
 - elite outside a dungeon (rule 13): Snargl (40 elite); the reward is cloth: 94679 Snargl's Snout (3,150)
 - drop under 30%: Ruzzgot's Shipment 29.29% (drop_rates.json 11 Nov): 95326 The Big Payback (3,000)
 - drop under 30%: Intact Tallstrider Beak 15.56% (drop_rates.json 11 Nov): 95984 Song of the Strider (3,000)
+- Farmers' Mementos 7.26% from Twilight Raiders only (Wowhead tooltip, 13 Nov), five needed, about 69 kills - rule 12. QuestieDB has no objectives for this quest, so the first pass missed it; round 1 ruled it out the same way: 94829 What We Lost (2,350)
+- Wowhead's series puts it after What We Lost (94829), which is out; round 1 ruled both out: 94858 All That's Left (2,350)
 - drop under 30%: Twilight Finger Bone 16.2% (4 droppers, best Twilight Neophyte 18% of 4379): 94961 Biting the Hand (2,350)
-
-**Badlands** (13 quests, 37,600 XP)
-- elite outside a dungeon (rule 13): Grel'borg the Miser (39 elite), Dagun the Ravenous (43 elite), Mogh the Undying (44 elite): 735 The Star, the Hand and the Heart (5,600)
-- chain behind 777 This Is Going to Be Hard: 778 This Is Going to Be Hard (4,850)
-- elite outside a dungeon (rule 13): Ambassador Infernus (42 elite); Thane's Hammer is a one-hand caster mace: 762 An Ambassador of Evil (4,650)
-- elite outside a dungeon (rule 13): Scorched Guardian (45 elite): 706 Fiery Blaze Enchantments (3,900)
-- drop under 30%: Bracers of Rock Binding 24.16% (drop_rates.json 11 Nov): 712 Study of the Elements: Rock (3,450)
-- drop under 30%: Torn Scroll Fragment 3.61% (drop_rates.json 11 Nov): 692 The Lost Fragments (3,300)
-- drop under 30%: Scrap Metal 15.2% (9 droppers, best Dustbelcher Ogre Mage 31% of 35): 733 Scrounging (3,150)
-- drop under 30%: Unstudied Artifact 7.7% (4 droppers, best Shadowforge Darkweaver 29% of 319): 97617 Safety Checks (3,150)
-- drop under 30%: Large Stone Slab 18.84% (drop_rates.json 11 Nov): 711 Study of the Elements: Rock (3,000)
-- chain behind 712 Study of the Elements: Rock: 716 Stone Is Better than Cloth (2,550); 734 This Is Going to Be Hard (0)
-- chain behind 734 This Is Going to Be Hard: 777 This Is Going to Be Hard (0)
-- no XP, nothing kept behind it: 779 Seal of the Earth (0)
 
 **Desolace** (14 quests, 36,030 XP)
 - elite outside a dungeon (rule 13): Khan Hratha (42 elite); needs Gelkis reputation: 1380 Khan Hratha (4,300)
@@ -591,7 +598,7 @@ Round-2 zones only; quests below the bracket that were only looked at as prerequ
 - chain behind 693 Wand over Fist: 694 Trelane's Defenses (3,000)
 - chain behind 695 An Apprentice's Enchantment: 696 Attack on the Tower (3,000)
 - chain behind 652 Breaking the Keystone: 653 Myzrael's Allies (2,350)
-- judgment: needs the Myzrael chain (elite Fozruk): 687 Theldurin the Lost (1,550)
+- chain behind 653 Myzrael's Allies: 687 Theldurin the Lost (1,550)
 - drop under 30%: Illegible Recipe 7.8% (7 droppers, best Boulderfist Enforcer 11% of 2432): 79624 Anyone Can Cook (1,550)
 - chain behind 694 Trelane's Defenses: 695 An Apprentice's Enchantment (300)
 
@@ -700,6 +707,7 @@ Round-2 zones only; quests below the bracket that were only looked at as prerequ
 - behind 5220 Return to Chillwind Camp, which is left for round 3: 5222 Target: Writhing Haunt (5,650)
 - behind 5222 Target: Writhing Haunt, which is left for round 3: 5223 Return to Chillwind Camp (2,800)
 - behind 8460 Timbermaw Ally, which is left for round 3: 8462 Speak to Nafien (560)
+- handed in at Aerie Peak after The Divination: round 3: 2993 Return to the Hinterlands (2,100)
 - jar filled on Felwood oozes: round 3 (Felwood): 4512 A Little Slime Goes a Long Way (6,350)
 - level 52, required level 50: round 3: 5048 Good Natured Emma (5,100)
 - level 55: round 3: 3371 Dwarven Justice (5,650)

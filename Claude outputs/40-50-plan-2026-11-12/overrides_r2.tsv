@@ -4,7 +4,7 @@
 1878	OUT	repeatable follow-up of Water Pouch Bounty, 375 XP
 2875	PLAIN	Firebeard's Head 59% on a single named mob: one kill only, then abandon (rule 12)
 82	PLAIN	Centipaar Insect Parts 50.7% (six mob types), five needed, about 10 kills - kept as a plain step with the budget (Braedyn, 13 Nov), because four more Tanaris quests and the silithid chain hang on it
-7721	ASK	Water Elemental Core 55.5% - XP only unless Zorbin's Water Resistant Hat scores as an upgrade; opens Zapped Giants (elite giants)
+7721	COND	Water Elemental Core 55.5%, ten needed, about 18 kills: optional under rule 11, kept only if Zorbin's Water Resistant Hat (leather head, +9 Sta +14 Int +8 Spi) is an upgrade when he gets there - the spec makes the gear call
 4141	OUT	Bloodpetal 35.3% - XP-only optional (rule 11); A Visit to Gregan, Haze of Evil and The Videre Elixir go with it
 4503	OUT	Webbed scales 33% - XP-only optional (Shizzle's Muzzle is a leather shoulder at level 50)
 2581	OUT	Blasted Lands turn-in: three-item collection at 30-36% for a one-hour buff item (rule 11)
@@ -24,7 +24,7 @@
 4512	LATER	jar filled on Felwood oozes: round 3 (Felwood)
 3909	OUT	chain behind Muigin and Larion
 # --- elites and group quests outside dungeons (rule 13): out unless a scored upgrade
-717	GROUP-OPT	elite outside a dungeon (rule 13): Blacklash (50 elite), Hematus (50 elite); kept optional for the Prismscale Hauberk (mail chest, scores 64.3 on the level-40 band)
+717	OUT	behind Tremors of the Earth (732); the Badlands trip is dropped (Braedyn, 13 Nov): with Forbidden Knowledge out and the Black Box unsourced it held one required quest
 2954	PLAIN	typed Group on Wowhead but no kill target: the Stone Watcher is spoken to at the Uldum pedestal
 706	OUT	elite outside a dungeon (rule 13): Scorched Guardian (45 elite)
 94679	OUT	elite outside a dungeon (rule 13): Snargl (40 elite); the reward is cloth
@@ -85,7 +85,7 @@
 93163	OUT	no giver and no side on Wowhead
 93604	OUT	Razorfen Downs quest, no side on Wowhead; the Downs were run in chapter 39b
 93404	OUT	giver Woodwyrd (254674) stands in Shen'dralas, which is out (11 Nov ruling)
-78823	COND	no giver in the DB or on Wowhead (ends at Hemet Nesingwary)
+78823	OUT	drop-start from Tho'grun's Dustbelchers (about 6-14%); the Badlands trip is dropped (Braedyn, 13 Nov): with Forbidden Knowledge out and the Black Box unsourced it held one required quest
 78830	OUT	given by Hemet Nesingwary (Wowhead, 13 Nov) for a Hunter rune: QuestieDB marks it Hunter only, Wowhead Hunter and Shaman; its item comes from the Badlands, which the route passes before Hemet
 87295	LATER	Blasted Lands, level 52: round 3
 # --- zones and quests moved out of the round
@@ -196,5 +196,8 @@
 94829	OUT	Farmers' Mementos 7.26% from Twilight Raiders only (Wowhead tooltip, 13 Nov), five needed, about 69 kills - rule 12. QuestieDB has no objectives for this quest, so the first pass missed it; round 1 ruled it out the same way
 94858	OUT	Wowhead's series puts it after What We Lost (94829), which is out; round 1 ruled both out
 94894	COND	delivers Kilgar's Head (quest source item 265837), which only Overlord Kilgar drops: the follow-up of the elite quest Bring Me His Head (94890, out). Taken only if it is offered
-708	COND	the Corroded Black Box has no drop, vendor or object source in the DB or on its Wowhead page (13 Nov): taken only if the box turns up
+708	OUT	the Corroded Black Box has no source in the DB or on Wowhead; the Badlands trip is dropped (Braedyn, 13 Nov): with Forbidden Knowledge out and the Black Box unsourced it held one required quest
 88917	PLAIN	Lady Sesspira's Key from one named mob (level 52, Normal on Wowhead; 37.5% of only 16 sampled kills): one kill, kill her again if it does not drop - she gates the rest of Saria Fairmoon's chain
+732	JUDGE-OUT	the Badlands trip is dropped (Braedyn, 13 Nov): with Forbidden Knowledge out and the Black Box unsourced it held one required quest (this one, 3,600 XP, Boss Tho'grun in the far west)
+2993	LATER	handed in at Aerie Peak after The Divination: round 3
+95327	COND	given by Caravaneer Ruzzgot, where The Big Payback (95326) ends; that quest starts at the ledger where We've Been Robbed! ends and is out (Ruzzgot's Shipment 29.3%). No series on Wowhead, so the link is not proven: taken only if he offers it

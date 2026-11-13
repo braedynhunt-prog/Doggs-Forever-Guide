@@ -17,26 +17,30 @@ SW = {94894, 94893, 1448, 1363, 1477, 1395}
 AERIE = {1449, 1450, 1451}
 ULDUM_OUT, ULDUM_BACK = {2963, 2946, 2954}, {2977, 2964}
 TYMOR_OUT, TYMOR_BACK = {3448, 3449, 3450, 3451}, {3461}
-ELSE = FRIZ_STV | FRIZ_TAN | FRIZ_BACK | SW | AERIE | ULDUM_OUT | ULDUM_BACK | TYMOR_OUT | TYMOR_BACK | {95219, 2769, 3520}
+CAPE_EXTRA = {1469, 2990}          # Rhapsody's Tale to Stormwind; Thadius Grimshade at Nethergarde (opens Nekrum's Medallion)
+ELSE = FRIZ_STV | FRIZ_TAN | FRIZ_BACK | SW | AERIE | ULDUM_OUT | ULDUM_BACK | TYMOR_OUT | TYMOR_BACK | CAPE_EXTRA | {95219, 2769, 3520, 2992}
 c = lambda q, cat: q['cat'] == cat and q['id'] not in ELSE
 EXTRA = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'chapters_r2.json'), encoding='utf-8'))
+# 13 Nov 2026 revision (Braedyn's answers): the Stormwind leg comes before Aerie Peak (1449 needs 1448), the Badlands
+# trip is dropped, and Zul'Farrak moves to the second Kalimdor trip so Nekrum's Medallion (needs 2988 > 2989 > 2990)
+# is in the one run.
 SEL = {
- '42': lambda q: c(q, '16591') or (q['cat'] == '16842' and not q['v'].startswith('DUN') and q['v'] != 'COND'),
+ '42': lambda q: c(q, '16591'),
  '43': lambda q: q['cat'] == '16842',
- '44': lambda q: c(q, '3') or c(q, '38') or q['id'] in AERIE,
- '45': lambda q: q['id'] in SW | FRIZ_STV or (c(q, '33') and q['lv'] <= 42) or (c(q, '1519') and q['lv'] <= 45) or c(q, '10'),
+ '44': lambda q: q['id'] in SW | AERIE or (c(q, '1519') and q['lv'] <= 45) or c(q, '10'),
+ '45': lambda q: q['id'] in FRIZ_STV or (c(q, '33') and q['lv'] <= 42),
  '46': lambda q: q['id'] in FRIZ_TAN or (c(q, '440') and q['lv'] <= 46),
- '48': lambda q: q['cat'] == '1176' or q['id'] in (2769, 3520),
  '47': lambda q: q['id'] == 95219 or (c(q, '357') and q['lv'] <= 45),
- '49': lambda q: q['id'] in FRIZ_BACK or c(q, '47') or q['id'] in ULDUM_OUT - {2946, 2954} or q['id'] in {3448, 3450, 3451},
- '50': lambda q: c(q, '51'),
- '51': lambda q: c(q, '33') and q['lv'] >= 43,
- '52': lambda q: c(q, '357') and q['lv'] >= 46,
- '53': lambda q: q['cat'] == '2100',
- '54': lambda q: q['id'] in {2946, 2954} or (c(q, '440') and q['lv'] >= 47 and q['rq'] <= 48),
+ '48': lambda q: q['id'] in FRIZ_BACK or c(q, '47') or q['id'] in ULDUM_OUT - {2946, 2954} or q['id'] in {3448, 3450, 3451},
+ '49': lambda q: c(q, '51'),
+ '50': lambda q: q['id'] in CAPE_EXTRA or (c(q, '33') and q['lv'] >= 43),
+ '51': lambda q: c(q, '357') and q['lv'] >= 46,
+ '52': lambda q: q['cat'] == '2100',
+ '53': lambda q: q['id'] in {2946, 2954, 3520} or (c(q, '440') and q['lv'] >= 47 and q['rq'] <= 48),
+ '54': lambda q: q['cat'] == '1176' or q['id'] == 2769,
  '55': lambda q: q['id'] in (3449, 5141) or c(q, '16'),
  '56': lambda q: c(q, '490'),
- '57': lambda q: q['id'] in ULDUM_BACK | TYMOR_BACK,
+ '57': lambda q: q['id'] in ULDUM_BACK | TYMOR_BACK | {2992},
 }
 W = rx.load_quests()
 used, chapters = set(), []
