@@ -1,0 +1,165 @@
+[
+ {
+  "file": "02_LochModan.lua",
+  "line": 49,
+  "why": "Fire Nova R1 736 c (was 800)",
+  "subs": [
+   [
+    "Fire Nova, Purge, Ancestral Spirit, Healing Wave 3 - 8s each, 32s;",
+    "Purge, Ancestral Spirit, Healing Wave 3 - 8s each, 24s; Fire Nova - 7s 36c;"
+   ]
+  ]
+ },
+ {
+  "file": "08_RuinsOfLordaeron.lua",
+  "line": 16,
+  "why": "Call of the Elements and Totemic Recall 2,421 c (were 7,000)",
+  "subs": [
+   [
+    "Call of the Elements and Totemic Recall are 70s each",
+    "Call of the Elements and Totemic Recall are 24s 21c each"
+   ],
+   [
+    "the whole page is 2g 28s",
+    "the whole page is 1g 36s 42c"
+   ]
+  ]
+ },
+ {
+  "file": "11_Darkshore.lua",
+  "line": 11,
+  "why": "same two spells",
+  "subs": [
+   [
+    "(70 silver each)",
+    "(24s 21c each)"
+   ]
+  ]
+ },
+ {
+  "file": "22_ExcavationSite.lua",
+  "line": 69,
+  "why": "Call of the Ancestors 6,000 c (was 7,000)",
+  "subs": [
+   [
+    "Searing Totem 3, Grounding Totem, Call of the Ancestors buys - 70s each, 4g 20s;",
+    "Searing Totem 3, Grounding Totem buys - 70s each, 3g 50s; Call of the Ancestors - 60s;"
+   ]
+  ]
+ },
+ {
+  "file": "24_Gnomeregan.lua",
+  "line": 20,
+  "why": "Call of the Ancestors 6,000 c",
+  "subs": [
+   [
+    "buys Searing 3, Grounding, Call of the Ancestors - 70s each)",
+    "buys Searing 3, Grounding - 70s each; Call of the Ancestors - 60s)"
+   ]
+  ]
+ },
+ {
+  "file": "27_HillsbradAlterac.lua",
+  "line": 45,
+  "why": "Call of the Ancestors 6,000 c; Fire Nova R3 7,368 c (was 8,000)",
+  "subs": [
+   [
+    "Searing Totem 3, Grounding Totem, Call of the Ancestors buys - 70s each, 4g 20s;",
+    "Searing Totem 3, Grounding Totem buys - 70s each, 3g 50s; Call of the Ancestors - 60s;"
+   ],
+   [
+    "Windfury Totem 1, Healing Wave 6, Fire Nova 3 buys - 80s each, 3g 20s;",
+    "Windfury Totem 1, Healing Wave 6 buys - 80s each, 2g 40s; Fire Nova 3 - 73s 68c;"
+   ]
+  ]
+ },
+ {
+  "file": "29_Arathi.lua",
+  "line": 68,
+  "why": "Fire Nova R3 7,368 c",
+  "subs": [
+   [
+    "buys: Windfury Totem 1, Healing Wave 6, Fire Nova 3, 80s each;",
+    "buys: Windfury Totem 1, Healing Wave 6, 80s each; Fire Nova 3, 73s 68c;"
+   ]
+  ]
+ },
+ {
+  "file": "31_BootyBayDrownedCity.lua",
+  "line": 81,
+  "why": "Fire Nova R3 7,368 c",
+  "subs": [
+   [
+    "buys Windfury Totem 1, Healing Wave 6, Fire Nova 3 - 80s each;",
+    "buys Windfury Totem 1, Healing Wave 6 - 80s each; Fire Nova 3 - 73s 68c;"
+   ]
+  ]
+ },
+ {
+  "file": "39d_Level40.lua",
+  "line": 17,
+  "why": "Call of the Spirits 12,631 c (was 7,000)",
+  "subs": [
+   [
+    "Call of the Spirits - 70s;",
+    "Call of the Spirits - 1g 26s 31c;"
+   ],
+   [
+    "both rows 6g 50s in all",
+    "both rows 7g 6s 31c in all"
+   ]
+  ]
+ },
+ {
+  "file": "39d_Level40.lua",
+  "line": 25,
+  "why": "the first ram is a quest reward (QuestieDB 1.0.16: 97018, 97017)",
+  "subs": [
+   [
+    "or 94g 74s at Honored, plus a ram from Veron Amberstill: Wowhead lists each ram at 20g and at 40g, and which row the game charges is |cffffcc00unverified|r. Buy both when you have the gold and are 40; the route works on foot to 43",
+    "or 94g 74s at Honored. The ram itself is the reward of Your First Riding Ram at Veron Amberstill (in the quest data since 12 Nov, |cffffcc00unverified|r in game); the rams he sells are listed at 20g and at 40g on Wowhead. Train when you have the gold and are 40; the route works on foot to 43"
+   ]
+  ]
+ },
+ {
+  "file": "39d_Level40.lua",
+  "line": 29,
+  "why": "97018 Learning to Ride starts at Ultham Ironhorn",
+  "subs": [
+   [
+    "[O]At [TAR4772 Ultham Ironhorn], [T] train Apprentice Riding at Friendly or better",
+    "[O]At [TAR4772 Ultham Ironhorn], [QA97018 Learning to Ride] and [T] train Apprentice Riding at Friendly or better"
+   ]
+  ]
+ },
+ {
+  "file": "39d_Level40.lua",
+  "line": 30,
+  "why": "97018 ends and 97017 starts at Veron Amberstill; the ram is 97017's reward",
+  "subs": [
+   [
+    "[O]At [TAR1261 Veron Amberstill], [V] buy a Gray, Brown or White Ram (requires level 40, account-wide mount; 20g or 40g, see the gold check above) [G63.5,50.6 Dun Morogh]",
+    "[O]At [TAR1261 Veron Amberstill], [QT97018] [QA97017 Your First Riding Ram] (inspect his three rams, then choose one as the reward; whether he offers it before Learning to Ride is handed in is |cffffcc00unverified|r) [G63.5,50.6 Dun Morogh]"
+   ]
+  ],
+  "after": [
+   "[O]Inspect the [TAR267474 White Ram], the [TAR267473 Brown Ram] and the [TAR267475 Gray Ram] in the pen beside him [QC97017] [G64.0,50.4 Dun Morogh]",
+   "[O]At [TAR1261 Veron Amberstill], [QT97017] (1,550 XP) and choose your Brown, Gray or White Ram (requires level 40) [G63.5,50.6 Dun Morogh]"
+  ]
+ },
+ {
+  "file": "38_RivergladesI.lua",
+  "line": 71,
+  "why": "the DB (1.0.16) has one Lost Horse spawn at 54.9,73.0; the step pointed 5.7 away",
+  "subs": [
+   [
+    "(three spots on Wowhead's map: 53.6,66.4, 54.3,67.3 and 55.1,70.4)",
+    "(the DB has one at 54.9,73.0; Wowhead's map shows three more to the north: 53.6,66.4, 54.3,67.3 and 55.1,70.4)"
+   ],
+   [
+    "[G54.3,67.3 Riverglades]",
+    "[G54.9,73.0 Riverglades]"
+   ]
+  ]
+ }
+]

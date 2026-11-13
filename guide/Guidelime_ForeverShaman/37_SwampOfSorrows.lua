@@ -14,10 +14,10 @@ At [TAR1573 Gryth Thurden], |cFFfff8a3Fly to [F Darkshire]|r (the game routes it
 [OC]|cffffffffDeadwind Pass|r  -  from Darkshire ride east on the road through Deadwind Pass into the west Swamp; the road itself is not in the data (|cffffcc00unverified|r). On the way: Dark Riders (41) at 42-45,26-31 of the pass, Sky Shadows (55-56) flying over it and a Mistmantle Prowler (60 elite) standing at 35.5,35.7. Ogres (55-58) and the Karazhan undead (58-60) are south of the road: keep north of them. In the Swamp, Stonard (Horde) is at 44-47,51-57: go round it
 Ride east from Darkshire through Deadwind Pass to Watcher Biggs, then at [TAR5476 Watcher Biggs], [QA1396 Encroaching Wildlife] (2,850 XP: 8 Young Sawtooth Crocolisks, 10 Sorrow Spinners and 10 Swamp Jaguars) [G26.7,59.8 Swamp of Sorrows]
 |cFFFF0000ESCORT|r At [TAR255597 Father Tuttle], [QA93585 This Light of Mine] (2,700 XP: escort him to the Harborage) [G22.2,50.2 Swamp of Sorrows]
-[OC]Tuttle walks north to the Harborage; stay close to him. The hand-in is Magtoor at the Harborage (Wowhead; the data has no ender), and any ambush on the way is |cffffcc00unverified|r
+[OC]Tuttle walks north to the Harborage; stay close to him. The hand-in is Magtoor at the Harborage, and any ambush on the way is |cffffcc00unverified|r
 Escort Father Tuttle to the Harborage [QC93585] [G26.0,31.4 Swamp of Sorrows]
 At [TAR1776 Magtoor], [QT93585] (2,700 XP) [QA1389 Draenethyst Crystals] (2,750 XP: 6 crystals from the Fallow Sanctuary in the north-east) [G26.0,31.4 Swamp of Sorrows]
-At [TAR254775 Karana] at the Harborage, [QA93429 Blood of My Blood] (2,750 XP: 10 Lost Ones in the Fallow Sanctuary). Her spot is from the Wowhead map (|cffffcc00unverified|r): look around 25-27,31-34 if she is not here [G26.0,31.4 Swamp of Sorrows]
+At [TAR254775 Karana] at the Harborage, just west of Magtoor, [QA93429 Blood of My Blood] (2,750 XP: 10 Lost Ones in the Fallow Sanctuary) [G24.7,32.6 Swamp of Sorrows]
 
 [OC]|cffffffffWest and central marsh|r  -  Biggs's three beasts, Noboru on his patrol, then back to Biggs. Skin the jaguars and crocolisks
 Kill [TAR1084 Young Sawtooth Crocolisk] (8), [TAR858 Sorrow Spinner] (10) and [TAR767 Swamp Jaguar] (10) [QC1396] [G32.0,47.2 Swamp of Sorrows]
@@ -38,7 +38,7 @@ Open Galen's Strongbox at his camp [QT1393] (2,850 XP + 85s) [G47.8,39.8 Swamp o
 
 [OC]|cffffffffThe Harborage and Biggs|r  -  hand-ins, west across the marsh
 At [TAR1776 Magtoor], [QT1389] [QT1392] (2,750 + 2,250 XP) [G26.0,31.4 Swamp of Sorrows]
-At [TAR254775 Karana], [QT93429] (2,750 XP + 18s) [G26.0,31.4 Swamp of Sorrows]
+At [TAR254775 Karana], [QT93429] (2,750 XP + 18s) [G24.7,32.6 Swamp of Sorrows]
 At [TAR5476 Watcher Biggs], [QT1421] (2,750 XP) [QA1398 Driftwood] (3,450 XP: 8 Sundried Driftwood from the east coast) [G26.7,59.8 Swamp of Sorrows]
 
 [OC]|cffffffffThe Misty Reed Strand|r  -  the east coast. Monstrous Crawlers (43-44) cover the beach east of x88 and Silt Crawlers (40-41) walk x73-90: take the driftwood on the inland edge. Pieces near the edge, north: 79.9,8.0 / 80.5,9.4 / 83.5,13.8 / 87.1,19.1 / 89.8,22.4 / 90.0,25.9 / 91.1,27.7; south: 82.4,92.3 / 83.7,89.1 / 84.6,83.8 / 84.8,87.7 / 86.2,85.0 / 86.4,81.5 / 87.5,78.1
