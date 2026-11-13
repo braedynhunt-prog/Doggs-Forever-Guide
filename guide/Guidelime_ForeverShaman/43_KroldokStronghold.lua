@@ -48,13 +48,13 @@ Kill [TAR258968 Overlord Mugg] for the Eye of Mugg [QC94982] (one kill only; Wow
 [O]From Riftan: |cFFfff8a3Astral Recall or Hearth to [H Farholde Keep]|r, whichever is ready (neither ready: ride back east past Sunnyglade) [G30.7,49.1 Riverglades]
 
 [OC]|cffffffffFarholde Keep|r  -  the hand-ins are beside the flight master
-[OC][A Shaman] |cffffcc00Gear (94984, choice):|r the |cff66ff66Twilight Initiate's Belt|r (leather waist +11 Agi +7 Spi, 29.8 on the weights) over the Violet Sash or Grappler's Belt; not over the Deathmage Sash. Otherwise take the Torn Cultist Cloak (+7 Int, mana regen) for the vendor (51s 89c)
+[OC][A Shaman] |cffffcc00Gear (94984, choice):|r the |cff66ff66Twilight Initiate's Belt|r (leather waist +11 Agi +7 Spi, 29.9 on the weights) over the Violet Sash or Grappler's Belt; not over the Deathmage Sash. Otherwise take the Torn Cultist Cloak (+7 Int, mana regen) for the vendor (51s 89c)
 At [TAR257591 Ashe Amberhall], [QT94984] (4,650 XP) [G66.8,81.1 Riverglades]
 [O]Only with Lingering Essence: at [TAR257591 Ashe Amberhall], [QT94997] (3,450 XP + 55s) [G66.8,81.1 Riverglades]
 [O]If she offers it: at [TAR257591 Ashe Amberhall], [QA94998 Curios of Curiosity] (3,450 XP + 55s, requires level 38: the Satchel of Mementos to Melanie Sable) [G66.8,81.1 Riverglades]
-[OC][A Shaman] |cffffcc00Gear (94998):|r |cff66ff66Curio-Adorned Necklace|r (neck +9 Int +7 Spi +5 spell damage, 42.7 on the weights) - wear it: it beats the Triune Amulet (33.5) and every other neck so far
+[OC][A Shaman] |cffffcc00Gear (94998):|r |cff66ff66Curio-Adorned Necklace|r (neck +9 Int +7 Spi +5 spell damage, 38.2 on the weights) - wear it: it beats the Triune Amulet (33.5) and every other neck so far
 [O]Only with Curios of Curiosity: at [TAR259287 Melanie Sable], [QT94998] (3,450 XP + 55s) [G66.2,83.4 Riverglades]
-[OC][A Shaman] |cffffcc00Gear (94982, choice):|r take |cff66ff66Bigger Rock on Bigger Stick|r (2H mace 41.18 dps, speed 3.40, +14 Str, a bleed on hit) and put it on: with Windfury it edges Rage of the Storm and Bonebiter (under 1% in the kill-speed model, plus the bleed); sell the old one (Rage 1g 62s 35c, Bonebiter 2g 25s 4c). Stick No Rock is a caster staff and Rock on Stick one-handed: pass
+[OC][A Shaman] |cffffcc00Gear (94982, choice):|r take |cff66ff66Bigger Rock on Bigger Stick|r (2H mace 41.18 dps, speed 3.40, +14 Str, a bleed on hit) and put it on: with Windfury it edges Rage of the Storm and Bonebiter (198.7 against 196.9 and 195.6 in the kill-speed model of 13 Nov, about 1%, plus the bleed); sell the old one (Rage 1g 62s 35c, Bonebiter 2g 25s 4c). Stick No Rock is a caster staff and Rock on Stick one-handed: pass
 At [TAR257558 Demar Brant], [QT94982] (4,850 XP + 1g 30s) [G66.7,81.0 Riverglades]
 [O]Only with the Moulding: at [TAR259250 Alphonse Dumas], [QT94980] (3,300 XP + 55s) [G64.5,82.0 Riverglades]
 [O]If he offers it: at [TAR259250 Alphonse Dumas], [QA94981 Key Ingredients] (3,300 XP + 55s, requires level 38: 4 Thick Leather and 12 Iron Bars back to him; the reward is the Krol'dok Compound Key). Thick Leather from your Skinning; Iron Bars from the Ironforge auction house below [G64.5,82.0 Riverglades]

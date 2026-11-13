@@ -21,7 +21,7 @@ At [TAR2859 Gyll], |cFFfff8a3Fly to [F Refuge Pointe]|r (the game routes it) [G2
 At [TAR2610 Shakes O'Breen], [QT670] [QA667 Death From Below] (4,650 XP, requires level 35) [G32.3,81.4 Arathi Highlands]
 Protect Shakes O'Breen during the attack until the waves stop [QC667] [G32.3,81.4 Arathi Highlands]
 At [TAR2610 Shakes O'Breen], [QT667] [G32.3,81.4 Arathi Highlands]
-[OC][A Shaman] |cffffcc00Gear (667, choice):|r take the |cff66ff66Coldwater Ring|r (+3 Int +9 Spi, 27.6 on the weights) over the Seafire Band (6.2); it replaces Tiger Band (22.5, chapter 26)
+[OC][A Shaman] |cffffcc00Gear (667, choice):|r take the |cff66ff66Coldwater Ring|r (+3 Int +9 Spi, 26.1 on the weights) over the Seafire Band (6.3); it replaces Tiger Band (22.5, chapter 26)
 At [TAR2835 Cedrik Prose] back at Refuge Pointe, |cFFfff8a3Fly to [F Southshore]|r [G45.7,46.1 Arathi Highlands]
 
 [OC]|cffffffffSouthshore|r  -  the Syndicate block that chapter 27 left for level 40. Every giver stands within 8 units of the flight master
@@ -52,7 +52,7 @@ Swim north across Lordamere Lake and run north-east across Tirisfal, off the roa
 |cFFFF0000GROUP 5|r Enter the Cathedral wing (the Scarlet Key from chapter 34 may be needed for its door, unverified) [G83.9,31.3 Tirisfal Glades]
 [OC]|cffffcc00Fairbanks|r (40) is not a quest target but stands in the way. |cffffcc00Loot:|r Inquisitor's Shawl (cloth shoulders +13 Int +7 spell damage, req 37, ~29%) - the second choice after Mantle of Doan; Branded Leather Bracers (leather wrist +6 Sta +20 attack power, req 37, ~34%) - just above Arathi Armbands, take them if nobody needs them; Gauntlets of Divinity are mail - pass
 Kill [TAR3976 Scarlet Commander Mograine] [QC1053,2] [G83.9,31.3 Tirisfal Glades]
-[OC][A Shaman] |cffffcc00Loot (Mograine):|r |cff66ff66Mograine's Might|r (2H mace 38.8 dps +8 Str +14 Sta +16 Int, req 39, ~27%) - roll: it ties Bonebiter on the weights and needs level 39. Hand of Righteousness is one-handed - pass
+[OC][A Shaman] |cffffcc00Loot (Mograine):|r |cff66ff66Mograine's Might|r (2H mace 38.8 dps +8 Str +14 Sta +16 Int, req 39, ~27%) - roll: it is just below Bonebiter on the weights (578.5 vs 583.5) and needs level 39. Hand of Righteousness is one-handed - pass
 Kill [TAR3977 High Inquisitor Whitemane] [QC1053,1] [G83.9,31.3 Tirisfal Glades]
 [OC][A Shaman] |cffffcc00Loot (Whitemane):|r |cff66ff66Whitemane's Chapeau|r (cloth head +9 Sta +10 Int +12 Spi +7 spell damage, req 39, ~34%) - roll: it beats the Wild Headdress and the Saltseer's Helm. |cff66ff66Triune Amulet|r (neck +7 Sta +7 Spi +8 spell damage, req 39, ~34%) - roll: it beats Giantstone Medallion
 [OC]|cffffcc00Leaving:|r walk out of the Cathedral. Do NOT hearth: it would drop you in Farholde Keep, and the hand-ins are south
@@ -61,7 +61,7 @@ Walk south-east through the Hillsbrad Fields towards Southshore [G33,42 Hillsbra
 
 [OC]|cffffffffSouthshore hand-ins|r
 At [TAR2276 Magistrate Henry Maleb], [QT537] [QT523] (3,150 XP + 50s and 3,900 XP + 1g) [G48.1,59.1 Hillsbrad Foothills]
-[OC][A Shaman] |cffffcc00Gear (In the Name of the Light):|r take |cff66ff66Bonebiter|r (2H axe 38.8 dps +20 Str +10 Sta), the pick of the rewards: Black Menace is a dagger, Sword of Serenity a sword and the Orb of Lorica an off-hand. You already swing Rage of the Storm, and the weights put the two within 1%: Rage of the Storm ahead with Stormstrike, 218.2 against 217.8 with Windfury (222.4 against 220.1 with Rockbiter); without Stormstrike Bonebiter leads 170.3 to 167.5. The linear score (Bonebiter 583.5, Rage 529.8) cannot see the Stormstrike bonus or the 3.6 speed. Keep Rage of the Storm on; put Bonebiter in the bank or sell it (2g 25s 4c)
+[OC][A Shaman] |cffffcc00Gear (In the Name of the Light):|r take |cff66ff66Bonebiter|r (2H axe 38.8 dps +20 Str +10 Sta), the pick of the rewards: Black Menace is a dagger, Sword of Serenity a sword and the Orb of Lorica an off-hand. You already swing Rage of the Storm, and the kill-speed model (13 Nov, after Stormstrike went to 100% weapon damage on an 8 s cooldown) puts the two within 1%: Bonebiter ahead with Windfury, 196.9 against 195.6 (Rage of the Storm 195.7 against 195.5 with Rockbiter); without Stormstrike Bonebiter leads 167.7 to 164.8. The linear score (Bonebiter 583.5, Rage 529.8) cannot see Rage's Stormstrike bonus or its 3.6 speed. Either works: with Windfury wear Bonebiter and keep Rage of the Storm in the bank
 At [TAR3980 Raleigh the Devout], [QT1053] (4,700 XP) [G51.5,58.4 Hillsbrad Foothills]
 At [TAR2277 Loremaster Dibbs], [QT551] [QA554 Stormpike's Deciphering] (1,550 XP at the hand-in, requires level 28: the Parchment to Prospector Stormpike in Ironforge) [G50.6,57.1 Hillsbrad Foothills]
 At [TAR2432 Darla Harris], |cFFfff8a3Fly to [F Ironforge]|r [G49.3,52.3 Hillsbrad Foothills]

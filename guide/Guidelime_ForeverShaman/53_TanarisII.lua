@@ -43,7 +43,7 @@ Kill 8 [TAR5490 Gnarled Thistleshrub] and 8 [TAR5485 Thistleshrub Rootshaper] [Q
 [O]Only if Tooga offers both: at [TAR5955 Tooga], [QA97540 Oasis] as well (3,550 XP; same text as Tooga's Quest, no objective in the data: it may be a second version of the same walk) [G30.3,67.4 Tanaris]
 Lead Tooga north-east to Torta near Steamwheedle Port (about 53 units; the line passes east of Marvon at about 51,42). Stay close; his speed, any ambushes or timer and whether he follows a mounted player are |cffffcc00unverified|r [QC1560] [G66.6,25.7 Tanaris]
 At [TAR6015 Torta], [QT1560] (5,900 XP) [G66.6,25.7 Tanaris]
-[OC][A Shaman] |cffffcc00Gear (1560):|r nothing to wear: the Chelonian Cuffs (mail wrist +4 Sta +10 Int, 16.9) lose to the Arathi Armbands (19.6) and the Band of the Great Tortoise has armour only; take the Cuffs to vendor (68s 75c)
+[OC][A Shaman] |cffffcc00Gear (1560):|r nothing to wear: the Chelonian Cuffs (mail wrist +4 Sta +10 Int, 11.9) lose to the Arathi Armbands (19.6) and the Band of the Great Tortoise has armour only; take the Cuffs to vendor (68s 75c)
 [O]Only if you took Oasis: at [TAR5955 Tooga] beside Torta, [QT97540] (3,550 XP; where Oasis is handed in is |cffffcc00unverified|r) [G66.6,25.7 Tanaris]
 [O]Oasis will not complete: abandon it [QS97540] [G66.6,25.7 Tanaris]
 
@@ -51,12 +51,12 @@ At [TAR6015 Torta], [QT1560] (5,900 XP) [G66.6,25.7 Tanaris]
 At [TAR5594 Alchemist Pestlezugg], [QT82] (3,150 XP + 50s) [G50.9,27.0 Tanaris]
 At [TAR7724 Senior Surveyor Fizzledowser], [QA10 The Scrimshank Redemption] (4,400 XP: Scrimshank's Surveying Gear in the Gaping Chasm) [G50.2,27.5 Tanaris]
 At [TAR11758 Andi Lynn], [QT5863] (4,550 XP) [G52.8,27.4 Tanaris]
-[OC][A Shaman] |cffffcc00Gear (5863, choice):|r |cff66ff66Rugwood Mantle|r (leather shoulder +11 Int +4 Spi +7 spell damage, 42.6) over the Inquisitor's Shawl (36.0), the Failed Flying Experiment (31.2) or the Palm Frond Mantle (26.8); with the Mantle of Doan (44.1) it is a side-grade: keep Doan and vendor the Rugwood (73s). The Witherseed Gloves (48.5) lose to the Prisoner Handwraps (60.0)
+[OC][A Shaman] |cffffcc00Gear (5863, choice):|r |cff66ff66Rugwood Mantle|r (leather shoulder +11 Int +4 Spi +7 spell damage, 37.1) over the Inquisitor's Shawl (29.5), the Failed Flying Experiment (31.3) or the Palm Frond Mantle (23.3); the Mantle of Doan (41.1) is better: keep Doan and vendor the Rugwood (73s). The Witherseed Gloves (48.5) lose to the Prisoner Handwraps (60.0)
 At [TAR7876 Tran'rek], [QT3362] (4,700 XP + 75s) [G51.6,26.8 Tanaris]
 
 [OC]|cffffffffSouth-east: Marvon and the Gaping Chasm|r  -  Marvon first (18 units south), then 25 units south-east into the Hazzali hive (x53-57 y68-74): Tunnelers, Workers, Wasps, Swarmers, Sandreavers and Stingers 47-50, normal; the rare Haarka the Ravenous (50) at 53.3,73.8. No kills needed here
 At [TAR7771 Marvon Rivetseeker], [QT3161] (4,400 XP); take the Detector off and the helm back on [G52.7,45.9 Tanaris]
-[OC][A Shaman] |cffffcc00Gear (3161, choice):|r |cff66ff66Surveyor's Tunic|r (leather chest +11 Str +15 Spi, 59.5) over the Doomsayer's Robe (57.0), the Intrepid Explorer's Chainmail (53.4) and the Blackwater Tunic (51.5). The Staff of Lore (27.58 dps, 519.6) loses to every two-hander you hold (Bigger Rock on Bigger Stick 604.5, Bonebiter 583.5, Rage of the Storm 529.8)
+[OC][A Shaman] |cffffcc00Gear (3161, choice):|r |cff66ff66Surveyor's Tunic|r (leather chest +11 Str +15 Spi, 59.5) over the Doomsayer's Robe (57.0), the Intrepid Explorer's Chainmail (53.6) and the Blackwater Tunic (51.5). The Staff of Lore (27.58 dps, 517.1) loses to every two-hander you hold (Bigger Rock on Bigger Stick 604.5, Bonebiter 583.5, Rage of the Storm 529.8)
 Loot Scrimshank's Surveying Gear in the Gaping Chasm [QC10] [G56.0,71.2 Tanaris]
 [OC]|cffffcc00OOX-17/TN:|r every Tanaris mob can drop the OOX-17/TN Distress Beacon (about 0.4% per kill). Only if one has dropped by now (chapter 46 said to keep it): the robot stands 8 units north-east of the chasm. Its rescue is handed in to Oglethorpe in Booty Bay, and no Booty Bay visit is left this round: the rescue goes to the next round. A beacon that drops later stays in the bags
 [O]Only if the beacon dropped: use the [UI8623 OOX-17/TN Distress Beacon] to start [QA351 Find OOX-17/TN!] (4,400 XP: take it to the homing robot) [G60.2,64.7 Tanaris]

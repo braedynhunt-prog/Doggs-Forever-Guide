@@ -18,7 +18,7 @@ At [TAR7916 Erelas Ambersky], [QT3022] (2,100 XP + 50s) [G55.5,92.0 Teldrassil]
 
 [OC]|cffffffffDarnassus|r
 At [TAR7999 Tyrande Whisperwind], [QT2972] (5,250 XP) [G39.1,81.6 Darnassus]
-[OC][A Shaman] |cffffcc00Gear (2972):|r take the Nightscale Girdle (mail waist, +14 Str +2 Sta, 28.0) over the Firwillow Wristbands (cloth wrist, +2 Agi +10 Int, 19.1, below the Arathi Armbands). Wear the girdle only if your belt scores under 28 (keep the Twilight Initiate's Belt, 29.8; level with the Vinehedge Cinch); the Elunar Belt later in this chapter replaces it either way. Otherwise vendor it (55s 21c)
+[OC][A Shaman] |cffffcc00Gear (2972):|r take the Nightscale Girdle (mail waist, +14 Str +2 Sta, 28.0) over the Firwillow Wristbands (cloth wrist, +2 Agi +10 Int, 14.2, below the Arathi Armbands). Wear the girdle only if your belt scores under 28 (keep the Twilight Initiate's Belt, 29.9; level with the Vinehedge Cinch); the Elunar Belt later in this chapter replaces it either way. Otherwise vendor it (55s 21c)
 At [TAR7740 Gracina Spiritmight], [QT4267] (405 XP) [QT162] (5,700 XP) [G41.8,85.6 Darnassus]
 At [TAR8396 Sentinel Dalia Sunblade], [QA98096 Sisters In Duty] (420 XP: to Commander Truesong at Talrendis Point in Azshara) [G39.6,89.5 Darnassus]
 [OC]Back through the portal to Rut'theran Village
@@ -120,7 +120,7 @@ Kill [TAR239971 Razorgill] (level 52) for the Memory Crystal [QC89037] (~100%) [
 [O]Only with Transmuted Tincture done: at [TAR235906 Elder Bramblesnap], [QT86812] (3,950 XP) [QA86813 Potential Panacea] (2,650 XP: give Bramblesnap's Panacea to Furze) [G42.1,20.9 Azshara]
 [O]Only with Potential Panacea: give Bramblesnap's Panacea to [TAR235909 Furze] [QC86813] [G45.3,22.3 Azshara]
 [O]Only with the panacea given: at [TAR235906 Elder Bramblesnap], [QT86813] (2,650 XP) [G42.1,20.9 Azshara]
-[OC][A Shaman] |cffffcc00Gear (86813):|r take the Amice of Sorrow (cloth shoulder, +14 Int, +9 spell power, 41.7) if your shoulder scores under 41.7; Timbermaw Prayer Beads (neck, 23.7) otherwise; the Mourner's Shroud (14.0) is the weakest
+[OC][A Shaman] |cffffcc00Gear (86813):|r take the Amice of Sorrow (cloth shoulder, +14 Int, +9 spell power, 34.7) if your shoulder scores under 34.7; Timbermaw Prayer Beads (neck, 23.8) otherwise; the Mourner's Shroud (14.0) is the weakest
 At [TAR235903 Ekkal], [QT86746] (5,250 XP + 80s) [G42.0,38.9 Azshara]
 [O]Only with the five horns: at [TAR235903 Ekkal], [QT86747] (530 XP) [G42.0,38.9 Azshara]
 At [TAR239831 Saria Fairmoon], [QT89037] (5,100 XP) [QA89038 A Monumental Task] (5,650 XP: the Mark of the Queen from the ruins of the Ravencrest Monument) [G50.6,42.7 Azshara]
@@ -134,7 +134,7 @@ Swim to the small island off the southern peninsula and fire the [UI10444 Standa
 At [TAR8392 Pilot Xiggs Fuselighter], [QT3449] (2,550 XP) [QA3461 Return to Tymor] (7,600 XP at the hand-in: the Drawing Kit to Tymor in Ironforge, chapter 57) [G77.8,91.4 Azshara]
 At [TAR239831 Saria Fairmoon], [QT89038] (5,650 XP + 40s) [QA89053 Your Final Reward] (5,650 XP: see what Saria has to show you) [G50.6,42.7 Azshara]
 At Saria's Knapsack beside her, [QT89053] (5,650 XP) [QA89470 Ill Tidings] (2,800 XP at the hand-in: the knapsack to Commander Truesong) [G49.4,41.9 Azshara]
-[OC][A Shaman] |cffffcc00Gear (89053):|r take the Staff of Archmage Selwyn (2H staff, 31.60 dps, +16 Sta +16 Int, +48 spell power, 565.4) if your two-hander scores under it (Rage of the Storm 529.8, Resurgence Rod 551.1, Staff of Lore 519.6). If you wield Bigger Rock on Bigger Stick (604.5), Bonebiter (583.5) or Rageroar's Best Club, take the Highborne Research Tablet instead (trinket, chance on hit 69-81 Arcane, double on naga and satyrs; the weights do not score the proc). The Highborne Memory Crystal is an off-hand
+[OC][A Shaman] |cffffcc00Gear (89053):|r take the Staff of Archmage Selwyn (2H staff, 31.60 dps, +16 Sta +16 Int, +48 spell power, 557.4) if your two-hander scores under it (Rage of the Storm 529.8, Resurgence Rod 551.1, Staff of Lore 517.1). If you wield Bigger Rock on Bigger Stick (604.5), Bonebiter (583.5) or Rageroar's Best Club, take the Highborne Research Tablet instead (trinket, chance on hit 69-81 Arcane, double on naga and satyrs; the weights do not score the proc). The Highborne Memory Crystal is an off-hand
 
 [OC]|cffffffffTalrendis Point: the end|r
 |cFFfff8a3Hearth to [H Talrendis Point]|r (on cooldown: Astral Recall uses the same bind) [G49.4,41.9 Azshara]

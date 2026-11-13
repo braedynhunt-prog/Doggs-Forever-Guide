@@ -45,11 +45,11 @@ Kill [TAR12241 Spirit of Magra] (43 elite) for the [CI17763,1 Gem of the Third K
 Purple wing: use the [UI17696 Filled Cerulean Vial] on 8 Vylestem Vines and kill the [TAR13696 Noxxious Scion] (45-46) that comes out of each [QC7041]
 Kill [TAR12243 Spirit of Veng] (47 elite) for the [CI17765,1 Gem of the Fifth Kahn]
 Kill [TAR12236 Lord Vyletongue] (47 elite) for the [CI17703,1 Celebrian Diamond] (one kill only; Wowhead 37.9% over all kills)
-[OC][A Shaman] |cffffcc00Boss loot (Vyletongue):|r |cff66ff66Satyrmane Sash|r (cloth waist +7 Sta +10 Int +14 spell damage, requires 45; 44.9 on the weights) beats your belt (Twilight Initiate's Belt 29.8, Vinehedge Cinch 28.0): roll. |cff66ff66Infernal Trickster Leggings|r (mail legs +20 Agi +8 Int +10 Spi, requires 45; 60.9): roll only if your legs score under about 60
+[OC][A Shaman] |cffffcc00Boss loot (Vyletongue):|r |cff66ff66Satyrmane Sash|r (cloth waist +7 Sta +10 Int +14 spell damage, requires 45; 39.9 on the weights) beats your belt (Twilight Initiate's Belt 29.9, Vinehedge Cinch 28.0): roll. |cff66ff66Infernal Trickster Leggings|r (mail legs +20 Agi +8 Int +10 Spi, requires 45; 57.1): roll only if your legs score under about 57
 [OC]Meshlok the Harvester (48 rare elite) may stand in the wing: not a quest target; his Bloomsprout Headpiece (mail head +15 Sta +36 AP, 36.0) is below the head you wear
 Orange wing: kill [TAR12242 Spirit of Maraudos] (46 elite) for the [CI17764,1 Gem of the Fourth Kahn]
 Kill [TAR13282 Noxxion] (48 elite) for the [CI17702,1 Celebrian Rod] (one kill only; Wowhead 42.6% over all kills)
-[OC][A Shaman] |cffffcc00Boss loot (Razorlash, 48 elite, not a quest target):|r |cff66ff66Vinerot Sandals|r (cloth feet +9 Int +10 Spi +6 spell damage, requires 46; 52.2) beat the Southsea Mojo Boots (34.6): roll. Brusslehide Leggings (leather legs +12 Sta +7 Int +23 spell damage, requires 46; 57.8): roll only if your legs score under that
+[OC][A Shaman] |cffffcc00Boss loot (Razorlash, 48 elite, not a quest target):|r |cff66ff66Vinerot Sandals|r (cloth feet +9 Int +10 Spi +6 spell damage, requires 46; 47.7) beat the Southsea Mojo Boots (29.1): roll. Brusslehide Leggings (leather legs +12 Sta +7 Int +23 spell damage, requires 46; 54.3): roll only if your legs score under that
 With all five gems and the Amulet of Spirits in the bags, use a Khan's gem to make the [CI17758,1 Amulet of Union]
 [O]No Celebrian Diamond or no Celebrian Rod: abandon Legends of Maraudon [QS7044] and skip the two Celebras lines below; The Scepter of Celebras (7046) needs 7044 handed in (quest row [12] preQuestSingle = 7044), so it goes with it
 
@@ -57,21 +57,21 @@ With all five gems and the Amulet of Spirits in the bags, use a Khan's gem to ma
 Kill [TAR12225 Celebras the Cursed] (49 elite); at [TAR13716 Celebras the Redeemed], who then stands there, [QT7044] (3,400 XP) [QA7046 The Scepter of Celebras] (5,700 XP: assist his ritual)
 Stand by Celebras the Redeemed through the ritual at the Incantation of Celebras and speak with him when it is done [QC7046]
 At [TAR13716 Celebras the Redeemed], [QT7046] (5,700 XP) - the Scepter of Celebras, the portal to Earth Song Falls (where it works is |cffffcc00unverified|r; this run does not need it)
-[OC][A Shaman] |cffffcc00Boss loot (Celebras):|r |cff66ff66Soothsayer's Headdress|r (leather head +7 Sta +15 Int +8 Spi +23 spell damage, requires 47; 91.3 on the weights) beats the Engineer's Guild Headpiece (75.0): roll, wear it at 47
-[OC][A Shaman] |cffffcc00Boss loot (Rotgrip, 50 elite):|r kill him if the group agrees: |cff66ff66Gatorbite Axe|r (2H axe 45.78 dps, speed 3.20, bleed on hit, requires 48; 640.9 on the weights, the bleed not counted) beats The Minotaur (613.2), Bigger Rock on Bigger Stick (604.5) and Bonebiter (583.5): roll Need, carry it and wear it at 48. |cff66ff66Rotgrip Mantle|r (cloth shoulder +18 Int +13 spell damage, requires 48; 56.4) beats the Mantle of Doan (44.1) and the Rugwood Mantle (42.6): roll, wear it at 48
-[OC][A Shaman] |cffffcc00Boss loot (Landslide):|r Rockgrip Gauntlets (mail hands +10 Sta +11 Int +28 AP, 46.6) are below the Prisoner Handwraps and the Witherseed Gloves: pass
+[OC][A Shaman] |cffffcc00Boss loot (Celebras):|r |cff66ff66Soothsayer's Headdress|r (leather head +7 Sta +15 Int +8 Spi +23 spell damage, requires 47; 83.8 on the weights) beats the Engineer's Guild Headpiece (75.0): roll, wear it at 47
+[OC][A Shaman] |cffffcc00Boss loot (Rotgrip, 50 elite):|r kill him if the group agrees: |cff66ff66Gatorbite Axe|r (2H axe 45.78 dps, speed 3.20, bleed on hit, requires 48; 640.9 on the weights, the bleed not counted) beats The Minotaur (613.2), Bigger Rock on Bigger Stick (604.5) and Bonebiter (583.5): roll Need, carry it and wear it at 48. |cff66ff66Rotgrip Mantle|r (cloth shoulder +18 Int +13 spell damage, requires 48; 47.4) beats the Mantle of Doan (41.1) and the Rugwood Mantle (37.1): roll, wear it at 48
+[OC][A Shaman] |cffffcc00Boss loot (Landslide):|r Rockgrip Gauntlets (mail hands +10 Sta +11 Int +28 AP, 41.1) are below the Prisoner Handwraps and the Witherseed Gloves: pass
 Kill [TAR12201 Princess Theradras] (51 elite) [QC7065]
 [O]The group cannot kill the Princess: abandon Corruption of Earth and Seed [QS7065]; Seed of Life is not offered without her. No re-run
-[OC][A Shaman] |cffffcc00Boss loot (Princess):|r |cff66ff66Bracers of the Stone Princess|r (mail wrist +6 Sta +5 Int +28 AP, requires 49; 36.5) beat the Arathi Armbands (19.6): roll, wear them at 49. The Eye of Theradras (cloth head, 57.1) is below the Soothsayer's Headdress and the Engineer's Guild Headpiece
+[OC][A Shaman] |cffffcc00Boss loot (Princess):|r |cff66ff66Bracers of the Stone Princess|r (mail wrist +6 Sta +5 Int +28 AP, requires 49; 34.0) beat the Arathi Armbands (19.6): roll, wear them at 49. The Eye of Theradras (cloth head, 47.6) is below the Soothsayer's Headdress and the Engineer's Guild Headpiece
 [O]Only if the Princess died: at [TAR12238 Zaetar's Spirit], [QA7066 Seed of Life] (6,100 XP + 1g 50s at Keeper Remulos in Moonglade, requires level 45 in the DB: carried to round 3, not handed in this round)
 [O]Fewer than 25 Theradric Crystal Carvings after the run: abandon Twisted Evils [QS7028]
 
 [OC]|cffffffffBack to Nijel's Point|r  -  out of the instance and south-east to the Pariah, then north on the road
 [OC][A Shaman] |cffffcc00Gear (7067):|r Mark of the Chosen (trinket, a 2% proc when struck) is the fixed reward; trinkets do not score in the model
 At [TAR13717 Centaur Pariah], [QT7067] (5,450 XP + 1g 40s) [G50.4,86.7 Desolace]
-[OC][A Shaman] |cffffcc00Gear (7028, choice):|r Acumen Robes (cloth chest +15 Int +14 spell damage, 53.3) are below the Surveyor's Tunic (59.5) and the Doomsayer's Robe (57.0): take the Relentless Chain for the vendor (1g 31s 4c)
+[OC][A Shaman] |cffffcc00Gear (7028, choice):|r Acumen Robes (cloth chest +15 Int +14 spell damage, 45.8) are below the Surveyor's Tunic (59.5) and the Doomsayer's Robe (57.0): take the Relentless Chain for the vendor (1g 31s 4c)
 [O]Only with 25 carvings: at [TAR13656 Willow], [QT7028] (5,250 XP) [G62.2,39.6 Desolace]
-[OC][A Shaman] |cffffcc00Gear (7041, choice):|r take the |cff66ff66Woodseed Hoop|r (ring +10 Int +6 spell damage, 28.9) and wear it in place of the Coldwater Ring (27.6). The Sagebrush Girdle (leather waist +11 Agi +9 Int, 27.5) only if you wear neither the Satyrmane Sash, the Twilight Initiate's Belt nor the Vinehedge Cinch; the Branchclaw Gauntlets are plate
+[OC][A Shaman] |cffffcc00Gear (7041, choice):|r take the |cff66ff66Woodseed Hoop|r (ring +10 Int +6 spell damage, 23.9) and wear it in place of the Coldwater Ring (26.1). The Sagebrush Girdle (leather waist +11 Agi +9 Int, 23.1) only if you wear neither the Satyrmane Sash, the Twilight Initiate's Belt nor the Vinehedge Cinch; the Branchclaw Gauntlets are plate
 At [TAR11715 Talendria], [QT7041] (5,250 XP) [G68.5,8.9 Desolace]
 [OC][A Shaman] |cffffcc00Gear (7065, choice):|r Resurgence Rod (2H staff 34.08 dps, +37 spell damage, 551.1) loses to every two-hander you hold: take it for the vendor (4g 21s 42c, the best sell); Thrash Blade and Verdant Keeper's Aim are a sword and a bow
 At [TAR13698 Keeper Marandis], [QT7065] (6,100 XP) [G63.8,10.7 Desolace]

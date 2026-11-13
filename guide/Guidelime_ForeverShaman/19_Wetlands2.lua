@@ -78,7 +78,7 @@ At [TAR1075 Rhag Garmason], [QT632] [QA633 The Thandol Span] [G49.9,18.2 Wetland
 [OC]The DB has no spawns for the explosives or for Essene's three objects, so those two arrows only point at the middle of the west ruins: search the Dark Iron camps (west ruins and eastern camp) while you clear them for the Dark Iron War
 [O]|cFFFF0000GROUP 3+|r At [TAR1074 Motley Garmason], [QT303] [QA378 The Fury Runs Deep] (Kam Deepfury's head from a SECOND Stockade run, and the hand-in is here at Dun Modr: normally skip it and abandon it with the check line below) [G49.7,18.2 Wetlands]
 [O]|cFFFF0000GROUP 3+|r At [TAR1071 Longbraid the Grim], [QT304] [G49.8,18.3 Wetlands]
-[OC]|cffffcc00Gear (304):|r both of you take |cff66ff66Fury Ring|r (+6 Str +2 Spi). Shaman: Tranquil Ring (+1 Int +7 Spi) is a near tie on the weights (19.2 vs 17.0) - either; the Gold Lion Shield is for a shield set only
+[OC]|cffffcc00Gear (304):|r both of you take |cff66ff66Fury Ring|r (+6 Str +2 Spi). Shaman: Tranquil Ring (+1 Int +7 Spi) is a near tie on the weights (18.7 vs 17.0) - either; the Gold Lion Shield is for a shield set only
 [O]|cFFFF0000GROUP 3+|r At [TAR1072 Roggo Harlbarrow], [QT87491] [G49.9,18.1 Wetlands]
 [O]|cFFFF0000GROUP 3+|r At [TAR1073 Ashlan Stonesmirk], [QT88756] [G50.0,18.2 Wetlands]
 [O]|cFFFF0000GROUP 3+|r At [TAR271322 Essene Villard], [QT88757] [QA88758 Sentiments of the Lost] [G51.5,9 Wetlands]

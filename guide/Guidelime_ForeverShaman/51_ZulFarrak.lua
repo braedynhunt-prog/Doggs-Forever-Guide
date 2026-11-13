@@ -55,7 +55,7 @@ Kill [TAR7796 Nekrum Gutchewer] for Nekrum's Medallion [QC2991] (one kill only; 
 
 [OC]|cffffffffBack to Gadgetzan|r  -  the hand-ins, then Steamwheedle Port for the tablets
 |cFFfff8a3Hearth to [H Gadgetzan]|r (on cooldown? Astral Recall does the same; neither ready: ride east, about 15 units) [G38.5,20.7 Tanaris]
-[OC][A Shaman] |cffffcc00Gear (2768, choice):|r take the |cff66ff66Engineer's Guild Headpiece|r (leather head +22 Spi, +10 spell damage; 75.0 on the weights) and wear it: it replaces Saltseer's Helm (48.8) or Zorbin's Water Resistant Hat (43.7). The Magister Cowl (36.0) and the Masons Fraternity Ring (15.7) are below it
+[OC][A Shaman] |cffffcc00Gear (2768, choice):|r take the |cff66ff66Engineer's Guild Headpiece|r (leather head +22 Spi, +10 spell damage; 75.0 on the weights) and wear it: it replaces Saltseer's Helm (42.8) or Zorbin's Water Resistant Hat (36.7). The Magister Cowl (36.0) and the Masons Fraternity Ring (15.8) are below it
 At [TAR7407 Chief Engineer Bilgewhizzle], [QT2768] (6,300 XP) [G52.5,28.5 Tanaris]
 At [TAR7876 Tran'rek], [QT2865] (3,900 XP + 65s) [G51.6,26.8 Tanaris]
 [O]Only with 20 Vials of Troll Temper: at [TAR7804 Trenton Lighthammer], [QT3042] (3,900 XP + 1g 95s) [G51.4,28.8 Tanaris]

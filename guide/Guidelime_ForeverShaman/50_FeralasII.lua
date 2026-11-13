@@ -52,7 +52,7 @@ Ride north-west to the Forgotten Coast dock and take the boat to Feathermoon Str
 At [TAR7736 Innkeeper Shyria], bind your Hearthstone to [S Feathermoon] (the Booty Bay bind from chapter 49 ends here) [G31.0,43.5 Feralas]
 At [TAR7880 Ginro Hearthkindle], [QT4265] (4,050 XP) [QA4266 A Hero's Welcome] (6,050 XP: speak with Shandris Feathermoon) [G31.9,45.1 Feralas]
 At [TAR3936 Shandris Feathermoon], [QT4266] (6,050 XP) [QA4267 Rise of the Silithid] (405 XP at the hand-in: Raschal's Report to Gracina Spiritmight in Darnassus, chapter 55) [G30.3,46.2 Feralas]
-[OC][A Shaman] |cffffcc00Gear (4266):|r take the Sanctimonial Rod (2H staff, 26.45 dps, +4 Sta +17 Spi, +38 spell damage, 488.8) over the Ceremonial Elven Blade (one-hand dagger, 380.1); neither beats Rage of the Storm or Bonebiter: vendor it (2g 13s 77c)
+[OC][A Shaman] |cffffcc00Gear (4266):|r take the Sanctimonial Rod (2H staff, 26.45 dps, +4 Sta +17 Spi, +38 spell damage, 488.8) over the Ceremonial Elven Blade (one-hand dagger, 380.2); neither beats Rage of the Storm or Bonebiter: vendor it (2g 13s 77c)
 At [TAR7764 Troyas Moonbreeze], [QA2939 In Search of Knowledge] (420 XP at the hand-in: talk to Daryn Lightwind in Rut'theran Village, chapter 55) [G31.8,45.5 Feralas]
 
 [OC]|cffffffffRockbiter and Wandering Shay|r  -  this leg's mobs are 47-52 and elite giants stand beside Rockbiter. If you are under 45, skip the leg: there is no later Feralas visit in this round, so the two quests are then lost to it (do not accept them in that case) and you go straight to the last lines at Fyldren Moonfeather
@@ -63,7 +63,7 @@ At [TAR7774 Shay Leafrunner], about 12 units north-west, [QT2844] (3,400 XP) [QA
 Open Shay's Chest beside her for Shay's Bell [CI9189,1] [G38.2,10.3 Feralas]
 |cFFFF0000ESCORT|r Take Shay Leafrunner back south-east to Rockbiter's camp, about 12 units through the harpies and giants; if she wanders off, ring the bell to call her back (Classic knowledge, unverified) [QC2845] [G42.4,22.0 Feralas]
 At [TAR7765 Rockbiter], [QT2845] (4,550 XP) [G42.4,22.0 Feralas]
-[OC][A Shaman] |cffffcc00Gear (2845):|r take the Vinehedge Cinch (leather waist, +14 Str +3 Sta, 28.0); Granite Grips are plate. Wear it over the Violet Sash or Grappler's Belt; keep the Deathmage Sash (39.4) if you wear it; against the Twilight Initiate's Belt (29.8 central, 22.8 conservative) it is level: keep the Belt. Otherwise vendor it (53s 33c)
+[OC][A Shaman] |cffffcc00Gear (2845):|r take the Vinehedge Cinch (leather waist, +14 Str +3 Sta, 28.0); Granite Grips are plate. Wear it over the Violet Sash or Grappler's Belt; keep the Deathmage Sash (31.8) if you wear it; against the Twilight Initiate's Belt (29.9 central, 22.9 conservative) it is level: keep the Belt. Otherwise vendor it (53s 33c)
 |cFFfff8a3Hearth to [H Feathermoon]|r (on cooldown: ride south to the dock and take the boat) [G42.4,22.0 Feralas]
 
 [OC]|cffffffffFeathermoon: the end|r  -  chapter 51 flies from Fyldren Moonfeather

@@ -33,10 +33,10 @@ At [TAR2817 Rigglefuzz], [QT703] (2,350 XP; the reward is a Barbecued Buzzard Wi
 
 [OC]|cffffffffAgmond's Fate (38+)|r  -  under 38 skip to the hearth: Murdaloc and the urns are chapter 39e's. Otherwise back north to Ironband, then the urns at the Uldaman dig and Ironband again
 [O]38+: At [TAR1344 Prospector Ironband], [QT739] (3,450 XP) [QA704 Agmond's Fate] (2,850 XP: 4 Carved Stone Urns at the Uldaman dig) [G65.9,65.6 Loch Modan]
-[OC][A Shaman] |cffffcc00Gear (739):|r Rock Pulverizer (2H mace 31.22 dps +34 AP, 471.1 on the weights) is about level with the Defender of Dalaran (469.8) and below Ravager (522.1) and Thermaplugg's Left Arm (478.8): wear it only if it beats what you swing, else vendor it (1g 60s 78c)
+[OC][A Shaman] |cffffcc00Gear (739):|r Rock Pulverizer (2H mace 31.22 dps +34 AP, 471.1 on the weights) is a little above the Defender of Dalaran (465.2) and below Ravager (522.1) and Thermaplugg's Left Arm (476.8): wear it only if it beats what you swing, else vendor it (1g 60s 78c)
 [OC]The urns stand around the gate of the Uldaman dig (two either side of the gate, the rest before the first dig, per Wowhead comments, |cffffcc00unverified|r). Stay at the cave mouth: inside are Magregan Deepshadow (38 ELITE), Stonevault Rockchewers and Cave Hunters (36-37 ELITE) and Digmaster Shovelphlange (38 rare ELITE); chapter 39e comes here with a group
 [O]38+: Loot 4 Carved Stone Urns at the Uldaman dig [QC704] [G37.0,16.7 Badlands]
-[OC][A Shaman] |cffffcc00Gear (704, choice):|r take the |cff66ff66Prospector Gloves|r (leather +8 Int +9 spell damage, 31.5 on the weights) over Restorer's Fine Gloves (cloth, 28.0); Excavator Gauntlets are mail, not before 40. They replace Seawolf, Gemmed or Tiger Hunter Gloves. A Wowhead comment says the Prospector Gloves are no longer a choice; the data still lists them, |cffffcc00unverified|r
+[OC][A Shaman] |cffffcc00Gear (704, choice):|r take the |cff66ff66Prospector Gloves|r (leather +8 Int +9 spell damage, 27.5 on the weights; Restorer's Fine Gloves, cloth, 28.0, are a tie); Excavator Gauntlets are mail, not before 40. They replace Seawolf, Gemmed or Tiger Hunter Gloves. A Wowhead comment says the Prospector Gloves are no longer a choice; the data still lists them, |cffffcc00unverified|r
 [O]38+: At [TAR1344 Prospector Ironband], [QT704] (2,850 XP) [G65.9,65.6 Loch Modan]
 
 [OC]|cffffffffLeaving|r  -  Thelsamar, then Ironforge for chapter 37

@@ -17,7 +17,7 @@ At [TAR7823 Bera Stonehammer], |cFFfff8a3Fly to [F Theramore]|r [G51.0,29.3 Tana
 [OC]|cffffffffTabetha|r  -  only if you hold Tiara of the Deep; if it was abandoned in chapter 51, skip the next three lines and go straight to the boat. West out of Theramore by road, about 23 units (road unverified, as in chapter 50)
 Ride west out of Theramore to Tabetha's farm (road unverified) [G46.1,57.1 Dustwallow Marsh]
 At [TAR6546 Tabetha], [QT2846] (6,050 XP + 65s) [G46.1,57.1 Dustwallow Marsh]
-[OC][A Shaman] |cffffcc00Gear (2846):|r take the Gemshale Pauldrons (plate, cannot wear) to vendor (1g 6s 95c); the Dank Shoulderpads (leather, +4 Agi +13 Sta, 4.5) only if your shoulder slot is empty - every shoulder of round 1 beats them. The Spellshifter Rod (fixed, 495.0) is below Rage of the Storm, Bonebiter and Bigger Rock on Bigger Stick: vendor it (2g 55s 14c)
+[OC][A Shaman] |cffffcc00Gear (2846):|r take the Gemshale Pauldrons (plate, cannot wear) to vendor (1g 6s 95c); the Dank Shoulderpads (leather, +4 Agi +13 Sta, 4.5) only if your shoulder slot is empty - every shoulder of round 1 beats them. The Spellshifter Rod (fixed, 486.5) is below Rage of the Storm, Bonebiter and Bigger Rock on Bigger Stick: vendor it (2g 55s 14c)
 Ride back to Theramore and take the boat to Menethil Harbor from the east dock (boat or portal is |cffffcc00unverified|r, as in chapter 32) [G71.5,55.5 Dustwallow Marsh]
 
 [OC]|cffffffffThe Dalaran crater|r  -  only if you hold The Witch Doctor's Head; if it was abandoned in chapter 51, fly from Shellei Brondir straight to Ironforge instead and go on at the Ironforge leg. On foot from Southshore, as in chapters 27 and 43 (no flight point; the path is |cffffcc00unverified|r)
@@ -80,7 +80,7 @@ Loot the Secret Plans: Fiery Flux in the Slag Pit [QC7722]. |cFFFF0000Danger:|r 
 [OC]|cffffffffThorium Point|r  -  the hand-ins, then the outhouse
 At [TAR14626 Taskmaster Scrange], [QT7729] (4,400 XP + 2g 10s) [G39.0,27.5 Searing Gorge]
 At [TAR14627 Hansel Heavyhands], [QT7723] [QT7724] [QT7727] (4,550 XP + 70s each) [G38.6,27.8 Searing Gorge]
-[OC][A Shaman] |cffffcc00Gear (7723, 7724, 7727):|r all fixed. Slagplate Gauntlets (plate, cannot wear): vendor (44s 51c). Seared Mail Girdle (mail waist, +12 Agi +7 Sta, 13.4) is below the Violet Sash, the Twilight Initiate's Belt and the Deathmage Sash: vendor (66s 52c) unless your waist is empty. Luffa (trinket, no stats; removes a Bleed): keep it only for an empty trinket slot, else vendor (93s 47c)
+[OC][A Shaman] |cffffcc00Gear (7723, 7724, 7727):|r all fixed. Slagplate Gauntlets (plate, cannot wear): vendor (44s 51c). Seared Mail Girdle (mail waist, +12 Agi +7 Sta, 13.6) is below the Violet Sash, the Twilight Initiate's Belt and the Deathmage Sash: vendor (66s 52c) unless your waist is empty. Luffa (trinket, no stats; removes a Bleed): keep it only for an empty trinket slot, else vendor (93s 47c)
 At [TAR14624 Master Smith Burninate], [QT7722] (4,700 XP + 75s) [G38.8,28.5 Searing Gorge]
 Ride east back to the Wooden Outhouse, [QT4451] (5,250 XP) [G65.6,62.2 Searing Gorge]
 |cFFfff8a3Hearth to [H Ironforge]|r (or cast Astral Recall; neither ready: ride back to Lanie Reed at Thorium Point and fly to Ironforge) [G65.6,62.2 Searing Gorge]

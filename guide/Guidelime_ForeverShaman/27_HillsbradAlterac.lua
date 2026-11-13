@@ -35,7 +35,7 @@ At [TAR264265 Magus Olvek], [QA96800 Past Due] (2,850 XP + 45s, requires level 3
 At [TAR2277 Loremaster Dibbs], [QT511] [QA514 Letter to Stormpike] (1,350 XP, requires level 30: the letter goes to Prospector Stormpike in Ironforge) [G50.6,57.1 Hillsbrad Foothills]
 At [TAR2276 Magistrate Henry Maleb], [QT510] (1,350 XP) [G48.1,59.1 Hillsbrad Foothills]
 At [TAR2382 Darren Malvew], [QT564] (2,700 XP) [G52.4,56.0 Hillsbrad Foothills]
-[OC][A Shaman] |cffffcc00Gear (564):|r |cff66ff66Shepherd's Gloves|r (leather +7 Str +6 Agi; 19.7 on the weights) only if your gloves score lower (Naga Battle Gloves 18.0, Wolfclaw 15.7, Gold-flecked 14.0); Zodiac Gloves (24.1) and Operator's Gloves (22.0) beat it, so then vendor. Shepherd's Girdle (+7 Sta, +7 spell damage) 14.0 is below every belt you are likely to wear
+[OC][A Shaman] |cffffcc00Gear (564):|r |cff66ff66Shepherd's Gloves|r (leather +7 Str +6 Agi; 19.8 on the weights) only if your gloves score lower (Naga Battle Gloves 18.0, Wolfclaw 15.8, Gold-flecked 14.0); Zodiac Gloves (22.1) and Operator's Gloves (22.0) beat it, so then vendor. Shepherd's Girdle (+7 Sta, +7 spell damage) 14.0 is below every belt you are likely to wear
 
 [OC]|cffffffffIronforge loop|r  -  Stormpike's letter, three lead-ins for later chapters and the trainers
 At [TAR2432 Darla Harris], |cFFfff8a3Fly to [F Ironforge]|r (direct) [G49.3,52.3 Hillsbrad Foothills]

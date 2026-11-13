@@ -26,8 +26,8 @@ At [TAR6807 Innkeeper Skindle], bind your Hearthstone to [S Booty Bay] (the Aeri
 At [TAR2501 "Sea Wolf" MacKinley], [QT2874] (3,900 XP + 50s) [G27.8,77.1 Stranglethorn Vale]
 [OC][A Shaman] |cffffcc00Gear (2874):|r the Swashbuckler Sash (cloth waist, +10 Str +9 Sta, scores 20.0) only if your belt scores under 20.0 (none, or the Grappler's Belt); over the Twilight Initiate's Belt or the Violet Sash take the Shinkicker Boots (plate, cannot wear) to vendor (47s 49c)
 [O]Only with a rescued robot: at [TAR7406 Oglethorpe Obnoticus], [QT2767] (4,850 XP) and/or [QT836] (5,450 XP) [G28.4,76.3 Stranglethorn Vale]
-[OC][A Shaman] |cffffcc00Gear (2767):|r the Failed Flying Experiment (leather shoulder, +10 Str +10 Agi, 31.2) over the Palm Frond Mantle; if your shoulder already scores over 31.2 (Mantle of Doan, Inquisitor's Shawl), the Chainlink Towel (back, 30.1) when your cloak scores under 30.1
-[OC][A Shaman] |cffffcc00Gear (836):|r with the Southsea Mojo Boots (34.6) take the Gnomish Water Sinking Device (plate, cannot wear) to vendor (67s 91c); without them, the Gnomish Inventor Boots (cloth feet, 30.9)
+[OC][A Shaman] |cffffcc00Gear (2767):|r the Failed Flying Experiment (leather shoulder, +10 Str +10 Agi, 31.3) over the Palm Frond Mantle or the Inquisitor's Shawl; if your shoulder already scores over 31.3 (Mantle of Doan), the Chainlink Towel (back, 28.6) when your cloak scores under 28.6
+[OC][A Shaman] |cffffcc00Gear (836):|r with the Southsea Mojo Boots (29.1) take the Gnomish Water Sinking Device (plate, cannot wear) to vendor (67s 91c); without them, the Gnomish Inventor Boots (cloth feet, 29.9)
 At [TAR2487 Fleet Master Seahorn], [QA608 The Bloodsail Buccaneers] (4,850 XP: kill Captain Stillwater, Captain Keelhaul and Fleet Master Firallon on the ships south of town) [G27.2,77.0 Stranglethorn Vale]
 At [TAR2486 Fin Fizracket], [QA348 Stranglethorn Fever] (5,850 XP: have Witch Doctor Unbagwa summon Mokk the Savage and bring back the Heart of Mokk) [G27.6,76.7 Stranglethorn Vale]
 
@@ -54,14 +54,14 @@ Kill [TAR2546 Fleet Master Firallon] (level 48). If he is too much at your level
 
 [OC]|cffffffffBooty Bay|r  -  hand-ins, then the pier
 At [TAR2487 Fleet Master Seahorn], [QT608] (4,850 XP) once all three captains are dead [G27.2,77.0 Stranglethorn Vale]
-[OC][A Shaman] |cffffcc00Gear (608):|r the Blackwater Tunic (mail chest, +7 Str +15 Spi, 51.5) if your chest scores under 51.5 (Robe of Crystal Waters, Old Leather Jacket); keep the Doomsayer's Robe (57.0) or the Intrepid Explorer's Chainmail (53.4) if you wear one. The Blackwater Cap (cloth head, 40.7) loses to the Saltseer's Helm. If no slot gains, take the Blackwater Scimitar (one-hand sword, cannot use) to vendor (1g 39s 79c)
+[OC][A Shaman] |cffffcc00Gear (608):|r the Blackwater Tunic (mail chest, +7 Str +15 Spi, 51.5) if your chest scores under 51.5 (Robe of Crystal Waters, Old Leather Jacket); keep the Doomsayer's Robe (57.0) or the Intrepid Explorer's Chainmail (53.6) if you wear one. The Blackwater Cap (cloth head, 32.2) loses to the Saltseer's Helm. If no slot gains, take the Blackwater Scimitar (one-hand sword, cannot use) to vendor (1g 39s 79c)
 At [TAR2486 Fin Fizracket], [QT348] (5,850 XP) [G27.6,76.7 Stranglethorn Vale]
 [OC][A Shaman] |cffffcc00Gear (348):|r the Medicine Blanket (back, +4 Sta +9 Spi, 22.5) is fixed: wear it over a cloak under 22.5 (South Seas Shroud, Yeti Fur Cloak, Vine Pruner's Cloak); the Explorer's League Dustcover, Glowing Thresher Cape, Drape of Shifting Energy and a Chainlink Towel beat it - then vendor it (48s 53c)
 [O]With all three pieces: at [TAR2501 "Sea Wolf" MacKinley], [QT609] (3,750 XP + 65s) [G27.8,77.1 Stranglethorn Vale]
 [O]If a Voodoo Dues piece is missing: abandon Voodoo Dues [QS609] [G27.8,77.1 Stranglethorn Vale]
 [O]Only if a Torn Mystical Scroll dropped (Bloodsail Warlocks on the beach south of town, ~9%): use it to start [QA95385 Torn Mystical Scroll] [G28.3,76.3 Stranglethorn Vale]
 [O]Only with the scroll: at [TAR260873 Dudd Fizzlescroll], [QT95385] (3,600 XP + 60s) [G28.3,76.3 Stranglethorn Vale]
-[OC][A Shaman] |cffffcc00Gear (95385):|r Dudd's Thinkin' Cap (cloth head, +10 Sta +14 Int, 23.7) is below the Saltseer's Helm: vendor it (54s 81c)
+[OC][A Shaman] |cffffcc00Gear (95385):|r Dudd's Thinkin' Cap (cloth head, +10 Sta +14 Int, 16.7) is below the Saltseer's Helm: vendor it (54s 81c)
 [OC]|cffffcc00Check:|r handed in here: Rhapsody's Tale (1469), Thadius Grimshade (2990), Deliver to MacKinley (2874), Stranglethorn Fever (348, and Unbagwa's 349), The Bloodsail Buccaneers (608, or in the log for the next round if Firallon stood); if you had them, Voodoo Dues (609, or abandoned), Rescue OOX-22/FE! (2767), Rescue OOX-09/HL! (836), Message in a Bottle (594), Torn Mystical Scroll (95385). In the log for later: Tabetha's Task (2861, Tabetha, chapter 50), Nekrum's Medallion (2991, Zul'Farrak in chapter 51, Thadius in chapter 52), Into The Temple of Atal'Hakkar (1475) and Cortello's Riddle (624) for the next round; if taken, The Brassbolts Brothers (2769, chapter 51), I Got Nothin' Left! (6609) and Alliance Trauma (6625, both Theramore in chapter 50). Still carried from earlier chapters: The Witch Doctor's Head (96770, chapter 52). Hearth = Booty Bay. Quest money this chapter: 50s
 Take the boat to Ratchet from the pier by [TAR9559 Grizzlowe] (the pier and the sailing times are not in the data, unverified); it lands by Grimble in Ratchet, where chapter 50 starts [G26.1,73.3 Stranglethorn Vale]
 

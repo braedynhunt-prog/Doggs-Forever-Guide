@@ -60,7 +60,7 @@ Kill [TAR7883 Andre Firebeard] (45, not elite) for Firebeard's Head [QC2875] (~5
 
 [OC]|cffffffffBack to Steamwheedle Port|r
 At [TAR7881 Stoley], [QT2873] (3,900 XP + 50s) [QA2874 Deliver to MacKinley] (3,900 XP at the hand-in: Stoley's Bottle to "Sea Wolf" MacKinley in Booty Bay - chapter 49) [G67.1,24.0 Tanaris]
-[OC][A Shaman] |cffffcc00Gear (8366, choice):|r take |cff66ff66Southsea Mojo Boots|r (cloth feet +11 Int +8 spell damage, 34.6 on the weights) and wear them over the Verger Greaves (30.0); the Southsea Head Bucket is plate: pass. Sell the Greaves (44s 28c)
+[OC][A Shaman] |cffffcc00Gear (8366, choice):|r take |cff66ff66Southsea Mojo Boots|r (cloth feet +11 Int +8 spell damage, 29.1 on the weights) and wear them in place of the Verger Greaves (30.0, a tie); the Southsea Head Bucket is plate: pass. Sell the Greaves (44s 28c)
 At [TAR7882 Security Chief Bilgewhizzle], [QT8366] (3,900 XP + 65s) [QT2875] (3,900 XP + 1g 30s) [G67.1,23.9 Tanaris]
 [O]Only with the Ship Schedule: at [TAR7882 Security Chief Bilgewhizzle], [QT2876] (4,850 XP + 1g 30s) [G67.1,23.9 Tanaris]
 

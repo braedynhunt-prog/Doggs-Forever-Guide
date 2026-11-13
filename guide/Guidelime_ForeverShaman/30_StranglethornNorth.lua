@@ -9,7 +9,7 @@ Guidelime.registerGuide([[
 
 [OC]|cffffffffStormwind|r  -  the two Dalaran hand-ins from chapter 28, then on to Darkshire
 At [TAR2432 Darla Harris] in Southshore (or at Guthrum Thunderfist in Aerie Peak, if chapter 29 ended there), |cFFfff8a3Fly to [F Stormwind]|r (the game routes it through Ironforge) [G49.3,52.3 Hillsbrad Foothills]
-[OC][A Shaman] |cffffcc00Gear (92489):|r take the |cff66ff66Violet Sash|r (cloth waist +9 Int, +6 spell damage; 26.9 on the weights, 20.9 conservative) if your belt scores under it, else the Runebound Gloves (leather +7 Sta +4 Spi, +12 attack power; 22.0, 18.0) if your gloves score under them; if neither is an upgrade, take the Runebound Gloves to vendor (19s 38c against 15s 85c)
+[OC][A Shaman] |cffffcc00Gear (92489):|r take the |cff66ff66Violet Sash|r (cloth waist +9 Int, +6 spell damage; 22.3 on the weights, 16.3 conservative) if your belt scores under it, else the Runebound Gloves (leather +7 Sta +4 Spi, +12 attack power; 22.0, 18.0) if your gloves score under them; if neither is an upgrade, take the Runebound Gloves to vendor (19s 38c against 15s 85c)
 In the Mage Quarter at [TAR5694 High Sorcerer Andromath], [QT92489] (3,950 XP + 1g) [G48.7,87.6 Stormwind City]
 [OC][A Shaman] |cffffcc00Gear (92456):|r the Vine Pruner's Cloak (+6 Sta, +5 spell damage; 10.0, 5.0) only over a plainer cloak; the Thorn Protecting Girdle is MAIL: pass until 40. Either sells for about 23s 60c
 In the Park at [TAR5502 Shylamiir], [QT92456] (3,950 XP) [G31.5,62.6 Stormwind City]
@@ -40,7 +40,7 @@ Click a Kurzen Supplies crate for the Venom Fern Extract [QC204] [G44.1,9.5 Stra
 Click Bookie Herod's Records, [QT200] [QA328 The Hidden Key] (1,400 XP: the Small Brass Key opens his strongbox at the east end, later) [G43.7,9.4 Stranglethorn Vale]
 
 [OC]|cffffffffRebel Camp, then the compound's middle and east end|r
-[OC][A Shaman] |cffffcc00Gear (204):|r take the |cff66ff66Palm Frond Mantle|r (cloth shoulders +7 Int +6 Spi; 26.5 on the weights, 20.5 conservative) only over Faerie Mantle (24.9) or a plainer shoulder; with Mantle of Honor (29.0) or better, take the Guerrilla Cleaver (one-handed axe) and vendor it (63s 96c against 18s 75c)
+[OC][A Shaman] |cffffcc00Gear (204):|r take the |cff66ff66Palm Frond Mantle|r (cloth shoulders +7 Int +6 Spi; 23.0 on the weights, 17.0 conservative) only over Faerie Mantle (21.8) or a plainer shoulder; with Mantle of Honor (25.5) or better, take the Guerrilla Cleaver (one-handed axe) and vendor it (63s 96c against 18s 75c)
 At [TAR733 Sergeant Yohwa], [QT203] [QT204] [QA574 Special Forces] (2,850 XP: 10 Kurzen Commandos and 6 Kurzen Headshrinkers, |cff66ff66normal|r - only 8 Headshrinkers spawn) [G38.0,3.3 Stranglethorn Vale]
 At [TAR739 Brother Nimetz], [QA207 Kurzen's Mystery] (3,550 XP: the four troll tablets, on the west and south loops) [G37.8,3.6 Stranglethorn Vale]
 At [TAR739 Brother Nimetz], [QA95786 An Acquaintance in Southshore] (3,150 XP + 50s at the hand-in: the Savage Coast Report Bundle for Loremaster Dibbs in Southshore, |cff66ff66normal|r, carried to chapter 31. The DB names no giver, Wowhead Forever names Nimetz: if he does not offer it, tick this line) [G37.8,3.6 Stranglethorn Vale]
@@ -49,7 +49,7 @@ Back in the compound, kill 10 [TAR938 Kurzen Commando] and 6 [TAR941 Kurzen Head
 Open Bookie Herod's Strongbox at the east end with the Small Brass Key, [QT328] [QA329 The Spy Revealed!] (1,400 XP: the Muddy Note goes to Doren). Witch Doctors and Kurzen Elites (36-37) stand round it: clear them one at a time [G49.6,7.6 Stranglethorn Vale]
 At [TAR469 Lieutenant Doren], [QT574] [QT329] [QA330 Patrol Schedules] (285 XP: to Corporal Sethman beside him) [G38.0,3.0 Stranglethorn Vale]
 At [TAR1422 Corporal Sethman], [QT330] [QA331 Report to Doren] (2,850 XP) [G37.7,3.4 Stranglethorn Vale]
-[OC][A Shaman] |cffffcc00Gear (331):|r no upgrade: Junglewalker Sandals (cloth +8 Sta +5 Int +2 Spi; 13.2) lose to your boots (Disjointed Shoes 22.0). Take the Frost Metal Pauldrons (MAIL) to vendor (38s 4c against 27s 49c)
+[OC][A Shaman] |cffffcc00Gear (331):|r no upgrade: Junglewalker Sandals (cloth +8 Sta +5 Int +2 Spi; 10.7) lose to your boots (Disjointed Shoes 22.0). Take the Frost Metal Pauldrons (MAIL) to vendor (38s 4c against 27s 49c)
 At [TAR469 Lieutenant Doren], [QT331] [G38.0,3.0 Stranglethorn Vale]
 [OC]|cFFFF0000GROUP 2+|r |cffffcc00Colonel Kurzen (202):|r 3,150 XP, optional. Kurzen is a level 39-40 ELITE alone in the cave at the east end, past the 6 Kurzen Elites and 4 Subchiefs the quest also wants. Take it only with a group and only for the Dark Hearted Hammer: worth it when your two-hander is Heavehammer or weaker; with Defender of Dalaran or the Manual Crowd Pummeler, skip it
 [O]|cFFFF0000GROUP 2+|r At [TAR469 Lieutenant Doren], [QA202 Colonel Kurzen] (3,150 XP: 6 Kurzen Elites, 4 Kurzen Subchiefs and Kurzen's Head) [G38.0,3.0 Stranglethorn Vale]
@@ -79,7 +79,7 @@ Click Gri'lek the Wanderer for The Second Troll Legend [QC207] [G24.8,23.0 Stran
 At [TAR717 Ajeck Rouack], [QT187] [QA188 Tiger Mastery] (2,850 XP: the Paw of Sin'Dall) [G35.6,10.6 Stranglethorn Vale]
 At [TAR715 Hemet Nesingwary], [QT195] [G35.7,10.8 Stranglethorn Vale]
 Kill [TAR729 Sin'Dall] (level 37, not elite) for the Paw of Sin'Dall [QC188] [G31.8,16.4 Stranglethorn Vale]
-[OC][A Shaman] |cffffcc00Gear (188):|r Tiger Hunter Gloves (leather +7 Str +8 Agi; 21.6) - wear them only over Shepherd's Gloves (19.7) or plainer; against Operator's or Runebound Gloves (22.0) they are a side-grade: vendor (21s 36c)
+[OC][A Shaman] |cffffcc00Gear (188):|r Tiger Hunter Gloves (leather +7 Str +8 Agi; 21.7) - wear them only over Shepherd's Gloves (19.8) or plainer; against Operator's or Runebound Gloves (22.0) they are a side-grade: vendor (21s 36c)
 At [TAR717 Ajeck Rouack], [QT188] [G35.6,10.6 Stranglethorn Vale]
 
 [OC]|cffffffffShadowmaw Panthers|r  -  level 37-38 and stealthed, over the middle of the zone south-east of the camp (77 spawns); the nearest group stands around 47,22, south of the Kurzen compound. At 34 or higher do them now; under 34 abandon Panther Mastery on the next line
