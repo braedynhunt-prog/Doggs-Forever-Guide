@@ -15,47 +15,8 @@ questnpc  17_Duskwood2.lua:87  [QT98447] The Valor Family: quest not in the Fore
 questnpc  22_ExcavationSite.lua:46  [QT95647] Lost in the Thicket Things: DB lists no finisher at all; line has [TAR262681 Ardin Grassman]
 questnpc  22_ExcavationSite.lua:46  [QA95809] Heartwoven: DB lists no starter at all; line has [TAR262681 Ardin Grassman]
 questnpc  22_ExcavationSite.lua:60  [QA95810] Lost Relic Carry: starter in the DB is item 270865; line has [TAR1077 Prospector Whelgar] (fine if the TAR is just the nearby NPC)
-tar  05_Westfall.lua:46  Defias Trapper [G44.0,33.0] is 4.6 from the nearest spawn 46.4,36.9
-tar  05_Westfall.lua:78  Odd Child [G41.2,79.0] is 6.4 from the nearest spawn 42.8,72.8
-tar  05_Westfall.lua:87  Murloc Oracle [G28.0,65.0] is 3.8 from the nearest spawn 27.7,68.8
-tar  06_Redridge.lua:40  Redridge Mongrel [G24.9,76.0] is 5.2 from the nearest spawn 25.3,81.2
-tar  06_Redridge.lua:52  Redridge Brute [G23.9,33.0] is 4.9 from the nearest spawn 19.0,32.6
-tar  06_Redridge.lua:55  Murloc Flesheater [G46.9,61.0] is 3.4 from the nearest spawn 50.2,61.7
-tar  08_RuinsOfLordaeron.lua:57  Lady Dena Kennedy (15991) has no spawn in Stormwind City (no spawn data in the DB at all)
-tar  17_Duskwood2.lua:27  Rabid Dire Wolf [G27.7,31.1] is 5.7 from the nearest spawn 33.1,29.4
-tar  22_ExcavationSite.lua:75  Minor Manifestation of Water (5895) has no spawn in Westfall (spawns in zones ['130'])
-tar  24_Gnomeregan.lua:68  Kernobee (7850) has no spawn in Dun Morogh (no spawn data in the DB at all)
-tar  26_RazorfenKraul.lua:74  Willix the Importer (4508) has no spawn in The Barrens (no spawn data in the DB at all)
-gates  01b_DunMorogh.lua:15  Camping 101: Cooking needs Cooking 1 but the route has not learned Cooking yet
-gates  01b_DunMorogh.lua:16  Camping 101: Fishing needs Fishing 1 but the route has not learned Fishing yet
-gates  01b_DunMorogh.lua:16  Camping 101: First Aid needs First Aid 1 but the route has not learned First Aid yet
-gates  02_LochModan.lua:67  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 20 so far (last target: Fishing 20 at 01b_DunMorogh.lua:63) [conditional step] [gate value unverified on Forever]
-gates  03_HallOfThanes.lua:16  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 40 so far (last target: Fishing 40 at 02_LochModan.lua:81) [conditional step] [gate value unverified on Forever]
-gates  09_LochModanMenethil.lua:104  Recipe: Crocolisk Gumbo needs Cooking 120; the route has only asked for Cooking 110 so far (last target: Cooking 110 at 02_LochModan.lua:127) [conditional step]
-xp  05_Westfall.lua:85  "2,890 XP" matches no quest on the line (136 Captain Sander's Hidden Treasure = 580)
-xp  12_Ashenvale.lua:65  "3,050 XP" matches no quest on the line (1034 The Ruins of Stardust = 1,850)
-xp  15_Stockade.lua:12  "2,000 XP" matches no quest on the line (343 Speaking of Fortitude = 195)
-xp  20_Darnassus.lua:22  "3,050 XP" matches no quest on the line (2925 Klockmort's Essentials = 245)
-money  24_Gnomeregan.lua:60  quest: "3 silver" quoted but 2951 The Sparklematic 5200! has no money in data/zone_*.json
-money  02_LochModan.lua:41  vendor: "10c" for Mild Spices: tooltip sell price 1c gives 4c - 7c
-money  02_LochModan.lua:53  trainer: Buliwyf Stonehand (11865) is not in tooling/trainer_costs.json
 questnpc  37_SwampOfSorrows.lua:24  [QA1392] Noboru the Cudgel: starter in the DB is item 6196; line has [TAR5477 Noboru the Cudgel] (fine if the TAR is just the nearby NPC)
 questnpc  39c_Alterac.lua:29  [QA522] Assassin's Contract: starter in the DB is item 3668; line has [TAR2434 Shadowy Assassin] (fine if the TAR is just the nearby NPC)
-tar  28_CityOfDalaran.lua:22  Seeking Remnant (247003) has no spawn in Alterac Mountains (no spawn data in the DB at all)
-tar  31_BootyBayDrownedCity.lua:52  Saltseer Coroner (260353) has no spawn in Stranglethorn Vale (no spawn data in the DB at all)
-tar  31_BootyBayDrownedCity.lua:52  Captain Dreadrise (260042) has no spawn in Stranglethorn Vale (no spawn data in the DB at all)
-tar  31_BootyBayDrownedCity.lua:53  Saltseer Manhunter (270912) has no spawn in Stranglethorn Vale (no spawn data in the DB at all)
-tar  31_BootyBayDrownedCity.lua:54  Risen Sentry (258792) has no spawn in Stranglethorn Vale (no spawn data in the DB at all)
-tar  34_ScarletMonastery.lua:33  Houndmaster Loksey (3974) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
-tar  34_ScarletMonastery.lua:37  Arcanist Doan (6487) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
-tar  34_ScarletMonastery.lua:42  Herod (3975) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
-tar  39b_RazorfenDowns.lua:23  Belnistrasz (8516) has no spawn in The Barrens (no spawn data in the DB at all)
-tar  39b_RazorfenDowns.lua:24  Belnistrasz (8516) has no spawn in The Barrens (no spawn data in the DB at all)
-tar  39b_RazorfenDowns.lua:26  Belnistrasz (8516) has no spawn in The Barrens (no spawn data in the DB at all)
-tar  39b_RazorfenDowns.lua:34  Amnennar the Coldbringer (7358) has no spawn in The Barrens (no spawn data in the DB at all)
-tar  40_RivergladesII.lua:41  Farholde Scout [G29.3,45.7] is 17.7 from the nearest spawn 42.7,57.2
-tar  39c_Alterac.lua:54  Scarlet Commander Mograine (3976) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
-tar  39c_Alterac.lua:56  High Inquisitor Whitemane (3977) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
 questnpc  43_KroldokStronghold.lua:37  [QA94980] Krol'dok Moulding: starter in the DB is item 267138; line has [TAR259256 Tunk] (fine if the TAR is just the nearby NPC)
 questnpc  50_FeralasII.lua:36  [QA95555] ?: quest not in the Forever DB (not checkable)
 questnpc  52_SearingGorge.lua:74  [QA4451] The Key to Freedom: starter in the DB is item 11818; line has [TAR5844 Dark Iron Slaver] (fine if the TAR is just the nearby NPC)
@@ -85,7 +46,47 @@ questnpc  55_Azshara.lua:118  [QA86812] ?: quest not in the Forever DB (not chec
 questnpc  55_Azshara.lua:120  [QT86812] ?: quest not in the Forever DB (not checkable)
 questnpc  55_Azshara.lua:120  [QA86813] ?: quest not in the Forever DB (not checkable)
 questnpc  55_Azshara.lua:122  [QT86813] ?: quest not in the Forever DB (not checkable)
+tar  05_Westfall.lua:46  Defias Trapper [G44.0,33.0] is 4.6 from the nearest spawn 46.4,36.9
+tar  05_Westfall.lua:78  Odd Child [G41.2,79.0] is 6.4 from the nearest spawn 42.8,72.8
+tar  05_Westfall.lua:87  Murloc Oracle [G28.0,65.0] is 3.8 from the nearest spawn 27.7,68.8
+tar  06_Redridge.lua:40  Redridge Mongrel [G24.9,76.0] is 5.2 from the nearest spawn 25.3,81.2
+tar  06_Redridge.lua:52  Redridge Brute [G23.9,33.0] is 4.9 from the nearest spawn 19.0,32.6
+tar  06_Redridge.lua:55  Murloc Flesheater [G46.9,61.0] is 3.4 from the nearest spawn 50.2,61.7
+tar  08_RuinsOfLordaeron.lua:57  Lady Dena Kennedy (15991) has no spawn in Stormwind City (no spawn data in the DB at all)
+tar  17_Duskwood2.lua:27  Rabid Dire Wolf [G27.7,31.1] is 5.7 from the nearest spawn 33.1,29.4
+tar  22_ExcavationSite.lua:75  Minor Manifestation of Water (5895) has no spawn in Westfall (spawns in zones ['130'])
+tar  24_Gnomeregan.lua:68  Kernobee (7850) has no spawn in Dun Morogh (no spawn data in the DB at all)
+tar  26_RazorfenKraul.lua:74  Willix the Importer (4508) has no spawn in The Barrens (no spawn data in the DB at all)
+tar  28_CityOfDalaran.lua:22  Seeking Remnant (247003) has no spawn in Alterac Mountains (no spawn data in the DB at all)
+tar  31_BootyBayDrownedCity.lua:52  Saltseer Coroner (260353) has no spawn in Stranglethorn Vale (no spawn data in the DB at all)
+tar  31_BootyBayDrownedCity.lua:52  Captain Dreadrise (260042) has no spawn in Stranglethorn Vale (no spawn data in the DB at all)
+tar  31_BootyBayDrownedCity.lua:53  Saltseer Manhunter (270912) has no spawn in Stranglethorn Vale (no spawn data in the DB at all)
+tar  31_BootyBayDrownedCity.lua:54  Risen Sentry (258792) has no spawn in Stranglethorn Vale (no spawn data in the DB at all)
+tar  34_ScarletMonastery.lua:33  Houndmaster Loksey (3974) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
+tar  34_ScarletMonastery.lua:37  Arcanist Doan (6487) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
+tar  34_ScarletMonastery.lua:42  Herod (3975) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
+tar  39b_RazorfenDowns.lua:23  Belnistrasz (8516) has no spawn in The Barrens (no spawn data in the DB at all)
+tar  39b_RazorfenDowns.lua:24  Belnistrasz (8516) has no spawn in The Barrens (no spawn data in the DB at all)
+tar  39b_RazorfenDowns.lua:26  Belnistrasz (8516) has no spawn in The Barrens (no spawn data in the DB at all)
+tar  39b_RazorfenDowns.lua:34  Amnennar the Coldbringer (7358) has no spawn in The Barrens (no spawn data in the DB at all)
+tar  39c_Alterac.lua:54  Scarlet Commander Mograine (3976) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
+tar  39c_Alterac.lua:56  High Inquisitor Whitemane (3977) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
+tar  40_RivergladesII.lua:41  Farholde Scout [G29.3,45.7] is 17.7 from the nearest spawn 42.7,57.2
 tar  53_TanarisII.lua:47  Tooga [G66.6,25.7] is 50.9 from the nearest spawn 29.5,60.5
 tar  55_Azshara.lua:74  Gatekeeper Rageroar (236573) has no spawn in Azshara (no spawn data in the DB at all)
 tar  55_Azshara.lua:103  Graal (237007) has no spawn in Azshara (no spawn data in the DB at all)
 tar  55_Azshara.lua:117  Gatekeeper Rageroar (236573) has no spawn in Azshara (no spawn data in the DB at all)
+gates  01b_DunMorogh.lua:15  Camping 101: Cooking needs Cooking 1 but the route has not learned Cooking yet
+gates  01b_DunMorogh.lua:16  Camping 101: Fishing needs Fishing 1 but the route has not learned Fishing yet
+gates  01b_DunMorogh.lua:16  Camping 101: First Aid needs First Aid 1 but the route has not learned First Aid yet
+gates  02_LochModan.lua:67  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 20 so far (last target: Fishing 20 at 01b_DunMorogh.lua:63) [conditional step] [gate value unverified on Forever]
+gates  03_HallOfThanes.lua:16  Journeyman Fishing needs Fishing 50; the route has only asked for Fishing 40 so far (last target: Fishing 40 at 02_LochModan.lua:81) [conditional step] [gate value unverified on Forever]
+gates  09_LochModanMenethil.lua:104  Recipe: Crocolisk Gumbo needs Cooking 120; the route has only asked for Cooking 110 so far (last target: Cooking 110 at 02_LochModan.lua:127) [conditional step]
+xp  05_Westfall.lua:85  "2,890 XP" matches no quest on the line (136 Captain Sander's Hidden Treasure = 580)
+xp  12_Ashenvale.lua:65  "3,050 XP" matches no quest on the line (1034 The Ruins of Stardust = 1,850)
+xp  15_Stockade.lua:12  "2,000 XP" matches no quest on the line (343 Speaking of Fortitude = 195)
+xp  20_Darnassus.lua:22  "3,050 XP" matches no quest on the line (2925 Klockmort's Essentials = 245)
+money  24_Gnomeregan.lua:60  quest: "3 silver" quoted but 2951 The Sparklematic 5200! has no money in data/zone_*.json
+money  02_LochModan.lua:41  vendor: "10c" for Mild Spices: tooltip sell price 1c gives 4c - 7c
+money  19_Wetlands2.lua:57  vendor: tooltip for Dragonslayer's Lance has no sell price, "75 silver" unchecked
+money  02_LochModan.lua:53  trainer: Buliwyf Stonehand (11865) is not in tooling/trainer_costs.json

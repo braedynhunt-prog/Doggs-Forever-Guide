@@ -30,7 +30,7 @@ At [TAR7944 Tinkmaster Overspark], [QA2922 Save Techbot's Brain!] (2,650 XP, |cf
 At [TAR6169 Klockmort Spannerspan], [QT2925] [QA2924 Essential Artificials] (3,050 XP: 12 Essential Artificials from Artificial Extrapolators inside, |cffffcc00search|r - see the dungeon notes) [G67.9,46.1 Ironforge]
 [O]At [TAR7950 Master Mechanic Castpipe], [QT2931] [G69.8,48.1 Ironforge]
 At [TAR7950 Master Mechanic Castpipe], [QA2930 Data Rescue] (3,650 XP: a punch card through four machines; the DB gives it no prerequisite, so it is open even if you skipped Castpipe's Task) [G69.8,48.1 Ironforge]
-At [TAR7937 High Tinker Mekkatorque], [QA2929 The Grand Betrayal] (2,750 XP: kill Mekgineer Thermaplugg, the last boss) [G68.8,49.0 Ironforge]
+At [TAR7937 High Tinker Mekkatorque], [QA2929 The Grand Betrayal] (3,450 XP: kill Mekgineer Thermaplugg, the last boss) [G68.8,49.0 Ironforge]
 At [TAR6569 Gnoarn], [QA2927 The Day After] (220 XP, the breadcrumb to Kharanos) [G69.2,50.5 Ironforge]
 [OC]Leave Ironforge by the main gate and take the road down to Kharanos (about 3 minutes; Kharanos has no flight path)
 
@@ -98,7 +98,7 @@ At [TAR1268 Ozzie Togglevolt], [QT2962] (2,450 XP; if the fallout vanished in th
 At [TAR7944 Tinkmaster Overspark], [QT2922] (2,650 XP) [G69.5,50.3 Ironforge]
 At [TAR6169 Klockmort Spannerspan], [QT2924] (3,050 XP) [G67.9,46.1 Ironforge]
 At [TAR7950 Master Mechanic Castpipe], [QT2930] (3,650 XP) [G69.8,48.1 Ironforge]
-At [TAR7937 High Tinker Mekkatorque], [QT2929] (2,750 XP; the Triprunner Dungarees) [G68.8,49.0 Ironforge]
+At [TAR7937 High Tinker Mekkatorque], [QT2929] (3,450 XP; the Triprunner Dungarees) [G68.8,49.0 Ironforge]
 [O]At [TAR6826 Talvash del Kissel], [QT2947] [QA2948 Gnome Improvement] (2,700 + 2,750 XP: he wants the Brilliant Gold Ring, a Silver Bar, a Moss Agate and 30 silver - buy the bar and the agate at the Auction House, or mine them) [G36.4,3.6 Ironforge]
 [O]At [TAR6826 Talvash del Kissel], [QT2948] (Talvash's Gold Ring: +10 Sta +3 Defense, fine for an empty ring slot, otherwise vendor it) [G36.4,3.6 Ironforge]
 [OC]|cffffcc00Check:|r log should now hold Gyrodrillmatic Excavationators (2928, completed, to Shoni in Stormwind - the first stop of chapter 25) and the carries from earlier chapters. Next: Ironforge to Stormwind by tram, then the loose ends

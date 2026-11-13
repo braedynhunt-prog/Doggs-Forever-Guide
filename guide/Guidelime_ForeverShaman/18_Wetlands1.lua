@@ -33,7 +33,7 @@ At [TAR2104 Captain Stoutfist] in the keep, [QT473] [QA464 War Banners] [QA98221
 At [TAR2097 Harlo Barnaby], [QA472 Fall of Dun Modr] (1,200 XP: a walk to Longbraid the Grim at Dun Modr, chapter 19; requires level 25) [G10.9,55.9 Wetlands]
 At [TAR2094 James Halloran], [QA98072 Crocs of the Sky] [QA98815 Highland Hides] [QA98240 Crimson Crate Delivery] [G8.6,55.7 Wetlands]
 [OC]|cffffcc00Halloran's three:|r Crocs of the Sky (98072, 2,200 XP: 8 Pristine Crimson Scales from the Red, Lost, Crimson and Flamesnorting Whelps in the hills east of the road, level 23-27, ~70 spawns, |cff66ff66normal|r - chapter 19), Highland Hides (98815, 1,150 XP: 4 Thicket Raptor Hides, dropped only by the Thicket mobs INSIDE the Excavation Site - chapter 22, a slot saver) and Crimson Crate Delivery (98240, 1,200 XP: the crate is given on accept and goes to Howin Kindfeather on the east road)
-At [TAR270844 Sylessa Duskwhisper], [QA98208 Bloom of the Heavens] (2,350 XP: the flower came off the Flying Osprey) [G8.0,55.9 Wetlands]
+At [TAR270844 Sylessa Duskwhisper], [QA98208 Bloom of the Heavens] (1,750 XP: the flower came off the Flying Osprey) [G8.0,55.9 Wetlands]
 Search the Waterlogged Chest in the wreck of the Flying Osprey at the south end of the harbor [QT321] [QA324 The Lost Ingots] [G12.1,64.2 Wetlands]
 Look around the wreck for Nord'el: the DB has no coordinates for the object (item 279915), and the TUGs route collects it at the chest - |cffffcc00unverified|r [QC98208] [G12.1,64.2 Wetlands]
 Kill [TAR1418 Bluegill Raider] (level 28-29, 25 of them on the beach south of the harbor) for 5 Lightforge Ingots [QC324] [G11.8,65.4 Wetlands]
