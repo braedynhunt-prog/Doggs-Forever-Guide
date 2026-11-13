@@ -84,7 +84,7 @@ for chain, keep in gl.CHAINS.items():
   turned = set(); skipped = set(); completed = {}
   for i, (f, ln, code, qid, opt) in enumerate(events):
       if not keep(f): continue
-      if RACE.get((f, ln), '') not in ('', chain): continue   # other race's line
+      if RACE.get((f, ln), '') not in ('', gl.chain_race(chain)): continue   # other race's line
       if code == 'QA':
           r0 = RACE.get((accepted[qid][0], accepted[qid][1]), '') if qid in accepted else ''
           r1 = RACE.get((f, ln), '')
@@ -119,7 +119,7 @@ for chain, keep in gl.CHAINS.items():
     for f in files:
         if not keep(f): continue
         for ln, line in gl.steps(TXT[f]):
-            if RACE.get((f, ln), '') not in ('', chain): continue
+            if RACE.get((f, ln), '') not in ('', gl.chain_race(chain)): continue
             for code, payload in gl.tags(line):
                 if code == 'S':
                     bound = (payload.strip(), os.path.basename(f), ln)

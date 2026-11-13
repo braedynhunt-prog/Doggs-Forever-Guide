@@ -262,7 +262,25 @@ def tars(line):
 
 # ---------------------------------------------------------------- chapter chains
 # Flow runs once per race chain: Human = 00a/00b + shared, Dwarf = 01a/01b + shared. Shaman lines are Dwarf.
-CHAINS = {'Human': lambda f: not os.path.basename(f).startswith('01'), 'Dwarf': lambda f: not os.path.basename(f).startswith('00')}
+# 12 Nov 2026: alternate chapters. An alternate replaces one chapter of the route (11s = the short Darkshore pass for a
+# character already 24 when chapter 10 ends). It is left out of the Human and Dwarf chains and gets a chain of its own,
+# 'Dwarf+11s' = the Dwarf route with the replaced chapter swapped for the alternate, so check_guide's flow and hearth
+# checks and verify.py --chain Dwarf+11s cover both ways through. CHAIN_RACE names the race whose lines a chain follows.
+ALTERNATES = {'11s_DarkshoreShort.lua': '11_Darkshore.lua'}   # alternate chapter -> the chapter it replaces
+CHAIN_RACE = {}
+def _bn(f): return os.path.basename(f)
+CHAINS = {'Human': lambda f: not _bn(f).startswith('01') and _bn(f) not in ALTERNATES,
+          'Dwarf': lambda f: not _bn(f).startswith('00') and _bn(f) not in ALTERNATES}
+def _alt_chain(alt, main):
+    return lambda f: not _bn(f).startswith('00') and _bn(f) != main and (_bn(f) not in ALTERNATES or _bn(f) == alt)
+for _alt, _main in ALTERNATES.items():
+    _name = 'Dwarf+' + _alt.split('_')[0]
+    CHAINS[_name] = _alt_chain(_alt, _main)
+    CHAIN_RACE[_name] = 'Dwarf'
+
+def chain_race(chain):
+    """The race whose lines a chain follows ('Dwarf+11s' -> 'Dwarf'; plain chains are their own race)."""
+    return CHAIN_RACE.get(chain, chain)
 
 VARIANT = find_variant()
 if VARIANT:
@@ -293,4 +311,4 @@ def footer_for(path):
 
 def on_chain(line, ga, chain):
     """True when a step applies to the given race chain."""
-    return race_of(line, ga) in ('', chain)
+    return race_of(line, ga) in ('', chain_race(chain))

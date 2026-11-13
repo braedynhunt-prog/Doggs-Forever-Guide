@@ -172,6 +172,12 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                        RACE_WORDS to the variant; Warrior, Skyborne and Druid (2 Nov) are race/class words everywhere; Zephras Isle (16593,
                        Guidelime map 2521) is a known zone (also in tarcheck.py). baseline_path(): Alliance keeps
                        check_guide_baseline.txt / verify_baseline.txt, any other folder uses *_baseline_<folder>.txt.
+                       12 Nov 2026: alternate chapters - ALTERNATES maps an alternate file to the chapter it replaces
+                       (11s_DarkshoreShort.lua -> 11_Darkshore.lua). The Human and Dwarf chains leave alternates out; each alternate
+                       gets its own chain (Dwarf+11s = the Dwarf route with 11 swapped for 11s), which check_guide.py runs for
+                       flow and hearth and verify.py takes as --chain Dwarf+11s. gold.py skips the alternate; tarcheck.py,
+                       dungeon_loot.py and tugs_diff.py read every file. Variants list their chapters in variant.json, so an
+                       alternate is not carried into them unless it is added there.
   verify.py            baseline and default --chain follow the folder (FOREVER_GUIDE=guide\Guidelime_ForeverWarrior -> Skyborne)
   tarcheck.py, pool30.py   read guidelib.ADDON (FOREVER_GUIDE) instead of the hard-coded Alliance folder
   hook_check_guide.py  checks the edited file's own addon folder with that folder's baselines; flags edits inside a generated
