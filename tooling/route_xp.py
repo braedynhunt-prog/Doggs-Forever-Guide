@@ -80,6 +80,35 @@ def handed_in():
     return out
 
 
+def prerequisite_problems(chapters, done):
+    """13 Nov 2026: a required quest whose prerequisite (tooling/qdb quest rows [11] all-of, [12] any-of) is neither
+    handed in by a written chapter nor a required quest of the same or an earlier chapter of the route. The 12 Nov
+    plan put To The Hinterlands a chapter before In Search of The Temple and Zul'Farrak before the Hinterlands chain
+    that gives Nekrum's Medallion; nothing checked the order."""
+    qdb = json.load(open(os.path.join(gl.BASE, 'tooling', 'qdb', 'quest.json'), encoding='utf-8'))
+    flat = lambda x: [abs(int(y)) for p in (x or []) for y in (p if isinstance(p, list) else [p])]
+    where = {}
+    for i, ch in enumerate(chapters):
+        for q in ch['req']: where.setdefault(q, (i, False))
+        for q in ch['opt']: where.setdefault(q, (i, True))
+    out = []
+    for i, ch in enumerate(chapters):
+        for q in ch['req']:
+            r = qdb.get(str(q))
+            if not r: continue
+            def met(p):
+                return p in done or (p in where and where[p][0] <= i and not where[p][1])
+            def say(p):
+                name = (qdb.get(str(p)) or ['?'])[0]
+                if p in where: return f"{p} {name} (chapter '{chapters[where[p][0]]['title']}'{', optional' if where[p][1] else ''})"
+                return f"{p} {name} (not in the route)"
+            miss = [p for p in flat(r[11] if len(r) > 11 else None) if not met(p)]
+            one = flat(r[12] if len(r) > 12 else None)
+            if one and not any(met(p) for p in one): miss += one
+            if miss: out.append(f"{q} {r[0]} ({ch['title']}): prerequisite not met by then: " + '; '.join(say(p) for p in miss))
+    return out
+
+
 def parse(path):
     start, share, chapters = None, None, []
     for raw in open(path, encoding='utf-8').read().splitlines():
@@ -149,6 +178,7 @@ def main():
         elif wants and int(entry) < wants: flag = f'  UNDER: wants {wants}, enters at {entry:.1f}'
         if low: flag += f'  SCALED: {len(low)} quests 6+ levels under the entry level pay {raw - xp:,} less ({low[:8]})'
         print(f"{ch['title'][:46]:46} {len(ch['req']):3d} {xp:9,} {money(mon):>9} {cum:9,} {entry:5.1f} {level:5.1f} {maxreq:7d} {oxp:8,}{flag}")
+    problems += prerequisite_problems(chapters, done)
     lo, hi = int(start), int(level) + 1
     print(f'\nrequired quest XP {cum:,}; quest money {money(cum_money)}; optional XP listed {cum_opt:,}; ends at {level:.1f}')
     if hi <= 60: print(f'{lo} -> {hi} needs {bracket(lo, hi):,} XP in all ({round(bracket(lo, hi) * share):,} from quests at this share)')
