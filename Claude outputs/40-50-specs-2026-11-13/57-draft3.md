@@ -28,8 +28,8 @@ Written against `docs/40-50-plan-2026-11-12.md`, second revision, section "### 5
 4. Boat to Menethil Harbor, fly to Ironforge.
 5. Bind: `[S Ironforge]` at the innkeeper.
 6. At [TAR2916 Historian Karnik], 77.5,11.8 Ironforge: `[QT2977 Return to Ironforge]` (470 XP; prerequisite 2954, row [12]) and `[QA2964 A Future Task]` (next quest, row [21]).
-7. At [TAR5387 High Explorer Magellas], 69.9,18.6 Ironforge: `[QT2964 A Future Task]` (4,700 XP; "Speak with High Explorer Magellas in Ironforge"). No follow-up in the DB (row [21] empty).
-8. At [TAR8507 Tymor], 31.0,4.8 Ironforge: `[QT3461 Return to Tymor]` (7,600 XP + 2g 20s; prerequisite 3449, row [12]; "Return Tymor's Drawing Kit to him in Ironforge"). No follow-up in the DB.
+7. At [TAR5387 High Explorer Magellas], 69.9,18.6 Ironforge: `[QT2964 A Future Task]` (4,700 XP + 2g 20s; "Speak with High Explorer Magellas in Ironforge"). No follow-up in the DB (row [21] empty).
+8. At [TAR8507 Tymor], 31.0,4.8 Ironforge: `[QT3461 Return to Tymor]` (7,600 XP; prerequisite 3449, row [12]; "Return Tymor's Drawing Kit to him in Ironforge"). No follow-up in the DB.
 9. `[A Shaman]` At [TAR258098 Eldrun Stormbreaker], 47.1,13.8 Ironforge, `[T]`: the rows not yet bought. Prices are Wowhead's raw values (trainer_costs.json, 12 Nov; whether the trainer shows 5% less is on the test list). The sheet's buys first:
    - Level 46 (2g each): **Mana Spring Totem 3** (sheet); later Frost Shock 3, Magma Totem 3; the row also has Chain Heal 2, Windwall Totem 2, Flametongue Weapon 5. Row 12g.
    - Level 48 (2g 20s each): **Earth Shock 6, Healing Wave 8, Flametongue Totem 3** (sheet); the row also has Chain Lightning 3, Stoneclaw Totem 5, Lightning Shield 6, Frostbrand Weapon 4, Ancestral Spirit 4, and Mana Tide Totem 3 at 16s. Row 17g 76s.
@@ -41,7 +41,7 @@ Written against `docs/40-50-plan-2026-11-12.md`, second revision, section "### 5
 13. `[OC]` end Check (section 7).
 
 ## 5. Gear calls
-None: 2977, 2964 and 3461 give no item choice (zone_1537.json itemchoices empty; 3461 pays 2g 20s). 7070's pendants (18.0 / 14.0) are below his neck (chapter 54 spec): vendor.
+None: 2977, 2964 and 3461 give no item choice (zone_1537.json itemchoices empty; 2964 pays 2g 20s - corrected 13 Nov from the zone JSON when the chapter was written). 7070's pendants (18.0 / 14.0) are below his neck (chapter 54 spec): vendor.
 
 ## 6. Out
 Nothing of this stop is out. Not taken here on purpose: 2993 Return to the Hinterlands (Nethergarde, round 3), 3445 The Sunken Temple (Feathermoon, round 3).
