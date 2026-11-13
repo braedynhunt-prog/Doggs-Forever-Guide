@@ -1,5 +1,5 @@
 {
- "_source": "Wowhead Forever drop chances for quest items of the 30-41 route candidates, pulled 11 Nov 2026 (Phase 2 of the 30-60 guide). Item-page numbers are count/outof over all sampled kills; Wowhead Classic shows the same depressed figures for the same items (Bloodscalp Ear 21% vs 17% here), so they are a consistent yardstick rather than the true on-quest rate. Class-quest items (Twisted Totems) are sampled against every player's kills and are far too low to use. 2026-11-12: the quest items of the round-2 (42-50) candidates were added or re-pulled the same way; each row's \"source\" carries its own pull date, and rows still dated 11 Nov were not re-pulled.",
+ "_source": "Wowhead Forever drop chances for quest items of the 30-41 route candidates, pulled 11 Nov 2026 (Phase 2 of the 30-60 guide). Item-page numbers are count/outof over all sampled kills; Wowhead Classic shows the same depressed figures for the same items (Bloodscalp Ear 21% vs 17% here), so they are a consistent yardstick rather than the true on-quest rate. Class-quest items (Twisted Totems) are sampled against every player's kills and are far too low to use. 2026-11-12: the quest items of the round-2 (42-50) candidates were added or re-pulled the same way; each row's \"source\" carries its own pull date, and rows still dated 11 Nov were not re-pulled. 2026-11-13: the three OOX distress beacons (8705, 8704, 8623), the Pirate's Footlocker (9276) and the Ship Schedule (9250) were read from their item pages for the second plan revision.",
  "items": {
   "742": {
    "name": "A Sycamore Branch",
@@ -22804,6 +22804,105 @@
    "source": "nether.wowhead.com/forever/tooltip (single dropper), 2026-11-12",
    "dropped_by": "Ombassa",
    "overall_pct": 99.6
+  },
+  "8705": {
+   "name": "OOX-22/FE Distress Beacon",
+   "quests": [
+    2766
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-13; pooled over the 70 droppers with a sample (per-mob rows not stored)",
+   "pooled": {
+    "count": 1413,
+    "outof": 419697
+   },
+   "overall_pct": 0.34
+  },
+  "8704": {
+   "name": "OOX-09/HL Distress Beacon",
+   "quests": [
+    485
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-13; pooled over the 49 droppers with a sample (per-mob rows not stored)",
+   "pooled": {
+    "count": 509,
+    "outof": 87752
+   },
+   "overall_pct": 0.58
+  },
+  "8623": {
+   "name": "OOX-17/TN Distress Beacon",
+   "quests": [
+    351
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-13; pooled over the 82 droppers with a sample (per-mob rows not stored)",
+   "pooled": {
+    "count": 1085,
+    "outof": 263968
+   },
+   "overall_pct": 0.41
+  },
+  "9276": {
+   "name": "Pirate's Footlocker",
+   "quests": [
+    2876
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-13; holds the Ship Schedule (item 9250)",
+   "npcs": [
+    {
+     "id": 15685,
+     "name": "Southsea Kidnapper",
+     "count": 261,
+     "outof": 3463
+    },
+    {
+     "id": 7856,
+     "name": "Southsea Freebooter",
+     "count": 115,
+     "outof": 2151
+    },
+    {
+     "id": 7858,
+     "name": "Southsea Swashbuckler",
+     "count": 84,
+     "outof": 1844
+    },
+    {
+     "id": 7855,
+     "name": "Southsea Pirate",
+     "count": 69,
+     "outof": 1701
+    },
+    {
+     "id": 7857,
+     "name": "Southsea Dock Worker",
+     "count": 80,
+     "outof": 1658
+    },
+    {
+     "id": 8203,
+     "name": "Kregg Keelhaul",
+     "count": 5,
+     "outof": 7
+    }
+   ],
+   "overall_pct": 5.67
+  },
+  "9250": {
+   "name": "Ship Schedule",
+   "quests": [
+    2876
+   ],
+   "source": "wowhead.com/forever/item page, contained-in-item listview (count/outof), 2026-11-13",
+   "contained_in": [
+    {
+     "item": 9276,
+     "name": "Pirate's Footlocker",
+     "count": 80,
+     "outof": 595
+    }
+   ],
+   "overall_pct": 0.76,
+   "note": "overall_pct is per pirate kill: 13.45% of footlockers x 5.67% of pirates"
   }
  }
 }
