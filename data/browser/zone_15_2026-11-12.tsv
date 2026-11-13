@@ -1,0 +1,130 @@
+ZONE	/forever/zone=15/dustwallow-marsh
+1	4	1	540		15	1		0	0	unchanged	0			The "Chow" Quest (123)aa
+623	43	38	2700	1	33	0		0	0	unchanged	4500			Akiris by the Bundle
+625	43	35	3600	3	33	0		0	0	unchanged	0			Cortello's Riddle
+626	51	35	6100	3	33	0		0	0	unchanged	0		11324	Cortello's Riddle
+1132	30	30	1200	1	11	0		0	0	updated	0			Fiora Longears
+1133	20	18		1	15	1		0	0	unchanged	0			Journey to Astranaar
+1135	30	25	3650	1	15	1		0	0	unchanged	0		6719	Highperch Venom
+1166	43	38	4450	2	15	1	1	0	0	updated	0	10702,270086,270087		Overlord Mok'Morokk's Concern
+1168	43	38	3600	2	15	1		0	0	unchanged	0	9705,9706		Army of the Black Dragon
+1169	43	38	5350	2	15	1		0	0	unchanged	0	9703,9704		Identifying the Brood
+1170	43	38	360	2	15	1		0	0	unchanged	0			The Brood of Onyxia
+1171	43	38	360	2	15	1		0	0	unchanged	0			The Brood of Onyxia
+1172	45	38	4850	2	15	1	1	0	0	updated	0	10700,10701,270094		The Brood of Onyxia
+1173	45	38	4850	2	15	1	1	0	0	unchanged	0	10703,10704		Challenge Overlord Mok'Morokk
+1177	36	32	2800	3	15	1		0	0	unchanged	0	9518,9519		Hungry!
+1188	41	29	820	3	400	1		0	0	unchanged	0			Safety First
+1201	35	30	2750	2	15	1		0	0	unchanged	0			Theramore Spies
+1202	35	30	2750	2	15	1		0	0	unchanged	0			The Theramore Docks
+1203	35	30	3450	3	15	1		0	0	updated	3500	9622,270052	5016	Jarl Needs a Blade
+1204	38	33	2850	1	15	1		0	0	unchanged	0			Mudrock Soup and Bugs
+1205	45	35	3900	2	15	1		0	0	unchanged	0			Deadmire
+1206	35	30	2750	3	15	1		0	0	unchanged	0			Jarl Needs Eyes
+1218	35	30	1350	3	15	1		0	0	unchanged	0		6807	Soothing Spices
+1219	35	30	690	1	15	1		0	0	unchanged	0			The Orc Report
+1220	35	30	2750	1	15	1		0	0	unchanged	0			Captain Vimes
+1222	37	30	2850	1	15	1		0	0	updated	4000		3825	Stinky's Escape
+1238	35	30	2050	2	15	1		0	0	unchanged	0			The Lost Report
+1239	35	30	2050	2	15	1		0	0	unchanged	0			The Severed Head
+1240	35	30	2750	2	15	1		0	0	unchanged	0			The Troll Witchdoctor
+1251	35	30	690	2	15	1		0	0	unchanged	0			The Black Shield
+1252	40	30	780	1	15	1		0	0	unchanged	0			Lieutenant Paval Reethe
+1253	35	30	690	1	15	1		0	0	unchanged	0			The Black Shield
+1258	40	33	3150	1	15	1		0	0	unchanged	0		6801	... and Bugs
+1259	40	30	315	1	15	1		0	0	unchanged	0			Lieutenant Paval Reethe
+1260	38	33	710	1	15	1		0	0	unchanged	0			Morgan Stern
+1261	40	30	3150	2	15	1		0	0	unchanged	0			Marg Speaks
+1262	40	30	3150	2	15	1		0	0	unchanged	0			Report to Zor
+1263	35	30			15	1		0	0	unchanged	0			The Burning Inn <CHANGE TO GOSSIP>
+1264	33	28	1300	1	1519	0		0	0	unchanged	0			The Missing Diplomat
+1265	35	28	275	1	1519	0		0	0	unchanged	0			The Missing Diplomat
+1266	36	28	700	1	1519	0		0	0	unchanged	0			The Missing Diplomat
+1267	38	28	4300	1	1519	0		0	0	updated	13000		6757	The Missing Diplomat
+1268	35	30	1350	2	15	1		0	0	unchanged	0			Suspicious Hoofprints
+1269	37	30	710	2	15	1		0	0	unchanged	0			Lieutenant Paval Reethe
+1270	37	30	2850	2	15	1		0	0	updated	4000		3825	Stinky's Escape
+1271	37	30		1	15	1		0	0	unchanged	0		5951	Feast at the Blue Recluse
+1272	37	30		3	15	1		0	0	unchanged	0			Finding Reethe <CHANGE INTO GOSSIP>
+1273	37	30	3550	2	15	1		0	0	unchanged	0	6797,6798		Questioning Reethe
+1276	37	30	1400	2	15	1		0	0	unchanged	0			The Black Shield
+1280					15	1		0	0	unchanged	0			<nyi> <TXT>The Centaur Hoofprints
+1281	35	30			15	1		0	0	unchanged	0			Jim's Song <CHANGE TO GOSSIP>
+1282	35	30	275	1	15	1		0	0	unchanged	0			They Call Him Smiling Jim
+1283	35	30			15	1		0	0	unchanged	0			Fire at the Shady Rest <CHANGE TO GOSSIP>
+1284	35	30	1350	1	15	1		0	0	unchanged	0			Suspicious Hoofprints
+1285	38	30	285	1	15	1		0	0	unchanged	0			Daelin's Men
+1286	38	30	2850	1	15	1		0	0	unchanged	0			The Deserters
+1287	38	30	2850	1	15	1		0	0	unchanged	0			The Deserters
+1288	38	30	285	3	15	1		0	0	unchanged	0			Vimes's Report
+1292					15	1		0	0	unchanged	0			<nyi><TXT> Centaur Hoofprints
+1293					15	1		0	0	unchanged	0			<nyi> <TXT> Centaur Hoofprints
+1294					15	1		0	0	unchanged	0			<nyi> <TXT>Centaur Sympathies
+1295					15	1		0	0	unchanged	0			<nyi> <TXT> Course of Action
+1296					15	1		0	0	unchanged	0			<nyi> <TXT> Course of Action
+1297					15	1		0	0	unchanged	0			<nyi> <TXT> Course of Action
+1302	35	30	690	1	11	0		0	0	unchanged	0			James Hyal
+1319	35	30	275	1	15	1		0	0	unchanged	0			The Black Shield
+1320	35	30	1350	1	15	1		0	0	unchanged	0			The Black Shield
+1321	35	30	275	2	15	1		0	0	unchanged	0			The Black Shield
+1322	37	30	2850	2	15	1		0	0	unchanged	0			The Black Shield
+1323	37	30	1400	2	15	1		0	0	unchanged	0			The Black Shield
+1324	38	28	2150	1	1519	0		0	0	unchanged	0			The Missing Diplomat
+1799	40	35	3150	3	-61	4		256	0	unchanged	0			Fragments of the Orb of Orahil
+1947	38	30	285	3	-161	4		128	0	unchanged	0			Journey to the Marsh
+1948	40	30	3150	3	-161	4		128	0	unchanged	0			Items of Power
+1949	38	30	1450	3	-161	4		128	0	unchanged	0			Hidden Secrets
+1951	40	30	3150	3	-161	4	81	128	0	unchanged	0			Rituals of Power
+1952	40	30	3150	3	-161	4		128	0	unchanged	0	7514,11263,7513		Mage's Wand
+1953	40	35	315	3	-161	4		128	0	unchanged	0			Return to the Marsh
+1954	40	35	2350	3	-161	4		128	0	unchanged	0			The Infernal Orb
+1955	40	35	2350	3	-161	4	1	128	0	unchanged	0			The Exorcism
+1956	40	35	3900	3	-161	4	81	128	0	unchanged	0			Power in Uldaman
+1957	40	35	2350	3	-161	4		128	0	unchanged	0			Mana Surges
+1958	40	35	3150	3	-161	4		128	0	unchanged	0	7515,9517		Celestial Power
+2846	46	40	6050	3	1176	2	81	0	0	updated	6500	9531,270098	9527	Tiara of the Deep
+2861	46	40	405	3	1176	2	81	0	0	unchanged	0			Tabetha's Task
+3861	1	1	10	1	-284	-2		0	0	unchanged	0			CLUCK!
+4961	40	35	2350	3	-61	4	1	256	0	unchanged	0		12642	Cleansing of the Orb of Orahil
+4976	40	35	1550	3	-61	4		256	0	unchanged	0			Returning the Cleansed Orb
+6570	60	55	4950	2	15	1	1	0	0	unchanged	0			Emberstrife
+6582	60	55	6600	3	15	1	62	0	0	unchanged	0			The Test of Skulls, Scryer
+6583	60	55	6600	3	15	1	62	0	0	unchanged	0			The Test of Skulls, Somnus
+6584	60	55	6600	3	15	1	62	0	0	unchanged	0			The Test of Skulls, Chronalis
+6585	60	55	6600	3	15	1	62	0	0	unchanged	0			The Test of Skulls, Axtroz
+6601	60	55	4950	2	15	1		0	0	unchanged	0			Ascension...
+6607	45	35	3900	3	-101	5		0	0	unchanged	0			Nat Pagle, Angler Extreme
+6608	45	35	970	2	-101	5		0	0	unchanged	0			You Too Good.
+6609	45	35	970	1	-101	5		0	0	unchanged	0			I Got Nothin' Left!
+6624	45	35	3900	1	-324	5		0	0	unchanged	0			Triage
+6625	45	35	970	1	-324	5		0	0	unchanged	0			Alliance Trauma
+7070	42	39	3450	1	2100	2	81	0	0	unchanged	0	17772,17773		Shadowshard Fragments
+7541	40	30	1550	2	15	1		0	0	unchanged	15000	18585,18586		Service to the Horde
+8227	60	58	660	3	1977	3	62	0	0	unchanged	0			Nat's Measuring Tape
+8970	60	58	6600	3	15	1	1	0	0	unchanged	0			I See Alcaz Island In Your Future...
+9065	4	1	540		15	1		0	0	updated	225		159,118	The "Chow" Quest (123)aa
+81570	35	30	3450	3	15	1		0	0	updated	3500		9622,5016	Jarl Needs a Blade
+81764	50	45	4700	1	-141	4		2	5	updated	0			The Mysterious Merchant
+81765	50	45	5900	1	-141	4		2	5	updated	0			Elrick, Paladin of the Silver Hand
+94258	60	1			16941	0		0	0	new	0			Craftsman's Writ: Lesser Stoneshield Potion
+94270	60	1			16941	0		0	0	new	0			Craftsman's Writ: Steel Weapon Chain
+94282	60	1			16941	0		0	0	new	0			Craftsman's Writ: Craftsman's Monocle
+94294	60	1			16941	0		0	0	new	0			Craftsman's Writ: Dusky Bracers
+95194	53	48	1300	1	15	1		0	0	new	0			Our Man in Theramore
+95196	53	48	1300	1	15	1		0	0	new	0			Watch Yer Back
+95198	53	48	1300	1	15	1		0	0	new	0			The Return of the King?
+95262	53	48	6550	1	16620	2	81	0	0	new	0			The Secret Prison
+95263	53	48	1300	1	16620	2	81	0	0	new	0			Somber News
+95264	53	48	1300	1	1519	0		0	0	new	8000	279833,279831,279474		Shaw Needs To Know
+95283	53	48	1300	2	15	1		0	0	new	0			The Missing Kor'kron
+95284	53	48	1300	2	15	1	1	0	0	new	0			The Elite of the Elite
+95285	53	48	1300	2	15	1		0	0	new	2000			Right Place, Wrong Time
+95309	53	48	6550	2	16620	2	81	0	0	new	0			No Orc Left Behind
+96332	53	48	5250	2	16620	2	81	0	0	new	8000	279824,279826,279829		A Little Payback
+96334	53	48	5250	2	16620	2	81	0	0	new	0	279448,279473		Blood Red Bandanas
+96381	53	48	5250	1	16620	2	81	0	0	new	8000	279825,279826,279829		A Bit of Wet Work
+98192	43	38	3600	2	15	1		0	0	new	0			Skin Careful, Skin Sharp
+98205	44	39	3750	2	15	1		0	0	new	0	281302,281303		Whelps are the Worst!
+98215	44	39	3750	2	15	1		0	0	new	6500			Dragon Scales, Post Burnt Tails
+98231	44	39	3750	2	15	1		0	0	new	6500			Active Ingredient
+98233	42	36	3450	1	15	1		0	0	new	5500		281308	Sword in the Slime

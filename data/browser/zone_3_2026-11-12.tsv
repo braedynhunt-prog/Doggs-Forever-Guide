@@ -1,0 +1,95 @@
+ZONE	/forever/zone=3/badlands
+656	50	30	7100	3	45	0	1	0	0	updated	14500		4743	Summoning the Princess
+687	40	30	1550	3	45	0		0	0	unchanged	0			Theldurin the Lost
+692	41	30	3300	3	3	0		0	0	updated	5500			The Lost Fragments
+703	40	33	2350	3	3	0		0	0	unchanged	0		4457,4609	Barbecued Buzzard Wings
+705	37	30	3550	3	3	0	1	0	0	unchanged	0	4086,5248	4852	Pearl Diving
+706	45	40	3900	1	3	0	1	0	0	unchanged	0		5421	Fiery Blaze Enchantments
+708	40	30	2350	1	3	0		0	0	updated	5000			The Black Box
+709	40	30	3150	3	1337	2	81	0	0	updated	0	4746,270074,270075		Solution to Doom
+710	37	35	2850	3	3	0		0	0	unchanged	0			Study of the Elements: Rock
+711	39	35	3000	3	3	0		0	0	unchanged	0			Study of the Elements: Rock
+712	42	35	3450	3	3	0		0	0	unchanged	0			Study of the Elements: Rock
+713	37	35	2850	3	3	0		0	0	unchanged	0			Coolant Heads Prevail
+714	37	35	2850	3	3	0		0	0	unchanged	0			Gyro... What?
+715	37	35	2100	3	3	0		0	0	unchanged	0		4624,4623	Liquid Stone
+716	42	35	2550	3	3	0		0	0	unchanged	0		4979	Stone Is Better than Cloth
+717	50	40	5900	1	3	0	1	0	0	unchanged	0	11193,11194,11195,11196		Tremors of the Earth
+718	38	35	2150	1	3	0		0	0	unchanged	0			Mirages
+719	35	35	2750	1	3	0		0	0	unchanged	0		4978	A Dwarf and His Tools
+720	35	35	1350	1	3	0		0	0	unchanged	0			A Sign of Hope
+721	35	35	2750	1	1337	2	81	0	0	unchanged	0			A Sign of Hope
+722	40	35	3150	1	1337	2	81	0	0	unchanged	0			Amulet of Secrets
+723	40	35	2350	1	3	0		0	0	unchanged	0			Prospect of Faith
+724	40	35	3150	1	3	0		0	0	unchanged	0			Prospect of Faith
+725	40	35	1550	1	3	0		0	0	unchanged	0			Passing Word of a Threat
+726	40	35	2350	1	3	0		0	0	unchanged	0			Passing Word of a Threat
+727	40	30	780	1	3	0		0	0	unchanged	0			To Ironforge for Yagyin's Digest
+728	40	30	780	2	3	0		0	0	unchanged	0			To the Undercity for Yagyin's Digest
+732	43	40	3600	1	3	0		0	0	unchanged	0			Tremors of the Earth
+733	40	35	3150	1	3	0		0	0	unchanged	0	4652,4653		Scrounging
+734	42	35		3	3	0		0	0	unchanged	0			This Is Going to Be Hard
+735	44	30	5600	1	3	0	1	0	0	unchanged	0			The Star, the Hand and the Heart
+737	40	30	2350	3	3	0		0	0	unchanged	0		4984	Forbidden Knowledge
+738	38	30	1450	1	3	0		0	0	unchanged	400		4982,1529,2776	Find Agmond
+739	42	30	3450	1	3	0		0	0	unchanged	0		4983	Murdaloc
+762	44	35	4650	1	3	0	1	0	0	updated	12500	4987,270088,270089		An Ambassador of Evil
+777	42	35		3	3	0		0	0	unchanged	0			This Is Going to Be Hard
+778	45	35	4850	3	3	0		0	0	unchanged	0		2820	This Is Going to Be Hard
+779	50	40		1	3	0		0	0	unchanged	0			Seal of the Earth
+782	43	40	3600	2	3	0		0	0	unchanged	0			Broken Alliances
+793	50	40	5900	2	3	0	1	0	0	unchanged	0	11193,11194,11195,11196		Broken Alliances
+795	50	40		2	3	0		0	0	unchanged	0			Seal of the Earth
+1106	35	26	1350	3	400	1		0	0	unchanged	0			Martek the Exiled
+1108	39	28	3000	3	400	1		0	0	unchanged	0			Indurium
+1137	38	28	1450	3	400	1		0	0	unchanged	0	6729,6732		News for Fizzle
+1418	35	30	1350	2	8	0		0	0	unchanged	0			Neeka Bloodscar
+1419	40	30	3150	2	3	0		0	0	unchanged	0			Coyote Thieves
+1420	40	30	2350	2	3	0		0	0	unchanged	0			Report to Helgrum
+1559	37	30		3	-201	5		0	0	unchanged	0		6672	Flash Bomb Recipe
+2198	41	37	3300	1	1337	2	81	0	0	unchanged	0			The Shattered Necklace
+2201	43	37	3600	1	1337	2	81	0	0	unchanged	0			Find the Gems
+2202	42	36	3450	2	1337	2	81	0	0	updated	5500		250947	Uldaman Reagent Run
+2203	44	40	3750	2	3	0	1	0	0	unchanged	0			Badlands Reagent Run II
+2204	44	37	930	1	1337	2	81	0	0	unchanged	0			Restoring the Necklace
+2258	39	36	3000	2	3	0		0	0	unchanged	4500			Badlands Reagent Run
+2318	42	37	3450	2	1337	2	81	0	0	unchanged	0			Translating the Journal
+2338	42	37	345	2	1337	2	81	0	0	unchanged	0			Translating the Journal
+2339	44	37	3750	2	1337	2	81	0	0	unchanged	0			Find the Gems and Power Source
+2340	44	37	1850	2	1337	2	81	0	0	unchanged	12500			Deliver the Gems
+2341	44	37	5600	2	1337	2	81	0	0	unchanged	0		7888	Necklace Recovery, Take 3
+2418	36	30	3500	3	1337	2	81	0	0	updated	0	9522,10358,10359,270055		Power Stones
+3821	52	48	5100	2	3	0		0	0	unchanged	0			Dreadmaul Rock
+3822	53	48	5250	2	46	0		0	0	unchanged	0		11869	Krom'Grul
+3906	52	48	5100	2	25	0	81	0	0	unchanged	15500			Disharmony of Flame
+3907	56	48	7300	2	1584	2	81	0	0	unchanged	25500	12113,12114,12112,12115		Disharmony of Fire
+3981	52	48	5100	2	1584	2	81	0	0	unchanged	0			Commander Gor'shak
+4061	54	52	5450	2	46	0		0	0	unchanged	16500			The Rise of the Machines
+4062	54	52	1350	2	3	0		0	0	unchanged	0			The Rise of the Machines
+4063	58	52	6200	2	1584	2	81	0	0	unchanged	26500	12109,12110,12108,12111		The Rise of the Machines
+4081	52	48	5100	2	1584	2	81	0	0	unchanged	15500			KILL ON SIGHT: Dark Iron Dwarves
+4082	54	50	5450	2	1584	2	81	0	0	unchanged	16500			KILL ON SIGHT: High Ranking Dark Iron Officials
+4121	58	52	7750	2	1584	2	81	0	0	unchanged	26500			Precarious Predicament
+4122	58	52	6200	2	1584	2	81	0	0	unchanged	0			Grark Lorkrub
+4132	58	52	7750	2	1584	2	81	0	0	updated	26500		12059	Operation: Death to Angerforge
+4133	55	50	560	2	1584	2	81	0	0	unchanged	0			Vivian Lagrave
+4134	55	50	5650	2	1584	2	81	0	0	updated	8500	11964,12000,270123	3928,6149	Lost Thunderbrew Recipe
+4724	59	55	6400	2	1583	2	81	0	0	unchanged	18000	15824,15825,15827		The Pack Mistress
+4768	60	57	8300	2	1583	2	81	0	0	unchanged	27000	15861,15860		The Darkstone Tablet
+4769	60	57	660	2	1583	2	81	0	0	unchanged	0			Vivian Lagrave and the Darkstone Tablet
+4903	60	55	8300	2	1583	2	81	0	0	unchanged	18000	13958,13959,13961,13962,13963		Warlord's Command
+4941	60	55	6600	2	1637	1		0	0	unchanged	0			Eitrigg's Wisdom
+4981	59	55	6400	2	1583	2	81	0	0	unchanged	0			Operative Bijou
+4983	59	55	6400	2	1583	2	81	0	0	unchanged	18000	15858,15859		Bijou's Reconnaissance Report
+5145	55	40	4200	2	-182	5		0	0	unchanged	0			Dragonscale Leatherworking
+7201	54	48	5450	2	1584	2	81	0	0	updated	24500	12038,270119		The Last Element
+78823	40	26	1550	3	3	0		0	0	updated	2500			Terror of the Desert Skies
+78830	40	26	3900	3	3	0		68	0	updated	10000	277207,277209	211301	Terror of the Desert Skies
+81900	54	45	2700	3	3	0		4	0	updated	4000			The Burning Beast
+94256	60	1		1	16941	0		0	0	new	0			Craftsman's Writ: Frost Protection Potion
+94268	60	1			16941	0		0	0	new	0			Craftsman's Writ: Steel Plate Helm
+94304	60	1			16941	0		0	0	new	0			Craftsman's Writ: Mageweave Bag
+97617	40	35	3150	1	3	0		0	0	new	2500			Safety Checks
+97663	40	34	3150	2	3	0		0	0	new	2500			Supplies and Studies
+97821	42	37	4300	2	3	0	1	0	0	new	4500		277844	Mirage Mirror
+98325	60	55	660	2	1583	2	81	0	0	new	900			Blood and Thunder
