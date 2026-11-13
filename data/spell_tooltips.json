@@ -1,5 +1,5 @@
 {
- "pulled": "2026-11-11",
+ "pulled": "2026-11-12",
  "endpoint": "https://nether.wowhead.com/forever/tooltip/spell/<id>",
  "note": "Cast tooltips are rendered for a level-60 viewer (Rockbiter 194 / 355, Windfury 104 / 221 are the level-60 values). 16281-16284 (Flurry ranks) return 404.",
  "spell_pages": {

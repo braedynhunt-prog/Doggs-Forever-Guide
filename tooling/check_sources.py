@@ -61,7 +61,18 @@ def check_questiedb(src):
 
 def wago_latest(src):
     b = max(get_json(src['upstream']['url'])['wowf'], key=lambda x: x['created_at'])
-    return b['version'], b['created_at']
+    # 13 Nov 2026: wago.tools stamps builds in UTC, pull dates in this repo are local dates. Build 70938 is stamped
+    # 2026-11-13 01:36 UTC (the evening of the 12th here), so pulls made after it on the 12th read as stale. The
+    # stamp is converted to local time before any date comparison. Dates stay day-granular: a pull made earlier on
+    # the same local day as a build still reads as fresh.
+    created = b['created_at']
+    try:
+        import datetime
+        utc = datetime.datetime.strptime(created, '%Y-%m-%d %H:%M:%S').replace(tzinfo=datetime.timezone.utc)
+        created = utc.astimezone().strftime('%Y-%m-%d %H:%M:%S')
+    except ValueError:
+        pass
+    return b['version'], created
 
 
 def check_client(src, latest):

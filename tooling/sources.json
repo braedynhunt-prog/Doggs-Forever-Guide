@@ -127,8 +127,8 @@
    "path": "weights/enh_weights.py (_AGI_PER_CRIT, _INT_CRIT)",
    "source": "foreverdb.net/stats/shaman: per-level Agility-per-1%-crit and Intellect-per-1%-spell-crit for shamans from the Forever client's PlayerExpectedStat table, plus 2 AP per Str (ChrClasses); third-party extraction, cross-checked against Braedyn's character sheet at 21 on 8 Nov 2026",
    "local_read": "\"build\" below (the client build the tables were extracted from, as the page states it)",
-   "build": "1.60.1.70888",
-   "pulled": "2026-11-11",
+   "build": "1.60.1.70938",
+   "pulled": "2026-11-13",
    "upstream": {"method": "GET", "url": "https://foreverdb.net/stats/shaman", "read": "the page's \"build 1.60.1.NNNNN\" label; STALE when it is newer than \"build\""},
    "pull": [
     "read https://foreverdb.net/stats/shaman (levels 1-60 table) and put the 1/5/10/15/20/25/30/60 rows into _AGI_PER_CRIT and _INT_CRIT in weights/enh_weights.py",
@@ -141,8 +141,8 @@
    "path": "weights/enh_weights.py (EARTH_SHOCK, LIGHTNING_SHIELD, HEAL_HP_PER_MANA)",
    "source": "wowforever.wclbox.com shaman spell pages: per-rank Earth Shock, Lightning Shield and Healing Wave values from the Forever client, with a dated beta-update history; third-party",
    "local_read": "\"build\" below",
-   "build": "1.60.1.70888",
-   "pulled": "2026-11-11",
+   "build": "1.60.1.70938",
+   "pulled": "2026-11-13",
    "upstream": {"method": "GET", "url": "https://wowforever.wclbox.com/en/fashu/shaman/shaman-earth-shock", "read": "the header's \"Current build 1.60.1.NNNNN\"; STALE when it is newer than \"build\""},
    "pull": [
     "read the earth-shock, lightning-shield and healing-wave pages; update the rank tables in weights/enh_weights.py if a rank changed",
@@ -155,7 +155,7 @@
    "path": "data/spell_tooltips.json",
    "source": "Wowhead Forever spell tooltips for the Enhancement model (weights/enh_weights.py): Rockbiter 8017-16316, Windfury Weapon 8232/8235/10486/16362, Stormstrike 17364, Improved Stormstrike 1223031, Flurry 16256, Earth Shock 8042-10414, Lightning Shield 324-10432; plus the Spell Details values of eight spell pages (imbue passives, Earth Shock R5 coefficient, Improved Stormstrike rank curve) read in Chrome",
    "local_read": "\"pulled\" in the file",
-   "pulled": "2026-11-11",
+   "pulled": "2026-11-12",
    "upstream": {"method": "GET", "url": "https://nether.wowhead.com/forever/tooltip/spell/<id>", "read": "stale when the newest wowf build's created_at date is after \"pulled\" (a proxy, as for item_tooltips)"},
    "pull": [
     "GET the endpoint for every id in the file with a Mozilla/5.0 User-Agent, one request per second; rewrite data/spell_tooltips.json (\"items\") and set \"pulled\" here and in the file",
