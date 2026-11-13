@@ -15,6 +15,7 @@ file is that list. Layout (plain text, '#' starts a comment):
     == 43 Krol'dok Stronghold | wants 43
     ...
 
+Quest XP is scaled for quests 6 or more levels under the chapter's entry level (80 / 60 / 40 / 20 / 10%).
 Per chapter it prints the counted quests, their XP and money (data\zone_*.json, the Wowhead Forever pull),
 the level on entry and on exit (all XP = quest XP / share), the highest required level among the chapter's
 quests, and a flag when that level is above the predicted level on entry. It also flags: an id with no XP
@@ -51,6 +52,13 @@ def add_xp(level, xp):
         if xp < left: return level + xp / need
         xp -= left; level = float(l + 1)
     return 60.0
+
+
+def scale(player, quest):
+    """Share of a quest's XP paid at a player level: full to 5 levels over the quest, then 80 / 60 / 40 / 20 / 10%
+    (the same steps verify.py's xp check accepts). The table uses the chapter's entry level for every quest in it."""
+    d = player - quest
+    return 1.0 if d <= 5 or not quest else {6: 0.8, 7: 0.6, 8: 0.4, 9: 0.2}.get(d, 0.1)
 
 
 def load_quests():
@@ -124,7 +132,9 @@ def main():
             if qid not in Q: problems.append(f"{qid} ({ch['title']}): no row in data/zone_*.json")
             elif not Q[qid].get('xp'): problems.append(f"{qid} {Q[qid].get('name')} ({ch['title']}): no XP on Wowhead")
             if qid in done: problems.append(f"{qid} ({ch['title']}): already handed in in {done[qid]}")
-        xp = sum((Q.get(q, {}).get('xp') or 0) for q in ch['req'])
+        raw = sum((Q.get(q, {}).get('xp') or 0) for q in ch['req'])
+        xp = sum(round((Q.get(q, {}).get('xp') or 0) * scale(int(level), Q.get(q, {}).get('level') or 0)) for q in ch['req'])
+        low = [q for q in ch['req'] if scale(int(level), Q.get(q, {}).get('level') or 0) < 1]
         mon = sum((Q.get(q, {}).get('money') or 0) for q in ch['req'])
         oxp = sum((Q.get(q, {}).get('xp') or 0) for q in ch['opt'])
         reqs = [(Q.get(q, {}).get('reqlevel') or 0) for q in ch['req']]
@@ -137,6 +147,7 @@ def main():
             late = [q for q in ch['req'] if (Q.get(q, {}).get('reqlevel') or 0) > int(entry)]
             flag = f'  UNDER: needs {maxreq}, enters at {entry:.1f} ({len(late)} quests: {late[:8]})'
         elif wants and int(entry) < wants: flag = f'  UNDER: wants {wants}, enters at {entry:.1f}'
+        if low: flag += f'  SCALED: {len(low)} quests 6+ levels under the entry level pay {raw - xp:,} less ({low[:8]})'
         print(f"{ch['title'][:46]:46} {len(ch['req']):3d} {xp:9,} {money(mon):>9} {cum:9,} {entry:5.1f} {level:5.1f} {maxreq:7d} {oxp:8,}{flag}")
     lo, hi = int(start), int(level) + 1
     print(f'\nrequired quest XP {cum:,}; quest money {money(cum_money)}; optional XP listed {cum_opt:,}; ends at {level:.1f}')
