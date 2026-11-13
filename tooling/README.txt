@@ -193,6 +193,9 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                        produced. 1.0.14 is in git history. Record: docs\audit-2026-11-12.md.
   client\1.60.1.70938\ the twelve tables for the 13 Nov build; diff in client\README.txt.
   route_xp.py          python tooling\route_xp.py <route file> [--share 0.65] [--start 42.0]  /  --table
+                       13 Nov 2026: a chapter line may carry '| zones <map ids>' (the zones the chapter visits); every required quest is then
+                       walked through the chapters (giver, objectives, ender) and a hand-in the route does not reach is a problem. The last
+                       lines give the level with required levels enforced and the quests closed when their chapter is played.
                        Quest XP, quest money and predicted level per chapter from a plain list of quest ids per chapter
                        ("== title | wants N" lines, ids below, "opt:" lines listed but not counted). Flags a chapter whose highest
                        required level is above its predicted entry level, ids without an XP row, ids listed twice and ids the

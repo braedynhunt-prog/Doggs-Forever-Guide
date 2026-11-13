@@ -9,7 +9,7 @@ file is that list. Layout (plain text, '#' starts a comment):
 
     start 42.0                      level on entry to the first chapter (or --start)
     share 0.65                      quest XP as a share of all XP earned (or --share)
-    == 42 Riverglades III | wants 42
+    == 42 Riverglades III | wants 42 | zones 16591
     94881 95064, 96015              required quests, counted
     opt: 94925 95121                optional quests: listed and summed apart, never counted
     == 43 Krol'dok Stronghold | wants 43
@@ -20,6 +20,15 @@ Per chapter it prints the counted quests, their XP and money (data\zone_*.json, 
 the level on entry and on exit (all XP = quest XP / share), the highest required level among the chapter's
 quests, and a flag when that level is above the predicted level on entry. It also flags: an id with no XP
 row, an id listed twice in the file, an id that chapters already written hand in ([QT<id>] in the addon folder).
+
+'zones' on a chapter line lists the map ids of the zones the chapter visits (the keys of the spawn tables in
+tooling/qdb, e.g. 33 Stranglethorn, 1537 Ironforge). When chapters carry it, every required quest is walked through
+the chapters in order: picked up where its giver stands, objectives where their mobs or objects stand, handed in
+where its ender stands. A quest is listed in the chapter that hands it in; a hand-in the route does not reach by
+then is a problem (13 Nov 2026: the first 40-50 plan counted Cortello's Riddle, Seed of Life and eleven more in
+chapters that never reach their enders). 'ok: <ids>' on a line of its own accepts a flagged quest (say why in a comment).
+The last lines walk the route once more with required levels enforced (gated_walk): what the route earns when a
+quest can only be accepted at its required level.
 
 XP_TO_LEVEL is the pre-2.3 table of https://warcraft.wiki.gg/wiki/Experience_to_level ("This table shows the
 experience needed to advance, by level, before Patch 2.3.0"), read in a browser on 12 Nov 2026 (the page
@@ -109,6 +118,73 @@ def prerequisite_problems(chapters, done):
     return out
 
 
+def zone_problems(chapters):
+    """13 Nov 2026: walk every required quest through the zones the chapters visit. Spawn zones come from tooling/qdb
+    (npc row [6], object row [3]; an item's zones are those of its droppers, containers and vendors). An entity with
+    no spawn in the DB is skipped, so this finds faults; it does not prove their absence."""
+    if not any(ch.get('zones') for ch in chapters): return []
+    load = lambda n: json.load(open(os.path.join(gl.BASE, 'tooling', 'qdb', n + '.json'), encoding='utf-8'))
+    Q, N, O, I = load('quest'), load('npc'), load('object'), load('item')
+    def spawn(tab, i, col):
+        r = tab.get(str(i))
+        return {int(z) for z in r[col]} if r and len(r) > col and isinstance(r[col], dict) else set()
+    nz = lambda i: spawn(N, i, 6)
+    oz = lambda i: spawn(O, i, 3)
+    def iz(i):
+        r = I.get(str(i)); z = set()
+        if not r: return z
+        for n in (r[1] or []): z |= nz(n)
+        for o in (r[2] or []): z |= oz(o)
+        for n in ((r[14] or []) if len(r) > 14 else []): z |= nz(n)
+        return z
+    def ent(e):
+        z = set()
+        if not e: return z
+        for n in (e[0] or []): z |= nz(n)
+        for o in ((e[1] or []) if len(e) > 1 else []): z |= oz(o)
+        for it in ((e[2] or []) if len(e) > 2 else []): z |= iz(it)
+        return z
+    zs = [ch.get('zones') or set() for ch in chapters]
+    show = lambda z: '/'.join(str(x) for x in sorted(z))
+    first = lambda z, lo, hi: next((k for k in range(lo, hi + 1) if z & zs[k]), None)
+    out = []
+    for i, ch in enumerate(chapters):
+        for q in ch['req']:
+            r = Q.get(str(q))
+            if not r or q in ch['ok']: continue
+            s, e = ent(r[1]), ent(r[2])
+            msg = []
+            j = first(s, 0, i) if s else 0
+            if j is None: msg.append(f'giver in zone {show(s)}: no chapter up to this one goes there'); j = 0
+            k = j
+            ob = r[9] if len(r) > 9 and r[9] else []
+            for col, fn in ((0, nz), (1, oz), (2, iz)):
+                for x in ((ob[col] or []) if len(ob) > col else []):
+                    z = fn(x[0])
+                    if not z: continue
+                    kk = first(z, j, i)
+                    if kk is None: msg.append(f'objective {x[0]} in zone {show(z)}: not visited between the pickup and this chapter')
+                    else: k = max(k, kk)
+            if e and not (e & zs[i]): msg.append(f'ender in zone {show(e)}: this chapter does not go there')
+            elif e and k > i: msg.append('the objectives come after this chapter')
+            if msg: out.append(f"{q} {r[0]} ({ch['title']}): " + '; '.join(msg))
+    return out
+
+
+def gated_walk(chapters, Q, start, share):
+    """13 Nov 2026: the table above counts a quest whatever its required level. This walks the chapters again and
+    lets a quest in only once the level reached inside its chapter meets its required level (lowest first), so a
+    route that enters chapters under their quests shows what it really earns. Returns (end level, [(chapter, id)])."""
+    level, held = start, []
+    for ch in chapters:
+        todo = sorted(ch['req'], key=lambda q: (Q.get(q, {}).get('reqlevel') or 0))
+        while todo and (Q.get(todo[0], {}).get('reqlevel') or 0) <= int(level):
+            q = todo.pop(0)
+            level = add_xp(level, round((Q.get(q, {}).get('xp') or 0) * scale(int(level), Q.get(q, {}).get('level') or 0)) / share)
+        held += [(ch['title'], q) for q in todo]
+    return level, held
+
+
 def parse(path):
     start, share, chapters = None, None, []
     for raw in open(path, encoding='utf-8').read().splitlines():
@@ -121,11 +197,15 @@ def parse(path):
         if line.startswith('=='):
             title, _, rest = line[2:].partition('|')
             w = re.search(r'wants\s+(\d+)', rest)
-            chapters.append({'title': title.strip(), 'wants': int(w.group(1)) if w else None, 'req': [], 'opt': []})
+            zs = rest.partition('zones')[2].split('|')[0]
+            chapters.append({'title': title.strip(), 'wants': int(w.group(1)) if w else None, 'req': [], 'opt': [],
+                             'zones': {int(x) for x in zs.replace(',', ' ').split() if x.isdigit()}, 'ok': set()})
             continue
         if not chapters: raise SystemExit(f'{path}: quest ids before the first "== chapter" line: {raw}')
         key = 'req'
         if line.lower().startswith('opt:'): key, line = 'opt', line[4:]
+        if line.lower().startswith('ok:'):
+            chapters[-1]['ok'] |= {int(x) for x in line[3:].replace(',', ' ').split() if x.isdigit()}; continue
         chapters[-1][key] += [int(x) for x in re.findall(r'\d+', line)]
     return start, share, chapters
 
@@ -179,9 +259,17 @@ def main():
         if low: flag += f'  SCALED: {len(low)} quests 6+ levels under the entry level pay {raw - xp:,} less ({low[:8]})'
         print(f"{ch['title'][:46]:46} {len(ch['req']):3d} {xp:9,} {money(mon):>9} {cum:9,} {entry:5.1f} {level:5.1f} {maxreq:7d} {oxp:8,}{flag}")
     problems += prerequisite_problems(chapters, done)
+    problems += zone_problems(chapters)
     lo, hi = int(start), int(level) + 1
     print(f'\nrequired quest XP {cum:,}; quest money {money(cum_money)}; optional XP listed {cum_opt:,}; ends at {level:.1f}')
     if hi <= 60: print(f'{lo} -> {hi} needs {bracket(lo, hi):,} XP in all ({round(bracket(lo, hi) * share):,} from quests at this share)')
+    glevel, held = gated_walk(chapters, Q, start, share)
+    if held:
+        hx = sum((Q.get(q, {}).get('xp') or 0) for _, q in held)
+        print(f'with required levels enforced: ends at {glevel:.1f}; {len(held)} quests ({hx:,} XP) cannot be accepted when their chapter is played:')
+        for t in dict.fromkeys(t for t, _ in held):
+            print(f"  {t}: " + ', '.join(f"{q} (needs {Q.get(q, {}).get('reqlevel')})" for tt, q in held if tt == t))
+    else: print(f'with required levels enforced: ends at {glevel:.1f}; every quest can be accepted when its chapter is played')
     if problems:
         print(f'\n{len(problems)} problems:')
         for p in problems: print('  ' + p)
