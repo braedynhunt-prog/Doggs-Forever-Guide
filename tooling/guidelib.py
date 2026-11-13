@@ -266,7 +266,8 @@ def tars(line):
 # character already 24 when chapter 10 ends). It is left out of the Human and Dwarf chains and gets a chain of its own,
 # 'Dwarf+11s' = the Dwarf route with the replaced chapter swapped for the alternate, so check_guide's flow and hearth
 # checks and verify.py --chain Dwarf+11s cover both ways through. CHAIN_RACE names the race whose lines a chain follows.
-ALTERNATES = {'11s_DarkshoreShort.lua': '11_Darkshore.lua'}   # alternate chapter -> the chapter it replaces
+ALTERNATES = {'11s_DarkshoreShort.lua': '11_Darkshore.lua',   # alternate chapter -> the chapter it replaces
+              '11t_SleepingBag.lua': None}                    # None = an optional extra chapter that replaces nothing (chain Dwarf+11t)
 CHAIN_RACE = {}
 def _bn(f): return os.path.basename(f)
 CHAINS = {'Human': lambda f: not _bn(f).startswith('01') and _bn(f) not in ALTERNATES,

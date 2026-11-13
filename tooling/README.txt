@@ -173,7 +173,8 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                        Guidelime map 2521) is a known zone (also in tarcheck.py). baseline_path(): Alliance keeps
                        check_guide_baseline.txt / verify_baseline.txt, any other folder uses *_baseline_<folder>.txt.
                        12 Nov 2026: alternate chapters - ALTERNATES maps an alternate file to the chapter it replaces
-                       (11s_DarkshoreShort.lua -> 11_Darkshore.lua). The Human and Dwarf chains leave alternates out; each alternate
+                       (11s_DarkshoreShort.lua -> 11_Darkshore.lua; 11t_SleepingBag.lua -> None, an optional extra chapter that
+                       replaces nothing, chain Dwarf+11t). The Human and Dwarf chains leave alternates out; each alternate
                        gets its own chain (Dwarf+11s = the Dwarf route with 11 swapped for 11s), which check_guide.py runs for
                        flow and hearth and verify.py takes as --chain Dwarf+11s. gold.py skips the alternate; tarcheck.py,
                        dungeon_loot.py and tugs_diff.py read every file. Variants list their chapters in variant.json, so an
