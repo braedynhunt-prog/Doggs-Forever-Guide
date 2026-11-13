@@ -4,7 +4,6 @@
 1878	OUT	repeatable follow-up of Water Pouch Bounty, 375 XP
 2875	PLAIN	Firebeard's Head 59% on a single named mob: one kill only, then abandon (rule 12)
 82	PLAIN	Centipaar Insect Parts 50.7% (six mob types), five needed, about 10 kills - kept as a plain step with the budget (Braedyn, 13 Nov), because four more Tanaris quests and the silithid chain hang on it
-7721	COND	Water Elemental Core 55.5%, ten needed, about 18 kills: optional under rule 11, kept only if Zorbin's Water Resistant Hat (leather head, +9 Sta +14 Int +8 Spi) is an upgrade when he gets there - the spec makes the gear call
 4141	OUT	Bloodpetal 35.3% - XP-only optional (rule 11); A Visit to Gregan, Haze of Evil and The Videre Elixir go with it
 4503	OUT	Webbed scales 33% - XP-only optional (Shizzle's Muzzle is a leather shoulder at level 50)
 2581	OUT	Blasted Lands turn-in: three-item collection at 30-36% for a one-hour buff item (rule 11)
@@ -213,7 +212,7 @@
 95326	PLAIN	fill (Braedyn, 13 Nov: mix by judgement - a kill budget of about 25 or less on mobs the route passes). One Ruzzgot's Shipment at 29.29% from the Venture Co. Agents (level 39, 19 spawns) at the ledger where We've Been Robbed! ends: budget about 4 kills
 95327	PLAIN	given by Caravaneer Ruzzgot where The Big Payback (95326) ends; with that quest in (fill, 13 Nov) it is counted. No series on Wowhead, so the offer is on the test list
 606	PLAIN	fill (Braedyn, 13 Nov: mix by judgement). Five Mistvale Giblets at 25.76% from Elder Mistvale Gorillas (level 40-41, 28 spawns south of Booty Bay): budget about 19 kills
-609	COND	three named ogres at the Ruins of Aboraz (level 43-44, not elite): Maury's Clubbed Foot 70.4%, Jon-Jon's Golden Spyglass 58.9%, Chucky's Huge Ring 59.4% - one kill each (rule 12), so all three at once is about one in four. Taken in chapter 45, tried in chapter 50, abandoned if a piece is missing
+609	COND	three named ogres at the Ruins of Aboraz (level 43-44, not elite): Maury's Clubbed Foot 70.4%, Jon-Jon's Golden Spyglass 58.9%, Chucky's Huge Ring 59.4% - one kill each (rule 12), so all three at once is about one in four. Taken in chapter 45, tried in chapter 49, abandoned if a piece is missing
 2880	PLAIN	fill (Braedyn, 13 Nov: mix by judgement). Five Troll Tribal Necklaces: Vilebranch Witch Doctor 51% and Axe Thrower 32% (level 45-47, not elite) stand at the Altar of Zul, where The Altar of Zul takes him anyway: budget about 13-17 kills
 89001	PLAIN	fill (Braedyn, 13 Nov: mix by judgement). Five Mosshoof Hides: Mosshoof Runner 45% (81 of 180; level 45-47, 29 spawns near Talrendis Point): budget about 11 kills; leave the level 52-53 Coursers
 98233	PLAIN	fill (Braedyn, 13 Nov: mix by judgement). Jameson's Training Sword 35.34% from Corrosive Swamp Oozes (level 38-40) beside Tabetha's farm, where Tiara of the Deep takes him anyway: budget about 3 kills; Guard Jameson is in Theramore
@@ -222,3 +221,5 @@
 594	COND	the bottle on the Stranglethorn beach starts it and it needs level 45; the Cape chapter is played at about 44: taken only if he is 45 by then
 3444	LATER	follows The Sunken Temple (3445), which needs level 46 at Feathermoon and is left for round 3 (13 Nov level check)
 613	OUT	Maury's Key 4.2% from the Mosh'Ogg ogres, all ranked elite (drop_rates.json 12 Nov) - rules 12 and 13; it stays out although Voodoo Dues in front of it is a conditional try
+7721	OUT	needs level 45 at Feathermoon, where the route stands at about 44; and Zorbin's Water Resistant Hat (43.7) is no upgrade over the heads he holds by then (Saltseer's Helm 48.8; the Engineer's Guild Headpiece 75.0 follows in Zul'Farrak) - rule 11 (chapter 50 spec, 13 Nov)
+2865	DUN-normal	a collection, not a boss item: five Uncracked Scarab Shells from the Scarabs (level 44-46, not elite) at 36.15%, about 14 kills inside the one run; abandon if short (chapter 51 spec, 13 Nov)

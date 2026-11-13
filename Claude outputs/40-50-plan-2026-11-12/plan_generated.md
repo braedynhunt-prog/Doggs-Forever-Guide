@@ -12,7 +12,7 @@
 | 47 | Feralas I | 43 | 12 | 18,725 | 1g 75s | 43.2 | 43.4 | 40 | 12,200 |
 | 48 | The Hinterlands | 45 | 6 | 23,350 | 1g 15s | 43.4 | 43.8 | 40 | 15,500 |
 | 49 | Nethergarde and the Cape of Stranglethorn | 45 | 5 | 19,400 | 50s | 43.8 | 44.0 | 40 | 10,250 |
-| 50 | Feralas II | 46 | 9 | 31,255 | 55s | 44.0 | 44.5 | 44 | 9,100 |
+| 50 | Feralas II | 46 | 9 | 31,255 | 55s | 44.0 | 44.5 | 44 | 4,700 |
 | 51 | Zul'Farrak (dungeon) | 46 | 4 | 19,200 | 65s | 44.5 | 44.7 | 40 | 11,405 |
 | 52 | Tabetha, Nethergarde, the crater and the Searing Gorge | 45 | 19 | 61,010 | 9g 00s | 44.7 | 45.6 | 45 | 0 |
 | 53 | Tanaris II and Uldum | 47 | 12 | 45,130 | 1g 95s | 45.6 | 46.1 | 45 | 9,850 |
@@ -20,7 +20,7 @@
 | 55 | Darnassus and Azshara | 47 | 24 | 89,155 | 5g 73s | 46.5 | 47.5 | 47 | 79,850 |
 | 56 | Un'Goro Crater | 48 | 19 | 76,780 | 2g 45s | 47.5 | 48.4 | 50 | 5,650 |
 | 57 | Ironforge: the round's hand-ins | 48 | 3 | 12,770 | 2g 20s | 48.4 | 48.6 | 45 | 0 |
-| | **total** | | 146 | **499,160** | 35g 53s | 42.0 | **48.6** | | 215,400 |
+| | **total** | | 146 | **499,160** | 35g 53s | 42.0 | **48.6** | | 211,000 |
 
 ## Chapters
 
@@ -176,13 +176,13 @@ From Ironforge (Tabetha's Task from Bink for chapter 50) to Stormwind: Rhapsody'
 - 2990 Thadius Grimshade (L47, req 40) 2,100
 
 **Optional / conditional:**
-- 609 Voodoo Dues (L44, req 30) 3,750 [conditional] - three named ogres at the Ruins of Aboraz (level 43-44, not elite): Maury's Clubbed Foot 70.4%, Jon-Jon's Golden Spyglass 58.9%, Chucky's Huge Ring 59.4% - one kill each (rule 12), so all three at once is about one in four. Taken in chapter 45, tried in chapter 50, abandoned if a piece is missing
+- 609 Voodoo Dues (L44, req 30) 3,750 [conditional] - three named ogres at the Ruins of Aboraz (level 43-44, not elite): Maury's Clubbed Foot 70.4%, Jon-Jon's Golden Spyglass 58.9%, Chucky's Huge Ring 59.4% - one kill each (rule 12), so all three at once is about one in four. Taken in chapter 45, tried in chapter 49, abandoned if a piece is missing
 - 95385 Torn Mystical Scroll (L43, req 35) 3,600 [conditional] - no giver: probably starts from a dropped item (ends at npc 260873); taken only if the item drops
 - 594 Message in a Bottle (L45, req 45) 2,900 [conditional] - the bottle on the Stranglethorn beach starts it and it needs level 45; the Cape chapter is played at about 44: taken only if he is 45 by then
 
 ### 50 Feralas II
 
-File `50_FeralasII.lua`, title `[N 44-45 Feralas]`. Wants level **46**; predicted 44.0 -> 44.5. 9 required quests, 31,255 XP, 55s; optional 9,100 XP.
+File `50_FeralasII.lua`, title `[N 44-45 Feralas]`. Wants level **46**; predicted 44.0 -> 44.5. 9 required quests, 31,255 XP, 55s; optional 4,700 XP.
 
 Ratchet - Theramore by flight. Sword in the Slime from Guard Jameson, then the ride to Tabetha's farm (Dustwallow 46.1,57.1): Tabetha's Task in, Tiara of the Deep out, and the oozes beside the farm for Jameson's sword (35%, about three kills); back to Theramore and on by flight to Thalanaar and Feathermoon. Quest levels 46-51 on required levels up to 44: the Writhing Deep, Doling Justice, the Feathermoon library errands, the giants. Predicted entry is two levels under the mobs: the spec orders the legs by mob level. Doling Justice, Rise of the Silithid and In Search of Knowledge are carried to Darnassus (chapter 55). The Sunken Temple needs level 46 at Feathermoon and is left for round 3 with The Stone Circle; the Sprite Darter chain's tail (An Orphan Looking For a Home onward) runs to Thousand Needles and the Hinterlands after Darnassus and is left for round 3.
 
@@ -199,7 +199,6 @@ Ratchet - Theramore by flight. Sword in the Slime from Guard Jameson, then the r
 
 **Optional / conditional:**
 - 95555 Corrupted Nature (L50, req 40) 4,700 [conditional] - no giver and no side on Wowhead; taken only if it is offered
-- 7721 Fuel for the Zapping (L48, req 45) 4,400 [conditional] - Water Elemental Core 55.5%, ten needed, about 18 kills: optional under rule 11, kept only if Zorbin's Water Resistant Hat (leather head, +9 Sta +14 Int +8 Spi) is an upgrade when he gets there - the spec makes the gear call
 
 ### 51 Zul'Farrak (dungeon)
 
@@ -209,7 +208,7 @@ Required dungeon chapter, one run. Feathermoon - Thalanaar - Gadgetzan by flight
 
 **Required:**
 - 3520 Screecher Spirits (L44, req 40) 3,750 [mobs to 1]
-- 2865 Scarab Shells (L45, req 40) 3,900 [normal (boss item, one kill)] [mobs to 46]
+- 2865 Scarab Shells (L45, req 40) 3,900 [normal] [mobs to 46]
 - 2768 Divino-matic Rod (L47, req 40) 6,300 [normal (boss item, one kill)] [mobs to 45]
 - 3527 The Prophecy of Mosh'aru (L47, req 40) 5,250 [normal (boss item, one kill)] [mobs to 46]
 
@@ -404,7 +403,6 @@ The best usable reward of each kept quest, top five per slot. The specs turn the
 | Hands | 48.5 | Witherseed Gloves (+13 Spi +8 SP) | 5863 The Dunemaul Compound | 53 |
 | Hands | 33.7 | Grotslab Gloves (+12 Agi +12 Int) | 4501 Beware of Pterrordax | 56 |
 | Head | 75.0 | Engineer's Guild Headpiece (+22 Spi +10 SP) | 2768 Divino-matic Rod [normal (boss item, one kill)] | 51 |
-| Head | 43.7 | Zorbin's Water Resistant Hat (+9 Sta +14 Int +8 Spi) | 7721 Fuel for the Zapping [conditional] | 50 |
 | Head | 23.7 | Dudd's Thinkin' Cap (+10 Sta +14 Int) | 95385 Torn Mystical Scroll [conditional] | 49 |
 | Legs | 58.5 | Treetop Leggings (+8 Sta +8 Int +18 Spi) | 4491 A Little Help From My Friends | 56 |
 | Main Hand | 480.0 | Truesong's Hammer (32.9 dps +10 Str) | 88813 The Head of the Serpent [conditional] | 55 |
@@ -506,6 +504,27 @@ Round-2 zones only; quests below the bracket that were only looked at as prerequ
 - chain behind 3463 Set Them Ablaze!: 3481 Trinkets... (470)
 - no giver, no side, no XP: 93162 Head of the Obliterator (0)
 
+**Feralas** (19 quests, 61,360 XP)
+- chain behind Muigin and Larion: 3909 The Videre Elixir (5,100)
+- chain behind 2943 Return to Troyas: 2879 The Stave of Equinex (4,700)
+- chain behind 2879 The Stave of Equinex: 2942 The Morrow Stone (4,700)
+- elite outside a dungeon (rule 13): Ohk'zi (43 elite); the staff scores 501.5: 92858 WANTED: Ohk'zi (4,450)
+- elite outside a dungeon (rule 13): Gammerita (48 elite): 2944 The Super Snapper FX (4,400)
+- elite outside a dungeon (rule 13): Land Walker (49 elite), Cliff Giant (50 elite), Shore Strider (49 elite), Deep Strider (49 elite): 7003 Zapped Giants (4,400)
+- needs level 45 at Feathermoon, where the route stands at about 44; and Zorbin's Water Resistant Hat (43.7) is no upgrade over the heads he holds by then (Saltseer's Helm 48.8; the Engineer's Guild Headpiece 75.0 follows in Zul'Farrak) - rule 11 (chapter 50 spec, 13 Nov): 7721 Fuel for the Zapping (4,400)
+- drop under 30%: Rage Scar Yeti Hide 24.4% (4 droppers, best Rage Scar Yeti 27% of 156): 7733 Improved Quality (4,400)
+- drop under 30%: Silvermane Stalker Flank 0.22% (drop_rates.json 11 Nov): 4297 Food for Baby (4,200)
+- drop under 30%: Thick Yeti Hide 25.5% (5 droppers, best Bloodroar the Stalker 50% of 8): 2821 The Mark of Quality (4,050)
+- chain behind 2870 Against Lord Shalzaru: 2871 Delivering the Relic (3,900)
+- chain behind 2944 The Super Snapper FX: 2943 Return to Troyas (3,300)
+- chain behind 2869 Against the Hatecrest: 2870 Against Lord Shalzaru (2,900)
+- drop under 30%: Hatecrest Naga Scale 13.3% (9 droppers, best Lady Szallah 200% of 1): 2869 Against the Hatecrest (2,700)
+- chain behind 2821 The Mark of Quality: 7735 Pristine Yeti Hide (2,200)
+- chain behind 7003 Zapped Giants: 7725 Again With the Zapped Giants (560)
+- repeatable follow-up of Fuel for the Zapping, 560 XP: 7726 Refuel for the Zapping (560)
+- chain behind 4297 Food for Baby: 4298 Becoming a Parent (440)
+- no XP, nothing kept behind it: 4041 The Videre Elixir (0)
+
 **Badlands** (19 quests, 57,250 XP)
 - behind Tremors of the Earth (732); the Badlands trip is dropped (Braedyn, 13 Nov): with Forbidden Knowledge out and the Black Box unsourced it held one required quest: 717 Tremors of the Earth (5,900)
 - elite outside a dungeon (rule 13): Grel'borg the Miser (39 elite), Dagun the Ravenous (43 elite), Mogh the Undying (44 elite): 735 The Star, the Hand and the Heart (5,600)
@@ -525,26 +544,6 @@ Round-2 zones only; quests below the bracket that were only looked at as prerequ
 - drop-start from Tho'grun's Dustbelchers (about 6-14%); the Badlands trip is dropped (Braedyn, 13 Nov): with Forbidden Knowledge out and the Black Box unsourced it held one required quest: 78823 Terror of the Desert Skies (1,550)
 - chain behind 734 This Is Going to Be Hard: 777 This Is Going to Be Hard (0)
 - no XP, nothing kept behind it: 779 Seal of the Earth (0)
-
-**Feralas** (18 quests, 56,960 XP)
-- chain behind Muigin and Larion: 3909 The Videre Elixir (5,100)
-- chain behind 2943 Return to Troyas: 2879 The Stave of Equinex (4,700)
-- chain behind 2879 The Stave of Equinex: 2942 The Morrow Stone (4,700)
-- elite outside a dungeon (rule 13): Ohk'zi (43 elite); the staff scores 501.5: 92858 WANTED: Ohk'zi (4,450)
-- elite outside a dungeon (rule 13): Gammerita (48 elite): 2944 The Super Snapper FX (4,400)
-- elite outside a dungeon (rule 13): Land Walker (49 elite), Cliff Giant (50 elite), Shore Strider (49 elite), Deep Strider (49 elite): 7003 Zapped Giants (4,400)
-- drop under 30%: Rage Scar Yeti Hide 24.4% (4 droppers, best Rage Scar Yeti 27% of 156): 7733 Improved Quality (4,400)
-- drop under 30%: Silvermane Stalker Flank 0.22% (drop_rates.json 11 Nov): 4297 Food for Baby (4,200)
-- drop under 30%: Thick Yeti Hide 25.5% (5 droppers, best Bloodroar the Stalker 50% of 8): 2821 The Mark of Quality (4,050)
-- chain behind 2870 Against Lord Shalzaru: 2871 Delivering the Relic (3,900)
-- chain behind 2944 The Super Snapper FX: 2943 Return to Troyas (3,300)
-- chain behind 2869 Against the Hatecrest: 2870 Against Lord Shalzaru (2,900)
-- drop under 30%: Hatecrest Naga Scale 13.3% (9 droppers, best Lady Szallah 200% of 1): 2869 Against the Hatecrest (2,700)
-- chain behind 2821 The Mark of Quality: 7735 Pristine Yeti Hide (2,200)
-- chain behind 7003 Zapped Giants: 7725 Again With the Zapped Giants (560)
-- repeatable follow-up of Fuel for the Zapping, 560 XP: 7726 Refuel for the Zapping (560)
-- chain behind 4297 Food for Baby: 4298 Becoming a Parent (440)
-- no XP, nothing kept behind it: 4041 The Videre Elixir (0)
 
 **Riverglades** (13 quests, 46,200 XP)
 - elite outside a dungeon (rule 13): Overlord Kilgar (46 elite): 94890 Bring Me His Head (5,050)

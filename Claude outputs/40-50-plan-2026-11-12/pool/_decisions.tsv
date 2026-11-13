@@ -27,7 +27,7 @@
 10	1395	Supplies for Nethergarde	45	40	2900	5000	PLAIN			0	
 1176	96770	The Witch Doctor's Head	46	39	5050	13000	DUN-boss	Zum'rah's Head: one boss (two NPC ids), 28% on Wowhead over all kills	DUNGEON DROP	46	
 1176	2864	Tran'rek	45	40	390	0	DUN-normal		DUNGEON	0	
-1176	2865	Scarab Shells	45	40	3900	6500	DUN-boss	held by one mob or boss; Wowhead reads Uncracked Scarab Shell 36.15% over all kills, quest or not	DUNGEON DROP	46	
+1176	2865	Scarab Shells	45	40	3900	6500	DUN-normal	a collection, not a boss item: five Uncracked Scarab Shells from the Scarabs (level 44-46, not elite) at 36.15%, about 14 kills inside the one run; abandon if short (chapter 51 spec, 13 Nov)	DUNGEON DROP	46	
 1176	3042	Troll Temper	45	40	3900	19500	DUN-grind	Troll Temper 15.6% from 18 mob types	DUNGEON DROP	48	
 1176	2846	Tiara of the Deep	46	40	6050	6500	DUN-boss	held by one mob or boss; Wowhead reads Tiara of the Deep 43.09% over all kills, quest or not	DUNGEON DROP	46	Two-Hand 495.0 Spellshifter Rod (27.6 dps +6 Sta +17 Int +40 SP)
 1176	2861	Tabetha's Task	46	40	405	0	DUN-normal		DUNGEON	0	
@@ -289,7 +289,7 @@
 33	600	Venture Company Mining	41	30	3300	0	OUT	drop under 30%: Singing Blue Crystal 29.6% (6 droppers, best Venture Co. Foreman 38% of 213)	DROP	42	Two-Hand 459.5 Silver Spade (30.1 dps +4 Sta +15 Spi)
 33	606	Scaring Shaky	41	30	3300	0	PLAIN	fill (Braedyn, 13 Nov: mix by judgement). Five Mistvale Giblets at 25.76% from Elder Mistvale Gorillas (level 40-41, 28 spawns south of Booty Bay): budget about 19 kills	DROP	41	
 33	607	Return to MacKinley	41	30	2450	4000	PLAIN			0	
-33	609	Voodoo Dues	44	30	3750	6500	COND	three named ogres at the Ruins of Aboraz (level 43-44, not elite): Maury's Clubbed Foot 70.4%, Jon-Jon's Golden Spyglass 58.9%, Chucky's Huge Ring 59.4% - one kill each (rule 12), so all three at once is about one in four. Taken in chapter 45, tried in chapter 50, abandoned if a piece is missing	DROP	44	
+33	609	Voodoo Dues	44	30	3750	6500	COND	three named ogres at the Ruins of Aboraz (level 43-44, not elite): Maury's Clubbed Foot 70.4%, Jon-Jon's Golden Spyglass 58.9%, Chucky's Huge Ring 59.4% - one kill each (rule 12), so all three at once is about one in four. Taken in chapter 45, tried in chapter 49, abandoned if a piece is missing	DROP	44	
 33	613	Cracking Maury's Foot	44	30	4650	0	OUT	Maury's Key 4.2% from the Mosh'Ogg ogres, all ranked elite (drop_rates.json 12 Nov) - rules 12 and 13; it stays out although Voodoo Dues in front of it is a conditional try	GROUP DROP ELITE	45	Legs 58.0 Beggar's Leggings (+12 Spi +14 SP)
 33	206	Mai'Zoth	46	30	5050	0	OUT	chain behind 205 Troll Witchery (drop under 30%: Skullsplitter Fetish 17.)	GROUP DROP ELITE	47	Legs 19.0 Archer's Leggings (+17 Agi +6 Sta)
 33	95384	Partial Mystical Notes	40	32	3150	5000	COND	no giver: probably starts from a dropped item (ends at npc 260873); taken only if the item drops	NOSTART DROP	40	
@@ -366,7 +366,7 @@
 357	2844	The Giant Guardian	49	44	3400	0	PLAIN			0	
 357	2845	Wandering Shay	49	44	4550	0	PLAIN			0	Waist 28.0 Vinehedge Cinch (+14 Str +3 Sta)
 357	7003	Zapped Giants	48	45	4400	7000	OUT	elite outside a dungeon (rule 13): Land Walker (49 elite), Cliff Giant (50 elite), Shore Strider (49 elite), Deep Strider (49 elite)	DROP	50	
-357	7721	Fuel for the Zapping	48	45	4400	7000	COND	Water Elemental Core 55.5%, ten needed, about 18 kills: optional under rule 11, kept only if Zorbin's Water Resistant Hat (leather head, +9 Sta +14 Int +8 Spi) is an upgrade when he gets there - the spec makes the gear call	DROP	49	Head 43.7 Zorbin's Water Resistant Hat (+9 Sta +14 Int +8 Spi)
+357	7721	Fuel for the Zapping	48	45	4400	7000	OUT	needs level 45 at Feathermoon, where the route stands at about 44; and Zorbin's Water Resistant Hat (43.7) is no upgrade over the heads he holds by then (Saltseer's Helm 48.8; the Engineer's Guild Headpiece 75.0 follows in Zul'Farrak) - rule 11 (chapter 50 spec, 13 Nov)	DROP	49	Head 43.7 Zorbin's Water Resistant Hat (+9 Sta +14 Int +8 Spi)
 357	7725	Again With the Zapped Giants	55	45	560	2100	OUT	chain behind 7003 Zapped Giants (elite outside a dungeon (rule 13): Land )	DROP	50	
 357	7726	Refuel for the Zapping	55	45	560	2100	OUT	repeatable follow-up of Fuel for the Zapping, 560 XP	DROP	49	
 357	3445	The Sunken Temple	51	46	3650	0	LATER	needs level 46 and is given at Feathermoon (Angelas Moonbreeze), which the route leaves at about 44.5; with The Stone Circle behind it, round 3 (13 Nov level check)		0	
