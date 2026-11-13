@@ -22903,6 +22903,64 @@
    ],
    "overall_pct": 0.76,
    "note": "overall_pct is per pirate kill: 13.45% of footlockers x 5.67% of pirates"
+  },
+  "11818": {
+   "name": "Grimesilt Outhouse Key",
+   "quests": [
+    4451
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-13; starts The Key to Freedom",
+   "npcs": [
+    {
+     "id": 15692,
+     "name": "Dark Iron Kidnapper",
+     "count": 105,
+     "outof": 2083
+    },
+    {
+     "id": 5844,
+     "name": "Dark Iron Slaver",
+     "count": 37,
+     "outof": 659
+    },
+    {
+     "id": 5846,
+     "name": "Dark Iron Taskmaster",
+     "count": 26,
+     "outof": 588
+    },
+    {
+     "id": 8566,
+     "name": "Dark Iron Lookout",
+     "count": 12,
+     "outof": 330
+    },
+    {
+     "id": 5840,
+     "name": "Dark Iron Steamsmith",
+     "count": 17,
+     "outof": 239
+    },
+    {
+     "id": 8504,
+     "name": "Dark Iron Sentry",
+     "count": 5,
+     "outof": 62
+    }
+   ],
+   "overall_pct": 5.1
+  },
+  "11116": {
+   "name": "A Mangled Journal",
+   "quests": [
+    3884
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-13; pooled over the 44 droppers with a sample (per-mob rows not stored); starts Williden's Journal",
+   "pooled": {
+    "count": 4684,
+    "outof": 484568
+   },
+   "overall_pct": 0.97
   }
  }
 }
