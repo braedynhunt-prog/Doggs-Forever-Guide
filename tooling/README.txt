@@ -185,3 +185,17 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                        folder; an edit under tooling\variants\<v>\ rebuilds that variant and checks it, but only once
                        guide\<folder>\ exists (the first real build is run by hand)
   ..\weights\hunter_score.py   pinned to guide\Guidelime_ForeverShaman (was the first Guidelime_Forever* match)
+
+12 Nov 2026 - round 2 (40-50) data refresh
+  qdb\                 refreshed to QuestieDB Forever 1.0.16 (bundle v12.8.0+v1.0.16, 12 Nov): nothing removed, +211 quests (5,893),
+                       576 quest rows changed (starter / finisher links), 1,769 npc rows (levels, ranks, spawns), 805 item rows (drop
+                       sources). verify.py went from 202 to 65 findings; verify_baseline.txt was pruned of the 139 lines no longer
+                       produced. 1.0.14 is in git history. Record: docs\audit-2026-11-12.md.
+  client\1.60.1.70938\ the twelve tables for the 13 Nov build; diff in client\README.txt.
+  route_xp.py          python tooling\route_xp.py <route file> [--share 0.65] [--start 42.0]  /  --table
+                       Quest XP, quest money and predicted level per chapter from a plain list of quest ids per chapter
+                       ("== title | wants N" lines, ids below, "opt:" lines listed but not counted). Flags a chapter whose highest
+                       required level is above its predicted entry level, ids without an XP row, ids listed twice and ids the
+                       written chapters already hand in. Holds the pre-2.3 XP-per-level table 1-60 from warcraft.wiki.gg
+                       (30-40 655,400; 40-50 1,151,700; 50-60 1,778,600). RULES.md rule 14: a plan's XP table is this tool's
+                       output on the list the plan prints. The table in tugs_diff.py is the later 2.3 one; do not reuse it.
