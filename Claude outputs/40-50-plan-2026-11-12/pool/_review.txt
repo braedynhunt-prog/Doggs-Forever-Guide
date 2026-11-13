@@ -48,13 +48,12 @@
 16 86804 An Unlikely Source L53 req47 xp 3950 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
 16 86812 Transmuted Tincture L53 req47 xp 3950 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
 16 86813 Potential Panacea L53 req47 xp 2650 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance | best reward: Shoulder 41.7 Amice of Sorrow [Cloth] +14 Int +9 SP
-16 86814 Blackmaw Counter-Offensive L55 req47 xp 7050 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance | best reward: Feet 52.0 Hippogryph Hide Boots [Mail] +17 Str +9 Sta +9 SP
 16 86925 Toil and Trouble L53 req47 xp 5250 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
 16 86926 Felfire Burn, Cauldron Bubble L53 req47 xp 5250 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
 16 86927 Running Firewater L53 req47 xp 5250 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
-16 87346 Chieftain Bloodmaw L55 req47 xp 5650 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
 16 88812 Reclaiming Ravencrest L55 req47 xp 5650 | Wowhead's series puts it after 88809 Preserving Eldarath, which is out: taken only if it is offered
 16 88813 The Head of the Serpent L55 req47 xp 5650 | Wowhead's series puts it after 88812 Reclaiming Ravencrest, which is cond: taken only if it is offered | best reward: Main Hand 480.0 Truesong's Hammer [Mace] 32.9 dps +10 Str
+16 89228 Winter Frontier Fishery L48 req45 xp 4400 | asks for Raw Winter Squid (item 13755), which has no source in the data; in Classic it is fished, and only in the winter months. Taken only if he can fish it at Talrendis (fishing stops are optional, rule 5); abandon otherwise
 16 90813 Pay Dirt! L53 req50 xp 6550 | Alliance on Wowhead, required level 50, no giver known (ends at Berdun Cliffbrew, Azshara 12.6,77.4)
 16591 94891 News to Farholde L46 req38 xp 4050 | Wowhead's series puts it after 94890 Bring Me His Head, which is out: taken only if it is offered
 16591 94893 Delivering Closure L47 req36 xp 4200 | offered only if the optional 94892 Dying Wish was done in chapter 40 (Wowhead series)
@@ -84,9 +83,12 @@
 440 351 Find OOX-17/TN! L48 req43 xp 4400 | starts from the OOX-17/TN Distress Beacon: 0.41% per kill over 82 Tanaris mob types (Wowhead item page, 1,085 of 263,968 kills, 13 Nov) - rule 12. Taken only if the beacon drops; the rescue is handed in at Booty Bay
 440 648 Rescue OOX-17/TN! L48 req43 xp 5450 | behind 351 Find OOX-17/TN!, which is conditional | best reward: Wrist 23.7 Reloading Assist Armbands [Mail] +10 Agi +5 Spi
 440 2876 Ship Schedules L45 req40 xp 4850 | starts from the Ship Schedule, found in 13.4% of Pirate's Footlockers (80 of 595), which 5.6% of the Southsea pirates drop (609 of 10,817; Wowhead item pages 13 Nov): about 0.75% per kill - rule 12. Taken only if it turns up while killing pirates for the other quests
+440 97540 Oasis L50 req40 xp 3550 | Wowhead (13 Nov): 'Show the newly quenched Tooga the way back to his wife, Torta', given by Tooga, side not stated, no objective in the data - it reads as a second version of Tooga's Quest (1560), which is counted. Taken only if Tooga offers both
 47 485 Find OOX-09/HL! L48 req43 xp 4400 | starts from the OOX-09/HL Distress Beacon: 0.58% per kill over 49 Hinterlands mob types (Wowhead item page, 509 of 87,752 kills, 13 Nov) - rule 12. Taken only if the beacon drops; the rescue is handed in at Booty Bay
 47 836 Rescue OOX-09/HL! L48 req43 xp 5450 | behind 485 Find OOX-09/HL!, which is conditional | best reward: Feet 30.9 Gnomish Inventor Boots [Cloth] +7 Sta +2 Int +11 Spi
+490 3884 Williden's Journal L50 req48 xp 3550 | starts from A Mangled Journal: 0.97% per kill over 44 Un'Goro mob types (4,684 of 484,568, Wowhead item page 13 Nov), and the item needs level 48 - rule 12. Taken only if the journal has dropped
 490 87494 Microcrystal Contamination L55 req45 xp 5650 | no giver in the DB or on Wowhead (ends at Torwa Pathfinder) | best reward: Waist 37.3 Crystal-flecked Waistguard [Mail] +6 Str +15 Int
+51 3377 Prayer to Elune L50 req40 xp 470 | 470 XP hand-in at Zamael Lunthistle, who stands 0.2-0.6 units from level 48-51 elite Twilight mobs in the DB (chapter 52 spec, 13 Nov): only if he can be reached
 
 == GATE
 -101 6607 Nat Pagle, Angler Extreme L45 req35 xp 3900 | Artisan Fishing: Nat Pagle, only at Fishing 225
@@ -109,6 +111,8 @@
 1537 5090 A Call to Arms: The Plaguelands! L50 req50 xp 470 | Western Plaguelands lead-in, required level 50: round 3
 1584 3801 Dark Iron Legacy L52 req48 xp 510 | Blackrock Depths: round 3
 1584 3802 Dark Iron Legacy L52 req48 xp 5100 | Blackrock Depths: round 3
+16 86814 Blackmaw Counter-Offensive L55 req47 xp 7050 | starts at Gorn One Eye (npc 11555) in Felwood (Wowhead start, chapter 55 spec 13 Nov): round 3 | best reward: Feet 52.0 Hippogryph Hide Boots [Mail] +17 Str +9 Sta +9 SP
+16 87346 Chieftain Bloodmaw L55 req47 xp 5650 | starts at Gorn One Eye (npc 11555) in Felwood 65.2,2.7 (Wowhead start, chapter 55 spec 13 Nov); no round-2 chapter goes to Felwood: round 3
 16 92345 Beneath Nordrassil L55 req45 xp 560 | ends at Darnassus (npc 4217) after Azshara; the Darnassus stop comes before Azshara. 560 XP, carried to round 3 (13 Nov zone check)
 1657 3763 Assisting Arch Druid Staghelm L50 req47 xp 470 | Morrowgrain chain (Darnassus, Un'Goro soil): round 3 with the rest of Un'Goro
 1657 3764 Un'Goro Soil L50 req47 xp 4700 | Morrowgrain chain: round 3

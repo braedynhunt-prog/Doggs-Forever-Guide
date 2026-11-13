@@ -14,13 +14,13 @@
 | 49 | Nethergarde and the Cape of Stranglethorn | 45 | 5 | 19,400 | 50s | 43.8 | 44.0 | 40 | 10,250 |
 | 50 | Feralas II | 46 | 9 | 31,255 | 55s | 44.0 | 44.5 | 44 | 4,700 |
 | 51 | Zul'Farrak (dungeon) | 46 | 4 | 19,200 | 65s | 44.5 | 44.7 | 40 | 11,405 |
-| 52 | Tabetha, Nethergarde, the crater and the Searing Gorge | 45 | 19 | 61,010 | 9g 00s | 44.7 | 45.6 | 45 | 0 |
-| 53 | Tanaris II and Uldum | 47 | 12 | 45,130 | 1g 95s | 45.6 | 46.1 | 45 | 9,850 |
-| 54 | Maraudon (dungeon) | 48 | 5 | 25,900 | 1g 40s | 46.1 | 46.5 | 45 | 8,700 |
-| 55 | Darnassus and Azshara | 47 | 24 | 89,155 | 5g 73s | 46.5 | 47.5 | 47 | 79,850 |
-| 56 | Un'Goro Crater | 48 | 19 | 76,780 | 2g 45s | 47.5 | 48.4 | 50 | 5,650 |
-| 57 | Ironforge: the round's hand-ins | 48 | 3 | 12,770 | 2g 20s | 48.4 | 48.6 | 45 | 0 |
-| | **total** | | 146 | **499,160** | 35g 53s | 42.0 | **48.6** | | 211,000 |
+| 52 | Tabetha, Nethergarde, the crater and the Searing Gorge | 45 | 18 | 60,540 | 9g 00s | 44.7 | 45.5 | 45 | 470 |
+| 53 | Tanaris II and Uldum | 47 | 11 | 41,580 | 1g 95s | 45.5 | 46.1 | 45 | 13,400 |
+| 54 | Maraudon (dungeon) | 48 | 5 | 25,900 | 1g 40s | 46.1 | 46.4 | 45 | 8,700 |
+| 55 | Darnassus and Azshara | 47 | 23 | 84,755 | 5g 03s | 46.4 | 47.4 | 47 | 71,550 |
+| 56 | Un'Goro Crater | 48 | 18 | 73,230 | 2g 45s | 47.4 | 48.3 | 50 | 9,200 |
+| 57 | Ironforge: the round's hand-ins | 48 | 3 | 12,770 | 2g 20s | 48.3 | 48.4 | 45 | 0 |
+| | **total** | | 142 | **487,190** | 34g 83s | 42.0 | **48.4** | | 210,270 |
 
 ## Chapters
 
@@ -219,7 +219,7 @@ Required dungeon chapter, one run. Feathermoon - Thalanaar - Gadgetzan by flight
 
 ### 52 Tabetha, Nethergarde, the crater and the Searing Gorge
 
-File `52_SearingGorge.lua`, title `[N 44-46 Searing Gorge]`. Wants level **45**; predicted 44.7 -> 45.6. 19 required quests, 61,010 XP, 9g 00s; optional 0 XP.
+File `52_SearingGorge.lua`, title `[N 44-46 Searing Gorge]`. Wants level **45**; predicted 44.7 -> 45.5. 18 required quests, 60,540 XP, 9g 00s; optional 470 XP.
 
 The eastern trip that the required levels force (13 Nov): the Searing Gorge quests and the Explorers' League chains need level 45, which the route reaches here and not before. Gadgetzan - Theramore: Tiara of the Deep to Tabetha. The Menethil boat, Ironforge, Stormwind - Nethergarde Keep: Nekrum's Medallion to Thadius Grimshade and The Divination (Return to the Hinterlands is left for round 3). Southshore and the Dalaran crater: The Witch Doctor's Head. Then the Searing Gorge on foot (Thorium Point's flight point is not known; which pass is open on Forever is unverified): the Suntara Stones and Caught! / The Key to Freedom first (required level 40-43), then the board and Thorium Brotherhood quests at 45. Last, in Ironforge at 45: Portents of Uldum, Passing the Burden, An Easy Pickup and Signal for Pickup at the Explorers' League, and the level 46 row if he has it. The Kalaran Windblade chain stops where its targets turn elite.
 
@@ -231,9 +231,8 @@ The eastern trip that the required levels force (13 Nov): the Searing Gorge ques
 - 3367 Suntara Stones (L48, req 40) 4,400
 - 3368 Suntara Stones (L48, req 40) 4,400
 - 3441 Divine Retribution (L48, req 40) 440 [mobs to 55]
-- 3377 Prayer to Elune (L50, req 40) 470 [mobs to 50]
 - 4449 Caught! (L45, req 43) 3,900 [mobs to 44]
-- 4451 The Key to Freedom (L47, req 43) 5,250
+- 4451 The Key to Freedom (L47, req 43) 5,250 - starts from the Grimesilt Outhouse Key: 5.1% per kill from six Dark Iron types (202 of 3,961, Wowhead item page 13 Nov), one key, about 20 kills; the 30 Dark Iron of Culling the Competition are the same mobs and cover the budget (rule 12 clause; the kill-budget test of answer 12). Keep killing them until it drops
 - 7729 JOB OPPORTUNITY: Culling the Competition (L48, req 45) 4,400 [mobs to 48]
 - 7723 Curse These Fat Fingers (L49, req 45) 4,550 [mobs to 49]
 - 7724 Fiery Menace! (L49, req 45) 4,550 [mobs to 49]
@@ -244,11 +243,14 @@ The eastern trip that the required levels force (13 Nov): the Searing Gorge ques
 - 3450 An Easy Pickup (L52, req 45) 510
 - 3451 Signal for Pickup (L52, req 45) 510
 
+**Optional / conditional:**
+- 3377 Prayer to Elune (L50, req 40) 470 [conditional] - 470 XP hand-in at Zamael Lunthistle, who stands 0.2-0.6 units from level 48-51 elite Twilight mobs in the DB (chapter 52 spec, 13 Nov): only if he can be reached
+
 Level check: 7729 needs 45, 7723 needs 45, 7724 needs 45, 7727 needs 45, 2963 needs 45, 7722 needs 45, 3448 needs 45, 3450 needs 45, 3451 needs 45; predicted entry 44.7.
 
 ### 53 Tanaris II and Uldum
 
-File `53_TanarisII.lua`, title `[N 45-47 Tanaris]`. Wants level **47**; predicted 45.6 -> 46.1. 12 required quests, 45,130 XP, 1g 95s; optional 9,850 XP.
+File `53_TanarisII.lua`, title `[N 45-47 Tanaris]`. Wants level **47**; predicted 45.5 -> 46.1. 11 required quests, 41,580 XP, 1g 95s; optional 13,400 XP.
 
 Menethil - Theramore by boat, Theramore - Gadgetzan by flight. Quest levels 47-51: the silithid chain from Noxious Lair Investigation (five insect parts at 51%, about ten kills), the Dunemaul compound (Gor'marok, Normal on Wowhead), Thistleshrub Valley, the Gahz'ridian ornaments, Tooga, the egg-o-matic, and the Uldum pedestal for the Explorers' League. Handle With Care and Rise of the Silithid are carried to Darnassus (chapter 55). The OOX-17/TN robot is an 'if the beacon drops' line.
 
@@ -258,7 +260,6 @@ Menethil - Theramore by boat, Theramore - Gadgetzan by flight. Quest levels 47-5
 - 110 Insect Part Analysis (L48, req 39) 440
 - 113 Insect Part Analysis (L48, req 39) 440
 - 1560 Tooga's Quest (L50, req 40) 5,900 [mobs to 45]
-- 97540 Oasis (L50, req 40) 3,550
 - 2741 The Super Egg-O-Matic (L47, req 42) 4,200
 - 3161 Gahz'ridian (L48, req 43) 4,400
 - 5863 The Dunemaul Compound (L49, req 44) 4,550 [mobs to 49]
@@ -267,12 +268,13 @@ Menethil - Theramore by boat, Theramore - Gadgetzan by flight. Quest levels 47-5
 - 3362 Thistleshrub Valley (L50, req 45) 4,700 [mobs to 50]
 
 **Optional / conditional:**
+- 97540 Oasis (L50, req 40) 3,550 [conditional] - Wowhead (13 Nov): 'Show the newly quenched Tooga the way back to his wife, Torta', given by Tooga, side not stated, no objective in the data - it reads as a second version of Tooga's Quest (1560), which is counted. Taken only if Tooga offers both
 - 351 Find OOX-17/TN! (L48, req 43) 4,400 [conditional] - starts from the OOX-17/TN Distress Beacon: 0.41% per kill over 82 Tanaris mob types (Wowhead item page, 1,085 of 263,968 kills, 13 Nov) - rule 12. Taken only if the beacon drops; the rescue is handed in at Booty Bay
 - 648 Rescue OOX-17/TN! (L48, req 43) 5,450 [conditional] - behind 351 Find OOX-17/TN!, which is conditional
 
 ### 54 Maraudon (dungeon)
 
-File `54_Maraudon.lua`, title `[N 46-47 Maraudon]`. Wants level **48**; predicted 46.1 -> 46.5. 5 required quests, 25,900 XP, 1g 40s; optional 8,700 XP.
+File `54_Maraudon.lua`, title `[N 46-47 Maraudon]`. Wants level **48**; predicted 46.1 -> 46.4. 5 required quests, 25,900 XP, 1g 40s; optional 8,700 XP.
 
 Required dungeon chapter, entered from Desolace (Gadgetzan - Theramore - Nijel's Point by flight). Mobs inside are level 43-51 in the DB; the predicted entry is about 46, so the spec decides whether the outer wings are run here and the inner falls later, the way Scarlet Monastery was split. The Shadowshard Fragments (46%) and the Theradric Crystal Carvings (27%) are collections and are grind / luck. Seed of Life is taken from Zaetar's Spirit and carried: it is handed in at Moonglade, round 3.
 
@@ -289,7 +291,7 @@ Required dungeon chapter, entered from Desolace (Gadgetzan - Theramore - Nijel's
 
 ### 55 Darnassus and Azshara
 
-File `55_Azshara.lua`, title `[N 46-48 Azshara]`. Wants level **47**; predicted 46.5 -> 47.5. 24 required quests, 89,155 XP, 5g 73s; optional 79,850 XP.
+File `55_Azshara.lua`, title `[N 46-48 Azshara]`. Wants level **47**; predicted 46.4 -> 47.4. 23 required quests, 84,755 XP, 5g 03s; optional 71,550 XP.
 
 Nijel's Point - Auberdine - Rut'theran by flight (all known). Darnassus and Rut'theran take the hand-ins the route has been carrying: Doling Justice, both Rise of the Silithid quests, In Search of Knowledge, Feralas: A History, Handle With Care; The Borrower is taken for Gadgetzan and Sisters In Duty for Azshara. Then Auberdine - Astranaar and the road to Talrendis Point, new on Forever (flight point not known). Quest levels 47-55: the required-level 45 quests come first (Tymor's Arcane Runes, Home on the Range: five hides from about 11 Mosshoof Runners), the nine that need 47 after them. Saria Fairmoon's chain runs through Lady Sesspira's key (one named mob). Reclaiming Ravencrest and The Head of the Serpent are conditional; Warlord Krellian is level 55. The two furbolg chains at Ursolan (15 quests) are not in QuestieDB and their Wowhead pages state no side: conditional. Dragonscale Leatherworking at Peter Galen (37.6,65.4) is a gate at Leatherworking 225. Beneath Nordrassil goes back to Darnassus and is left for round 3.
 
@@ -307,7 +309,6 @@ Nijel's Point - Auberdine - Rut'theran by flight (all known). Darnassus and Rut'
 - 88807 Slay the Spitelash (L48, req 45) 4,400 [mobs to 48]
 - 89001 Home on the Range (L48, req 45) 4,400 - fill (Braedyn, 13 Nov: mix by judgement). Five Mosshoof Hides: Mosshoof Runner 45% (81 of 180; level 45-47, 29 spawns near Talrendis Point): budget about 11 kills; leave the level 52-53 Coursers [mobs to 53]
 - 89013 Gettin' Buzzed (L48, req 45) 4,400 - Wild Honey 60.27% (drop_rates.json 11 Nov) [mobs to 49]
-- 89228 Winter Frontier Fishery (L48, req 45) 4,400
 - 3449 Arcane Runes (L52, req 45) 2,550
 - 88821 Making Contact (L51, req 47) 490
 - 88884 Highborne Tablets (L52, req 47) 5,100
@@ -321,6 +322,7 @@ Nijel's Point - Auberdine - Rut'theran by flight (all known). Darnassus and Rut'
 
 **Optional / conditional:**
 - 5141 Dragonscale Leatherworking (L55, req 40) 4,200 [gate] - Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225 (Braedyn, 13 Nov)
+- 89228 Winter Frontier Fishery (L48, req 45) 4,400 [conditional] - asks for Raw Winter Squid (item 13755), which has no source in the data; in Classic it is fished, and only in the winter months. Taken only if he can fish it at Talrendis (fishing stops are optional, rule 5); abandon otherwise
 - 86747 Legashi Horns (L53, req 47) 530 [conditional] - no giver in the DB or on Wowhead (ends at Ekkal, Azshara 42.0,38.9): taken if it is offered or drops
 - 86752 Report to Rageroar (L53, req 47) 530 [conditional] - Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
 - 86777 Master Feardred (L53, req 47) 5,250 [conditional] - Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
@@ -335,17 +337,15 @@ Nijel's Point - Auberdine - Rut'theran by flight (all known). Darnassus and Rut'
 - 86927 Running Firewater (L53, req 47) 5,250 [conditional] - Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
 - 86792 Thinning Their Forces (L54, req 47) 5,450 [conditional] - Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
 - 86796 Later, Satyr (L54, req 47) 5,450 [conditional] - Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
-- 86814 Blackmaw Counter-Offensive (L55, req 47) 7,050 [conditional] - Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
-- 87346 Chieftain Bloodmaw (L55, req 47) 5,650 [conditional] - Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
 - 88812 Reclaiming Ravencrest (L55, req 47) 5,650 [conditional] - Wowhead's series puts it after 88809 Preserving Eldarath, which is out: taken only if it is offered
 - 88813 The Head of the Serpent (L55, req 47) 5,650 [conditional] - Wowhead's series puts it after 88812 Reclaiming Ravencrest, which is cond: taken only if it is offered
 - 90813 Pay Dirt! (L53, req 50) 6,550 [conditional] - Alliance on Wowhead, required level 50, no giver known (ends at Berdun Cliffbrew, Azshara 12.6,77.4)
 
-Level check: 88821 needs 47, 88884 needs 47, 88917 needs 47, 89037 needs 47, 3601 needs 47, 86746 needs 47, 89038 needs 47, 89053 needs 47, 89470 needs 47; predicted entry 46.5.
+Level check: 88821 needs 47, 88884 needs 47, 88917 needs 47, 89037 needs 47, 3601 needs 47, 86746 needs 47, 89038 needs 47, 89053 needs 47, 89470 needs 47; predicted entry 46.4.
 
 ### 56 Un'Goro Crater
 
-File `56_UnGoro.lua`, title `[N 47-49 Un'Goro Crater]`. Wants level **48**; predicted 47.5 -> 48.4. 19 required quests, 76,780 XP, 2g 45s; optional 5,650 XP.
+File `56_UnGoro.lua`, title `[N 47-49 Un'Goro Crater]`. Wants level **48**; predicted 47.4 -> 48.3. 18 required quests, 73,230 XP, 2g 45s; optional 9,200 XP.
 
 Talrendis Point - Gadgetzan by flight (The Borrower to Curgle Cranklehop), then Marshal's Refuge on foot (flight point taken there). The stretch chapter: its quests need level 47 to 50 and run to level 54-55 mobs. He does what his level opens, in order of required level; on required quests alone that is about half of the list, and the rest is where round 3 starts. It's a Secret to Everybody is done to Linken; its last part goes to Winterspring and is carried.
 
@@ -358,7 +358,6 @@ Talrendis Point - Gadgetzan by flight (The Borrower to Curgle Cranklehop), then 
 - 4287 The Eastern Pylon (L53, req 47) 3,950
 - 4288 The Western Pylon (L53, req 47) 3,950
 - 4321 Making Sense of It (L53, req 47) 530
-- 3884 Williden's Journal (L50, req 48) 3,550
 - 3883 Alien Ecology (L52, req 48) 5,100
 - 3881 Expedition Salvation (L53, req 48) 5,250
 - 4243 Chasing A-Me 01 (L53, req 48) 2,650
@@ -372,12 +371,13 @@ Talrendis Point - Gadgetzan by flight (The Borrower to Curgle Cranklehop), then 
 
 **Optional / conditional:**
 - 87494 Microcrystal Contamination (L55, req 45) 5,650 [conditional] - no giver in the DB or on Wowhead (ends at Torwa Pathfinder)
+- 3884 Williden's Journal (L50, req 48) 3,550 [conditional] - starts from A Mangled Journal: 0.97% per kill over 44 Un'Goro mob types (4,684 of 484,568, Wowhead item page 13 Nov), and the item needs level 48 - rule 12. Taken only if the journal has dropped
 
-Level check: 3884 needs 48, 3883 needs 48, 3881 needs 48, 4243 needs 48, 4290 needs 48, 4291 needs 48, 3882 needs 49, 4501 needs 49, 4491 needs 50, 4492 needs 50, 87492 needs 50; predicted entry 47.5.
+Level check: 3883 needs 48, 3881 needs 48, 4243 needs 48, 4290 needs 48, 4291 needs 48, 3882 needs 49, 4501 needs 49, 4491 needs 50, 4492 needs 50, 87492 needs 50; predicted entry 47.4.
 
 ### 57 Ironforge: the round's hand-ins
 
-File `57_Ironforge.lua`, title `[N 48-49 Ironforge]`. Wants level **48**; predicted 48.4 -> 48.6. 3 required quests, 12,770 XP, 2g 20s; optional 0 XP.
+File `57_Ironforge.lua`, title `[N 48-49 Ironforge]`. Wants level **48**; predicted 48.3 -> 48.4. 3 required quests, 12,770 XP, 2g 20s; optional 0 XP.
 
 Closing stop of the round: Marshal's Refuge - Gadgetzan - Theramore, the Menethil boat, Ironforge. The Explorers' League hand-ins for the Uldum chain (Return to Ironforge, A Future Task) and Tymor's (Return to Tymor), the training rows not yet bought (46, 48, and 50 if reached), the profession ranks still open, and a check with Eldrun for a level-50 class quest (the Classic ones are Horde-side on Wowhead).
 
@@ -395,7 +395,6 @@ The best usable reward of each kept quest, top five per slot. The specs turn the
 | Back | 22.5 | Medicine Blanket (+4 Sta +9 Spi) | 348 Stranglethorn Fever | 49 |
 | Chest | 53.3 | Acumen Robes (+15 Int +14 SP) | 7028 Twisted Evils [grind / luck] | 54 |
 | Chest | 51.5 | Blackwater Tunic (+7 Str +15 Spi) | 608 The Bloodsail Buccaneers | 49 |
-| Feet | 52.0 | Hippogryph Hide Boots (+17 Str +9 Sta +9 SP) | 86814 Blackmaw Counter-Offensive [conditional] | 55 |
 | Feet | 34.6 | Southsea Mojo Boots (+11 Int +8 SP) | 8366 Southsea Shakedown | 46 |
 | Feet | 30.9 | Gnomish Inventor Boots (+7 Sta +2 Int +11 Spi) | 836 Rescue OOX-09/HL! [conditional] | 48 |
 | Finger | 28.9 | Woodseed Hoop (+10 Int +6 SP) | 7041 Vyletongue Corruption [normal] | 54 |
@@ -709,6 +708,8 @@ Round-2 zones only; quests below the bracket that were only looked at as prerequ
 - needs level 46 and is given at Feathermoon (Angelas Moonbreeze), which the route leaves at about 44.5; with The Stone Circle behind it, round 3 (13 Nov level check): 3445 The Sunken Temple (3,650)
 - needs the three OOX rescues (Hinterlands, Feralas, Tanaris); handed in on a Booty Bay pass in round 3: 3721 An OOX of Your Own (7,100)
 - runs Darnassus - Thousand Needles (Quentin 78.4,74.7) - the Hinterlands (Agnar Beastamer): after the Darnassus stop of chapter 55 no chapter goes there; round 3 (13 Nov zone check): 3841 An Orphan Looking For a Home (1,050)
+- starts at Gorn One Eye (npc 11555) in Felwood (Wowhead start, chapter 55 spec 13 Nov): round 3: 86814 Blackmaw Counter-Offensive (7,050)
+- starts at Gorn One Eye (npc 11555) in Felwood 65.2,2.7 (Wowhead start, chapter 55 spec 13 Nov); no round-2 chapter goes to Felwood: round 3: 87346 Chieftain Bloodmaw (5,650)
 - the scroll lies on the Bloodsail ship south of Booty Bay (object 2554, 29.2,88.6) and the three hand-ins are in the Swamp of Sorrows (22.9,48.2), Dustwallow (31.1,66.1) and on the Hinterlands coast (80.8,46.8), in that order: no round-2 chapter reaches them in time. The scroll is picked up in chapter 50 and carried; round 3 (13 Nov zone check): 624 Cortello's Riddle (3,600)
 
 ## In the pool, kept by the rules, not used in round 2 (round 3 starts from these)

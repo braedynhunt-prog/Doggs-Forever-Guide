@@ -119,7 +119,7 @@
 16	88807	Slay the Spitelash	48	45	4400	7000	PLAIN			48	
 16	89001	Home on the Range	48	45	4400	0	PLAIN	fill (Braedyn, 13 Nov: mix by judgement). Five Mosshoof Hides: Mosshoof Runner 45% (81 of 180; level 45-47, 29 spawns near Talrendis Point): budget about 11 kills; leave the level 52-53 Coursers	DROP	53	
 16	89013	Gettin' Buzzed	48	45	4400	0	PLAIN	Wild Honey 60.27% (drop_rates.json 11 Nov)	DROP	49	
-16	89228	Winter Frontier Fishery	48	45	4400	7000	PLAIN			0	
+16	89228	Winter Frontier Fishery	48	45	4400	7000	COND	asks for Raw Winter Squid (item 13755), which has no source in the data; in Classic it is fished, and only in the winter months. Taken only if he can fish it at Talrendis (fishing stops are optional, rule 5); abandon otherwise		0	
 16	88809	Preserving Eldarath	52	45	5100	7500	OUT	drop under 30%: Eldarath Relic 14.4% (3 droppers, best Spitelash Serpent Guard 27% of 91)	DROP	52	
 16	3421	Return Trip	55	45	0	0	OUT	no XP, nothing kept behind it	NOXP	0	
 16	3503	Meeting with the Master	55	45	0	0	OUT	no XP, nothing kept behind it	NOXP	0	
@@ -145,8 +145,8 @@
 16	86927	Running Firewater	53	47	5250	0	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance	SIDE? NOTINQDB	0	
 16	86792	Thinning Their Forces	54	47	5450	4000	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance	SIDE? NOTINQDB	0	
 16	86796	Later, Satyr	54	47	5450	6000	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance	SIDE? NOTINQDB	0	
-16	86814	Blackmaw Counter-Offensive	55	47	7050	4000	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance	SIDE? GROUP NOTINQDB	0	Feet 52.0 Hippogryph Hide Boots (+17 Str +9 Sta +9 SP)
-16	87346	Chieftain Bloodmaw	55	47	5650	0	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance	SIDE? NOTINQDB	0	
+16	86814	Blackmaw Counter-Offensive	55	47	7050	4000	LATER	starts at Gorn One Eye (npc 11555) in Felwood (Wowhead start, chapter 55 spec 13 Nov): round 3	SIDE? GROUP NOTINQDB	0	Feet 52.0 Hippogryph Hide Boots (+17 Str +9 Sta +9 SP)
+16	87346	Chieftain Bloodmaw	55	47	5650	0	LATER	starts at Gorn One Eye (npc 11555) in Felwood 65.2,2.7 (Wowhead start, chapter 55 spec 13 Nov); no round-2 chapter goes to Felwood: round 3	SIDE? NOTINQDB	0	
 16	88812	Reclaiming Ravencrest	55	47	5650	8500	COND	Wowhead's series puts it after 88809 Preserving Eldarath, which is out: taken only if it is offered		0	
 16	88813	The Head of the Serpent	55	47	5650	0	COND	Wowhead's series puts it after 88812 Reclaiming Ravencrest, which is cond: taken only if it is offered	DROP	55	Main Hand 480.0 Truesong's Hammer (32.9 dps +10 Str)
 16	89038	A Monumental Task	55	47	5650	4000	PLAIN			0	
@@ -545,7 +545,7 @@
 440	97536	Gnomish Garbage	45	40	2900	0	PLAIN			0	
 440	97530	Dunemaul Dues	47	40	4200	3500	OUT	drop under 30%: Brilliantly Polished Bangle 4.3% (5 droppers, best Dunemaul Ogre Mage 5% of 120)	DROP	48	
 440	1560	Tooga's Quest	50	40	5900	0	PLAIN			45	Wrist 16.9 Chelonian Cuffs (+4 Sta +10 Int)
-440	97540	Oasis	50	40	3550	0	PLAIN			0	
+440	97540	Oasis	50	40	3550	0	COND	Wowhead (13 Nov): 'Show the newly quenched Tooga the way back to his wife, Torta', given by Tooga, side not stated, no objective in the data - it reads as a second version of Tooga's Quest (1560), which is counted. Taken only if Tooga offers both		0	
 440	2741	The Super Egg-O-Matic	47	42	4200	0	PLAIN			0	
 440	3022	Handle With Care	47	42	2100	5000	PLAIN			0	
 440	8893	The Super Egg-O-Matic	47	42	0	0	OUT	no XP, nothing kept behind it	NOXP	0	
@@ -644,7 +644,7 @@
 490	4084	Silver Heart	54	47	5450	0	OUT	drop under 30%: Silvery Claws 6.9% (8 droppers, best Death Howl 100% of 1)	DROP	53	
 490	4289	The Apes of Un'Goro	55	47	5650	8500	OUT	drop under 30%: Un'Goro Thunderer Pelt 23.08% (drop_rates.json 11 Nov)	DROP	53	
 490	5150	Dadanga is Hungry!	55	47	0	0	OUT	no XP, nothing kept behind it	NOXP	61	
-490	3884	Williden's Journal	50	48	3550	0	PLAIN			0	
+490	3884	Williden's Journal	50	48	3550	0	COND	starts from A Mangled Journal: 0.97% per kill over 44 Un'Goro mob types (4,684 of 484,568, Wowhead item page 13 Nov), and the item needs level 48 - rule 12. Taken only if the journal has dropped		0	
 490	3883	Alien Ecology	52	48	5100	4000	PLAIN			0	
 490	3881	Expedition Salvation	53	48	5250	4000	PLAIN			0	
 490	4243	Chasing A-Me 01	53	48	2650	0	PLAIN			0	
@@ -666,7 +666,7 @@
 51	3441	Divine Retribution	48	40	440	0	PLAIN	Kalaran Windblade (55 elite) is the giver: the objective is to listen to him	ELITE	55	
 51	3442	The Flawless Flame	48	40	4400	14000	OUT	drop under 30%: Golem Oil 16.5% (3 droppers, best Magma Elemental 25% of 141)	DROP	49	
 51	3443	Forging the Shaft	48	40	4400	14000	OUT	drop under 30%: Thorium Plated Dagger 6.8% (10 droppers, best Dark Iron Slaver 17% of 423)	DROP	55	
-51	3377	Prayer to Elune	50	40	470	0	PLAIN			50	
+51	3377	Prayer to Elune	50	40	470	0	COND	470 XP hand-in at Zamael Lunthistle, who stands 0.2-0.6 units from level 48-51 elite Twilight mobs in the DB (chapter 52 spec, 13 Nov): only if he can be reached		50	
 51	3378	Prayer to Elune	50	40	5900	14500	OUT	elite outside a dungeon (rule 13): Twilight Dark Shaman (48 elite), Twilight Fire Guard (49 elite), Twilight Geomancer (50 elite), Twilight Idolater (51 elite)	DROP ELITE	51	Shoulder 22.0 Kaylari Shoulders (+11 Str +10 Sta)
 51	3452	The Flame's Casing	50	40	4700	7500	OUT	chain behind 3443 Forging the Shaft (drop under 30%: Thorium Plated Dagger 6.)	GROUP DROP ELITE	51	
 51	3453	The Torch of Retribution	50	40	470	0	OUT	chain behind 3452 The Flame's Casing (chain behind 3443 Forging the Shaft (dro)	ELITE	55	
@@ -680,7 +680,7 @@
 51	3566	Rise, Obsidion!	52	40	7600	15500	OUT	elite outside a dungeon (rule 13): Lathoric the Black (52 elite), Obsidion (52 elite)	GROUP DROP ELITE	52	Head 25.4 Lordrec Helmet (+16 Agi +10 Sta +3 Spi)
 51	4449	Caught!	45	43	3900	0	PLAIN			44	
 51	4450	Ledger from Tanaris	46	43	5050	0	OUT	drop under 30%: Solid Crystal Leg Shaft 19.44% (drop_rates.json 11 Nov)	DROP	46	Waist 24.0 Girdle of Reprisal (+12 Str)
-51	4451	The Key to Freedom	47	43	5250	0	PLAIN			0	
+51	4451	The Key to Freedom	47	43	5250	0	PLAIN	starts from the Grimesilt Outhouse Key: 5.1% per kill from six Dark Iron types (202 of 3,961, Wowhead item page 13 Nov), one key, about 20 kills; the 30 Dark Iron of Culling the Competition are the same mobs and cover the budget (rule 12 clause; the kill-budget test of answer 12). Keep killing them until it drops		0	
 51	7728	STOLEN: Smithing Tuyere and Lookout's Spyglass	48	45	4400	14000	OUT	drop under 30%: Smithing Tuyere 12.42% (drop_rates.json 11 Nov)	DROP	48	Hands 16.9 Everwarm Handwraps (+10 Int)
 51	7729	JOB OPPORTUNITY: Culling the Competition	48	45	4400	21000	PLAIN			48	
 51	7723	Curse These Fat Fingers	49	45	4550	7000	PLAIN			49	
