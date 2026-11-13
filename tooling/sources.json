@@ -153,9 +153,9 @@
   {
    "id": "spell_tooltips",
    "path": "data/spell_tooltips.json",
-   "source": "Wowhead Forever spell tooltips for the Enhancement model (weights/enh_weights.py): Rockbiter 8017-16316, Windfury Weapon 8232/8235/10486/16362, Stormstrike 17364, Improved Stormstrike 1223031, Flurry 16256, Earth Shock 8042-10414, Lightning Shield 324-10432; plus the Spell Details values of eight spell pages (imbue passives, Earth Shock R5 coefficient, Improved Stormstrike rank curve) read in Chrome",
+   "source": "Wowhead Forever spell tooltips for the Enhancement model (weights/enh_weights.py): Rockbiter 8017-16316, Windfury Weapon 8232/8235/10486/16362, Stormstrike 17364, Improved Stormstrike 1223031, Flurry 16256, Earth Shock 8042-10414, Lightning Shield 324-10432, Windfury Totem 8512/10613/10614; plus the Spell Details values of eight spell pages (imbue passives, Earth Shock R5 coefficient, Improved Stormstrike rank curve) read in Chrome",
    "local_read": "\"pulled\" in the file",
-   "pulled": "2026-11-12",
+   "pulled": "2026-11-13",
    "upstream": {"method": "GET", "url": "https://nether.wowhead.com/forever/tooltip/spell/<id>", "read": "stale when the newest wowf build's created_at date is after \"pulled\" (a proxy, as for item_tooltips)"},
    "pull": [
     "GET the endpoint for every id in the file with a Mozilla/5.0 User-Agent, one request per second; rewrite data/spell_tooltips.json (\"items\") and set \"pulled\" here and in the file",
@@ -163,7 +163,7 @@
     "talent rank values (Flurry 6% per rank, Elemental Weapons, Tidal Focus, Mindfulness): https://wowforever.wclbox.com/en/tianfu/shaman (covered by wclbox_spells' build check)",
     "update the tables in weights/enh_weights.py if a value changed and re-run the model into weights/weights_<date>.txt"
    ],
-   "notes": "11 Nov 2026: 28 tooltips. The cast tooltips show level-60 values; the passive auras on the spell pages give the value at the rank's level (Rockbiter 88 / 129 / 211, Windfury 46 / 119). Stormstrike's tooltip says Requires level 40 while the talent is tier 4 (15 points) on WCLBox and in wowsims/forever's tree."
+   "notes": "11 Nov 2026: 28 tooltips. The cast tooltips show level-60 values; the passive auras on the spell pages give the value at the rank's level (Rockbiter 88 / 129 / 211, Windfury 46 / 119). Stormstrike's tooltip says Requires level 40 while the talent is tier 4 (15 points) on WCLBox and in wowsims/forever's tree. 13 Nov 2026: 31 tooltips, re-pulled after the class tuning that went live 12 Nov 10:45 PST (Blizzard hotfix notes, US forum topic 2403040): Stormstrike 100% / 8 sec, the Windfury Weapon tooltips no longer disable the Windfury Totem benefit. The 12 Nov pull predated the hotfix by hours and still checked OK by date: after a class-tuning blue post, re-pull this file whatever check_sources says. The spell_pages values (Chrome, 11 Nov) were not re-read."
   },
   {
    "id": "wowhead_quest_links",

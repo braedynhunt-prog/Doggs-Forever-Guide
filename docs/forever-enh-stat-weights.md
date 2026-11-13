@@ -18,7 +18,7 @@ Built 24 Sep 2026 for the "our own Pawn" project. Braedyn's brief: tune for **ki
 | +1% hit or +1% crit | 2.7 | 3.8 | 6.0 | |
 | mace (Dwarf Mace Specialization, +1% crit) | +3.4 | +4.3 | +7.5 | flat bonus per mace ≈ +0.25 / +0.3 / +0.5 weapon DPS. **17 Oct: the Oct 15 beta build removed weapon specializations (Dwarf Mace Spec is now Earth Fury, 2% crit damage) — this term is obsolete; 1 Nov: the 30 Oct hotfix cache replaces Earth Fury with Artisan's Precision (1% hit with spells and attacks; datamined, unverified in game)** |
 
-Recommended "central" set for the addon (15-20), **8 Nov 2026**: `wdps 14, Str 2, AP 1, Int 1.65, Agi 0.8 (0.6 at 15), Spi 2.5, Sta 0 (or 0.25 floor), SP 2.0, Exp 3, Hit% 6, Crit% 6` (mace term dropped, see above); conservative set `Spi 1.5, SP 1.0, Exp 1` (the Lightning-Shield-only case). Until 8 Nov the central set was `Int 1.55, Agi 0.85, Spi 1.0, SP 1.5` and the conservative `Spi 0.5, SP 0.5, Exp 1`; every gear call below was made with those, and `tooling/gear_calls.py` re-scores them (docs/audit-2026-11-08.md).
+**13 Nov 2026: Int is 1.15, not 1.65** (Mental Dexterity back to 100% of Int with the 12 Nov tuning; see the 13 Nov update at the end; everything else in this set stands). Recommended "central" set for the addon (15-20), **8 Nov 2026**: `wdps 14, Str 2, AP 1, Int 1.65, Agi 0.8 (0.6 at 15), Spi 2.5, Sta 0 (or 0.25 floor), SP 2.0, Exp 3, Hit% 6, Crit% 6` (mace term dropped, see above); conservative set `Spi 1.5, SP 1.0, Exp 1` (the Lightning-Shield-only case). Until 8 Nov the central set was `Int 1.55, Agi 0.85, Spi 1.0, SP 1.5` and the conservative `Spi 0.5, SP 0.5, Exp 1`; every gear call below was made with those, and `tooling/gear_calls.py` re-scores them (docs/audit-2026-11-08.md).
 
 3 Nov 2026: central Int 1.05 → 1.55 (Mental Dexterity 50/100/150% of Int, was 33/67/100%; source: Blizzard dev notes 3 Nov). Model Int per band now L10 0.60/0.55, L15 1.58/1.53, L20 1.58, L25 1.60, L30 1.59 (shock-every-6 s / kill-speed-optimum policy). The gear-pick sections below still use the old weights.
 
@@ -141,3 +141,52 @@ Windfury gives up 200-360 AP on every swing and every Stormstrike for extra atta
 4. At 38: does Mindfulness add to Improved Stormstrike's regeneration while casting?
 5. Tidal Focus: does the hit show on the character sheet for melee, spells or both?
 6. Windfury's extra attacks: do they carry the +AP on both attacks (tooltip wording says so)?
+
+## 13 Nov 2026 update - the 12 Nov class tuning: Stormstrike 100% / 8 s, Mental Dexterity 100% of Int, imbues stack with weapon totems
+Run: `weights/weights_2026-11-13.txt`. Record: `docs/audit-2026-11-13.md` (second part). Sources, all read 13 Nov: Blizzard hotfix notes dated 10 Nov, live 12 Nov 10:45 PST (US forum topic 2403040, posts 6 and 9; announced 6 Nov in topic 2404092); the live Wowhead tooltips (`data/spell_tooltips.json`, re-pulled: Stormstrike 17364 "100% weapon damage", "8 sec cooldown"; the Windfury Weapon tooltips no longer say they disable the Windfury Totem benefit); the WCLBox talent page at build 1.60.1.70938 (Mental Dexterity 33 / 66 / 100%).
+
+**What Blizzard changed.** Stormstrike 100% weapon damage (was 150%) on an 8 s cooldown (was 6 s). Mental Dexterity 33 / 66 / 100% of Intellect as attack power (was 50 / 100 / 150% since the 3 Nov notes). Maelstrom Weapon: 20% cast time and mana per application at every rank (was 4 / 8 / 12 / 16 / 20%), and 6 / 7 / 8 / 9 / 10 activations per minute by rank (was 20 per minute at every rank). Weapon imbues and weapon totems work at the same time. The developers' note says the aim is that Enhancement prefers Strength and attack power and stays a Windfury spec, and the 6 Nov post says balance changes may follow "on future Tuesdays if necessary"; nothing further is announced.
+
+**Model changes (`weights/enh_weights.py`).** `MENTAL_DEXTERITY` (0.33 / 0.66 / 1.0 per rank), `SS_WEAPON_MULT` 1.0, `SS_COOLDOWN` 8.0; Improved Stormstrike's buff now sees 15 / 8 = about 1.9 Stormstrikes; the +20% shock bonus is capped at one shock per Stormstrike (no effect at a 6 s cooldown); optional `Scenario.wf_totem_ap` for a Windfury Totem standing next to the fight (20% per landed white swing of one extra white swing; procs from Stormstrike and from Windfury Weapon's extra attacks left out). Maelstrom Weapon and Rage of the Farseer still have no term.
+
+**Weights (AP = 1, kill-speed optimum = shock on cooldown + Lightning Shield).**
+
+| band | wdps | Int | Agi | Spi | SP | Exp | +1% hit | +1% crit | kills/h (11 Nov) |
+|---|---|---|---|---|---|---|---|---|---|
+| 10 | 13.85 | 0.41 | 0.46 | 3.87 | 2.57 | 13.48 | 2.83 | 2.83 | 170.8 (172.2) |
+| 15 | 13.94 | 1.13 | 0.55 | 4.54 | 3.43 | 5.68 | 3.84 | 3.84 | 146.5 (149.0) |
+| 20 | 13.96 | 1.15 | 0.79 | 3.94 | 2.94 | 5.35 | 6.17 | 6.17 | 162.5 (165.2) |
+| 25 | 14.31 | 1.17 | 0.78 | 3.18 | 2.75 | 4.38 | 7.14 | 7.14 | 191.8 (216.1) |
+| 30 | 13.98 | 1.14 | 0.96 | 4.21 | 2.28 | 3.96 | 8.34 | 9.74 | 172.9 (198.0) |
+| 40 | 14.50 | 1.19 | 1.13 | 5.10 | 2.24 | 3.96 | 0.00 | 14.17 | 195.7 (222.4) |
+
+Only Intellect moves: **central Int 1.65 -> 1.15** (one attack power per point plus a little spell crit). Agi, Spirit and spell damage stay within 0.1 of the 11 Nov run, so the central set is now `wdps 14, Str 2, AP 1, Int 1.15, Agi 0.8 (0.6 at 15), Spi 2.5, Sta 0 (0.25 floor), SP 2.0, Exp 3, Hit% 6, Crit% 6` and the conservative set keeps `Spi 1.5, SP 1.0, Exp 1`. Order per point: weapon dps > Spirit > Str = spell damage > Int > Agi; at 40 Int and Agi are level. Applied to `weights/profiles.py`, `weights/score_items.py`, `weights/README.txt`, the Pawn string in `docs/forever-addons.md` (Intellect=1.15) and the LOF Enhancement row (Int 0.575; LOF 1.6.7 had overwritten the 8 Nov row that morning). Kill speed falls 11-13% at 25-40 and 1-2% below 25.
+
+**Gear.** 180 quest-reward choices re-scored: three picks move, each by under 2 points and each between different slots (Bring the Light 3636: Amberglow Talisman 26.1 against Purified Ring 24.3; Roll the Bones 3882: Quarry Boots 20.9 against Utility Belt 19.0, both below what is worn; A Little Help From My Friends 4491: Clayridge Helm 55.6 against Treetop Leggings 54.5, both below what is worn). The quoted scores of Int items in chapters 19-56 were re-quoted the same day.
+
+**Imbue and weapon at 30 / 40 (kills/hour).** Rockbiter and Windfury are level: 172.9 against 174.7 at 30, 195.7 against 195.6 at 40 (they were 198.0 / 196.6 and 222.4 / 218.2). The guide's Windfury-from-30 line stands and the model no longer leans against it. At 40 the four two-handers sit within 2%: with Windfury, Bigger Rock on Bigger Stick 198.7, The Minotaur 198.0, Bonebiter 196.9, Rage of the Storm 195.6; with Rockbiter 196.8 / 196.5 / 195.5 / 195.7. Rage of the Storm's lead over Bonebiter is gone (its +10% Stormstrike damage and 3.6 speed are worth less at 100% and 8 s); chapter 39c now says to wear Bonebiter with Windfury and bank Rage of the Storm.
+
+**Windfury Totem with the imbue.** New since 12 Nov. On the model a Windfury Totem (level 32) next to the fight adds 4-5% kills/hour with Rockbiter and 3-4% with Windfury Weapon at 30 and 40 (totem attack power 0 to the tooltip's 95), which is more than any talent choice in the table below. It assumes the totem is carried from pull to pull (Totemic Call) so that its 115 mana is not paid every fight. Grace of Air (42, +49 Agility on the level-60 tooltip) is worth about half of that by the crit weight (an estimate, not a model run). Unverified in game.
+
+**Talent check (`weights/talent_check.py`), kills/hour.**
+
+| build | 25 | 30 | 40 | vs sheet at 30 / 40 |
+|---|---|---|---|---|
+| A sheet as written | 191.8 | 172.9 | 195.7 | |
+| B Flurry 5/5 first | 191.8 | 164.8 | 197.6 | -4.7% / +0.9% |
+| C Enhancement only to 40 | 191.8 | 172.9 | 202.3 | 0 / +3.3% |
+| D Tidal Focus straight after Stormstrike | 191.8 | 165.7 | 197.6 | -4.2% / +1.0% |
+| E Flurry in place of Improved Ghost Wolf | 191.8 | 174.3 | 197.6 | +0.8% / +1.0% |
+| F sheet to 37, Flurry 5/5 in place of Mindfulness | 191.8 | 172.9 | 197.6 | 0 / +1.0% |
+
+- **The order to 40 does not change.** Every row has the sign and about the size it had on 11 Nov. Stormstrike with its improvement is still worth 30.9 kills/hour at 40 (it was 55) and is still the best point at 25; Shamanistic Focus 30.9; the builds that delay Improved Stormstrike still lose 4-5% at 30.
+- Mental Dexterity 3/3 is worth 6.8 kills/hour at 40 (2.3 per point) against Thundering Strikes' 6.7 for five points (1.3 per point): still the better talent per point.
+- The Mindfulness / Improved Stormstrike stacking question is unchanged (218.7 if they stack).
+- **49-54, by reasoning, not modelled.** The first point of Maelstrom Weapon now gives 6 of the 10 activations per minute at full strength, where before each point gave a fifth of the effect. Rage of the Farseer needs 30 Enhancement points and Mental Quickness 2/2 and has no Maelstrom Weapon prerequisite (WCLBox, build 70938); the sheet has 28 Enhancement points at 48. So: Maelstrom Weapon 2/5 at 49-50, Rage of the Farseer at 51 (was 54), Maelstrom Weapon 3-5 at 52-54. Applied to the sheet on 13 Nov.
+
+**In-game test list (additions).**
+1. Windfury Totem with Windfury Weapon on: do both proc (the combat log shows two different Windfury attacks)? Does the totem's attack carry its attack power?
+2. Totemic Call on a Windfury Totem between pulls: range and cooldown as the sheet says (30 s)?
+3. Stormstrike in the talent pane: 100% weapon damage, 8 sec cooldown.
+4. Mental Dexterity 3/3: attack power on the character sheet rises by 1 per point of Intellect.
+5. Maelstrom Weapon rank 1 tooltip: the chance shown for a 3.4-3.6 speed two-hander (6 per minute should read about 34-36%).

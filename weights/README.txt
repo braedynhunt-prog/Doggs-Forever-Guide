@@ -14,8 +14,12 @@ item_tooltips.json            the ~200 Forever item tooltips scraped from Wowhea
 scores_2026-09-24.txt         the last score_items.py output
 
 Recommended weights for the addon (levels 15-20, attack power = 1):
-  weapon dps 14 | Str 2 | AP 1 | Int 1.65 | Agi 0.8 (0.6 at 15) | Spirit 2.5 | Sta 0 (or 0.25 floor)
+  weapon dps 14 | Str 2 | AP 1 | Int 1.15 | Agi 0.8 (0.6 at 15) | Spirit 2.5 | Sta 0 (or 0.25 floor)
   spell dmg 2.0 | expertise 3 per rating point (= 7 per 1% in Pawn, see below) | +1% hit 6 | +1% crit 6
+  (13 Nov 2026: Int 1.65 -> 1.15. The class tuning that went live 12 Nov cut Mental Dexterity back to 33/66/100% of Int and
+   Stormstrike to 100% weapon damage on an 8 s cooldown; enh_weights.py carries both (MENTAL_DEXTERITY, SS_WEAPON_MULT,
+   SS_COOLDOWN) and an optional Windfury Totem term. Model Int 1.13-1.19 at 15-40; nothing else moves by more than 0.05.
+   Run: weights_2026-11-13.txt. Record: docs/audit-2026-11-13.md.)
   (8 Nov 2026: Spirit 1.0 -> 2.5, spell dmg 1.5 -> 2.0, Int 1.55 -> 1.65, Agi 0.85 -> 0.8. Braedyn's level-21 character sheet:
    mana regen 51 per 5 s at 41 Spirit, unchanged when Int went 45 -> 42 = 1.25 x Spirit per 5 s, no base, no Int term (the model
    had vanilla's 17 + Spi/5 per tick); melee crit 9.6% = 0.46 base + 39 Agi / 9.4 + 5% Thundering Strikes and spell crit 9.55% =

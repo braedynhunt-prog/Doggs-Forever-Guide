@@ -1,7 +1,7 @@
 {
- "pulled": "2026-11-12",
+ "pulled": "2026-11-13",
  "endpoint": "https://nether.wowhead.com/forever/tooltip/spell/<id>",
- "note": "Cast tooltips are rendered for a level-60 viewer (Rockbiter 194 / 355, Windfury 104 / 221 are the level-60 values). 16281-16284 (Flurry ranks) return 404.",
+ "note": "Cast tooltips are rendered for a level-60 viewer (Rockbiter 194 / 355, Windfury 104 / 221 are the level-60 values). 16281-16284 (Flurry ranks) return 404. 13 Nov 2026: re-pulled after the class tuning that went live 12 Nov - Stormstrike 17364 reads 100% weapon damage / 8 sec cooldown (was 150% / 6), the four Windfury Weapon tooltips lost the line about disabling the Windfury Totem benefit, Windfury Totem 8512 / 10613 / 10614 added; the other 23 are unchanged.",
  "spell_pages": {
   "note": "Read in Chrome from www.wowhead.com/forever/spell=<id> (Spell Details table) on 2026-11-11.",
   "15568": "Rockbiter passive (rank learned at 16): Mod Melee Attack Power, value 88",
@@ -44,23 +44,23 @@
   },
   "8232": {
    "name": "Windfury Weapon",
-   "tooltip": "Windfury Weapon Level 60 90 Mana Instant Requires Shaman Requires level 30 Requires Melee Weapon Imbue the Shaman's weapon with wind. Each hit has a 20% chance of granting you 2 extra attacks with 104 extra melee attack power. When applied to main hand, disables any benefit you personally receive from Windfury Totem. Lasts for 60 minutes."
+   "tooltip": "Windfury Weapon Level 60 90 Mana Instant Requires Shaman Requires level 30 Requires Melee Weapon Imbue the Shaman's weapon with wind. Each hit has a 20% chance of granting you 2 extra attacks with 104 extra melee attack power. Lasts for 60 minutes."
   },
   "8235": {
    "name": "Windfury Weapon",
-   "tooltip": "Windfury Weapon Level 60 115 Mana Instant Requires Shaman Requires level 40 Requires Melee Weapon Imbue the Shaman's weapon with wind. Each hit has a 20% chance of granting you 2 extra attacks with 221 extra melee attack power. When appied to main hand, disables any benefit you personally receive from Windfury Totem. Lasts for 60 minutes."
+   "tooltip": "Windfury Weapon Level 60 115 Mana Instant Requires Shaman Requires level 40 Requires Melee Weapon Imbue the Shaman's weapon with wind. Each hit has a 20% chance of granting you 2 extra attacks with 221 extra melee attack power. Lasts for 60 minutes."
   },
   "10486": {
    "name": "Windfury Weapon",
-   "tooltip": "Windfury Weapon Level 60 140 Mana Instant Requires Shaman Requires level 50 Requires Melee Weapon Imbue the Shaman's weapon with wind. Each hit has a 20% chance of granting you 2 extra attacks with 315 extra melee attack power. When applied to main hand, disables any benefit you personally receive from Windfury Totem. Lasts for 60 minutes."
+   "tooltip": "Windfury Weapon Level 60 140 Mana Instant Requires Shaman Requires level 50 Requires Melee Weapon Imbue the Shaman's weapon with wind. Each hit has a 20% chance of granting you 2 extra attacks with 315 extra melee attack power. Lasts for 60 minutes."
   },
   "16362": {
    "name": "Windfury Weapon",
-   "tooltip": "Windfury Weapon Level 60 165 Mana Instant Requires Shaman Requires level 60 Requires Melee Weapon Imbue the Shaman's weapon with wind. Each hit has a 20% chance of granting you 2 extra attacks with 433 extra melee attack power. When applied to main hand, disables any benefit you personally receive from Windfury Totem. Lasts for 60 minutes."
+   "tooltip": "Windfury Weapon Level 60 165 Mana Instant Requires Shaman Requires level 60 Requires Melee Weapon Imbue the Shaman's weapon with wind. Each hit has a 20% chance of granting you 2 extra attacks with 433 extra melee attack power. Lasts for 60 minutes."
   },
   "17364": {
    "name": "Stormstrike",
-   "tooltip": "Stormstrike Talent 8% of base mana Melee Range Instant 6 sec cooldown Requires Shaman Requires level 40 Instantly strike for 150% weapon damage and increase the damage you deal to the target with your next Lightning Bolt, Chain Lightning, or Earth Shock spell by 20% for 12 sec."
+   "tooltip": "Stormstrike Talent 8% of base mana Melee Range Instant 8 sec cooldown Requires Shaman Requires level 40 Instantly strike for 100% weapon damage and increase the damage you deal to the target with your next Lightning Bolt, Chain Lightning, or Earth Shock spell by 20% for 12 sec."
   },
   "1223031": {
    "name": "Improved Stormstrike",
@@ -125,6 +125,18 @@
   "10432": {
    "name": "Lightning Shield",
    "tooltip": "Lightning Shield 370 Mana Instant Requires Shaman Requires level 56 The caster is surrounded by 3 balls of lightning. When a spell, melee or ranged attack hits the caster, the attacker will be struck for 178 Nature damage. This expends one lightning ball. Only one ball will fire every few seconds. Lasts 10 min. (3.5s cooldown)"
+  },
+  "8512": {
+   "name": "Windfury Totem",
+   "tooltip": "Windfury Totem 115 Mana Instant Requires Shaman Requires level 32 Tools: Air Totem Summons a Windfury Totem with 5 health at the feet of the caster. The totem enhances the melee attacks of all party or raid members within 30 yards. Each main hand hit has a 20% chance of granting the attacker 1 extra attack with (95 * 1) extra melee attack power. Lasts 5 min."
+  },
+  "10613": {
+   "name": "Windfury Totem",
+   "tooltip": "Windfury Totem 175 Mana Instant Requires Shaman Requires level 42 Tools: Air Totem Summons a Windfury Totem with 5 health at the feet of the caster. The totem enhances the melee attacks of all party or raid members within 30 yards. Each main hand hit has a 20% chance of granting the attacker 1 extra attack with (179 * 1) extra melee attack power. Lasts 5 min."
+  },
+  "10614": {
+   "name": "Windfury Totem",
+   "tooltip": "Windfury Totem 250 Mana Instant Requires Shaman Requires level 52 Tools: Air Totem Summons a Windfury Totem with 5 health at the feet of the caster. The totem enhances the melee attacks of all party or raid members within 30 yards. Each main hand hit has a 20% chance of granting the attacker 1 extra attack with (246 * 1) extra melee attack power. Lasts 5 min."
   }
  }
 }

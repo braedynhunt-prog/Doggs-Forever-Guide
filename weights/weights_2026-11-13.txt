@@ -1,0 +1,185 @@
+enh_weights.py run, 13 Nov 2026 (class tuning live 12 Nov: Stormstrike 100% weapon damage / 8 s cooldown, Mental Dexterity 33/66/100% of Int; spell and talent values re-read at build 1.60.1.70938; optional Windfury Totem term). Every band moves against weights_2026-11-11.txt because Mental Dexterity is in all of them.
+
+
+=== Level 10 === policy: shock every 6 s + Lightning Shield
+   kills/h 168  fight 5.4s  white dps 15.6  AP 133 (Rockbiter 63)  crit 3.1%  ES 39 x1.9/fight  pool 304  fights/drink 2.1  fight-share 0.67  heal mana/cycle 0
+   naked+gear: Str 30 Agi 20 Sta 32 Int 27 Spi 30
+   wdps=13.88  str=1.99  ap=1.00  int=0.49  agi=0.39  spi=7.39  sta=0.00  sp=4.19  exp=13.63  hitpct=2.83  critpct=2.83  mace_bonus=0.00
+--- Level 10 --- policy: kill-speed optimum = shocks/fight 1, Lightning Shield True
+   kills/h 171  fight 7.7s  white dps 15.6  AP 133 (Rockbiter 63)  crit 3.1%  ES 39 x1.0/fight  pool 304  fights/drink 3.4  fight-share 0.79  heal mana/cycle 3
+   naked+gear: Str 30 Agi 20 Sta 32 Int 27 Spi 30
+   wdps=13.85  str=1.99  ap=1.00  int=0.41  agi=0.46  spi=3.87  sta=0.00  sp=2.57  exp=13.48  hitpct=2.83  critpct=2.83  mace_bonus=0.00
+
+=== Level 15 === policy: shock every 6 s + Lightning Shield
+   kills/h 147  fight 7.8s  white dps 22.7  AP 193 (Rockbiter 76)  crit 6.4%  ES 72 x2.3/fight  pool 487  fights/drink 1.6  fight-share 0.68  heal mana/cycle 18
+   naked+gear: Str 37 Agi 24 Sta 45 Int 34 Spi 35
+   wdps=13.94  str=2.00  ap=1.00  int=1.13  agi=0.55  spi=4.54  sta=0.00  sp=3.43  exp=5.68  hitpct=3.84  critpct=3.84  mace_bonus=0.00
+--- Level 15 --- policy: kill-speed optimum = shocks/fight max, Lightning Shield True
+   kills/h 147  fight 7.8s  white dps 22.7  AP 193 (Rockbiter 76)  crit 6.4%  ES 72 x2.3/fight  pool 487  fights/drink 1.6  fight-share 0.68  heal mana/cycle 18
+   naked+gear: Str 37 Agi 24 Sta 45 Int 34 Spi 35
+   wdps=13.94  str=2.00  ap=1.00  int=1.13  agi=0.55  spi=4.54  sta=0.00  sp=3.43  exp=5.68  hitpct=3.84  critpct=3.84  mace_bonus=0.00
+
+=== Level 20 === policy: shock every 6 s + Lightning Shield
+   kills/h 162  fight 9.0s  white dps 40.1  AP 314 (Rockbiter 103)  crit 10.6%  ES 73 x2.5/fight  pool 757  fights/drink 4.9  fight-share 0.81  heal mana/cycle 35
+   naked+gear: Str 64 Agi 48 Sta 57 Int 44 Spi 56
+   wdps=13.96  str=2.00  ap=1.00  int=1.15  agi=0.79  spi=3.94  sta=0.00  sp=2.94  exp=5.35  hitpct=6.17  critpct=6.17  mace_bonus=0.00
+--- Level 20 --- policy: kill-speed optimum = shocks/fight max, Lightning Shield True
+   kills/h 162  fight 9.0s  white dps 40.1  AP 314 (Rockbiter 103)  crit 10.6%  ES 73 x2.5/fight  pool 757  fights/drink 4.9  fight-share 0.81  heal mana/cycle 35
+   naked+gear: Str 64 Agi 48 Sta 57 Int 44 Spi 56
+   wdps=13.96  str=2.00  ap=1.00  int=1.15  agi=0.79  spi=3.94  sta=0.00  sp=2.94  exp=5.35  hitpct=6.17  critpct=6.17  mace_bonus=0.00
+
+=== Level 25 === policy: shock every 6 s + Lightning Shield
+   kills/h 192  fight 6.1s  white dps 45.6  AP 399 (Rockbiter 163)  crit 10.2%  ES 140 x2.0/fight  pool 1005  fights/drink 3.7  fight-share 0.80  heal mana/cycle 21
+   naked+gear: Str 68 Agi 49 Sta 58 Int 52 Spi 61
+   wdps=14.31  str=2.00  ap=1.00  int=1.17  agi=0.78  spi=3.18  sta=0.00  sp=2.75  exp=4.38  hitpct=7.14  critpct=7.14  mace_bonus=0.00
+--- Level 25 --- policy: kill-speed optimum = shocks/fight max, Lightning Shield True
+   kills/h 192  fight 6.1s  white dps 45.6  AP 399 (Rockbiter 163)  crit 10.2%  ES 140 x2.0/fight  pool 1005  fights/drink 3.7  fight-share 0.80  heal mana/cycle 21
+   naked+gear: Str 68 Agi 49 Sta 58 Int 52 Spi 61
+   wdps=14.31  str=2.00  ap=1.00  int=1.17  agi=0.78  spi=3.18  sta=0.00  sp=2.75  exp=4.38  hitpct=7.14  critpct=7.14  mace_bonus=0.00
+
+=== Level 30 === policy: shock every 6 s + Lightning Shield
+   kills/h 173  fight 8.3s  white dps 54.1  AP 466 (Rockbiter 202)  crit 9.1%  ES 147 x2.4/fight  pool 1253  fights/drink 4.7  fight-share 0.83  heal mana/cycle 56
+   naked+gear: Str 74 Agi 42 Sta 84 Int 58 Spi 71
+   wdps=13.98  str=2.00  ap=1.00  int=1.14  agi=0.96  spi=4.21  sta=0.00  sp=2.28  exp=3.96  hitpct=8.34  critpct=9.74  mace_bonus=0.00
+--- Level 30 --- policy: kill-speed optimum = shocks/fight max, Lightning Shield True
+   kills/h 173  fight 8.3s  white dps 54.1  AP 466 (Rockbiter 202)  crit 9.1%  ES 147 x2.4/fight  pool 1253  fights/drink 4.7  fight-share 0.83  heal mana/cycle 56
+   naked+gear: Str 74 Agi 42 Sta 84 Int 58 Spi 71
+   wdps=13.98  str=2.00  ap=1.00  int=1.14  agi=0.96  spi=4.21  sta=0.00  sp=2.28  exp=3.96  hitpct=8.34  critpct=9.74  mace_bonus=0.00
+
+=== Level 40 === policy: shock every 6 s + Lightning Shield
+   kills/h 196  fight 7.5s  white dps 84.8  AP 682 (Rockbiter 357)  crit 8.4%  ES 274 x2.2/fight  pool 2177  fights/drink 10.1  fight-share 0.90  heal mana/cycle 42
+   naked+gear: Str 83 Agi 41 Sta 101 Int 99 Spi 151
+   wdps=14.50  str=2.00  ap=1.00  int=1.19  agi=1.13  spi=5.10  sta=0.00  sp=2.24  exp=3.96  hitpct=0.00  critpct=14.17  mace_bonus=0.00
+--- Level 40 --- policy: kill-speed optimum = shocks/fight max, Lightning Shield True
+   kills/h 196  fight 7.5s  white dps 84.8  AP 682 (Rockbiter 357)  crit 8.4%  ES 274 x2.2/fight  pool 2177  fights/drink 10.1  fight-share 0.90  heal mana/cycle 42
+   naked+gear: Str 83 Agi 41 Sta 101 Int 99 Spi 151
+   wdps=14.50  str=2.00  ap=1.00  int=1.19  agi=1.13  spi=5.10  sta=0.00  sp=2.24  exp=3.96  hitpct=0.00  critpct=14.17  mace_bonus=0.00
+
+##### imbue: Rockbiter vs Windfury on the band's scenario (kill-speed optimum policy) #####
+   growth = how far the imbue's AP has grown inside its rank: model = linear to the next rank, floor = the passive
+   aura's base value, max = the level-60 tooltip value
+   L30 rockbiter growth model                     kills/h  172.9  fight  8.3s  white  54.1 (Windfury  0.0)  AP  466  Stormstrike 174 x1.5  ES 147 x2.4
+   L30 rockbiter growth floor                     kills/h  168.3  fight  8.7s  white  50.9 (Windfury  0.0)  AP  419  Stormstrike 164 x1.6  ES 147 x2.5
+   L30 rockbiter growth max                       kills/h  176.0  fight  8.0s  white  56.3 (Windfury  0.0)  AP  497  Stormstrike 181 x1.5  ES 147 x2.3
+   L30 windfury  growth model                     kills/h  174.7  fight  8.1s  white  55.5 (Windfury 15.2)  AP  264  Stormstrike 178 x1.5  ES 147 x2.4
+   L30 windfury  growth floor                     kills/h  174.7  fight  8.1s  white  55.5 (Windfury 15.2)  AP  264  Stormstrike 178 x1.5  ES 147 x2.4
+   L30 windfury  growth max                       kills/h  177.4  fight  7.9s  white  57.4 (Windfury 17.1)  AP  264  Stormstrike 184 x1.5  ES 147 x2.3
+   L40 rockbiter growth model                     kills/h  195.7  fight  7.5s  white  84.8 (Windfury  0.0)  AP  682  Stormstrike 313 x1.4  ES 274 x2.2
+   L40 rockbiter growth floor                     kills/h  188.6  fight  8.0s  white  77.3 (Windfury  0.0)  AP  578  Stormstrike 286 x1.5  ES 274 x2.3
+   L40 rockbiter growth max                       kills/h  200.3  fight  7.1s  white  89.8 (Windfury  0.0)  AP  751  Stormstrike 330 x1.4  ES 274 x2.2
+   L40 windfury  growth model                     kills/h  195.6  fight  7.5s  white  84.7 (Windfury 25.6)  AP  325  Stormstrike 311 x1.4  ES 274 x2.2
+   L40 windfury  growth floor                     kills/h  195.6  fight  7.5s  white  84.7 (Windfury 25.6)  AP  325  Stormstrike 311 x1.4  ES 274 x2.2
+   L40 windfury  growth max                       kills/h  199.0  fight  7.2s  white  88.4 (Windfury 29.3)  AP  325  Stormstrike 324 x1.4  ES 274 x2.2
+
+##### level 40 weapon: Rage of the Storm vs Bonebiter (sheet talents, kill-speed optimum policy) #####
+   Rage of the Storm + rockbiter                  kills/h  195.7  fight  7.5s  white  84.8 (Windfury  0.0)  AP  682  Stormstrike 313 x1.4  ES 274 x2.2
+   Rage of the Storm + rockbiter, no Stormstrike  kills/h  164.8  fight 11.4s  white  84.8 (Windfury  0.0)  AP  682  Stormstrike   0 x0.0  ES 274 x2.9
+   Bonebiter + rockbiter                          kills/h  195.5  fight  7.5s  white  88.6 (Windfury  0.0)  AP  690  Stormstrike 290 x1.4  ES 274 x2.2
+   Bonebiter + rockbiter, no Stormstrike          kills/h  167.7  fight 11.1s  white  88.6 (Windfury  0.0)  AP  690  Stormstrike   0 x0.0  ES 274 x2.8
+   Rage of the Storm + windfury                   kills/h  195.6  fight  7.5s  white  84.7 (Windfury 25.6)  AP  325  Stormstrike 311 x1.4  ES 274 x2.2
+   Rage of the Storm + windfury, no Stormstrike   kills/h  164.8  fight 11.4s  white  84.7 (Windfury 25.6)  AP  325  Stormstrike   0 x0.0  ES 274 x2.9
+   Bonebiter + windfury                           kills/h  196.9  fight  7.4s  white  90.0 (Windfury 27.0)  AP  333  Stormstrike 296 x1.4  ES 274 x2.2
+   Bonebiter + windfury, no Stormstrike           kills/h  168.7  fight 11.0s  white  90.0 (Windfury 27.0)  AP  333  Stormstrike   0 x0.0  ES 274 x2.8
+
+##### level 40 weights by weapon and imbue (AP = 1, kill-speed optimum policy) #####
+   Rage of the Storm + rockbiter  wdps=14.50  str=2.00  int=1.19  agi=1.13  spi=5.10  sp=2.24  exp=3.96  hitpct=0.00  critpct=14.17
+   Bonebiter + rockbiter          wdps=14.15  str=2.00  int=1.20  agi=1.18  spi=5.32  sp=2.32  exp=4.10  hitpct=0.00  critpct=14.77
+   Rage of the Storm + windfury   wdps=14.36  str=2.00  int=1.15  agi=0.83  spi=3.75  sp=1.65  exp=3.86  hitpct=0.00  critpct=10.42
+   Bonebiter + windfury           wdps=14.10  str=2.00  int=1.15  agi=0.88  spi=3.98  sp=1.72  exp=4.07  hitpct=0.00  critpct=11.02
+
+##### Windfury Totem next to the fight, with the imbue (13 Nov 2026; band 30 stands in for 32) #####
+   totem AP 0 = extra attack with no bonus, 95 = the rank-1 tooltip value; the totem's mana is not charged
+   L30 rockbiter no totem  172.9   totem AP  0:  180.8 (+4.6%)   totem AP 95:  181.7 (+5.1%)
+   L30 windfury  no totem  174.7   totem AP  0:  180.6 (+3.3%)   totem AP 95:  181.5 (+3.9%)
+   L40 rockbiter no totem  195.7   totem AP  0:  203.9 (+4.1%)   totem AP 95:  204.5 (+4.5%)
+   L40 windfury  no totem  195.6   totem AP  0:  201.3 (+2.9%)   totem AP 95:  201.9 (+3.3%)
+
+===== talent_check.py =====
+
+Talent check, kills/hour at the kill-speed optimum (band gear, Rockbiter; 40 = Rage of the Storm)
+   build                                            L25     L30     L40   vs sheet at 30 / 40
+   A  sheet as written                            191.8   172.9   195.7    +0.0% /  +0.0%
+   B  Flurry 5/5 first                            191.8   164.8   197.6    -4.7% /  +0.9%
+   C  Enhancement only to 40                      191.8   172.9   202.3    +0.0% /  +3.3%
+   D  Tidal Focus straight after Stormstrike      191.8   165.7   197.6    -4.2% /  +1.0%
+   E  Flurry instead of Imp. Ghost Wolf           191.8   174.3   197.6    +0.8% /  +1.0%
+   F  sheet, Flurry 5/5 instead of Mindfulness    191.8   172.9   197.6    +0.0% /  +1.0%
+
+   A  sheet as written: 24 Anticipation, 25 Stormstrike, 26-27 Imp. Ghost Wolf, 28-29 Flurry 2, 30-31 Imp. Stormstrike, 32 Spirit Weapons, 33-37 Tidal Focus, 38-40 Mindfulness
+   B  Flurry 5/5 first: 24 Ancestral Knowledge 3 (no Anticipation), 25 Stormstrike, 26-30 Flurry 5, 31-32 Imp. Stormstrike, 33-37 Tidal Focus, 38-40 Mindfulness (no Imp. Ghost Wolf, no Spirit Weapons)
+   C  Enhancement only to 40: the sheet to 32, then 33-35 Flurry 5, 36-37 Mental Quickness 2, 38-40 Imp. Lightning Shield 3 (no Restoration)
+   D  Tidal Focus straight after Stormstrike: 26-30 Tidal Focus 5, 31-34 Flurry 4, 35-36 Imp. Stormstrike, 37 Flurry 5, 38-40 Mindfulness (no Imp. Ghost Wolf, no Spirit Weapons)
+   E  Flurry instead of Imp. Ghost Wolf: 26-29 Flurry 4, 30-31 Imp. Stormstrike, 32 Flurry 5, 33-37 Tidal Focus, 38-40 Mindfulness (no Spirit Weapons)
+   F  sheet, Flurry 5/5 instead of Mindfulness: the sheet to 37 (Tidal Focus 5), then 38-40 Flurry 5 (Improved Stormstrike 2/2 already gives the casting regeneration)
+
+What each talent of the sheet is worth at 40 (kills/hour lost when it is removed; sheet = 195.7)
+   Thundering Strikes 5                        6.7 kills/h  (  1.3 per point)
+   Mental Dexterity 3                          6.8 kills/h  (  2.3 per point)
+   Ancestral Knowledge 2                       0.3 kills/h  (  0.1 per point)
+   Shamanistic Focus                          30.9 kills/h  ( 30.9 per point)
+   Elemental Weapons 3                         4.0 kills/h  (  1.3 per point)
+   Anticipation 1                              0.2 kills/h  (  0.2 per point)
+   Stormstrike (and Improved Stormstrike)     30.9 kills/h  ( 10.3 per point)
+   Improved Stormstrike 2                      0.0 kills/h  (  0.0 per point)
+   Flurry 2                                    1.3 kills/h  (  0.6 per point)
+   Tidal Focus 5                               4.4 kills/h  (  0.9 per point)
+   Mindfulness 3                               0.0 kills/h  (  0.0 per point)
+
+Sensitivity at 40 (sheet talents)
+   central                                                             195.7
+   Improved Stormstrike and Mindfulness regeneration stack             218.7
+   Improved Stormstrike chance 20% (the tooltip base value)            195.7
+   no Mindfulness, Improved Stormstrike chance 20%                     180.8
+   build C (Enhancement only), Improved Stormstrike chance 20%         186.9
+
+===== sensitivity.py =====
+
+
+##### level 15 #####
+baseline (efficient policy)                  pol=max/LS  wdps=13.94 str= 2.00 int= 1.13 agi= 0.55 spi= 4.54 sta= 0.00 sp= 3.43 exp= 5.68 hitpct= 3.84 critpct= 3.84 mace_bonus= 0.00
+baseline (shock every 6 s)                   pol=max/LS  wdps=13.94 str= 2.00 int= 1.13 agi= 0.55 spi= 4.54 sta= 0.00 sp= 3.43 exp= 5.68 hitpct= 3.84 critpct= 3.84 mace_bonus= 0.00
+Rockbiter at rank-floor value                pol=max/LS  wdps=13.94 str= 2.00 int= 1.13 agi= 0.52 spi= 4.30 sta= 0.00 sp= 3.33 exp= 5.38 hitpct= 3.64 critpct= 3.64 mace_bonus= 0.00
+Rockbiter at tooltip max                     pol=max/LS  wdps=13.94 str= 2.00 int= 1.13 agi= 0.56 spi= 4.58 sta= 0.00 sp= 3.44 exp= 5.72 hitpct= 3.86 critpct= 3.86 mace_bonus= 0.00
+mobs +1 level                                pol=max/LS  wdps=13.94 str= 2.00 int= 1.13 agi= 0.57 spi= 4.51 sta= 0.00 sp= 3.45 exp= 5.87 hitpct= 3.97 critpct= 3.97 mace_bonus= 0.00
+mobs +2 levels                               pol=max/LS  wdps=13.94 str= 2.00 int= 1.14 agi= 0.61 spi= 4.47 sta= 0.00 sp= 3.54 exp= 6.30 hitpct= 4.26 critpct= 4.26 mace_bonus= 0.00
+attacking from behind (group)                pol=max/LS  wdps=13.94 str= 2.00 int= 1.13 agi= 0.53 spi= 4.56 sta= 0.00 sp= 3.34 exp= 2.71 hitpct= 3.64 critpct= 3.64 mace_bonus= 0.00
+Spirit regen half of vanilla                 pol=max/LS  wdps=13.94 str= 2.00 int= 1.13 agi= 0.56 spi= 3.13 sta= 0.00 sp= 3.43 exp= 5.68 hitpct= 3.84 critpct= 3.84 mace_bonus= 0.00
+Spirit regen zero (Forever removed it)       pol=  1/LS  wdps=13.91 str= 1.99 int= 1.05 agi= 0.57 spi= 0.32 sta= 0.00 sp= 1.74 exp= 5.65 hitpct= 3.83 critpct= 3.83 mace_bonus= 0.00
+mob HP -30%                                  pol=max/LS  wdps=13.92 str= 2.00 int= 1.19 agi= 0.47 spi= 6.63 sta= 0.00 sp= 5.39 exp= 5.66 hitpct= 3.83 critpct= 3.83 mace_bonus= 0.00
+mob HP +30%                                  pol=max/LS  wdps=13.95 str= 2.00 int= 1.11 agi= 0.55 spi= 3.76 sta= 0.00 sp= 2.63 exp= 5.69 hitpct= 3.84 critpct= 3.84 mace_bonus= 0.00
+walk 5 s between mobs                        pol=max/LS  wdps=13.95 str= 2.00 int= 1.13 agi= 0.55 spi= 3.53 sta= 0.00 sp= 3.43 exp= 5.69 hitpct= 3.84 critpct= 3.84 mace_bonus= 0.00
+walk 15 s between mobs                       pol=max/LS  wdps=13.92 str= 2.00 int= 1.13 agi= 0.47 spi= 6.15 sta= 0.00 sp= 3.42 exp= 5.67 hitpct= 3.83 critpct= 3.83 mace_bonus= 0.00
+mob damage x2 (heals needed)                 pol=max/LS  wdps=13.94 str= 2.00 int= 1.13 agi= 0.61 spi= 4.56 sta= 0.00 sp= 3.43 exp= 5.68 hitpct= 3.84 critpct= 3.84 mace_bonus= 0.00
+mob damage x3                                pol=max/LS  wdps=13.95 str= 2.00 int= 1.13 agi= 0.67 spi= 4.57 sta= 0.00 sp= 3.43 exp= 5.69 hitpct= 3.84 critpct= 3.84 mace_bonus= 0.00
+shock SP coefficient x2                      pol=max/LS  wdps=13.94 str= 2.00 int= 1.13 agi= 0.55 spi= 4.54 sta= 0.00 sp= 4.80 exp= 5.68 hitpct= 3.84 critpct= 3.84 mace_bonus= 0.00
+shock SP coefficient x0                      pol=max/LS  wdps=13.94 str= 2.00 int= 1.13 agi= 0.55 spi= 4.54 sta= 0.00 sp= 2.05 exp= 5.68 hitpct= 3.84 critpct= 3.84 mace_bonus= 0.00
+expertise: flat 0.1%/rating (no level scaling) pol=max/LS  wdps=13.94 str= 2.00 int= 1.13 agi= 0.55 spi= 4.54 sta= 0.00 sp= 3.43 exp= 0.77 hitpct= 3.84 critpct= 3.84 mace_bonus= 0.00
+expertise: 0.25%/point (TBC points)          pol=max/LS  wdps=13.94 str= 2.00 int= 1.13 agi= 0.55 spi= 4.54 sta= 0.00 sp= 3.43 exp= 1.92 hitpct= 3.84 critpct= 3.84 mace_bonus= 0.00
+mace spec restored (pre-17 Oct build)        pol=max/LS  wdps=13.94 str= 2.00 int= 1.13 agi= 0.55 spi= 4.56 sta= 0.00 sp= 3.43 exp= 5.62 hitpct= 3.79 critpct= 3.79 mace_bonus= 5.79
+agi/crit table x0.8 (agi better)             pol=max/LS  wdps=13.94 str= 2.00 int= 1.13 agi= 0.68 spi= 4.55 sta= 0.00 sp= 3.41 exp= 5.64 hitpct= 3.81 critpct= 3.81 mace_bonus= 0.00
+agi/crit table x1.2 (agi worse)              pol=max/LS  wdps=13.94 str= 2.00 int= 1.13 agi= 0.46 spi= 4.54 sta= 0.00 sp= 3.43 exp= 5.71 hitpct= 3.86 critpct= 3.86 mace_bonus= 0.00
+talents: Thundering Strikes first (IV order) pol=max/LS  wdps=13.94 str= 2.00 int= 0.46 agi= 0.51 spi= 4.28 sta= 0.00 sp= 3.33 exp= 5.20 hitpct= 3.51 critpct= 3.51 mace_bonus= 0.00
+
+##### level 20 #####
+baseline (efficient policy)                  pol=max/LS  wdps=13.96 str= 2.00 int= 1.15 agi= 0.79 spi= 3.94 sta= 0.00 sp= 2.94 exp= 5.35 hitpct= 6.17 critpct= 6.17 mace_bonus= 0.00
+baseline (shock every 6 s)                   pol=max/LS  wdps=13.96 str= 2.00 int= 1.15 agi= 0.79 spi= 3.94 sta= 0.00 sp= 2.94 exp= 5.35 hitpct= 6.17 critpct= 6.17 mace_bonus= 0.00
+Rockbiter at rank-floor value                pol=max/LS  wdps=13.96 str= 2.00 int= 1.15 agi= 0.77 spi= 3.82 sta= 0.00 sp= 2.90 exp= 5.21 hitpct= 6.01 critpct= 6.01 mace_bonus= 0.00
+Rockbiter at tooltip max                     pol=max/LS  wdps=13.96 str= 2.00 int= 1.15 agi= 0.81 spi= 4.06 sta= 0.00 sp= 2.98 exp= 5.48 hitpct= 6.32 critpct= 6.32 mace_bonus= 0.00
+mobs +1 level                                pol=max/LS  wdps=13.96 str= 2.00 int= 1.15 agi= 0.81 spi= 3.90 sta= 0.00 sp= 2.96 exp= 5.52 hitpct= 6.37 critpct= 6.37 mace_bonus= 0.00
+mobs +2 levels                               pol=max/LS  wdps=13.97 str= 2.00 int= 1.15 agi= 0.86 spi= 3.84 sta= 0.00 sp= 3.02 exp= 5.91 hitpct= 6.81 critpct= 6.81 mace_bonus= 0.00
+attacking from behind (group)                pol=max/LS  wdps=13.96 str= 2.00 int= 1.14 agi= 0.76 spi= 3.98 sta= 0.00 sp= 2.88 exp= 2.55 hitpct= 5.86 critpct= 5.86 mace_bonus= 0.00
+Spirit regen half of vanilla                 pol=max/LS  wdps=13.96 str= 2.00 int= 1.15 agi= 0.81 spi= 3.11 sta= 0.00 sp= 2.94 exp= 5.35 hitpct= 6.16 critpct= 6.16 mace_bonus= 0.00
+Spirit regen zero (Forever removed it)       pol=max/LS  wdps=13.96 str= 2.00 int= 1.15 agi= 0.84 spi= 0.68 sta= 0.00 sp= 2.94 exp= 5.35 hitpct= 6.16 critpct= 6.16 mace_bonus= 0.00
+mob HP -30%                                  pol=max/LS  wdps=13.95 str= 2.00 int= 1.19 agi= 0.79 spi= 5.38 sta= 0.00 sp= 4.37 exp= 5.34 hitpct= 6.16 critpct= 6.16 mace_bonus= 0.00
+mob HP +30%                                  pol=max/LS  wdps=13.97 str= 2.00 int= 1.13 agi= 0.79 spi= 3.32 sta= 0.00 sp= 2.32 exp= 5.35 hitpct= 6.17 critpct= 6.17 mace_bonus= 0.00
+walk 5 s between mobs                        pol=max/LS  wdps=13.97 str= 2.00 int= 1.15 agi= 0.79 spi= 2.91 sta= 0.00 sp= 2.94 exp= 5.35 hitpct= 6.17 critpct= 6.17 mace_bonus= 0.00
+walk 15 s between mobs                       pol=max/LS  wdps=13.96 str= 2.00 int= 1.15 agi= 0.79 spi= 5.49 sta= 0.00 sp= 2.94 exp= 5.34 hitpct= 6.16 critpct= 6.16 mace_bonus= 0.00
+mob damage x2 (heals needed)                 pol=max/LS  wdps=13.97 str= 2.00 int= 1.15 agi= 0.89 spi= 4.17 sta= 0.00 sp= 2.94 exp= 5.35 hitpct= 6.17 critpct= 6.17 mace_bonus= 0.00
+mob damage x3                                pol=max/LS  wdps=13.97 str= 2.00 int= 1.15 agi= 0.96 spi= 4.34 sta= 0.00 sp= 2.94 exp= 5.35 hitpct= 6.17 critpct= 6.17 mace_bonus= 0.00
+shock SP coefficient x2                      pol=max/LS  wdps=13.96 str= 2.00 int= 1.15 agi= 0.79 spi= 3.94 sta= 0.00 sp= 4.18 exp= 5.35 hitpct= 6.17 critpct= 6.17 mace_bonus= 0.00
+shock SP coefficient x0                      pol=max/LS  wdps=13.96 str= 2.00 int= 1.15 agi= 0.79 spi= 3.94 sta= 0.00 sp= 1.69 exp= 5.35 hitpct= 6.17 critpct= 6.17 mace_bonus= 0.00
+expertise: flat 0.1%/rating (no level scaling) pol=max/LS  wdps=13.96 str= 2.00 int= 1.15 agi= 0.79 spi= 3.94 sta= 0.00 sp= 2.94 exp= 1.24 hitpct= 6.17 critpct= 6.17 mace_bonus= 0.00
+expertise: 0.25%/point (TBC points)          pol=max/LS  wdps=13.96 str= 2.00 int= 1.15 agi= 0.79 spi= 3.94 sta= 0.00 sp= 2.94 exp= 3.09 hitpct= 6.17 critpct= 6.17 mace_bonus= 0.00
+mace spec restored (pre-17 Oct build)        pol=max/LS  wdps=13.96 str= 2.00 int= 1.15 agi= 0.79 spi= 3.96 sta= 0.00 sp= 2.95 exp= 5.29 hitpct= 6.10 critpct= 6.10 mace_bonus= 8.16
+agi/crit table x0.8 (agi better)             pol=max/LS  wdps=13.96 str= 2.00 int= 1.15 agi= 0.98 spi= 3.95 sta= 0.00 sp= 2.92 exp= 5.28 hitpct= 6.08 critpct= 6.08 mace_bonus= 0.00
+agi/crit table x1.2 (agi worse)              pol=max/LS  wdps=13.96 str= 2.00 int= 1.15 agi= 0.67 spi= 3.94 sta= 0.00 sp= 2.95 exp= 5.40 hitpct= 6.22 critpct= 6.22 mace_bonus= 0.00

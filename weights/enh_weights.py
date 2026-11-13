@@ -142,7 +142,7 @@ def heal_hp_per_mana(level):
 
 # Talents added 11 Nov 2026 (WCLBox talent page, build 1.60.1.70888; Wowhead Forever spell pages):
 #   ss     Stormstrike (tier 4, 15 points): 150% normalized weapon damage (2H: AP x 3.3 / 14), 6 s cooldown, 8% of base
-#          mana, +20% on the next Earth Shock
+#          mana, +20% on the next Earth Shock (13 Nov 2026: 100% and 8 s, see SS_WEAPON_MULT / SS_COOLDOWN below)
 #   iss    Improved Stormstrike 0-2: 50 / 100% chance per Stormstrike of 50% mana regeneration while casting for 15 s
 #          (spell 1223031: base value 20, rank curve 50 / 100); the dodge/parry cooldown reset is not modelled
 #   flurry 0-5: +6% attack speed per rank for the 3 swings after a melee crit
@@ -155,8 +155,20 @@ TALENT_KEYS = ("ts", "md", "sf", "ew", "ak", "ss", "iss", "flurry", "ant", "tf",
 ISS_CHANCE = {0: 0.0, 1: 0.5, 2: 1.0}
 MINDFULNESS = {0: 0.0, 1: 0.17, 2: 0.33, 3: 0.50}
 FLURRY_PER_RANK = 0.06
-SS_COOLDOWN = 6.0
+# 13 Nov 2026: the class tuning announced 6 Nov went live 12 Nov 2026, 10:45 PST (Blizzard hotfix notes dated 10 Nov, US
+# forum topic 2403040 posts 6 and 9; live Wowhead tooltip 17364 and the WCLBox talent page at build 1.60.1.70938 agree):
+#   Stormstrike 100% weapon damage (was 150%), cooldown 8 s (was 6 s)
+#   Mental Dexterity 33 / 66 / 100% of Intellect as attack power (was 50 / 100 / 150% since the 3 Nov notes)
+#   weapon imbues and weapon totems work at the same time (Windfury Totem with Rockbiter or Windfury Weapon)
+# Maelstrom Weapon (tier 6, not modelled) changed in the same notes.
+SS_COOLDOWN = 8.0
+SS_WEAPON_MULT = 1.0
+MENTAL_DEXTERITY = {0: 0.0, 1: 0.33, 2: 0.66, 3: 1.0}
 SS_NORMALIZED_SPEED = 3.3
+# Windfury Totem (13 Nov 2026, nether tooltips 8512 / 10613): each main-hand hit has a 20% chance of 1 extra attack with
+# extra attack power; R1 level 32 "95", R2 level 42 "179" as a level-60 viewer sees them (the value at the rank's level
+# was not read). Off unless Scenario.wf_totem_ap is set; applied to white swings only.
+WINDFURY_TOTEM_PROC = 0.20
 
 # Expertise: Forever client = rating, 10 rating per 1% at 60 (wowsims/forever #34).  Below 60 the
 # TBC/Wrath rating curve is assumed: rating-per-1% = base60 * (L-8)/52 for 10<=L<=60.  UNCERTAIN.
@@ -184,6 +196,8 @@ class Scenario:
     ss_item_bonus: float = 0.0                     # Rage of the Storm: 0.10 (Equip: +10% Stormstrike damage)
     iss_chance: float = None                       # override Improved Stormstrike's chance per rank (tooltip base reads 20%)
     regen_stack: bool = False                      # True: Improved Stormstrike and Mindfulness casting regen add up (cap 100%)
+    wf_totem_ap: float = None                      # 13 Nov 2026: Windfury Totem standing next to the fight; the value is the
+                                                   # extra AP on its attack (0 to the tooltip's 95 / 179). None = no totem
     mace: bool = False                             # 17 Oct 2026: Dwarf Mace Specialization removed from Forever (Earth Fury);
                                                    # True only in sensitivity.py's "mace spec restored" case
     from_behind: bool = False
@@ -235,7 +249,8 @@ def kills_per_hour(s: Scenario, verbose=False):
     wf = s.imbue == "windfury"
     rb = 0.0 if wf else rockbiter_ap(L, s.rockbiter_frac) * (1 + 0.0667 * t["ew"])
     # 3 Nov 2026: Blizzard dev notes, Mental Dexterity 50/100/150% of Int (was 33/67/100%)
-    ap = MELEE_AP_BASE(L, Str) + g["ap"] + rb + Int * (0.5 * t["md"])
+    # 13 Nov 2026: back to 33/66/100% with the 12 Nov hotfix (MENTAL_DEXTERITY above)
+    ap = MELEE_AP_BASE(L, Str) + g["ap"] + rb + Int * MENTAL_DEXTERITY[t["md"]]
     crit = BASE_MELEE_CRIT + Agi / agi_per_crit(L) + t["ts"] + (1.0 if s.mace else 0.0) + g["critpct"]
     crit -= 1.0 * max(0, s.mob_level_delta)   # crit suppression 1%/level (magey)
     d = s.mob_level_delta
@@ -261,11 +276,18 @@ def kills_per_hour(s: Scenario, verbose=False):
         wf_extra = WINDFURY_PROC * 2 * (swing + wf_ap * s.weapon_speed / 14.0) * mult
         wf_dps = haste / s.weapon_speed * p_land * wf_extra
     white_dps = white_dps + wf_dps
+    # 13 Nov 2026. Windfury Totem with an imbue on the weapon: 20% per landed white swing of 1 extra white swing carrying
+    # the totem's AP. Its procs from Stormstrike and from Windfury Weapon's extra attacks are left out (not known).
+    wft_dps = 0.0
+    if s.wf_totem_ap is not None:
+        wft_dps = (haste / s.weapon_speed * p_land * WINDFURY_TOTEM_PROC
+                   * (swing + s.wf_totem_ap * s.weapon_speed / 14.0) * mult)
+    white_dps = white_dps + wft_dps
     # Stormstrike: yellow strike (no glancing), can proc Windfury.
     ss_dmg = ss_cost = 0.0
     if t["ss"]:
         y_mult = (100 - miss - dodge - parry + crit) / 100
-        ss_dmg = (1.5 * (s.weapon_dps * s.weapon_speed + ap * SS_NORMALIZED_SPEED / 14.0) * (1 + s.ss_item_bonus) * y_mult
+        ss_dmg = (SS_WEAPON_MULT * (s.weapon_dps * s.weapon_speed + ap * SS_NORMALIZED_SPEED / 14.0) * (1 + s.ss_item_bonus) * y_mult
                   + p_land * wf_extra)
         ss_cost = 0.08 * base_mana(L)
 
@@ -290,10 +312,11 @@ def kills_per_hour(s: Scenario, verbose=False):
         shocks = (T + 6.0) / 6.0 if s.policy_shocks == "max" else float(s.policy_shocks)
         if s.policy_shocks != "max":
             shocks = min(shocks, (T + 6.0) / 6.0)
-        # Stormstrike: one in the first cooldown window, then one per 6 s (mean of floor(T/6) + 1 = T/6 + 0.5); every
-        # shock after the pull shock lands inside a Stormstrike debuff (+20%).
+        # Stormstrike: one in the first cooldown window, then one per cooldown (mean of floor(T/cd) + 1 = T/cd + 0.5);
+        # every shock after the pull shock lands inside a Stormstrike debuff (+20%), one shock per Stormstrike (13 Nov
+        # 2026: the cap matters only now that the 8 s cooldown is longer than Earth Shock's 6 s).
         n_ss = (T / SS_COOLDOWN + 0.5) if t["ss"] else 0.0
-        ss_shock = (0.2 * es_dmg * max(0.0, shocks - 1.0)) if t["ss"] else 0.0
+        ss_shock = (0.2 * es_dmg * min(max(0.0, shocks - 1.0), n_ss)) if t["ss"] else 0.0
         dmg_fight = white_dps * T + shocks * es_dmg + ls_dmg_per_fight + n_ss * ss_dmg + ss_shock
         T = T * mob_hp / dmg_fight
     shocks = (T + 6.0) / 6.0 if s.policy_shocks == "max" else min(float(s.policy_shocks), (T + 6.0) / 6.0)
@@ -309,9 +332,9 @@ def kills_per_hour(s: Scenario, verbose=False):
     regen_walk = spirit_regen * max(0.0, s.walk_seconds - 5.0)   # last shock lands mid-fight; be conservative
     # 11 Nov 2026: regeneration while casting (the fight plus the 5-second tail). Improved Stormstrike's 15 s buff sees
     # about 2.5 Stormstrikes, so its uptime is 1 - (1 - chance)^2.5; Mindfulness is permanent. Central case: they do not
-    # stack (the larger wins); regen_stack adds them.
+    # stack (the larger wins); regen_stack adds them. 13 Nov 2026: 15 s / the 8 s cooldown = about 1.9 Stormstrikes.
     iss_ch = (ISS_CHANCE[t["iss"]] if s.iss_chance is None else (s.iss_chance if t["iss"] else 0.0)) if t["ss"] else 0.0
-    cast_a, cast_b = 0.5 * (1 - (1 - iss_ch) ** 2.5), MINDFULNESS[t["mind"]]
+    cast_a, cast_b = 0.5 * (1 - (1 - iss_ch) ** (15.0 / SS_COOLDOWN)), MINDFULNESS[t["mind"]]
     cast_regen = min(1.0, cast_a + cast_b) if s.regen_stack else max(cast_a, cast_b)
     regen_fight = spirit_regen * cast_regen * (T + min(5.0, s.walk_seconds))
     hp = base_health(L) + 20 + max(0.0, Sta - 20) * 10.0
@@ -493,3 +516,14 @@ if __name__ == "__main__":
         for weapon in WEAPONS_40:
             w, kph = weights(scenario_40(weapon, imbue))
             print(f"   {weapon + ' + ' + imbue:30s} " + "  ".join(f"{k}={w[k]:.2f}" for k in ["wdps", "str", "int", "agi", "spi", "sp", "exp", "hitpct", "critpct"]))
+    print("\n##### Windfury Totem next to the fight, with the imbue (13 Nov 2026; band 30 stands in for 32) #####")
+    print("   totem AP 0 = extra attack with no bonus, 95 = the rank-1 tooltip value; the totem's mana is not charged")
+    for lvl in (30, 40):
+        for imbue in ("rockbiter", "windfury"):
+            k0 = optimum(with_imbue(bands[lvl], imbue))[0]
+            row = []
+            for tap in (0.0, 95.0):
+                s2 = with_imbue(bands[lvl], imbue); s2.wf_totem_ap = tap
+                k1 = optimum(s2)[0]
+                row.append(f"totem AP {tap:2.0f}: {k1:6.1f} ({100 * (k1 / k0 - 1):+.1f}%)")
+            print(f"   L{lvl} {imbue:9s} no totem {k0:6.1f}   " + "   ".join(row))

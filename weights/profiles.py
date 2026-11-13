@@ -43,8 +43,10 @@ def nearest_band(level):
 # 8 Nov 2026: Spirit 1.0 -> 2.5, SP 1.5 -> 2.0, Int 1.55 -> 1.65, Agi 0.85 -> 0.8 after the character-sheet readings
 # (regen 1.25 x Spirit per 5 s, Int-independent; client crit tables; Earth Shock ranks of the 3 Nov build) - the
 # one-shock-per-fight case of the model; conservative = Lightning Shield only. docs/audit-2026-11-08.md.
-ENH_W20_CENTRAL = dict(wdps=14.0, str=2.0, ap=1.0, int=1.65, agi=0.8, spi=2.5, sta=0.0, sp=2.0, exp=3.0)
-ENH_W20_CONSERVATIVE = dict(wdps=14.0, str=2.0, ap=1.0, int=1.65, agi=0.8, spi=1.5, sta=0.0, sp=1.0, exp=1.0)
+# 13 Nov 2026: Int 1.65 -> 1.15 (Mental Dexterity back to 33/66/100% of Int with the 12 Nov hotfix; model 1.13-1.19 at
+# 15-40). docs/audit-2026-11-13.md.
+ENH_W20_CENTRAL = dict(wdps=14.0, str=2.0, ap=1.0, int=1.15, agi=0.8, spi=2.5, sta=0.0, sp=2.0, exp=3.0)
+ENH_W20_CONSERVATIVE = dict(wdps=14.0, str=2.0, ap=1.0, int=1.15, agi=0.8, spi=1.5, sta=0.0, sp=1.0, exp=1.0)
 
 _enh_cache = {}
 

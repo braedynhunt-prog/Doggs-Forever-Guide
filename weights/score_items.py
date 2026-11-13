@@ -160,8 +160,9 @@ def main():
     # Central weights (level-20 band) and a conservative set with Spirit/SP/Expertise at the low end of their ranges.
     # 3 Nov 2026: Int 1.05 -> 1.55 (Mental Dexterity 50/100/150% of Int, was 33/67/100%; source: Blizzard dev notes 3 Nov)
     # 8 Nov 2026: Spi 1.0 -> 2.5, SP 1.5 -> 2.0, Int 1.55 -> 1.65, Agi 0.85 -> 0.8 (sheet readings; see profiles.py / docs/audit-2026-11-08.md)
-    w_eff = dict(wdps=14.0, str=2.0, ap=1.0, int=1.65, agi=0.8, spi=2.5, sta=0.0, sp=2.0, exp=3.0)
-    w_spam = dict(wdps=14.0, str=2.0, ap=1.0, int=1.65, agi=0.8, spi=1.5, sta=0.0, sp=1.0, exp=1.0)
+    # 13 Nov 2026: Int 1.65 -> 1.15 (Mental Dexterity 33/66/100% again, 12 Nov hotfix; docs/audit-2026-11-13.md)
+    w_eff = dict(wdps=14.0, str=2.0, ap=1.0, int=1.15, agi=0.8, spi=2.5, sta=0.0, sp=2.0, exp=3.0)
+    w_spam = dict(wdps=14.0, str=2.0, ap=1.0, int=1.15, agi=0.8, spi=1.5, sta=0.0, sp=1.0, exp=1.0)
     # 11 Nov 2026: --band N scores with that band's sets from profiles.enh_band_weights() (Int/Agi from the model) and
     # that level's rules (Mail from 40, req <= N in the slot table). No flag = the level-20 output as before.
     band = 20
