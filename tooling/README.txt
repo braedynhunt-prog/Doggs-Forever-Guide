@@ -87,7 +87,7 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                        Recipe and fishing-item values are Forever tooltips (nether.wowhead.com/forever/tooltip/item/<id>, 28 Oct);
                        trainer ranks (Journeyman 50 / level 10) and Camping 101 thresholds are Classic values, marked unverified.
                        Add a row whenever a new recipe/trainer line goes into the guide.
-  check_guide_baseline.txt / verify_baseline.txt   the accepted findings (7 cosmetic "optional step without [G]"; 42 verify lines).
+  check_guide_baseline.txt / verify_baseline.txt   the accepted findings (13 Nov 2026: 26 check_guide lines, 91 verify lines; the round-2 additions are named in docs\40-50-build-2026-11-13.md).
   hook_check_guide.py  Claude Code PostToolUse hook (.claude\settings.json, matcher Edit|Write|MultiEdit): after a .lua under guide\
                        is edited it runs check_guide.py and verify.py and returns only what is missing from the baselines on stderr
                        with exit 2, so the finding lands back in the session. Hook settings load when Claude Code starts.

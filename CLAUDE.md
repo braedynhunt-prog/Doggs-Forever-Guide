@@ -1,6 +1,6 @@
 # WoW Forever Atlas
 
-Braedyn's levelling guide for his Dwarf Shaman (2H Enhancement) on WoW Forever, Alliance, built as a Guidelime addon, plus the data and tooling that produce it. The guide covers 1-42 since 11 Nov 2026: chapters `00a`-`26` (group "Forever Shaman 1-30") and `27`-`41` (group "Forever Shaman 30-60", round 1; record `docs/30-40-build-2026-11-11.md`). 40-50 and 50-60 are the next rounds.
+Braedyn's levelling guide for his Dwarf Shaman (2H Enhancement) on WoW Forever, Alliance, built as a Guidelime addon, plus the data and tooling that produce it. The guide covers 1 to about 48-49 since 13 Nov 2026: chapters `00a`-`26` (group "Forever Shaman 1-30") and `27`-`57` (group "Forever Shaman 30-60": round 1 is `27`-`41`, record `docs/30-40-build-2026-11-11.md`; round 2 is `42`-`57`, record `docs/40-50-build-2026-11-13.md`). Round 3 (to 60) is next and starts from the open ends the round-2 record lists.
 
 Owner: Braedyn. He plays the guide and reports what breaks; you keep the files correct.
 
