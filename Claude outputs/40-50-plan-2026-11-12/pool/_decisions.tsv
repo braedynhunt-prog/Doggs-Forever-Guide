@@ -7,7 +7,7 @@
 -182	2851	Wild Leather Boots	45	30	2900	0	OUT	Wild Leather quests: Leatherworking thread	SKILL[165, 225]	60	Feet 0.0 Pattern: Wild Leather Boots (no stats)
 -182	2852	Wild Leather Leggings	45	30	2900	0	OUT	Wild Leather quests: Leatherworking thread	SKILL[165, 225]	60	Legs 0.0 Pattern: Wild Leather Leggings (no stats)
 -182	2853	Master of the Wild Leather	45	30	3900	0	OUT	Wild Leather quests: Leatherworking thread	SKILL[165, 225]	0	Back 0.0 Pattern: Wild Leather Cloak (no stats)
--182	5141	Dragonscale Leatherworking	55	40	4200	0	GATE	Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225; open point 5	DROP SKILL[165, 225]	62	
+-182	5141	Dragonscale Leatherworking	55	40	4200	0	GATE	Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225 (Braedyn, 13 Nov)	DROP SKILL[165, 225]	62	
 -182	5143	Tribal Leatherworking	55	40	4200	0	OUT	chain behind 2853 Master of the Wild Leather (Wild Leather quests: Leatherworking thre)	SKILL[165, 225]	0	
 -182	5144	Elemental Leatherworking	55	40	4200	0	HOLD	needs skill [165, 225]	DROP SKILL[165, 225]	63	
 -284	78150	Friend of the Library	20	1	155	125	OUT	Undercity library quests (Horde city)	PRECHAIN	0	Neck 5.0 Scholarly Pendant (+3 Sta +2 Spi)
@@ -23,8 +23,6 @@
 0	7838	Arena Grandmaster	55	0	0	0	OUT	chain behind 7810 Arena Master (raid / pvp / event)	NOXP	0	
 0	8405	Fight for Warsong Gulch	39	30	3000	4500	OUT	battleground quest		0	
 0	8406	Fight for Warsong Gulch	49	40	0	0	OUT	no XP, nothing kept behind it	NOXP	0	
-1	97017	Your First Riding Ram	40	40	1550	0	R1FIX	new in QuestieDB 1.0.16: the level-40 ram quest belongs in chapter 39d (round 1), not in round 2		1	
-1	97018	Learning to Ride	40	40	0	0	OUT	no XP, nothing kept behind it	NOXP	0	
 1	97188	Learning to Ride	40	40	0	0	OUT	no XP, nothing kept behind it	NOXP	0	
 10	1395	Supplies for Nethergarde	45	40	2900	5000	PLAIN			0	
 1176	96770	The Witch Doctor's Head	46	39	5050	13000	DUN-boss	Zum'rah's Head: one boss (two NPC ids), 28% on Wowhead over all kills	DUNGEON DROP	46	

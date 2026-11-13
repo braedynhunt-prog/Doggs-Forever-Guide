@@ -332,7 +332,7 @@ Talrendis Point, new on Forever; its flight point is not known, so the first tri
 - 89470 Ill Tidings (L55, req 47) 2,800
 
 **Optional / conditional:**
-- 5141 Dragonscale Leatherworking (L55, req 40) 4,200 [gate] - Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225; open point 5
+- 5141 Dragonscale Leatherworking (L55, req 40) 4,200 [gate] - Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225 (Braedyn, 13 Nov)
 - 86747 Legashi Horns (L53, req 47) 530 [conditional] - no giver in the DB or on Wowhead (ends at Ekkal, Azshara 42.0,38.9): taken if it is offered or drops
 - 86752 Report to Rageroar (L53, req 47) 530 [conditional] - Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
 - 86777 Master Feardred (L53, req 47) 5,250 [conditional] - Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance

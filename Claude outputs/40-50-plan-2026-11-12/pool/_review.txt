@@ -68,7 +68,7 @@
 == GATE
 -101 6607 Nat Pagle, Angler Extreme L45 req35 xp 3900 | Artisan Fishing: Nat Pagle, only at Fishing 225
 -101 6609 I Got Nothin' Left! L45 req35 xp 970 | lead-in to Nat Pagle, only at Fishing 225
--182 5141 Dragonscale Leatherworking L55 req40 xp 4200 | Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225; open point 5
+-182 5141 Dragonscale Leatherworking L55 req40 xp 4200 | Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225 (Braedyn, 13 Nov)
 
 == GROUP-OPT
 3 717 Tremors of the Earth L50 req40 xp 5900 | elite outside a dungeon (rule 13): Blacklash (50 elite), Hematus (50 elite); kept optional for the Prismscale Hauberk (mail chest, scores 64.3 on the level-40 band) | best reward: Chest 64.3 Prismscale Hauberk [Mail] +3 Sta +4 Int +23 Spi
