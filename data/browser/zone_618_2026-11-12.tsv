@@ -85,11 +85,16 @@ ZONE	/forever/zone=618/winterspring
 8798	60	55		3	618	1		0	0	unchanged	0			A Yeti of Your Own
 9266	60	40		2	33	0		0	0	updated	0			Making Amends
 84138	60	55	4950		2317	1		0	0	unconfirmed	0			Frosty Favors
+84146	60	55	6600		618	1		0	0	unconfirmed	0			Red Bag Blues
+84211	60	58	6600		46	0		0	0	unconfirmed	0			Poacher's Den
 84212	60	58	6600		618	1		0	0	unconfirmed	0			Bookin' it Back
 92008	56	54	2900		616	1		0	0	new	0			Premiere Parts
 92009	56	54	5800		616	1		0	0	new	0			Crate Expectations
 92859	60	55	3300		618	1		0	0	new	0		281234	Shroud of the Winter Wilds
 93197	58	56	3100		616	1		0	0	new	0			Mending Communications
+93269	58	56	620		616	1		0	0	new	0		260307,260308	Top of the Post
+93406	56	56	4350		616	1		0	0	new	0			Unfrozen Deliveries
+94324	60	1			16941	0		0	0	new	0			Craftsman's Writ: Distilled Firewater
 96265	60	60	6600		618	1		0	0		24300			Secret of the Barrow Deeps
 97264	58	55	6200	2	618	1		0	0	new	0			Shardtooth Pulling
 97403	59	55	6400	2	618	1		0	0	new	0			Two-Headed Ravagers
