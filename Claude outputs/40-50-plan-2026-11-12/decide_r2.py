@@ -63,6 +63,9 @@ def item_rate(it):
     if e and e.get('overall_pct') is not None: return e['overall_pct'], 'drop_rates.json 11 Nov'
     if it.get('rate') is not None: return it['rate'], 'tooltip'
     return None, 'no rate'
+DONE = set()
+for _fn in glob.glob(os.path.join(ROOT, 'guide', 'Guidelime_ForeverShaman', '*.lua')):
+    DONE |= {int(x) for x in re.findall(r'\[Q[AT](\d+)', open(_fn, encoding='utf-8').read())}
 V = {}
 def base(q):
     f = q['flags']; qid = q['id']
@@ -128,7 +131,7 @@ while changed:                      # chain closure: a quest behind an OUT quest
     changed = False
     for qid, q in P.items():
         if V[qid][0] == 'OUT': continue
-        dead = lambda p: (p in P and V[p][0] in ('OUT', 'JUDGE-OUT'))
+        dead = lambda p: (p in P and V[p][0] in ('OUT', 'JUDGE-OUT')) or (p not in P and p not in DONE)   # 13 Nov: a prerequisite that is neither in the pool nor done (Horde twin, removed quest) can never be met
         gone = [p for p in q.get('pre_all', []) if dead(p)]
         one = q.get('pre_one', [])
         if one and all(dead(p) for p in one): gone += one
@@ -146,6 +149,40 @@ while changed:                      # a quest behind a "your call" or "round 3" 
             if hit:
                 word = {'ASK': 'your call', 'LATER': 'left for round 3', 'COND': 'conditional'}[tag]
                 V[qid] = (tag, f"behind {hit[0]} {P[hit[0]]['name']}, which is {word}"); changed = True; break
+# 13 Nov 2026: Wowhead's series as an offer gate. QuestieDB carries no prerequisites for most Forever-only quests, so
+# a quest that Wowhead's series box puts right after a quest that is out, optional, or never taken may not be offered.
+# Such a quest is listed as conditional ("only if it is offered"), not counted. A series is not proof of a
+# prerequisite (data/wowhead_quest_links.json says so), which is why the quest is kept at all.
+OPT_DONE = {}
+for _fn in sorted(glob.glob(os.path.join(ROOT, 'guide', 'Guidelime_ForeverShaman', '*.lua'))):
+    _ch = os.path.basename(_fn).split('_')[0]
+    for _line in open(_fn, encoding='utf-8').read().split('\n'):
+        for _x in re.findall(r'\[QT(\d+)', _line):
+            _x = int(_x)
+            if _line.startswith('[O]'): OPT_DONE.setdefault(_x, _ch)
+            else: OPT_DONE[_x] = None            # handed in on a plain line somewhere: required
+OPT_DONE = {k: v for k, v in OPT_DONE.items() if v}
+SERIES_PRE = collections.defaultdict(set)
+for _q, _e in WLq.items():
+    for _s in _e.get('series') or []:
+        _s = [int(x) for x in _s]
+        if int(_q) in _s and _s.index(int(_q)) > 0: SERIES_PRE[int(_q)].add(_s[_s.index(int(_q)) - 1])
+def _nm(p): return (P.get(p) or {}).get('name') or (QDB.get(str(p)) or ['?'])[0]
+SOLID = ('PLAIN', 'LINK', 'DUN-normal', 'DUN-boss')
+changed = True
+while changed:
+    changed = False
+    for qid, q in P.items():
+        if V[qid][0] not in SOLID: continue
+        for p in sorted(SERIES_PRE.get(qid, ())):
+            if p in OPT_DONE:
+                why = f"offered only if the optional {p} {_nm(p)} was done in chapter {OPT_DONE[p]} (Wowhead series)"
+            elif p in DONE or (p in P and V[p][0] in SOLID): continue
+            elif p in P and V[p][0] in ('COND', 'ASK', 'GATE', 'DUN-grind', 'GROUP-OPT'):
+                why = f"Wowhead's series puts it after {p} {_nm(p)}, which is {V[p][0].lower()}: taken only if it is offered"
+            else:
+                why = f"Wowhead's series puts it after {p} {_nm(p)}, which is out: taken only if it is offered"
+            V[qid] = ('COND', why); changed = True; break
 needed = set()                      # 0-XP steps and pre-chain steps that a kept quest needs
 KEEP = ('PLAIN', 'DUN-normal', 'DUN-boss', 'DUN-grind')
 def mark(qid):

@@ -86,7 +86,7 @@
 93604	OUT	Razorfen Downs quest, no side on Wowhead; the Downs were run in chapter 39b
 93404	OUT	giver Woodwyrd (254674) stands in Shen'dralas, which is out (11 Nov ruling)
 78823	COND	no giver in the DB or on Wowhead (ends at Hemet Nesingwary)
-78830	COND	shaman-flagged row with no giver; a Season of Discovery leftover unless it shows up in game
+78830	OUT	given by Hemet Nesingwary (Wowhead, 13 Nov) for a Hunter rune: QuestieDB marks it Hunter only, Wowhead Hunter and Shaman; its item comes from the Badlands, which the route passes before Hemet
 87295	LATER	Blasted Lands, level 52: round 3
 # --- zones and quests moved out of the round
 1139	OUT	Uldaman was run in chapter 39e: no re-run (rule 2)
@@ -193,3 +193,8 @@
 3372	OUT	behind Dwarven Justice (level 55, round 3) and its artifact is guarded by Twilight's Hammer Idolaters (51 elite)
 7044	DUN-boss	Celebrian Rod and Diamond: Noxxion 43% and Lord Vyletongue 38% on Wowhead over all kills
 5141	GATE	Dragonscale Leatherworking at Peter Galen (Azshara 37.6,65.4): only at Leatherworking 225 (Braedyn, 13 Nov)
+94829	OUT	Farmers' Mementos 7.26% from Twilight Raiders only (Wowhead tooltip, 13 Nov), five needed, about 69 kills - rule 12. QuestieDB has no objectives for this quest, so the first pass missed it; round 1 ruled it out the same way
+94858	OUT	Wowhead's series puts it after What We Lost (94829), which is out; round 1 ruled both out
+94894	COND	delivers Kilgar's Head (quest source item 265837), which only Overlord Kilgar drops: the follow-up of the elite quest Bring Me His Head (94890, out). Taken only if it is offered
+708	COND	the Corroded Black Box has no drop, vendor or object source in the DB or on its Wowhead page (13 Nov): taken only if the box turns up
+88917	PLAIN	Lady Sesspira's Key from one named mob (level 52, Normal on Wowhead; 37.5% of only 16 sampled kills): one kill, kill her again if it does not drop - she gates the rest of Saria Fairmoon's chain

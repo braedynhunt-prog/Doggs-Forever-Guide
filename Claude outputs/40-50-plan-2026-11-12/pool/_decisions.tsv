@@ -22,7 +22,7 @@
 -284	82208	Greater Friend of the Library	45	35	390	600	OUT	Undercity library quests (Horde city)		0	
 0	7838	Arena Grandmaster	55	0	0	0	OUT	chain behind 7810 Arena Master (raid / pvp / event)	NOXP	0	
 0	8405	Fight for Warsong Gulch	39	30	3000	4500	OUT	battleground quest		0	
-0	8406	Fight for Warsong Gulch	49	40	0	0	OUT	no XP, nothing kept behind it	NOXP	0	
+0	8406	Fight for Warsong Gulch	49	40	0	0	OUT	chain behind 8372 Fight for Warsong Gulch (raid / pvp / event)	NOXP	0	
 1	97188	Learning to Ride	40	40	0	0	OUT	no XP, nothing kept behind it	NOXP	0	
 10	1395	Supplies for Nethergarde	45	40	2900	5000	PLAIN			0	
 1176	96770	The Witch Doctor's Head	46	39	5050	13000	DUN-boss	Zum'rah's Head: one boss (two NPC ids), 28% on Wowhead over all kills	DUNGEON DROP	46	
@@ -126,7 +126,7 @@
 16	92345	Beneath Nordrassil	55	45	560	0	PLAIN			0	
 16	88821	Making Contact	51	47	490	0	PLAIN			0	
 16	88884	Highborne Tablets	52	47	5100	0	PLAIN			0	
-16	88917	Slithering Looters	52	47	5100	0	PLAIN			0	
+16	88917	Slithering Looters	52	47	5100	0	PLAIN	Lady Sesspira's Key from one named mob (level 52, Normal on Wowhead; 37.5% of only 16 sampled kills): one kill, kill her again if it does not drop - she gates the rest of Saria Fairmoon's chain		0	
 16	89037	Murloc Thieves	52	47	5100	0	PLAIN	Memory Crystal 100.0% (drop_rates.json 11 Nov)	DROP	52	One-Hand 454.3 Scout's Dagger (31.1 dps +6 Str +6 Agi)
 16	3601	Kim'jael Indeed!	53	47	6550	800	PLAIN			0	
 16	5534	Kim'jael's "Missing" Equipment	53	47	6550	16000	OUT	drop under 30%: Some Rune 4.0% (4 droppers, best Spitelash Enchantress 7% of 14)	DROP	55	
@@ -147,8 +147,8 @@
 16	86796	Later, Satyr	54	47	5450	6000	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance	SIDE? NOTINQDB	0	
 16	86814	Blackmaw Counter-Offensive	55	47	7050	4000	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance	SIDE? GROUP NOTINQDB	0	Feet 52.0 Hippogryph Hide Boots (+17 Str +9 Sta +9 SP)
 16	87346	Chieftain Bloodmaw	55	47	5650	0	COND	Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance	SIDE? NOTINQDB	0	
-16	88812	Reclaiming Ravencrest	55	47	5650	8500	PLAIN			0	
-16	88813	The Head of the Serpent	55	47	5650	0	PLAIN	Krellian's Head 100.0% (drop_rates.json 11 Nov)	DROP	55	Main Hand 480.0 Truesong's Hammer (32.9 dps +10 Str)
+16	88812	Reclaiming Ravencrest	55	47	5650	8500	COND	Wowhead's series puts it after 88809 Preserving Eldarath, which is out: taken only if it is offered		0	
+16	88813	The Head of the Serpent	55	47	5650	0	COND	Wowhead's series puts it after 88812 Reclaiming Ravencrest, which is cond: taken only if it is offered	DROP	55	Main Hand 480.0 Truesong's Hammer (32.9 dps +10 Str)
 16	89038	A Monumental Task	55	47	5650	4000	PLAIN			0	
 16	89053	Your Final Reward	55	47	5650	0	PLAIN			0	Two-Hand 565.4 Staff of Archmage Selwyn (31.6 dps +16 Sta +16 Int +48 SP)
 16	89470	Ill Tidings	55	47	2800	8500	PLAIN			0	
@@ -173,31 +173,31 @@
 16591	95326	The Big Payback	39	36	3000	0	OUT	drop under 30%: Ruzzgot's Shipment 29.29% (drop_rates.json 11 Nov)	DROP	39	
 16591	95984	Song of the Strider	39	36	3000	0	OUT	drop under 30%: Intact Tallstrider Beak 15.56% (drop_rates.json 11 Nov)	DROP	38	
 16591	94679	Snargl's Snout	40	36	3150	0	OUT	elite outside a dungeon (rule 13): Snargl (40 elite); the reward is cloth	GROUP DROP ELITE	40	Chest 42.6 Bristle Hills Mystic Robe (+11 Int +12 SP)
-16591	94829	What We Lost	40	36	2350	0	PLAIN			0	
-16591	94858	All That's Left	40	36	2350	0	PLAIN	Damaged Locket 75.0% (drop_rates.json 11 Nov)	DROP	41	
+16591	94829	What We Lost	40	36	2350	0	OUT	Farmers' Mementos 7.26% from Twilight Raiders only (Wowhead tooltip, 13 Nov), five needed, about 69 kills - rule 12. QuestieDB has no objectives for this quest, so the first pass missed it; round 1 ruled it out the same way		0	
+16591	94858	All That's Left	40	36	2350	0	OUT	Wowhead's series puts it after What We Lost (94829), which is out; round 1 ruled both out	DROP	41	
 16591	94961	Biting the Hand	40	36	2350	0	OUT	drop under 30%: Twilight Finger Bone 16.2% (4 droppers, best Twilight Neophyte 18% of 4379)	DROP	40	
-16591	94963	Biting the Hand	40	36	3150	5000	PLAIN			0	
+16591	94963	Biting the Hand	40	36	3150	5000	COND	Wowhead's series puts it after 94961 Biting the Hand, which is out: taken only if it is offered		0	
 16591	95295	I Know a Guy	40	36	315	0	PLAIN			0	
-16591	95296	Shipping and Handling	40	36	315	0	PLAIN			0	
-16591	95312	Coming to Collect	40	36	315	0	PLAIN			0	
-16591	95321	Tazzik's Dues	40	36	3150	0	PLAIN			40	
+16591	95296	Shipping and Handling	40	36	315	0	COND	offered only if the optional 95294 Smuggler's Bargain was done in chapter 41 (Wowhead series)		0	
+16591	95312	Coming to Collect	40	36	315	0	COND	Wowhead's series puts it after 95383 Shipping and Handling, which is cond: taken only if it is offered		0	
+16591	95321	Tazzik's Dues	40	36	3150	0	COND	Wowhead's series puts it after 95312 Coming to Collect, which is cond: taken only if it is offered		40	
 16591	95322	Get the Goods	40	36	2350	0	PLAIN			0	
 16591	95325	We've Been Robbed!	40	36	2350	0	PLAIN			0	
 16591	95327	All's Well That Ends Well	40	36	3150	0	PLAIN			0	
-16591	95383	Shipping and Handling	40	36	315	0	PLAIN			0	
-16591	95472	Consolation Prize	40	36	2350	0	PLAIN			0	
+16591	95383	Shipping and Handling	40	36	315	0	COND	Wowhead's series puts it after 95296 Shipping and Handling, which is cond: taken only if it is offered		0	
+16591	95472	Consolation Prize	40	36	2350	0	COND	Wowhead's series puts it after 95321 Tazzik's Dues, which is cond: taken only if it is offered		0	
 16591	95562	Cut Off the Heads	41	36	3300	2500	OUT	elite outside a dungeon (rule 13): Chogg'Zac (41 elite)	GROUP DROP ELITE	41	
-16591	95975	Her World	41	36	3300	0	PLAIN			0	
+16591	95975	Her World	41	36	3300	0	COND	Wowhead's series puts it after 95957 Drink Up!, which is out: taken only if it is offered		0	
 16591	95986	King of the Wild Plains	41	36	3300	0	OUT	elite outside a dungeon (rule 13): Ombassa (41 elite)	GROUP DROP ELITE	41	
 16591	95120	WANTED: Old Rot-Chum	42	36	4300	3000	OUT	elite outside a dungeon (rule 13): Old Rot-Chum (42 elite)	GROUP DROP ELITE	42	
 16591	95935	Hail the Dragonslayer	43	36	4450	12000	OUT	Braedyn's 11 Nov ruling	GROUP NOSTART DROP ELITE	43	
-16591	94893	Delivering Closure	47	36	4200	7000	PLAIN			0	
+16591	94893	Delivering Closure	47	36	4200	7000	COND	offered only if the optional 94892 Dying Wish was done in chapter 40 (Wowhead series)		0	
 16591	95261	It Takes Guts	42	38	3450	0	OUT	drop under 30%: Beast Entrails 13.2% (19 droppers, best Juvenile Paletusk 46% of 83)	DROP	42	
 16591	95912	WANTED: Blademaster Kaijo	42	38	4300	0	OUT	elite outside a dungeon (rule 13): Blademaster Kaijo (42 elite)	GROUP DROP ELITE	42	
-16591	94894	The Twilight Threat	45	38	4850	0	PLAIN			0	
+16591	94894	The Twilight Threat	45	38	4850	0	COND	delivers Kilgar's Head (quest source item 265837), which only Overlord Kilgar drops: the follow-up of the elite quest Bring Me His Head (94890, out). Taken only if it is offered		0	
 16591	94926	Drop the Hammer	45	38	4850	0	OUT	elite outside a dungeon (rule 13): Komuk (45 elite); no giver in the DB either; out in round 1 for the same reason	GROUP NOSTART DROP ELITE	45	
 16591	94890	Bring Me His Head	46	38	5050	0	OUT	elite outside a dungeon (rule 13): Overlord Kilgar (46 elite)	GROUP DROP ELITE	46	Back 8.0 Twilight Overlord Drape (+9 Sta +4 SP)
-16591	94891	News to Farholde	46	38	4050	0	PLAIN			0	
+16591	94891	News to Farholde	46	38	4050	0	COND	Wowhead's series puts it after 94890 Bring Me His Head, which is out: taken only if it is offered		0	
 16591	95219	From Port to Port	41	40	330	0	PLAIN			0	
 16620	96772	The Dragon's Journal	53	46	6550	8000	DUN-boss	held by one mob or boss; Wowhead reads Zarla's Journal 8.57% over all kills, quest or not	DUNGEON DROP	0	
 16620	95262	The Secret Prison	53	48	6550	0	DUN-normal		DUNGEON NOEND	0	
@@ -209,10 +209,10 @@
 16620	96381	A Bit of Wet Work	53	48	5250	8000	DUN-normal		DUNGEON	0	Legs 60.5 Marshdweller's Pants (+13 Sta +8 Int +10 Spi +11 SP)
 16842	96771	Vengeance of the Highborne	45	37	4850	6500	DUN-normal		DUNGEON	0	
 16842	94980	Krol'dok Moulding	41	38	3300	5500	COND	starts from the Krol'dok Moulding, dropped by Tunk, who is Elite on Wowhead and mapped with the Stronghold's bosses: a dungeon drop, taken if it falls		0	
-16842	94981	Key Ingredients	41	38	3300	5500	PLAIN			0	
+16842	94981	Key Ingredients	41	38	3300	5500	COND	Wowhead's series puts it after 94980 Krol'dok Moulding, which is cond: taken only if it is offered		0	
 16842	94983	Twilight Mementos	42	38	4300	0	DUN-grind	Twilight Bangle 11.4% from 6 mob types	DUNGEON DROP	0	
-16842	94997	Lingering Essence	42	38	3450	5500	PLAIN			0	
-16842	94998	Curios of Curiosity	42	38	3450	5500	PLAIN			0	Neck 42.7 Curio-Adorned Necklace (+9 Int +7 Spi +5 SP)
+16842	94997	Lingering Essence	42	38	3450	5500	COND	Wowhead's series puts it after 94983 Twilight Mementos, which is dun-grind: taken only if it is offered		0	
+16842	94998	Curios of Curiosity	42	38	3450	5500	COND	Wowhead's series puts it after 94997 Lingering Essence, which is cond: taken only if it is offered		0	Neck 42.7 Curio-Adorned Necklace (+9 Int +7 Spi +5 SP)
 16842	94984	Tome of Twilight	44	39	4650	0	DUN-boss	held by one mob or boss; Wowhead reads Tome of Twilight 37.84% over all kills, quest or not	DUNGEON DROP	0	Waist 29.8 Twilight Initiate's Belt (+11 Agi +7 Spi)
 16842	94969	Krol'dok No More!	42	40	3450	0	COND	Krol'dok dungeon quest with no giver in the DB or on Wowhead: taken if it is offered at the door or inside	DUNGEON NOSTART NOEND	0	
 16842	94982	Eye of Mugg	45	40	4850	13000	DUN-boss	held by one mob or boss; Wowhead reads Eye of Mugg 41.67% over all kills, quest or not	DUNGEON DROP	0	Two-Hand 604.5 Bigger Rock on Bigger Stick (41.2 dps +14 Str)
@@ -248,9 +248,9 @@
 28	5403	Invader's Scourgestones	55	50	560	0	OUT	drop under 30%: Invader's Scourgestone 27.5% (77 droppers, best Splintered Skeleton 100% of 1)	DROP	62	
 28	5404	Corruptor's Scourgestones	55	50	560	0	PLAIN	Corruptor's Scourgestone 86.4% (33 droppers, best Skul 100% of 1)	DROP	62	
 3	78823	Terror of the Desert Skies	40	26	1550	2500	COND	no giver in the DB or on Wowhead (ends at Hemet Nesingwary)	NOSTART DROP	44	
-3	78830	Terror of the Desert Skies	40	26	3900	10000	COND	shaman-flagged row with no giver; a Season of Discovery leftover unless it shows up in game	SHAMAN DROP	40	Finger 11.8 Ponderous Loop (+4 Sta +7 Int)
-3	708	The Black Box	40	30	2350	5000	PLAIN			0	
-3	737	Forbidden Knowledge	40	30	2350	0	PLAIN			0	
+3	78830	Terror of the Desert Skies	40	26	3900	10000	OUT	given by Hemet Nesingwary (Wowhead, 13 Nov) for a Hunter rune: QuestieDB marks it Hunter only, Wowhead Hunter and Shaman; its item comes from the Badlands, which the route passes before Hemet	SHAMAN DROP	40	Finger 11.8 Ponderous Loop (+4 Sta +7 Int)
+3	708	The Black Box	40	30	2350	5000	COND	the Corroded Black Box has no drop, vendor or object source in the DB or on its Wowhead page (13 Nov): taken only if the box turns up		0	
+3	737	Forbidden Knowledge	40	30	2350	0	OUT	chain behind 735 The Star, the Hand and the Heart (elite outside a dungeon (rule 13): Grel')		0	
 3	692	The Lost Fragments	41	30	3300	5500	OUT	drop under 30%: Torn Scroll Fragment 3.61% (drop_rates.json 11 Nov)	DROP	43	
 3	735	The Star, the Hand and the Heart	44	30	5600	0	OUT	elite outside a dungeon (rule 13): Grel'borg the Miser (39 elite), Dagun the Ravenous (43 elite), Mogh the Undying (44 elite)	GROUP DROP ELITE	44	
 3	710	Study of the Elements: Rock	37	35	2850	0	OUT	below the bracket and nothing kept behind it	PRECHAIN DROP	39	
@@ -307,7 +307,7 @@
 33	8553	The Captain's Cutlass	50	35	470	0	OUT	behind The Monogrammed Sash (8552)		0	
 33	8554	Facing Negolash	50	35	7100	0	OUT	elite outside a dungeon (rule 13): Negolash (52 elite)	GROUP DROP ELITE	52	Wrist 22.5 First Mate's Armguards (+8 Agi +8 Int)
 33	626	Cortello's Riddle	51	35	6100	0	PLAIN			0	
-33	97332	Twice Misplaced Trust	41	36	3300	0	PLAIN			0	Finger 8.0 Apology Ring (+6 Sta +4 SP)
+33	97332	Twice Misplaced Trust	41	36	3300	0	COND	Wowhead's series puts it after 97331 Zimmix's Great Escape, which is out: taken only if it is offered		0	Finger 8.0 Apology Ring (+6 Sta +4 SP)
 33	587	Up to Snuff	41	37	1650	0	OUT	drop under 30%: Snuff 25.4% (15 droppers, best Brutus 50% of 8)	DROP	48	
 33	209	Skullsplitter Tusks	42	37	3450	5500	OUT	drop under 30%: Skullsplitter Tusk 18.3% (13 droppers, best Skullsplitter Hunter 21% of 708)	DROP	45	
 33	576	Keep An Eye Out	42	37	2550	0	OUT	drop under 30%: Dizzy's Eye 1.9% (15 droppers, best Brutus 12% of 8)	DROP	48	Back 6.7 Darktide Cape (+6 Agi +7 Sta)
@@ -575,7 +575,7 @@
 45	696	Attack on the Tower	39	30	3000	0	OUT	chain behind 695 An Apprentice's Enchantment (chain behind 694 Trelane's Defenses (cha)	GROUP	0	
 45	697	Malin's Request	39	30	3750	9000	OUT	chain behind 696 Attack on the Tower (chain behind 695 An Apprentice's Enchant)	GROUP	0	Feet 37.0 Wingborne Boots (+10 Spi +6 SP)
 45	653	Myzrael's Allies	40	30	2350	0	OUT	chain behind 652 Breaking the Keystone (elite outside a dungeon (rule 13): Fozru)		0	
-45	687	Theldurin the Lost	40	30	1550	0	JUDGE-OUT	needs the Myzrael chain (elite Fozruk)		0	
+45	687	Theldurin the Lost	40	30	1550	0	OUT	chain behind 653 Myzrael's Allies (chain behind 652 Breaking the Keystone ()		0	
 45	652	Breaking the Keystone	42	30	3450	0	OUT	elite outside a dungeon (rule 13): Fozruk (42 elite)	GROUP DROP ELITE	42	
 45	656	Summoning the Princess	50	30	7100	14500	OUT	chain behind 692 The Lost Fragments (drop under 30%: Torn Scroll Fragment 3.6)	GROUP DROP ELITE	44	Neck 20.0 Pulsating Crystalline Shard (+8 Sta +8 Spi)
 45	79624	Anyone Can Cook	40	32	1550	0	OUT	drop under 30%: Illegible Recipe 7.8% (7 droppers, best Boulderfist Enforcer 11% of 2432)	DROP	40	

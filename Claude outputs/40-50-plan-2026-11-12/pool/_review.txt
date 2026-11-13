@@ -54,13 +54,29 @@
 16 86926 Felfire Burn, Cauldron Bubble L53 req47 xp 5250 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
 16 86927 Running Firewater L53 req47 xp 5250 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
 16 87346 Chieftain Bloodmaw L55 req47 xp 5650 | Wowhead states no side and the quest is not in QuestieDB; furbolg givers at Ursolan (Korsa 61.6,20.6; Elder Bramblesnap, Furze and Lorekeeper Nok near 42-44,21 Azshara) carry no faction in the DB: taken if they offer it to Alliance
+16 88812 Reclaiming Ravencrest L55 req47 xp 5650 | Wowhead's series puts it after 88809 Preserving Eldarath, which is out: taken only if it is offered
+16 88813 The Head of the Serpent L55 req47 xp 5650 | Wowhead's series puts it after 88812 Reclaiming Ravencrest, which is cond: taken only if it is offered | best reward: Main Hand 480.0 Truesong's Hammer [Mace] 32.9 dps +10 Str
 16 90813 Pay Dirt! L53 req50 xp 6550 | Alliance on Wowhead, required level 50, no giver known (ends at Berdun Cliffbrew, Azshara 12.6,77.4)
+16591 94891 News to Farholde L46 req38 xp 4050 | Wowhead's series puts it after 94890 Bring Me His Head, which is out: taken only if it is offered
+16591 94893 Delivering Closure L47 req36 xp 4200 | offered only if the optional 94892 Dying Wish was done in chapter 40 (Wowhead series)
+16591 94894 The Twilight Threat L45 req38 xp 4850 | delivers Kilgar's Head (quest source item 265837), which only Overlord Kilgar drops: the follow-up of the elite quest Bring Me His Head (94890, out). Taken only if it is offered
+16591 94963 Biting the Hand L40 req36 xp 3150 | Wowhead's series puts it after 94961 Biting the Hand, which is out: taken only if it is offered
+16591 95296 Shipping and Handling L40 req36 xp 315 | offered only if the optional 95294 Smuggler's Bargain was done in chapter 41 (Wowhead series)
+16591 95312 Coming to Collect L40 req36 xp 315 | Wowhead's series puts it after 95383 Shipping and Handling, which is cond: taken only if it is offered
+16591 95321 Tazzik's Dues L40 req36 xp 3150 | Wowhead's series puts it after 95312 Coming to Collect, which is cond: taken only if it is offered
+16591 95383 Shipping and Handling L40 req36 xp 315 | Wowhead's series puts it after 95296 Shipping and Handling, which is cond: taken only if it is offered
+16591 95472 Consolation Prize L40 req36 xp 2350 | Wowhead's series puts it after 95321 Tazzik's Dues, which is cond: taken only if it is offered
+16591 95975 Her World L41 req36 xp 3300 | Wowhead's series puts it after 95957 Drink Up!, which is out: taken only if it is offered
 16842 94969 Krol'dok No More! L42 req40 xp 3450 | Krol'dok dungeon quest with no giver in the DB or on Wowhead: taken if it is offered at the door or inside
 16842 94980 Krol'dok Moulding L41 req38 xp 3300 | starts from the Krol'dok Moulding, dropped by Tunk, who is Elite on Wowhead and mapped with the Stronghold's bosses: a dungeon drop, taken if it falls
+16842 94981 Key Ingredients L41 req38 xp 3300 | Wowhead's series puts it after 94980 Krol'dok Moulding, which is cond: taken only if it is offered
+16842 94997 Lingering Essence L42 req38 xp 3450 | Wowhead's series puts it after 94983 Twilight Mementos, which is dun-grind: taken only if it is offered
+16842 94998 Curios of Curiosity L42 req38 xp 3450 | Wowhead's series puts it after 94997 Lingering Essence, which is cond: taken only if it is offered | best reward: Neck 42.7 Curio-Adorned Necklace [] +9 Int +7 Spi +5 SP
+3 708 The Black Box L40 req30 xp 2350 | the Corroded Black Box has no drop, vendor or object source in the DB or on its Wowhead page (13 Nov): taken only if the box turns up
 3 78823 Terror of the Desert Skies L40 req26 xp 1550 | no giver in the DB or on Wowhead (ends at Hemet Nesingwary)
-3 78830 Terror of the Desert Skies L40 req26 xp 3900 | shaman-flagged row with no giver; a Season of Discovery leftover unless it shows up in game | best reward: Finger 11.8 Ponderous Loop [] +4 Sta +7 Int
 33 95384 Partial Mystical Notes L40 req32 xp 3150 | no giver: probably starts from a dropped item (ends at npc 260873); taken only if the item drops
 33 95385 Torn Mystical Scroll L43 req35 xp 3600 | no giver: probably starts from a dropped item (ends at npc 260873); taken only if the item drops | best reward: Head 23.7 Dudd's Thinkin' Cap [Cloth] +10 Sta +14 Int
+33 97332 Twice Misplaced Trust L41 req36 xp 3300 | Wowhead's series puts it after 97331 Zimmix's Great Escape, which is out: taken only if it is offered | best reward: Finger 8.0 Apology Ring [] +6 Sta +4 SP
 357 95555 Corrupted Nature L50 req40 xp 4700 | no giver and no side on Wowhead; taken only if it is offered
 357 95599 The Old Key L42 req35 xp 3450 | no giver: The Old Key probably starts from a dropped key; taken only if it drops
 490 87494 Microcrystal Contamination L55 req45 xp 5650 | no giver in the DB or on Wowhead (ends at Torwa Pathfinder) | best reward: Waist 37.3 Crystal-flecked Waistguard [Mail] +6 Str +15 Int
