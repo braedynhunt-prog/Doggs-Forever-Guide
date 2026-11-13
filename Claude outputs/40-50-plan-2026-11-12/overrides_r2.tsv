@@ -221,3 +221,4 @@
 86616	LATER	needs level 45 at Aerie Peak; the Hinterlands chapter is played at about 43.5-44: round 3's return to Aerie Peak (13 Nov level check)
 594	COND	the bottle on the Stranglethorn beach starts it and it needs level 45; the Cape chapter is played at about 44: taken only if he is 45 by then
 3444	LATER	follows The Sunken Temple (3445), which needs level 46 at Feathermoon and is left for round 3 (13 Nov level check)
+613	OUT	Maury's Key 4.2% from the Mosh'Ogg ogres, all ranked elite (drop_rates.json 12 Nov) - rules 12 and 13; it stays out although Voodoo Dues in front of it is a conditional try

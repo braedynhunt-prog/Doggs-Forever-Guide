@@ -11,7 +11,7 @@
 | 46 | Tanaris I | 43 | 11 | 33,630 | 5g 35s | 42.7 | 43.2 | 40 | 8,945 |
 | 47 | Feralas I | 43 | 12 | 18,725 | 1g 75s | 43.2 | 43.4 | 40 | 12,200 |
 | 48 | The Hinterlands | 45 | 6 | 23,350 | 1g 15s | 43.4 | 43.8 | 40 | 15,500 |
-| 49 | Nethergarde and the Cape of Stranglethorn | 45 | 5 | 19,400 | 50s | 43.8 | 44.0 | 40 | 14,900 |
+| 49 | Nethergarde and the Cape of Stranglethorn | 45 | 5 | 19,400 | 50s | 43.8 | 44.0 | 40 | 10,250 |
 | 50 | Feralas II | 46 | 9 | 31,255 | 55s | 44.0 | 44.5 | 44 | 9,100 |
 | 51 | Zul'Farrak (dungeon) | 46 | 4 | 19,200 | 65s | 44.5 | 44.7 | 40 | 11,405 |
 | 52 | Tabetha, Nethergarde, the crater and the Searing Gorge | 45 | 19 | 61,010 | 9g 00s | 44.7 | 45.6 | 45 | 0 |
@@ -20,7 +20,7 @@
 | 55 | Darnassus and Azshara | 47 | 24 | 89,155 | 5g 73s | 46.5 | 47.5 | 47 | 79,850 |
 | 56 | Un'Goro Crater | 48 | 19 | 76,780 | 2g 45s | 47.5 | 48.4 | 50 | 5,650 |
 | 57 | Ironforge: the round's hand-ins | 48 | 3 | 12,770 | 2g 20s | 48.4 | 48.6 | 45 | 0 |
-| | **total** | | 146 | **499,160** | 35g 53s | 42.0 | **48.6** | | 220,050 |
+| | **total** | | 146 | **499,160** | 35g 53s | 42.0 | **48.6** | | 215,400 |
 
 ## Chapters
 
@@ -164,7 +164,7 @@ Back east: Thalanaar - Theramore by flight, the Menethil boat, Aerie Peak. Rhaps
 
 ### 49 Nethergarde and the Cape of Stranglethorn
 
-File `49_StranglethornCape.lua`, title `[N 43-45 Stranglethorn Vale]`. Wants level **45**; predicted 43.8 -> 44.0. 5 required quests, 19,400 XP, 50s; optional 14,900 XP.
+File `49_StranglethornCape.lua`, title `[N 43-45 Stranglethorn Vale]`. Wants level **45**; predicted 43.8 -> 44.0. 5 required quests, 19,400 XP, 50s; optional 10,250 XP.
 
 From Ironforge (Tabetha's Task from Bink for chapter 50) to Stormwind: Rhapsody's Tale to Brohann Caskbelly (Into The Temple of Atal'Hakkar is taken for round 3). Stormwind - Nethergarde Keep: Thadius Grimshade, who gives Nekrum's Medallion for the Zul'Farrak run. Then Booty Bay: Deliver to MacKinley, The Bloodsail Buccaneers (the captains run to level 48), Stranglethorn Fever (Mokk the Savage, Normal on Wowhead), and Voodoo Dues as a one-kill-each try at the three named ogres. Cortello's Riddle is picked up on the Bloodsail ship and carried to round 3; Whiskey Slim's Lost Grog waits for round 3 with it. Message in a Bottle needs level 45 and is an 'if you are 45' line. Any OOX rescue in the log is handed in to Oglethorpe. The chapter ends on the Ratchet boat.
 
@@ -177,7 +177,6 @@ From Ironforge (Tabetha's Task from Bink for chapter 50) to Stormwind: Rhapsody'
 
 **Optional / conditional:**
 - 609 Voodoo Dues (L44, req 30) 3,750 [conditional] - three named ogres at the Ruins of Aboraz (level 43-44, not elite): Maury's Clubbed Foot 70.4%, Jon-Jon's Golden Spyglass 58.9%, Chucky's Huge Ring 59.4% - one kill each (rule 12), so all three at once is about one in four. Taken in chapter 45, tried in chapter 50, abandoned if a piece is missing
-- 613 Cracking Maury's Foot (L44, req 30) 4,650 [conditional] - behind 609 Voodoo Dues, which is conditional
 - 95385 Torn Mystical Scroll (L43, req 35) 3,600 [conditional] - no giver: probably starts from a dropped item (ends at npc 260873); taken only if the item drops
 - 594 Message in a Bottle (L45, req 45) 2,900 [conditional] - the bottle on the Stranglethorn beach starts it and it needs level 45; the Cape chapter is played at about 44: taken only if he is 45 by then
 
@@ -408,7 +407,6 @@ The best usable reward of each kept quest, top five per slot. The specs turn the
 | Head | 43.7 | Zorbin's Water Resistant Hat (+9 Sta +14 Int +8 Spi) | 7721 Fuel for the Zapping [conditional] | 50 |
 | Head | 23.7 | Dudd's Thinkin' Cap (+10 Sta +14 Int) | 95385 Torn Mystical Scroll [conditional] | 49 |
 | Legs | 58.5 | Treetop Leggings (+8 Sta +8 Int +18 Spi) | 4491 A Little Help From My Friends | 56 |
-| Legs | 58.0 | Beggar's Leggings (+12 Spi +14 SP) | 613 Cracking Maury's Foot [conditional] | 49 |
 | Main Hand | 480.0 | Truesong's Hammer (32.9 dps +10 Str) | 88813 The Head of the Serpent [conditional] | 55 |
 | Neck | 42.7 | Curio-Adorned Necklace (+9 Int +7 Spi +5 SP) | 94998 Curios of Curiosity [conditional] | 43 |
 | Neck | 18.0 | Prodigious Shadowshard Pendant (+9 SP) | 7070 Shadowshard Fragments [grind / luck] | 54 |
@@ -432,13 +430,14 @@ The best usable reward of each kept quest, top five per slot. The specs turn the
 
 Round-2 zones only; quests below the bracket that were only looked at as prerequisites are not listed. The full verdict file is `Claude outputs/40-50-plan-2026-11-12/_decisions.tsv`.
 
-**Stranglethorn Vale** (32 quests, 88,380 XP)
+**Stranglethorn Vale** (33 quests, 93,030 XP)
 - elite outside a dungeon (rule 13): King Mukla (51 elite): 630 Message in a Bottle (7,350)
 - old copy of Facing Negolash: 618 Facing Negolash (7,100)
 - elite outside a dungeon (rule 13): Negolash (52 elite): 8554 Facing Negolash (7,100)
 - elite outside a dungeon (rule 13): King Bangalash (43 elite): 208 Big Game Hunter (5,350)
 - chain behind 205 Troll Witchery: 206 Mai'Zoth (5,050)
 - needs all four chapters of the manuscript; every page is a low zone-wide drop (rule 12): 338 The Green Hills of Stranglethorn (4,700)
+- Maury's Key 4.2% from the Mosh'Ogg ogres, all ranked elite (drop_rates.json 12 Nov) - rules 12 and 13; it stays out although Voodoo Dues in front of it is a conditional try: 613 Cracking Maury's Foot (4,650)
 - elite outside a dungeon (rule 13): Mosh'Ogg Spellcrafter (44 elite), Mosh'Ogg Warmonger (42 elite), Mosh'Ogg Mauler (44 elite), Mosh'Ogg Shaman (44 elite); Mauler's Mutton is a one-hand mace: 97405 Noise Complaints (4,650)
 - Zanzil's Mixture 30.6% - XP-only optional: 621 Zanzil's Secret (3,750)
 - elite outside a dungeon (rule 13): Tethis (43 elite): 197 Raptor Mastery (3,600)
