@@ -47,7 +47,7 @@ At [TAR3661 Balthule Shadowstrike], [QT966] [QA967 The Tower of Althalaxx] (the 
 At [TAR3663 Delgren the Purifier] at Maestra's Post, [QT967] [QA970 The Tower of Althalaxx] [G26.2,38.7 Ashenvale]
 Kill [TAR3725 Dark Strand Cultist] (any Dark Strand mob drops it) for a Glowing Soul Gem (|cff66ff66normal|r) [QC970] [G31.1,30.6 Ashenvale]
 At [TAR3663 Delgren the Purifier], [QT970] [QA973 The Tower of Althalaxx] (Ilkrud Magthrull's Tome - the Ashenvale chapter finishes it on its south loop) [G26.2,38.7 Ashenvale]
-[OC]|cffffcc00Check:|r the log should hold Researching the Corruption (1275), In Search of Thaelrid (1198), Twilight Falls (1199), The Absent Minded Prospector (741), Expanding Horizons (97914), The Tower of Althalaxx (973) and, shaman, Knowledge in the Deeps (971). Your level 24 spells wait for Ironforge in chapter 15, trained with 26
+[OC]|cffffcc00Check:|r the log should hold Researching the Corruption (1275), In Search of Thaelrid (1198), Twilight Falls (1199), The Absent Minded Prospector (741), Expanding Horizons (97914), The Tower of Althalaxx (973) and, shaman, Knowledge in the Deeps (971). Your level 24 spells wait for Ironforge (shaman: at the end of 26-26 Call of Water; otherwise chapter 15), trained with 26
 [OC]|cffffcc00Optional next:|r the chapter 24-24 The Cozy Sleeping Bag (pick it from the guide list) starts here and ends here: the rest of the sleeping bag chain, before Ashenvale
 [NX 24-25 Ashenvale]
 ]], "Forever Shaman 1-30")

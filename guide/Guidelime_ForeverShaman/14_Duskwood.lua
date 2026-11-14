@@ -78,7 +78,7 @@ At [TAR268 Sirra Von'Indi], [QT96139] (keep the Memories of Valor she gives you:
 [O]At [TAR268 Sirra Von'Indi], if she offers The Valor Family part 2, [QA98447 The Valor Family] (2,200 XP at level 27; the DB has no giver or ender for it, its text sends you back to Raven Hill 'with their weapons', so it waits for chapter 17's weapon quests) [G72.6,47.6 Duskwood]
 At [TAR270 Councilman Millstipe], [QA377 Crime and Punishment] (bring back the Hand of Dextren Ward from The Stockade, chapter 15; hand in at Darkshire in chapter 17; requires level 22) [G71.9,47.8 Duskwood]
 [OC]|cffffcc00Gear:|r shaman - take |cff66ff66Zodiac Gloves|r (181, cloth +4 Int +7 Spi, Int feeds Mental Dexterity) if your gloves are worse than Gold-flecked Gloves or Naga Battle Gloves (keep those); they beat Flamefist Grips, Dusty Mining Gloves and Black Whelp Gloves. Night Watch Gauntlets and the Belt of the Stars are mail (pass until 40). Hunters: the Razor Arrows and Solid Shot from Mabel are the only buys
-[OC]|cffffcc00Training:|r no trainer in Darkshire; your level-26 spells wait for chapter 15 (Stormwind and Ironforge)
+[OC]|cffffcc00Training:|r no trainer in Darkshire; your level-26 spells wait for chapter 15 (Stormwind and Ironforge) - a shaman who trained at the end of 26-26 Call of Water already has them
 [OC]|cffffcc00Check:|r new in the log: The Legend of Stalvan (69), Crime and Punishment (377) and, if you took them, An Old History Book (337), Return to Jitters (240) and The Valor Family (98447), on top of the carry from chapters 09-13. Next: the flight master is a few steps east - fly to Stormwind for the Stockade run
 [NX 26-27 The Stockade]
 ]], "Forever Shaman 1-30")

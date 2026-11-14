@@ -2,7 +2,7 @@ Guidelime.registerGuide([[
 [N 29-30 Darnassus and Astranaar]
 [D Forever Shaman 1-30 (Braedyn)\\Hand-in run at level 29: the Auberdine dock, Darnassus (Blackfathom, the fossil, Thundris), the Astranaar and Illiyana pickups, and an optional Stonetalon dip for the Gnomeregan quest chain.]
 [GA Alliance]
-[OC]|cffffffffLevel 29|r  -  you step off the Menethil boat onto the Auberdine dock at about level 29; hearth = Sentinel Hill and it stays there (chapter 22 hearths from it). This is a hand-in chapter with almost no killing: five turn-ins worth ~10,600 quest XP (Researching the Corruption, Bloom of the Heavens, Blackfathom Villainy, Twilight Falls, The Absent Minded Prospector), then pickups in Astranaar and at Illiyana's camp, then the optional Stonetalon dip. Level 30 is expected somewhere between here and the end of chapter 21
+[OC]|cffffffffLevel 29|r  -  you step off the Menethil boat onto the Auberdine dock at about level 29; hearth = Sentinel Hill and it stays there (chapter 26 hearths to it). This is a hand-in chapter with almost no killing: five turn-ins worth ~10,600 quest XP (Researching the Corruption, Bloom of the Heavens, Blackfathom Villainy, Twilight Falls, The Absent Minded Prospector), then pickups in Astranaar and at Illiyana's camp, then the optional Stonetalon dip. Level 30 is expected somewhere between here and the end of chapter 21
 [OC]|cffffcc00Order:|r dock (Gershala, Thundris) > boat to Rut'theran Village and the portal up to Darnassus (Selgorm, Manados, Mathiel, Greywhisker) > flight to Astranaar > Illiyana's camp > optional Stonetalon dip > back to Astranaar. The Blackfathom quests (1275, 1199, 1200) and the Prospector's fossil (741) all clear here
 
 [OC]|cffffffffAuberdine dock|r
@@ -28,8 +28,6 @@ Walk back to the portal to Rut'theran Village, west of the bank (Classic-era spo
 At flight master [TAR3838 Vesprystus], |cFFfff8a3Fly to [F Astranaar]|r (the game routes it through Auberdine - stay on the bird; if the map offers only Auberdine, fly there and take the Astranaar bird from Caylais Moonfeather) [G58.4,94 Teldrassil]
 
 [OC]|cffffffffAstranaar|r  -  you land at the north tip of the island town; Llana and Faldreas stand a few steps south
-[A Shaman] Use the Unfilled Blue Waterskin on the lake at the north tip of town, beside the flight master [UI265772 Unfilled Blue Waterskin] [QC94500] [G34.4,48.0 Ashenvale]
-[OC][A Shaman] |cff66ff66Normal|r - one click. The quest says "the waters of Astranaar" and the skin's text says the body of water around the town; Classic-era sources put Astranaar on an island in a lake, so any shore works (the DB gives no exact spot). The Full Blue Waterskin goes back to Hervdana Saegrund in Wetlands with the Call of Water chain in chapter 22 - keep it
 At [TAR3691 Raene Wolfrunner], [QA1024 Raene's Cleansing] (part 3 of the chain chapter 12 started - to Shael'dryn in the east, chapter 21) [G36.5,49.5 Ashenvale]
 At [TAR3845 Shindrell Swiftfire], [QA4581 Kayneth Stillwind] (590-XP note to Kayneth Stillwind at Forest Song, chapter 21) [G34.7,48.8 Ashenvale]
 At [TAR3894 Pelturas Whitemoon], [QA1035 Fallen Sky Lake] (3,050 XP; the Fallen Moonstone drops from the level-30 Shadethicket Oracle at 66.7,82.2 - chapter 21) [G36.9,51.5 Ashenvale]
@@ -57,6 +55,6 @@ At [TAR3901 Illiyana], [QA1021 Vile Satyr! Dryads in Danger!] (a 2,550-XP breadc
 
 [OC]|cffffffffAstranaar, last pass|r  -  nothing to hand in. Pelturas' Fallen Sky Lake (1035) stays open: the Fallen Moonstone drops from a Shadethicket Oracle (level 30, 66.7,82.2) in the far south-east, which chapter 21 picks up. Restock food and water at Innkeeper Kimlya (inn at 37,49) before the east loop
 [OC][A Hunter] Count your ammo: the DB shows no ammo vendor in Astranaar, so chapters 20 and 21 run on what you carry (bow users: Landria in Darnassus) until Menethil Harbor, right before the Excavation Site
-[OC]|cffffcc00Check:|r new in the log: The Absent Minded Prospector (942), Klockmort's Essentials (2925), Seeking Caitlin (95737), Vile Satyr! Dryads in Danger! (1021) and, if you took them, The Howling Vale (1022) and Castpipe's Task (2931); shaman, the filled Blue Waterskin (Call of Water 94500). Still carried from chapter 12: Raene's Cleansing (1024), Kayneth Stillwind (4581), Fallen Sky Lake (1035) and, if you took it, The Tower of Althalaxx (1140). Next: the east of Ashenvale
+[OC]|cffffcc00Check:|r new in the log: The Absent Minded Prospector (942), Klockmort's Essentials (2925), Seeking Caitlin (95737), Vile Satyr! Dryads in Danger! (1021) and, if you took them, The Howling Vale (1022) and Castpipe's Task (2931). Still carried from chapter 12: Raene's Cleansing (1024), Kayneth Stillwind (4581), Fallen Sky Lake (1035) and, if you took it, The Tower of Althalaxx (1140). Next: the east of Ashenvale
 [NX 29-30 Ashenvale: the East]
 ]], "Forever Shaman 1-30")

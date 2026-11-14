@@ -5,7 +5,7 @@ Guidelime.registerGuide([[
 [OC]|cffffffffAshenvale 24-25|r  -  you start at Maestra's Post (26,38), the Night Elf camp on the west-coast road where chapter 11 ended, at level ~24. Hearth = Sentinel Hill and it stays there (Blackfathom ends with the hearth). ~23,500 quest XP of normal kill/collect work plus one escort (2,900 XP) and the Ruuzel fight, in one big loop: plant glade, Astranaar, the pool, Thistlefur, the coast murlocs, the south (Ilkrud, Lake Mystral, the Foulweald den), Feero's escort, then the Zoram Strand and the Blackfathom cave
 [OC]|cffffcc00Naming:|r the camp at 26,38 is Maestra's Post (Delgren, Orendil and Feero stand here). The real Forest Song is the east camp where Kayneth Stillwind lives (chapter 21)
 [OC]|cffffcc00Training:|r nothing in Ashenvale trains you. If you skipped your level-24 spells in Darnassus, do them together with level 26 in Stormwind (chapter 15)
-[OC][A Shaman] |cffffcc00Level 24 (shaman):|r no shaman trainer on this trip (Darnassus has none); your 24 spells wait for Eldrun in Ironforge in chapter 15, trained with 26 - nothing at 24 is urgent. Detour only if you want them now (Auberdine boat to Menethil, fly to Ironforge)
+[OC][A Shaman] |cffffcc00Level 24 (shaman):|r no shaman trainer on this trip (Darnassus has none); your 24 spells wait for Eldrun in Ironforge at the end of 26-26 Call of Water, trained with 26 - nothing at 24 is urgent. Detour only if you want them now (Auberdine boat to Menethil, fly to Ironforge)
 
 [OC]|cffffffffMaestra's Post|r
 [OC]|cffffcc00Carry-in:|r chapter 11 should have left you Delgren's The Tower of Althalaxx part 3 (973, Ilkrud's Tome) - it is finished on the south loop below. If your log shows part 2 (970) instead, use the two optional lines marked 970

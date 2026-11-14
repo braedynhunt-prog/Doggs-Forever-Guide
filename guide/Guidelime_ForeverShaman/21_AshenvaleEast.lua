@@ -86,6 +86,6 @@ Ride 11 units east to Astranaar and at [TAR4267 Daelyshia] |cFFfff8a3Fly to [F A
 [OC]981 pays 2,500 XP but its rewards are a 2H sword and cloth legs, and the hand-in means two flights and a 10-unit run, ~6 minutes. Most players abandon it; the next line is for those who want the XP
 [O]At [TAR3663 Delgren the Purifier], [QT981] (|cFFfff8a3Fly to [F Astranaar]|r, run west to Maestra's Post, then fly back to Auberdine after) [G26.2,38.7 Ashenvale]
 Walk to the western dock and take the boat to Menethil Harbor; get off at Menethil (it carries on to Southshore) [G33.5,40.0 Darkshore]
-[OC]|cffffcc00Check:|r nothing new stays open from this chapter except, if you took the tail, 981. Still carried from chapter 20 for later chapters: Seeking Caitlin (95737) and The Absent Minded Prospector (942) for Menethil in chapter 22, Klockmort's Essentials (2925) and, if you took it, Castpipe's Task (2931) for Ironforge in chapter 24; shaman, the filled Blue Waterskin (Call of Water 94500) for Hervdana in chapter 22. Next: the Excavation Site
+[OC]|cffffcc00Check:|r nothing new stays open from this chapter except, if you took the tail, 981. Still carried from chapter 20 for later chapters: Seeking Caitlin (95737) and The Absent Minded Prospector (942) for Menethil in chapter 22, Klockmort's Essentials (2925) and, if you took it, Castpipe's Task (2931) for Ironforge in chapter 24. Next: the Excavation Site
 [NX 29-30 Excavation Site: Wetlands]
 ]], "Forever Shaman 1-30")

@@ -4,7 +4,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [OC]|cffffffffRedridge and Eastvale 26-27|r  -  you start in Stormwind at level ~26 with the Stockade hand-ins done; hearth = Sentinel Hill and it stays there. About 19,100 quest XP from 10 turn-ins on the core route (+2,900 for the optional ore and pendant quests), almost all of it in two loops out of Lakeshire. |cFFFF0000GROUP 2+|r parts: Gar'im and Morganth, and |cFFFF0000GROUP 3+|r for Gath'Ilzogg - 7,950 XP between the three. No HP numbers: the DB has none for any of the elites here.
 [OC]|cffffcc00Carry in:|r What Comes Around... (386, needs the Head of Targorr from the Stockade), Messenger to Westfall (144), Morganth (249) and The Legend of Stalvan (74, the Sealed Crate from chapter 15). |cffffcc00Carry out:|r Messenger to Darkshire (145) and The Legend of Stalvan (78) go to Darkshire in chapter 17, Return to Kristoff (346, optional) to Stormwind in chapter 18, Songblade Search (95772) to the Excavation Site in chapter 22 - a long carry.
-[OC]Your level-26 spells were trained in chapter 15 and the next trainer stop is chapter 18. Stock food, water and bandages for the two long loops, repair, and empty your bags
+[OC]Your level-26 spells were trained in 26-26 Call of Water or chapter 15 and the next trainer stop is chapter 18. Stock food, water and bandages for the two long loops, repair, and empty your bags
 
 |cFFfff8a3Fly to [F Lakeshire]|r at [TAR352 Dungar Longdrink] on the gate ramp [G71.0,72.5 Stormwind City]
 
@@ -72,6 +72,6 @@ At the Tower of Azora, [TAR313 Theocritus] takes the Pendant of Shadow [QT249] (
 [O]Northshire Abbey is a 4-minute walk north-west: at [TAR951 Brother Paxton] in the library, [QT347] [QA346 Return to Kristoff] (970 XP now; Kristoff in Cathedral Square, chapter 18, pays 1,950 XP and Wandering Boots, cloth +4 Sta +4 Int). If you skip the detour, abandon Rethban Ore (347) [G49.6,40.4 Elwynn Forest]
 |cFFfff8a3Hearth to [H Sentinel Hill]|r
 At [TAR523 Thor], |cFFfff8a3Fly to [F Darkshire]|r [G56.5,52.6 Westfall]
-[OC]|cffffcc00Check:|r new in the log: Messenger to Darkshire (145), The Legend of Stalvan (78), Songblade Search (95772) and, if you took the detour, Return to Kristoff (346). Shaman: the filled Red Waterskin (94499) is still for Hervdana in the Wetlands. Next: Darkshire
+[OC]|cffffcc00Check:|r new in the log: Messenger to Darkshire (145), The Legend of Stalvan (78), Songblade Search (95772) and, if you took the detour, Return to Kristoff (346). Next: Darkshire
 [NX 27-28 Duskwood: Sven and the Hermit]
 ]], "Forever Shaman 1-30")

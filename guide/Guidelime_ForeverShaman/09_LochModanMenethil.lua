@@ -45,7 +45,7 @@ At [TAR1342 Mountaineer Rockgar], [QT468] [QA455 The Algaz Gauntlet] [G25.4,10.4
 Kill 8 [TAR2103 Dragonmaw Scout] and 6 [TAR2102 Dragonmaw Grunt] where the pass opens into the Wetlands [QC455] [G48.6,76.0 Wetlands]
 [A Shaman] At [TAR258203 Hervdana Saegrund] in her cave under the southern falls, [QT94495] [QA94497 Call of Water] [G65.8,76.4 Wetlands]
 [A Shaman] Fill the Unfilled Brown Waterskin in the water at the foot of the falls just below her cave (the DB has no object for it - use the skin standing in the pool) [QC94497] [G65.8,76.4 Wetlands]
-[A Shaman] Back at [TAR258203 Hervdana Saegrund], [QT94497] [QA94499 Call of Water] (the Red Waterskin is Stonewatch Falls in Redridge, chapter 10; she takes it much later) [G65.8,76.4 Wetlands]
+[A Shaman] Back at [TAR258203 Hervdana Saegrund], [QT94497] [QA94499 Call of Water] (the Red Waterskin is Stonewatch Falls in Redridge, chapter 10; she takes it in 26-26 Call of Water) [G65.8,76.4 Wetlands]
 Run north up the road to the junction. At [TAR2093 Einar Stonegrip], [QA469 Daily Delivery] (a skin bundle for Halloran in Menethil) [G49.9,39.4 Wetlands]
 
 [OC]|cFFFF0000GROUP 2+|r |cffffffffThe Dark Threat finale|r  -  optional, 161 > 274 > 278 > 280 > 283, ~5,700 XP and ~30 minutes; it is worth full XP only now (level 18-20 quests). Ashlan stands at the south edge of Dun Modr, whose Dark Iron dwarves are level 27-31 ELITES: stay on the road and never walk into the town. Solo: skip to Menethil.

@@ -2,8 +2,8 @@ Guidelime.registerGuide([[
 [N 26-27 The Stockade]
 [D Forever Shaman 1-30 (Braedyn)\\Stormwind errands and the Gnomeregan pickups in Ironforge, the Stockade run (five elite bosses and a rare, with loot calls), the Defias chain up to Lady Katrana, and one trip to Elwynn for the apples, the Stalvan chain and Northshire.]
 [GA Alliance]
-[OC]|cffffffffLevel 26|r  -  you are in Darkshire with the Darkshire flight path learned; hearth = Sentinel Hill and it stays there. The chapter is one dungeon, the Stockade behind Warden Thelwater's gate in Stormwind (a full clear of 23-29 elites), wrapped in two rounds of Stormwind errands: about 19,200 quest XP on the core route, up to ~26,000 with every optional hand-in, and the shaman's Knowledge in the Deeps adds 2,750. Two Stockade bounties are completed here but paid later: Targorr's head (386) in Lakeshire (chapter 16) and Dextren Ward's hand (377) in Darkshire (chapter 17)
-[OC]|cffffcc00Log check:|r What Comes Around... (386), Crime and Punishment (377), The Legend of Stalvan (69, from Clerk Daltry), A Friend of the Family (98190, from Menethil), shaman Knowledge in the Deeps (971, manuscript from Blackfathom) and, only if you have them, Cleansing the Eye (293, Third Fleet), An Old History Book (337) and The Powers Below (968). Without 377 or 386 you only skip that boss's head; the loot is the same
+[OC]|cffffffffLevel 26|r  -  you are in Darkshire with the Darkshire flight path learned; hearth = Sentinel Hill and it stays there. The chapter is one dungeon, the Stockade behind Warden Thelwater's gate in Stormwind (a full clear of 23-29 elites), wrapped in two rounds of Stormwind errands: about 19,200 quest XP on the core route, up to ~26,000 with every optional hand-in. Two Stockade bounties are completed here but paid later: Targorr's head (386) in Lakeshire (chapter 16) and Dextren Ward's hand (377) in Darkshire (chapter 17)
+[OC]|cffffcc00Log check:|r What Comes Around... (386), Crime and Punishment (377), The Legend of Stalvan (69, from Clerk Daltry), A Friend of the Family (98190, from Menethil) and, only if you have them, Cleansing the Eye (293, Third Fleet), An Old History Book (337) and The Powers Below (968). Without 377 or 386 you only skip that boss's head; the loot is the same
 
 At [TAR2409 Felicia Maline], |cFFfff8a3Fly to [F Stormwind]|r [G77.5,44.3 Duskwood]
 [OC]|cffffffffStormwind round|r  -  you land on the gate ramp. The loop: Old Town, the Auction House, Cathedral Square, the Keep, the Dwarven District, the tram to Ironforge and back, then the Stockade door. Nothing on it needs a fight
@@ -18,15 +18,14 @@ At [TAR1748 Highlord Bolvar Fordragon] in the Keep, [QT98190] [QA98191 A Friend 
 [OC]Shoni the Shilent's Gyrodrillmatic Excavationators (2928, Gnomeregan) is taken on the chapter-18 Stormwind pass, closer to the run
 [O][A Hunter] At [TAR5515 Einris Brightspear], [T] train your level 24 (if you skipped it) and level 26 spells; Thulman Flintcrag next door (62,36.6) sells shot [G67.3,36.3 Stormwind City]
 
-[OC]|cffffffffIronforge hop|r  -  shaman: needed (level-26 spells and the Knowledge in the Deeps hand-in); hunter: optional, only for the three Gnomeregan pickups in Tinkertown, which chapter 24 takes anyway if you skip them here
-[A Shaman] Take the Deeprun Tram to Ironforge [G73.8,49.2 Stormwind City]
+[OC]|cffffffffIronforge hop|r  -  shaman: needed (level-26 spells) only if you were still 25 at the end of 26-26 Call of Water; hunter: optional, only for the three Gnomeregan pickups in Tinkertown, which chapter 24 takes anyway if you skip them here
+[O][A Shaman] Take the Deeprun Tram to Ironforge (only if you still owe level-26 spells) [G73.8,49.2 Stormwind City]
 [O][A Hunter] Take the Deeprun Tram to Ironforge [G73.8,49.2 Stormwind City]
 [O]In Tinkertown at [TAR7944 Tinkmaster Overspark], [QT2923] (he then offers Save Techbot's Brain, 2922 - leave it, chapter 24 takes it on the way to the dungeon) [G69.5,50.3 Ironforge]
 [OC]Gnoarn (The Day After, 2927) and High Tinker Mekkatorque (The Grand Betrayal, 2929) are chapter 24 pickups
-[A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train your level 24 and 26 spells together here (sheet: Rockbiter 4, Earth Shock 4, Lightning Shield 3 are musts, Strength of Earth 2 and Healing Wave 5 buys - 35s each; Mana Spring and Magma Totem 40s each; Lightning Bolt 5 (40s) when gold is easy; 2g 55s for the lot, against about 9g of quest money by now) [G47.1,13.8 Ironforge]
-[A Shaman] Two steps away at [TAR2786 Gerrig Bonegrip], [QT971] - |cffffcc00Gear:|r Sustaining Ring (+4 Sta, 4 health per 5 sec) only for an empty ring slot [G50.8,5.6 Ironforge]
+[O][A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train whatever the Call of Water stop left of your level 24 and 26 rows (sheet: Rockbiter 4, Earth Shock 4, Lightning Shield 3 are musts, Strength of Earth 2 and Healing Wave 5 buys - 35s each; Mana Spring and Magma Totem 40s each; Lightning Bolt 5 (40s) when gold is easy; 2g 55s for the lot, against about 9g of quest money by now) [G47.1,13.8 Ironforge]
 [O]At [TAR2786 Gerrig Bonegrip], [QT968] (only if the Book: The Powers Below dropped in Darkshore, 1,700 XP; a hunter would walk to the Cavern for this alone, so skip it without the book) [G50.8,5.6 Ironforge]
-[A Shaman] Tram back to Stormwind [G76.5,51.5 Ironforge]
+[O][A Shaman] Tram back to Stormwind (only if you took the hop) [G76.5,51.5 Ironforge]
 [O][A Hunter] Tram back to Stormwind [G76.5,51.5 Ironforge]
 At [TAR928 Lord Grayson Shadowbreaker] in the Cathedral, [QT98191] (his follow-up, The Shamed Lieutenant 98219, is taken on the chapter-18 Stormwind pass; Human hunters: skip if not offered) - |cffffcc00Gear (98191):|r Knight's Lance (polearm +7 Agi +5 Sta) or Royal Dagger (+18 spell damage): the shaman cannot use the polearm and the dagger is a caster's, so vendor; a hunter takes the Lance only as an Agility stick if Polearms are trained [G48.4,50.2 Stormwind City]
 [O][A Hunter] At [TAR1297 Lina Stover] on the canal, buy 400+ ammo for the run (Razor Arrow and Solid Shot are the level-25 ammo) [G58.7,68.7 Stormwind City]

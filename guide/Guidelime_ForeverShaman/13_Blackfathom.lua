@@ -12,7 +12,7 @@ Guidelime.registerGuide([[
 [OC]|cffffcc00?|r In Search of Thaelrid (1198) - find Argent Guard Thaelrid in an alcove of Ghamoo-ra's chamber - |cff66ff66normal|r, 2,400 XP on the spot, and he gives Blackfathom Villainy
 [OC]|cffffcc00?|r Blackfathom Villainy (1200) - the Head of Kelris - |cff66ff66normal|r, a quest drop from Twilight Lord Kelris; 3,300 XP at Selgorm in Darnassus (chapter 20)
 [OC]|cffffcc00?|r Twilight Falls (1199) - 10 Twilight Pendants - |cff66ff66normal|r if you kill every Twilight cultist from the flooded ruins to Kelris (Acolyte, Reaver, Aquamancer, Loreseeker, Shadowmage and Elementalist all drop them; the drop rate is not in the DB, so if you are a few short at the end, go back for the cultists you skipped). 2,550 XP at Manados in Darnassus (chapter 20)
-[OC][A Shaman] |cffffcc00?|r Knowledge in the Deeps (971) - the Lorgalis Manuscript from a Pitted Iron Chest - |cff66ff66normal|r, but the chest is underwater; 2,750 XP at Gerrig in Ironforge (chapter 15)
+[OC][A Shaman] |cffffcc00?|r Knowledge in the Deeps (971) - the Lorgalis Manuscript from a Pitted Iron Chest - |cff66ff66normal|r, but the chest is underwater; 2,750 XP at Gerrig in Ironforge (the end of 26-26 Call of Water, the next chapter)
 [OC][A Hunter] Knowledge in the Deeps (971) was optional in chapter 08 and is not tracked for hunters: if you picked it up, the chest notes under Ghamoo-ra apply to you and Gerrig takes it whenever you pass Ironforge; if not, skip it
 [OC]|cffffcc00Maybe:|r The Heart of the Void (78916, level 25): the DB only knows its end, Selgorm in Darnassus, and its text, "Bring the Blackfathom Pearl". Its giver and the Pearl's source are not in the DB (the three reward items are not in the tooltip service yet either). If a Blackfathom Pearl ever drops, keep it and hand it in at Selgorm with the others; this guide does not track the quest
 [OC]|cffffcc00Not for you:|r Baron Aquanis, Amongst the Ruins, Allegiance to the Old Gods, The Essence of Aku'mai and Trouble in the Deeps are Horde quests; Alliance has no sapphire quest
@@ -59,8 +59,8 @@ Kill Twilight Lord Kelris and loot the Head of Kelris [QC1200]
 
 [OC]|cffffcc00After Aku'mai:|r click the stone behind him for Blessing of Blackfathom if you want it. Nothing hands in down here (Thaelrid was the only inside hand-in), and the Hearthstone works from inside the instance, so there is no walk out
 |cFFfff8a3Hearth to [H Sentinel Hill]|r
-[OC]|cffffffffHand-ins that wait|r  -  1275 Researching the Corruption: Gershala on the Auberdine dock, at chapter 20's Auberdine pass (the boat is not on your way home). 1200 and 1199: Selgorm and Manados in Darnassus, also chapter 20. Shaman 971: Gerrig Bonegrip in Ironforge, chapter 15. Keep all of them in the log
+[OC]|cffffffffHand-ins that wait|r  -  1275 Researching the Corruption: Gershala on the Auberdine dock, at chapter 20's Auberdine pass (the boat is not on your way home). 1200 and 1199: Selgorm and Manados in Darnassus, also chapter 20. Shaman 971: Gerrig Bonegrip in Ironforge, at the end of 26-26 Call of Water (the next chapter). Keep all of them in the log
 [OC]|cffffcc00Training:|r no trainer on this route. If you skipped your level-24 spells, they wait for the next city you pass
-[OC]|cffffcc00Check:|r log should hold Researching the Corruption (1275), Twilight Falls (1199), Blackfathom Villainy (1200) and, shaman, Knowledge in the Deeps (971), all four completed and waiting for hand-ins, plus the carries from chapters 09-12 (1024, 4581, 1035, 1070 and 973 in the plan). Next: walk from Sentinel Hill into Duskwood
-[NX 25-26 Duskwood: Darkshire]
+[OC]|cffffcc00Check:|r log should hold Researching the Corruption (1275), Twilight Falls (1199), Blackfathom Villainy (1200) and, shaman, Knowledge in the Deeps (971), all four completed and waiting for hand-ins, plus the carries from chapters 09-12 (1024, 4581, 1035, 1070 and 973 in the plan). Next: shaman, 26-26 Call of Water (one trip from Sentinel Hill and back to it); then the walk from Sentinel Hill into Duskwood
+[NX 26-26 Call of Water]
 ]], "Forever Shaman 1-30")
