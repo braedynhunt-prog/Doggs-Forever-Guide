@@ -202,3 +202,16 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                        written chapters already hand in. Holds the pre-2.3 XP-per-level table 1-60 from warcraft.wiki.gg
                        (30-40 655,400; 40-50 1,151,700; 50-60 1,778,600). RULES.md rule 14: a plan's XP table is this tool's
                        output on the list the plan prints. The table in tugs_diff.py is the later 2.3 one; do not reuse it.
+
+13 Nov 2026 - QuestieDB 1.1.1
+  qdb\                 refreshed to QuestieDB Forever 1.1.1 (bundle v12.9.0+v1.1.1, published 14 Nov 00:31 UTC): nothing removed,
+                       +21 quests (5,914), 753 quest rows changed (398 gained an any-of prerequisite [12], 32 an all-of one [11];
+                       also next-in-chain [21], exclusive-to [15], starters / finishers), 1,372 npc rows (spawns), 89 object rows,
+                       270 item rows. check_guide.py went from 26 to 73 problems on the shaman guide: 47 "needs X turned in first"
+                       lines, left open for a fix round. verify.py 92 -> 88 findings; verify_baseline.txt was pruned by hand of the
+                       12 lines no longer produced and took five reworded Azshara lines. 1.0.16 is in git history.
+                       Record: docs\audit-2026-11-13.md, last section.
+  QuestXP              the bundle also ships QuestieDB\support\Forever\QuestXP\xpDB-traces.lua (QuestXP.db[id] = {level, xp},
+                       3,559 rows built from QuestieTrace player traces). questiedb_baked.py does not read it. Compared once with
+                       data\zone_*.json: of the shaman guide's 1,075 quests 955 are in both and 953 agree. It is not a source in
+                       sources.json.
