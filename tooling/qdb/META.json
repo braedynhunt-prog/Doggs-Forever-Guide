@@ -1,14 +1,14 @@
 {
  "source": "QuestieDB_Forever.toc",
  "flavor": "Forever",
- "version": "1.0.16",
+ "version": "1.1.1",
  "contract": "4",
- "build_commit": "a444a6418113ae0fce5d30c897674132e756ba1d",
+ "build_commit": "4dbb82440a27856f8dccf57094a5d792cdc7cc9b",
  "build_time": "2023-11-14T22:13:20Z",
  "counts": {
   "Quest": [
-   5893,
-   5893,
+   5914,
+   5914,
    0
   ],
   "Npc": [
@@ -17,13 +17,13 @@
    1
   ],
   "Object": [
-   7285,
-   7285,
+   7289,
+   7289,
    0
   ],
   "Item": [
-   23859,
-   23859,
+   23862,
+   23862,
    0
   ]
  }

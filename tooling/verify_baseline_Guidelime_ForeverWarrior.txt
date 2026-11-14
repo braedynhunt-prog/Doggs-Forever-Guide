@@ -22,7 +22,6 @@ tar  06_Redridge.lua:39  Redridge Mongrel [G24.9,76.0] is 5.2 from the nearest s
 tar  06_Redridge.lua:51  Redridge Brute [G23.9,33.0] is 4.9 from the nearest spawn 19.0,32.6
 tar  06_Redridge.lua:54  Murloc Flesheater [G46.9,61.0] is 3.4 from the nearest spawn 50.2,61.7
 tar  08_RuinsOfLordaeron.lua:7  Maris Granger [G59.2,37.8] is 27.6 from the nearest spawn 72.1,62.2 (secondary TAR, 15-unit limit)
-tar  08_RuinsOfLordaeron.lua:54  Lady Dena Kennedy (15991) has no spawn in Stormwind City (no spawn data in the DB at all)
 tar  17_Duskwood2.lua:26  Rabid Dire Wolf [G27.7,31.1] is 5.7 from the nearest spawn 33.1,29.4
 tar  24_Gnomeregan.lua:64  Kernobee (7850) has no spawn in Dun Morogh (no spawn data in the DB at all)
 tar  26_RazorfenKraul.lua:63  Willix the Importer (4508) has no spawn in The Barrens (no spawn data in the DB at all)

@@ -20,8 +20,8 @@ questnpc  39c_Alterac.lua:29  [QA522] Assassin's Contract: starter in the DB is 
 questnpc  43_KroldokStronghold.lua:37  [QA94980] Krol'dok Moulding: starter in the DB is item 267138; line has [TAR259256 Tunk] (fine if the TAR is just the nearby NPC)
 questnpc  50_FeralasII.lua:36  [QA95555] ?: quest not in the Forever DB (not checkable)
 questnpc  52_SearingGorge.lua:74  [QA4451] The Key to Freedom: starter in the DB is item 11818; line has [TAR5844 Dark Iron Slaver] (fine if the TAR is just the nearby NPC)
-questnpc  55_Azshara.lua:73  [QA86752] ?: quest not in the Forever DB (not checkable)
-questnpc  55_Azshara.lua:74  [QT86752] ?: quest not in the Forever DB (not checkable)
+questnpc  55_Azshara.lua:73  [QA86752] Report to Rageroar: DB lists no starter at all; line has [TAR235903 Ekkal]
+questnpc  55_Azshara.lua:74  [QT86752] Report to Rageroar: DB lists no finisher at all; line has [TAR236573 Gatekeeper Rageroar]
 questnpc  55_Azshara.lua:74  [QA86791] ?: quest not in the Forever DB (not checkable)
 questnpc  55_Azshara.lua:97  [QT86791] ?: quest not in the Forever DB (not checkable)
 questnpc  55_Azshara.lua:97  [QA86777] ?: quest not in the Forever DB (not checkable)
@@ -31,12 +31,9 @@ questnpc  55_Azshara.lua:102  [QT86792] ?: quest not in the Forever DB (not chec
 questnpc  55_Azshara.lua:103  [QA86796] ?: quest not in the Forever DB (not checkable)
 questnpc  55_Azshara.lua:104  [QT86796] ?: quest not in the Forever DB (not checkable)
 questnpc  55_Azshara.lua:104  [QA86797] ?: quest not in the Forever DB (not checkable)
-questnpc  55_Azshara.lua:105  [QA86799] ?: quest not in the Forever DB (not checkable)
-questnpc  55_Azshara.lua:106  [QT86799] ?: quest not in the Forever DB (not checkable)
-questnpc  55_Azshara.lua:106  [QA86804] ?: quest not in the Forever DB (not checkable)
-questnpc  55_Azshara.lua:107  [QT86804] ?: quest not in the Forever DB (not checkable)
-questnpc  55_Azshara.lua:107  [QA86925] ?: quest not in the Forever DB (not checkable)
-questnpc  55_Azshara.lua:109  [QT86925] ?: quest not in the Forever DB (not checkable)
+questnpc  55_Azshara.lua:105  [QA86799] Encroaching Corruption: DB lists no starter at all; line has [TAR235909 Furze]
+questnpc  55_Azshara.lua:106  [QT86799] Encroaching Corruption: DB lists no finisher at all; line has [TAR235906 Elder Bramblesnap]
+questnpc  55_Azshara.lua:106  [QA86804] An Unlikely Source: DB lists no starter at all; line has [TAR235906 Elder Bramblesnap]
 questnpc  55_Azshara.lua:109  [QA86926] ?: quest not in the Forever DB (not checkable)
 questnpc  55_Azshara.lua:111  [QT86926] ?: quest not in the Forever DB (not checkable)
 questnpc  55_Azshara.lua:111  [QA86927] ?: quest not in the Forever DB (not checkable)
@@ -52,7 +49,6 @@ tar  05_Westfall.lua:87  Murloc Oracle [G28.0,65.0] is 3.8 from the nearest spaw
 tar  06_Redridge.lua:40  Redridge Mongrel [G24.9,76.0] is 5.2 from the nearest spawn 25.3,81.2
 tar  06_Redridge.lua:52  Redridge Brute [G23.9,33.0] is 4.9 from the nearest spawn 19.0,32.6
 tar  06_Redridge.lua:55  Murloc Flesheater [G46.9,61.0] is 3.4 from the nearest spawn 50.2,61.7
-tar  08_RuinsOfLordaeron.lua:57  Lady Dena Kennedy (15991) has no spawn in Stormwind City (no spawn data in the DB at all)
 tar  13w_CallOfWater.lua:40  Minor Manifestation of Water (5895) has no spawn in Westfall (spawns in zones ['130'])
 tar  17_Duskwood2.lua:27  Rabid Dire Wolf [G27.7,31.1] is 5.7 from the nearest spawn 33.1,29.4
 tar  24_Gnomeregan.lua:68  Kernobee (7850) has no spawn in Dun Morogh (no spawn data in the DB at all)
@@ -73,9 +69,6 @@ tar  39c_Alterac.lua:54  Scarlet Commander Mograine (3976) has no spawn in Tiris
 tar  39c_Alterac.lua:56  High Inquisitor Whitemane (3977) has no spawn in Tirisfal Glades (no spawn data in the DB at all)
 tar  40_RivergladesII.lua:41  Farholde Scout [G29.3,45.7] is 17.7 from the nearest spawn 42.7,57.2
 tar  53_TanarisII.lua:47  Tooga [G66.6,25.7] is 50.9 from the nearest spawn 29.5,60.5
-tar  55_Azshara.lua:74  Gatekeeper Rageroar (236573) has no spawn in Azshara (no spawn data in the DB at all)
-tar  55_Azshara.lua:103  Graal (237007) has no spawn in Azshara (no spawn data in the DB at all)
-tar  55_Azshara.lua:117  Gatekeeper Rageroar (236573) has no spawn in Azshara (no spawn data in the DB at all)
 gates  01b_DunMorogh.lua:15  Camping 101: Cooking needs Cooking 1 but the route has not learned Cooking yet
 gates  01b_DunMorogh.lua:16  Camping 101: Fishing needs Fishing 1 but the route has not learned Fishing yet
 gates  01b_DunMorogh.lua:16  Camping 101: First Aid needs First Aid 1 but the route has not learned First Aid yet
