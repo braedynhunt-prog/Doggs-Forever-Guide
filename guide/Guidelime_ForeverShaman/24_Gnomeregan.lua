@@ -2,8 +2,8 @@ Guidelime.registerGuide([[
 [N 30-31 Gnomeregan]
 [D Forever Shaman 1-30 (Braedyn)\\The Ironforge round (hand-ins and the Gnomeregan pickups), the trogg tunnels outside the door, the Gnomeregan run with boss notes and loot calls, and the hand-ins in Kharanos and Ironforge.]
 [GA Alliance]
-[OC]|cffffffffLevel 30|r  -  you land in Ironforge from Southshore; hearth = Sentinel Hill and it stays there. This chapter is one dungeon, Gnomeregan (a full clear of 25-34 mobs, about 2 hours), wrapped in an Ironforge errand round and a trogg pass outside the door: about 19,900 quest XP on the core route, ~25,500 with the Prism and the Sparklematic and up to ~43,700 with every optional chain (For Further Study has no XP in the DB), nearly all of it handed in here (Gyrodrillmatic's 2,450 waits for Shoni, chapter 25). Group content: bring the tank friend and a healer, you two are the damage
-[OC]|cffffcc00Log check:|r from earlier chapters you should hold Gyrodrillmatic Excavationators (2928), Word to Ironforge (98300), Klockmort's Essentials (2925), For Further Study (98313) and, if you got them, Prehistoric Prism (98824, only if the Titan Relic dropped at the Excavation Site), Sully Balloo's Letter (637) and Castpipe's Task (2931). The other Gnomeregan quests are picked up below
+[OC]|cffffffffLevel 30|r  -  you land in Ironforge from Southshore; hearth = Sentinel Hill and it stays there. This chapter is one dungeon, Gnomeregan (a full clear of 25-34 mobs, about 2 hours), wrapped in an Ironforge errand round and a trogg pass outside the door: about 17,200 quest XP on the core route, ~22,800 with the Prism and the Sparklematic and up to ~43,700 with every optional chain (For Further Study has no XP in the DB), nearly all of it handed in here (Gyrodrillmatic's 2,450 waits for Shoni, chapter 25). Group content: bring the tank friend and a healer, you two are the damage
+[OC]|cffffcc00Log check:|r from earlier chapters you should hold Gyrodrillmatic Excavationators (2928), Klockmort's Essentials (2925) and, if you got them, Word to Ironforge (98300, the end of Howin's group chain), For Further Study (98313, behind Gleaning Our Future), Prehistoric Prism (98824, only if the Titan Relic dropped at the Excavation Site), Sully Balloo's Letter (637) and Castpipe's Task (2931). The other Gnomeregan quests are picked up below
 [OC]|cffffcc00Sources:|r Forever's Gnomeregan is reported to be Classic's dungeon with only loot and rewards changed (Warcraft Tavern). Levels, drops, quests and item stats come from the Forever DB, which has no coordinates inside the instance and no drop rates; routes, boss tactics and object spots are Classic-era guide knowledge (Icy Veins, Almar's, Warcraft Tavern, warcraft.wiki.gg), not verified on Forever. The map pin on optional in-dungeon lines just points at the door
 [OC]|cffffcc00Supplies:|r the gnome station just inside the door has vendors and a mailbox (Almar's), but arrive stocked: food and water for two hours, repair, empty bags, 3 silver per Sparklematic run (9 for tiers 1, 2 and the ring), 30 silver if you go for Talvash's ring, and (hunter) 500+ ammo
 
@@ -11,7 +11,7 @@ Guidelime.registerGuide([[
 [A Hunter] At [TAR5123 Bretta Goldfury] in the Military Ward, top up your ammo for the run [G72.2,65.2 Ironforge]
 [A Hunter] At [TAR5116 Olmin Burningbeard], [T] train your level 30 spells [G70.9,83.6 Ironforge]
 [O]At [TAR2695 Sara Balloo], [QT637] [QA683 Sara Balloo's Plea] (2,450 XP for the letter, then a 7,400-XP chain) [G63.5,67.3 Ironforge]
-At [TAR2784 King Magni Bronzebeard], [QT98300] (2,700 XP: Howin's missive from the Wetlands) [G39.1,56.2 Ironforge]
+[O]At [TAR2784 King Magni Bronzebeard], [QT98300] (2,700 XP: Howin's missive from the Wetlands - only if you ran his group chain in chapter 19) [G39.1,56.2 Ironforge]
 [O]At [TAR2784 King Magni Bronzebeard], [QT683] [QA686 A King's Tribute] [G39.1,56.2 Ironforge]
 [O]At [TAR2790 Grand Mason Marblesten] in the south-west, [QT686] [G39.0,88.0 Ironforge]
 [OC]|cffffcc00Alterac Granite (689):|r the next step wants 5 pieces, and the DB places that rock only in Hillsbrad Foothills (six spots around 43-45, 25-33), nothing near Ironforge. Do the next two lines only if the five are already in your bags; otherwise stop here. Nothing breaks: Marblesten offers 689 whenever you return with the granite, and the tail is 5,000 XP plus the Ironforge Memorial Ring
@@ -22,7 +22,7 @@ At [TAR2784 King Magni Bronzebeard], [QT98300] (2,700 XP: Howin's missive from t
 [OC][A Shaman] |cffffcc00Gear (Prehistoric Prism, if you have it):|r take |cff66ff66Heavehammer|r (2H mace 27.7 dps, +32 attack power, +60 armor): several dps over any 2H you carry and your weapon until the Crowd Pummeler. The Dustcover cloak (+5 Agi +5 Int +5 Spi) is the runner-up; Healer's Staff is a healer's stick
 [OC][A Hunter] |cffffcc00Gear (Prehistoric Prism, if you have it):|r take |cff66ff66Explorer's League Dustcover|r (cloak +5 Agi +5 Int +5 Spi). Heavehammer is a mace (hunters cannot use it) and Healer's Staff a healer's stick
 [O]At [TAR5387 High Explorer Magellas] in the Hall of Explorers, [QT98824] (3,150 XP; only if the Titan Relic dropped in chapter 22) [G69.9,18.6 Ironforge]
-At [TAR2916 Historian Karnik], [QT98313] (the DB lists no XP for this one) [G77.5,11.8 Ironforge]
+[O]At [TAR2916 Historian Karnik], [QT98313] (only if Whelgar gave it to you after Gleaning Our Future; the DB lists no XP for this one) [G77.5,11.8 Ironforge]
 
 [OC]|cffffffffTinkertown|r  -  the Gnomeregan pickups, a few steps apart
 [O]At [TAR7944 Tinkmaster Overspark], [QT2923] (only if you skipped the Ironforge hop in chapter 15) [G69.5,50.3 Ironforge]

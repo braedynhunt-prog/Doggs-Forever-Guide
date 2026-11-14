@@ -2,7 +2,7 @@ Guidelime.registerGuide([[
 [N 29-30 Ashenvale: the East]
 [D Forever Shaman 1-30 (Braedyn)\\Ashenvale's east half: Raene's long chain from Shael'dryn's moonwell to Krolg, Forest Song and the Xavian satyrs, the Dor'danil druid camp in the south-east and an optional Tower of Althalaxx tail, ending with the flight to Auberdine and the boat to Menethil.]
 [GA Alliance]
-[OC]|cffffffffAshenvale 29-30|r  -  you start in Astranaar (36,50) at level ~29 with the Darnassus and Stonetalon errands behind you; hearth = Sentinel Hill and it stays there. This is the guide's big overland chapter: ~36,000 quest XP in the main loop (plus ~7,300 optional and ~5,600 on the Althalaxx tail), all kill, collect and click work, nothing elite in the DB. Four legs: the moonwell and the Ancients north-east of town, Forest Song and the Xavian satyrs in the far east, the Dor'danil druid camp in the south-east (twice), then the south around Lake Mystral. Plan ~90 minutes; you reach 30 on the way
+[OC]|cffffffffAshenvale 29-30|r  -  you start in Astranaar (36,50) at level ~29 with the Darnassus and Stonetalon errands behind you; hearth = Sentinel Hill and it stays there. This is the guide's big overland chapter: ~35,000 quest XP in the main loop (plus ~7,300 optional and ~5,600 on the Althalaxx tail), all kill, collect and click work, nothing elite in the DB. Four legs: the moonwell and the Ancients north-east of town, Forest Song and the Xavian satyrs in the far east, the Dor'danil druid camp in the south-east (twice), then the south around Lake Mystral. Plan ~90 minutes; you reach 30 on the way
 [OC]|cffffcc00Where things are:|r the moonwell (53.5,46) and Hidden Shrine (56.4,49) are the middle; Forest Song (85,45) and Xavian (78,45) the far east; the south-east corner (68-79, 64-85) holds the Rusty Chests and the druid camp; Silverwind Refuge (49.5,67) and Krolg (50.8,75) the south; Illiyana and Maestra's Post the west coast, where the chapter ends
 [OC]|cffffcc00Training:|r nothing in Ashenvale trains you; level-30 spells wait for Ironforge (chapter 24). Hunters: Astranaar has no ammo vendor, so count your stack before the long loop
 
@@ -19,13 +19,14 @@ At [TAR3916 Shael'dryn], [QT1026] [QA1027 Raene's Cleansing] (2,200 XP. 1027 = t
 [O]Run north-east to the Circle of Imprisonment in Night Run and click it to free the Highborne souls - The Tower of Althalaxx (1140, taken in chapter 12; the second circle is at Satyrnaar below) [QC1140,1] [G66.6,57.0 Ashenvale]
 Run east to Forest Song [G85.2,44.7 Ashenvale]
 At [TAR3848 Kayneth Stillwind], [QT4581] [QA1011 Forsaken Diseases] (590 XP now. 1011 = one Bottle of Disease from the south-east camp, 2,350 XP - |cff66ff66normal|r) [G85.2,44.7 Ashenvale]
-At [TAR221269 Maseara Autumnmoon], [QA98418 Shared Fury] [QA98417 Vengeful Trail] (2,450 XP each. 98418 = 5 each of four satyr types - |cff66ff66normal|r. 98417 wants a Vine-Wrapped Scroll "west of Forest Song, amongst the Satyrnaar demons": its object has no spawn in the DB, so it is a look-around) [G86.3,45.8 Ashenvale]
+At [TAR221269 Maseara Autumnmoon], [QA98417 Vengeful Trail] (1,700 XP: the Vine-Wrapped Scroll is in Kurothel's Knapsack at Satyrnaar, 7 units south-west; she offers Shared Fury only when it is handed in) [G86.3,45.8 Ashenvale]
+Click Kurothel's Knapsack at Satyrnaar (four DB spots within a unit of 81.2,49.8) and take the Vine-Wrapped Scroll [QC98417] [G81.3,50.3 Ashenvale]
+[O]Click the second Circle of Imprisonment at Satyrnaar [QC1140,2] [G81.6,48.6 Ashenvale]
+Walk back to Forest Song. At [TAR221269 Maseara Autumnmoon], [QT98417] [QA98418 Shared Fury] (2,450 XP: 5 each of four Xavian satyr types - |cff66ff66normal|r) [G86.3,45.8 Ashenvale]
 Walk west to the satyr camp at Xavian [G78.3,44.8 Ashenvale]
 At [TAR3920 Anilia], [QT1021] [QA1031 The Branch of Cenarius] (2,550 XP each) [G78.3,44.8 Ashenvale]
 Kill 5 each of [TAR3752 Xavian Rogue], [TAR3754 Xavian Betrayer], [TAR3755 Xavian Felsworn] and [TAR3757 Xavian Hellcaller] (28-30; pull from the camp's edge so one pack comes at a time) [QC98418] [G78.3,45.0 Ashenvale]
 Kill [TAR4619 Geltharis] (32, one named non-elite satyr - |cff66ff66normal|r but two levels above you; kill the pack beside him first) and take the Branch of Cenarius [QC1031] [G78.0,42.4 Ashenvale]
-[OC]While you kill, look on the ground around Xavian and Satyrnaar for a vine-wrapped scroll or bundle to click for 98417. The DB gives no position, so if one lap of the camps shows nothing, abandon 98417 rather than hunt
-[O]Click the second Circle of Imprisonment at Satyrnaar [QC1140,2] [G81.6,48.6 Ashenvale]
 [OC]|cffffcc00Skipped on purpose:|r Satyr Slaying! (1032, 2,550 XP) is accepted from Illiyana in the far west after you hand in 1031, and its 16 Satyr Horns are a quest-only drop of these same satyrs - a second 120-unit trip. Leave it
 
 [OC]|cffffffffSouth-east corner, first pass|r  -  the Horde edge, the Rusty Chests, the bottle, the Oracle and the pendant, then back up to Forest Song
@@ -35,7 +36,7 @@ Kill [TAR3931 Shadethicket Oracle] (30, one named non-elite; a Horde patrol of 2
 Click the Gleaming Crescent Pendant lying on the ground [QA98027 Gleaming Crescent Necklace] (1,600 XP; the necklace goes to Maliynn in Astranaar) [G63.0,71.5 Ashenvale]
 Run back north-east to Forest Song [G85.2,44.7 Ashenvale]
 At [TAR3848 Kayneth Stillwind], [QT1011] [QA1012 Insane Druids] (2,350 XP now. 1012 = the three druids at the camp you just left, 3,200 XP: two more 30-unit legs, worth it) [G85.2,44.7 Ashenvale]
-At [TAR221269 Maseara Autumnmoon], [QT98418] [QT98417] (2,450 XP each; 98417 only if you found the scroll) [G86.3,45.8 Ashenvale]
+At [TAR221269 Maseara Autumnmoon], [QT98418] (2,450 XP) [G86.3,45.8 Ashenvale]
 [OC]|cffffffffThe druids|r  -  three level-32 mobs against your 29-30: pull one at a time and finish it before the next; stay out of the cave mouths if the camp has one
 Walk to the mouth of the Dor'danil Barrow Den (the druids are inside; entrance position Classic, unverified) [G76,71 Ashenvale]
 Run back south to the Dor'danil camp and kill [TAR3940 Taneel Darkwood], [TAR3941 Uthil Mooncall] and [TAR3942 Mavoris Cloudsbreak] [QC1012] [G76.8,73.5 Ashenvale]

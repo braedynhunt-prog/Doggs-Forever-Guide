@@ -12,9 +12,9 @@ questnpc  14_Duskwood.lua:78  [QA98447] The Valor Family: quest not in the Forev
 questnpc  16_RedridgeEastvale.lua:71  [QA178] Theocritus' Retrieval: starter in the DB is item 1962; line has [TAR313 Theocritus] (fine if the TAR is just the nearby NPC)
 questnpc  17_Duskwood2.lua:74  [QA96137] Ira's Dagger: no [TAR] on the line; DB starter: 6176 Bath'rah the Windwatcher; or item 281143
 questnpc  17_Duskwood2.lua:87  [QT98447] The Valor Family: quest not in the Forever DB (not checkable)
-questnpc  22_ExcavationSite.lua:46  [QT95647] Lost in the Thicket Things: DB lists no finisher at all; line has [TAR262681 Ardin Grassman]
-questnpc  22_ExcavationSite.lua:46  [QA95809] Heartwoven: DB lists no starter at all; line has [TAR262681 Ardin Grassman]
-questnpc  22_ExcavationSite.lua:58  [QA95810] Lost Relic Carry: starter in the DB is item 270865; line has [TAR1077 Prospector Whelgar] (fine if the TAR is just the nearby NPC)
+questnpc  22_ExcavationSite.lua:45  [QT95647] Lost in the Thicket Things: DB lists no finisher at all; line has [TAR262681 Ardin Grassman]
+questnpc  22_ExcavationSite.lua:45  [QA95809] Heartwoven: DB lists no starter at all; line has [TAR262681 Ardin Grassman]
+questnpc  22_ExcavationSite.lua:59  [QA95810] Lost Relic Carry: starter in the DB is item 270865; line has [TAR1077 Prospector Whelgar] (fine if the TAR is just the nearby NPC)
 questnpc  37_SwampOfSorrows.lua:24  [QA1392] Noboru the Cudgel: starter in the DB is item 6196; line has [TAR5477 Noboru the Cudgel] (fine if the TAR is just the nearby NPC)
 questnpc  39c_Alterac.lua:29  [QA522] Assassin's Contract: starter in the DB is item 3668; line has [TAR2434 Shadowy Assassin] (fine if the TAR is just the nearby NPC)
 questnpc  43_KroldokStronghold.lua:37  [QA94980] Krol'dok Moulding: starter in the DB is item 267138; line has [TAR259256 Tunk] (fine if the TAR is just the nearby NPC)
