@@ -70,7 +70,6 @@ At [TAR3701 Tharnariun Treetender], [QT2138] [QA2139 Tharnariun's Hope] (Den Mot
 
 [OC]|cffffffffTrip 3: south - Onu's Grove, Murkdeep, the Glaive|r  -  run down the coast road, killing foreststriders, murlocs and crawlers (key pieces, crabs) on the way
 At [TAR3616 Onu] in the Grove of the Ancients, [QT948] [QA944 The Master's Glaive] (you get a Phial of Scrying) [G43.5,76.3 Darkshore]
-At [TAR270269 Arbal], [QA98013 Swelling Forces] (12 Myrmidons, 8 Sorceresses, 6 Warriors on the far north coast - trip 4, |cff66ff66normal|r) [G43.7,76.5 Darkshore]
 |cFFFF0000GROUP 2+ advised|r The Murkdeep event: step between the murloc huts by the bonfire. Waves of low-level murlocs (3 level 13, then 2 level 15-16), then Murkdeep (level 19, not elite) with one more; kill the last add of each wave away from the fire and rest between waves. Classic-era notes recommend a group; at 23-24 it is doable solo [QC4740] [G36.5,76.6 Darkshore]
 Walk up to the Master's Glaive; use the Phial on the ground at the camp edge, then click the Scrying Bowl to speak with Onu [QT944] [QA949 The Twilight Camp] [G38.6,86.2 Darkshore]
 Click the Twilight Tome inside the camp (cultists around it) [QT949] [QA950 Return to Onu] [G38.5,86 Darkshore]
@@ -80,6 +79,7 @@ Click the Twilight Tome inside the camp (cultists around it) [QT949] [QA950 Retu
 At [TAR2917 Prospector Remtravel] on the beach, [QT729] [QA731 The Absent Minded Prospector] (escort - everyone in the group must be on the quest before you talk to him; golems come out of the ground, let him walk first) [QC731] [G35.7,83.7 Darkshore]
 [O]On the sand just west click the three beached carcasses [QA4731 Beached Sea Turtle] [QA4732 Beached Sea Turtle] [QA4733 Beached Sea Creature] [G31.4,85.4 Darkshore]
 At [TAR3616 Onu], [QT950] [QA951 Mathystra Relics] (6 relics on the Stormscale coast next to Gelkak - trip 4) [G43.5,76.3 Darkshore]
+At [TAR270269 Arbal], [QA98013 Swelling Forces] (12 Myrmidons, 8 Sorceresses, 6 Warriors on the far north coast - trip 4, |cff66ff66normal|r) [G43.7,76.5 Darkshore]
 [O]|cFFFF0000ESCORT|r At [TAR3692 Volcor] in the Blackwood cave - everyone in the group must be on the quest before you talk to him [QT993] [QA994 Escape Through Force] [QC994] (fight down to the road; Escape Through Stealth is the no-escort 780 XP alternative) [G45,85.3 Darkshore]
 |cFFfff8a3Run north to Auberdine along the coast road|r
 

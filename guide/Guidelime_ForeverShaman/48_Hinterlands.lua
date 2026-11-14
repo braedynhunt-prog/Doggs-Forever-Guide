@@ -4,21 +4,19 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [OC]|cffffffffLevel check|r  -  this chapter wants level 45 for its mobs: no pickup needs more than 40 (the OOX quests 43), but the Altar of Zul trolls are 45-47 and Skulk Rock's oozes 46-48. You arrive at about 43.4. Under 45: Powderfuse Port first (no fighting), then the Witherbark cages (trolls 40-45), then at the Altar pull the Axe Throwers (45-46) at its north and west edge before going up; at Skulk Rock the Green Sludges (46-47) before the Jade Oozes (47-48); the OOX escort, if the beacon dropped, last. Nothing in this chapter waits for a level
 [OC]|cffffffffThe Hinterlands|r  -  you start at Thalanaar after chapter 47 with the hearth at Feathermoon. Thalanaar - Theramore by flight, the boat to Menethil, Farholde Keep and the ride to Powderfuse Port, then Aerie Peak (bind) for the Hinterlands quests, and the flight to Ironforge at the end. 6 quests, 23,350 XP and 1g 15s; every flight point it uses is known
-[OC]|cffffcc00Carried in:|r Rhapsody's Kalimdor Kocktail (1452: 3 Roc Gizzards from chapter 46, 3 Ironfur Livers and 3 Groddoc Livers from chapter 47) and All's Well That Ends Well (95327, from Ruzzgot in chapter 45) are handed in here. Consolation Prize (95472, chapter 46) and Twice Misplaced Trust (97332, chapter 45) only if you were offered them
+[OC]|cffffcc00Carried in:|r Rhapsody's Kalimdor Kocktail (1452: 3 Roc Gizzards from chapter 46, 3 Ironfur Livers and 3 Groddoc Livers from chapter 47) and All's Well That Ends Well (95327, from Ruzzgot in chapter 45) are handed in here. Consolation Prize (95472, chapter 46) only if you were offered it
 [OC][A Shaman] |cffffcc00Training:|r the level 44 row (Lightning Bolt 8 - 1g 80s, Stoneskin Totem 5 - 1g 80s, Lesser Healing Wave 4 - 1g 80s, Nature Resistance Totem 2 - 1g 80s, Rockbiter Weapon 6 - 1g 80s; 9g in all) is bought wherever you first stand at a trainer at 44: Farseer Maret Firetend in Aerie Peak, or Eldrun Stormbreaker in Ironforge at the end. You will most likely still be 43 here; chapter 49 starts in Ironforge and repeats it
 
 [OC]|cffffffffTheramore and the boat|r  -  no stop in Theramore; the boat lands at Menethil Harbor
 At [TAR4319 Thyssiana], |cFFfff8a3Fly to [F Theramore]|r [G89.5,45.9 Feralas]
 Take the boat to Menethil Harbor from the Theramore east dock (boat or portal is |cffffcc00unverified|r, as in chapter 32) [G71.5,55.5 Dustwallow Marsh]
 
-[OC]|cffffffffPowderfuse Port|r  -  no fighting. If All's Well That Ends Well is not in your log (Ruzzgot did not offer it) and you carry neither Consolation Prize nor Twice Misplaced Trust, skip this leg: fly from Shellei Brondir to Aerie Peak instead (the game routes it through Ironforge)
+[OC]|cffffffffPowderfuse Port|r  -  no fighting. If All's Well That Ends Well is not in your log (Ruzzgot did not offer it) and you do not carry Consolation Prize, skip this leg: fly from Shellei Brondir to Aerie Peak instead (the game routes it through Ironforge)
 At [TAR1571 Shellei Brondir], |cFFfff8a3Fly to [F Farholde Keep]|r (the game routes it through Thelsamar) [G9.5,59.7 Wetlands]
 Ride north-east from Farholde Keep, past its north side and up the coast road to Powderfuse Port (road unverified, as in chapter 41) [G77.1,52.9 Riverglades]
 At [TAR255897 Friz Frazzlespark], [QT95327] (3,150 XP) [G77.1,52.9 Riverglades]
 [O]Only if you carry it: at [TAR255897 Friz Frazzlespark], [QT95472] (2,350 XP) [G77.1,52.9 Riverglades]
 [OC][A Shaman] |cffffcc00Gear (95472):|r Sweat-Stained Shirt is a shirt with no stats: vendor it (55s)
-[O]Only if you carry it: at [TAR259961 Wharfmaster Whizzbuzz], [QT97332] (3,300 XP) [G79.5,52.7 Riverglades]
-[OC][A Shaman] |cffffcc00Gear (97332):|r take the Apology Ring (+6 Sta, +4 spell damage) if a ring slot is empty or weaker; the Renegotiated Ring (+3 Str, +6 Sta) is close behind. The Jug of Bourbon is a drink
 Ride back to Farholde Keep [G60.9,80.9 Riverglades]
 At [TAR257087 Gretchen Mayberry], |cFFfff8a3Fly to [F Aerie Peak]|r (the game routes it through Thelsamar and Ironforge) [G60.9,80.9 Riverglades]
 
@@ -57,7 +55,7 @@ At [TAR8018 Guthrum Thunderfist], |cFFfff8a3Fly to [F Ironforge]|r [G11.1,46.2 T
 [OC]|cffffffffIronforge|r  -  optional stops only; no bind here (chapter 49 binds Booty Bay)
 [O][A Shaman] Only if you are 44 and did not train at Aerie Peak: in the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [T] train the level 44 row (Lightning Bolt 8 - 1g 80s, Stoneskin Totem 5 - 1g 80s, Lesser Healing Wave 4 - 1g 80s, Nature Resistance Totem 2 - 1g 80s, Rockbiter Weapon 6 - 1g 80s; 9g in all). Still 43: chapter 49 repeats it [G47.1,13.8 Ironforge]
 [O]Only if Skinning is 200 and chapter 39d or 43 did not train it: at [TAR6291 Balthus Stoneflayer] in the Great Forge, [T] learn Artisan Skinning (5g) [G39.9,32.5 Ironforge]
-[OC]|cffffcc00Check:|r handed in here: All's Well That Ends Well (95327), Rhapsody's Kalimdor Kocktail (1452), Witherbark Cages (2988), Troll Necklace Bounty (2880), Skulk Rock Clean-up (2877), The Altar of Zul (2989); if carried, Consolation Prize (95472) and Twice Misplaced Trust (97332); if the beacon dropped, Find OOX-09/HL! (485). In the log for later: Rhapsody's Tale (1469, Brohann in Stormwind, chapter 49), Thadius Grimshade (2990, Nethergarde Keep, chapter 49), and if held Rescue OOX-09/HL! (836, escort done, Oglethorpe in Booty Bay, chapter 49) and Alliance Trauma (6625) / I Got Nothin' Left! (6609) for chapter 50's Theramore pass. Still carried from earlier chapters: whatever chapters 45-47 hold for later. Quest money this chapter: 1g 15s. Hearth = Aerie Peak. You end in Ironforge; chapter 49 starts here
+[OC]|cffffcc00Check:|r handed in here: All's Well That Ends Well (95327), Rhapsody's Kalimdor Kocktail (1452), Witherbark Cages (2988), Troll Necklace Bounty (2880), Skulk Rock Clean-up (2877), The Altar of Zul (2989); if carried, Consolation Prize (95472); if the beacon dropped, Find OOX-09/HL! (485). In the log for later: Rhapsody's Tale (1469, Brohann in Stormwind, chapter 49), Thadius Grimshade (2990, Nethergarde Keep, chapter 49), and if held Rescue OOX-09/HL! (836, escort done, Oglethorpe in Booty Bay, chapter 49) and Alliance Trauma (6625) / I Got Nothin' Left! (6609) for chapter 50's Theramore pass. Still carried from earlier chapters: whatever chapters 45-47 hold for later. Quest money this chapter: 1g 15s. Hearth = Aerie Peak. You end in Ironforge; chapter 49 starts here
 
 [NX 43-45 Stranglethorn Vale]
 ]], "Forever Shaman 30-60")

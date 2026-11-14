@@ -3,7 +3,7 @@ Guidelime.registerGuide([[
 [D Forever Shaman 30-60 (Braedyn)\\Southshore again: bind there, the mountain lions, the Syndicate letter into Alterac and through Ironforge, the Kirin Tor at the City of Dalaran and the lead-ins for later chapters.]
 [GA Alliance]
 [OC]|cffffffffLevel 31|r  -  this chapter wants level 31: every quest here needs level 30 (Foreboding Plans 26), and the mobs are level 32-34 (Mountain Lions 32-33, Hulking Mountain Lions 33-34, Syndicate Footpads 32-33 and Thieves 33-34 at the documents). Under 31: go on anyway; the lions are the only kills and you can pull them one at a time
-[OC]|cffffffffForever Shaman 30-60|r  -  the second guide picks up where Razorfen Kraul (chapter 26) left you: at Refuge Pointe in Arathi after Veyric, hearth = Sentinel Hill. About 8,760 quest XP is handed in here and ~25,000 more is picked up for later chapters
+[OC]|cffffffffForever Shaman 30-60|r  -  the second guide picks up where Razorfen Kraul (chapter 26) left you: at Refuge Pointe in Arathi after Veyric, hearth = Sentinel Hill. About 8,760 quest XP is handed in here and ~16,600 more is picked up for later chapters
 [OC]|cffffcc00Carried in:|r A Green Sample (92456) and Power Overwhelming (92489) are done in the City of Dalaran (chapter 28) and handed in at Stormwind in chapter 30; An Alarming Request (92432) is handed in here, at Modera. Stepping Stones (79192) rides to chapter 29, The Missing Diplomat (1248) to chapter 32, and Mortality Wanes (1142) only if the Pendant dropped
 [OC]|cffffcc00Training and skills:|r no trainer in Southshore; the Ironforge loop below has Eldrun and Balthus Stoneflayer (Expert Skinning at 125)
 
@@ -12,10 +12,6 @@ At [TAR2835 Cedrik Prose], |cFFfff8a3Fly to [F Southshore]|r (direct) [G45.7,46.
 At [TAR2352 Innkeeper Anderson], bind your Hearthstone to [S Southshore] (it stays here until chapter 31) [G51.2,58.9 Hillsbrad Foothills]
 At [TAR2382 Darren Malvew], [QA564 Costly Menace] (2,700 XP, requires level 30: 8 Mountain Lions and 10 Hulking Mountain Lions in south Alterac, |cff66ff66normal|r) [G52.4,56.0 Hillsbrad Foothills]
 At [TAR2366 Barkeep Kelly], [QA98463 Talk of the Town] (265 XP, requires level 28: visit Nixxrax Fillamug in Booty Bay - carried to chapter 31) [G51.6,58.6 Hillsbrad Foothills]
-At [TAR2277 Loremaster Dibbs], [QA95787 Take Two With Water] (3,150 XP + 1g 50s, requires level 30: tablet rubbings in the Drowned City - carried to chapter 31) [G50.6,57.1 Hillsbrad Foothills]
-At [TAR2277 Loremaster Dibbs], [QA95788 Magics of the Drowned City] (3,150 XP, requires level 30: 5 I'lalai Fetishes from the Drowned City trolls - carried to chapter 31) [G50.6,57.1 Hillsbrad Foothills]
-[O]At [TAR2277 Loremaster Dibbs], [QA95798 The Web of Magic] if he offers it now (2,350 XP + 35s: an I'lalai Fetish to Abra Cadabra in Dalaran; it may only come after Magics of the Drowned City, then chapter 31 takes it) [G50.6,57.1 Hillsbrad Foothills]
-[OC]|cffffcc00Dibbs' three:|r Questie does not link them to Dibbs (Wowhead does), so they may show by title only; unverified
 
 [OC]|cffffffffSouth Alterac|r  -  run past Tarren Mill into the Alterac Mountains to the Syndicate camp (Footpads 32-33, Thieves 33-34 around 48-59, 66-83). |cffffcc00Danger:|r four level 50 Tarren Mill Deathguards stand in Alterac at 62-64, 59-61, 5 units from the documents: come in from the south-west
 Click the Syndicate Documents in the camp and take both letters: [QA511 Encrypted Letter] (1,350 XP, requires level 30) and [QA510 Foreboding Plans] (1,350 XP, requires level 26) - both deliveries to Southshore, |cff66ff66normal|r (one click for both is unverified) [G58.3,67.9 Alterac Mountains]
@@ -49,6 +45,6 @@ At [TAR1573 Gryth Thurden], |cFFfff8a3Fly to [F Southshore]|r (direct) [G55.5,47
 [OC]|cffffffffSouthshore close-out|r
 At [TAR2276 Magistrate Henry Maleb], [QT525] (1,350 XP) [G48.1,59.1 Hillsbrad Foothills]
 [OC]Maleb now offers Dark Council: leave it, the level-40 Alterac leg (chapter 39c) takes it with the rest of the Syndicate block
-[OC]|cffffcc00Check:|r handed in here: Costly Menace (564), Encrypted Letter (511), Foreboding Plans (510), Letter to Stormpike (514), Further Mysteries (525) and An Alarming Request (92432). In the log for later chapters: 92456, 92489, 92457, 92458 (chapter 28; 92456 and 92489 then go to Stormwind in chapter 30), Ironband Wants You! 707 (35), Reclaimers' Business in Desolace 1453 (33), Mythology of the Titans 1050 (34), Past Due 96800 (34, hand-in at Olvek on a later crater visit), Talk of the Town 98463 (31), Take Two With Water 95787 and Magics of the Drowned City 95788 (31), The Web of Magic 95798 if Dibbs gave it (31), Stepping Stones 79192 (29), The Missing Diplomat 1248 (32). Hearth = Southshore. Next: the City of Dalaran
+[OC]|cffffcc00Check:|r handed in here: Costly Menace (564), Encrypted Letter (511), Foreboding Plans (510), Letter to Stormpike (514), Further Mysteries (525) and An Alarming Request (92432). In the log for later chapters: 92456, 92489, 92457, 92458 (chapter 28; 92456 and 92489 then go to Stormwind in chapter 30), Ironband Wants You! 707 (35), Reclaimers' Business in Desolace 1453 (33), Mythology of the Titans 1050 (34), Past Due 96800 (34, hand-in at Olvek on a later crater visit), Talk of the Town 98463 (31), Stepping Stones 79192 (29), The Missing Diplomat 1248 (32). Hearth = Southshore. Next: the City of Dalaran
 [NX 31-33 City of Dalaran]
 ]], "Forever Shaman 30-60")

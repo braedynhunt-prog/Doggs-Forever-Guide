@@ -19,6 +19,7 @@ Guidelime.registerGuide([[
 [OC][A Shaman] |cffffcc00Mail:|r the client lets shamans learn Mail at 40 (SkillRaceClassInfo row 145, MinLevel 40), but Eldrun's Wowhead list has no Mail entry. Ask Eldrun for Mail; if he does not list it, open your skills - it may come by itself at 40 (|cffffcc00unverified|r). Mail you carried from earlier chapters goes on now: the Excavator Gauntlets (36.0, chapter 35) beat the Prospector Gloves (27.5) but not the Traveled Gloves (40.0)
 [OC][A Shaman] |cffffcc00Talents 38-40:|r the sheet says Mindfulness 3/3; the weights doc says put one point in at 38 and test whether it stacks with Improved Stormstrike (|cffffcc00unverified|r)
 [O]At [TAR6291 Balthus Stoneflayer] in the Great Forge, [T] learn Artisan Skinning (5g) once Skinning is 200 [G39.9,32.5 Ironforge]
+[OC]|cffffcc00Mageweave:|r count your Mageweave Cloth before you leave Ironforge. Brother Lowley's Wound Dressings at the start of chapter 40 takes 20 and opens his and Sister Rowland's chain (10,865 XP): if you hold fewer, buy the rest at the Ironforge Auction House now (its position is not in the data, unverified)
 In the Hall of Explorers at [TAR1356 Prospector Stormpike], [QA2398 The Lost Dwarves] (315 XP, requires level 35: find Baelog inside Uldaman - carried to chapter 39e) [G74.6,11.7 Ironforge]
 At [TAR6294 Krom Stoutarm] beside him, [QA1360 Reclaimed Treasures] (3,600 XP, requires level 33: Krom Stoutarm's Treasure from his chest in Uldaman's North Common Hall, back to him here - carried to chapter 39e) [G74.2,9.4 Ironforge]
 

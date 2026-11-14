@@ -63,7 +63,7 @@ At [TAR7774 Shay Leafrunner], about 12 units north-west, [QT2844] (3,400 XP) [QA
 Open Shay's Chest beside her for Shay's Bell [CI9189,1] [G38.2,10.3 Feralas]
 |cFFFF0000ESCORT|r Take Shay Leafrunner back south-east to Rockbiter's camp, about 12 units through the harpies and giants; if she wanders off, ring the bell to call her back (Classic knowledge, unverified) [QC2845] [G42.4,22.0 Feralas]
 At [TAR7765 Rockbiter], [QT2845] (4,550 XP) [G42.4,22.0 Feralas]
-[OC][A Shaman] |cffffcc00Gear (2845):|r take the Vinehedge Cinch (leather waist, +14 Str +3 Sta, 28.0); Granite Grips are plate. Wear it over the Violet Sash or Grappler's Belt; keep the Deathmage Sash (31.8) if you wear it; against the Twilight Initiate's Belt (29.9 central, 22.9 conservative) it is level: keep the Belt. Otherwise vendor it (53s 33c)
+[OC][A Shaman] |cffffcc00Gear (2845):|r take the Vinehedge Cinch (leather waist, +14 Str +3 Sta, 28.0); Granite Grips are plate. Wear it over the Violet Sash or Grappler's Belt; keep the Deathmage Sash (31.8) if you wear it. Otherwise vendor it (53s 33c)
 |cFFfff8a3Hearth to [H Feathermoon]|r (on cooldown: ride south to the dock and take the boat) [G42.4,22.0 Feralas]
 
 [OC]|cffffffffFeathermoon: the end|r  -  chapter 51 flies from Fyldren Moonfeather

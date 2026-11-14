@@ -37,6 +37,6 @@ At [TAR269127 Image of Archmage Modera], [QT92457] (3,950 XP) - |cffffcc00Gear:|
 [O]At [TAR269127 Image of Archmage Modera], [QA92459 Friend of the Kirin Tor] (only offered once Heart of Disruption is handed in) [G14.3,59.6 Alterac Mountains]
 [O]At [TAR252085 Archmage Celindra] beside her, [QT92459] (265 XP, no reward) [G14.2,60.0 Alterac Mountains]
 |cFFfff8a3Hearth to [H Southshore]|r
-[OC]|cffffcc00Check:|r handed in here: Starving Arcane (92457) and, if the Mote dropped, Heart of Disruption (92458) and Friend of the Kirin Tor (92459); otherwise 92458 is abandoned. A Green Sample (92456) and Power Overwhelming (92489) are complete and ride to chapter 30's Stormwind opening (Shylamiir 31.5,62.6 and Andromath 48.7,87.6). Carried on unchanged from chapter 27: 707, 1453, 1050, 96800, 98463, 95787, 95788, 95798 and 79192. Next: Arathi Highlands
+[OC]|cffffcc00Check:|r handed in here: Starving Arcane (92457) and, if the Mote dropped, Heart of Disruption (92458) and Friend of the Kirin Tor (92459); otherwise 92458 is abandoned. A Green Sample (92456) and Power Overwhelming (92489) are complete and ride to chapter 30's Stormwind opening (Shylamiir 31.5,62.6 and Andromath 48.7,87.6). Carried on unchanged from chapter 27: 707, 1453, 1050, 96800, 98463 and 79192. Next: Arathi Highlands
 [NX 32-33 Arathi Highlands]
 ]], "Forever Shaman 30-60")

@@ -45,7 +45,7 @@ Kill [TAR12241 Spirit of Magra] (43 elite) for the [CI17763,1 Gem of the Third K
 Purple wing: use the [UI17696 Filled Cerulean Vial] on 8 Vylestem Vines and kill the [TAR13696 Noxxious Scion] (45-46) that comes out of each [QC7041]
 Kill [TAR12243 Spirit of Veng] (47 elite) for the [CI17765,1 Gem of the Fifth Kahn]
 Kill [TAR12236 Lord Vyletongue] (47 elite) for the [CI17703,1 Celebrian Diamond] (one kill only; Wowhead 37.9% over all kills)
-[OC][A Shaman] |cffffcc00Boss loot (Vyletongue):|r |cff66ff66Satyrmane Sash|r (cloth waist +7 Sta +10 Int +14 spell damage, requires 45; 39.9 on the weights) beats your belt (Twilight Initiate's Belt 29.9, Vinehedge Cinch 28.0): roll. |cff66ff66Infernal Trickster Leggings|r (mail legs +20 Agi +8 Int +10 Spi, requires 45; 57.1): roll only if your legs score under about 57
+[OC][A Shaman] |cffffcc00Boss loot (Vyletongue):|r |cff66ff66Satyrmane Sash|r (cloth waist +7 Sta +10 Int +14 spell damage, requires 45; 39.9 on the weights) beats your belt (Vinehedge Cinch 28.0): roll. |cff66ff66Infernal Trickster Leggings|r (mail legs +20 Agi +8 Int +10 Spi, requires 45; 57.1): roll only if your legs score under about 57
 [OC]Meshlok the Harvester (48 rare elite) may stand in the wing: not a quest target; his Bloomsprout Headpiece (mail head +15 Sta +36 AP, 36.0) is below the head you wear
 Orange wing: kill [TAR12242 Spirit of Maraudos] (46 elite) for the [CI17764,1 Gem of the Fourth Kahn]
 Kill [TAR13282 Noxxion] (48 elite) for the [CI17702,1 Celebrian Rod] (one kill only; Wowhead 42.6% over all kills)
@@ -71,7 +71,7 @@ Kill [TAR12201 Princess Theradras] (51 elite) [QC7065]
 At [TAR13717 Centaur Pariah], [QT7067] (5,450 XP + 1g 40s) [G50.4,86.7 Desolace]
 [OC][A Shaman] |cffffcc00Gear (7028, choice):|r Acumen Robes (cloth chest +15 Int +14 spell damage, 45.8) are below the Surveyor's Tunic (59.5) and the Doomsayer's Robe (57.0): take the Relentless Chain for the vendor (1g 31s 4c)
 [O]Only with 25 carvings: at [TAR13656 Willow], [QT7028] (5,250 XP) [G62.2,39.6 Desolace]
-[OC][A Shaman] |cffffcc00Gear (7041, choice):|r take the |cff66ff66Woodseed Hoop|r (ring +10 Int +6 spell damage, 23.9) and wear it in place of the Tiger Band (22.5) if that is still your second ring; it is below the Coldwater Ring (26.1) and the Purified Ring (24.3). The Sagebrush Girdle (leather waist +11 Agi +9 Int, 23.1) only if you wear neither the Satyrmane Sash, the Twilight Initiate's Belt nor the Vinehedge Cinch; the Branchclaw Gauntlets are plate
+[OC][A Shaman] |cffffcc00Gear (7041, choice):|r take the |cff66ff66Woodseed Hoop|r (ring +10 Int +6 spell damage, 23.9) and wear it in place of the Tiger Band (22.5) if that is still your second ring; it is below the Coldwater Ring (26.1) and the Purified Ring (24.3). The Sagebrush Girdle (leather waist +11 Agi +9 Int, 23.1) only if you wear neither the Satyrmane Sash nor the Vinehedge Cinch; the Branchclaw Gauntlets are plate
 At [TAR11715 Talendria], [QT7041] (5,250 XP) [G68.5,8.9 Desolace]
 [OC][A Shaman] |cffffcc00Gear (7065, choice):|r Resurgence Rod (2H staff 34.08 dps, +37 spell damage, 551.1) loses to every two-hander you hold: take it for the vendor (4g 21s 42c, the best sell); Thrash Blade and Verdant Keeper's Aim are a sword and a bow
 At [TAR13698 Keeper Marandis], [QT7065] (6,100 XP) [G63.8,10.7 Desolace]

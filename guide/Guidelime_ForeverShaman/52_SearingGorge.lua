@@ -80,7 +80,7 @@ Loot the Secret Plans: Fiery Flux in the Slag Pit [QC7722]. |cFFFF0000Danger:|r 
 [OC]|cffffffffThorium Point|r  -  the hand-ins, then the outhouse
 At [TAR14626 Taskmaster Scrange], [QT7729] (4,400 XP + 2g 10s) [G39.0,27.5 Searing Gorge]
 At [TAR14627 Hansel Heavyhands], [QT7723] [QT7724] [QT7727] (4,550 XP + 70s each) [G38.6,27.8 Searing Gorge]
-[OC][A Shaman] |cffffcc00Gear (7723, 7724, 7727):|r all fixed. Slagplate Gauntlets (plate, cannot wear): vendor (44s 51c). Seared Mail Girdle (mail waist, +12 Agi +7 Sta, 13.6) is below the Violet Sash, the Twilight Initiate's Belt and the Deathmage Sash: vendor (66s 52c) unless your waist is empty. Luffa (trinket, no stats; removes a Bleed): keep it only for an empty trinket slot, else vendor (93s 47c)
+[OC][A Shaman] |cffffcc00Gear (7723, 7724, 7727):|r all fixed. Slagplate Gauntlets (plate, cannot wear): vendor (44s 51c). Seared Mail Girdle (mail waist, +12 Agi +7 Sta, 13.6) is below the Violet Sash and the Deathmage Sash: vendor (66s 52c) unless your waist is empty. Luffa (trinket, no stats; removes a Bleed): keep it only for an empty trinket slot, else vendor (93s 47c)
 At [TAR14624 Master Smith Burninate], [QT7722] (4,700 XP + 75s) [G38.8,28.5 Searing Gorge]
 Ride east back to the Wooden Outhouse, [QT4451] (5,250 XP) [G65.6,62.2 Searing Gorge]
 |cFFfff8a3Hearth to [H Ironforge]|r (or cast Astral Recall; neither ready: ride back to Lanie Reed at Thorium Point and fly to Ironforge) [G65.6,62.2 Searing Gorge]

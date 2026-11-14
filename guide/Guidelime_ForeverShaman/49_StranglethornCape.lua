@@ -24,7 +24,7 @@ At [TAR8609 Alexandra Constantine], |cFFfff8a3Fly to [F Booty Bay]|r (the game r
 [OC]|cffffffffBooty Bay|r  -  bind, the carried hand-ins and the two Cape quests
 At [TAR6807 Innkeeper Skindle], bind your Hearthstone to [S Booty Bay] (the Aerie Peak bind from chapter 48 ends here; chapter 50 binds Feathermoon) [G27.0,77.3 Stranglethorn Vale]
 At [TAR2501 "Sea Wolf" MacKinley], [QT2874] (3,900 XP + 50s) [G27.8,77.1 Stranglethorn Vale]
-[OC][A Shaman] |cffffcc00Gear (2874):|r the Swashbuckler Sash (cloth waist, +10 Str +9 Sta, scores 20.0) only if your belt scores under 20.0 (none, or the Grappler's Belt); over the Twilight Initiate's Belt or the Violet Sash take the Shinkicker Boots (plate, cannot wear) to vendor (47s 49c)
+[OC][A Shaman] |cffffcc00Gear (2874):|r the Swashbuckler Sash (cloth waist, +10 Str +9 Sta, scores 20.0) only if your belt scores under 20.0 (none, or the Grappler's Belt); over the Violet Sash take the Shinkicker Boots (plate, cannot wear) to vendor (47s 49c)
 [O]Only with a rescued robot: at [TAR7406 Oglethorpe Obnoticus], [QT2767] (4,850 XP) and/or [QT836] (5,450 XP) [G28.4,76.3 Stranglethorn Vale]
 [OC][A Shaman] |cffffcc00Gear (2767):|r the Failed Flying Experiment (leather shoulder, +10 Str +10 Agi, 31.3) over the Palm Frond Mantle or the Inquisitor's Shawl; if your shoulder already scores over 31.3 (Mantle of Doan), the Chainlink Towel (back, 28.6) when your cloak scores under 28.6
 [OC][A Shaman] |cffffcc00Gear (836):|r with the Southsea Mojo Boots (29.1) take the Gnomish Water Sinking Device (plate, cannot wear) to vendor (67s 91c); without them, the Gnomish Inventor Boots (cloth feet, 29.9)
@@ -54,7 +54,7 @@ Kill [TAR2546 Fleet Master Firallon] (level 48). If he is too much at your level
 
 [OC]|cffffffffBooty Bay|r  -  hand-ins, then the pier
 At [TAR2487 Fleet Master Seahorn], [QT608] (4,850 XP) once all three captains are dead [G27.2,77.0 Stranglethorn Vale]
-[OC][A Shaman] |cffffcc00Gear (608):|r the Blackwater Tunic (mail chest, +7 Str +15 Spi, 51.5) if your chest scores under 51.5 (Robe of Crystal Waters, Old Leather Jacket); keep the Doomsayer's Robe (57.0) or the Intrepid Explorer's Chainmail (53.6) if you wear one. The Blackwater Cap (cloth head, 32.2) loses to the Saltseer's Helm. If no slot gains, take the Blackwater Scimitar (one-hand sword, cannot use) to vendor (1g 39s 79c)
+[OC][A Shaman] |cffffcc00Gear (608):|r the Blackwater Tunic (mail chest, +7 Str +15 Spi, 51.5) if your chest scores under 51.5 (Robe of Crystal Waters, Old Leather Jacket); keep the Doomsayer's Robe (57.0) if you wear it. The Blackwater Cap (cloth head, 32.2) loses to the Saltseer's Helm. If no slot gains, take the Blackwater Scimitar (one-hand sword, cannot use) to vendor (1g 39s 79c)
 At [TAR2486 Fin Fizracket], [QT348] (5,850 XP) [G27.6,76.7 Stranglethorn Vale]
 [OC][A Shaman] |cffffcc00Gear (348):|r the Medicine Blanket (back, +4 Sta +9 Spi, 22.5) is fixed: wear it over a cloak under 22.5 (South Seas Shroud, Yeti Fur Cloak, Vine Pruner's Cloak); the Explorer's League Dustcover, Glowing Thresher Cape, Drape of Shifting Energy and a Chainlink Towel beat it - then vendor it (48s 53c)
 [O]With all three pieces: at [TAR2501 "Sea Wolf" MacKinley], [QT609] (3,750 XP + 65s) [G27.8,77.1 Stranglethorn Vale]

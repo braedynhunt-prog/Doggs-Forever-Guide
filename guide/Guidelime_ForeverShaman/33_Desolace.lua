@@ -19,15 +19,14 @@ At flight master [TAR6706 Baritanas Skyriver], get the [P Nijel's Point] flight 
 At [TAR11103 Innkeeper Lyshaerya], bind your Hearthstone to [S Nijel's Point] (it stays here for chapter 34) [G66.3,6.5 Desolace]
 At [TAR5638 Kreldig Ungor], [QT1453] (1,300 XP) [QA1454 The Karnitol Shipwreck] (3,000 XP: find Karnitol's Chest on the west coast) [G66.2,9.6 Desolace]
 At [TAR5642 Vahlarriel Demonslayer], [QA1437 Vahlarriel's Search] (1,950 XP: search the Malem wagon) [G66.4,11.8 Desolace]
-At [TAR5642 Vahlarriel Demonslayer], [QA97284 Vahlarriel's Vengeance] (2,650 XP + 65s: 4 each of Burning Blade Augurs, Reavers, Adepts and Felsworn at Thunder Axe Fortress; new in Forever, the DB names no giver - Wowhead puts it on Vahlarriel) [G66.4,11.8 Desolace]
 At [TAR1182 Brother Anton], [QA261 Down the Scarlet Path] (3,000 XP + 45s, requires level 34: 30 Undead Ravagers in the Valley of Spears, the last leg) [G66.5,7.9 Desolace]
 [OC]|cffffcc00Cooking:|r Janet Hommers sells two skill-up recipes. Filler only (the food thread stays Mithril Head Trout); buy them if you have the skill and the silver
 [O]At [TAR8150 Janet Hommers], [V] buy Recipe: Mystery Stew (30s) (Cooking 175; +5 Sta well fed) [G66.2,6.6 Desolace]
 [O]At [TAR8150 Janet Hommers], [V] buy Recipe: Heavy Kodo Stew (70s) (Cooking 200; +10 Sta well fed; needs Heavy Kodo Meat from the Kodo Graveyard kodos) [G66.2,6.6 Desolace]
 
-[OC]|cffffffffThe Malem wagon|r  -  a short loop west and back: Vahlarriel's next step needs the pendant handed in first (about 13 units each way)
+[OC]|cffffffffThe Malem wagon|r  -  a short loop west and back: Vahlarriel's next two quests need the pendant handed in first (about 13 units each way)
 Search the Malem Chest at the wagon west of town [QT1437] [QA1465 Vahlarriel's Search] (1,950 XP: the Malem Pendant to Vahlarriel) [G56.5,17.8 Desolace]
-At [TAR5642 Vahlarriel Demonslayer], [QT1465] [QA1438 Vahlarriel's Search] (2,650 XP: find Dalinda Malem in Thunder Axe Fortress) [G66.4,11.8 Desolace]
+At [TAR5642 Vahlarriel Demonslayer], [QT1465] [QA1438 Vahlarriel's Search] (2,650 XP: find Dalinda Malem in Thunder Axe Fortress) [QA97284 Vahlarriel's Vengeance] (2,650 XP + 65s: 4 each of Burning Blade Augurs, Reavers, Adepts and Felsworn at Thunder Axe Fortress; new in Forever, she offers it once the pendant is handed in - if she already gave it to you on arrival, nothing changes) [G66.4,11.8 Desolace]
 
 [OC]|cffffffffEthel Rethor and the west coast|r  -  ride west past the north side of Thunder Axe Fortress to Azore's tower, then south-west to the wreck. Slitherblade naga (32-36) walk the coast
 At [TAR11863 Azore Aldamort], [QA5741 Sceptre of Light] (2,650 XP + 35s: from the Burning Blade Seer in Thunder Axe Fortress) [G38.9,27.2 Desolace]
