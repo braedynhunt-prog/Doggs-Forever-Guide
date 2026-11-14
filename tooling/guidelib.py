@@ -267,7 +267,12 @@ def tars(line):
 # 'Dwarf+11s' = the Dwarf route with the replaced chapter swapped for the alternate, so check_guide's flow and hearth
 # checks and verify.py --chain Dwarf+11s cover both ways through. CHAIN_RACE names the race whose lines a chain follows.
 ALTERNATES = {'11s_DarkshoreShort.lua': '11_Darkshore.lua',   # alternate chapter -> the chapter it replaces
-              '11t_SleepingBag.lua': None}                    # None = an optional extra chapter that replaces nothing (chain Dwarf+11t)
+              '11t_SleepingBag.lua': None,                    # None = an optional extra chapter that replaces nothing (chain Dwarf+11t)
+              # 14 Nov 2026: False = a standalone catch-up chapter, picked by hand and written against one character's real
+              # quest state. It is on no chain (its pickups repeat chapters 13w-18, so any chain would call them accepted
+              # twice): check_guide.py runs only its per-line checks and tarcheck.py its positions; the flow was checked
+              # against the Questie log it was written for (docs/audit-2026-11-14.md, third part).
+              '19b_BackOnTrack.lua': False}
 CHAIN_RACE = {}
 def _bn(f): return os.path.basename(f)
 CHAINS = {'Human': lambda f: not _bn(f).startswith('01') and _bn(f) not in ALTERNATES,
@@ -275,6 +280,7 @@ CHAINS = {'Human': lambda f: not _bn(f).startswith('01') and _bn(f) not in ALTER
 def _alt_chain(alt, main):
     return lambda f: not _bn(f).startswith('00') and _bn(f) != main and (_bn(f) not in ALTERNATES or _bn(f) == alt)
 for _alt, _main in ALTERNATES.items():
+    if _main is False: continue                    # standalone: no chain of its own
     _name = 'Dwarf+' + _alt.split('_')[0]
     CHAINS[_name] = _alt_chain(_alt, _main)
     CHAIN_RACE[_name] = 'Dwarf'

@@ -179,6 +179,9 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                        flow and hearth and verify.py takes as --chain Dwarf+11s. gold.py skips the alternate; tarcheck.py,
                        dungeon_loot.py and tugs_diff.py read every file. Variants list their chapters in variant.json, so an
                        alternate is not carried into them unless it is added there.
+                       14 Nov 2026: an ALTERNATES value of False is a standalone catch-up chapter (19b_BackOnTrack.lua): on no
+                       chain and with no chain of its own, so check_guide.py runs only its per-line checks; gold.py skips it.
+                       Its flow is checked by hand against the quest log it was written for.
   verify.py            baseline and default --chain follow the folder (FOREVER_GUIDE=guide\Guidelime_ForeverWarrior -> Skyborne)
   tarcheck.py, pool30.py   read guidelib.ADDON (FOREVER_GUIDE) instead of the hard-coded Alliance folder
   hook_check_guide.py  checks the edited file's own addon folder with that folder's baselines; flags edits inside a generated
