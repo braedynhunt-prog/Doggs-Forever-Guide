@@ -182,6 +182,9 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                        14 Nov 2026: an ALTERNATES value of False is a standalone catch-up chapter (19b_BackOnTrack.lua): on no
                        chain and with no chain of its own, so check_guide.py runs only its per-line checks; gold.py skips it.
                        Its flow is checked by hand against the quest log it was written for.
+                       14 Nov 2026 (4): 24d_DungeonGnomeregan.lua and 28d_DungeonCityOfDalaran.lua are standalone too (value
+                       False): one dungeon each, every pickup, the run and the hand-ins, for playing a dungeon ahead of the
+                       route. Their quests repeat the route chapters', so gold.py skips them as well.
   verify.py            baseline and default --chain follow the folder (FOREVER_GUIDE=guide\Guidelime_ForeverWarrior -> Skyborne)
   tarcheck.py, pool30.py   read guidelib.ADDON (FOREVER_GUIDE) instead of the hard-coded Alliance folder
   hook_check_guide.py  checks the edited file's own addon folder with that folder's baselines; flags edits inside a generated

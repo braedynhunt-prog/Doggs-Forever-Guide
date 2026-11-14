@@ -18,7 +18,7 @@ Meet your group at the [TAR269127 Image of Archmage Modera] outside the city [G1
 [OC]|cffffcc00?|r Starving Arcane (92457) - 8 Seeking Remnants, 8 Saturated Remnants and 8 Mana Echoes - |cff66ff66normal|r: the trash of the clear. 3,950 XP at Modera outside
 [OC]|cffffcc00?|r Power Overwhelming (92489) - slay the Mana Elemental, the boss Arcanic Enigma - |cff66ff66normal|r. 3,950 XP and 1 gold at High Sorcerer Andromath in Stormwind (chapter 30)
 [OC]|cffffcc00?|r A Green Sample (92456) - 1 Fel Infused Blossom - |cff66ff66normal|r: an object, not in the data, so where it stands is unknown (perhaps the Fel Ancient's room). 3,950 XP at Shylamiir in Stormwind (chapter 30)
-[OC]|cffffcc00?|r Heart of Disruption (92458) - the Arcane Mote from the Shade of the Archmage - |cFFFF0000grind/luck, one kill only|r: Wowhead Forever shows 40.75% (counted over kills by players without the quest). If the Mote is not in his loot, do not re-run: abandon the quest at Modera. 3,950 XP at Modera, and Friend of the Kirin Tor (265 XP) after it
+[OC]|cffffcc00?|r Heart of Disruption (92458) - the Arcane Mote from the Shade of the Archmage - |cFFFF0000grind/luck, one kill only|r: Wowhead Forever shows 40.38% (counted over kills by players without the quest). If the Mote is not in his loot, do not re-run: abandon the quest at Modera. 3,950 XP at Modera, and Friend of the Kirin Tor (265 XP) after it
 Kill 8 [TAR247003 Seeking Remnant], 8 [TAR247001 Saturated Remnant] and 8 [TAR246600 Mana Echo] on the clear (no positions for the Seeking Remnants in the data) [QC92457] [G17.1,67.2 Alterac Mountains]
 [OC]|cffffcc00Trash loot (bind on equip):|r |cff66ff66Violet Sorcerer's Leggings|r (cloth legs +13 Int +5 Spi +12 spell damage, req 29; Saturated Remnants and others) score 51.3 on the weights, keep them. Roused Nature Footwraps (leather boots +6 Sta +9 Spi, healing) 30.5; Violet Sorcerer's Wraps (cloth gloves +9 Int, +1% hit) about 16.3, below Zodiac Gloves 22.1
 Take a Fel Infused Blossom (the object is not in the data: look round the Fel Ancient's room first, unverified) [QC92456] [G16.7,67.7 Alterac Mountains]
@@ -26,7 +26,7 @@ Take a Fel Infused Blossom (the object is not in the data: look round the Fel An
 [OC][A Shaman] |cffffcc00Loot (Mana Devourer):|r Spine of the Devourer (staff 20.7 dps +14 Sta +36 spell damage) is below every two-hander you carry; Slitherwrap Girdle and the Manascale Treads (mail): pass
 Kill [TAR246016 Arcanic Enigma], the Mana Elemental [QC92489] [G21.2,63.1 Alterac Mountains]
 [OC][A Shaman] |cffffcc00Loot (Arcanic Enigma):|r |cff66ff66Violet Sorcerer's Robes|r (cloth chest +15 Int +9 spell damage) 35.1 on the weights, the chest of the run, ROLL. |cff66ff66Drape of Shifting Energy|r (cloak +7 Spi +12 attack power) 29.5, beats the Glowing Thresher Cape and the Dustcover. The wand: pass
-[O]Kill [TAR246020 Shade of the Archmage] and loot the Arcane Mote [QC92458] (~41% - one kill only: no Mote, no re-run) [G15.2,55.9 Alterac Mountains]
+[O]Kill [TAR246020 Shade of the Archmage] and loot the Arcane Mote [QC92458] (~40% - one kill only: no Mote, no re-run) [G15.2,55.9 Alterac Mountains]
 [OC][A Shaman] |cffffcc00Loot (Shade of the Archmage):|r Archmagister's Faceted Pendant (neck +6 Int +12 attack power) 18.8, only over a neck weaker than the Giantstone Medallion or Thermaplugg Medal (25.0). Violet Sorcerer's Mantle (+9 Int) and the Ponderous Orb (off-hand): pass. Babagahnoosh drops only a Dalaran Mana Gem
 [OC]|cffffcc00Leaving:|r walk out the way you came, back to Modera outside the city
 

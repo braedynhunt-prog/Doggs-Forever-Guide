@@ -272,7 +272,12 @@ ALTERNATES = {'11s_DarkshoreShort.lua': '11_Darkshore.lua',   # alternate chapte
               # quest state. It is on no chain (its pickups repeat chapters 13w-18, so any chain would call them accepted
               # twice): check_guide.py runs only its per-line checks and tarcheck.py its positions; the flow was checked
               # against the Questie log it was written for (docs/audit-2026-11-14.md, third part).
-              '19b_BackOnTrack.lua': False}
+              '19b_BackOnTrack.lua': False,
+              # 14 Nov 2026 (4): standalone dungeon chapters - every pickup of one dungeon, the run and the hand-ins, to be
+              # played whenever a group forms. Their quests repeat chapters 15, 18, 23-25, 27, 28 and 30, so they are on no
+              # chain either (docs/audit-2026-11-14.md, fourth part).
+              '24d_DungeonGnomeregan.lua': False,
+              '28d_DungeonCityOfDalaran.lua': False}
 CHAIN_RACE = {}
 def _bn(f): return os.path.basename(f)
 CHAINS = {'Human': lambda f: not _bn(f).startswith('01') and _bn(f) not in ALTERNATES,
