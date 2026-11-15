@@ -280,7 +280,12 @@ ALTERNATES = {'11s_DarkshoreShort.lua': '11_Darkshore.lua',   # alternate chapte
               '28d_DungeonCityOfDalaran.lua': False,
               # 15 Nov 2026: standalone Call of Air chapter for a shaman without the Refuge Pointe flight path. Its quests
               # repeat chapter 25's (94789, 96264), so it is on no chain (docs/audit-2026-11-15.md).
-              '25a_CallOfAir.lua': False}
+              '25a_CallOfAir.lua': False,
+              # 15 Nov 2026 (2): standalone Razorfen Kraul dungeon chapter (its quests repeat chapter 26's, plus the
+              # optional Crone of the Kraul 1100/1101) and the level-33 catch-up written against the Questie log of
+              # 15 Nov (its pickups repeat chapters 27 and 29). On no chain (docs/audit-2026-11-15.md, second part).
+              '26d_DungeonRazorfenKraul.lua': False,
+              '29b_BackOnTrack33.lua': False}
 CHAIN_RACE = {}
 def _bn(f): return os.path.basename(f)
 CHAINS = {'Human': lambda f: not _bn(f).startswith('01') and _bn(f) not in ALTERNATES,
