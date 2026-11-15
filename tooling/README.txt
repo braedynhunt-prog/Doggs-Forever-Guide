@@ -185,6 +185,8 @@ The stat-weight model and item scorer live in ..\weights\ (see its README).
                        14 Nov 2026 (4): 24d_DungeonGnomeregan.lua and 28d_DungeonCityOfDalaran.lua are standalone too (value
                        False): one dungeon each, every pickup, the run and the hand-ins, for playing a dungeon ahead of the
                        route. Their quests repeat the route chapters', so gold.py skips them as well.
+                       15 Nov 2026: 25a_CallOfAir.lua is standalone too (value False): Call of Air on foot from Southshore
+                       for a shaman without the Refuge Pointe flight path. Its two quests repeat chapter 25's; gold.py skips it.
   verify.py            baseline and default --chain follow the folder (FOREVER_GUIDE=guide\Guidelime_ForeverWarrior -> Skyborne)
   tarcheck.py, pool30.py   read guidelib.ADDON (FOREVER_GUIDE) instead of the hard-coded Alliance folder
   hook_check_guide.py  checks the edited file's own addon folder with that folder's baselines; flags edits inside a generated

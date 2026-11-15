@@ -1,0 +1,27 @@
+Guidelime.registerGuide([[
+[N 30-30 Call of Air]
+[D Forever Shaman 1-30 (Braedyn)\\Shaman only, picked by hand: Call of Air in one trip for a shaman without the Refuge Pointe flight path - Eldrun in Ironforge, the bird to Southshore, on foot through Thoradin's Wall, the Expert First Aid book in Stromgarde, the Refuge Pointe flight path and Veyric Thunderhame for the Air Totem.]
+[GA Alliance]
+[OC][A Shaman] |cffffffffLevel check|r  -  this chapter wants level 30: Eldrun does not offer Call of Air (94789) below it. Still 29? Play on in the route and come back the moment you are 30
+[OC][A Shaman] |cffffffffCall of Air in one trip|r  -  it opens in Ironforge and ends at Refuge Pointe with the flight path taken. One hand-in, 2,450 XP and the Air Totem; about 25 minutes from Ironforge and nothing to kill. No hearth is used
+[OC][A Shaman] |cffffcc00What you need:|r the Southshore flight path (chapter 08), 1g for the First Aid book and silver for the level-30 spells (3g 50s for the five on the sheet)
+
+[OC][A Shaman] |cffffffffIronforge: Eldrun|r
+[A Shaman] In the Forlorn Cavern at [TAR258098 Eldrun Stormbreaker], [QA94789 Call of Air] (2,450 XP and the Air Totem; it is handed in at Veyric Thunderhame in Arathi) [G47.1,13.8 Ironforge]
+[A Shaman] At [TAR258098 Eldrun Stormbreaker], [T] train your level 30 spells (sheet: Windfury Weapon, Reincarnation, Astral Recall are musts, Searing Totem 3, Grounding Totem buys - 70s each, 3g 50s; Call of the Ancestors - 60s; Healing Stream 2 (70s) when gold is easy). Grounding Totem is an air totem: you cannot cast it until Veyric hands you the Air Totem [G47.1,13.8 Ironforge]
+[OC][A Shaman] |cffffcc00Look round before you leave:|r the DB also lists Veyric at Eldrun's spot. Wowhead shows him in Arathi only (15 Nov) and the quest text says Arathi, so expect the trip (|cffffcc00unverified|r). If he does stand here, hand in and take Elemental Aid from him; the rest of the chapter is then the First Aid book and the flight path
+[A Shaman] At [TAR1573 Gryth Thurden], |cFFfff8a3Fly to [F Southshore]|r (the game routes it) [G55.5,47.7 Ironforge]
+
+[OC][A Shaman] |cffffffffHillsbrad: on foot to Thoradin's Wall|r  -  from Southshore run east to the gate in the wall where the road enters Arathi, about 34 map units (Ghost Wolf, 2 minutes). The bears, lions and Moss Creepers on the way are 22-28. The arrow points at the gate; on the Hillsbrad map it is at about 83,58 (worked out from the zone bounds, |cffffcc00unverified|r)
+[A Shaman] Run east from Southshore to the gate in Thoradin's Wall [G20.0,29.4 Arathi Highlands]
+
+[OC][A Shaman] |cffffffffArathi: the road to Stromgarde and Refuge Pointe|r  -  everything here is your level or above: Highland Striders (30-31) and Plains Creepers (32-33) along the road, Boulderfist Ogres (32-33) north of it at x31-38, y40-50. Stay on the road in Ghost Wolf. Keep away from three things: the Burning Exiles (38-39) at the stone circle beside the gate (x24-27, y28-33; the road bends south past them), the Rumbling Exiles (38-39) south of the road at x35-38, y56-61, and the |cFFFF0000Forsaken Courier|r with her four Bodyguards, all level 35, who walk this same road between the gate and Go'Shek Farm. Five Forsaken coming your way: step well off the road and let them pass
+[A Shaman] Follow the road south from the gate and then south-east to where it turns east, north of Stromgarde Keep [G27.2,49.7 Arathi Highlands]
+[A Shaman] Leave the road south into Stromgarde's Alliance-held north-west quarter (the Stromgarde Vindicators and Defenders there are friendly) and at [TAR2805 Deneb Walker], [V] buy Expert First Aid - Under Wraps (1g) and read it (First Aid 125, cap 225 - verified); take the Manual: Heavy Silk Bandage (22s) too if you want it at 180. Do not go south of him: the Syndicate elites (35-40) start at y 60, a unit away [G27.0,58.8 Arathi Highlands]
+[A Shaman] Back north to the road, east along it and north off it to Refuge Pointe. At flight master [TAR2835 Cedrik Prose], get the [P Refuge Pointe] flight point [G45.7,46.1 Arathi Highlands]
+
+[OC][A Shaman] |cffffffffVeyric Thunderhame|r  -  walk about 24 map units north-east of Refuge Pointe and approach him from the WEST: Highland Striders and Plains Creepers (30-33) on the way; the Cresting Exiles (38-39) stand 5 units east of him at x65-68, y28-31, with Fozruk (42 elite) and Myzrael (44 elite) beyond, and Hammerfall's guards further east are level 50. Stay in Ghost Wolf and do not go past him. He is not there? Horde players kill him (Wowhead comment, 12 Nov): wait west of his spot, he is back within a few minutes
+[A Shaman] At [TAR259023 Veyric Thunderhame], [QT94789] (2,450 XP) - the reward is the |cff66ff66Air Totem|r. Keep it in your bags: every air totem needs it (Grounding Totem now, Windfury Totem at 32) [QA96264 Elemental Aid] (3,300 XP: Charlga Razorflank, the last boss of Razorfen Kraul, drops the Tattered Note. It rides in your log until you run the Kraul and is handed in here - chapter 26) [G59.8,27.6 Arathi Highlands]
+[A Shaman] Walk back the way you came to Refuge Pointe [G45.7,46.1 Arathi Highlands]
+[OC][A Shaman] |cffffcc00Check:|r the Air Totem is in your bags, Elemental Aid (96264) is in the log, the Refuge Pointe flight path is taken and First Aid reads out of 225. In chapter 25 the Call of Air quest steps now pass by themselves; skip its flight to Refuge Pointe and its Stromgarde step by hand. From Cedrik Prose fly to wherever your route chapter stands
+]], "Forever Shaman 1-30")

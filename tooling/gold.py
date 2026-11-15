@@ -32,7 +32,7 @@ def main():
     cum = 0
     for f in sorted(glob.glob(os.path.join(GUIDE, "*.lua"))):
         name = os.path.basename(f)
-        if name in ("11s_DarkshoreShort.lua", "11t_SleepingBag.lua", "19b_BackOnTrack.lua", "24d_DungeonGnomeregan.lua", "28d_DungeonCityOfDalaran.lua"):   # alternate chapters (guidelib.ALTERNATES): their turn-ins repeat chapter 11's and 26's (19b: 13w's, 15's and 16's; 24d and 28d: 24's, 25's, 27's, 28's and 30's)
+        if name in ("11s_DarkshoreShort.lua", "11t_SleepingBag.lua", "19b_BackOnTrack.lua", "24d_DungeonGnomeregan.lua", "28d_DungeonCityOfDalaran.lua", "25a_CallOfAir.lua"):   # alternate chapters (guidelib.ALTERNATES): their turn-ins repeat chapter 11's and 26's (19b: 13w's, 15's and 16's; 24d and 28d: 24's, 25's, 27's, 28's and 30's; 25a: 25's)
             continue
         req = opt = 0
         unknown = []

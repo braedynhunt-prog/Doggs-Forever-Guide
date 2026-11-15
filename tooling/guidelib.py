@@ -277,7 +277,10 @@ ALTERNATES = {'11s_DarkshoreShort.lua': '11_Darkshore.lua',   # alternate chapte
               # played whenever a group forms. Their quests repeat chapters 15, 18, 23-25, 27, 28 and 30, so they are on no
               # chain either (docs/audit-2026-11-14.md, fourth part).
               '24d_DungeonGnomeregan.lua': False,
-              '28d_DungeonCityOfDalaran.lua': False}
+              '28d_DungeonCityOfDalaran.lua': False,
+              # 15 Nov 2026: standalone Call of Air chapter for a shaman without the Refuge Pointe flight path. Its quests
+              # repeat chapter 25's (94789, 96264), so it is on no chain (docs/audit-2026-11-15.md).
+              '25a_CallOfAir.lua': False}
 CHAIN_RACE = {}
 def _bn(f): return os.path.basename(f)
 CHAINS = {'Human': lambda f: not _bn(f).startswith('01') and _bn(f) not in ALTERNATES,
