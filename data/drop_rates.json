@@ -179,22 +179,22 @@
    "quests": [
     205
    ],
-   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-12",
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-16",
    "npcs": [
     {
      "id": 670,
      "name": "Skullsplitter Witch Doctor",
-     "count": 65,
-     "outof": 466
+     "count": 154,
+     "outof": 1214
     },
     {
      "id": 780,
      "name": "Skullsplitter Mystic",
-     "count": 539,
-     "outof": 2939
+     "count": 1287,
+     "outof": 7213
     }
    ],
-   "overall_pct": 17.7
+   "overall_pct": 17.1
   },
   "2476": {
    "name": "Chilled Basilisk Haunch",
@@ -22961,6 +22961,84 @@
     "outof": 484568
    },
    "overall_pct": 0.97
+  },
+  "270333": {
+   "name": "Voodoo-Infused Artifact",
+   "quests": [
+    95789
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-16; Drowned City dungeon; droppers without a sample (268439, 270912) not stored",
+   "npcs": [
+    {
+     "id": 259979,
+     "name": "Saltseer Murderer",
+     "count": 3090,
+     "outof": 7607
+    },
+    {
+     "id": 259981,
+     "name": "Saltseer Cultist",
+     "count": 1285,
+     "outof": 3001
+    },
+    {
+     "id": 259987,
+     "name": "Saltseer Manhunter",
+     "count": 2132,
+     "outof": 5151
+    },
+    {
+     "id": 260353,
+     "name": "Saltseer Coroner",
+     "count": 413,
+     "outof": 985
+    }
+   ],
+   "overall_pct": 41.3
+  },
+  "270343": {
+   "name": "I'lalai Fetish",
+   "quests": [
+    95788
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-16; Drowned City dungeon; dropper without a sample (268517) not stored",
+   "npcs": [
+    {
+     "id": 258792,
+     "name": "Risen Sentry",
+     "count": 656,
+     "outof": 7302
+    },
+    {
+     "id": 263196,
+     "name": "Profane Necromancer",
+     "count": 590,
+     "outof": 3538
+    },
+    {
+     "id": 263899,
+     "name": "Undying Offering",
+     "count": 136,
+     "outof": 1433
+    }
+   ],
+   "overall_pct": 11.3
+  },
+  "276894": {
+   "name": "Ancient Gurubashi Idol",
+   "quests": [
+    97130
+   ],
+   "source": "wowhead.com/forever/item page, dropped-by listview (count/outof), 2026-11-16; Drowned City dungeon; droppers without a sample (269586, 273738) not stored",
+   "npcs": [
+    {
+     "id": 260202,
+     "name": "Deathless Marrow",
+     "count": 955,
+     "outof": 1842
+    }
+   ],
+   "overall_pct": 51.8
   }
  }
 }
