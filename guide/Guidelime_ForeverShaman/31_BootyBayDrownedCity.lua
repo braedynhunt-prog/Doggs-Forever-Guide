@@ -29,7 +29,7 @@ At [TAR2626 Old Man Heming], [V] buy Expert Fishing - The Bass and You (1g) (nee
 [OC]|cffffffffDalaran (optional, only with Magical Analysis)|r  -  a flight to Southshore, the ride to the Dalaran crater in the Alterac Mountains, then the hearth back to Booty Bay. It is also the only pass by Archmage Timear before the run
 [O]At [TAR2859 Gyll], |cFFfff8a3Fly to [F Southshore]|r (the game routes it) [G27.5,77.8 Stranglethorn Vale]
 [O]Ride from Southshore to the Dalaran crater. At [TAR2543 Archmage Ansirem Runeweaver], [QT602] (1,400 XP) [QA603 Ansirem's Key] (1,400 XP: back to Catelyn in Booty Bay) [G18.8,78.5 Alterac Mountains]
-[O]At [TAR31439 Archmage Timear], [QA97130 Ancient Gurubashi Secrets] (3,900 XP, needs level 34: an Ancient Gurubashi Idol from the Drowned City; the data does not say what gives it) [G16.2,71.7 Alterac Mountains]
+[O]At [TAR31439 Archmage Timear], [QA97130 Ancient Gurubashi Secrets] (3,900 XP, needs level 34: an Ancient Gurubashi Idol from the Drowned City; Deathless Marrow drops it) [G16.2,71.7 Alterac Mountains]
 [O]|cFFfff8a3Hearth to [H Booty Bay]|r [G16.2,71.7 Alterac Mountains]
 
 [OC]|cffffffffBack in Booty Bay|r  -  Krazek's quests (level 34), then Catelyn and Duncan if you are on the Stone of the Tides chain
@@ -43,7 +43,7 @@ At [TAR773 Krazek], [QA95791 The Saltseer Captain] (3,900 XP, needs level 34: 3 
 [OC]|cffffffffThe Drowned City|r  -  |cFFFF0000GROUP 3+|r, required. Forever caps the instance at 5: bring the tank friend and a healer. Food, water and repair in Booty Bay first. The quests are level 40; the layout, the bosses and the mob levels are not in any data file. About 3,900 plain quest XP rides on the run and up to 7,800 more on the optional quests. Your quests, with the honest label:
 [OC]|cffffcc00?|r The Saltseer Captain (95791) - 3 Saltseer Coroners and Captain Dreadrise - |cff66ff66normal|r
 [OC]|cffffcc00?|r Shady Saltseers (95789) - 10 Voodoo-Infused Artifacts - |cffffcc00grind|r: about 40% from each Saltseer pirate (Murderer, Cultist, Manhunter, Coroner), ~25 kills, and the run's own Saltseer kills count. One run: short at the exit = abandon
-[OC]|cffffcc00?|r Ancient Gurubashi Secrets (97130, only if you took it from Timear) - the Ancient Gurubashi Idol - |cffffcc00luck|r: the data does not say whether an object or a boss gives it. One run only
+[OC]|cffffcc00?|r Ancient Gurubashi Secrets (97130, only if you took it from Timear) - the Ancient Gurubashi Idol - |cffffcc00luck|r: Deathless Marrow drops it, 51.8% on Wowhead (16 Nov). One kill only
 [O]On the way north, at the Altar of the Tides use Catelyn's Blade on it, then kill [TAR2624 Gazban] (level 40) for the Stone of the Tides [QC611] (the altar-then-Gazban order is Classic knowledge, unverified) [G25.0,23.6 Stranglethorn Vale]
 |cFFFF0000GROUP 3+|r Swim north past the Vile Reef to the Sunken Hollow by the isle of water elementals and enter the underwater cave beside a large stone tablet (community guides; the entrance is not in the data and is unverified in game). Water Breathing helps [G21.4,27.9 Stranglethorn Vale]
 Kill 3 [TAR260353 Saltseer Coroner] and [TAR260042 Captain Dreadrise] (|cff66ff66normal|r; the data also lists a second Captain Dreadrise, 270884) [QC95791] [G21.4,27.9 Stranglethorn Vale]

@@ -11,7 +11,7 @@ At [TAR2835 Cedrik Prose], |cFFfff8a3Fly to [F Southshore]|r (direct) [G45.7,46.
 Leave Southshore north-west to the Hillsbrad Fields [G33,42 Hillsbrad Foothills]
 Go on north-west through the pass into the Alterac Mountains [G18,72 Alterac Mountains]
 At [TAR264265 Magus Olvek], [QA96800 Past Due] (2,850 XP + 45s, requires level 30: The Lost Magic of the Runemasters from the Scarlet Monastery Library - carried to chapter 34, handed in to Olvek on a later crater visit) [G9.8,63.4 Alterac Mountains]
-At [TAR31439 Archmage Timear], [QA97130 Ancient Gurubashi Secrets] (3,900 XP + 50s, requires level 34: an Ancient Gurubashi Idol from the Drowned City; the data does not say what gives it - carried to the Drowned City dungeon chapter at 37-38) [G16.2,71.7 Alterac Mountains]
+At [TAR31439 Archmage Timear], [QA97130 Ancient Gurubashi Secrets] (3,900 XP + 50s, requires level 34: an Ancient Gurubashi Idol from the Drowned City; Deathless Marrow drops it - carried to the Drowned City dungeon chapter at 37-38) [G16.2,71.7 Alterac Mountains]
 [OC]Starving Arcane (92457) is still in your log: the Image of Archmage Modera, who takes it, stands about 150 yards east of Olvek - for the day you run the City of Dalaran again
 Back through the pass and south-east across the Hillsbrad Fields to Southshore; stay south of Tarren Mill, the Horde town in the north [G49.3,52.3 Hillsbrad Foothills]
 At [TAR2432 Darla Harris], |cFFfff8a3Fly to [F Ironforge]|r (direct) [G49.3,52.3 Hillsbrad Foothills]

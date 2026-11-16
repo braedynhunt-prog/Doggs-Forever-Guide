@@ -285,7 +285,11 @@ ALTERNATES = {'11s_DarkshoreShort.lua': '11_Darkshore.lua',   # alternate chapte
               # optional Crone of the Kraul 1100/1101) and the level-33 catch-up written against the Questie log of
               # 15 Nov (its pickups repeat chapters 27 and 29). On no chain (docs/audit-2026-11-15.md, second part).
               '26d_DungeonRazorfenKraul.lua': False,
-              '29b_BackOnTrack33.lua': False}
+              '29b_BackOnTrack33.lua': False,
+              # 16 Nov 2026: standalone Drowned City dungeon chapter for level 37-38, played between chapters 34 and 35
+              # (its quests repeat chapter 31's, plus the optional Troll Witchery 205 and Dibbs chain 95786-95799).
+              # On no chain (docs/audit-2026-11-16.md).
+              '31d_DungeonDrownedCity.lua': False}
 CHAIN_RACE = {}
 def _bn(f): return os.path.basename(f)
 CHAINS = {'Human': lambda f: not _bn(f).startswith('01') and _bn(f) not in ALTERNATES,
