@@ -40,6 +40,7 @@ At the Discs of Norgannon, [QT2278] (4,200 XP) [QA2279 The Platinum Discs] (5,25
 
 [OC]|cffffffffBadlands hand-ins|r  -  out of the cave and south down the Badlands, then north to Loch Modan
 [O]Only with the amulet: at [TAR2910 Prospector Ryedol], [QT723] (2,350 XP) [QA724 Prospect of Faith] (3,150 XP: the amulet to Historian Karnik in Ironforge) [G53.4,43.4 Badlands]
+[O]Only if Barbecued Buzzard Wings is still in your log from chapter 35: at [TAR2817 Rigglefuzz], [QT703] (2,350 XP; the 4 Buzzard Wings must be in your bags - wings in the bank count in the quest log but not at the hand-in) [G42.4,52.9 Badlands]
 [OC][A Shaman] |cffffcc00Gear (709):|r take the |cff66ff66Doomsayer's Robe|r (cloth chest -11 Sta +18 Spi, +6 spell damage): it replaces the Old Leather Jacket or Baroque Apron, unless you now wear a mail chest that scores higher. The conservative set prefers the Doomcaller's Pants (leather legs +13 Str +9 Int): take them instead only if your legs are weak. Fists of Impending Doom (mail hands +7 Int +20 AP) are below the Traveled Gloves - pass
 At [TAR2785 Theldurin the Lost], [QT709] (3,150 XP) [QA727 To Ironforge for Yagyin's Digest] (780 XP: the Sigil of the Hammer to Gerrig Bonegrip in Ironforge) [G51.4,76.9 Badlands]
 [OC][A Shaman] |cffffcc00Gear (704):|r all three gloves are below the Traveled Gloves: take the Excavator Gauntlets (mail +8 Str +8 Spi) for the best sell price (33s 77c)
